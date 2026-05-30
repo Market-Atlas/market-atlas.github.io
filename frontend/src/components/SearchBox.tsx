@@ -5,6 +5,7 @@ import Link from 'next/link';
 import MiniSearch from 'minisearch';
 import type { SearchHit } from '@/lib/types';
 import { BP } from '@/lib/basePath';
+import CompanyLogo from '@/components/CompanyLogo';
 
 export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }) {
   const [hits, setHits] = useState<SearchHit[]>([]);
@@ -17,7 +18,7 @@ export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }
       new MiniSearch<SearchHit>({
         idField: 'ticker',
         fields: ['ticker', 'name', 'sector', 'country', 'exchange'],
-        storeFields: ['type', 'ticker', 'name', 'exchange', 'country', 'sector', 'currency'],
+        storeFields: ['type', 'ticker', 'name', 'exchange', 'country', 'sector', 'currency', 'domain'],
         searchOptions: { boost: { ticker: 4, name: 2 }, prefix: true, fuzzy: 0.2 },
       }),
     [],
@@ -71,6 +72,7 @@ export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }
                 }`}
               >
                 <span className="flex items-center gap-3">
+                  <CompanyLogo domain={h.domain} ticker={h.ticker} name={h.name} size={20} />
                   <span className="rounded bg-atlas-border px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-atlas-muted">
                     {h.type}
                   </span>

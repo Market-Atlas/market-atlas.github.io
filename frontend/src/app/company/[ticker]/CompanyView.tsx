@@ -9,6 +9,15 @@ import { SUPPORTED_DISPLAY_CCYS, convert, formatMoney, formatPercent } from '@/l
 import WatchlistButton from './WatchlistButton';
 import Link from 'next/link';
 import { BP } from '@/lib/basePath';
+import CompanyLogo from '@/components/CompanyLogo';
+
+function domainOf(website?: string | null): string | null {
+  if (!website) return null;
+  try {
+    const u = new URL(website.startsWith('http') ? website : `https://${website}`);
+    return u.hostname.replace(/^www\./, '');
+  } catch { return null; }
+}
 
 const SERIES = [
   { key: 'revenue',      label: 'Revenue',        color: '#5eead4' },
@@ -102,31 +111,51 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
     <div className="space-y-6">
       {/* Header */}
       <header className="flex flex-wrap items-start justify-between gap-4 border-b border-atlas-border pb-4">
-        <div>
-          <div className="flex flex-wrap items-center gap-2">
-            <h1 className="text-2xl font-semibold tracking-tight">{company.name}</h1>
-            <span className="rounded bg-atlas-border px-2 py-0.5 font-mono text-sm">{company.ticker}</span>
-            {company.price?.value != null && (
-              <span className="num text-lg font-semibold text-atlas-text">
-                {formatMoney(
-                  convert(company.price.value, company.price.currency, displayCcy, fx),
-                  displayCcy,
-                  { compact: false },
-                )}
+        <div className="flex items-start gap-3">
+          <CompanyLogo
+            domain={domainOf(company.website)}
+            name={company.name}
+            ticker={company.ticker}
+            size={48}
+          />
+          <div>
+            <div className="flex flex-wrap items-center gap-2">
+              <h1 className="text-2xl font-semibold tracking-tight">{company.name}</h1>
+              <span className="rounded bg-atlas-border px-2 py-0.5 font-mono text-sm">{company.ticker}</span>
+              {company.price?.value != null && (
+                <span className="num text-lg font-semibold text-atlas-text">
+                  {formatMoney(
+                    convert(company.price.value, company.price.currency, displayCcy, fx),
+                    displayCcy,
+                    { compact: false },
+                  )}
+                </span>
+              )}
+              <span className="rounded bg-atlas-border/60 px-2 py-0.5 text-[10px] uppercase tracking-wide text-atlas-muted">
+                {company.exchange} · {company.country}
               </span>
+            </div>
+            <p className="mt-1 text-sm text-atlas-muted">
+              {[
+                company.sector,
+                company.industry,
+                `Reports in ${company.currency}`,
+                company.price?.asOf && `Price as of ${company.price.asOf}`,
+              ].filter(Boolean).join(' · ')}
+            </p>
+            {company.tags && company.tags.length > 0 && (
+              <div className="mt-2 flex flex-wrap gap-1.5">
+                {company.tags
+                  .filter(t => !t.startsWith('country-'))
+                  .map(t => (
+                    <Link key={t} href={`${BP}/tags/${t}/`}
+                          className="rounded-full border border-atlas-border bg-atlas-surface px-2 py-0.5 text-[11px] text-atlas-muted hover:border-atlas-accent/40 hover:text-atlas-accent">
+                      {t}
+                    </Link>
+                  ))}
+              </div>
             )}
-            <span className="rounded bg-atlas-border/60 px-2 py-0.5 text-[10px] uppercase tracking-wide text-atlas-muted">
-              {company.exchange} · {company.country}
-            </span>
           </div>
-          <p className="mt-1 text-sm text-atlas-muted">
-            {[
-              company.sector,
-              company.industry,
-              `Reports in ${company.currency}`,
-              company.price?.asOf && `Price as of ${company.price.asOf}`,
-            ].filter(Boolean).join(' · ')}
-          </p>
         </div>
         <div className="flex items-center gap-2">
           <label className="text-xs text-atlas-muted">Display</label>

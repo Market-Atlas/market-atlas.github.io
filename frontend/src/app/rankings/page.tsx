@@ -5,6 +5,7 @@ import Link from 'next/link';
 import type { FxSnapshot, ScreenerRow } from '@/lib/types';
 import { convert, formatMoney, formatPercent } from '@/lib/fx';
 import { BP } from '@/lib/basePath';
+import CompanyLogo from '@/components/CompanyLogo';
 
 // Flag emoji from ISO 3166-1 alpha-2 (e.g. "US" → 🇺🇸)
 function flag(country?: string): string {
@@ -159,6 +160,7 @@ export default function RankingsPage() {
                 <td className="px-3 py-1.5 text-right text-atlas-muted">{r.rank}</td>
                 <td className="px-3 py-1.5 text-left">
                   <Link href={`${BP}/company/${r.ticker}/`} className="flex items-center gap-2 hover:text-atlas-accent">
+                    <CompanyLogo domain={r.domain} ticker={r.ticker} name={r.name} size={20} />
                     <span className="font-mono text-xs text-atlas-muted">{r.ticker}</span>
                     <span className="truncate">{r.name}</span>
                   </Link>

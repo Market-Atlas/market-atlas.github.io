@@ -12,6 +12,23 @@ from typing import Any
 
 import yfinance as yf
 
+from ..tags import derive_tags
+
+# FX snapshot used to size-bucket companies in USD.
+try:
+    import json as _json
+    from ..paths import DATA_DIR
+    _FX = _json.load(open(DATA_DIR / "fx" / "latest.json"))["rates"]
+except Exception:  # pragma: no cover
+    _FX = {"USD": 1.0}
+
+
+def _to_usd(value: float | None, currency: str | None) -> float | None:
+    if value is None or not currency:
+        return None
+    rate = _FX.get(currency.upper())
+    return value / rate if rate else None
+
 
 # ─── exchange / country inference ────────────────────────────────────────────
 
@@ -171,6 +188,7 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
         "sector":   info.get("sector"),
         "industry": info.get("industry"),
         "currency": currency,
+        "website":  (info.get("website") or "").strip() or None,
         "marketCap": {
             "value":    _safe(info.get("marketCap")) or 0,
             "currency": (info.get("currency") or currency).upper(),
@@ -210,6 +228,10 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             "lastUpdated": datetime.now(timezone.utc).isoformat(),
         },
     }
+    doc["tags"] = derive_tags(
+        doc,
+        market_cap_usd=_to_usd(doc["marketCap"]["value"], doc["marketCap"]["currency"]),
+    )
     return doc
 
 

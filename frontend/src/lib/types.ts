@@ -42,6 +42,8 @@ export interface Company {
   sector?: string;
   industry?: string;
   currency: Currency;
+  website?: string | null;
+  tags?: string[];
   marketCap?: MoneyAt;
   price?: { value: number | null; currency: Currency; asOf: string };
   fundamentals: Fundamentals;
@@ -78,6 +80,7 @@ export interface SearchHit {
   country?: string;
   sector?: string;
   currency?: Currency;
+  domain?: string | null;
 }
 
 export interface ScreenerRow {
@@ -86,6 +89,8 @@ export interface ScreenerRow {
   country?: string;
   sector?: string;
   currency?: Currency;
+  domain?: string | null;
+  tags?: string[];
   marketCap?: number | null;
   marketCapCurrency?: Currency;
   price?: number | null;
@@ -99,6 +104,8 @@ export interface ScreenerRow {
   revenueCagr?: number | null;
   fcfCagr?: number | null;
 }
+
+export interface TagInfo { count: number; tickers: string[]; }
 
 export interface FxSnapshot {
   asOf: string;

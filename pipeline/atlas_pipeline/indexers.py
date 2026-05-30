@@ -15,11 +15,23 @@ from .paths import (
 
 
 PEERS_PATH = DATA_DIR / "peers.json"
+TAGS_PATH  = DATA_DIR / "tags.json"
 
 
 def _load_json(path) -> dict[str, Any]:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def _domain(website: str | None) -> str | None:
+    if not website:
+        return None
+    s = website.strip().lower()
+    s = s.split("//", 1)[-1]           # drop scheme
+    s = s.split("/", 1)[0]             # drop path
+    if s.startswith("www."):
+        s = s[4:]
+    return s or None
 
 
 def build_search_index() -> list[dict[str, Any]]:
@@ -40,6 +52,7 @@ def build_search_index() -> list[dict[str, Any]]:
             "country": c.get("country"),
             "sector": c.get("sector"),
             "currency": c.get("currency"),
+            "domain": _domain(c.get("website")),
         })
 
     if ETFS_DIR.exists():
@@ -106,6 +119,8 @@ def build_screener() -> list[dict[str, Any]]:
             "country": c.get("country"),
             "sector": c.get("sector"),
             "currency": c.get("currency"),
+            "domain": _domain(c.get("website")),
+            "tags": c.get("tags") or [],
             "marketCap": (c.get("marketCap") or {}).get("value"),
             "marketCapCurrency": (c.get("marketCap") or {}).get("currency"),
             "price": (c.get("price") or {}).get("value"),
@@ -149,3 +164,18 @@ def write_artifacts() -> None:
         peers[row["ticker"]] = [r["ticker"] for r in same[:8]]
     with open(PEERS_PATH, "w", encoding="utf-8") as f:
         json.dump(peers, f, ensure_ascii=False, indent=2)
+
+    # Tag index: tag -> {count, tickers (top N by market cap)}
+    tag_buckets: dict[str, list[dict[str, Any]]] = {}
+    for row in screener:
+        for tag in row.get("tags") or []:
+            tag_buckets.setdefault(tag, []).append(row)
+    tag_index: dict[str, dict[str, Any]] = {}
+    for tag, members in tag_buckets.items():
+        members.sort(key=lambda r: (r.get("marketCap") or 0), reverse=True)
+        tag_index[tag] = {
+            "count":  len(members),
+            "tickers": [m["ticker"] for m in members],
+        }
+    with open(TAGS_PATH, "w", encoding="utf-8") as f:
+        json.dump(tag_index, f, ensure_ascii=False, indent=2)

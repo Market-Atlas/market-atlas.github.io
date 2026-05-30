@@ -15,6 +15,12 @@
     "sector":   { "type": "string" },
     "industry": { "type": "string" },
     "currency": { "type": "string", "description": "ISO 4217 reporting currency, e.g. USD, JPY, INR" },
+    "website":  { "type": "string", "description": "Company website (for logo lookup)" },
+    "tags":     {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Auto-derived classifications (e.g. ['software', 'ai', 'large-cap'])"
+    },
     "marketCap": {
       "type": "object",
       "required": ["value", "currency", "asOf"],
