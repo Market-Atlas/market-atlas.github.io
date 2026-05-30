@@ -8,8 +8,7 @@ import type { Company, FxSnapshot, HistoricalYear } from '@/lib/types';
 import { SUPPORTED_DISPLAY_CCYS, convert, formatMoney, formatPercent } from '@/lib/fx';
 import WatchlistButton from './WatchlistButton';
 import Link from 'next/link';
-
-const BP = process.env.NEXT_PUBLIC_BASE_PATH || '';
+import { BP } from '@/lib/basePath';
 
 const SERIES = [
   { key: 'revenue',      label: 'Revenue',        color: '#5eead4' },

@@ -4,8 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import type { ScreenerRow } from '@/lib/types';
 import { formatMoney, formatPercent } from '@/lib/fx';
-
-const BP = process.env.NEXT_PUBLIC_BASE_PATH || '';
+import { BP } from '@/lib/basePath';
 
 type Filters = {
   minMarketCap: number;        // in row currency, compact billions

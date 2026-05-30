@@ -4,8 +4,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import MiniSearch from 'minisearch';
 import type { SearchHit } from '@/lib/types';
-
-const BP = process.env.NEXT_PUBLIC_BASE_PATH || '';
+import { BP } from '@/lib/basePath';
 
 export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }) {
   const [hits, setHits] = useState<SearchHit[]>([]);

@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import { BP } from '@/lib/basePath';
 
-const BP = process.env.NEXT_PUBLIC_BASE_PATH || '';
 const KEY = 'atlas:watchlist';
 type WatchItem = { kind: 'company' | 'etf'; ticker: string };
 
