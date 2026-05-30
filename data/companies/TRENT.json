@@ -1,0 +1,128 @@
+{
+  "ticker": "TRENT",
+  "name": "Trent Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1501579051008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4224.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 200742100000.0,
+    "operatingIncome": 23122000000.0,
+    "netIncome": 17196500000.0,
+    "eps": null,
+    "freeCashFlow": 9047700000.0,
+    "totalDebt": 25612500000.0,
+    "cash": 2813600000.0,
+    "sharesOutstanding": 355487461.0
+  },
+  "ratios": {
+    "roe": 0.24620311882577298,
+    "roic": 0.24221841140674613,
+    "grossMargin": 0.4388466594700364,
+    "operatingMargin": 0.11518261490738614,
+    "netMargin": 0.08566464134827721,
+    "debtToEquity": 0.36034
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.98,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 81123300000.0,
+      "operatingIncome": 6134300000.0,
+      "netIncome": 4446300000.0,
+      "eps": 12.51,
+      "freeCashFlow": 914800000.0,
+      "totalDebt": 44641400000.0,
+      "cash": 832300000.0,
+      "sharesOutstanding": 355487461.0,
+      "grossMargin": 0.40924000872745564,
+      "operatingMargin": 0.07561699289846444,
+      "netMargin": 0.05480916086993502,
+      "roe": 0.17130869315620556,
+      "roic": 0.08689265584740277
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 122053100000.0,
+      "operatingIncome": 12839200000.0,
+      "netIncome": 14868000000.0,
+      "eps": 41.82,
+      "freeCashFlow": 6120300000.0,
+      "totalDebt": 17529900000.0,
+      "cash": 2945500000.0,
+      "sharesOutstanding": 355487461.0,
+      "grossMargin": 0.42271683390262105,
+      "operatingMargin": 0.10519355919677582,
+      "netMargin": 0.12181583261711501,
+      "roe": 0.36551008668203966,
+      "roic": 0.22057714410391824
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 171346100000.0,
+      "operatingIncome": 18632700000.0,
+      "netIncome": 15467200000.0,
+      "eps": 43.51,
+      "freeCashFlow": 3927100000.0,
+      "totalDebt": 22371900000.0,
+      "cash": 3384700000.0,
+      "sharesOutstanding": 355487461.0,
+      "grossMargin": 0.43452812757337345,
+      "operatingMargin": 0.10874306447593496,
+      "netMargin": 0.09026876012935223,
+      "roe": 0.28319180334472166,
+      "roic": 0.24201674778183463
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 200742100000.0,
+      "operatingIncome": 23122000000.0,
+      "netIncome": 17196500000.0,
+      "eps": null,
+      "freeCashFlow": 9047700000.0,
+      "totalDebt": 25612500000.0,
+      "cash": 2813600000.0,
+      "sharesOutstanding": 355487461.0,
+      "grossMargin": 0.4388466594700364,
+      "operatingMargin": 0.11518261490738614,
+      "netMargin": 0.08566464134827721,
+      "roe": 0.24620311882577298,
+      "roic": 0.24221841140674613
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:08.874364+00:00"
+  }
+}

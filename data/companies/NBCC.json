@@ -1,0 +1,128 @@
+{
+  "ticker": "NBCC",
+  "name": "NBCC (India) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 270702002176.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 100.26,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 128886142000.0,
+    "operatingIncome": 7201186000.0,
+    "netIncome": 7200313000.0,
+    "eps": 2.67,
+    "freeCashFlow": 4021047000.0,
+    "totalDebt": 2579000.0,
+    "cash": 34873964000.0,
+    "sharesOutstanding": 2700000000.0
+  },
+  "ratios": {
+    "roe": 0.2386372667728689,
+    "roic": 0.23864580207491548,
+    "grossMargin": 0.0982154698990059,
+    "operatingMargin": 0.05587246144740681,
+    "netMargin": 0.05586568802718914,
+    "debtToEquity": 8e-05
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 87706364000.0,
+      "operatingIncome": 4048822000.0,
+      "netIncome": 2666650000.0,
+      "eps": 0.986667,
+      "freeCashFlow": -3852906000.0,
+      "totalDebt": 4529000.0,
+      "cash": 23424390000.0,
+      "sharesOutstanding": 2700000000.0,
+      "grossMargin": 0.08176408954770945,
+      "operatingMargin": 0.046163377608493726,
+      "netMargin": 0.030404293125183026,
+      "roe": 0.13713798303256558,
+      "roic": 0.20817054673212632
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 103283783000.0,
+      "operatingIncome": 5381662000.0,
+      "netIncome": 4015572000.0,
+      "eps": 1.49,
+      "freeCashFlow": -504419000.0,
+      "totalDebt": 6322000.0,
+      "cash": 20320825000.0,
+      "sharesOutstanding": 2700000000.0,
+      "grossMargin": 0.08576073360907006,
+      "operatingMargin": 0.052105585636808054,
+      "netMargin": 0.03887901743490554,
+      "roe": 0.1804248460530307,
+      "roic": 0.24173637087437297
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 120437786000.0,
+      "operatingIncome": 8356121000.0,
+      "netIncome": 5411300000.0,
+      "eps": 2.0,
+      "freeCashFlow": 3413224000.0,
+      "totalDebt": 4026000.0,
+      "cash": 29986866000.0,
+      "sharesOutstanding": 2700000000.0,
+      "grossMargin": 0.10855190413413943,
+      "operatingMargin": 0.06938122392917452,
+      "netMargin": 0.04493025137476373,
+      "roe": 0.21828058888039237,
+      "roic": 0.3370138128894624
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 128886142000.0,
+      "operatingIncome": 7201186000.0,
+      "netIncome": 7200313000.0,
+      "eps": 2.67,
+      "freeCashFlow": 4021047000.0,
+      "totalDebt": 2579000.0,
+      "cash": 34873964000.0,
+      "sharesOutstanding": 2700000000.0,
+      "grossMargin": 0.0982154698990059,
+      "operatingMargin": 0.05587246144740681,
+      "netMargin": 0.05586568802718914,
+      "roe": 0.2386372667728689,
+      "roic": 0.23864580207491548
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:30.947240+00:00"
+  }
+}

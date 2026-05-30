@@ -1,0 +1,128 @@
+{
+  "ticker": "AJG",
+  "name": "Arthur J. Gallagher & Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 51673604096.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 201.11,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13942000000.0,
+    "operatingIncome": 2556000000.0,
+    "netIncome": 1494000000.0,
+    "eps": 5.74,
+    "freeCashFlow": 1785000000.0,
+    "totalDebt": 13485000000.0,
+    "cash": 1396000000.0,
+    "sharesOutstanding": 257000000.0
+  },
+  "ratios": {
+    "roe": 0.06406243300030016,
+    "roic": 0.06944519915231212,
+    "grossMargin": 0.4257638789269832,
+    "operatingMargin": 0.18333094247597187,
+    "netMargin": 0.10715822694018075,
+    "debtToEquity": 0.5618
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8550600000.0,
+      "operatingIncome": 1666900000.0,
+      "netIncome": 1114200000.0,
+      "eps": 5.19,
+      "freeCashFlow": 1207300000.0,
+      "totalDebt": 6415100000.0,
+      "cash": 738400000.0,
+      "sharesOutstanding": 211900000.0,
+      "grossMargin": 0.4207190138703717,
+      "operatingMargin": 0.19494538394966435,
+      "netMargin": 0.13030664514770893,
+      "roe": 0.12185572422240692,
+      "roic": 0.10713620032521998
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10072000000.0,
+      "operatingIncome": 1860000000.0,
+      "netIncome": 970000000.0,
+      "eps": 4.42,
+      "freeCashFlow": 1838000000.0,
+      "totalDebt": 8317200000.0,
+      "cash": 971500000.0,
+      "sharesOutstanding": 216700000.0,
+      "grossMargin": 0.4215647339158062,
+      "operatingMargin": 0.1846703733121525,
+      "netMargin": 0.09630659253375695,
+      "roe": 0.0900206954794762,
+      "roic": 0.0974204530574833
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11555000000.0,
+      "operatingIncome": 2282000000.0,
+      "netIncome": 1463000000.0,
+      "eps": 6.5,
+      "freeCashFlow": 2441000000.0,
+      "totalDebt": 13485000000.0,
+      "cash": 14987000000.0,
+      "sharesOutstanding": 250000000.0,
+      "grossMargin": 0.42224145391605367,
+      "operatingMargin": 0.19749026395499783,
+      "netMargin": 0.12661185633924707,
+      "roe": 0.07259104892329066,
+      "roic": 0.06783792621659383
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13942000000.0,
+      "operatingIncome": 2556000000.0,
+      "netIncome": 1494000000.0,
+      "eps": 5.74,
+      "freeCashFlow": 1785000000.0,
+      "totalDebt": 13485000000.0,
+      "cash": 1396000000.0,
+      "sharesOutstanding": 257000000.0,
+      "grossMargin": 0.4257638789269832,
+      "operatingMargin": 0.18333094247597187,
+      "netMargin": 0.10715822694018075,
+      "roe": 0.06406243300030016,
+      "roic": 0.06944519915231212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:40.018832+00:00"
+  }
+}

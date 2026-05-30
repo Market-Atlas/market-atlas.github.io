@@ -1,0 +1,128 @@
+{
+  "ticker": "SO",
+  "name": "The Southern Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 103768072192.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 92.05,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29553000000.0,
+    "operatingIncome": 7285000000.0,
+    "netIncome": 4341000000.0,
+    "eps": 3.92,
+    "freeCashFlow": -2935000000.0,
+    "totalDebt": 74075000000.0,
+    "cash": 1639000000.0,
+    "sharesOutstanding": 1120237015.0
+  },
+  "ratios": {
+    "roe": 0.1205297645490893,
+    "roic": 0.06617252999791082,
+    "grossMargin": 0.4846885256995906,
+    "operatingMargin": 0.24650627685852536,
+    "netMargin": 0.14688864074713226,
+    "debtToEquity": 1.9043100000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29279000000.0,
+      "operatingIncome": 5370000000.0,
+      "netIncome": 3535000000.0,
+      "eps": 3.26,
+      "freeCashFlow": -1621000000.0,
+      "totalDebt": 59135000000.0,
+      "cash": 1917000000.0,
+      "sharesOutstanding": 1100000000.0,
+      "grossMargin": 0.3629563851224427,
+      "operatingMargin": 0.1834079032753851,
+      "netMargin": 0.12073499777997883,
+      "roe": 0.11625230202578268,
+      "roic": 0.05997118702746167
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25253000000.0,
+      "operatingIncome": 5826000000.0,
+      "netIncome": 3976000000.0,
+      "eps": 3.62,
+      "freeCashFlow": -1542000000.0,
+      "totalDebt": 63490000000.0,
+      "cash": 748000000.0,
+      "sharesOutstanding": 1091814507.0,
+      "grossMargin": 0.46632083316833645,
+      "operatingMargin": 0.23070526274106046,
+      "netMargin": 0.15744664000316794,
+      "roe": 0.12644701691896706,
+      "roic": 0.061368951060736934
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 26724000000.0,
+      "operatingIncome": 7068000000.0,
+      "netIncome": 4401000000.0,
+      "eps": 3.99,
+      "freeCashFlow": 833000000.0,
+      "totalDebt": 66277000000.0,
+      "cash": 1070000000.0,
+      "sharesOutstanding": 1100000000.0,
+      "grossMargin": 0.5000374195479719,
+      "operatingMargin": 0.26448136506511,
+      "netMargin": 0.16468343062415805,
+      "roe": 0.13252830643218502,
+      "roic": 0.07104588631451977
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 29553000000.0,
+      "operatingIncome": 7285000000.0,
+      "netIncome": 4341000000.0,
+      "eps": 3.92,
+      "freeCashFlow": -2935000000.0,
+      "totalDebt": 74075000000.0,
+      "cash": 1639000000.0,
+      "sharesOutstanding": 1120237015.0,
+      "grossMargin": 0.4846885256995906,
+      "operatingMargin": 0.24650627685852536,
+      "netMargin": 0.14688864074713226,
+      "roe": 0.1205297645490893,
+      "roic": 0.06617252999791082
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:20.355973+00:00"
+  }
+}

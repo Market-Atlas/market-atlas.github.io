@@ -1,0 +1,128 @@
+{
+  "ticker": "BEL",
+  "name": "Bharat Electronics Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3002491731968.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 410.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 276101100000.0,
+    "operatingIncome": 74936600000.0,
+    "netIncome": 60620000000.0,
+    "eps": null,
+    "freeCashFlow": 5560100000.0,
+    "totalDebt": 654600000.0,
+    "cash": 18879600000.0,
+    "sharesOutstanding": 7309778829.0
+  },
+  "ratios": {
+    "roe": 0.25270642241992036,
+    "roic": 0.3115378587223541,
+    "grossMargin": 0.4917387145505759,
+    "operatingMargin": 0.2714100016262159,
+    "netMargin": 0.21955725638181087,
+    "debtToEquity": 0.0027300000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 3.281727,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 174041800000.0,
+      "operatingIncome": 37730400000.0,
+      "netIncome": 29844200000.0,
+      "eps": 4.09,
+      "freeCashFlow": 6088100000.0,
+      "totalDebt": 613400000.0,
+      "cash": 39456900000.0,
+      "sharesOutstanding": 7309778829.0,
+      "grossMargin": 0.4347794610260294,
+      "operatingMargin": 0.21678930004171412,
+      "netMargin": 0.1714771968573067,
+      "roe": 0.2153007979581045,
+      "roic": 0.2709939043178287
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 199054900000.0,
+      "operatingIncome": 47812300000.0,
+      "netIncome": 39845200000.0,
+      "eps": 5.45,
+      "freeCashFlow": 40069600000.0,
+      "totalDebt": 625100000.0,
+      "cash": 12063200000.0,
+      "sharesOutstanding": 7309778829.0,
+      "grossMargin": 0.46850843661723474,
+      "operatingMargin": 0.24019654879131336,
+      "netMargin": 0.20017191237191348,
+      "roe": 0.24405275604585683,
+      "roic": 0.2917344459508768
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 237687500000.0,
+      "operatingIncome": 63663200000.0,
+      "netIncome": 53214400000.0,
+      "eps": 7.28,
+      "freeCashFlow": -4470100000.0,
+      "totalDebt": 612300000.0,
+      "cash": 7134500000.0,
+      "sharesOutstanding": 7309778829.0,
+      "grossMargin": 0.48725826978701026,
+      "operatingMargin": 0.2678441230607415,
+      "netMargin": 0.22388388114646332,
+      "roe": 0.26641981106334317,
+      "roic": 0.31775801692228445
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 276101100000.0,
+      "operatingIncome": 74936600000.0,
+      "netIncome": 60620000000.0,
+      "eps": null,
+      "freeCashFlow": 5560100000.0,
+      "totalDebt": 654600000.0,
+      "cash": 18879600000.0,
+      "sharesOutstanding": 7309778829.0,
+      "grossMargin": 0.4917387145505759,
+      "operatingMargin": 0.2714100016262159,
+      "netMargin": 0.21955725638181087,
+      "roe": 0.25270642241992036,
+      "roic": 0.3115378587223541
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:00.545291+00:00"
+  }
+}

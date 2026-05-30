@@ -1,0 +1,111 @@
+{
+  "ticker": "MDT",
+  "name": "Medtronic plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 94763540480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 73.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33537000000.0,
+    "operatingIncome": 6540000000.0,
+    "netIncome": 4662000000.0,
+    "eps": 3.61,
+    "freeCashFlow": 5185000000.0,
+    "totalDebt": 28516000000.0,
+    "cash": 2218000000.0,
+    "sharesOutstanding": 1281934628.0
+  },
+  "ratios": {
+    "roe": 0.09707646176911544,
+    "roic": 0.08544551868304155,
+    "grossMargin": 0.6531591973044697,
+    "operatingMargin": 0.19500849807675105,
+    "netMargin": 0.13901064495929868,
+    "debtToEquity": 0.5706
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 31686000000.0,
+      "operatingIncome": 5908000000.0,
+      "netIncome": 5039000000.0,
+      "eps": 3.73,
+      "freeCashFlow": 5978000000.0,
+      "totalDebt": 24114000000.0,
+      "cash": 3714000000.0,
+      "sharesOutstanding": 1330743395.0,
+      "grossMargin": 0.679827052957142,
+      "operatingMargin": 0.1864545856214101,
+      "netMargin": 0.1590292242630815,
+      "roe": 0.09588780422827349,
+      "roic": 0.07706254483793126
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 31227000000.0,
+      "operatingIncome": 5830000000.0,
+      "netIncome": 3758000000.0,
+      "eps": 2.82,
+      "freeCashFlow": 4580000000.0,
+      "totalDebt": 24364000000.0,
+      "cash": 1543000000.0,
+      "sharesOutstanding": 1330809036.0,
+      "grossMargin": 0.6567393601690844,
+      "operatingMargin": 0.18669740929323983,
+      "netMargin": 0.12034457360617415,
+      "roe": 0.07299496921313832,
+      "roic": 0.07686526823737261
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 32364000000.0,
+      "operatingIncome": 5520000000.0,
+      "netIncome": 3676000000.0,
+      "eps": 2.76,
+      "freeCashFlow": 5200000000.0,
+      "totalDebt": 25024000000.0,
+      "cash": 1284000000.0,
+      "sharesOutstanding": 1311337531.0,
+      "grossMargin": 0.653442096156223,
+      "operatingMargin": 0.17055988134964775,
+      "netMargin": 0.11358299344951181,
+      "roe": 0.07320667542916318,
+      "roic": 0.0733671814774449
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 33537000000.0,
+      "operatingIncome": 6540000000.0,
+      "netIncome": 4662000000.0,
+      "eps": 3.61,
+      "freeCashFlow": 5185000000.0,
+      "totalDebt": 28516000000.0,
+      "cash": 2218000000.0,
+      "sharesOutstanding": 1281934628.0,
+      "grossMargin": 0.6531591973044697,
+      "operatingMargin": 0.19500849807675105,
+      "netMargin": 0.13901064495929868,
+      "roe": 0.09707646176911544,
+      "roic": 0.08544551868304155
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:53.923967+00:00"
+  }
+}

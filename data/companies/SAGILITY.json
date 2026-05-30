@@ -1,0 +1,111 @@
+{
+  "ticker": "SAGILITY",
+  "name": "Sagility Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 192121733120.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 41.04,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 71928510000.0,
+    "operatingIncome": 12729050000.0,
+    "netIncome": 9247680000.0,
+    "eps": null,
+    "freeCashFlow": 10107580000.0,
+    "totalDebt": 11105350000.0,
+    "cash": 3579160000.0,
+    "sharesOutstanding": 4681328413.0
+  },
+  "ratios": {
+    "roe": 0.0957406266859107,
+    "roic": 0.11819391786088884,
+    "grossMargin": 0.37295016955029375,
+    "operatingMargin": 0.17696807566290473,
+    "netMargin": 0.1285676569693992,
+    "debtToEquity": 0.13851000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 42184080000.0,
+      "operatingIncome": 3950470000.0,
+      "netIncome": 1435720000.0,
+      "eps": 0.306691,
+      "freeCashFlow": 7130960000.0,
+      "totalDebt": 28715990000.0,
+      "cash": 5852870000.0,
+      "sharesOutstanding": 4681328413.0,
+      "grossMargin": 0.40664653584954324,
+      "operatingMargin": 0.09364836213092712,
+      "netMargin": 0.03403464055634258,
+      "roe": 0.023131888758384126,
+      "roic": 0.04351567462916113
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 47535570000.0,
+      "operatingIncome": 3988790000.0,
+      "netIncome": 2282660000.0,
+      "eps": 0.487609,
+      "freeCashFlow": 7905260000.0,
+      "totalDebt": 25317120000.0,
+      "cash": 3441260000.0,
+      "sharesOutstanding": 4681328413.0,
+      "grossMargin": 0.4221161122081843,
+      "operatingMargin": 0.08391168970941129,
+      "netMargin": 0.048020040571723446,
+      "roe": 0.03542782325603341,
+      "roic": 0.04444413493722451
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 55699180000.0,
+      "operatingIncome": 8310260000.0,
+      "netIncome": 5391230000.0,
+      "eps": 1.17,
+      "freeCashFlow": 10896300000.0,
+      "totalDebt": 14019360000.0,
+      "cash": 3437580000.0,
+      "sharesOutstanding": 4681328413.0,
+      "grossMargin": 0.3718218113803471,
+      "operatingMargin": 0.1491989648680645,
+      "netMargin": 0.09679190968341006,
+      "roe": 0.0646736453482667,
+      "roic": 0.08533855549245789
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 71928510000.0,
+      "operatingIncome": 12729050000.0,
+      "netIncome": 9247680000.0,
+      "eps": null,
+      "freeCashFlow": 10107580000.0,
+      "totalDebt": 11105350000.0,
+      "cash": 3579160000.0,
+      "sharesOutstanding": 4681328413.0,
+      "grossMargin": 0.37295016955029375,
+      "operatingMargin": 0.17696807566290473,
+      "netMargin": 0.1285676569693992,
+      "roe": 0.0957406266859107,
+      "roic": 0.11819391786088884
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:50.668741+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CTVA",
+  "name": "Corteva, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "USD",
+  "marketCap": {
+    "value": 52355227648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 78.28,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17401000000.0,
+    "operatingIncome": 2619000000.0,
+    "netIncome": 1094000000.0,
+    "eps": 1.6,
+    "freeCashFlow": 2815000000.0,
+    "totalDebt": 2580000000.0,
+    "cash": 4521000000.0,
+    "sharesOutstanding": 672163000.0
+  },
+  "ratios": {
+    "roe": 0.045311464546056994,
+    "roic": 0.09800179613830265,
+    "grossMargin": 0.4729038561002241,
+    "operatingMargin": 0.1505085914602609,
+    "netMargin": 0.0628699500028734,
+    "debtToEquity": 0.1364
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17455000000.0,
+      "operatingIncome": 1928000000.0,
+      "netIncome": 1147000000.0,
+      "eps": 1.58,
+      "freeCashFlow": 267000000.0,
+      "totalDebt": 1307000000.0,
+      "cash": 3191000000.0,
+      "sharesOutstanding": 713419000.0,
+      "grossMargin": 0.4021197364651962,
+      "operatingMargin": 0.11045545688914352,
+      "netMargin": 0.06571183042108278,
+      "roe": 0.04533238479171607,
+      "roic": 0.07245668758690668
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17226000000.0,
+      "operatingIncome": 2110000000.0,
+      "netIncome": 735000000.0,
+      "eps": 1.03,
+      "freeCashFlow": 1174000000.0,
+      "totalDebt": 2489000000.0,
+      "cash": 2644000000.0,
+      "sharesOutstanding": 701260000.0,
+      "grossMargin": 0.42412632067804484,
+      "operatingMargin": 0.1224892604202949,
+      "netMargin": 0.04266805990943922,
+      "roe": 0.029356552302592164,
+      "roic": 0.07665479909903364
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16908000000.0,
+      "operatingIncome": 2096000000.0,
+      "netIncome": 907000000.0,
+      "eps": 1.3,
+      "freeCashFlow": 1548000000.0,
+      "totalDebt": 2703000000.0,
+      "cash": 3106000000.0,
+      "sharesOutstanding": 685595000.0,
+      "grossMargin": 0.43642062928791103,
+      "operatingMargin": 0.12396498698840785,
+      "netMargin": 0.05364324580080435,
+      "roe": 0.03812686535793854,
+      "roic": 0.07911822436962102
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17401000000.0,
+      "operatingIncome": 2619000000.0,
+      "netIncome": 1094000000.0,
+      "eps": 1.6,
+      "freeCashFlow": 2815000000.0,
+      "totalDebt": 2580000000.0,
+      "cash": 4521000000.0,
+      "sharesOutstanding": 672163000.0,
+      "grossMargin": 0.4729038561002241,
+      "operatingMargin": 0.1505085914602609,
+      "netMargin": 0.0628699500028734,
+      "roe": 0.045311464546056994,
+      "roic": 0.09800179613830265
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:07.993281+00:00"
+  }
+}

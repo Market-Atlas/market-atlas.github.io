@@ -1,0 +1,128 @@
+{
+  "ticker": "AWL",
+  "name": "AWL Agri Business Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 248793350144.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 192.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 747306700000.0,
+    "operatingIncome": 16819800000.0,
+    "netIncome": 10420500000.0,
+    "eps": null,
+    "freeCashFlow": 30949700000.0,
+    "totalDebt": 81225200000.0,
+    "cash": 16770100000.0,
+    "sharesOutstanding": 1299678605.0
+  },
+  "ratios": {
+    "roe": 0.09980633519527389,
+    "roic": 0.09060810505062694,
+    "grossMargin": 0.10468031398621208,
+    "operatingMargin": 0.02250722494526009,
+    "netMargin": 0.013944074099696951,
+    "debtToEquity": 0.10621
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.89,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 581009800000.0,
+      "operatingIncome": 7960600000.0,
+      "netIncome": 5821200000.0,
+      "eps": 4.48,
+      "freeCashFlow": -159500000.0,
+      "totalDebt": 88844700000.0,
+      "cash": 3948300000.0,
+      "sharesOutstanding": 1299678605.0,
+      "grossMargin": 0.08054700626392189,
+      "operatingMargin": 0.013701317946788505,
+      "netMargin": 0.010019108111429446,
+      "roe": 0.07128800171447816,
+      "roic": 0.046689133629947296
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 511173600000.0,
+      "operatingIncome": 11662800000.0,
+      "netIncome": 1479900000.0,
+      "eps": 1.14,
+      "freeCashFlow": -6431300000.0,
+      "totalDebt": 68083300000.0,
+      "cash": 2586000000.0,
+      "sharesOutstanding": 1299678605.0,
+      "grossMargin": 0.10310939375585906,
+      "operatingMargin": 0.022815732267863598,
+      "netMargin": 0.0028951025639821775,
+      "roe": 0.01779583669533032,
+      "roic": 0.07711288838109746
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 636722400000.0,
+      "operatingIncome": 21428400000.0,
+      "netIncome": 12250800000.0,
+      "eps": 9.43,
+      "freeCashFlow": 11541500000.0,
+      "totalDebt": 76695500000.0,
+      "cash": 5437000000.0,
+      "sharesOutstanding": 1299678605.0,
+      "grossMargin": 0.11833775598282706,
+      "operatingMargin": 0.03365422670853106,
+      "netMargin": 0.01924040994945364,
+      "roe": 0.12999851439971136,
+      "roic": 0.12536103221428216
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 747306700000.0,
+      "operatingIncome": 16819800000.0,
+      "netIncome": 10420500000.0,
+      "eps": null,
+      "freeCashFlow": 30949700000.0,
+      "totalDebt": 81225200000.0,
+      "cash": 16770100000.0,
+      "sharesOutstanding": 1299678605.0,
+      "grossMargin": 0.10468031398621208,
+      "operatingMargin": 0.02250722494526009,
+      "netMargin": 0.013944074099696951,
+      "roe": 0.09980633519527389,
+      "roic": 0.09060810505062694
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:57.214806+00:00"
+  }
+}

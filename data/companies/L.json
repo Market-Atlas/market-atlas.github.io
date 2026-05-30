@@ -1,0 +1,128 @@
+{
+  "ticker": "L",
+  "name": "Loews Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21307367424.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 103.55,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18176000000.0,
+    "operatingIncome": null,
+    "netIncome": 1667000000.0,
+    "eps": 7.97,
+    "freeCashFlow": 2700000000.0,
+    "totalDebt": 9489000000.0,
+    "cash": 495000000.0,
+    "sharesOutstanding": 206003999.0
+  },
+  "ratios": {
+    "roe": 0.08921117414106818,
+    "roic": null,
+    "grossMargin": 0.36041,
+    "operatingMargin": 0.11833,
+    "netMargin": 0.0917143485915493,
+    "debtToEquity": 0.45603
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14050000000.0,
+      "operatingIncome": null,
+      "netIncome": 822000000.0,
+      "eps": 3.38,
+      "freeCashFlow": 2654000000.0,
+      "totalDebt": 9019000000.0,
+      "cash": 532000000.0,
+      "sharesOutstanding": 236159866.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.058505338078291814,
+      "roe": 0.05728622203637884,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15678000000.0,
+      "operatingIncome": null,
+      "netIncome": 1434000000.0,
+      "eps": 6.29,
+      "freeCashFlow": 3221000000.0,
+      "totalDebt": 9003000000.0,
+      "cash": 399000000.0,
+      "sharesOutstanding": 222268150.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09146574818216609,
+      "roe": 0.0913143148242486,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17239000000.0,
+      "operatingIncome": null,
+      "netIncome": 1414000000.0,
+      "eps": 6.41,
+      "freeCashFlow": 2393000000.0,
+      "totalDebt": 8944000000.0,
+      "cash": 541000000.0,
+      "sharesOutstanding": 214912595.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08202331921805209,
+      "roe": 0.08285479901558655,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 18176000000.0,
+      "operatingIncome": null,
+      "netIncome": 1667000000.0,
+      "eps": 7.97,
+      "freeCashFlow": 2700000000.0,
+      "totalDebt": 9489000000.0,
+      "cash": 495000000.0,
+      "sharesOutstanding": 206003999.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0917143485915493,
+      "roe": 0.08921117414106818,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.420600+00:00"
+  }
+}

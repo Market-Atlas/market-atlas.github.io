@@ -1,0 +1,128 @@
+{
+  "ticker": "CARR",
+  "name": "Carrier Global Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 53049171968.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 63.87,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21747000000.0,
+    "operatingIncome": 1907000000.0,
+    "netIncome": 1484000000.0,
+    "eps": 1.72,
+    "freeCashFlow": 2121000000.0,
+    "totalDebt": 12251000000.0,
+    "cash": 1555000000.0,
+    "sharesOutstanding": 951032298.0
+  },
+  "ratios": {
+    "roe": 0.1075050709939148,
+    "roic": 0.07319132604106697,
+    "grossMargin": 0.25861038304133904,
+    "operatingMargin": 0.08769025612728193,
+    "netMargin": 0.06823929737435049,
+    "debtToEquity": 0.91102
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17288000000.0,
+      "operatingIncome": 1904000000.0,
+      "netIncome": 3534000000.0,
+      "eps": 4.1,
+      "freeCashFlow": 1426000000.0,
+      "totalDebt": 9371000000.0,
+      "cash": 3520000000.0,
+      "sharesOutstanding": 876768961.0,
+      "grossMargin": 0.2485539102267469,
+      "operatingMargin": 0.11013419713095789,
+      "netMargin": 0.20441925034706154,
+      "roe": 0.45552977571539055,
+      "roic": 0.1111565181855333
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18951000000.0,
+      "operatingIncome": 2062000000.0,
+      "netIncome": 1349000000.0,
+      "eps": 1.58,
+      "freeCashFlow": 2168000000.0,
+      "totalDebt": 14626000000.0,
+      "cash": 9852000000.0,
+      "sharesOutstanding": 883068393.0,
+      "grossMargin": 0.2723866814416126,
+      "operatingMargin": 0.10880692311751358,
+      "netMargin": 0.07118357870297082,
+      "roe": 0.1554684798893627,
+      "roic": 0.08848646097069048
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22486000000.0,
+      "operatingIncome": 2098000000.0,
+      "netIncome": 5604000000.0,
+      "eps": 6.15,
+      "freeCashFlow": 44000000.0,
+      "totalDebt": 12794000000.0,
+      "cash": 3969000000.0,
+      "sharesOutstanding": 948431316.0,
+      "grossMargin": 0.2659877256959886,
+      "operatingMargin": 0.09330249933291826,
+      "netMargin": 0.24922173797029262,
+      "roe": 0.39798309779135005,
+      "roic": 0.07806511627906977
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21747000000.0,
+      "operatingIncome": 1907000000.0,
+      "netIncome": 1484000000.0,
+      "eps": 1.72,
+      "freeCashFlow": 2121000000.0,
+      "totalDebt": 12251000000.0,
+      "cash": 1555000000.0,
+      "sharesOutstanding": 951032298.0,
+      "grossMargin": 0.25861038304133904,
+      "operatingMargin": 0.08769025612728193,
+      "netMargin": 0.06823929737435049,
+      "roe": 0.1075050709939148,
+      "roic": 0.07319132604106697
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.887575+00:00"
+  }
+}

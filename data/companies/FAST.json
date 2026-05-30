@@ -1,0 +1,111 @@
+{
+  "ticker": "FAST",
+  "name": "Fastenal Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 50743152640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 44.2,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8200500000.0,
+    "operatingIncome": 1655700000.0,
+    "netIncome": 1258400000.0,
+    "eps": 1.09,
+    "freeCashFlow": 1050600000.0,
+    "totalDebt": 441900000.0,
+    "cash": 276800000.0,
+    "sharesOutstanding": 1148057473.0
+  },
+  "ratios": {
+    "roe": 0.3190993001318592,
+    "roic": 0.37753961919963513,
+    "grossMargin": 0.45011889518931775,
+    "operatingMargin": 0.2019023230290836,
+    "netMargin": 0.15345405767940978,
+    "debtToEquity": 0.11166999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6980600000.0,
+      "operatingIncome": 1453600000.0,
+      "netIncome": 1086900000.0,
+      "eps": 0.945,
+      "freeCashFlow": 767200000.0,
+      "totalDebt": 802100000.0,
+      "cash": 230100000.0,
+      "sharesOutstanding": 1141623348.0,
+      "grossMargin": 0.46067673265908377,
+      "operatingMargin": 0.2082342492049394,
+      "netMargin": 0.15570294817064437,
+      "roe": 0.34360773899848257,
+      "roic": 0.3665800822131995
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7346700000.0,
+      "operatingIncome": 1528700000.0,
+      "netIncome": 1155000000.0,
+      "eps": 1.01,
+      "freeCashFlow": 1259900000.0,
+      "totalDebt": 535000000.0,
+      "cash": 221300000.0,
+      "sharesOutstanding": 1143964734.0,
+      "grossMargin": 0.4565995617079777,
+      "operatingMargin": 0.2080798181496454,
+      "netMargin": 0.15721344277022337,
+      "roe": 0.3448996655518395,
+      "roic": 0.3936093516658942
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7546000000.0,
+      "operatingIncome": 1510000000.0,
+      "netIncome": 1150600000.0,
+      "eps": 1.0,
+      "freeCashFlow": 946800000.0,
+      "totalDebt": 485400000.0,
+      "cash": 255800000.0,
+      "sharesOutstanding": 1146640904.0,
+      "grossMargin": 0.4508216273522396,
+      "operatingMargin": 0.20010601643254705,
+      "netMargin": 0.15247813411078717,
+      "roe": 0.3181705057655615,
+      "roic": 0.3681400394958188
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8200500000.0,
+      "operatingIncome": 1655700000.0,
+      "netIncome": 1258400000.0,
+      "eps": 1.09,
+      "freeCashFlow": 1050600000.0,
+      "totalDebt": 441900000.0,
+      "cash": 276800000.0,
+      "sharesOutstanding": 1148057473.0,
+      "grossMargin": 0.45011889518931775,
+      "operatingMargin": 0.2019023230290836,
+      "netMargin": 0.15345405767940978,
+      "roe": 0.3190993001318592,
+      "roic": 0.37753961919963513
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:23.821173+00:00"
+  }
+}

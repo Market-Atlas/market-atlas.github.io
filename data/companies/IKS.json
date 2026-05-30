@@ -1,0 +1,128 @@
+{
+  "ticker": "IKS",
+  "name": "INVENTURUS KNOWLEDGE SO L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 280859639808.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1675.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31937880000.0,
+    "operatingIncome": 9671910000.0,
+    "netIncome": 7215540000.0,
+    "eps": 42.26,
+    "freeCashFlow": 6129460000.0,
+    "totalDebt": 7525150000.0,
+    "cash": 3887160000.0,
+    "sharesOutstanding": 171573159.0
+  },
+  "ratios": {
+    "roe": 0.25767604670604666,
+    "roic": 0.2722371277252113,
+    "grossMargin": 0.4900491203548889,
+    "operatingMargin": 0.30283506607201227,
+    "netMargin": 0.2259242003539371,
+    "debtToEquity": 0.26873
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 10313000000.0,
+      "operatingIncome": 3706240000.0,
+      "netIncome": 3052280000.0,
+      "eps": 17.789962,
+      "freeCashFlow": 2794290000.0,
+      "totalDebt": 523460000.0,
+      "cash": 1236200000.0,
+      "sharesOutstanding": 166680050.0,
+      "grossMargin": 0.5061475807233589,
+      "operatingMargin": 0.35937554542810046,
+      "netMargin": 0.29596431688160574,
+      "roe": 0.3683485812277723,
+      "roic": 0.42069274732259915
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 18169090000.0,
+      "operatingIncome": 4660720000.0,
+      "netIncome": 3704860000.0,
+      "eps": 21.593471,
+      "freeCashFlow": 1770640000.0,
+      "totalDebt": 13110940000.0,
+      "cash": 1438070000.0,
+      "sharesOutstanding": 166680050.0,
+      "grossMargin": 0.46349211765696574,
+      "operatingMargin": 0.25651917624933335,
+      "netMargin": 0.20391004722856235,
+      "roe": 0.31997533376286214,
+      "roic": 0.18877321227792196
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 26639940000.0,
+      "operatingIncome": 6570490000.0,
+      "netIncome": 4860590000.0,
+      "eps": 28.62,
+      "freeCashFlow": 2755100000.0,
+      "totalDebt": 8556230000.0,
+      "cash": 1804220000.0,
+      "sharesOutstanding": 171573159.0,
+      "grossMargin": 0.4386800420721668,
+      "operatingMargin": 0.24664057051179544,
+      "netMargin": 0.1824549905142429,
+      "roe": 0.2715879203863456,
+      "roic": 0.24838204585009882
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 31937880000.0,
+      "operatingIncome": 9671910000.0,
+      "netIncome": 7215540000.0,
+      "eps": 42.26,
+      "freeCashFlow": 6129460000.0,
+      "totalDebt": 7525150000.0,
+      "cash": 3887160000.0,
+      "sharesOutstanding": 171573159.0,
+      "grossMargin": 0.4900491203548889,
+      "operatingMargin": 0.30283506607201227,
+      "netMargin": 0.2259242003539371,
+      "roe": 0.25767604670604666,
+      "roic": 0.2722371277252113
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:59.515659+00:00"
+  }
+}

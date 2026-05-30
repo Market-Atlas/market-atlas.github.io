@@ -1,0 +1,128 @@
+{
+  "ticker": "RMD",
+  "name": "ResMed Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27643396096.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 190.57,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5146327000.0,
+    "operatingIncome": 1687394000.0,
+    "netIncome": 1400723000.0,
+    "eps": null,
+    "freeCashFlow": 1650946000.0,
+    "totalDebt": 851813000.0,
+    "cash": 1209450000.0,
+    "sharesOutstanding": 190311097.0
+  },
+  "ratios": {
+    "roe": 0.23471114180144,
+    "roic": 0.24743037495058412,
+    "grossMargin": 0.5936214313626009,
+    "operatingMargin": 0.3278831679370549,
+    "netMargin": 0.27217916778315876,
+    "debtToEquity": 0.12988
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 3.24,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 3578127000.0,
+      "operatingIncome": 1002150000.0,
+      "netIncome": 779437000.0,
+      "eps": 5.3,
+      "freeCashFlow": 195111000.0,
+      "totalDebt": 917550000.0,
+      "cash": 273710000.0,
+      "sharesOutstanding": 188246955.0,
+      "grossMargin": 0.5657459894520234,
+      "operatingMargin": 0.28007669934577506,
+      "netMargin": 0.21783379963874955,
+      "roe": 0.23192345996475192,
+      "roic": 0.23424018085684015
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 4222993000.0,
+      "operatingIncome": 1151997000.0,
+      "netIncome": 897556000.0,
+      "eps": 6.09,
+      "freeCashFlow": 559299000.0,
+      "totalDebt": 1579908000.0,
+      "cash": 227891000.0,
+      "sharesOutstanding": 188900583.0,
+      "grossMargin": 0.5578181162033657,
+      "operatingMargin": 0.27279159591313556,
+      "netMargin": 0.21254025284910488,
+      "roe": 0.2173310123748669,
+      "roic": 0.2017574662278664
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 4685297000.0,
+      "operatingIncome": 1384121000.0,
+      "netIncome": 1020951000.0,
+      "eps": 6.92,
+      "freeCashFlow": 1286404000.0,
+      "totalDebt": 873935000.0,
+      "cash": 238361000.0,
+      "sharesOutstanding": 189565112.0,
+      "grossMargin": 0.566730988451746,
+      "operatingMargin": 0.2954179852419174,
+      "netMargin": 0.21790528967533968,
+      "roe": 0.2098976098689917,
+      "roic": 0.24122103639993042
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 5146327000.0,
+      "operatingIncome": 1687394000.0,
+      "netIncome": 1400723000.0,
+      "eps": null,
+      "freeCashFlow": 1650946000.0,
+      "totalDebt": 851813000.0,
+      "cash": 1209450000.0,
+      "sharesOutstanding": 190311097.0,
+      "grossMargin": 0.5936214313626009,
+      "operatingMargin": 0.3278831679370549,
+      "netMargin": 0.27217916778315876,
+      "roe": 0.23471114180144,
+      "roic": 0.24743037495058412
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:15.429442+00:00"
+  }
+}

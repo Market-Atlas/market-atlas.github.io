@@ -1,0 +1,128 @@
+{
+  "ticker": "HUBB",
+  "name": "Hubbell Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 25026392064.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 473.61,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5844600000.0,
+    "operatingIncome": 1208800000.0,
+    "netIncome": 887100000.0,
+    "eps": 16.54,
+    "freeCashFlow": 874700000.0,
+    "totalDebt": 2487300000.0,
+    "cash": 482500000.0,
+    "sharesOutstanding": 53253805.0
+  },
+  "ratios": {
+    "roe": 0.23054133423425766,
+    "roic": 0.19080692006566485,
+    "grossMargin": 0.35316360401053964,
+    "operatingMargin": 0.20682339253327858,
+    "netMargin": 0.15178113130068782,
+    "debtToEquity": 0.72468
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4947900000.0,
+      "operatingIncome": 709100000.0,
+      "netIncome": 545900000.0,
+      "eps": 9.43,
+      "freeCashFlow": 453900000.0,
+      "totalDebt": 1558000000.0,
+      "cash": 440500000.0,
+      "sharesOutstanding": 53689539.0,
+      "grossMargin": 0.2974191070959397,
+      "operatingMargin": 0.14331332484488368,
+      "netMargin": 0.1103296347945593,
+      "roe": 0.2312253801516371,
+      "roic": 0.18094363214167242
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5372900000.0,
+      "operatingIncome": 1027400000.0,
+      "netIncome": 751400000.0,
+      "eps": 14.05,
+      "freeCashFlow": 715100000.0,
+      "totalDebt": 2290000000.0,
+      "cash": 336100000.0,
+      "sharesOutstanding": 53730566.0,
+      "grossMargin": 0.3493457909136593,
+      "operatingMargin": 0.19121889482402427,
+      "netMargin": 0.13984998790225017,
+      "roe": 0.2611748348974626,
+      "roic": 0.1988387845945423
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5628500000.0,
+      "operatingIncome": 1093100000.0,
+      "netIncome": 779000000.0,
+      "eps": 14.37,
+      "freeCashFlow": 810800000.0,
+      "totalDebt": 1719600000.0,
+      "cash": 329100000.0,
+      "sharesOutstanding": 53759976.0,
+      "grossMargin": 0.33856267211512836,
+      "operatingMargin": 0.19420804832548635,
+      "netMargin": 0.13840277160877676,
+      "roe": 0.22937400624227078,
+      "roic": 0.21367137104656164
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5844600000.0,
+      "operatingIncome": 1208800000.0,
+      "netIncome": 887100000.0,
+      "eps": 16.54,
+      "freeCashFlow": 874700000.0,
+      "totalDebt": 2487300000.0,
+      "cash": 482500000.0,
+      "sharesOutstanding": 53253805.0,
+      "grossMargin": 0.35316360401053964,
+      "operatingMargin": 0.20682339253327858,
+      "netMargin": 0.15178113130068782,
+      "roe": 0.23054133423425766,
+      "roic": 0.19080692006566485
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.966998+00:00"
+  }
+}

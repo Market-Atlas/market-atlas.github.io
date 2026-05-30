@@ -1,0 +1,128 @@
+{
+  "ticker": "AUBANK",
+  "name": "AU Small Finance Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 736908935168.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 984.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 120906214000.0,
+    "operatingIncome": null,
+    "netIncome": 26412543000.0,
+    "eps": 35.01,
+    "freeCashFlow": 10202778000.0,
+    "totalDebt": 138715447000.0,
+    "cash": 85234097000.0,
+    "sharesOutstanding": 748267121.0
+  },
+  "ratios": {
+    "roe": 0.13223778460303595,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.35549998,
+    "netMargin": 0.21845480166966438,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 54604092000.0,
+      "operatingIncome": null,
+      "netIncome": 14279253000.0,
+      "eps": 21.74,
+      "freeCashFlow": 51877043000.0,
+      "totalDebt": 62986521000.0,
+      "cash": 94781102000.0,
+      "sharesOutstanding": 666745055.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2615051816995693,
+      "roe": 0.13007931053484278,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 68556215000.0,
+      "operatingIncome": null,
+      "netIncome": 15347190000.0,
+      "eps": 22.86,
+      "freeCashFlow": 22616524000.0,
+      "totalDebt": 54793721000.0,
+      "cash": 64412078000.0,
+      "sharesOutstanding": 669162451.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22386285473899048,
+      "roe": 0.12219556119589334,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 105378926000.0,
+      "operatingIncome": null,
+      "netIncome": 21059266000.0,
+      "eps": 28.24,
+      "freeCashFlow": 51980504000.0,
+      "totalDebt": 116599024000.0,
+      "cash": 95677984000.0,
+      "sharesOutstanding": 744530531.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19984324000417314,
+      "roe": 0.1226780870082075,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 120906214000.0,
+      "operatingIncome": null,
+      "netIncome": 26412543000.0,
+      "eps": 35.01,
+      "freeCashFlow": 10202778000.0,
+      "totalDebt": 138715447000.0,
+      "cash": 85234097000.0,
+      "sharesOutstanding": 748267121.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21845480166966438,
+      "roe": 0.13223778460303595,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:57.026177+00:00"
+  }
+}

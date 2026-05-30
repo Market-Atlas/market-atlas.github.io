@@ -1,0 +1,128 @@
+{
+  "ticker": "GESHIP",
+  "name": "The Great Eastern Shipping Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "INR",
+  "marketCap": {
+    "value": 202572333056.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1418.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 54090900000.0,
+    "operatingIncome": 19781600000.0,
+    "netIncome": 29425200000.0,
+    "eps": null,
+    "freeCashFlow": 4814100000.0,
+    "totalDebt": 10871500000.0,
+    "cash": 43369000000.0,
+    "sharesOutstanding": 142767161.0
+  },
+  "ratios": {
+    "roe": 0.17347217301233486,
+    "roic": 0.10959553763953186,
+    "grossMargin": 0.5129827752912227,
+    "operatingMargin": 0.3657103135647586,
+    "netMargin": 0.5439953855454429,
+    "debtToEquity": 0.06409
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 42.91,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 56602700000.0,
+      "operatingIncome": 23848000000.0,
+      "netIncome": 25750100000.0,
+      "eps": 180.0,
+      "freeCashFlow": 25092800000.0,
+      "totalDebt": 36493900000.0,
+      "cash": 26783600000.0,
+      "sharesOutstanding": 142767161.0,
+      "grossMargin": 0.473705317944197,
+      "operatingMargin": 0.42132265775307537,
+      "netMargin": 0.4549270617832718,
+      "roe": 0.25060046557979476,
+      "roic": 0.17126339790660514
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 51756200000.0,
+      "operatingIncome": 21067500000.0,
+      "netIncome": 26141800000.0,
+      "eps": 182.74,
+      "freeCashFlow": 19628500000.0,
+      "totalDebt": 30483000000.0,
+      "cash": 32878800000.0,
+      "sharesOutstanding": 142767161.0,
+      "grossMargin": 0.464270947248832,
+      "operatingMargin": 0.407052681611092,
+      "netMargin": 0.5050950417534518,
+      "roe": 0.21086433097128846,
+      "roic": 0.1363967434407523
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 53225400000.0,
+      "operatingIncome": 18526700000.0,
+      "netIncome": 23442600000.0,
+      "eps": 163.87,
+      "freeCashFlow": 14720100000.0,
+      "totalDebt": 21630100000.0,
+      "cash": 41119600000.0,
+      "sharesOutstanding": 142767161.0,
+      "grossMargin": 0.49955660267466284,
+      "operatingMargin": 0.3480800520052456,
+      "netMargin": 0.4404400906334194,
+      "roe": 0.16440379377186315,
+      "roic": 0.11281517606991037
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 54090900000.0,
+      "operatingIncome": 19781600000.0,
+      "netIncome": 29425200000.0,
+      "eps": null,
+      "freeCashFlow": 4814100000.0,
+      "totalDebt": 10871500000.0,
+      "cash": 43369000000.0,
+      "sharesOutstanding": 142767161.0,
+      "grossMargin": 0.5129827752912227,
+      "operatingMargin": 0.3657103135647586,
+      "netMargin": 0.5439953855454429,
+      "roe": 0.17347217301233486,
+      "roic": 0.10959553763953186
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:44.850138+00:00"
+  }
+}

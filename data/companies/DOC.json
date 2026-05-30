@@ -1,0 +1,128 @@
+{
+  "ticker": "DOC",
+  "name": "Healthpeak Properties, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "currency": "USD",
+  "marketCap": {
+    "value": 13202386944.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 19.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2822512000.0,
+    "operatingIncome": 544132000.0,
+    "netIncome": 71347000.0,
+    "eps": 0.1,
+    "freeCashFlow": null,
+    "totalDebt": 10144154000.0,
+    "cash": 467457000.0,
+    "sharesOutstanding": 695036731.0
+  },
+  "ratios": {
+    "roe": 0.009512814106063205,
+    "roic": 0.030839058711938303,
+    "grossMargin": 0.5999666254740458,
+    "operatingMargin": 0.19278288276542313,
+    "netMargin": 0.02527783761415363,
+    "debtToEquity": 1.1824299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2061178000.0,
+      "operatingIncome": 356585000.0,
+      "netIncome": 500449000.0,
+      "eps": 0.92,
+      "freeCashFlow": null,
+      "totalDebt": 6706128000.0,
+      "cash": 72032000.0,
+      "sharesOutstanding": 546641973.0,
+      "grossMargin": 0.5813117547344285,
+      "operatingMargin": 0.17300058510230557,
+      "netMargin": 0.2427975652757792,
+      "roe": 0.07520232689643006,
+      "roic": 0.026688837945609514
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2181003000.0,
+      "operatingIncome": 433910000.0,
+      "netIncome": 306009000.0,
+      "eps": 0.56,
+      "freeCashFlow": null,
+      "totalDebt": 7083042000.0,
+      "cash": 117635000.0,
+      "sharesOutstanding": 547156311.0,
+      "grossMargin": 0.5864013025199873,
+      "operatingMargin": 0.19894974926673645,
+      "netMargin": 0.14030654703363543,
+      "roe": 0.0481870092273834,
+      "roic": 0.03230062065786637
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2700449000.0,
+      "operatingIncome": 471221000.0,
+      "netIncome": 243142000.0,
+      "eps": 0.36,
+      "freeCashFlow": null,
+      "totalDebt": 9023269000.0,
+      "cash": 119818000.0,
+      "sharesOutstanding": 699485139.0,
+      "grossMargin": 0.6019695243272508,
+      "operatingMargin": 0.1744972780452436,
+      "netMargin": 0.09003761966991415,
+      "roe": 0.028941079902624317,
+      "roic": 0.02704351820951422
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2822512000.0,
+      "operatingIncome": 544132000.0,
+      "netIncome": 71347000.0,
+      "eps": 0.1,
+      "freeCashFlow": null,
+      "totalDebt": 10144154000.0,
+      "cash": 467457000.0,
+      "sharesOutstanding": 695036731.0,
+      "grossMargin": 0.5999666254740458,
+      "operatingMargin": 0.19278288276542313,
+      "netMargin": 0.02527783761415363,
+      "roe": 0.009512814106063205,
+      "roic": 0.030839058711938303
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:12.528895+00:00"
+  }
+}

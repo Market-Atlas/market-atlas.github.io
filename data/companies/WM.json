@@ -1,0 +1,128 @@
+{
+  "ticker": "WM",
+  "name": "Waste Management, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 84917207040.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 211.46,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25204000000.0,
+    "operatingIncome": 4607000000.0,
+    "netIncome": 2708000000.0,
+    "eps": 6.7,
+    "freeCashFlow": 2816000000.0,
+    "totalDebt": 22907000000.0,
+    "cash": 201000000.0,
+    "sharesOutstanding": 630282461.0
+  },
+  "ratios": {
+    "roe": 0.2710710710710711,
+    "roic": 0.14004316503024591,
+    "grossMargin": 0.4043802571020473,
+    "operatingMargin": 0.18278844627836852,
+    "netMargin": 0.10744326297413109,
+    "debtToEquity": 2.28408
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19698000000.0,
+      "operatingIncome": 3428000000.0,
+      "netIncome": 2238000000.0,
+      "eps": 5.39,
+      "freeCashFlow": 1949000000.0,
+      "totalDebt": 14984000000.0,
+      "cash": 351000000.0,
+      "sharesOutstanding": 630282461.0,
+      "grossMargin": 0.37587572342369785,
+      "operatingMargin": 0.17402782008325718,
+      "netMargin": 0.11361559549192811,
+      "roe": 0.32676303109943056,
+      "roic": 0.15701003068749142
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20426000000.0,
+      "operatingIncome": 3823000000.0,
+      "netIncome": 2304000000.0,
+      "eps": 5.66,
+      "freeCashFlow": 1824000000.0,
+      "totalDebt": 16229000000.0,
+      "cash": 458000000.0,
+      "sharesOutstanding": 630282461.0,
+      "grossMargin": 0.38284539312640753,
+      "operatingMargin": 0.18716341917164397,
+      "netMargin": 0.11279741505923822,
+      "roe": 0.33376792698826596,
+      "roic": 0.16526889157876534
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22063000000.0,
+      "operatingIncome": 4149000000.0,
+      "netIncome": 2746000000.0,
+      "eps": 6.81,
+      "freeCashFlow": 2159000000.0,
+      "totalDebt": 23900000000.0,
+      "cash": 414000000.0,
+      "sharesOutstanding": 630282461.0,
+      "grossMargin": 0.393418846031818,
+      "operatingMargin": 0.18805239541313512,
+      "netMargin": 0.12446176857181707,
+      "roe": 0.33276781386330584,
+      "roic": 0.12904329435182882
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 25204000000.0,
+      "operatingIncome": 4607000000.0,
+      "netIncome": 2708000000.0,
+      "eps": 6.7,
+      "freeCashFlow": 2816000000.0,
+      "totalDebt": 22907000000.0,
+      "cash": 201000000.0,
+      "sharesOutstanding": 630282461.0,
+      "grossMargin": 0.4043802571020473,
+      "operatingMargin": 0.18278844627836852,
+      "netMargin": 0.10744326297413109,
+      "roe": 0.2710710710710711,
+      "roic": 0.14004316503024591
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:39.403671+00:00"
+  }
+}

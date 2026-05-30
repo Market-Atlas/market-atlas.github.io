@@ -1,0 +1,128 @@
+{
+  "ticker": "BG",
+  "name": "Bunge Global SA",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23922434048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 123.3,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 70329000000.0,
+    "operatingIncome": 1296000000.0,
+    "netIncome": 816000000.0,
+    "eps": 4.219046,
+    "freeCashFlow": -879000000.0,
+    "totalDebt": 15855000000.0,
+    "cash": 1135000000.0,
+    "sharesOutstanding": 208511763.0
+  },
+  "ratios": {
+    "roe": 0.05130784708249497,
+    "roic": 0.04080733020561101,
+    "grossMargin": 0.04847218075047278,
+    "operatingMargin": 0.018427675638783433,
+    "netMargin": 0.011602610587382161,
+    "debtToEquity": 0.93214
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 67232000000.0,
+      "operatingIncome": 2313000000.0,
+      "netIncome": 1610000000.0,
+      "eps": 10.51,
+      "freeCashFlow": -6104000000.0,
+      "totalDebt": 5623000000.0,
+      "cash": 1104000000.0,
+      "sharesOutstanding": 168743744.0,
+      "grossMargin": 0.05476558781532603,
+      "operatingMargin": 0.03440326035221323,
+      "netMargin": 0.02394693003331747,
+      "roe": 0.17454466608846486,
+      "roic": 0.15578904829258436
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 59540000000.0,
+      "operatingIncome": 3130000000.0,
+      "netIncome": 2243000000.0,
+      "eps": 14.87,
+      "freeCashFlow": 2186000000.0,
+      "totalDebt": 5756000000.0,
+      "cash": 2602000000.0,
+      "sharesOutstanding": 166017736.0,
+      "grossMargin": 0.08137386630836413,
+      "operatingMargin": 0.05256970104131676,
+      "netMargin": 0.03767215317433658,
+      "roe": 0.2067090590728965,
+      "roic": 0.1884747395676522
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53108000000.0,
+      "operatingIncome": 1617000000.0,
+      "netIncome": 1137000000.0,
+      "eps": 7.99,
+      "freeCashFlow": 524000000.0,
+      "totalDebt": 7119000000.0,
+      "cash": 3311000000.0,
+      "sharesOutstanding": 155282542.0,
+      "grossMargin": 0.06388867967161256,
+      "operatingMargin": 0.030447390223695112,
+      "netMargin": 0.021409203886420126,
+      "roe": 0.11469787148189246,
+      "roic": 0.09493893846876468
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 70329000000.0,
+      "operatingIncome": 1296000000.0,
+      "netIncome": 816000000.0,
+      "eps": 4.219046,
+      "freeCashFlow": -879000000.0,
+      "totalDebt": 15855000000.0,
+      "cash": 1135000000.0,
+      "sharesOutstanding": 208511763.0,
+      "grossMargin": 0.04847218075047278,
+      "operatingMargin": 0.018427675638783433,
+      "netMargin": 0.011602610587382161,
+      "roe": 0.05130784708249497,
+      "roic": 0.04080733020561101
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:51.026023+00:00"
+  }
+}

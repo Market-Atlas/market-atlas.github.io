@@ -1,0 +1,128 @@
+{
+  "ticker": "SATS",
+  "name": "EchoStar Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 37441007616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 129.19,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15004989000.0,
+    "operatingIncome": -91135000.0,
+    "netIncome": -14497180000.0,
+    "eps": -50.41,
+    "freeCashFlow": -1741415000.0,
+    "totalDebt": 30117140000.0,
+    "cash": 1883074000.0,
+    "sharesOutstanding": 290614925.0
+  },
+  "ratios": {
+    "roe": -2.514346704628547,
+    "roic": -0.00253978744875975,
+    "grossMargin": 0.25822524761597626,
+    "operatingMargin": -0.0060736465718168806,
+    "netMargin": -0.966157322741123,
+    "debtToEquity": 5.1506
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 18634246000.0,
+      "operatingIncome": 2233549000.0,
+      "netIncome": 2477720000.0,
+      "eps": 8.05,
+      "freeCashFlow": -7620456000.0,
+      "totalDebt": 25704894000.0,
+      "cash": 2497536000.0,
+      "sharesOutstanding": 106291966.0,
+      "grossMargin": 0.3447292152309248,
+      "operatingMargin": 0.11986259063017629,
+      "netMargin": 0.13296593809054577,
+      "roe": 0.11530907464435021,
+      "roic": 0.047328438703282204
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17015598000.0,
+      "operatingIncome": 483190000.0,
+      "netIncome": -1702057000.0,
+      "eps": -6.28,
+      "freeCashFlow": -1832756000.0,
+      "totalDebt": 25885227000.0,
+      "cash": 1821376000.0,
+      "sharesOutstanding": 294814799.0,
+      "grossMargin": 0.2979775967908974,
+      "operatingMargin": 0.02839688619818122,
+      "netMargin": -0.10002922024838622,
+      "roe": -0.08561578702241937,
+      "roic": 0.010557975190167665
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15825516000.0,
+      "operatingIncome": -304070000.0,
+      "netIncome": -119546000.0,
+      "eps": -0.44,
+      "freeCashFlow": -1245031000.0,
+      "totalDebt": 29814724000.0,
+      "cash": 4305393000.0,
+      "sharesOutstanding": 286397144.0,
+      "grossMargin": 0.25610153880606484,
+      "operatingMargin": -0.019213907464375884,
+      "netMargin": -0.007554003294426545,
+      "roe": -0.005920647690508599,
+      "roic": -0.006080658646097868
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15004989000.0,
+      "operatingIncome": -91135000.0,
+      "netIncome": -14497180000.0,
+      "eps": -50.41,
+      "freeCashFlow": -1741415000.0,
+      "totalDebt": 30117140000.0,
+      "cash": 1883074000.0,
+      "sharesOutstanding": 290614925.0,
+      "grossMargin": 0.25822524761597626,
+      "operatingMargin": -0.0060736465718168806,
+      "netMargin": -0.966157322741123,
+      "roe": -2.514346704628547,
+      "roic": -0.00253978744875975
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:17.534596+00:00"
+  }
+}

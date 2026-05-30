@@ -1,0 +1,128 @@
+{
+  "ticker": "LVS",
+  "name": "Las Vegas Sands Corp.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "USD",
+  "marketCap": {
+    "value": 33509568512.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 50.57,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13017000000.0,
+    "operatingIncome": 3089000000.0,
+    "netIncome": 1627000000.0,
+    "eps": 2.35,
+    "freeCashFlow": 1780000000.0,
+    "totalDebt": 15784000000.0,
+    "cash": 3841000000.0,
+    "sharesOutstanding": 839914434.0
+  },
+  "ratios": {
+    "roe": 1.0232704402515724,
+    "roic": 0.17779440543340624,
+    "grossMargin": 0.49788737804409616,
+    "operatingMargin": 0.23730506261043252,
+    "netMargin": 0.1249903971729277,
+    "debtToEquity": 9.81405
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4110000000.0,
+      "operatingIncome": -770000000.0,
+      "netIncome": 1832000000.0,
+      "eps": 2.4,
+      "freeCashFlow": -1575000000.0,
+      "totalDebt": 15978000000.0,
+      "cash": 6311000000.0,
+      "sharesOutstanding": 833000000.0,
+      "grossMargin": 0.40145985401459855,
+      "operatingMargin": -0.1873479318734793,
+      "netMargin": 0.4457420924574209,
+      "roe": 0.4720432878124195,
+      "roic": -0.03877335213253437
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10372000000.0,
+      "operatingIncome": 2355000000.0,
+      "netIncome": 1221000000.0,
+      "eps": 1.62,
+      "freeCashFlow": 1970000000.0,
+      "totalDebt": 14029000000.0,
+      "cash": 5105000000.0,
+      "sharesOutstanding": 833000000.0,
+      "grossMargin": 0.4981681450057848,
+      "operatingMargin": 0.227053605861936,
+      "netMargin": 0.1177207867335133,
+      "roe": 0.2965031568722681,
+      "roic": 0.12977351628368325
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11298000000.0,
+      "operatingIncome": 2466000000.0,
+      "netIncome": 1446000000.0,
+      "eps": 1.96,
+      "freeCashFlow": 1624000000.0,
+      "totalDebt": 13752000000.0,
+      "cash": 3650000000.0,
+      "sharesOutstanding": 834299901.0,
+      "grossMargin": 0.4886705611612675,
+      "operatingMargin": 0.21826872012745618,
+      "netMargin": 0.12798725438130643,
+      "roe": 0.5013869625520111,
+      "roic": 0.1482327482567925
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13017000000.0,
+      "operatingIncome": 3089000000.0,
+      "netIncome": 1627000000.0,
+      "eps": 2.35,
+      "freeCashFlow": 1780000000.0,
+      "totalDebt": 15784000000.0,
+      "cash": 3841000000.0,
+      "sharesOutstanding": 839914434.0,
+      "grossMargin": 0.49788737804409616,
+      "operatingMargin": 0.23730506261043252,
+      "netMargin": 0.1249903971729277,
+      "roe": 1.0232704402515724,
+      "roic": 0.17779440543340624
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:51.543877+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "INTU",
+  "name": "Intuit Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 90685718528.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 331.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18831000000.0,
+    "operatingIncome": 4938000000.0,
+    "netIncome": 3869000000.0,
+    "eps": 13.67,
+    "freeCashFlow": 6083000000.0,
+    "totalDebt": 6639000000.0,
+    "cash": 2884000000.0,
+    "sharesOutstanding": 279129000.0
+  },
+  "ratios": {
+    "roe": 0.1962962962962963,
+    "roic": 0.1874074917454173,
+    "grossMargin": 0.7956560989857151,
+    "operatingMargin": 0.2622271785884977,
+    "netMargin": 0.2054590834262652,
+    "debtToEquity": 0.33448
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-07-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 12726000000.0,
+      "operatingIncome": 2559000000.0,
+      "netIncome": 2066000000.0,
+      "eps": 7.28,
+      "freeCashFlow": 3660000000.0,
+      "totalDebt": 7540000000.0,
+      "cash": 2796000000.0,
+      "sharesOutstanding": 281932000.0,
+      "grossMargin": 0.8109382366808109,
+      "operatingMargin": 0.20108439415370108,
+      "netMargin": 0.16234480590916234,
+      "roe": 0.12566145611580803,
+      "roic": 0.1067094783370168
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 14368000000.0,
+      "operatingIncome": 3141000000.0,
+      "netIncome": 2384000000.0,
+      "eps": 8.42,
+      "freeCashFlow": 4786000000.0,
+      "totalDebt": 6689000000.0,
+      "cash": 2848000000.0,
+      "sharesOutstanding": 280421000.0,
+      "grossMargin": 0.78125,
+      "operatingMargin": 0.2186108017817372,
+      "netMargin": 0.16592427616926503,
+      "roe": 0.13805084255023453,
+      "roic": 0.1311044327573253
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 16285000000.0,
+      "operatingIncome": 3853000000.0,
+      "netIncome": 2963000000.0,
+      "eps": 10.43,
+      "freeCashFlow": 4634000000.0,
+      "totalDebt": 6567000000.0,
+      "cash": 3609000000.0,
+      "sharesOutstanding": 280268000.0,
+      "grossMargin": 0.7872275099785079,
+      "operatingMargin": 0.23659809640773719,
+      "netMargin": 0.18194657660423702,
+      "roe": 0.16071816012150142,
+      "roic": 0.1541015078190617
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": 18831000000.0,
+      "operatingIncome": 4938000000.0,
+      "netIncome": 3869000000.0,
+      "eps": 13.67,
+      "freeCashFlow": 6083000000.0,
+      "totalDebt": 6639000000.0,
+      "cash": 2884000000.0,
+      "sharesOutstanding": 279129000.0,
+      "grossMargin": 0.7956560989857151,
+      "operatingMargin": 0.2622271785884977,
+      "netMargin": 0.2054590834262652,
+      "roe": 0.1962962962962963,
+      "roic": 0.1874074917454173
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:40.637635+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "RITES",
+  "name": "RITES Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 97197309952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 202.24,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24150800000.0,
+    "operatingIncome": 4881800000.0,
+    "netIncome": 4102700000.0,
+    "eps": null,
+    "freeCashFlow": 2654700000.0,
+    "totalDebt": 65900000.0,
+    "cash": 960300000.0,
+    "sharesOutstanding": 480603774.0
+  },
+  "ratios": {
+    "roe": 0.1530150228998523,
+    "roic": 0.18162607010115966,
+    "grossMargin": 0.5409551650462925,
+    "operatingMargin": 0.20213823144574922,
+    "netMargin": 0.16987843052818127,
+    "debtToEquity": 0.0023599999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.745,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 25984100000.0,
+      "operatingIncome": 7009100000.0,
+      "netIncome": 5420400000.0,
+      "eps": 11.28,
+      "freeCashFlow": 4241500000.0,
+      "totalDebt": 54200000.0,
+      "cash": 10481700000.0,
+      "sharesOutstanding": 480603774.0,
+      "grossMargin": 0.5440788790067772,
+      "operatingMargin": 0.2697457291189612,
+      "netMargin": 0.20860449274748788,
+      "roe": 0.20817426971556738,
+      "roic": 0.2686302314885789
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 24438200000.0,
+      "operatingIncome": 5908600000.0,
+      "netIncome": 4554000000.0,
+      "eps": 9.48,
+      "freeCashFlow": 2943500000.0,
+      "totalDebt": 80000000.0,
+      "cash": 6608600000.0,
+      "sharesOutstanding": 480603774.0,
+      "grossMargin": 0.5302354510561335,
+      "operatingMargin": 0.24177721763468668,
+      "netMargin": 0.18634760334230835,
+      "roe": 0.17454896684949464,
+      "roic": 0.22577674521686963
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 21963500000.0,
+      "operatingIncome": 4528800000.0,
+      "netIncome": 3848000000.0,
+      "eps": 8.01,
+      "freeCashFlow": 5044500000.0,
+      "totalDebt": 90300000.0,
+      "cash": 6881000000.0,
+      "sharesOutstanding": 480603774.0,
+      "grossMargin": 0.5349420629681062,
+      "operatingMargin": 0.20619664443280897,
+      "netMargin": 0.17519976324356318,
+      "roe": 0.14574874250045453,
+      "roic": 0.17095036596091637
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 24150800000.0,
+      "operatingIncome": 4881800000.0,
+      "netIncome": 4102700000.0,
+      "eps": null,
+      "freeCashFlow": 2654700000.0,
+      "totalDebt": 65900000.0,
+      "cash": 960300000.0,
+      "sharesOutstanding": 480603774.0,
+      "grossMargin": 0.5409551650462925,
+      "operatingMargin": 0.20213823144574922,
+      "netMargin": 0.16987843052818127,
+      "roe": 0.1530150228998523,
+      "roic": 0.18162607010115966
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:49.350579+00:00"
+  }
+}

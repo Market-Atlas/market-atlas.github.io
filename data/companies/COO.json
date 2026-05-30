@@ -1,0 +1,128 @@
+{
+  "ticker": "COO",
+  "name": "The Cooper Companies, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11942951936.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 61.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4092400000.0,
+    "operatingIncome": 682900000.0,
+    "netIncome": 374900000.0,
+    "eps": 1.87,
+    "freeCashFlow": 433700000.0,
+    "totalDebt": 2505300000.0,
+    "cash": 110600000.0,
+    "sharesOutstanding": 217600000.0
+  },
+  "ratios": {
+    "roe": 0.04550364733156125,
+    "roic": 0.06355987416466559,
+    "grossMargin": 0.6553855928061773,
+    "operatingMargin": 0.16687029615873325,
+    "netMargin": 0.09160883589091975,
+    "debtToEquity": 0.33201
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 3308400000.0,
+      "operatingIncome": 507600000.0,
+      "netIncome": 385800000.0,
+      "eps": 1.94,
+      "freeCashFlow": 450400000.0,
+      "totalDebt": 2763400000.0,
+      "cash": 138200000.0,
+      "sharesOutstanding": 215200000.0,
+      "grossMargin": 0.6467174464998187,
+      "operatingMargin": 0.15342763873775844,
+      "netMargin": 0.11661225970257526,
+      "roe": 0.05377378214509722,
+      "roic": 0.05107718934583765
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 3593200000.0,
+      "operatingIncome": 533100000.0,
+      "netIncome": 294200000.0,
+      "eps": 1.4775,
+      "freeCashFlow": 215000000.0,
+      "totalDebt": 2569200000.0,
+      "cash": 120800000.0,
+      "sharesOutstanding": 215696596.0,
+      "grossMargin": 0.656211733273962,
+      "operatingMargin": 0.148363575642881,
+      "netMargin": 0.08187687854836914,
+      "roe": 0.038962758912962865,
+      "roic": 0.05267786561264822
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 3895400000.0,
+      "operatingIncome": 705700000.0,
+      "netIncome": 392300000.0,
+      "eps": 1.96,
+      "freeCashFlow": 288100000.0,
+      "totalDebt": 2583700000.0,
+      "cash": 107600000.0,
+      "sharesOutstanding": 217200000.0,
+      "grossMargin": 0.6663500539097397,
+      "operatingMargin": 0.1811623966729989,
+      "netMargin": 0.10070852800739334,
+      "roe": 0.04853155850261029,
+      "roic": 0.066156687384575
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 4092400000.0,
+      "operatingIncome": 682900000.0,
+      "netIncome": 374900000.0,
+      "eps": 1.87,
+      "freeCashFlow": 433700000.0,
+      "totalDebt": 2505300000.0,
+      "cash": 110600000.0,
+      "sharesOutstanding": 217600000.0,
+      "grossMargin": 0.6553855928061773,
+      "operatingMargin": 0.16687029615873325,
+      "netMargin": 0.09160883589091975,
+      "roe": 0.04550364733156125,
+      "roic": 0.06355987416466559
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:04.016599+00:00"
+  }
+}

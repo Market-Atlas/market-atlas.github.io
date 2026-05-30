@@ -1,0 +1,128 @@
+{
+  "ticker": "PCAR",
+  "name": "PACCAR Inc",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58086215680.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 110.37,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28444800000.0,
+    "operatingIncome": 2961700000.0,
+    "netIncome": 2375800000.0,
+    "eps": 4.51,
+    "freeCashFlow": null,
+    "totalDebt": 15636300000.0,
+    "cash": 6307900000.0,
+    "sharesOutstanding": 525400000.0
+  },
+  "ratios": {
+    "roe": 0.12332848837209302,
+    "roic": 0.08486173471288212,
+    "grossMargin": 0.16655065249184386,
+    "operatingMargin": 0.10412096411294859,
+    "netMargin": 0.08352317471031612,
+    "debtToEquity": 0.7616299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28819700000.0,
+      "operatingIncome": 3678600000.0,
+      "netIncome": 3011600000.0,
+      "eps": 5.753333,
+      "freeCashFlow": 1636500000.0,
+      "totalDebt": 11471600000.0,
+      "cash": 4690900000.0,
+      "sharesOutstanding": 522000000.0,
+      "grossMargin": 0.1813516448817996,
+      "operatingMargin": 0.12764185609149298,
+      "netMargin": 0.10449796493370854,
+      "roe": 0.22872158637816983,
+      "roic": 0.1493017082881808
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 35127400000.0,
+      "operatingIncome": 5946400000.0,
+      "netIncome": 4600800000.0,
+      "eps": 8.76,
+      "freeCashFlow": 2927500000.0,
+      "totalDebt": 14234500000.0,
+      "cash": 7181700000.0,
+      "sharesOutstanding": 523340000.0,
+      "grossMargin": 0.22013015480792772,
+      "operatingMargin": 0.16928096016215263,
+      "netMargin": 0.13097468073355842,
+      "roe": 0.2897448169886893,
+      "roic": 0.19746756416599975
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 33663800000.0,
+      "operatingIncome": 4892400000.0,
+      "netIncome": 4162000000.0,
+      "eps": 7.9,
+      "freeCashFlow": 2895300000.0,
+      "totalDebt": 15895000000.0,
+      "cash": 7060800000.0,
+      "sharesOutstanding": 524440000.0,
+      "grossMargin": 0.19931202062749898,
+      "operatingMargin": 0.14533118661589006,
+      "netMargin": 0.12363428965238624,
+      "roe": 0.23773483597895687,
+      "roic": 0.14647070975004417
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 28444800000.0,
+      "operatingIncome": 2961700000.0,
+      "netIncome": 2375800000.0,
+      "eps": 4.51,
+      "freeCashFlow": null,
+      "totalDebt": 15636300000.0,
+      "cash": 6307900000.0,
+      "sharesOutstanding": 525400000.0,
+      "grossMargin": 0.16655065249184386,
+      "operatingMargin": 0.10412096411294859,
+      "netMargin": 0.08352317471031612,
+      "roe": 0.12332848837209302,
+      "roic": 0.08486173471288212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:06.639634+00:00"
+  }
+}

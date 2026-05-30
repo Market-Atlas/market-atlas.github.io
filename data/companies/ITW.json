@@ -1,0 +1,111 @@
+{
+  "ticker": "ITW",
+  "name": "Illinois Tool Works Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 71142457344.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 247.28,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16044000000.0,
+    "operatingIncome": 4216000000.0,
+    "netIncome": 3066000000.0,
+    "eps": 10.49,
+    "freeCashFlow": 2707000000.0,
+    "totalDebt": 9211000000.0,
+    "cash": 851000000.0,
+    "sharesOutstanding": 550000000.0
+  },
+  "ratios": {
+    "roe": 0.9506976744186046,
+    "roic": 0.33901576069475714,
+    "grossMargin": 0.44097481924707055,
+    "operatingMargin": 0.26277736225380205,
+    "netMargin": 0.19109947643979058,
+    "debtToEquity": 2.8322000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15932000000.0,
+      "operatingIncome": 3790000000.0,
+      "netIncome": 3034000000.0,
+      "eps": 9.77,
+      "freeCashFlow": 1936000000.0,
+      "totalDebt": 7949000000.0,
+      "cash": 708000000.0,
+      "sharesOutstanding": 550000000.0,
+      "grossMargin": 0.40817223198594027,
+      "operatingMargin": 0.23788601556615616,
+      "netMargin": 0.1904343459703741,
+      "roe": 0.9825129533678757,
+      "roic": 0.34339041406179216
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16107000000.0,
+      "operatingIncome": 4040000000.0,
+      "netIncome": 2957000000.0,
+      "eps": 9.74,
+      "freeCashFlow": 3084000000.0,
+      "totalDebt": 8370000000.0,
+      "cash": 1065000000.0,
+      "sharesOutstanding": 550000000.0,
+      "grossMargin": 0.42161793009250637,
+      "operatingMargin": 0.2508226237039796,
+      "netMargin": 0.18358477680511578,
+      "roe": 0.9817397078353254,
+      "roic": 0.3549464066069232
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15898000000.0,
+      "operatingIncome": 4264000000.0,
+      "netIncome": 3488000000.0,
+      "eps": 11.71,
+      "freeCashFlow": 2844000000.0,
+      "totalDebt": 8078000000.0,
+      "cash": 948000000.0,
+      "sharesOutstanding": 550000000.0,
+      "grossMargin": 0.44282299660334634,
+      "operatingMargin": 0.2682098377154359,
+      "netMargin": 0.2193986664989307,
+      "roe": 1.051869722557298,
+      "roic": 0.37423205195717046
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16044000000.0,
+      "operatingIncome": 4216000000.0,
+      "netIncome": 3066000000.0,
+      "eps": 10.49,
+      "freeCashFlow": 2707000000.0,
+      "totalDebt": 9211000000.0,
+      "cash": 851000000.0,
+      "sharesOutstanding": 550000000.0,
+      "grossMargin": 0.44097481924707055,
+      "operatingMargin": 0.26277736225380205,
+      "netMargin": 0.19109947643979058,
+      "roe": 0.9506976744186046,
+      "roic": 0.33901576069475714
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:42.643887+00:00"
+  }
+}

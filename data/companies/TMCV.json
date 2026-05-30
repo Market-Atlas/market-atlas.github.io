@@ -1,0 +1,94 @@
+{
+  "ticker": "TMCV",
+  "name": "TATA MOTORS LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1397504475136.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 379.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 833900000000.0,
+    "operatingIncome": 68960000000.0,
+    "netIncome": 30300000000.0,
+    "eps": 8.23,
+    "freeCashFlow": 127330000000.0,
+    "totalDebt": 56150000000.0,
+    "cash": 68990000000.0,
+    "sharesOutstanding": 3682331373.0
+  },
+  "ratios": {
+    "roe": 0.23794565729542955,
+    "roic": 0.37582429560194014,
+    "grossMargin": 0.3196786185393932,
+    "operatingMargin": 0.0826957668785226,
+    "netMargin": 0.03633529200143902,
+    "debtToEquity": 0.44095
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4312120000000.0,
+      "operatingIncome": 83770000000.0,
+      "netIncome": 320450000000.0,
+      "eps": 87.023673,
+      "freeCashFlow": 365010000000.0,
+      "totalDebt": 1072640000000.0,
+      "cash": 400150000000.0,
+      "sharesOutstanding": 3682331373.0,
+      "grossMargin": 0.36260354535588063,
+      "operatingMargin": 0.019426639332857158,
+      "netMargin": 0.07431379460682912,
+      "roe": 0.37736404531430323,
+      "roic": 0.043588889698306814
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4368210000000.0,
+      "operatingIncome": 40670000000.0,
+      "netIncome": 229590000000.0,
+      "eps": 62.349087,
+      "freeCashFlow": 250600000000.0,
+      "totalDebt": 715400000000.0,
+      "cash": 343490000000.0,
+      "sharesOutstanding": 3682331373.0,
+      "grossMargin": 0.37280716815354575,
+      "operatingMargin": 0.00931044981811772,
+      "netMargin": 0.05255928629804886,
+      "roe": 0.19767702162832346,
+      "roic": 0.02166940176040579
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 833900000000.0,
+      "operatingIncome": 68960000000.0,
+      "netIncome": 30300000000.0,
+      "eps": 8.23,
+      "freeCashFlow": 127330000000.0,
+      "totalDebt": 56150000000.0,
+      "cash": 68990000000.0,
+      "sharesOutstanding": 3682331373.0,
+      "grossMargin": 0.3196786185393932,
+      "operatingMargin": 0.0826957668785226,
+      "netMargin": 0.03633529200143902,
+      "roe": 0.23794565729542955,
+      "roic": 0.37582429560194014
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:07.394356+00:00"
+  }
+}

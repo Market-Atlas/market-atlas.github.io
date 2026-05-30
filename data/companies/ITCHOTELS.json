@@ -1,0 +1,77 @@
+{
+  "ticker": "ITCHOTELS",
+  "name": "ITC HOTELS LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "INR",
+  "marketCap": {
+    "value": 322548891648.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 154.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 41091200000.0,
+    "operatingIncome": 10072700000.0,
+    "netIncome": 8168900000.0,
+    "eps": 3.92,
+    "freeCashFlow": 6995900000.0,
+    "totalDebt": 741900000.0,
+    "cash": 352100000.0,
+    "sharesOutstanding": 2082976309.0
+  },
+  "ratios": {
+    "roe": 0.07007227766426313,
+    "roic": 0.08585655825387124,
+    "grossMargin": 0.718399560003115,
+    "operatingMargin": 0.2451303442099525,
+    "netMargin": 0.19879925628845105,
+    "debtToEquity": 0.00634
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 35258600000.0,
+      "operatingIncome": 8085300000.0,
+      "netIncome": 6345700000.0,
+      "eps": 3.05,
+      "freeCashFlow": 4151300000.0,
+      "totalDebt": 733000000.0,
+      "cash": 787100000.0,
+      "sharesOutstanding": 2081171040.0,
+      "grossMargin": 0.7005950321340042,
+      "operatingMargin": 0.22931426659027868,
+      "netMargin": 0.1799759491301413,
+      "roe": 0.05934903766026915,
+      "roic": 0.0751040131085777
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 41091200000.0,
+      "operatingIncome": 10072700000.0,
+      "netIncome": 8168900000.0,
+      "eps": 3.92,
+      "freeCashFlow": 6995900000.0,
+      "totalDebt": 741900000.0,
+      "cash": 352100000.0,
+      "sharesOutstanding": 2082976309.0,
+      "grossMargin": 0.718399560003115,
+      "operatingMargin": 0.2451303442099525,
+      "netMargin": 0.19879925628845105,
+      "roe": 0.07007227766426313,
+      "roic": 0.08585655825387124
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:05.526875+00:00"
+  }
+}

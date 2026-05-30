@@ -1,0 +1,128 @@
+{
+  "ticker": "POONAWALLA",
+  "name": "Poonawalla Fincorp Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 335242592256.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 382.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65605600000.0,
+    "operatingIncome": 16984400000.0,
+    "netIncome": 5418100000.0,
+    "eps": 6.82,
+    "freeCashFlow": -218926100000.0,
+    "totalDebt": 484358000000.0,
+    "cash": 2860000000.0,
+    "sharesOutstanding": 812817658.0
+  },
+  "ratios": {
+    "roe": 0.05235769560814206,
+    "roic": 0.028892876365761863,
+    "grossMargin": 0.42318795956442745,
+    "operatingMargin": 0.2588864365237114,
+    "netMargin": 0.08258593778579877,
+    "debtToEquity": 4.70362
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 18716600000.0,
+      "operatingIncome": 5244300000.0,
+      "netIncome": 6839800000.0,
+      "eps": 8.86,
+      "freeCashFlow": -51448900000.0,
+      "totalDebt": 112091600000.0,
+      "cash": 6013800000.0,
+      "sharesOutstanding": 767947592.0,
+      "grossMargin": 0.5299199640960431,
+      "operatingMargin": 0.28019512090871207,
+      "netMargin": 0.36544030432877767,
+      "roe": 0.09968519544116361,
+      "roic": 0.029021236751932425
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 29506400000.0,
+      "operatingIncome": 12155300000.0,
+      "netIncome": 16827500000.0,
+      "eps": 21.63,
+      "freeCashFlow": -75744000000.0,
+      "totalDebt": 152157200000.0,
+      "cash": 2551800000.0,
+      "sharesOutstanding": 774550662.0,
+      "grossMargin": 0.5776306157308245,
+      "operatingMargin": 0.4119546945747363,
+      "netMargin": 0.5703000027112762,
+      "roe": 0.20604059223125035,
+      "roic": 0.051983936910891766
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40667600000.0,
+      "operatingIncome": 12748200000.0,
+      "netIncome": -983400000.0,
+      "eps": -1.27,
+      "freeCashFlow": -106127500000.0,
+      "totalDebt": 260812400000.0,
+      "cash": 246500000.0,
+      "sharesOutstanding": 778014400.0,
+      "grossMargin": 0.4710014852118148,
+      "operatingMargin": 0.31347313340349564,
+      "netMargin": -0.024181412229883247,
+      "roe": -0.012029858122539653,
+      "roic": 0.03721461120566092
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 65605600000.0,
+      "operatingIncome": 16984400000.0,
+      "netIncome": 5418100000.0,
+      "eps": 6.82,
+      "freeCashFlow": -218926100000.0,
+      "totalDebt": 484358000000.0,
+      "cash": 2860000000.0,
+      "sharesOutstanding": 812817658.0,
+      "grossMargin": 0.42318795956442745,
+      "operatingMargin": 0.2588864365237114,
+      "netMargin": 0.08258593778579877,
+      "roe": 0.05235769560814206,
+      "roic": 0.028892876365761863
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:44.487266+00:00"
+  }
+}

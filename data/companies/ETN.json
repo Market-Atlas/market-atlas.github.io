@@ -1,0 +1,128 @@
+{
+  "ticker": "ETN",
+  "name": "Eaton Corporation plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 155552989184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 400.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27448000000.0,
+    "operatingIncome": 5209000000.0,
+    "netIncome": 4087000000.0,
+    "eps": 10.45,
+    "freeCashFlow": 3553000000.0,
+    "totalDebt": 10532000000.0,
+    "cash": 622000000.0,
+    "sharesOutstanding": 387900000.0
+  },
+  "ratios": {
+    "roe": 0.2103989703989704,
+    "roic": 0.17388256500984745,
+    "grossMargin": 0.3758743806470417,
+    "operatingMargin": 0.18977703293500436,
+    "netMargin": 0.1488997376858059,
+    "debtToEquity": 1.10463
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20752000000.0,
+      "operatingIncome": 2995000000.0,
+      "netIncome": 2462000000.0,
+      "eps": 6.14,
+      "freeCashFlow": 1935000000.0,
+      "totalDebt": 9114000000.0,
+      "cash": 294000000.0,
+      "sharesOutstanding": 397800000.0,
+      "grossMargin": 0.3318716268311488,
+      "operatingMargin": 0.14432343870470316,
+      "netMargin": 0.11863916730917502,
+      "roe": 0.14450052823101303,
+      "roic": 0.11452278984398899
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23196000000.0,
+      "operatingIncome": 3885000000.0,
+      "netIncome": 3218000000.0,
+      "eps": 8.02,
+      "freeCashFlow": 2867000000.0,
+      "totalDebt": 9802000000.0,
+      "cash": 488000000.0,
+      "sharesOutstanding": 399400000.0,
+      "grossMargin": 0.3635971719261942,
+      "operatingMargin": 0.16748577340920848,
+      "netMargin": 0.13873081565787204,
+      "roe": 0.1690481193528052,
+      "roic": 0.13471808031070115
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24878000000.0,
+      "operatingIncome": 4632000000.0,
+      "netIncome": 3794000000.0,
+      "eps": 9.5,
+      "freeCashFlow": 3519000000.0,
+      "totalDebt": 9821000000.0,
+      "cash": 555000000.0,
+      "sharesOutstanding": 392900000.0,
+      "grossMargin": 0.38198408232173003,
+      "operatingMargin": 0.18618860036980464,
+      "netMargin": 0.15250422059651098,
+      "roe": 0.2052141929900476,
+      "roic": 0.16362287611713588
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 27448000000.0,
+      "operatingIncome": 5209000000.0,
+      "netIncome": 4087000000.0,
+      "eps": 10.45,
+      "freeCashFlow": 3553000000.0,
+      "totalDebt": 10532000000.0,
+      "cash": 622000000.0,
+      "sharesOutstanding": 387900000.0,
+      "grossMargin": 0.3758743806470417,
+      "operatingMargin": 0.18977703293500436,
+      "netMargin": 0.1488997376858059,
+      "roe": 0.2103989703989704,
+      "roic": 0.17388256500984745
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:20.361793+00:00"
+  }
+}

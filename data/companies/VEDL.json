@@ -1,0 +1,128 @@
+{
+  "ticker": "VEDL",
+  "name": "Vedanta Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1376833110016.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 352.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 766720000000.0,
+    "operatingIncome": 183740000000.0,
+    "netIncome": 173910000000.0,
+    "eps": null,
+    "freeCashFlow": 186230000000.0,
+    "totalDebt": 278440000000.0,
+    "cash": 13700000000.0,
+    "sharesOutstanding": 3910388057.0
+  },
+  "ratios": {
+    "roe": 0.3502577942479658,
+    "roic": 0.23709610818622898,
+    "grossMargin": 0.4993609140233723,
+    "operatingMargin": 0.23964419866444073,
+    "netMargin": 0.22682335141903173,
+    "debtToEquity": 0.48044
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 50.38,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1454040000000.0,
+      "operatingIncome": 242850000000.0,
+      "netIncome": 105740000000.0,
+      "eps": 28.32,
+      "freeCashFlow": 192780000000.0,
+      "totalDebt": 666180000000.0,
+      "cash": 69260000000.0,
+      "sharesOutstanding": 3717199039.0,
+      "grossMargin": 0.37061566394322026,
+      "operatingMargin": 0.16701741355120905,
+      "netMargin": 0.07272152072845314,
+      "roe": 0.26821905993962913,
+      "roic": 0.22901519223696495
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1417930000000.0,
+      "operatingIncome": 248280000000.0,
+      "netIncome": 42390000000.0,
+      "eps": 11.33,
+      "freeCashFlow": 189020000000.0,
+      "totalDebt": 727700000000.0,
+      "cash": 28120000000.0,
+      "sharesOutstanding": 3717206239.0,
+      "grossMargin": 0.40105646964236596,
+      "operatingMargin": 0.1751003223008188,
+      "netMargin": 0.02989569301728576,
+      "roe": 0.13797929822277197,
+      "roic": 0.23990260116724
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 616050000000.0,
+      "operatingIncome": 143450000000.0,
+      "netIncome": 149880000000.0,
+      "eps": 38.65,
+      "freeCashFlow": 225570000000.0,
+      "totalDebt": 751850000000.0,
+      "cash": 39930000000.0,
+      "sharesOutstanding": 3910388057.0,
+      "grossMargin": 0.505673240808376,
+      "operatingMargin": 0.23285447609771934,
+      "netMargin": 0.2432919405892379,
+      "roe": 0.39134181049113553,
+      "roic": 0.12640548447358219
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 766720000000.0,
+      "operatingIncome": 183740000000.0,
+      "netIncome": 173910000000.0,
+      "eps": null,
+      "freeCashFlow": 186230000000.0,
+      "totalDebt": 278440000000.0,
+      "cash": 13700000000.0,
+      "sharesOutstanding": 3910388057.0,
+      "grossMargin": 0.4993609140233723,
+      "operatingMargin": 0.23964419866444073,
+      "netMargin": 0.22682335141903173,
+      "roe": 0.3502577942479658,
+      "roic": 0.23709610818622898
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:13.928251+00:00"
+  }
+}

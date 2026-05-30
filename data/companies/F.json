@@ -1,0 +1,128 @@
+{
+  "ticker": "F",
+  "name": "Ford Motor Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 69493047296.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 17.44,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 187267000000.0,
+    "operatingIncome": -9169000000.0,
+    "netIncome": -8182000000.0,
+    "eps": -2.06,
+    "freeCashFlow": 12467000000.0,
+    "totalDebt": 165738000000.0,
+    "cash": 23356000000.0,
+    "sharesOutstanding": 4208852076.0
+  },
+  "ratios": {
+    "roe": -0.2275812194036493,
+    "roic": -0.04546085576875403,
+    "grossMargin": 0.008971148146763712,
+    "operatingMargin": -0.04896217699861695,
+    "netMargin": -0.043691627462393266,
+    "debtToEquity": 4.25544
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 158057000000.0,
+      "operatingIncome": 6276000000.0,
+      "netIncome": -1981000000.0,
+      "eps": -0.49,
+      "freeCashFlow": -13000000.0,
+      "totalDebt": 140474000000.0,
+      "cash": 25134000000.0,
+      "sharesOutstanding": 3999960120.0,
+      "grossMargin": 0.10859373517148876,
+      "operatingMargin": 0.03970719424005264,
+      "netMargin": -0.0125334531213423,
+      "roe": -0.04581194209333518,
+      "roic": 0.03416142306603671
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 176191000000.0,
+      "operatingIncome": 5458000000.0,
+      "netIncome": 4347000000.0,
+      "eps": 1.08,
+      "freeCashFlow": 6682000000.0,
+      "totalDebt": 151107000000.0,
+      "cash": 24862000000.0,
+      "sharesOutstanding": 3973624198.0,
+      "grossMargin": 0.09171864624186253,
+      "operatingMargin": 0.030977745741836985,
+      "netMargin": 0.024672088812708937,
+      "roe": 0.10162953264910107,
+      "roic": 0.028151433876624717
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 184992000000.0,
+      "operatingIncome": 5219000000.0,
+      "netIncome": 5879000000.0,
+      "eps": 1.46,
+      "freeCashFlow": 6739000000.0,
+      "totalDebt": 160862000000.0,
+      "cash": 22935000000.0,
+      "sharesOutstanding": 3963444836.0,
+      "grossMargin": 0.08381984085798305,
+      "operatingMargin": 0.028212030790520672,
+      "netMargin": 0.03177975263795191,
+      "roe": 0.13112523698003792,
+      "roic": 0.025372270864426803
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 187267000000.0,
+      "operatingIncome": -9169000000.0,
+      "netIncome": -8182000000.0,
+      "eps": -2.06,
+      "freeCashFlow": 12467000000.0,
+      "totalDebt": 165738000000.0,
+      "cash": 23356000000.0,
+      "sharesOutstanding": 4208852076.0,
+      "grossMargin": 0.008971148146763712,
+      "operatingMargin": -0.04896217699861695,
+      "netMargin": -0.043691627462393266,
+      "roe": -0.2275812194036493,
+      "roic": -0.04546085576875403
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:23.083797+00:00"
+  }
+}

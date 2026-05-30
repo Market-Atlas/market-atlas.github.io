@@ -1,0 +1,128 @@
+{
+  "ticker": "LTFOODS",
+  "name": "LT Foods Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 136157872128.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 392.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 109455566000.0,
+    "operatingIncome": 9137869000.0,
+    "netIncome": 6253843000.0,
+    "eps": 18.01,
+    "freeCashFlow": 5508808000.0,
+    "totalDebt": 16100461000.0,
+    "cash": 2329485000.0,
+    "sharesOutstanding": 347252944.0
+  },
+  "ratios": {
+    "roe": 0.1383460043447576,
+    "roic": 0.14905627981249894,
+    "grossMargin": 0.3302797502321627,
+    "operatingMargin": 0.08348473571458212,
+    "netMargin": 0.057135906638132956,
+    "debtToEquity": 0.28488
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 68956106000.0,
+      "operatingIncome": 5757781000.0,
+      "netIncome": 4026519000.0,
+      "eps": 12.5,
+      "freeCashFlow": 1041855000.0,
+      "totalDebt": 12207366000.0,
+      "cash": 321540000.0,
+      "sharesOutstanding": 347252944.0,
+      "grossMargin": 0.32948359932041404,
+      "operatingMargin": 0.08349921905392976,
+      "netMargin": 0.058392493914897106,
+      "roe": 0.14604376330423752,
+      "roic": 0.1447478793490844
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 77395743000.0,
+      "operatingIncome": 7864608000.0,
+      "netIncome": 5933488000.0,
+      "eps": 17.09,
+      "freeCashFlow": 5541282000.0,
+      "totalDebt": 9174776000.0,
+      "cash": 496119000.0,
+      "sharesOutstanding": 347252944.0,
+      "grossMargin": 0.3116432902517649,
+      "operatingMargin": 0.10161551133374351,
+      "netMargin": 0.07666426821433835,
+      "roe": 0.17598325410734209,
+      "roic": 0.1833627318972211
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 86814663000.0,
+      "operatingIncome": 7925827000.0,
+      "netIncome": 6053404000.0,
+      "eps": 17.43,
+      "freeCashFlow": 2234490000.0,
+      "totalDebt": 12610389000.0,
+      "cash": 1426310000.0,
+      "sharesOutstanding": 347252944.0,
+      "grossMargin": 0.3387910634405158,
+      "operatingMargin": 0.09129594847358907,
+      "netMargin": 0.06972789838509193,
+      "roe": 0.1570822689749879,
+      "roic": 0.15496199389097004
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 109455566000.0,
+      "operatingIncome": 9137869000.0,
+      "netIncome": 6253843000.0,
+      "eps": 18.01,
+      "freeCashFlow": 5508808000.0,
+      "totalDebt": 16100461000.0,
+      "cash": 2329485000.0,
+      "sharesOutstanding": 347252944.0,
+      "grossMargin": 0.3302797502321627,
+      "operatingMargin": 0.08348473571458212,
+      "netMargin": 0.057135906638132956,
+      "roe": 0.1383460043447576,
+      "roic": 0.14905627981249894
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:20.901689+00:00"
+  }
+}

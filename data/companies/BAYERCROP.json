@@ -1,0 +1,128 @@
+{
+  "ticker": "BAYERCROP",
+  "name": "Bayer CropScience Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 202666360832.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4509.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 56750000000.0,
+    "operatingIncome": 7797000000.0,
+    "netIncome": 6892000000.0,
+    "eps": null,
+    "freeCashFlow": 10140000000.0,
+    "totalDebt": 818000000.0,
+    "cash": 14146000000.0,
+    "sharesOutstanding": 44942092.0
+  },
+  "ratios": {
+    "roe": 0.2323903294331861,
+    "roic": 0.2558490566037736,
+    "grossMargin": 0.40484581497797356,
+    "operatingMargin": 0.1373920704845815,
+    "netMargin": 0.12144493392070485,
+    "debtToEquity": 0.02758
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 143.58,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 49449000000.0,
+      "operatingIncome": 8598000000.0,
+      "netIncome": 7582000000.0,
+      "eps": 168.71,
+      "freeCashFlow": 5320000000.0,
+      "totalDebt": 735000000.0,
+      "cash": 8608000000.0,
+      "sharesOutstanding": 44942092.0,
+      "grossMargin": 0.4233048191065542,
+      "operatingMargin": 0.17387611478492992,
+      "netMargin": 0.15332969321927642,
+      "roe": 0.27956196305445963,
+      "roic": 0.30865881677197016
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 48921000000.0,
+      "operatingIncome": 9085000000.0,
+      "netIncome": 7405000000.0,
+      "eps": 164.77,
+      "freeCashFlow": 9059000000.0,
+      "totalDebt": 471000000.0,
+      "cash": 11568000000.0,
+      "sharesOutstanding": 44942092.0,
+      "grossMargin": 0.39839741624251346,
+      "operatingMargin": 0.1857075693464974,
+      "netMargin": 0.15136648882892828,
+      "roe": 0.25987927282936757,
+      "roic": 0.31365441049542553
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 54734000000.0,
+      "operatingIncome": 6047000000.0,
+      "netIncome": 5680000000.0,
+      "eps": 126.38,
+      "freeCashFlow": 2186000000.0,
+      "totalDebt": 1051000000.0,
+      "cash": 8855000000.0,
+      "sharesOutstanding": 44942092.0,
+      "grossMargin": 0.37903314210545547,
+      "operatingMargin": 0.11047977491138963,
+      "netMargin": 0.10377461906675924,
+      "roe": 0.19927027785573956,
+      "roic": 0.20460159025545593
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 56750000000.0,
+      "operatingIncome": 7797000000.0,
+      "netIncome": 6892000000.0,
+      "eps": null,
+      "freeCashFlow": 10140000000.0,
+      "totalDebt": 818000000.0,
+      "cash": 14146000000.0,
+      "sharesOutstanding": 44942092.0,
+      "grossMargin": 0.40484581497797356,
+      "operatingMargin": 0.1373920704845815,
+      "netMargin": 0.12144493392070485,
+      "roe": 0.2323903294331861,
+      "roic": 0.2558490566037736
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:00.013974+00:00"
+  }
+}

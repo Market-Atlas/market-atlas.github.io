@@ -1,0 +1,128 @@
+{
+  "ticker": "D",
+  "name": "Dominion Energy, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58874568704.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 66.94,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16506000000.0,
+    "operatingIncome": 4931000000.0,
+    "netIncome": 2998000000.0,
+    "eps": 3.45,
+    "freeCashFlow": -7280000000.0,
+    "totalDebt": 48941000000.0,
+    "cash": 250000000.0,
+    "sharesOutstanding": 879000000.0
+  },
+  "ratios": {
+    "roe": 0.1030842760375477,
+    "roic": 0.06319850302471035,
+    "grossMargin": 0.49018538713195203,
+    "operatingMargin": 0.2987398521749667,
+    "netMargin": 0.18163092208893736,
+    "debtToEquity": 1.54901
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13938000000.0,
+      "operatingIncome": 3260000000.0,
+      "netIncome": 1191000000.0,
+      "eps": 1.09,
+      "freeCashFlow": -3891000000.0,
+      "totalDebt": 41203000000.0,
+      "cash": 119000000.0,
+      "sharesOutstanding": 835000000.0,
+      "grossMargin": 0.4575261874013488,
+      "operatingMargin": 0.2338929545128426,
+      "netMargin": 0.08544984933275936,
+      "roe": 0.04306012509490582,
+      "roic": 0.04734105892945311
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14393000000.0,
+      "operatingIncome": 3721000000.0,
+      "netIncome": 1962000000.0,
+      "eps": 2.29,
+      "freeCashFlow": -3639000000.0,
+      "totalDebt": 44243000000.0,
+      "cash": 184000000.0,
+      "sharesOutstanding": 838000000.0,
+      "grossMargin": 0.4853053567706524,
+      "operatingMargin": 0.2585284513305079,
+      "netMargin": 0.13631626485096923,
+      "roe": 0.07117205354227882,
+      "roic": 0.05181729564127559
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14459000000.0,
+      "operatingIncome": 3847000000.0,
+      "netIncome": 2034000000.0,
+      "eps": 2.44,
+      "freeCashFlow": -7180000000.0,
+      "totalDebt": 41750000000.0,
+      "cash": 310000000.0,
+      "sharesOutstanding": 852000000.0,
+      "grossMargin": 0.4788021301611453,
+      "operatingMargin": 0.26606265993498857,
+      "netMargin": 0.1406736288816654,
+      "roe": 0.07571752968767449,
+      "roic": 0.05606809205252649
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16506000000.0,
+      "operatingIncome": 4931000000.0,
+      "netIncome": 2998000000.0,
+      "eps": 3.45,
+      "freeCashFlow": -7280000000.0,
+      "totalDebt": 48941000000.0,
+      "cash": 250000000.0,
+      "sharesOutstanding": 879000000.0,
+      "grossMargin": 0.49018538713195203,
+      "operatingMargin": 0.2987398521749667,
+      "netMargin": 0.18163092208893736,
+      "roe": 0.1030842760375477,
+      "roic": 0.06319850302471035
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:08.689785+00:00"
+  }
+}

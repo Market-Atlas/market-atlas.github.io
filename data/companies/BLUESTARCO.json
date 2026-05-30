@@ -1,0 +1,128 @@
+{
+  "ticker": "BLUESTARCO",
+  "name": "Blue Star Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 326686703616.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1589.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 124019900000.0,
+    "operatingIncome": 7516100000.0,
+    "netIncome": 5276800000.0,
+    "eps": 25.65,
+    "freeCashFlow": -1752200000.0,
+    "totalDebt": 8099900000.0,
+    "cash": 3689900000.0,
+    "sharesOutstanding": 205614788.0
+  },
+  "ratios": {
+    "roe": 0.15377935017966377,
+    "roic": 0.17720799735936246,
+    "grossMargin": 0.23060008917923655,
+    "operatingMargin": 0.060603983715516625,
+    "netMargin": 0.04254801044025999,
+    "debtToEquity": 0.23588
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 78984800000.0,
+      "operatingIncome": 4233600000.0,
+      "netIncome": 4004600000.0,
+      "eps": 20.789318,
+      "freeCashFlow": -1171300000.0,
+      "totalDebt": 6619500000.0,
+      "cash": 2393500000.0,
+      "sharesOutstanding": 192627776.0,
+      "grossMargin": 0.2141690553119081,
+      "operatingMargin": 0.05360018636497149,
+      "netMargin": 0.05070089434929252,
+      "roe": 0.30095066320970953,
+      "roic": 0.21246612466124662
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 95756500000.0,
+      "operatingIncome": 5801100000.0,
+      "netIncome": 4149500000.0,
+      "eps": 20.77,
+      "freeCashFlow": -1517400000.0,
+      "totalDebt": 2429300000.0,
+      "cash": 3736400000.0,
+      "sharesOutstanding": 205614788.0,
+      "grossMargin": 0.22499673651397034,
+      "operatingMargin": 0.060581788181481154,
+      "netMargin": 0.04333387289635691,
+      "roe": 0.15897919228838853,
+      "roic": 0.20333190794316197
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 119676500000.0,
+      "operatingIncome": 7475500000.0,
+      "netIncome": 5912400000.0,
+      "eps": 28.76,
+      "freeCashFlow": 3160400000.0,
+      "totalDebt": 3810000000.0,
+      "cash": 4255900000.0,
+      "sharesOutstanding": 205614788.0,
+      "grossMargin": 0.24176091379677714,
+      "operatingMargin": 0.06246422647721148,
+      "netMargin": 0.04940318274682164,
+      "roe": 0.19289923067386183,
+      "roic": 0.21693141653269568
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 124019900000.0,
+      "operatingIncome": 7516100000.0,
+      "netIncome": 5276800000.0,
+      "eps": 25.65,
+      "freeCashFlow": -1752200000.0,
+      "totalDebt": 8099900000.0,
+      "cash": 3689900000.0,
+      "sharesOutstanding": 205614788.0,
+      "grossMargin": 0.23060008917923655,
+      "operatingMargin": 0.060603983715516625,
+      "netMargin": 0.04254801044025999,
+      "roe": 0.15377935017966377,
+      "roic": 0.17720799735936246
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:04.041752+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 4583336181760.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 312.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 416161000000.0,
+    "operatingIncome": 133050000000.0,
+    "netIncome": 112010000000.0,
+    "eps": 7.46,
+    "freeCashFlow": 98767000000.0,
+    "totalDebt": 98657000000.0,
+    "cash": 35934000000.0,
+    "sharesOutstanding": 14773260000.0
+  },
+  "ratios": {
+    "roe": 1.5191298333175105,
+    "roic": 0.7717965079180927,
+    "grossMargin": 0.4690516410716045,
+    "operatingMargin": 0.31970799762591884,
+    "netMargin": 0.2691506412181824,
+    "debtToEquity": 0.79548
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 394328000000.0,
+      "operatingIncome": 119437000000.0,
+      "netIncome": 99803000000.0,
+      "eps": 6.11,
+      "freeCashFlow": 111443000000.0,
+      "totalDebt": 132480000000.0,
+      "cash": 23646000000.0,
+      "sharesOutstanding": 15943425000.0,
+      "grossMargin": 0.43309630561360085,
+      "operatingMargin": 0.30288744395528594,
+      "netMargin": 0.2530964070519973,
+      "roe": 1.9695887275023682,
+      "roic": 0.6521195509740544
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 383285000000.0,
+      "operatingIncome": 114301000000.0,
+      "netIncome": 96995000000.0,
+      "eps": 6.13,
+      "freeCashFlow": 99584000000.0,
+      "totalDebt": 111088000000.0,
+      "cash": 29965000000.0,
+      "sharesOutstanding": 15550061000.0,
+      "grossMargin": 0.4413112957720756,
+      "operatingMargin": 0.2982141226502472,
+      "netMargin": 0.2530623426432028,
+      "roe": 1.5607601454639075,
+      "roic": 0.6598069662999181
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 391035000000.0,
+      "operatingIncome": 123216000000.0,
+      "netIncome": 93736000000.0,
+      "eps": 6.08,
+      "freeCashFlow": 108807000000.0,
+      "totalDebt": 106629000000.0,
+      "cash": 29943000000.0,
+      "sharesOutstanding": 15116786000.0,
+      "grossMargin": 0.4620634981523393,
+      "operatingMargin": 0.31510222870075566,
+      "netMargin": 0.23971255769943867,
+      "roe": 1.6459350307287095,
+      "roic": 0.7532507228923028
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 416161000000.0,
+      "operatingIncome": 133050000000.0,
+      "netIncome": 112010000000.0,
+      "eps": 7.46,
+      "freeCashFlow": 98767000000.0,
+      "totalDebt": 98657000000.0,
+      "cash": 35934000000.0,
+      "sharesOutstanding": 14773260000.0,
+      "grossMargin": 0.4690516410716045,
+      "operatingMargin": 0.31970799762591884,
+      "netMargin": 0.2691506412181824,
+      "roe": 1.5191298333175105,
+      "roic": 0.7717965079180927
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.033127+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CPRT",
+  "name": "Copart, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 31567618048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.77,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4646958000.0,
+    "operatingIncome": 1696714000.0,
+    "netIncome": 1552449000.0,
+    "eps": 1.59,
+    "freeCashFlow": 1230760000.0,
+    "totalDebt": 103739000.0,
+    "cash": 2780531000.0,
+    "sharesOutstanding": 967478690.0
+  },
+  "ratios": {
+    "roe": 0.16898263019192378,
+    "roic": 0.18262357530676676,
+    "grossMargin": 0.4518317144247914,
+    "operatingMargin": 0.36512359268149186,
+    "netMargin": 0.33407855203339476,
+    "debtToEquity": 0.010589999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-07-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 3500921000.0,
+      "operatingIncome": 1374997000.0,
+      "netIncome": 1090130000.0,
+      "eps": 1.13,
+      "freeCashFlow": 839235000.0,
+      "totalDebt": 119473000.0,
+      "cash": 1384236000.0,
+      "sharesOutstanding": 952163896.0,
+      "grossMargin": 0.4587995558882934,
+      "operatingMargin": 0.39275293558466473,
+      "netMargin": 0.31138377586926413,
+      "roe": 0.23567326091172192,
+      "roic": 0.28977368520435515
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 3869518000.0,
+      "operatingIncome": 1486569000.0,
+      "netIncome": 1237741000.0,
+      "eps": 1.28,
+      "freeCashFlow": 847574000.0,
+      "totalDebt": 120453000.0,
+      "cash": 957395000.0,
+      "sharesOutstanding": 957344162.0,
+      "grossMargin": 0.44889079208314836,
+      "operatingMargin": 0.38417420464254204,
+      "netMargin": 0.31986955481276996,
+      "roe": 0.20672290661785336,
+      "roic": 0.24338491194917788
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 4236823000.0,
+      "operatingIncome": 1572023000.0,
+      "netIncome": 1363020000.0,
+      "eps": 1.4,
+      "freeCashFlow": 961574000.0,
+      "totalDebt": 118733000.0,
+      "cash": 1514111000.0,
+      "sharesOutstanding": 962967011.0,
+      "grossMargin": 0.45016088706089447,
+      "operatingMargin": 0.37103815760063613,
+      "netMargin": 0.3217080345343669,
+      "roe": 0.181156034992506,
+      "roic": 0.20568829729217675
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": 4646958000.0,
+      "operatingIncome": 1696714000.0,
+      "netIncome": 1552449000.0,
+      "eps": 1.59,
+      "freeCashFlow": 1230760000.0,
+      "totalDebt": 103739000.0,
+      "cash": 2780531000.0,
+      "sharesOutstanding": 967478690.0,
+      "grossMargin": 0.4518317144247914,
+      "operatingMargin": 0.36512359268149186,
+      "netMargin": 0.33407855203339476,
+      "roe": 0.16898263019192378,
+      "roic": 0.18262357530676676
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:05.194375+00:00"
+  }
+}

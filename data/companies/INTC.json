@@ -1,0 +1,111 @@
+{
+  "ticker": "INTC",
+  "name": "Intel Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 576381648896.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 114.68,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 52853000000.0,
+    "operatingIncome": -23000000.0,
+    "netIncome": -267000000.0,
+    "eps": -0.06,
+    "freeCashFlow": -4949000000.0,
+    "totalDebt": 46585000000.0,
+    "cash": 14265000000.0,
+    "sharesOutstanding": 4994000000.0
+  },
+  "ratios": {
+    "roe": -0.002336346374287939,
+    "roic": -0.00014297614163340916,
+    "grossMargin": 0.34766238434904356,
+    "operatingMargin": -0.0004351692429947212,
+    "netMargin": -0.005051747299112633,
+    "debtToEquity": 0.36028
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 63054000000.0,
+      "operatingIncome": 2336000000.0,
+      "netIncome": 8014000000.0,
+      "eps": 1.94,
+      "freeCashFlow": -9411000000.0,
+      "totalDebt": 42007000000.0,
+      "cash": 11144000000.0,
+      "sharesOutstanding": 4137000000.0,
+      "grossMargin": 0.426079233672725,
+      "operatingMargin": 0.03704760998509214,
+      "netMargin": 0.1270974085704317,
+      "roe": 0.07901560789958885,
+      "roic": 0.016286690371609843
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 54228000000.0,
+      "operatingIncome": 31000000.0,
+      "netIncome": 1689000000.0,
+      "eps": 0.4,
+      "freeCashFlow": -14279000000.0,
+      "totalDebt": 49266000000.0,
+      "cash": 7079000000.0,
+      "sharesOutstanding": 4228000000.0,
+      "grossMargin": 0.400365125027661,
+      "operatingMargin": 0.0005716603968429593,
+      "netMargin": 0.031146271298959947,
+      "roe": 0.01599583293872526,
+      "roic": 0.00020018597923231906
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53101000000.0,
+      "operatingIncome": -4708000000.0,
+      "netIncome": -18756000000.0,
+      "eps": -4.38,
+      "freeCashFlow": -15656000000.0,
+      "totalDebt": 50011000000.0,
+      "cash": 8249000000.0,
+      "sharesOutstanding": 4330000000.0,
+      "grossMargin": 0.32664168283083184,
+      "operatingMargin": -0.0886612304853016,
+      "netMargin": -0.35321368712453627,
+      "roe": -0.18893925657298277,
+      "roic": -0.031537838036990645
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 52853000000.0,
+      "operatingIncome": -23000000.0,
+      "netIncome": -267000000.0,
+      "eps": -0.06,
+      "freeCashFlow": -4949000000.0,
+      "totalDebt": 46585000000.0,
+      "cash": 14265000000.0,
+      "sharesOutstanding": 4994000000.0,
+      "grossMargin": 0.34766238434904356,
+      "operatingMargin": -0.0004351692429947212,
+      "netMargin": -0.005051747299112633,
+      "roe": -0.002336346374287939,
+      "roic": -0.00014297614163340916
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.259124+00:00"
+  }
+}

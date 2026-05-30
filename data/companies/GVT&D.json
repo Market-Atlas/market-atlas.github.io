@@ -1,0 +1,128 @@
+{
+  "ticker": "GVT&D",
+  "name": "GE Vernova T&D India Ltd",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1318281150464.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5148.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 62063100000.0,
+    "operatingIncome": 16372000000.0,
+    "netIncome": 12332500000.0,
+    "eps": 48.16,
+    "freeCashFlow": 15214600000.0,
+    "totalDebt": 240000000.0,
+    "cash": 15252600000.0,
+    "sharesOutstanding": 256046535.0
+  },
+  "ratios": {
+    "roe": 0.45840782963918386,
+    "roic": 0.6031779949821132,
+    "grossMargin": 0.45267477776649895,
+    "operatingMargin": 0.2637960398368757,
+    "netMargin": 0.19870905578354933,
+    "debtToEquity": 0.00892
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 27490300000.0,
+      "operatingIncome": 1076100000.0,
+      "netIncome": -14900000.0,
+      "eps": -0.06,
+      "freeCashFlow": -537700000.0,
+      "totalDebt": 2733300000.0,
+      "cash": 446700000.0,
+      "sharesOutstanding": 256046535.0,
+      "grossMargin": 0.28012062436568536,
+      "operatingMargin": 0.03914471650000182,
+      "netMargin": -0.0005420093633026923,
+      "roe": -0.0013890054161889048,
+      "roic": 0.07994561825800124
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 31624100000.0,
+      "operatingIncome": 3077100000.0,
+      "netIncome": 1810500000.0,
+      "eps": 7.07,
+      "freeCashFlow": 4892000000.0,
+      "totalDebt": 418200000.0,
+      "cash": 1319400000.0,
+      "sharesOutstanding": 256046535.0,
+      "grossMargin": 0.3402974313893518,
+      "operatingMargin": 0.09730237382249614,
+      "netMargin": 0.05725064112496482,
+      "roe": 0.14566270294624037,
+      "roic": 0.23950776798779538
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 42923000000.0,
+      "operatingIncome": 7713900000.0,
+      "netIncome": 6083300000.0,
+      "eps": 23.76,
+      "freeCashFlow": 8162100000.0,
+      "totalDebt": 345600000.0,
+      "cash": 4711900000.0,
+      "sharesOutstanding": 256046535.0,
+      "grossMargin": 0.40435663863196886,
+      "operatingMargin": 0.17971483819863476,
+      "netMargin": 0.14172588122917784,
+      "roe": 0.34308644133753685,
+      "roic": 0.42673164902886035
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 62063100000.0,
+      "operatingIncome": 16372000000.0,
+      "netIncome": 12332500000.0,
+      "eps": 48.16,
+      "freeCashFlow": 15214600000.0,
+      "totalDebt": 240000000.0,
+      "cash": 15252600000.0,
+      "sharesOutstanding": 256046535.0,
+      "grossMargin": 0.45267477776649895,
+      "operatingMargin": 0.2637960398368757,
+      "netMargin": 0.19870905578354933,
+      "roe": 0.45840782963918386,
+      "roic": 0.6031779949821132
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:50.483117+00:00"
+  }
+}

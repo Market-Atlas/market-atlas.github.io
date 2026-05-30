@@ -1,0 +1,128 @@
+{
+  "ticker": "COP",
+  "name": "ConocoPhillips",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 138861150208.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 113.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 58944000000.0,
+    "operatingIncome": 11342000000.0,
+    "netIncome": 7988000000.0,
+    "eps": 6.35,
+    "freeCashFlow": 7243000000.0,
+    "totalDebt": 23444000000.0,
+    "cash": 6497000000.0,
+    "sharesOutstanding": 2253518282.0
+  },
+  "ratios": {
+    "roe": 0.12386992727216338,
+    "roic": 0.1289875015637261,
+    "grossMargin": 0.2508821932681867,
+    "operatingMargin": 0.19241992399565688,
+    "netMargin": 0.1355184581976113,
+    "debtToEquity": 0.36143000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 78494000000.0,
+      "operatingIncome": 25462000000.0,
+      "netIncome": 18680000000.0,
+      "eps": 14.57,
+      "freeCashFlow": 18155000000.0,
+      "totalDebt": 16643000000.0,
+      "cash": 6458000000.0,
+      "sharesOutstanding": 2100885134.0,
+      "grossMargin": 0.3823604351924988,
+      "operatingMargin": 0.32438148138711237,
+      "netMargin": 0.23797997299156623,
+      "roe": 0.3891423452700873,
+      "roic": 0.3938681434272809
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 56141000000.0,
+      "operatingIncome": 15026000000.0,
+      "netIncome": 10957000000.0,
+      "eps": 9.06,
+      "freeCashFlow": 8717000000.0,
+      "totalDebt": 18937000000.0,
+      "cash": 5635000000.0,
+      "sharesOutstanding": 2103772516.0,
+      "grossMargin": 0.3242371885075079,
+      "operatingMargin": 0.2676475303254306,
+      "netMargin": 0.19516930585490105,
+      "roe": 0.22234623267517603,
+      "roic": 0.22027090418670106
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 54745000000.0,
+      "operatingIncome": 12783000000.0,
+      "netIncome": 9245000000.0,
+      "eps": 7.81,
+      "freeCashFlow": 8006000000.0,
+      "totalDebt": 24324000000.0,
+      "cash": 5607000000.0,
+      "sharesOutstanding": 2250672734.0,
+      "grossMargin": 0.29926020641154444,
+      "operatingMargin": 0.23350077632660518,
+      "netMargin": 0.1688738697597954,
+      "roe": 0.14267856040496327,
+      "roic": 0.14343581687612209
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 58944000000.0,
+      "operatingIncome": 11342000000.0,
+      "netIncome": 7988000000.0,
+      "eps": 6.35,
+      "freeCashFlow": 7243000000.0,
+      "totalDebt": 23444000000.0,
+      "cash": 6497000000.0,
+      "sharesOutstanding": 2253518282.0,
+      "grossMargin": 0.2508821932681867,
+      "operatingMargin": 0.19241992399565688,
+      "netMargin": 0.1355184581976113,
+      "roe": 0.12386992727216338,
+      "roic": 0.1289875015637261
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:04.423796+00:00"
+  }
+}

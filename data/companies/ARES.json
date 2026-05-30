@@ -1,0 +1,128 @@
+{
+  "ticker": "ARES",
+  "name": "Ares Management Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 42385289216.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 128.5,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5601482000.0,
+    "operatingIncome": 892716000.0,
+    "netIncome": 527362000.0,
+    "eps": 1.71,
+    "freeCashFlow": 3194781000.0,
+    "totalDebt": 14222266000.0,
+    "cash": 1447984000.0,
+    "sharesOutstanding": 221955340.0
+  },
+  "ratios": {
+    "roe": 0.12334617326825188,
+    "roic": 0.0482608432635163,
+    "grossMargin": 0.5419738919093197,
+    "operatingMargin": 0.15937139492727104,
+    "netMargin": 0.09414687041750737,
+    "debtToEquity": 1.68762
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3055443000.0,
+      "operatingIncome": 306358000.0,
+      "netIncome": 167541000.0,
+      "eps": 0.87,
+      "freeCashFlow": -769908000.0,
+      "totalDebt": 13334236000.0,
+      "cash": 1114628000.0,
+      "sharesOutstanding": 177381947.0,
+      "grossMargin": 0.5095342966633644,
+      "operatingMargin": 0.10026631162813379,
+      "netMargin": 0.054833619871161074,
+      "roe": 0.1054221548804176,
+      "roic": 0.02052859672428841
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3631884000.0,
+      "operatingIncome": 834026000.0,
+      "netIncome": 474326000.0,
+      "eps": 2.42,
+      "freeCashFlow": -300444000.0,
+      "totalDebt": 15755950000.0,
+      "cash": 1497785000.0,
+      "sharesOutstanding": 190559818.0,
+      "grossMargin": 0.5906537763871313,
+      "operatingMargin": 0.2296400435696735,
+      "netMargin": 0.1306005368012855,
+      "roe": 0.25051560711714754,
+      "roic": 0.047255340692736035
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3884781000.0,
+      "operatingIncome": 946090000.0,
+      "netIncome": 463742000.0,
+      "eps": 2.04,
+      "freeCashFlow": 2699645000.0,
+      "totalDebt": 13147967000.0,
+      "cash": 2735465000.0,
+      "sharesOutstanding": 203362482.0,
+      "grossMargin": 0.5542227476915688,
+      "operatingMargin": 0.24353753789467153,
+      "netMargin": 0.11937403936026252,
+      "roe": 0.13086578061126874,
+      "roic": 0.05668056166890521
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5601482000.0,
+      "operatingIncome": 892716000.0,
+      "netIncome": 527362000.0,
+      "eps": 1.71,
+      "freeCashFlow": 3194781000.0,
+      "totalDebt": 14222266000.0,
+      "cash": 1447984000.0,
+      "sharesOutstanding": 221955340.0,
+      "grossMargin": 0.5419738919093197,
+      "operatingMargin": 0.15937139492727104,
+      "netMargin": 0.09414687041750737,
+      "roe": 0.12334617326825188,
+      "roic": 0.0482608432635163
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.877018+00:00"
+  }
+}

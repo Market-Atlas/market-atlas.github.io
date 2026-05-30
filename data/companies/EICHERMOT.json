@@ -1,0 +1,128 @@
+{
+  "ticker": "EICHERMOT",
+  "name": "Eicher Motors Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1970068783104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7177.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 229775700000.0,
+    "operatingIncome": 49447000000.0,
+    "netIncome": 55152300000.0,
+    "eps": null,
+    "freeCashFlow": 35295800000.0,
+    "totalDebt": 5139500000.0,
+    "cash": 2342900000.0,
+    "sharesOutstanding": 274314204.0
+  },
+  "ratios": {
+    "roe": 0.21972896576315282,
+    "roic": 0.19304601762310603,
+    "grossMargin": 0.4312853796115081,
+    "operatingMargin": 0.21519682020335484,
+    "netMargin": 0.24002668689508944,
+    "debtToEquity": 0.02048
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 61.26,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 141759000000.0,
+      "operatingIncome": 29652600000.0,
+      "netIncome": 29139400000.0,
+      "eps": 106.38,
+      "freeCashFlow": 21401700000.0,
+      "totalDebt": 2884100000.0,
+      "cash": 888100000.0,
+      "sharesOutstanding": 273653620.0,
+      "grossMargin": 0.40221432148928815,
+      "operatingMargin": 0.2091761369648488,
+      "netMargin": 0.20555590826684725,
+      "roe": 0.19438863049923016,
+      "roic": 0.1940781572242123
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 162340200000.0,
+      "operatingIncome": 37975500000.0,
+      "netIncome": 40010100000.0,
+      "eps": 145.92,
+      "freeCashFlow": 29052000000.0,
+      "totalDebt": 4194400000.0,
+      "cash": 1072100000.0,
+      "sharesOutstanding": 273805630.0,
+      "grossMargin": 0.43206981388466936,
+      "operatingMargin": 0.23392542327778332,
+      "netMargin": 0.24645836336286392,
+      "roe": 0.2217175112063763,
+      "roic": 0.20566239750186435
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 185382100000.0,
+      "operatingIncome": 39827000000.0,
+      "netIncome": 47344400000.0,
+      "eps": 172.37,
+      "freeCashFlow": 29405900000.0,
+      "totalDebt": 4581300000.0,
+      "cash": 2189600000.0,
+      "sharesOutstanding": 274164080.0,
+      "grossMargin": 0.4445483139957957,
+      "operatingMargin": 0.2148373548470969,
+      "netMargin": 0.2553881955161798,
+      "roe": 0.22231081272078168,
+      "roic": 0.18307375628717026
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 229775700000.0,
+      "operatingIncome": 49447000000.0,
+      "netIncome": 55152300000.0,
+      "eps": null,
+      "freeCashFlow": 35295800000.0,
+      "totalDebt": 5139500000.0,
+      "cash": 2342900000.0,
+      "sharesOutstanding": 274314204.0,
+      "grossMargin": 0.4312853796115081,
+      "operatingMargin": 0.21519682020335484,
+      "netMargin": 0.24002668689508944,
+      "roe": 0.21972896576315282,
+      "roic": 0.19304601762310603
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.530930+00:00"
+  }
+}

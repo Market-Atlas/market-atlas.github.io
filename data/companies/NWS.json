@@ -1,0 +1,128 @@
+{
+  "ticker": "NWS",
+  "name": "News Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16274761728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 29.82,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8452000000.0,
+    "operatingIncome": 956000000.0,
+    "netIncome": 1180000000.0,
+    "eps": 2.07,
+    "freeCashFlow": 571000000.0,
+    "totalDebt": 2940000000.0,
+    "cash": 2403000000.0,
+    "sharesOutstanding": 671184523.0
+  },
+  "ratios": {
+    "roe": 0.13448826077045817,
+    "roic": 0.08161174662796654,
+    "grossMargin": 0.5717,
+    "operatingMargin": 0.11310932323710364,
+    "netMargin": 0.1396119261713204,
+    "debtToEquity": 0.31559000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 10385000000.0,
+      "operatingIncome": 981000000.0,
+      "netIncome": 623000000.0,
+      "eps": 1.05,
+      "freeCashFlow": 855000000.0,
+      "totalDebt": 4155000000.0,
+      "cash": 1822000000.0,
+      "sharesOutstanding": 690169520.0,
+      "grossMargin": null,
+      "operatingMargin": 0.09446316803081367,
+      "netMargin": 0.05999037072701011,
+      "roe": 0.07577231817076137,
+      "roic": 0.07925991758907651
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 8012000000.0,
+      "operatingIncome": 674000000.0,
+      "netIncome": 149000000.0,
+      "eps": 0.26,
+      "freeCashFlow": 430000000.0,
+      "totalDebt": 4207000000.0,
+      "cash": 1833000000.0,
+      "sharesOutstanding": 677758653.0,
+      "grossMargin": null,
+      "operatingMargin": 0.08412381427858212,
+      "netMargin": 0.01859710434348477,
+      "roe": 0.01847718253968254,
+      "roic": 0.05492624887947192
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 8252000000.0,
+      "operatingIncome": 801000000.0,
+      "netIncome": 266000000.0,
+      "eps": 0.46,
+      "freeCashFlow": 540000000.0,
+      "totalDebt": 3103000000.0,
+      "cash": 1872000000.0,
+      "sharesOutstanding": 674892758.0,
+      "grossMargin": null,
+      "operatingMargin": 0.09706737760542898,
+      "netMargin": 0.03223460979156568,
+      "roe": 0.032758620689655175,
+      "roic": 0.07137129109863673
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 8452000000.0,
+      "operatingIncome": 956000000.0,
+      "netIncome": 1180000000.0,
+      "eps": 2.07,
+      "freeCashFlow": 571000000.0,
+      "totalDebt": 2940000000.0,
+      "cash": 2403000000.0,
+      "sharesOutstanding": 671184523.0,
+      "grossMargin": null,
+      "operatingMargin": 0.11310932323710364,
+      "netMargin": 0.1396119261713204,
+      "roe": 0.13448826077045817,
+      "roic": 0.08161174662796654
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:02.936247+00:00"
+  }
+}

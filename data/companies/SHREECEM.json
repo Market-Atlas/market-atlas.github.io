@@ -1,0 +1,128 @@
+{
+  "ticker": "SHREECEM",
+  "name": "Shree Cement Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 911940911104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 25275.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 209434700000.0,
+    "operatingIncome": 18439000000.0,
+    "netIncome": 17435600000.0,
+    "eps": 483.24,
+    "freeCashFlow": 18849100000.0,
+    "totalDebt": 18681400000.0,
+    "cash": 1149200000.0,
+    "sharesOutstanding": 36080748.0
+  },
+  "ratios": {
+    "roe": 0.07493532833094016,
+    "roic": 0.07335790134100265,
+    "grossMargin": 0.6571671265554371,
+    "operatingMargin": 0.0880417619429827,
+    "netMargin": 0.08325076981035139,
+    "debtToEquity": 0.38149
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 174410400000.0,
+      "operatingIncome": 12950200000.0,
+      "netIncome": 12707000000.0,
+      "eps": 352.18,
+      "freeCashFlow": -7457100000.0,
+      "totalDebt": 27246700000.0,
+      "cash": 461700000.0,
+      "sharesOutstanding": 36080748.0,
+      "grossMargin": 0.5232405865705256,
+      "operatingMargin": 0.07425130611477297,
+      "netMargin": 0.0728568938549536,
+      "roe": 0.06818376939752313,
+      "roic": 0.06062524021502668
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 200916600000.0,
+      "operatingIncome": 25905500000.0,
+      "netIncome": 23957000000.0,
+      "eps": 663.98,
+      "freeCashFlow": 1471400000.0,
+      "totalDebt": 16555500000.0,
+      "cash": 2623600000.0,
+      "sharesOutstanding": 36080748.0,
+      "grossMargin": 0.5674354433630671,
+      "operatingMargin": 0.12893658363719077,
+      "netMargin": 0.11923852981784482,
+      "roe": 0.1157179760149776,
+      "roic": 0.11586436817903908
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 192828300000.0,
+      "operatingIncome": 9272500000.0,
+      "netIncome": 11227700000.0,
+      "eps": 311.18,
+      "freeCashFlow": 8156100000.0,
+      "totalDebt": 10461300000.0,
+      "cash": 1411500000.0,
+      "sharesOutstanding": 36080748.0,
+      "grossMargin": 0.6359559255565703,
+      "operatingMargin": 0.04808682128090119,
+      "netMargin": 0.05822641178706652,
+      "roe": 0.0521303293055217,
+      "roic": 0.041058046712965174
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 209434700000.0,
+      "operatingIncome": 18439000000.0,
+      "netIncome": 17435600000.0,
+      "eps": 483.24,
+      "freeCashFlow": 18849100000.0,
+      "totalDebt": 18681400000.0,
+      "cash": 1149200000.0,
+      "sharesOutstanding": 36080748.0,
+      "grossMargin": 0.6571671265554371,
+      "operatingMargin": 0.0880417619429827,
+      "netMargin": 0.08325076981035139,
+      "roe": 0.07493532833094016,
+      "roic": 0.07335790134100265
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:54.222245+00:00"
+  }
+}

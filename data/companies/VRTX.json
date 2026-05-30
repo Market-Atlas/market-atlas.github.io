@@ -1,0 +1,128 @@
+{
+  "ticker": "VRTX",
+  "name": "Vertex Pharmaceuticals Incorporated",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "USD",
+  "marketCap": {
+    "value": 113588084736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 447.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12001300000.0,
+    "operatingIncome": 4554400000.0,
+    "netIncome": 3953200000.0,
+    "eps": 15.32,
+    "freeCashFlow": 3193800000.0,
+    "totalDebt": 2030500000.0,
+    "cash": 5084800000.0,
+    "sharesOutstanding": 253991224.0
+  },
+  "ratios": {
+    "roe": 0.21178840446163572,
+    "roic": 0.22005865782772766,
+    "grossMargin": 0.8624065726212994,
+    "operatingMargin": 0.3794922216759851,
+    "netMargin": 0.32939764858806964,
+    "debtToEquity": 0.1026
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8930700000.0,
+      "operatingIncome": 4249900000.0,
+      "netIncome": 3322000000.0,
+      "eps": 12.82,
+      "freeCashFlow": 3925200000.0,
+      "totalDebt": 899700000.0,
+      "cash": 10504000000.0,
+      "sharesOutstanding": 257011628.0,
+      "grossMargin": 0.879035237999261,
+      "operatingMargin": 0.4758753513162462,
+      "netMargin": 0.3719753210834537,
+      "roe": 0.23877464474904225,
+      "roic": 0.2869150171477951
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9869200000.0,
+      "operatingIncome": 3780400000.0,
+      "netIncome": 3619600000.0,
+      "eps": 13.89,
+      "freeCashFlow": 3278900000.0,
+      "totalDebt": 808400000.0,
+      "cash": 10369100000.0,
+      "sharesOutstanding": 257695221.0,
+      "grossMargin": 0.8721071616747051,
+      "operatingMargin": 0.38305029789648604,
+      "netMargin": 0.36675718396627893,
+      "roe": 0.20588837569111054,
+      "roic": 0.20558165840076567
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11020100000.0,
+      "operatingIncome": -233400000.0,
+      "netIncome": -535600000.0,
+      "eps": -2.08,
+      "freeCashFlow": -978000000.0,
+      "totalDebt": 1744300000.0,
+      "cash": 4569600000.0,
+      "sharesOutstanding": 256940382.0,
+      "grossMargin": 0.8611174127276522,
+      "operatingMargin": -0.0211794811299353,
+      "netMargin": -0.04860209979945736,
+      "roe": -0.032639430577223086,
+      "roic": -0.012856741526614117
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12001300000.0,
+      "operatingIncome": 4554400000.0,
+      "netIncome": 3953200000.0,
+      "eps": 15.32,
+      "freeCashFlow": 3193800000.0,
+      "totalDebt": 2030500000.0,
+      "cash": 5084800000.0,
+      "sharesOutstanding": 253991224.0,
+      "grossMargin": 0.8624065726212994,
+      "operatingMargin": 0.3794922216759851,
+      "netMargin": 0.32939764858806964,
+      "roe": 0.21178840446163572,
+      "roic": 0.22005865782772766
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:36.111690+00:00"
+  }
+}

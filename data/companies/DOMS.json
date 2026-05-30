@@ -1,0 +1,128 @@
+{
+  "ticker": "DOMS",
+  "name": "DOMS Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "currency": "INR",
+  "marketCap": {
+    "value": 132610088960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2185.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23263652000.0,
+    "operatingIncome": 3144854000.0,
+    "netIncome": 2301822000.0,
+    "eps": 37.79,
+    "freeCashFlow": -384923000.0,
+    "totalDebt": 1412615000.0,
+    "cash": 534877000.0,
+    "sharesOutstanding": 60688336.0
+  },
+  "ratios": {
+    "roe": 0.18871538993811757,
+    "roic": 0.2310704643335916,
+    "grossMargin": 0.43634769811721735,
+    "operatingMargin": 0.1351831604083486,
+    "netMargin": 0.09894499797366295,
+    "debtToEquity": 0.10849
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12076595000.0,
+      "operatingIncome": 1461195000.0,
+      "netIncome": 958115000.0,
+      "eps": 15.787751,
+      "freeCashFlow": 369718000.0,
+      "totalDebt": 1398031000.0,
+      "cash": 342535000.0,
+      "sharesOutstanding": 60687236.0,
+      "grossMargin": 0.35240711475378617,
+      "operatingMargin": 0.12099395566382742,
+      "netMargin": 0.07933651828185014,
+      "roe": 0.283943219357743,
+      "roic": 0.30617934560541454
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 15306587000.0,
+      "operatingIncome": 2214951000.0,
+      "netIncome": 1531410000.0,
+      "eps": 26.62,
+      "freeCashFlow": 290299000.0,
+      "totalDebt": 1719039000.0,
+      "cash": 564468000.0,
+      "sharesOutstanding": 60687236.0,
+      "grossMargin": 0.40018156888926315,
+      "operatingMargin": 0.14470574008431794,
+      "netMargin": 0.1000490834436181,
+      "roe": 0.18804057936847068,
+      "roic": 0.2245699339932287
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 19126281000.0,
+      "operatingIncome": 2792667000.0,
+      "netIncome": 2023367000.0,
+      "eps": 33.31,
+      "freeCashFlow": -299463000.0,
+      "totalDebt": 2117704000.0,
+      "cash": 604509000.0,
+      "sharesOutstanding": 60687236.0,
+      "grossMargin": 0.43501666633466274,
+      "operatingMargin": 0.1460120239789429,
+      "netMargin": 0.10578988147251418,
+      "roe": 0.20177041116402705,
+      "roic": 0.22992918522250957
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 23263652000.0,
+      "operatingIncome": 3144854000.0,
+      "netIncome": 2301822000.0,
+      "eps": 37.79,
+      "freeCashFlow": -384923000.0,
+      "totalDebt": 1412615000.0,
+      "cash": 534877000.0,
+      "sharesOutstanding": 60688336.0,
+      "grossMargin": 0.43634769811721735,
+      "operatingMargin": 0.1351831604083486,
+      "netMargin": 0.09894499797366295,
+      "roe": 0.18871538993811757,
+      "roic": 0.2310704643335916
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:33.781442+00:00"
+  }
+}

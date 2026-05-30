@@ -1,0 +1,128 @@
+{
+  "ticker": "HINDUNILVR",
+  "name": "Hindustan Unilever Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 5059844767744.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2153.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 637630000000.0,
+    "operatingIncome": 137210000000.0,
+    "netIncome": 150400000000.0,
+    "eps": 64.0,
+    "freeCashFlow": 96380000000.0,
+    "totalDebt": 14780000000.0,
+    "cash": 25830000000.0,
+    "sharesOutstanding": 2349591262.0
+  },
+  "ratios": {
+    "roe": 0.3085824493731919,
+    "roic": 0.27323416372941434,
+    "grossMargin": 0.5033953860389254,
+    "operatingMargin": 0.21518749117826952,
+    "netMargin": 0.2358734689396672,
+    "debtToEquity": 0.03016
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 595490000000.0,
+      "operatingIncome": 130100000000.0,
+      "netIncome": 101200000000.0,
+      "eps": 43.07,
+      "freeCashFlow": 87990000000.0,
+      "totalDebt": 12190000000.0,
+      "cash": 7140000000.0,
+      "sharesOutstanding": 2349591262.0,
+      "grossMargin": 0.4505533258325077,
+      "operatingMargin": 0.21847554115098491,
+      "netMargin": 0.16994407966548555,
+      "roe": 0.201176844783715,
+      "roic": 0.25250858839741475
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 609660000000.0,
+      "operatingIncome": 134470000000.0,
+      "netIncome": 102770000000.0,
+      "eps": 43.74,
+      "freeCashFlow": 139920000000.0,
+      "totalDebt": 14840000000.0,
+      "cash": 8250000000.0,
+      "sharesOutstanding": 2349591262.0,
+      "grossMargin": 0.493291342715612,
+      "operatingMargin": 0.22056556113243447,
+      "netMargin": 0.16856936653216548,
+      "roe": 0.20065211449099926,
+      "roic": 0.2551516071496338
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 605730000000.0,
+      "operatingIncome": 134530000000.0,
+      "netIncome": 106490000000.0,
+      "eps": 45.32,
+      "freeCashFlow": 106110000000.0,
+      "totalDebt": 16480000000.0,
+      "cash": 60710000000.0,
+      "sharesOutstanding": 2349591262.0,
+      "grossMargin": 0.5085269014247272,
+      "operatingMargin": 0.22209565317880903,
+      "netMargin": 0.17580440130090966,
+      "roe": 0.21555807457187967,
+      "roic": 0.26352595494613124
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 637630000000.0,
+      "operatingIncome": 137210000000.0,
+      "netIncome": 150400000000.0,
+      "eps": 64.0,
+      "freeCashFlow": 96380000000.0,
+      "totalDebt": 14780000000.0,
+      "cash": 25830000000.0,
+      "sharesOutstanding": 2349591262.0,
+      "grossMargin": 0.5033953860389254,
+      "operatingMargin": 0.21518749117826952,
+      "netMargin": 0.2358734689396672,
+      "roe": 0.3085824493731919,
+      "roic": 0.27323416372941434
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:26.182655+00:00"
+  }
+}

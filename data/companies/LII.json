@@ -1,0 +1,128 @@
+{
+  "ticker": "LII",
+  "name": "Lennox International Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17475151872.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 502.16,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5195300000.0,
+    "operatingIncome": 1053200000.0,
+    "netIncome": 805800000.0,
+    "eps": 22.79,
+    "freeCashFlow": 638800000.0,
+    "totalDebt": 1770700000.0,
+    "cash": 34200000.0,
+    "sharesOutstanding": 87170197.0
+  },
+  "ratios": {
+    "roe": 0.6928037142120196,
+    "roic": 0.3589883427636512,
+    "grossMargin": 0.3339171943872346,
+    "operatingMargin": 0.20272169075895521,
+    "netMargin": 0.1551017265605451,
+    "debtToEquity": 1.61043
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4718400000.0,
+      "operatingIncome": 658500000.0,
+      "netIncome": 497100000.0,
+      "eps": 13.88,
+      "freeCashFlow": 201200000.0,
+      "totalDebt": 1749900000.0,
+      "cash": 52600000.0,
+      "sharesOutstanding": 87170197.0,
+      "grossMargin": 0.272274499830451,
+      "operatingMargin": 0.13956002034587997,
+      "netMargin": 0.10535350966429298,
+      "roe": -2.447562776957164,
+      "roic": 0.4257176105508146
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4981900000.0,
+      "operatingIncome": 845300000.0,
+      "netIncome": 591200000.0,
+      "eps": 16.54,
+      "freeCashFlow": 486000000.0,
+      "totalDebt": 1527300000.0,
+      "cash": 60700000.0,
+      "sharesOutstanding": 87170197.0,
+      "grossMargin": 0.3109656958188643,
+      "operatingMargin": 0.16967422067885746,
+      "netMargin": 0.11866958389369518,
+      "roe": 2.072204696810375,
+      "roic": 0.46634668432086507
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5341300000.0,
+      "operatingIncome": 1046400000.0,
+      "netIncome": 811100000.0,
+      "eps": 22.54,
+      "freeCashFlow": 782100000.0,
+      "totalDebt": 1488600000.0,
+      "cash": 415100000.0,
+      "sharesOutstanding": 87170197.0,
+      "grossMargin": 0.3327841536704548,
+      "operatingMargin": 0.19590736337595716,
+      "netMargin": 0.1518544174639133,
+      "roe": 0.8430516578318262,
+      "roic": 0.4269800465173216
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5195300000.0,
+      "operatingIncome": 1053200000.0,
+      "netIncome": 805800000.0,
+      "eps": 22.79,
+      "freeCashFlow": 638800000.0,
+      "totalDebt": 1770700000.0,
+      "cash": 34200000.0,
+      "sharesOutstanding": 87170197.0,
+      "grossMargin": 0.3339171943872346,
+      "operatingMargin": 0.20272169075895521,
+      "netMargin": 0.1551017265605451,
+      "roe": 0.6928037142120196,
+      "roic": 0.3589883427636512
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:49.310534+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CAH",
+  "name": "Cardinal Health, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 46091714560.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 196.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 222578000000.0,
+    "operatingIncome": 2322000000.0,
+    "netIncome": 1561000000.0,
+    "eps": 6.45,
+    "freeCashFlow": 1850000000.0,
+    "totalDebt": 8527000000.0,
+    "cash": 3874000000.0,
+    "sharesOutstanding": 270677005.0
+  },
+  "ratios": {
+    "roe": -0.5613088816972313,
+    "roic": 0.4041072050121824,
+    "grossMargin": 0.03669724770642202,
+    "operatingMargin": 0.010432297891076386,
+    "netMargin": 0.007013271751925168,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 181326000000.0,
+      "operatingIncome": 1648000000.0,
+      "netIncome": -938000000.0,
+      "eps": -3.35,
+      "freeCashFlow": 2788000000.0,
+      "totalDebt": 5315000000.0,
+      "cash": 4717000000.0,
+      "sharesOutstanding": 327000000.0,
+      "grossMargin": 0.03575879906908,
+      "operatingMargin": 0.00908860284790929,
+      "netMargin": -0.005173003319987205,
+      "roe": 1.3229901269393511,
+      "roic": 0.3577941815023882
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 204979000000.0,
+      "operatingIncome": 1789000000.0,
+      "netIncome": 330000000.0,
+      "eps": 1.0,
+      "freeCashFlow": 2363000000.0,
+      "totalDebt": 4701000000.0,
+      "cash": 4076000000.0,
+      "sharesOutstanding": 327000000.0,
+      "grossMargin": 0.033535142624366396,
+      "operatingMargin": 0.008727723327755526,
+      "netMargin": 0.0016099210162992307,
+      "roe": -0.11156186612576065,
+      "roic": 1.0263912794033276
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 226827000000.0,
+      "operatingIncome": 2130000000.0,
+      "netIncome": 852000000.0,
+      "eps": 3.45,
+      "freeCashFlow": 3251000000.0,
+      "totalDebt": 5092000000.0,
+      "cash": 5133000000.0,
+      "sharesOutstanding": 327000000.0,
+      "grossMargin": 0.032685703201118035,
+      "operatingMargin": 0.00939041648481001,
+      "netMargin": 0.0037561665939240037,
+      "roe": -0.26517273576097106,
+      "roic": 1.133581692389569
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 222578000000.0,
+      "operatingIncome": 2322000000.0,
+      "netIncome": 1561000000.0,
+      "eps": 6.45,
+      "freeCashFlow": 1850000000.0,
+      "totalDebt": 8527000000.0,
+      "cash": 3874000000.0,
+      "sharesOutstanding": 270677005.0,
+      "grossMargin": 0.03669724770642202,
+      "operatingMargin": 0.010432297891076386,
+      "netMargin": 0.007013271751925168,
+      "roe": -0.5613088816972313,
+      "roic": 0.4041072050121824
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.289413+00:00"
+  }
+}

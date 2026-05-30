@@ -1,0 +1,128 @@
+{
+  "ticker": "LNT",
+  "name": "Alliant Energy Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18495219712.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 71.61,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4362000000.0,
+    "operatingIncome": 1025000000.0,
+    "netIncome": 810000000.0,
+    "eps": 3.14,
+    "freeCashFlow": null,
+    "totalDebt": 12116000000.0,
+    "cash": 556000000.0,
+    "sharesOutstanding": 257504599.0
+  },
+  "ratios": {
+    "roe": 0.11044450504499591,
+    "roic": 0.05269922879177378,
+    "grossMargin": 0.45667125171939477,
+    "operatingMargin": 0.23498395231545163,
+    "netMargin": 0.1856946354883081,
+    "debtToEquity": 1.5952600000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4205000000.0,
+      "operatingIncome": 928000000.0,
+      "netIncome": 686000000.0,
+      "eps": 2.73,
+      "freeCashFlow": 114000000.0,
+      "totalDebt": 8718000000.0,
+      "cash": 20000000.0,
+      "sharesOutstanding": 251537100.0,
+      "grossMargin": 0.40642092746730085,
+      "operatingMargin": 0.2206896551724138,
+      "netMargin": 0.16313912009512485,
+      "roe": 0.10930528999362651,
+      "roic": 0.06189142323596105
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4027000000.0,
+      "operatingIncome": 943000000.0,
+      "netIncome": 703000000.0,
+      "eps": 2.78,
+      "freeCashFlow": 155000000.0,
+      "totalDebt": 9509000000.0,
+      "cash": 62000000.0,
+      "sharesOutstanding": 256475854.0,
+      "grossMargin": 0.43059349391606655,
+      "operatingMargin": 0.2341693568413211,
+      "netMargin": 0.1745716414204122,
+      "roe": 0.10373321528700015,
+      "roic": 0.05790249293872037
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3981000000.0,
+      "operatingIncome": 886000000.0,
+      "netIncome": 690000000.0,
+      "eps": 2.69,
+      "freeCashFlow": -57000000.0,
+      "totalDebt": 10406000000.0,
+      "cash": 81000000.0,
+      "sharesOutstanding": 257062338.0,
+      "grossMargin": 0.4471238382316001,
+      "operatingMargin": 0.22255714644561667,
+      "netMargin": 0.1733232856066315,
+      "roe": 0.09851513420902341,
+      "roic": 0.050890292935094776
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4362000000.0,
+      "operatingIncome": 1025000000.0,
+      "netIncome": 810000000.0,
+      "eps": 3.14,
+      "freeCashFlow": null,
+      "totalDebt": 12116000000.0,
+      "cash": 556000000.0,
+      "sharesOutstanding": 257504599.0,
+      "grossMargin": 0.45667125171939477,
+      "operatingMargin": 0.23498395231545163,
+      "netMargin": 0.1856946354883081,
+      "roe": 0.11044450504499591,
+      "roic": 0.05269922879177378
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:49.628058+00:00"
+  }
+}

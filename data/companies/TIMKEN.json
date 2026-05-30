@@ -1,0 +1,128 @@
+{
+  "ticker": "TIMKEN",
+  "name": "Timken India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "currency": "INR",
+  "marketCap": {
+    "value": 273074094080.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3630.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34780290000.0,
+    "operatingIncome": 5263060000.0,
+    "netIncome": 4148850000.0,
+    "eps": null,
+    "freeCashFlow": 1484160000.0,
+    "totalDebt": 145620000.0,
+    "cash": 2684710000.0,
+    "sharesOutstanding": 75218734.0
+  },
+  "ratios": {
+    "roe": 0.1423483698309359,
+    "roic": 0.17967954383833873,
+    "grossMargin": 0.38840389197444875,
+    "operatingMargin": 0.15132306257365882,
+    "netMargin": 0.11928738949560225,
+    "debtToEquity": 0.005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 43.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 27878540000.0,
+      "operatingIncome": 4873880000.0,
+      "netIncome": 3907450000.0,
+      "eps": 51.95,
+      "freeCashFlow": 2791160000.0,
+      "totalDebt": 305460000.0,
+      "cash": 1584010000.0,
+      "sharesOutstanding": 75218734.0,
+      "grossMargin": 0.34507043769150036,
+      "operatingMargin": 0.17482551094856474,
+      "netMargin": 0.14015977881194638,
+      "roe": 0.19180756460426512,
+      "roic": 0.23571299374479499
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 28957130000.0,
+      "operatingIncome": 4933600000.0,
+      "netIncome": 3921420000.0,
+      "eps": 52.13,
+      "freeCashFlow": 782650000.0,
+      "totalDebt": 253620000.0,
+      "cash": 3282090000.0,
+      "sharesOutstanding": 75218734.0,
+      "grossMargin": 0.3506076051045114,
+      "operatingMargin": 0.17037600066028644,
+      "netMargin": 0.13542156974810693,
+      "roe": 0.16222555748979012,
+      "roic": 0.2019793451801463
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 31971960000.0,
+      "operatingIncome": 5260940000.0,
+      "netIncome": 4621940000.0,
+      "eps": 61.45,
+      "freeCashFlow": 211080000.0,
+      "totalDebt": 166170000.0,
+      "cash": 3943490000.0,
+      "sharesOutstanding": 75218734.0,
+      "grossMargin": 0.3981029001662707,
+      "operatingMargin": 0.1645485606762926,
+      "netMargin": 0.14456229771337134,
+      "roe": 0.16246605726458022,
+      "roic": 0.1838536814140365
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 34780290000.0,
+      "operatingIncome": 5263060000.0,
+      "netIncome": 4148850000.0,
+      "eps": null,
+      "freeCashFlow": 1484160000.0,
+      "totalDebt": 145620000.0,
+      "cash": 2684710000.0,
+      "sharesOutstanding": 75218734.0,
+      "grossMargin": 0.38840389197444875,
+      "operatingMargin": 0.15132306257365882,
+      "netMargin": 0.11928738949560225,
+      "roe": 0.1423483698309359,
+      "roic": 0.17967954383833873
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:06.595092+00:00"
+  }
+}

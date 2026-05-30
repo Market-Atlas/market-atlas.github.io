@@ -1,0 +1,128 @@
+{
+  "ticker": "PNW",
+  "name": "Pinnacle West Capital Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12087207936.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 99.74,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5339939000.0,
+    "operatingIncome": 1067630000.0,
+    "netIncome": 616531000.0,
+    "eps": 5.05,
+    "freeCashFlow": -819523000.0,
+    "totalDebt": 14299632000.0,
+    "cash": 6604000.0,
+    "sharesOutstanding": 120950839.0
+  },
+  "ratios": {
+    "roe": 0.08749516423712453,
+    "roic": 0.05001524869425736,
+    "grossMargin": 0.41600737386700487,
+    "operatingMargin": 0.19993299548927432,
+    "netMargin": 0.11545656233151727,
+    "debtToEquity": 2.1295699999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4324385000.0,
+      "operatingIncome": 731911000.0,
+      "netIncome": 483602000.0,
+      "eps": 4.26,
+      "freeCashFlow": -466049000.0,
+      "totalDebt": 8877148000.0,
+      "cash": 4832000.0,
+      "sharesOutstanding": 113247189.0,
+      "grossMargin": 0.39496252068213167,
+      "operatingMargin": 0.16925204393225857,
+      "netMargin": 0.11183139336576184,
+      "roe": 0.07995209507184003,
+      "roic": 0.04903665097906008
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4695991000.0,
+      "operatingIncome": 824640000.0,
+      "netIncome": 501557000.0,
+      "eps": 4.41,
+      "freeCashFlow": -638673000.0,
+      "totalDebt": 10303194000.0,
+      "cash": 4955000.0,
+      "sharesOutstanding": 113537689.0,
+      "grossMargin": 0.39280505435380947,
+      "operatingMargin": 0.1756051065685603,
+      "netMargin": 0.10680535801708309,
+      "roe": 0.08118877944802437,
+      "roic": 0.05003622990987484
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5124915000.0,
+      "operatingIncome": 1012063000.0,
+      "netIncome": 608806000.0,
+      "eps": 5.24,
+      "freeCashFlow": -639372000.0,
+      "totalDebt": 11048342000.0,
+      "cash": 3838000.0,
+      "sharesOutstanding": 119143782.0,
+      "grossMargin": 0.41702018472501495,
+      "operatingMargin": 0.19747898257824764,
+      "netMargin": 0.11879338486589534,
+      "roe": 0.09013591467730757,
+      "roic": 0.05684899885427189
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5339939000.0,
+      "operatingIncome": 1067630000.0,
+      "netIncome": 616531000.0,
+      "eps": 5.05,
+      "freeCashFlow": -819523000.0,
+      "totalDebt": 14299632000.0,
+      "cash": 6604000.0,
+      "sharesOutstanding": 120950839.0,
+      "grossMargin": 0.41600737386700487,
+      "operatingMargin": 0.19993299548927432,
+      "netMargin": 0.11545656233151727,
+      "roe": 0.08749516423712453,
+      "roic": 0.05001524869425736
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:10.297528+00:00"
+  }
+}

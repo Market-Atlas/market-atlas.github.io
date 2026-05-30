@@ -1,0 +1,128 @@
+{
+  "ticker": "AIZ",
+  "name": "Assurant, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12330919936.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 248.87,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12814300000.0,
+    "operatingIncome": null,
+    "netIncome": 872700000.0,
+    "eps": 16.93,
+    "freeCashFlow": 1598400000.0,
+    "totalDebt": 2206900000.0,
+    "cash": 1834100000.0,
+    "sharesOutstanding": 52089008.0
+  },
+  "ratios": {
+    "roe": 0.14863069691395872,
+    "roic": null,
+    "grossMargin": 0.12745,
+    "operatingMargin": 0.106400006,
+    "netMargin": 0.06810360300601671,
+    "debtToEquity": 0.3761
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10193000000.0,
+      "operatingIncome": null,
+      "netIncome": 276600000.0,
+      "eps": 5.05,
+      "freeCashFlow": 410600000.0,
+      "totalDebt": 2129900000.0,
+      "cash": 1536700000.0,
+      "sharesOutstanding": 55126470.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02713626998920828,
+      "roe": 0.06541017333932414,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11131600000.0,
+      "operatingIncome": null,
+      "netIncome": 642500000.0,
+      "eps": 11.95,
+      "freeCashFlow": 935600000.0,
+      "totalDebt": 2080400000.0,
+      "cash": 1627400000.0,
+      "sharesOutstanding": 54252083.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05771856696252111,
+      "roe": 0.13358977024638735,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11877500000.0,
+      "operatingIncome": null,
+      "netIncome": 760200000.0,
+      "eps": 14.46,
+      "freeCashFlow": 1111400000.0,
+      "totalDebt": 2083100000.0,
+      "cash": 1807700000.0,
+      "sharesOutstanding": 53129838.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06400336771206062,
+      "roe": 0.148863258072728,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12814300000.0,
+      "operatingIncome": null,
+      "netIncome": 872700000.0,
+      "eps": 16.93,
+      "freeCashFlow": 1598400000.0,
+      "totalDebt": 2206900000.0,
+      "cash": 1834100000.0,
+      "sharesOutstanding": 52089008.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06810360300601671,
+      "roe": 0.14863069691395872,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:40.056166+00:00"
+  }
+}

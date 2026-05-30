@@ -1,0 +1,128 @@
+{
+  "ticker": "OTIS",
+  "name": "Otis Worldwide Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27182444544.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 70.84,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14431000000.0,
+    "operatingIncome": 2219000000.0,
+    "netIncome": 1384000000.0,
+    "eps": 3.5,
+    "freeCashFlow": 1444000000.0,
+    "totalDebt": 8511000000.0,
+    "cash": 1096000000.0,
+    "sharesOutstanding": 439400000.0
+  },
+  "ratios": {
+    "roe": -0.25667655786350146,
+    "roic": 0.711445976274447,
+    "grossMargin": 0.30282031737232346,
+    "operatingMargin": 0.1537661977686924,
+    "netMargin": 0.09590464971242464,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13685000000.0,
+      "operatingIncome": 2071000000.0,
+      "netIncome": 1253000000.0,
+      "eps": 2.96,
+      "freeCashFlow": 1445000000.0,
+      "totalDebt": 7210000000.0,
+      "cash": 1189000000.0,
+      "sharesOutstanding": 435600000.0,
+      "grossMargin": 0.2864450127877238,
+      "operatingMargin": 0.1513335769090245,
+      "netMargin": 0.09156010230179028,
+      "roe": -0.2572895277207392,
+      "roic": 0.885042735042735
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14209000000.0,
+      "operatingIncome": 2247000000.0,
+      "netIncome": 1406000000.0,
+      "eps": 3.39,
+      "freeCashFlow": 1489000000.0,
+      "totalDebt": 7307000000.0,
+      "cash": 1274000000.0,
+      "sharesOutstanding": 437000000.0,
+      "grossMargin": 0.29509465831515236,
+      "operatingMargin": 0.15813920754451405,
+      "netMargin": 0.09895136885072842,
+      "roe": -0.2855402112103981,
+      "roic": 0.9429290809903483
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14261000000.0,
+      "operatingIncome": 2051000000.0,
+      "netIncome": 1645000000.0,
+      "eps": 4.07,
+      "freeCashFlow": 1437000000.0,
+      "totalDebt": 8742000000.0,
+      "cash": 2300000000.0,
+      "sharesOutstanding": 438600000.0,
+      "grossMargin": 0.29850641609985273,
+      "operatingMargin": 0.14381880653530607,
+      "netMargin": 0.11534955472968235,
+      "roe": -0.3393151815181518,
+      "roic": 0.5267077555213149
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14431000000.0,
+      "operatingIncome": 2219000000.0,
+      "netIncome": 1384000000.0,
+      "eps": 3.5,
+      "freeCashFlow": 1444000000.0,
+      "totalDebt": 8511000000.0,
+      "cash": 1096000000.0,
+      "sharesOutstanding": 439400000.0,
+      "grossMargin": 0.30282031737232346,
+      "operatingMargin": 0.1537661977686924,
+      "netMargin": 0.09590464971242464,
+      "roe": -0.25667655786350146,
+      "roic": 0.711445976274447
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:05.493218+00:00"
+  }
+}

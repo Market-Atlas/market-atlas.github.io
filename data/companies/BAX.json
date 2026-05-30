@@ -1,0 +1,128 @@
+{
+  "ticker": "BAX",
+  "name": "Baxter International Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 9699288064.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18.78,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11244000000.0,
+    "operatingIncome": 177000000.0,
+    "netIncome": -957000000.0,
+    "eps": -1.87,
+    "freeCashFlow": 323000000.0,
+    "totalDebt": 9780000000.0,
+    "cash": 1966000000.0,
+    "sharesOutstanding": 683494944.0
+  },
+  "ratios": {
+    "roe": -0.1561429270680372,
+    "roic": 0.01112577786158778,
+    "grossMargin": 0.3005158306652437,
+    "operatingMargin": 0.01574172892209178,
+    "netMargin": -0.08511205976520811,
+    "debtToEquity": 1.61021
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10057000000.0,
+      "operatingIncome": -33000000.0,
+      "netIncome": -2433000000.0,
+      "eps": -4.83,
+      "freeCashFlow": 576000000.0,
+      "totalDebt": 17203000000.0,
+      "cash": 1718000000.0,
+      "sharesOutstanding": 683494944.0,
+      "grossMargin": 0.3528885353485135,
+      "operatingMargin": -0.003281296609326837,
+      "netMargin": -0.24192105001491498,
+      "roe": -0.4171095491170924,
+      "roic": -0.0014325403715922903
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10360000000.0,
+      "operatingIncome": 707000000.0,
+      "netIncome": 2656000000.0,
+      "eps": 5.25,
+      "freeCashFlow": 1290000000.0,
+      "totalDebt": 14113000000.0,
+      "cash": 3078000000.0,
+      "sharesOutstanding": 683494944.0,
+      "grossMargin": 0.40057915057915056,
+      "operatingMargin": 0.06824324324324324,
+      "netMargin": 0.25637065637065637,
+      "roe": 0.31611521066412757,
+      "roic": 0.03140128803020209
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10636000000.0,
+      "operatingIncome": 439000000.0,
+      "netIncome": -649000000.0,
+      "eps": -1.27,
+      "freeCashFlow": 559000000.0,
+      "totalDebt": 13449000000.0,
+      "cash": 1764000000.0,
+      "sharesOutstanding": 683494944.0,
+      "grossMargin": 0.37457690861226023,
+      "operatingMargin": 0.041274915381722455,
+      "netMargin": -0.06101918014291087,
+      "roe": -0.09319356691556577,
+      "roic": 0.021505903100965073
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11244000000.0,
+      "operatingIncome": 177000000.0,
+      "netIncome": -957000000.0,
+      "eps": -1.87,
+      "freeCashFlow": 323000000.0,
+      "totalDebt": 9780000000.0,
+      "cash": 1966000000.0,
+      "sharesOutstanding": 683494944.0,
+      "grossMargin": 0.3005158306652437,
+      "operatingMargin": 0.01574172892209178,
+      "netMargin": -0.08511205976520811,
+      "roe": -0.1561429270680372,
+      "roic": 0.01112577786158778
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:49.920685+00:00"
+  }
+}

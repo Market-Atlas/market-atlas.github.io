@@ -1,0 +1,128 @@
+{
+  "ticker": "SUPREMEIND",
+  "name": "The Supreme Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 451013279744.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3549.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 112176800000.0,
+    "operatingIncome": 11249300000.0,
+    "netIncome": 9539800000.0,
+    "eps": null,
+    "freeCashFlow": 4097800000.0,
+    "totalDebt": 908400000.0,
+    "cash": 6488400000.0,
+    "sharesOutstanding": 127026870.0
+  },
+  "ratios": {
+    "roe": 0.15463919196896778,
+    "roic": 0.17970386155711504,
+    "grossMargin": 0.3261387381348015,
+    "operatingMargin": 0.10028187646643513,
+    "netMargin": 0.08504253999044366,
+    "debtToEquity": 0.01473
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 76.24,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 91373900000.0,
+      "operatingIncome": 9509000000.0,
+      "netIncome": 8653300000.0,
+      "eps": 68.12,
+      "freeCashFlow": 4660100000.0,
+      "totalDebt": 511700000.0,
+      "cash": 7379600000.0,
+      "sharesOutstanding": 127026870.0,
+      "grossMargin": 0.27177563833873786,
+      "operatingMargin": 0.10406691626383464,
+      "netMargin": 0.09470209764495113,
+      "roe": 0.1965711975139251,
+      "roic": 0.21352752683970727
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 100805000000.0,
+      "operatingIncome": 12575200000.0,
+      "netIncome": 10697200000.0,
+      "eps": 84.21,
+      "freeCashFlow": 8635600000.0,
+      "totalDebt": 550600000.0,
+      "cash": 11785100000.0,
+      "sharesOutstanding": 127026870.0,
+      "grossMargin": 0.31355488319031793,
+      "operatingMargin": 0.1247477803680373,
+      "netMargin": 0.10611775209563018,
+      "roe": 0.209386493580722,
+      "roic": 0.24352184109266464
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 104462500000.0,
+      "operatingIncome": 10730300000.0,
+      "netIncome": 9608800000.0,
+      "eps": 75.64,
+      "freeCashFlow": 1132800000.0,
+      "totalDebt": 758000000.0,
+      "cash": 9441200000.0,
+      "sharesOutstanding": 127026870.0,
+      "grossMargin": 0.31588369031949265,
+      "operatingMargin": 0.10271915759243748,
+      "netMargin": 0.09198324757688166,
+      "roe": 0.16975358806029214,
+      "roic": 0.18706155948844538
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 112176800000.0,
+      "operatingIncome": 11249300000.0,
+      "netIncome": 9539800000.0,
+      "eps": null,
+      "freeCashFlow": 4097800000.0,
+      "totalDebt": 908400000.0,
+      "cash": 6488400000.0,
+      "sharesOutstanding": 127026870.0,
+      "grossMargin": 0.3261387381348015,
+      "operatingMargin": 0.10028187646643513,
+      "netMargin": 0.08504253999044366,
+      "roe": 0.15463919196896778,
+      "roic": 0.17970386155711504
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:59.478718+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "VICI",
+  "name": "VICI Properties Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 30386735104.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.22,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4006116000.0,
+    "operatingIncome": 3655301000.0,
+    "netIncome": 2775493000.0,
+    "eps": 2.61,
+    "freeCashFlow": 2508656000.0,
+    "totalDebt": 17689740000.0,
+    "cash": 563479000.0,
+    "sharesOutstanding": 1068811371.0
+  },
+  "ratios": {
+    "roe": 0.0998463538631337,
+    "roic": 0.08035857418035508,
+    "grossMargin": 0.993327701943728,
+    "operatingMargin": 0.912430144309351,
+    "netMargin": 0.6928139374895784,
+    "debtToEquity": 0.61853
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2600697000.0,
+      "operatingIncome": 1632450000.0,
+      "netIncome": 1117635000.0,
+      "eps": 1.27,
+      "freeCashFlow": 1941520000.0,
+      "totalDebt": 14568973000.0,
+      "cash": 208933000.0,
+      "sharesOutstanding": 963096563.0,
+      "grossMargin": 0.9913092528656741,
+      "operatingMargin": 0.627697113504572,
+      "netMargin": 0.42974441082525183,
+      "roe": 0.0509552975641933,
+      "roic": 0.044721459643570695
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3611988000.0,
+      "operatingIncome": 3344848000.0,
+      "netIncome": 2513540000.0,
+      "eps": 2.47,
+      "freeCashFlow": 2176974000.0,
+      "totalDebt": 17628522000.0,
+      "cash": 522574000.0,
+      "sharesOutstanding": 1042702763.0,
+      "grossMargin": 0.9925002519388215,
+      "operatingMargin": 0.9260407288174822,
+      "netMargin": 0.6958882476907454,
+      "roe": 0.0995227616039971,
+      "roic": 0.07799675094375111
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3849205000.0,
+      "operatingIncome": 3544934000.0,
+      "netIncome": 2678810000.0,
+      "eps": 2.56,
+      "freeCashFlow": 2373972000.0,
+      "totalDebt": 17650085000.0,
+      "cash": 524615000.0,
+      "sharesOutstanding": 1056366685.0,
+      "grossMargin": 0.9930128429117181,
+      "operatingMargin": 0.9209522485812005,
+      "netMargin": 0.6959385119784475,
+      "roe": 0.1009425933535572,
+      "roic": 0.08022383432259046
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4006116000.0,
+      "operatingIncome": 3655301000.0,
+      "netIncome": 2775493000.0,
+      "eps": 2.61,
+      "freeCashFlow": 2508656000.0,
+      "totalDebt": 17689740000.0,
+      "cash": 563479000.0,
+      "sharesOutstanding": 1068811371.0,
+      "grossMargin": 0.993327701943728,
+      "operatingMargin": 0.912430144309351,
+      "netMargin": 0.6928139374895784,
+      "roe": 0.0998463538631337,
+      "roic": 0.08035857418035508
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:34.063231+00:00"
+  }
+}

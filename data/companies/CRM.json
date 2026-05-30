@@ -1,0 +1,128 @@
+{
+  "ticker": "CRM",
+  "name": "Salesforce, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 156510912512.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 191.1,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 41525000000.0,
+    "operatingIncome": 8917000000.0,
+    "netIncome": 7457000000.0,
+    "eps": 7.8,
+    "freeCashFlow": 14402000000.0,
+    "totalDebt": 17176000000.0,
+    "cash": 7327000000.0,
+    "sharesOutstanding": 1073000000.0
+  },
+  "ratios": {
+    "roe": 0.1260863684014744,
+    "roic": 0.11684006394297544,
+    "grossMargin": 0.7767609873570138,
+    "operatingMargin": 0.21473810957254666,
+    "netMargin": 0.179578567128236,
+    "debtToEquity": 1.24282
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 31352000000.0,
+      "operatingIncome": 1858000000.0,
+      "netIncome": 208000000.0,
+      "eps": 0.21,
+      "freeCashFlow": 6313000000.0,
+      "totalDebt": 14088000000.0,
+      "cash": 7016000000.0,
+      "sharesOutstanding": 1009000000.0,
+      "grossMargin": 0.7333503444756315,
+      "operatingMargin": 0.0592625669813728,
+      "netMargin": 0.006634345496300076,
+      "roe": 0.003564146061447249,
+      "roic": 0.025646334561817606
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 34857000000.0,
+      "operatingIncome": 5999000000.0,
+      "netIncome": 4136000000.0,
+      "eps": 4.2,
+      "freeCashFlow": 9498000000.0,
+      "totalDebt": 12588000000.0,
+      "cash": 8472000000.0,
+      "sharesOutstanding": 1035000000.0,
+      "grossMargin": 0.7549703072553576,
+      "operatingMargin": 0.17210316435723097,
+      "netMargin": 0.11865622400091803,
+      "roe": 0.06934245381081715,
+      "roic": 0.08304953346069718
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 37895000000.0,
+      "operatingIncome": 7666000000.0,
+      "netIncome": 6197000000.0,
+      "eps": 6.36,
+      "freeCashFlow": 12434000000.0,
+      "totalDebt": 11392000000.0,
+      "cash": 8848000000.0,
+      "sharesOutstanding": 1056000000.0,
+      "grossMargin": 0.7719224172054361,
+      "operatingMargin": 0.202295817390157,
+      "netMargin": 0.16353080881382767,
+      "roe": 0.10130286237392314,
+      "roic": 0.10564321642665196
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 41525000000.0,
+      "operatingIncome": 8917000000.0,
+      "netIncome": 7457000000.0,
+      "eps": 7.8,
+      "freeCashFlow": 14402000000.0,
+      "totalDebt": 17176000000.0,
+      "cash": 7327000000.0,
+      "sharesOutstanding": 1073000000.0,
+      "grossMargin": 0.7767609873570138,
+      "operatingMargin": 0.21473810957254666,
+      "netMargin": 0.179578567128236,
+      "roe": 0.1260863684014744,
+      "roic": 0.11684006394297544
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.952066+00:00"
+  }
+}

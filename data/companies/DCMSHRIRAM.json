@@ -1,0 +1,128 @@
+{
+  "ticker": "DCMSHRIRAM",
+  "name": "DCM Shriram Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 160529416192.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1036.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 134605300000.0,
+    "operatingIncome": 9949800000.0,
+    "netIncome": 8534400000.0,
+    "eps": null,
+    "freeCashFlow": 3464900000.0,
+    "totalDebt": 29231700000.0,
+    "cash": 3061900000.0,
+    "sharesOutstanding": 154839814.0
+  },
+  "ratios": {
+    "roe": 0.11066433090377685,
+    "roic": 0.09355589113072324,
+    "grossMargin": 0.34125996524653934,
+    "operatingMargin": 0.07391833753945795,
+    "netMargin": 0.06340314980167942,
+    "debtToEquity": 0.37802
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 68.45,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 114793300000.0,
+      "operatingIncome": 14161900000.0,
+      "netIncome": 9108400000.0,
+      "eps": 58.41,
+      "freeCashFlow": -5074200000.0,
+      "totalDebt": 17071700000.0,
+      "cash": 4501500000.0,
+      "sharesOutstanding": 155942296.0,
+      "grossMargin": 0.287525491470321,
+      "operatingMargin": 0.12336869834737742,
+      "netMargin": 0.07934609424069175,
+      "roe": 0.14705792129162462,
+      "roic": 0.17924368301413
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 108651200000.0,
+      "operatingIncome": 7074300000.0,
+      "netIncome": 4471000000.0,
+      "eps": 28.67,
+      "freeCashFlow": -5247200000.0,
+      "totalDebt": 21515500000.0,
+      "cash": 3432200000.0,
+      "sharesOutstanding": 155942296.0,
+      "grossMargin": 0.2674126010573284,
+      "operatingMargin": 0.06511018746226457,
+      "netMargin": 0.04115002871574359,
+      "roe": 0.06855154014811181,
+      "roic": 0.08156081926294005
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 119954900000.0,
+      "operatingIncome": 9200900000.0,
+      "netIncome": 6042700000.0,
+      "eps": 38.75,
+      "freeCashFlow": 2681800000.0,
+      "totalDebt": 25286300000.0,
+      "cash": 6198500000.0,
+      "sharesOutstanding": 155942296.0,
+      "grossMargin": 0.3333010989963728,
+      "operatingMargin": 0.07670299420865676,
+      "netMargin": 0.05037476584949844,
+      "roe": 0.0862733844174794,
+      "roic": 0.09651874168656296
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 134605300000.0,
+      "operatingIncome": 9949800000.0,
+      "netIncome": 8534400000.0,
+      "eps": null,
+      "freeCashFlow": 3464900000.0,
+      "totalDebt": 29231700000.0,
+      "cash": 3061900000.0,
+      "sharesOutstanding": 154839814.0,
+      "grossMargin": 0.34125996524653934,
+      "operatingMargin": 0.07391833753945795,
+      "netMargin": 0.06340314980167942,
+      "roe": 0.11066433090377685,
+      "roic": 0.09355589113072324
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:31.859554+00:00"
+  }
+}

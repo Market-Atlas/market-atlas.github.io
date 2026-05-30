@@ -1,0 +1,128 @@
+{
+  "ticker": "ORCL",
+  "name": "Oracle Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 649353691136.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.78,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57399000000.0,
+    "operatingIncome": 18052000000.0,
+    "netIncome": 12443000000.0,
+    "eps": 4.34,
+    "freeCashFlow": -394000000.0,
+    "totalDebt": 104104000000.0,
+    "cash": 10786000000.0,
+    "sharesOutstanding": 2807000000.0
+  },
+  "ratios": {
+    "roe": 0.6084299056280866,
+    "roic": 0.14493195776966,
+    "grossMargin": 0.70509939197547,
+    "operatingMargin": 0.3145002526176414,
+    "netMargin": 0.21678078015296434,
+    "debtToEquity": 4.1526499999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 42440000000.0,
+      "operatingIncome": 15830000000.0,
+      "netIncome": 6717000000.0,
+      "eps": 2.41,
+      "freeCashFlow": 5028000000.0,
+      "totalDebt": 75859000000.0,
+      "cash": 21383000000.0,
+      "sharesOutstanding": 2665000000.0,
+      "grossMargin": 0.7908341187558907,
+      "operatingMargin": 0.3729971724787936,
+      "netMargin": 0.15827049952874647,
+      "roe": -1.0799035369774919,
+      "roic": 0.227315153864932
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 49954000000.0,
+      "operatingIncome": 13773000000.0,
+      "netIncome": 8503000000.0,
+      "eps": 3.07,
+      "freeCashFlow": 8470000000.0,
+      "totalDebt": 90481000000.0,
+      "cash": 9765000000.0,
+      "sharesOutstanding": 2713000000.0,
+      "grossMargin": 0.728470192577171,
+      "operatingMargin": 0.2757136565640389,
+      "netMargin": 0.17021659927132962,
+      "roe": 7.924510717614166,
+      "roic": 0.150435808375385
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 52961000000.0,
+      "operatingIncome": 16071000000.0,
+      "netIncome": 10467000000.0,
+      "eps": 3.71,
+      "freeCashFlow": 11807000000.0,
+      "totalDebt": 93124000000.0,
+      "cash": 10454000000.0,
+      "sharesOutstanding": 2755000000.0,
+      "grossMargin": 0.7140726194747078,
+      "operatingMargin": 0.3034497082759011,
+      "netMargin": 0.19763599629916354,
+      "roe": 1.2025505514705883,
+      "roic": 0.15782495973602545
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 57399000000.0,
+      "operatingIncome": 18052000000.0,
+      "netIncome": 12443000000.0,
+      "eps": 4.34,
+      "freeCashFlow": -394000000.0,
+      "totalDebt": 104104000000.0,
+      "cash": 10786000000.0,
+      "sharesOutstanding": 2807000000.0,
+      "grossMargin": 0.70509939197547,
+      "operatingMargin": 0.3145002526176414,
+      "netMargin": 0.21678078015296434,
+      "roe": 0.6084299056280866,
+      "roic": 0.14493195776966
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.779106+00:00"
+  }
+}

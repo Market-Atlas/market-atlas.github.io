@@ -1,0 +1,128 @@
+{
+  "ticker": "IDEA",
+  "name": "Vodafone Idea Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1515718967296.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13.99,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 447890000000.0,
+    "operatingIncome": -31050000000.0,
+    "netIncome": 345520000000.0,
+    "eps": null,
+    "freeCashFlow": 84320000000.0,
+    "totalDebt": 1925280000000.0,
+    "cash": 21060000000.0,
+    "sharesOutstanding": 108343035001.0
+  },
+  "ratios": {
+    "roe": -0.9662732815034398,
+    "roic": -0.019806085347961983,
+    "grossMargin": 0.6031168367233026,
+    "operatingMargin": -0.06932505749179486,
+    "netMargin": 0.771439415928018,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -9.83,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 421426000000.0,
+      "operatingIncome": -61799000000.0,
+      "netIncome": -293011000000.0,
+      "eps": -8.43,
+      "freeCashFlow": 132465000000.0,
+      "totalDebt": 2377660000000.0,
+      "cash": 2288000000.0,
+      "sharesOutstanding": 48679689205.0,
+      "grossMargin": 0.5731801075396392,
+      "operatingMargin": -0.14664258968359806,
+      "netMargin": -0.6952845813974459,
+      "roe": 0.3940486100557968,
+      "roic": -0.0378190884228267
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 425727000000.0,
+      "operatingIncome": -53442000000.0,
+      "netIncome": -312384000000.0,
+      "eps": -6.41,
+      "freeCashFlow": 192122000000.0,
+      "totalDebt": 2438090000000.0,
+      "cash": 1678000000.0,
+      "sharesOutstanding": 50119820375.0,
+      "grossMargin": 0.5862066535596756,
+      "operatingMargin": -0.12553115024417055,
+      "netMargin": -0.7337660049750192,
+      "roe": 0.29988825614303216,
+      "roic": -0.03827066603075575
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 434560000000.0,
+      "operatingIncome": -38470000000.0,
+      "netIncome": -273840000000.0,
+      "eps": -4.01,
+      "freeCashFlow": -10450000000.0,
+      "totalDebt": 2332287000000.0,
+      "cash": 2568000000.0,
+      "sharesOutstanding": 71393035001.0,
+      "grossMargin": 0.591909057437408,
+      "operatingMargin": -0.08852632547864507,
+      "netMargin": -0.6301546391752577,
+      "roe": 0.38941868766016025,
+      "roic": -0.02361448297664026
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 447890000000.0,
+      "operatingIncome": -31050000000.0,
+      "netIncome": 345520000000.0,
+      "eps": null,
+      "freeCashFlow": 84320000000.0,
+      "totalDebt": 1925280000000.0,
+      "cash": 21060000000.0,
+      "sharesOutstanding": 108343035001.0,
+      "grossMargin": 0.6031168367233026,
+      "operatingMargin": -0.06932505749179486,
+      "netMargin": 0.771439415928018,
+      "roe": -0.9662732815034398,
+      "roic": -0.019806085347961983
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:57.419960+00:00"
+  }
+}

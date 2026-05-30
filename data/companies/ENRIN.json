@@ -1,0 +1,77 @@
+{
+  "ticker": "ENRIN",
+  "name": "Siemens Energy India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1378934325248.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3872.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 77825000000.0,
+    "operatingIncome": 14229000000.0,
+    "netIncome": 11001000000.0,
+    "eps": 30.89,
+    "freeCashFlow": 34541000000.0,
+    "totalDebt": 1476000000.0,
+    "cash": 1322000000.0,
+    "sharesOutstanding": 356120505.0
+  },
+  "ratios": {
+    "roe": 0.2510898591742177,
+    "roic": 0.31418225176091324,
+    "grossMargin": 0.4109604882749759,
+    "operatingMargin": 0.18283327979441052,
+    "netMargin": 0.14135560552521684,
+    "debtToEquity": 0.044829999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 47596000000.0,
+      "operatingIncome": 12438000000.0,
+      "netIncome": 6000000000.0,
+      "eps": 16.84823,
+      "freeCashFlow": 188000000.0,
+      "totalDebt": 1241000000.0,
+      "cash": 56000000.0,
+      "sharesOutstanding": 356120505.0,
+      "grossMargin": 0.3850323556601395,
+      "operatingMargin": 0.2613244810488276,
+      "netMargin": 0.1260610135305488,
+      "roe": 0.18652076597861228,
+      "roic": 0.37229489059834175
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 77825000000.0,
+      "operatingIncome": 14229000000.0,
+      "netIncome": 11001000000.0,
+      "eps": 30.89,
+      "freeCashFlow": 34541000000.0,
+      "totalDebt": 1476000000.0,
+      "cash": 1322000000.0,
+      "sharesOutstanding": 356120505.0,
+      "grossMargin": 0.4109604882749759,
+      "operatingMargin": 0.18283327979441052,
+      "netMargin": 0.14135560552521684,
+      "roe": 0.2510898591742177,
+      "roic": 0.31418225176091324
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:39.697463+00:00"
+  }
+}

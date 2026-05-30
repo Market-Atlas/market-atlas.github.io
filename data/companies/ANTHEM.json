@@ -1,0 +1,128 @@
+{
+  "ticker": "ANTHEM",
+  "name": "ANTHEM BIOSCIENCES LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "INR",
+  "marketCap": {
+    "value": 426874437632.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 759.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21243330000.0,
+    "operatingIncome": 6997420000.0,
+    "netIncome": 5917920000.0,
+    "eps": null,
+    "freeCashFlow": 6333160000.0,
+    "totalDebt": 539240000.0,
+    "cash": 2729090000.0,
+    "sharesOutstanding": 561713851.0
+  },
+  "ratios": {
+    "roe": 0.1945074405524901,
+    "roic": 0.2259827414708504,
+    "grossMargin": 0.6176291570106947,
+    "operatingMargin": 0.32939374382453224,
+    "netMargin": 0.2785777935945071,
+    "debtToEquity": 0.01772
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.225399,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 10569240000.0,
+      "operatingIncome": 3716990000.0,
+      "netIncome": 3851850000.0,
+      "eps": 6.858585,
+      "freeCashFlow": 1114390000.0,
+      "totalDebt": 1261510000.0,
+      "cash": 3422360000.0,
+      "sharesOutstanding": 561610051.0,
+      "grossMargin": 0.6789958407605466,
+      "operatingMargin": 0.3516799694206963,
+      "netMargin": 0.3644396380439842,
+      "roe": 0.22128573628055437,
+      "roic": 0.1991082156331171
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14193700000.0,
+      "operatingIncome": 4246290000.0,
+      "netIncome": 3673100000.0,
+      "eps": 6.540303,
+      "freeCashFlow": -1570340000.0,
+      "totalDebt": 2385170000.0,
+      "cash": 1838600000.0,
+      "sharesOutstanding": 561610051.0,
+      "grossMargin": 0.5775935802503928,
+      "operatingMargin": 0.2991672361681591,
+      "netMargin": 0.2587838266273065,
+      "roe": 0.19084459292704406,
+      "roic": 0.19629923094418752
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 18445530000.0,
+      "operatingIncome": 5814650000.0,
+      "netIncome": 4512600000.0,
+      "eps": 8.04,
+      "freeCashFlow": 93430000.0,
+      "totalDebt": 1133170000.0,
+      "cash": 3161420000.0,
+      "sharesOutstanding": 561610051.0,
+      "grossMargin": 0.5966979533794908,
+      "operatingMargin": 0.3152335552299121,
+      "netMargin": 0.24464463748127596,
+      "roe": 0.18725538038661102,
+      "roic": 0.23044918299559167
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 21243330000.0,
+      "operatingIncome": 6997420000.0,
+      "netIncome": 5917920000.0,
+      "eps": null,
+      "freeCashFlow": 6333160000.0,
+      "totalDebt": 539240000.0,
+      "cash": 2729090000.0,
+      "sharesOutstanding": 561713851.0,
+      "grossMargin": 0.6176291570106947,
+      "operatingMargin": 0.32939374382453224,
+      "netMargin": 0.2785777935945071,
+      "roe": 0.1945074405524901,
+      "roic": 0.2259827414708504
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:52.677291+00:00"
+  }
+}

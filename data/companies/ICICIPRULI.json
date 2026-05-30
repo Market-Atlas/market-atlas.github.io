@@ -1,0 +1,128 @@
+{
+  "ticker": "ICICIPRULI",
+  "name": "ICICI Prudential Life Insurance Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 730202636288.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 503.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 632965600000.0,
+    "operatingIncome": null,
+    "netIncome": 16078900000.0,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": 25950000000.0,
+    "cash": 11377000000.0,
+    "sharesOutstanding": 1448958424.0
+  },
+  "ratios": {
+    "roe": 0.11795703223865925,
+    "roic": null,
+    "grossMargin": 0.10402001,
+    "operatingMargin": 0.08467,
+    "netMargin": 0.02540248632785099,
+    "debtToEquity": 0.19036999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.26,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 486835391000.0,
+      "operatingIncome": null,
+      "netIncome": 8134940000.0,
+      "eps": 5.65,
+      "freeCashFlow": null,
+      "totalDebt": 12000000000.0,
+      "cash": 13299597000.0,
+      "sharesOutstanding": 1438571396.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.016709836939525213,
+      "roe": 0.0806275839733065,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 891363800000.0,
+      "operatingIncome": null,
+      "netIncome": 8506600000.0,
+      "eps": 5.89,
+      "freeCashFlow": null,
+      "totalDebt": 12000000000.0,
+      "cash": 22140700000.0,
+      "sharesOutstanding": 1440616221.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.009543353678935582,
+      "roe": 0.077300401650219,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 707851300000.0,
+      "operatingIncome": null,
+      "netIncome": 11855200000.0,
+      "eps": 8.202464,
+      "freeCashFlow": null,
+      "totalDebt": 26000000000.0,
+      "cash": 18551500000.0,
+      "sharesOutstanding": 1445321756.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.016748150353047313,
+      "roe": 0.09934153302641745,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 632965600000.0,
+      "operatingIncome": null,
+      "netIncome": 16078900000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 25950000000.0,
+      "cash": 11377000000.0,
+      "sharesOutstanding": 1448958424.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02540248632785099,
+      "roe": 0.11795703223865925,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:57.026699+00:00"
+  }
+}

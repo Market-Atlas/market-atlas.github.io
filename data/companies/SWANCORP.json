@@ -1,0 +1,111 @@
+{
+  "ticker": "SWANCORP",
+  "name": "Swan Corp Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 103221354496.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 329.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 49021080000.0,
+    "operatingIncome": -3131331000.0,
+    "netIncome": 7553030000.0,
+    "eps": 24.095913,
+    "freeCashFlow": -21082764000.0,
+    "totalDebt": 29660774000.0,
+    "cash": 1367575000.0,
+    "sharesOutstanding": 313456886.0
+  },
+  "ratios": {
+    "roe": 0.10286407558541555,
+    "roic": -0.030375302140953065,
+    "grossMargin": 0.1459638588133921,
+    "operatingMargin": -0.06387723403890734,
+    "netMargin": 0.15407718475398746,
+    "debtToEquity": 0.28231
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 4539202000.0,
+      "operatingIncome": -350701000.0,
+      "netIncome": -1578929000.0,
+      "eps": -6.462787,
+      "freeCashFlow": -4618221000.0,
+      "totalDebt": 41174233000.0,
+      "cash": 9068037000.0,
+      "sharesOutstanding": 263917000.0,
+      "grossMargin": 0.28350577920964964,
+      "operatingMargin": -0.0772604964484947,
+      "netMargin": -0.3478428587227447,
+      "roe": -0.1267891097149317,
+      "roic": -0.006539583180426492
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14041552000.0,
+      "operatingIncome": 1159174000.0,
+      "netIncome": -359002000.0,
+      "eps": -2.52,
+      "freeCashFlow": -31678847000.0,
+      "totalDebt": 50370039000.0,
+      "cash": 1450850000.0,
+      "sharesOutstanding": 263917000.0,
+      "grossMargin": 0.23970875868992259,
+      "operatingMargin": 0.08255312518160386,
+      "netMargin": -0.02556711679734548,
+      "roe": -0.015720338229731626,
+      "roic": 0.015834234034873114
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 49823246000.0,
+      "operatingIncome": 7185273000.0,
+      "netIncome": 3011713000.0,
+      "eps": 11.227331,
+      "freeCashFlow": -4217315000.0,
+      "totalDebt": 35206018000.0,
+      "cash": 12574660000.0,
+      "sharesOutstanding": 313456886.0,
+      "grossMargin": 0.20335985335038187,
+      "operatingMargin": 0.1442152725255998,
+      "netMargin": 0.0604479483331937,
+      "roe": 0.04796566847054091,
+      "roic": 0.07332289211480575
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 49021080000.0,
+      "operatingIncome": -3131331000.0,
+      "netIncome": 7553030000.0,
+      "eps": 24.095913,
+      "freeCashFlow": -21082764000.0,
+      "totalDebt": 29660774000.0,
+      "cash": 1367575000.0,
+      "sharesOutstanding": 313456886.0,
+      "grossMargin": 0.1459638588133921,
+      "operatingMargin": -0.06387723403890734,
+      "netMargin": 0.15407718475398746,
+      "roe": 0.10286407558541555,
+      "roic": -0.030375302140953065
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:59.724810+00:00"
+  }
+}

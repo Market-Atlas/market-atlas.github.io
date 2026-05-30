@@ -1,0 +1,128 @@
+{
+  "ticker": "LDOS",
+  "name": "Leidos Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16075382784.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 127.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17174000000.0,
+    "operatingIncome": 2100000000.0,
+    "netIncome": 1448000000.0,
+    "eps": 11.14,
+    "freeCashFlow": 1625000000.0,
+    "totalDebt": 5235000000.0,
+    "cash": 1108000000.0,
+    "sharesOutstanding": 126380657.0
+  },
+  "ratios": {
+    "roe": 0.29454841334418225,
+    "roic": 0.20687616983548418,
+    "grossMargin": 0.18044718760917666,
+    "operatingMargin": 0.12227786188424362,
+    "netMargin": 0.0843134971468499,
+    "debtToEquity": 1.37125
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14396000000.0,
+      "operatingIncome": 1133000000.0,
+      "netIncome": 685000000.0,
+      "eps": 4.96,
+      "freeCashFlow": 863000000.0,
+      "totalDebt": 5490000000.0,
+      "cash": 516000000.0,
+      "sharesOutstanding": 137000000.0,
+      "grossMargin": 0.14476243400944708,
+      "operatingMargin": 0.07870241733814949,
+      "netMargin": 0.04758266185051403,
+      "roe": 0.15933938125145383,
+      "roic": 0.11574215956686076
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15438000000.0,
+      "operatingIncome": 1302000000.0,
+      "netIncome": 199000000.0,
+      "eps": 1.44,
+      "freeCashFlow": 980000000.0,
+      "totalDebt": 5198000000.0,
+      "cash": 777000000.0,
+      "sharesOutstanding": 135766419.0,
+      "grossMargin": 0.14535561601243685,
+      "operatingMargin": 0.08433734939759036,
+      "netMargin": 0.0128902707604612,
+      "roe": 0.04736967388716972,
+      "roic": 0.13852537503989787
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16662000000.0,
+      "operatingIncome": 1815000000.0,
+      "netIncome": 1254000000.0,
+      "eps": 9.22,
+      "freeCashFlow": 1286000000.0,
+      "totalDebt": 5291000000.0,
+      "cash": 849000000.0,
+      "sharesOutstanding": 131163899.0,
+      "grossMargin": 0.16792701956547834,
+      "operatingMargin": 0.10893050054015124,
+      "netMargin": 0.07526107310046813,
+      "roe": 0.2842248413417951,
+      "roic": 0.1870555498299495
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17174000000.0,
+      "operatingIncome": 2100000000.0,
+      "netIncome": 1448000000.0,
+      "eps": 11.14,
+      "freeCashFlow": 1625000000.0,
+      "totalDebt": 5235000000.0,
+      "cash": 1108000000.0,
+      "sharesOutstanding": 126380657.0,
+      "grossMargin": 0.18044718760917666,
+      "operatingMargin": 0.12227786188424362,
+      "netMargin": 0.0843134971468499,
+      "roe": 0.29454841334418225,
+      "roic": 0.20687616983548418
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.342548+00:00"
+  }
+}

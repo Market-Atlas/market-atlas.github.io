@@ -1,0 +1,77 @@
+{
+  "ticker": "CANHLIFE",
+  "name": "CANARA HSBC LIFE INS CO L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 130790809600.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 138.04,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 116043400000.0,
+    "operatingIncome": null,
+    "netIncome": 1266100000.0,
+    "eps": 1.33,
+    "freeCashFlow": null,
+    "totalDebt": 2500000000.0,
+    "cash": 6133300000.0,
+    "sharesOutstanding": 950000000.0
+  },
+  "ratios": {
+    "roe": 0.07886164176222539,
+    "roic": null,
+    "grossMargin": 0.1277,
+    "operatingMargin": 0.031489998,
+    "netMargin": 0.010910573113162833,
+    "debtToEquity": 0.15572
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 108085500000.0,
+      "operatingIncome": null,
+      "netIncome": 1169800000.0,
+      "eps": 1.231368,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": 947512011.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.010822913341752593,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 116043400000.0,
+      "operatingIncome": null,
+      "netIncome": 1266100000.0,
+      "eps": 1.33,
+      "freeCashFlow": null,
+      "totalDebt": 2500000000.0,
+      "cash": 6133300000.0,
+      "sharesOutstanding": 950000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.010910573113162833,
+      "roe": 0.07886164176222539,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:07.131588+00:00"
+  }
+}

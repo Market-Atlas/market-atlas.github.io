@@ -1,0 +1,128 @@
+{
+  "ticker": "AME",
+  "name": "AMETEK, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 51765501952.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.85,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7401116000.0,
+    "operatingIncome": 1910317000.0,
+    "netIncome": 1480142000.0,
+    "eps": 6.4,
+    "freeCashFlow": 1671515000.0,
+    "totalDebt": 2344442000.0,
+    "cash": 457951000.0,
+    "sharesOutstanding": 270471745.0
+  },
+  "ratios": {
+    "roe": 0.13925786068136098,
+    "roic": 0.14725070737984408,
+    "grossMargin": 0.3604103759487083,
+    "operatingMargin": 0.2581120198629504,
+    "netMargin": 0.19998902868162044,
+    "debtToEquity": 0.22489
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6150530000.0,
+      "operatingIncome": 1500692000.0,
+      "netIncome": 1159542000.0,
+      "eps": 5.01,
+      "freeCashFlow": 1010368000.0,
+      "totalDebt": 2431373000.0,
+      "cash": 345386000.0,
+      "sharesOutstanding": 268588293.0,
+      "grossMargin": 0.34879416895779713,
+      "operatingMargin": 0.24399393223023055,
+      "netMargin": 0.1885271675774283,
+      "roe": 0.15509130460835213,
+      "roic": 0.15146441445374062
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6596950000.0,
+      "operatingIncome": 1707459000.0,
+      "netIncome": 1313188000.0,
+      "eps": 5.67,
+      "freeCashFlow": 1599047000.0,
+      "totalDebt": 3374402000.0,
+      "cash": 409804000.0,
+      "sharesOutstanding": 269284250.0,
+      "grossMargin": 0.3614496092891412,
+      "operatingMargin": 0.2588255178529472,
+      "netMargin": 0.19905986857562966,
+      "roe": 0.1504191603597218,
+      "roic": 0.14105877000573253
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6941180000.0,
+      "operatingIncome": 1779562000.0,
+      "netIncome": 1376124000.0,
+      "eps": 5.93,
+      "freeCashFlow": 1701773000.0,
+      "totalDebt": 2134457000.0,
+      "cash": 373999000.0,
+      "sharesOutstanding": 270064222.0,
+      "grossMargin": 0.3567789626547648,
+      "operatingMargin": 0.2563774459097733,
+      "netMargin": 0.19825505173471947,
+      "roe": 0.14252518615674867,
+      "roic": 0.1509413125507803
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7401116000.0,
+      "operatingIncome": 1910317000.0,
+      "netIncome": 1480142000.0,
+      "eps": 6.4,
+      "freeCashFlow": 1671515000.0,
+      "totalDebt": 2344442000.0,
+      "cash": 457951000.0,
+      "sharesOutstanding": 270471745.0,
+      "grossMargin": 0.3604103759487083,
+      "operatingMargin": 0.2581120198629504,
+      "netMargin": 0.19998902868162044,
+      "roe": 0.13925786068136098,
+      "roic": 0.14725070737984408
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:42.198690+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CHRW",
+  "name": "C.H. Robinson Worldwide, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21058017280.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 178.65,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16232763000.0,
+    "operatingIncome": 794961000.0,
+    "netIncome": 587081000.0,
+    "eps": 4.83,
+    "freeCashFlow": 843976000.0,
+    "totalDebt": 1395386000.0,
+    "cash": 160871000.0,
+    "sharesOutstanding": 179199000.0
+  },
+  "ratios": {
+    "roe": 0.31808953716501587,
+    "roic": 0.2452801313655245,
+    "grossMargin": 0.08373509796206598,
+    "operatingMargin": 0.04897262406898936,
+    "netMargin": 0.036166424656110606,
+    "debtToEquity": 0.96501
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24696625000.0,
+      "operatingIncome": 1266782000.0,
+      "netIncome": 940524000.0,
+      "eps": 7.4,
+      "freeCashFlow": 1521674000.0,
+      "totalDebt": 2361168000.0,
+      "cash": 217482000.0,
+      "sharesOutstanding": 179204000.0,
+      "grossMargin": 0.07572682502163758,
+      "operatingMargin": 0.05129372940634601,
+      "netMargin": 0.03808309839907275,
+      "roe": 0.6949229434721764,
+      "roic": 0.3410287541828304
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17596443000.0,
+      "operatingIncome": 514607000.0,
+      "netIncome": 325129000.0,
+      "eps": 2.72,
+      "freeCashFlow": 647835000.0,
+      "totalDebt": 1952501000.0,
+      "cash": 145524000.0,
+      "sharesOutstanding": 179204000.0,
+      "grossMargin": 0.06472177359935755,
+      "operatingMargin": 0.029244944560670585,
+      "netMargin": 0.01847697287457471,
+      "roe": 0.2291743762057719,
+      "roic": 0.15264810906983214
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17724956000.0,
+      "operatingIncome": 669141000.0,
+      "netIncome": 465690000.0,
+      "eps": 3.86,
+      "freeCashFlow": 434796000.0,
+      "totalDebt": 1741132000.0,
+      "cash": 145762000.0,
+      "sharesOutstanding": 179199000.0,
+      "grossMargin": 0.07383741883477736,
+      "operatingMargin": 0.037751349001938286,
+      "netMargin": 0.02627312586840836,
+      "roe": 0.2704275308919422,
+      "roic": 0.1932156054127085
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16232763000.0,
+      "operatingIncome": 794961000.0,
+      "netIncome": 587081000.0,
+      "eps": 4.83,
+      "freeCashFlow": 843976000.0,
+      "totalDebt": 1395386000.0,
+      "cash": 160871000.0,
+      "sharesOutstanding": 179199000.0,
+      "grossMargin": 0.08373509796206598,
+      "operatingMargin": 0.04897262406898936,
+      "netMargin": 0.036166424656110606,
+      "roe": 0.31808953716501587,
+      "roic": 0.2452801313655245
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:59.483962+00:00"
+  }
+}

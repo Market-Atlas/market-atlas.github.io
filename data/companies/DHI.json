@@ -1,0 +1,128 @@
+{
+  "ticker": "DHI",
+  "name": "D.R. Horton, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 41711726592.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 147.09,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34250400000.0,
+    "operatingIncome": 4424200000.0,
+    "netIncome": 3585200000.0,
+    "eps": 11.57,
+    "freeCashFlow": 3283500000.0,
+    "totalDebt": 6031100000.0,
+    "cash": 2985400000.0,
+    "sharesOutstanding": 404031443.0
+  },
+  "ratios": {
+    "roe": 0.14820755340961703,
+    "roic": 0.14639246893767682,
+    "grossMargin": 0.23696657557284004,
+    "operatingMargin": 0.12917221404713522,
+    "netMargin": 0.10467614976759396,
+    "debtToEquity": 0.27453
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 33480000000.0,
+      "operatingIncome": 7570400000.0,
+      "netIncome": 5857500000.0,
+      "eps": 16.51,
+      "freeCashFlow": 413600000.0,
+      "totalDebt": 6114800000.0,
+      "cash": 2540500000.0,
+      "sharesOutstanding": 399172937.0,
+      "grossMargin": 0.3137425328554361,
+      "operatingMargin": 0.22611708482676224,
+      "netMargin": 0.17495519713261648,
+      "roe": 0.3019905858333806,
+      "roic": 0.2967492581660532
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 35460400000.0,
+      "operatingIncome": 6101600000.0,
+      "netIncome": 4745700000.0,
+      "eps": 13.82,
+      "freeCashFlow": 4155500000.0,
+      "totalDebt": 5142600000.0,
+      "cash": 3873600000.0,
+      "sharesOutstanding": 401202253.0,
+      "grossMargin": 0.26368568882471716,
+      "operatingMargin": 0.17206799697690944,
+      "netMargin": 0.1338309776539464,
+      "roe": 0.20909667697676262,
+      "roic": 0.21917611391295602
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 36801400000.0,
+      "operatingIncome": 5935900000.0,
+      "netIncome": 4756400000.0,
+      "eps": 14.34,
+      "freeCashFlow": 2024500000.0,
+      "totalDebt": 5971000000.0,
+      "cash": 4516400000.0,
+      "sharesOutstanding": 402848342.0,
+      "grossMargin": 0.2591042732069976,
+      "operatingMargin": 0.1612954941931557,
+      "netMargin": 0.129245083067492,
+      "roe": 0.18790493347239343,
+      "roic": 0.18974357335106348
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 34250400000.0,
+      "operatingIncome": 4424200000.0,
+      "netIncome": 3585200000.0,
+      "eps": 11.57,
+      "freeCashFlow": 3283500000.0,
+      "totalDebt": 6031100000.0,
+      "cash": 2985400000.0,
+      "sharesOutstanding": 404031443.0,
+      "grossMargin": 0.23696657557284004,
+      "operatingMargin": 0.12917221404713522,
+      "netMargin": 0.10467614976759396,
+      "roe": 0.14820755340961703,
+      "roic": 0.14639246893767682
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:11.364805+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MAR",
+  "name": "Marriott International, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "USD",
+  "marketCap": {
+    "value": 99041452032.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 375.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26186000000.0,
+    "operatingIncome": 4139000000.0,
+    "netIncome": 2601000000.0,
+    "eps": 9.51,
+    "freeCashFlow": 2608000000.0,
+    "totalDebt": 17083000000.0,
+    "cash": 358000000.0,
+    "sharesOutstanding": 265864771.0
+  },
+  "ratios": {
+    "roe": -0.6897374701670644,
+    "roic": 0.31092247596153844,
+    "grossMargin": 0.1994195371572596,
+    "operatingMargin": 0.1580615596120064,
+    "netMargin": 0.09932788512945849,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20773000000.0,
+      "operatingIncome": 3474000000.0,
+      "netIncome": 2358000000.0,
+      "eps": 7.24,
+      "freeCashFlow": 2031000000.0,
+      "totalDebt": 11098000000.0,
+      "cash": 507000000.0,
+      "sharesOutstanding": 310600000.0,
+      "grossMargin": 0.21941943869445915,
+      "operatingMargin": 0.16723631637221392,
+      "netMargin": 0.11351273287440428,
+      "roe": 4.151408450704225,
+      "roic": 0.2977884450540031
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23713000000.0,
+      "operatingIncome": 3924000000.0,
+      "netIncome": 3083000000.0,
+      "eps": 10.18,
+      "freeCashFlow": 2718000000.0,
+      "totalDebt": 12760000000.0,
+      "cash": 338000000.0,
+      "sharesOutstanding": 290539975.0,
+      "grossMargin": 0.21001138615949058,
+      "operatingMargin": 0.16547885126302028,
+      "netMargin": 0.13001307299793363,
+      "roe": -4.520527859237537,
+      "roic": 0.32488822652757077
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25100000000.0,
+      "operatingIncome": 3844000000.0,
+      "netIncome": 2375000000.0,
+      "eps": 8.33,
+      "freeCashFlow": 1999000000.0,
+      "totalDebt": 15241000000.0,
+      "cash": 396000000.0,
+      "sharesOutstanding": 276671710.0,
+      "grossMargin": 0.19808764940239043,
+      "operatingMargin": 0.15314741035856574,
+      "netMargin": 0.0946215139442231,
+      "roe": -0.7937834224598931,
+      "roic": 0.31382153645195526
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26186000000.0,
+      "operatingIncome": 4139000000.0,
+      "netIncome": 2601000000.0,
+      "eps": 9.51,
+      "freeCashFlow": 2608000000.0,
+      "totalDebt": 17083000000.0,
+      "cash": 358000000.0,
+      "sharesOutstanding": 265864771.0,
+      "grossMargin": 0.1994195371572596,
+      "operatingMargin": 0.1580615596120064,
+      "netMargin": 0.09932788512945849,
+      "roe": -0.6897374701670644,
+      "roic": 0.31092247596153844
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:51.941826+00:00"
+  }
+}

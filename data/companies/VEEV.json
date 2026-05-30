@@ -1,0 +1,128 @@
+{
+  "ticker": "VEEV",
+  "name": "Veeva Systems Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28452061184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 174.34,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3195311000.0,
+    "operatingIncome": 916369000.0,
+    "netIncome": 908906000.0,
+    "eps": 5.44,
+    "freeCashFlow": null,
+    "totalDebt": 95859000.0,
+    "cash": 1421233000.0,
+    "sharesOutstanding": 163778271.0
+  },
+  "ratios": {
+    "roe": 0.12597882782388084,
+    "roic": 0.12534779924687553,
+    "grossMargin": 0.7552604425672493,
+    "operatingMargin": 0.2867855429408906,
+    "netMargin": 0.28444993304251137,
+    "debtToEquity": 0.01329
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 2155060000.0,
+      "operatingIncome": 459091000.0,
+      "netIncome": 487706000.0,
+      "eps": 3.0,
+      "freeCashFlow": null,
+      "totalDebt": 60976000.0,
+      "cash": 886465000.0,
+      "sharesOutstanding": 158244607.0,
+      "grossMargin": 0.7172213302645866,
+      "operatingMargin": 0.21302933561014542,
+      "netMargin": 0.22630738819336815,
+      "roe": 0.13123598722583937,
+      "roic": 0.12154177613848038
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 2363673000.0,
+      "operatingIncome": 429334000.0,
+      "netIncome": 525705000.0,
+      "eps": 3.22,
+      "freeCashFlow": null,
+      "totalDebt": 55775000.0,
+      "cash": 703487000.0,
+      "sharesOutstanding": 161260172.0,
+      "grossMargin": 0.7134582490894468,
+      "operatingMargin": 0.1816384922956771,
+      "netMargin": 0.2224102064879533,
+      "roe": 0.11318082235193411,
+      "roic": 0.09133601909033295
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 2746619000.0,
+      "operatingIncome": 691435000.0,
+      "netIncome": 714138000.0,
+      "eps": 4.32,
+      "freeCashFlow": null,
+      "totalDebt": 75775000.0,
+      "cash": 1118785000.0,
+      "sharesOutstanding": 162583789.0,
+      "grossMargin": 0.7452737347262216,
+      "operatingMargin": 0.25174041248531376,
+      "netMargin": 0.26000621127284124,
+      "roe": 0.12244381489318328,
+      "roic": 0.11703075143005896
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 3195311000.0,
+      "operatingIncome": 916369000.0,
+      "netIncome": 908906000.0,
+      "eps": 5.44,
+      "freeCashFlow": null,
+      "totalDebt": 95859000.0,
+      "cash": 1421233000.0,
+      "sharesOutstanding": 163778271.0,
+      "grossMargin": 0.7552604425672493,
+      "operatingMargin": 0.2867855429408906,
+      "netMargin": 0.28444993304251137,
+      "roe": 0.12597882782388084,
+      "roic": 0.12534779924687553
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:33.927182+00:00"
+  }
+}

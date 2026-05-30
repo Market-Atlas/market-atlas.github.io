@@ -1,0 +1,128 @@
+{
+  "ticker": "NH",
+  "name": "Narayana Hrudayalaya Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 384671088640.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1894.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 78960350000.0,
+    "operatingIncome": 11688700000.0,
+    "netIncome": 8055990000.0,
+    "eps": 39.67,
+    "freeCashFlow": 7460120000.0,
+    "totalDebt": 58574950000.0,
+    "cash": 7700670000.0,
+    "sharesOutstanding": 204360804.0
+  },
+  "ratios": {
+    "roe": 0.17755194877611102,
+    "roic": 0.1124480783718478,
+    "grossMargin": 0.440499947125361,
+    "operatingMargin": 0.14803252518510873,
+    "netMargin": 0.10202576356361136,
+    "debtToEquity": 1.29033
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 44910610000.0,
+      "operatingIncome": 7901450000.0,
+      "netIncome": 6062480000.0,
+      "eps": 29.85,
+      "freeCashFlow": 5625160000.0,
+      "totalDebt": 8841710000.0,
+      "cash": 1547600000.0,
+      "sharesOutstanding": 204360804.0,
+      "grossMargin": 0.4803481849834594,
+      "operatingMargin": 0.17593726738514573,
+      "netMargin": 0.13498992776985216,
+      "roe": 0.28443892272713195,
+      "roic": 0.2620232507934697
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 48756560000.0,
+      "operatingIncome": 9377380000.0,
+      "netIncome": 7892620000.0,
+      "eps": 38.86,
+      "freeCashFlow": 959930000.0,
+      "totalDebt": 16266940000.0,
+      "cash": 2638270000.0,
+      "sharesOutstanding": 204360804.0,
+      "grossMargin": 0.5000801943369262,
+      "operatingMargin": 0.19233063202161924,
+      "netMargin": 0.16187811445270134,
+      "roe": 0.27369948340333067,
+      "roic": 0.20790688135687166
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 54829770000.0,
+      "operatingIncome": 9982740000.0,
+      "netIncome": 7901550000.0,
+      "eps": 38.9,
+      "freeCashFlow": -961810000.0,
+      "totalDebt": 24283680000.0,
+      "cash": 4571850000.0,
+      "sharesOutstanding": 204360804.0,
+      "grossMargin": 0.42339663288757184,
+      "operatingMargin": 0.18206788027744783,
+      "netMargin": 0.1441105808030929,
+      "roe": 0.21789234644705222,
+      "roic": 0.16487525523463253
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 78960350000.0,
+      "operatingIncome": 11688700000.0,
+      "netIncome": 8055990000.0,
+      "eps": 39.67,
+      "freeCashFlow": 7460120000.0,
+      "totalDebt": 58574950000.0,
+      "cash": 7700670000.0,
+      "sharesOutstanding": 204360804.0,
+      "grossMargin": 0.440499947125361,
+      "operatingMargin": 0.14803252518510873,
+      "netMargin": 0.10202576356361136,
+      "roe": 0.17755194877611102,
+      "roic": 0.1124480783718478
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:32.506695+00:00"
+  }
+}

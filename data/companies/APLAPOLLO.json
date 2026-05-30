@@ -1,0 +1,128 @@
+{
+  "ticker": "APLAPOLLO",
+  "name": "APL Apollo Tubes Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 508420292608.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1831.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 223836200000.0,
+    "operatingIncome": 15709000000.0,
+    "netIncome": 12030800000.0,
+    "eps": null,
+    "freeCashFlow": 14068700000.0,
+    "totalDebt": 4976500000.0,
+    "cash": 6441800000.0,
+    "sharesOutstanding": 277658405.0
+  },
+  "ratios": {
+    "roe": 0.2271449420658431,
+    "roic": 0.2711168793513491,
+    "grossMargin": 0.12842516089890732,
+    "operatingMargin": 0.07018078398400258,
+    "netMargin": 0.05374823196605375,
+    "debtToEquity": 0.09396
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 22.33,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 156743500000.0,
+      "operatingIncome": 8851800000.0,
+      "netIncome": 6418600000.0,
+      "eps": 23.14,
+      "freeCashFlow": -1707900000.0,
+      "totalDebt": 8730100000.0,
+      "cash": 1226900000.0,
+      "sharesOutstanding": 277330814.0,
+      "grossMargin": 0.08447750624427808,
+      "operatingMargin": 0.05647315518665846,
+      "netMargin": 0.04094970445345421,
+      "roe": 0.21355398737693845,
+      "roic": 0.22822034641186814
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 175069800000.0,
+      "operatingIncome": 10182300000.0,
+      "netIncome": 7324400000.0,
+      "eps": 26.4,
+      "freeCashFlow": 4167200000.0,
+      "totalDebt": 11442500000.0,
+      "cash": 3451600000.0,
+      "sharesOutstanding": 277524564.0,
+      "grossMargin": 0.085783498924429,
+      "operatingMargin": 0.05816137334937265,
+      "netMargin": 0.04183702728854434,
+      "roe": 0.20319422520480604,
+      "roic": 0.21441476727144085
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 199962900000.0,
+      "operatingIncome": 9976600000.0,
+      "netIncome": 7570600000.0,
+      "eps": 27.28,
+      "freeCashFlow": 4907200000.0,
+      "totalDebt": 6344300000.0,
+      "cash": 3688000000.0,
+      "sharesOutstanding": 277524564.0,
+      "grossMargin": 0.10632322295785868,
+      "operatingMargin": 0.049892255013304965,
+      "netMargin": 0.037860023034272855,
+      "roe": 0.17987891805584597,
+      "roic": 0.2059940328092254
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 223836200000.0,
+      "operatingIncome": 15709000000.0,
+      "netIncome": 12030800000.0,
+      "eps": null,
+      "freeCashFlow": 14068700000.0,
+      "totalDebt": 4976500000.0,
+      "cash": 6441800000.0,
+      "sharesOutstanding": 277658405.0,
+      "grossMargin": 0.12842516089890732,
+      "operatingMargin": 0.07018078398400258,
+      "netMargin": 0.05374823196605375,
+      "roe": 0.2271449420658431,
+      "roic": 0.2711168793513491
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:53.672370+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ANURAS",
+  "name": "Anupam Rasayan India Ltd",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 147308331008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1293.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14023260000.0,
+    "operatingIncome": 2994200000.0,
+    "netIncome": 933490000.0,
+    "eps": 8.5,
+    "freeCashFlow": -4400440000.0,
+    "totalDebt": 13824220000.0,
+    "cash": 1130460000.0,
+    "sharesOutstanding": 109931337.0
+  },
+  "ratios": {
+    "roe": 0.03275044977532284,
+    "roic": 0.07073914873932546,
+    "grossMargin": 0.39266333220663385,
+    "operatingMargin": 0.21351668584908218,
+    "netMargin": 0.06656726039451596,
+    "debtToEquity": 0.40335
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 10507750000.0,
+      "operatingIncome": 2449480000.0,
+      "netIncome": 1521790000.0,
+      "eps": 15.18,
+      "freeCashFlow": -3181700000.0,
+      "totalDebt": 8362160000.0,
+      "cash": 422600000.0,
+      "sharesOutstanding": 100246885.0,
+      "grossMargin": 0.3736356498774714,
+      "operatingMargin": 0.23311175085056268,
+      "netMargin": 0.1448254859508458,
+      "roe": 0.08812525009424681,
+      "roic": 0.09556839174972152
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 15628630000.0,
+      "operatingIncome": 3602890000.0,
+      "netIncome": 1808450000.0,
+      "eps": 17.4,
+      "freeCashFlow": 713030000.0,
+      "totalDebt": 8217070000.0,
+      "cash": 1878090000.0,
+      "sharesOutstanding": 107464617.0,
+      "grossMargin": 0.36067460807505203,
+      "operatingMargin": 0.23053140294446794,
+      "netMargin": 0.11571391734272293,
+      "roe": 0.07622267330021057,
+      "roic": 0.11279139841498671
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14425840000.0,
+      "operatingIncome": 3015000000.0,
+      "netIncome": 1286040000.0,
+      "eps": 11.87,
+      "freeCashFlow": -6569550000.0,
+      "totalDebt": 10690590000.0,
+      "cash": 2498030000.0,
+      "sharesOutstanding": 109785896.0,
+      "grossMargin": 0.3681574175230004,
+      "operatingMargin": 0.20899996118077005,
+      "netMargin": 0.08914836155121643,
+      "roe": 0.046578370923251664,
+      "roic": 0.0787189207126843
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14023260000.0,
+      "operatingIncome": 2994200000.0,
+      "netIncome": 933490000.0,
+      "eps": 8.5,
+      "freeCashFlow": -4400440000.0,
+      "totalDebt": 13824220000.0,
+      "cash": 1130460000.0,
+      "sharesOutstanding": 109931337.0,
+      "grossMargin": 0.39266333220663385,
+      "operatingMargin": 0.21351668584908218,
+      "netMargin": 0.06656726039451596,
+      "roe": 0.03275044977532284,
+      "roic": 0.07073914873932546
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:52.888078+00:00"
+  }
+}

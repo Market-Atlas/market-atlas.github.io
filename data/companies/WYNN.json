@@ -1,0 +1,128 @@
+{
+  "ticker": "WYNN",
+  "name": "Wynn Resorts, Limited",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10505292800.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 101.22,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7137924000.0,
+    "operatingIncome": 1206597000.0,
+    "netIncome": 327334000.0,
+    "eps": 3.14,
+    "freeCashFlow": 691763000.0,
+    "totalDebt": 12175929000.0,
+    "cash": 1463442000.0,
+    "sharesOutstanding": 134326464.0
+  },
+  "ratios": {
+    "roe": -1.1881796930582376,
+    "roic": 0.10139098253282632,
+    "grossMargin": 0.4142669493258824,
+    "operatingMargin": 0.16904032601075608,
+    "netMargin": 0.045858431667246666,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3756825000.0,
+      "operatingIncome": -148870000.0,
+      "netIncome": -423856000.0,
+      "eps": -3.73,
+      "freeCashFlow": -383595000.0,
+      "totalDebt": 13732016000.0,
+      "cash": 3650440000.0,
+      "sharesOutstanding": 132256185.0,
+      "grossMargin": 0.36376541361388937,
+      "operatingMargin": -0.03962654635230547,
+      "netMargin": -0.11282292893600314,
+      "roe": 0.5645105868376401,
+      "roic": -0.011468142567646788
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6531897000.0,
+      "operatingIncome": 1075006000.0,
+      "netIncome": 729994000.0,
+      "eps": 6.32,
+      "freeCashFlow": 794334000.0,
+      "totalDebt": 13370086000.0,
+      "cash": 2879186000.0,
+      "sharesOutstanding": 132998916.0,
+      "grossMargin": 0.4322379853815821,
+      "operatingMargin": 0.164577916645042,
+      "netMargin": 0.11175834524028777,
+      "roe": -2.903923113031164,
+      "roic": 0.08194452744722344
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7127961000.0,
+      "operatingIncome": 1357181000.0,
+      "netIncome": 501078000.0,
+      "eps": 4.35,
+      "freeCashFlow": 1003659000.0,
+      "totalDebt": 12165624000.0,
+      "cash": 2426155000.0,
+      "sharesOutstanding": 133584126.0,
+      "grossMargin": 0.4351226107999188,
+      "operatingMargin": 0.19040241662377222,
+      "netMargin": 0.07029752267163078,
+      "roe": -2.235348700264542,
+      "roic": 0.11365282461621327
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7137924000.0,
+      "operatingIncome": 1206597000.0,
+      "netIncome": 327334000.0,
+      "eps": 3.14,
+      "freeCashFlow": 691763000.0,
+      "totalDebt": 12175929000.0,
+      "cash": 1463442000.0,
+      "sharesOutstanding": 134326464.0,
+      "grossMargin": 0.4142669493258824,
+      "operatingMargin": 0.16904032601075608,
+      "netMargin": 0.045858431667246666,
+      "roe": -1.1881796930582376,
+      "roic": 0.10139098253282632
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:41.443226+00:00"
+  }
+}

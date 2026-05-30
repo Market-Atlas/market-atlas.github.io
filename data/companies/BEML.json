@@ -1,0 +1,128 @@
+{
+  "ticker": "BEML",
+  "name": "BEML Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 143456976896.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1722.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 43505300000.0,
+    "operatingIncome": 2155200000.0,
+    "netIncome": 1413600000.0,
+    "eps": 16.97,
+    "freeCashFlow": -2627500000.0,
+    "totalDebt": 3088400000.0,
+    "cash": 67700000.0,
+    "sharesOutstanding": 83289000.0
+  },
+  "ratios": {
+    "roe": 0.04818307934051626,
+    "roic": 0.0664641574021248,
+    "grossMargin": 0.47624772154197303,
+    "operatingMargin": 0.049538791825363804,
+    "netMargin": 0.03249259285650254,
+    "debtToEquity": 0.23787
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 37997299000.0,
+      "operatingIncome": 3105798000.0,
+      "netIncome": 1579183000.0,
+      "eps": 37.920566,
+      "freeCashFlow": 5173831000.0,
+      "totalDebt": 3814752000.0,
+      "cash": 90989000.0,
+      "sharesOutstanding": 41644500.0,
+      "grossMargin": 0.4359553819864933,
+      "operatingMargin": 0.08173733611960156,
+      "netMargin": 0.041560401438007474,
+      "roe": 0.06521559039410926,
+      "roic": 0.11080437937662953
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 39653790000.0,
+      "operatingIncome": 3882076000.0,
+      "netIncome": 2818122000.0,
+      "eps": 67.670929,
+      "freeCashFlow": 3565100000.0,
+      "totalDebt": 709019000.0,
+      "cash": 80247000.0,
+      "sharesOutstanding": 41644500.0,
+      "grossMargin": 0.47004891587916314,
+      "operatingMargin": 0.09789924241793786,
+      "netMargin": 0.07106816271534197,
+      "roe": 0.10562782660739721,
+      "roic": 0.14173980192597327
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40222200000.0,
+      "operatingIncome": 4343400000.0,
+      "netIncome": 2925200000.0,
+      "eps": 70.24,
+      "freeCashFlow": -944300000.0,
+      "totalDebt": 3171561000.0,
+      "cash": 43789000.0,
+      "sharesOutstanding": 41644500.0,
+      "grossMargin": 0.49909502712432435,
+      "operatingMargin": 0.10798514253322791,
+      "netMargin": 0.0727260070309431,
+      "roe": 0.10130980640621402,
+      "roic": 0.13553908099672432
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 43505300000.0,
+      "operatingIncome": 2155200000.0,
+      "netIncome": 1413600000.0,
+      "eps": 16.97,
+      "freeCashFlow": -2627500000.0,
+      "totalDebt": 3088400000.0,
+      "cash": 67700000.0,
+      "sharesOutstanding": 83289000.0,
+      "grossMargin": 0.47624772154197303,
+      "operatingMargin": 0.049538791825363804,
+      "netMargin": 0.03249259285650254,
+      "roe": 0.04818307934051626,
+      "roic": 0.0664641574021248
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:01.336506+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MRPL",
+  "name": "Mangalore Refinery and Petrochemicals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 254056726528.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 144.96,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 886674900000.0,
+    "operatingIncome": 47155800000.0,
+    "netIncome": 19245800000.0,
+    "eps": null,
+    "freeCashFlow": 11189200000.0,
+    "totalDebt": 153410200000.0,
+    "cash": 5644800000.0,
+    "sharesOutstanding": 1752598777.0
+  },
+  "ratios": {
+    "roe": 0.13556368410783504,
+    "roic": 0.1596451202167792,
+    "grossMargin": 0.10251310824294226,
+    "operatingMargin": 0.05318273924298522,
+    "netMargin": 0.021705587921796367,
+    "debtToEquity": 1.08059
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 16.88,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1089755610000.0,
+      "operatingIncome": 68013210000.0,
+      "netIncome": 26554070000.0,
+      "eps": 15.15,
+      "freeCashFlow": 56616000000.0,
+      "totalDebt": 169390370000.0,
+      "cash": 68010000.0,
+      "sharesOutstanding": 1752598777.0,
+      "grossMargin": 0.07741445809120451,
+      "operatingMargin": 0.06241143369750581,
+      "netMargin": 0.02436699545873409,
+      "roe": 0.2691874087450095,
+      "roic": 0.2537468708454688
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 903730830000.0,
+      "operatingIncome": 67738150000.0,
+      "netIncome": 35970600000.0,
+      "eps": 20.52,
+      "freeCashFlow": 54947390000.0,
+      "totalDebt": 126870270000.0,
+      "cash": 97280000.0,
+      "sharesOutstanding": 1752598777.0,
+      "grossMargin": 0.09549116521785585,
+      "operatingMargin": 0.07495389971370126,
+      "netMargin": 0.03980233804793403,
+      "roe": 0.2708116444203794,
+      "roic": 0.2608368965137353
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 946836400000.0,
+      "operatingIncome": 9453100000.0,
+      "netIncome": 562100000.0,
+      "eps": 0.32,
+      "freeCashFlow": 8876100000.0,
+      "totalDebt": 131433900000.0,
+      "cash": 100990000.0,
+      "sharesOutstanding": 1752598777.0,
+      "grossMargin": 0.04345196276780234,
+      "operatingMargin": 0.009983878946774754,
+      "netMargin": 0.0005936611646954004,
+      "roe": 0.004333965296048536,
+      "roic": 0.036200691631540216
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 886674900000.0,
+      "operatingIncome": 47155800000.0,
+      "netIncome": 19245800000.0,
+      "eps": null,
+      "freeCashFlow": 11189200000.0,
+      "totalDebt": 153410200000.0,
+      "cash": 5644800000.0,
+      "sharesOutstanding": 1752598777.0,
+      "grossMargin": 0.10251310824294226,
+      "operatingMargin": 0.05318273924298522,
+      "netMargin": 0.021705587921796367,
+      "roe": 0.13556368410783504,
+      "roic": 0.1596451202167792
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:27.874376+00:00"
+  }
+}

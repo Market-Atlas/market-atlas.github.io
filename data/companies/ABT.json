@@ -1,0 +1,128 @@
+{
+  "ticker": "ABT",
+  "name": "Abbott Laboratories",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 149099200512.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 85.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44328000000.0,
+    "operatingIncome": 8053000000.0,
+    "netIncome": 6524000000.0,
+    "eps": 3.72,
+    "freeCashFlow": 7395000000.0,
+    "totalDebt": 13860000000.0,
+    "cash": 8522000000.0,
+    "sharesOutstanding": 1996795525.0
+  },
+  "ratios": {
+    "roe": 0.12514866679455208,
+    "roic": 0.1220336414608274,
+    "grossMargin": 0.5641806533116765,
+    "operatingMargin": 0.18166847139505504,
+    "netMargin": 0.14717560007218913,
+    "debtToEquity": 0.6477299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 43653000000.0,
+      "operatingIncome": 8362000000.0,
+      "netIncome": 6933000000.0,
+      "eps": 3.91,
+      "freeCashFlow": 7804000000.0,
+      "totalDebt": 17716000000.0,
+      "cash": 9882000000.0,
+      "sharesOutstanding": 1986519278.0,
+      "grossMargin": 0.5614963461846838,
+      "operatingMargin": 0.19155613588985865,
+      "netMargin": 0.15882069960827436,
+      "roe": 0.18898217303603554,
+      "roic": 0.1537075842799897
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 40109000000.0,
+      "operatingIncome": 6478000000.0,
+      "netIncome": 5723000000.0,
+      "eps": 3.26,
+      "freeCashFlow": 5059000000.0,
+      "totalDebt": 15628000000.0,
+      "cash": 6896000000.0,
+      "sharesOutstanding": 1987883852.0,
+      "grossMargin": 0.5518462190530804,
+      "operatingMargin": 0.16150988556184398,
+      "netMargin": 0.14268618015906653,
+      "roe": 0.14825272647203586,
+      "roic": 0.11945197396323136
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 41950000000.0,
+      "operatingIncome": 6825000000.0,
+      "netIncome": 13402000000.0,
+      "eps": 7.64,
+      "freeCashFlow": 6351000000.0,
+      "totalDebt": 15021000000.0,
+      "cash": 7616000000.0,
+      "sharesOutstanding": 1991472630.0,
+      "grossMargin": 0.554088200238379,
+      "operatingMargin": 0.1626936829558999,
+      "netMargin": 0.3194755661501788,
+      "roe": 0.2811765693185633,
+      "roic": 0.10887772194304858
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 44328000000.0,
+      "operatingIncome": 8053000000.0,
+      "netIncome": 6524000000.0,
+      "eps": 3.72,
+      "freeCashFlow": 7395000000.0,
+      "totalDebt": 13860000000.0,
+      "cash": 8522000000.0,
+      "sharesOutstanding": 1996795525.0,
+      "grossMargin": 0.5641806533116765,
+      "operatingMargin": 0.18166847139505504,
+      "netMargin": 0.14717560007218913,
+      "roe": 0.12514866679455208,
+      "roic": 0.1220336414608274
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:37.840550+00:00"
+  }
+}

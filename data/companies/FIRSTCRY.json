@@ -1,0 +1,111 @@
+{
+  "ticker": "FIRSTCRY",
+  "name": "BRAINBEES SOLUTIONS LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 109404798976.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.49,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 85479440000.0,
+    "operatingIncome": -1448320000.0,
+    "netIncome": -1402230000.0,
+    "eps": -2.9,
+    "freeCashFlow": 1760020000.0,
+    "totalDebt": 15939040000.0,
+    "cash": 2462830000.0,
+    "sharesOutstanding": 522050127.0
+  },
+  "ratios": {
+    "roe": -0.02905148977377118,
+    "roic": -0.02255735825723724,
+    "grossMargin": 0.3621326953007647,
+    "operatingMargin": -0.016943489568953658,
+    "netMargin": -0.016404295582657068,
+    "debtToEquity": 0.29762
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 52621900000.0,
+      "operatingIncome": -6114310000.0,
+      "netIncome": -4414060000.0,
+      "eps": -8.501916,
+      "freeCashFlow": -6373030000.0,
+      "totalDebt": 8991090000.0,
+      "cash": 2593510000.0,
+      "sharesOutstanding": 465241239.0,
+      "grossMargin": 0.3292287051588787,
+      "operatingMargin": -0.11619325794013519,
+      "netMargin": -0.08388256600388812,
+      "roe": -0.12771214640577944,
+      "roic": -0.14038567596844903
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 63255110000.0,
+      "operatingIncome": -3003820000.0,
+      "netIncome": -2742770000.0,
+      "eps": -6.2,
+      "freeCashFlow": -3850180000.0,
+      "totalDebt": 14225470000.0,
+      "cash": 3616960000.0,
+      "sharesOutstanding": 465241239.0,
+      "grossMargin": 0.3413613540471276,
+      "operatingMargin": -0.04748738876590366,
+      "netMargin": -0.04336044945617832,
+      "roe": -0.08650262904259452,
+      "roic": -0.0653959270526114
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 76596140000.0,
+      "operatingIncome": -1745930000.0,
+      "netIncome": -1914670000.0,
+      "eps": -4.11,
+      "freeCashFlow": -3069010000.0,
+      "totalDebt": 15699290000.0,
+      "cash": 2711720000.0,
+      "sharesOutstanding": 521038555.0,
+      "grossMargin": 0.37352286942919055,
+      "operatingMargin": -0.022793968468907178,
+      "netMargin": -0.0249969515435112,
+      "roe": -0.040381750292739056,
+      "roic": -0.027663323537758067
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 85479440000.0,
+      "operatingIncome": -1448320000.0,
+      "netIncome": -1402230000.0,
+      "eps": -2.9,
+      "freeCashFlow": 1760020000.0,
+      "totalDebt": 15939040000.0,
+      "cash": 2462830000.0,
+      "sharesOutstanding": 522050127.0,
+      "grossMargin": 0.3621326953007647,
+      "operatingMargin": -0.016943489568953658,
+      "netMargin": -0.016404295582657068,
+      "roe": -0.02905148977377118,
+      "roic": -0.02255735825723724
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:41.883225+00:00"
+  }
+}

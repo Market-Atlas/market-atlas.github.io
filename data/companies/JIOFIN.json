@@ -1,0 +1,128 @@
+{
+  "ticker": "JIOFIN",
+  "name": "Jio Financial Services Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1577820618752.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 238.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27678500000.0,
+    "operatingIncome": 22754200000.0,
+    "netIncome": 15609000000.0,
+    "eps": 2.41,
+    "freeCashFlow": -155441000000.0,
+    "totalDebt": 217683600000.0,
+    "cash": 7150400000.0,
+    "sharesOutstanding": 6353141623.0
+  },
+  "ratios": {
+    "roe": 0.011661248682235567,
+    "roic": 0.014621459247876023,
+    "grossMargin": 0.8600827356973825,
+    "operatingMargin": 0.822089347327348,
+    "netMargin": 0.5639395198439222,
+    "debtToEquity": 0.16286
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 211900000.0,
+      "operatingIncome": 438400000.0,
+      "netIncome": 312500000.0,
+      "eps": 0.049187,
+      "freeCashFlow": null,
+      "totalDebt": 7427700000.0,
+      "cash": 565700000.0,
+      "sharesOutstanding": 6353284188.0,
+      "grossMargin": 1.0,
+      "operatingMargin": 2.0689004247286458,
+      "netMargin": 1.4747522416234073,
+      "roe": 0.0002738337442738078,
+      "roic": 0.0003816717133986708
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 11706000000.0,
+      "operatingIncome": 9113500000.0,
+      "netIncome": 16045500000.0,
+      "eps": 2.53,
+      "freeCashFlow": -6783600000.0,
+      "totalDebt": 0.0,
+      "cash": 671800000.0,
+      "sharesOutstanding": 6353284188.0,
+      "grossMargin": 0.9106270288740816,
+      "operatingMargin": 0.7785323765590295,
+      "netMargin": 1.370707329574577,
+      "roe": 0.011531275481024977,
+      "roic": 0.006549517253829493
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 12486400000.0,
+      "operatingIncome": 15257300000.0,
+      "netIncome": 16125900000.0,
+      "eps": 2.54,
+      "freeCashFlow": -101251900000.0,
+      "totalDebt": 39700000000.0,
+      "cash": 3523200000.0,
+      "sharesOutstanding": 6353141623.0,
+      "grossMargin": 0.8278767298821117,
+      "operatingMargin": 1.2219134418247053,
+      "netMargin": 1.2914771271143004,
+      "roe": 0.01305778213741656,
+      "roic": 0.011969657589168351
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 27678500000.0,
+      "operatingIncome": 22754200000.0,
+      "netIncome": 15609000000.0,
+      "eps": 2.41,
+      "freeCashFlow": -155441000000.0,
+      "totalDebt": 217683600000.0,
+      "cash": 7150400000.0,
+      "sharesOutstanding": 6353141623.0,
+      "grossMargin": 0.8600827356973825,
+      "operatingMargin": 0.822089347327348,
+      "netMargin": 0.5639395198439222,
+      "roe": 0.011661248682235567,
+      "roic": 0.014621459247876023
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:08.235071+00:00"
+  }
+}

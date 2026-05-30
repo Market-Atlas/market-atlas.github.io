@@ -1,0 +1,128 @@
+{
+  "ticker": "NIVABUPA",
+  "name": "Niva Bupa Health Insurance Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 154287734784.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 83.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 66946900000.0,
+    "operatingIncome": null,
+    "netIncome": 1307800000.0,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": 2500000000.0,
+    "cash": 1586600000.0,
+    "sharesOutstanding": 1847456771.0
+  },
+  "ratios": {
+    "roe": 0.04088612660380662,
+    "roic": null,
+    "grossMargin": 0.10451,
+    "operatingMargin": 0.08472,
+    "netMargin": 0.01953488511043827,
+    "debtToEquity": 0.09882999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.075655,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 27985230000.0,
+      "operatingIncome": null,
+      "netIncome": 125400000.0,
+      "eps": 0.068636,
+      "freeCashFlow": null,
+      "totalDebt": 2500000000.0,
+      "cash": 1018600000.0,
+      "sharesOutstanding": 1827026398.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0044809351218482035,
+      "roe": 0.004391682000197521,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 44272400000.0,
+      "operatingIncome": null,
+      "netIncome": 818500000.0,
+      "eps": 0.447996,
+      "freeCashFlow": null,
+      "totalDebt": 2500000000.0,
+      "cash": 1428200000.0,
+      "sharesOutstanding": 1827026398.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.018487816337040684,
+      "roe": 0.020909172190928714,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 53742800000.0,
+      "operatingIncome": null,
+      "netIncome": 2135200000.0,
+      "eps": 1.2,
+      "freeCashFlow": null,
+      "totalDebt": 2500000000.0,
+      "cash": 2203500000.0,
+      "sharesOutstanding": 1827026398.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.03972997313128456,
+      "roe": 0.04751234426422845,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 66946900000.0,
+      "operatingIncome": null,
+      "netIncome": 1307800000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 2500000000.0,
+      "cash": 1586600000.0,
+      "sharesOutstanding": 1847456771.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.01953488511043827,
+      "roe": 0.04088612660380662,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:33.745257+00:00"
+  }
+}

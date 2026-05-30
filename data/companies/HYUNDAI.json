@@ -1,0 +1,128 @@
+{
+  "ticker": "HYUNDAI",
+  "name": "HYUNDAI MOTOR INDIA LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1563329167360.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1924.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 693911620000.0,
+    "operatingIncome": 64004900000.0,
+    "netIncome": 54315200000.0,
+    "eps": 66.85,
+    "freeCashFlow": 30547380000.0,
+    "totalDebt": 10975620000.0,
+    "cash": 87116730000.0,
+    "sharesOutstanding": 812541100.0
+  },
+  "ratios": {
+    "roe": 0.2713722265950498,
+    "roic": 0.303160011708659,
+    "grossMargin": 0.2725189844781674,
+    "operatingMargin": 0.09223782705930188,
+    "netMargin": 0.07827394503063662,
+    "debtToEquity": 0.05484
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 591027880000.0,
+      "operatingIncome": 53642390000.0,
+      "netIncome": 47092500000.0,
+      "eps": 57.957068,
+      "freeCashFlow": 43032740000.0,
+      "totalDebt": 11893470000.0,
+      "cash": 177411470000.0,
+      "sharesOutstanding": 812541100.0,
+      "grossMargin": 0.23695371189595996,
+      "operatingMargin": 0.09076118371945499,
+      "netMargin": 0.07967898231805917,
+      "roe": 0.23481888491832736,
+      "roic": 0.2525041111288676
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 685897860000.0,
+      "operatingIncome": 69246850000.0,
+      "netIncome": 60600440000.0,
+      "eps": 74.581384,
+      "freeCashFlow": 60057470000.0,
+      "totalDebt": 8332410000.0,
+      "cash": 9732150000.0,
+      "sharesOutstanding": 812541100.0,
+      "grossMargin": 0.2466503102954717,
+      "operatingMargin": 0.10095796187496488,
+      "netMargin": 0.08835198873488248,
+      "roe": 0.5681829070632967,
+      "roic": 0.6022042286139072
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 679423780000.0,
+      "operatingIncome": 68485000000.0,
+      "netIncome": 56402140000.0,
+      "eps": 69.41,
+      "freeCashFlow": -9619160000.0,
+      "totalDebt": 8502300000.0,
+      "cash": 48457170000.0,
+      "sharesOutstanding": 812541100.0,
+      "grossMargin": 0.26512815020987346,
+      "operatingMargin": 0.10079865029157502,
+      "netMargin": 0.08301466869469891,
+      "roe": 0.34610045798275885,
+      "roic": 0.39940641622190165
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 693911620000.0,
+      "operatingIncome": 64004900000.0,
+      "netIncome": 54315200000.0,
+      "eps": 66.85,
+      "freeCashFlow": 30547380000.0,
+      "totalDebt": 10975620000.0,
+      "cash": 87116730000.0,
+      "sharesOutstanding": 812541100.0,
+      "grossMargin": 0.2725189844781674,
+      "operatingMargin": 0.09223782705930188,
+      "netMargin": 0.07827394503063662,
+      "roe": 0.2713722265950498,
+      "roic": 0.303160011708659
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:56.195289+00:00"
+  }
+}

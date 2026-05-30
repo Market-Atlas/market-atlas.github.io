@@ -1,0 +1,128 @@
+{
+  "ticker": "NUVOCO",
+  "name": "Nuvoco Vistas Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 124522496000.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 348.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 113382900000.0,
+    "operatingIncome": 9728800000.0,
+    "netIncome": 3597700000.0,
+    "eps": null,
+    "freeCashFlow": 7754800000.0,
+    "totalDebt": 49161000000.0,
+    "cash": 881100000.0,
+    "sharesOutstanding": 357156153.0
+  },
+  "ratios": {
+    "roe": 0.03517236187733227,
+    "roic": 0.06423825361326971,
+    "grossMargin": 0.635210424146851,
+    "operatingMargin": 0.0858048259481809,
+    "netMargin": 0.03173053432219497,
+    "debtToEquity": 0.48061
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.93,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 102889800000.0,
+      "operatingIncome": 2667300000.0,
+      "netIncome": 158600000.0,
+      "eps": 0.44,
+      "freeCashFlow": 12250700000.0,
+      "totalDebt": 47851400000.0,
+      "cash": 1927400000.0,
+      "sharesOutstanding": 357156153.0,
+      "grossMargin": 0.7717703795711528,
+      "operatingMargin": 0.02592385251016136,
+      "netMargin": 0.0015414550324716347,
+      "roe": 0.0017943226545114317,
+      "roic": 0.019577763864555023
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 105386700000.0,
+      "operatingIncome": 7054300000.0,
+      "netIncome": 1473700000.0,
+      "eps": 4.13,
+      "freeCashFlow": 10111600000.0,
+      "totalDebt": 44037400000.0,
+      "cash": 978300000.0,
+      "sharesOutstanding": 357156153.0,
+      "grossMargin": 0.7685865483974733,
+      "operatingMargin": 0.06693728905070565,
+      "netMargin": 0.013983737985912834,
+      "roe": 0.016404482875309455,
+      "roic": 0.05269412859688988
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 103566700000.0,
+      "operatingIncome": 5034900000.0,
+      "netIncome": 218400000.0,
+      "eps": 0.61,
+      "freeCashFlow": 9784000000.0,
+      "totalDebt": 40737900000.0,
+      "cash": 1766600000.0,
+      "sharesOutstanding": 357156153.0,
+      "grossMargin": 0.6107088475349702,
+      "operatingMargin": 0.04861504711456482,
+      "netMargin": 0.00210878593215773,
+      "roe": 0.0024260412871348717,
+      "roic": 0.03850457054888648
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 113382900000.0,
+      "operatingIncome": 9728800000.0,
+      "netIncome": 3597700000.0,
+      "eps": null,
+      "freeCashFlow": 7754800000.0,
+      "totalDebt": 49161000000.0,
+      "cash": 881100000.0,
+      "sharesOutstanding": 357156153.0,
+      "grossMargin": 0.635210424146851,
+      "operatingMargin": 0.0858048259481809,
+      "netMargin": 0.03173053432219497,
+      "roe": 0.03517236187733227,
+      "roic": 0.06423825361326971
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:35.763905+00:00"
+  }
+}

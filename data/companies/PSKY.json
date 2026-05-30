@@ -1,0 +1,111 @@
+{
+  "ticker": "PSKY",
+  "name": "Paramount Skydance Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11874426880.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 10.61,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29213000000.0,
+    "operatingIncome": 1608000000.0,
+    "netIncome": -6190000000.0,
+    "eps": -9.34,
+    "freeCashFlow": 489000000.0,
+    "totalDebt": 15549000000.0,
+    "cash": 2661000000.0,
+    "sharesOutstanding": 1173724380.0
+  },
+  "ratios": {
+    "roe": -0.3792892156862745,
+    "roic": 0.05045655652828768,
+    "grossMargin": 0.2963749015849108,
+    "operatingMargin": 0.05504398726594324,
+    "netMargin": -0.21189196590558998,
+    "debtToEquity": 1.30167
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": 28586000000.0,
+      "operatingIncome": 4054000000.0,
+      "netIncome": 4543000000.0,
+      "eps": 6.94,
+      "freeCashFlow": 599000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.3792765689498356,
+      "operatingMargin": 0.14181767298677675,
+      "netMargin": 0.15892394878611907,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 30154000000.0,
+      "operatingIncome": 2898000000.0,
+      "netIncome": 1104000000.0,
+      "eps": 1.61,
+      "freeCashFlow": -139000000.0,
+      "totalDebt": 17274000000.0,
+      "cash": 2885000000.0,
+      "sharesOutstanding": 1152704664.0,
+      "grossMargin": 0.3418783577634808,
+      "operatingMargin": 0.09610665251707899,
+      "netMargin": 0.03661205810174438,
+      "roe": 0.04792498697690571,
+      "roic": 0.0718928305631357
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 29652000000.0,
+      "operatingIncome": -399000000.0,
+      "netIncome": -608000000.0,
+      "eps": -1.02,
+      "freeCashFlow": 147000000.0,
+      "totalDebt": 15858000000.0,
+      "cash": 2460000000.0,
+      "sharesOutstanding": 1155702875.0,
+      "grossMargin": 0.24497504384189936,
+      "operatingMargin": -0.013456090651558074,
+      "netMargin": -0.020504519088088494,
+      "roe": -0.026991032584568943,
+      "roic": -0.010394956231763234
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 29213000000.0,
+      "operatingIncome": 1608000000.0,
+      "netIncome": -6190000000.0,
+      "eps": -9.34,
+      "freeCashFlow": 489000000.0,
+      "totalDebt": 15549000000.0,
+      "cash": 2661000000.0,
+      "sharesOutstanding": 1173724380.0,
+      "grossMargin": 0.2963749015849108,
+      "operatingMargin": 0.05504398726594324,
+      "netMargin": -0.21189196590558998,
+      "roe": -0.3792892156862745,
+      "roic": 0.05045655652828768
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:12.197265+00:00"
+  }
+}

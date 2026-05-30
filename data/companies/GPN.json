@@ -1,0 +1,111 @@
+{
+  "ticker": "GPN",
+  "name": "Global Payments Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20655271936.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.51,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7705878000.0,
+    "operatingIncome": 1471866000.0,
+    "netIncome": 1400107000.0,
+    "eps": 5.78,
+    "freeCashFlow": 2038823000.0,
+    "totalDebt": 21865376000.0,
+    "cash": 8336402000.0,
+    "sharesOutstanding": 236692592.0
+  },
+  "ratios": {
+    "roe": 0.061170049046329146,
+    "roic": 0.03288781554816054,
+    "grossMargin": 0.7257442954586096,
+    "operatingMargin": 0.19100561934668575,
+    "netMargin": 0.181693377445114,
+    "debtToEquity": 0.9559300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8975515000.0,
+      "operatingIncome": 1672320000.0,
+      "netIncome": 111493000.0,
+      "eps": 0.4,
+      "freeCashFlow": 1628388000.0,
+      "totalDebt": 14285897000.0,
+      "cash": 1997566000.0,
+      "sharesOutstanding": 263081872.0,
+      "grossMargin": 0.5790083354548458,
+      "operatingMargin": 0.1863202278643621,
+      "netMargin": 0.012421905595389233,
+      "roe": 0.004998900172914518,
+      "roic": 0.045705036510161154
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7379784000.0,
+      "operatingIncome": 1452358000.0,
+      "netIncome": 986233000.0,
+      "eps": 3.77,
+      "freeCashFlow": 1891663000.0,
+      "totalDebt": 17375822000.0,
+      "cash": 2088887000.0,
+      "sharesOutstanding": 260382746.0,
+      "grossMargin": 0.7197350220548461,
+      "operatingMargin": 0.19680223703024372,
+      "netMargin": 0.13363981926842303,
+      "roe": 0.04288116852709289,
+      "roic": 0.035971686660211194
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7735970000.0,
+      "operatingIncome": 1701366000.0,
+      "netIncome": 1570365000.0,
+      "eps": 6.16,
+      "freeCashFlow": 2382666000.0,
+      "totalDebt": 16661007000.0,
+      "cash": 2356470000.0,
+      "sharesOutstanding": 248708899.0,
+      "grossMargin": 0.7371407851891877,
+      "operatingMargin": 0.21992923964286315,
+      "netMargin": 0.202995228781911,
+      "roe": 0.07048099865506834,
+      "roic": 0.04369008815307542
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7705878000.0,
+      "operatingIncome": 1471866000.0,
+      "netIncome": 1400107000.0,
+      "eps": 5.78,
+      "freeCashFlow": 2038823000.0,
+      "totalDebt": 21865376000.0,
+      "cash": 8336402000.0,
+      "sharesOutstanding": 236692592.0,
+      "grossMargin": 0.7257442954586096,
+      "operatingMargin": 0.19100561934668575,
+      "netMargin": 0.181693377445114,
+      "roe": 0.061170049046329146,
+      "roic": 0.03288781554816054
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:32.392057+00:00"
+  }
+}

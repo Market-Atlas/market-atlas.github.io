@@ -1,0 +1,128 @@
+{
+  "ticker": "AUROPHARMA",
+  "name": "Aurobindo Pharma Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 820719058944.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1426.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 333847400000.0,
+    "operatingIncome": 50776100000.0,
+    "netIncome": 35047500000.0,
+    "eps": null,
+    "freeCashFlow": 24217000000.0,
+    "totalDebt": 80728400000.0,
+    "cash": 71914000000.0,
+    "sharesOutstanding": 580801623.0
+  },
+  "ratios": {
+    "roe": 0.09249565265813992,
+    "roic": 0.11046973695174529,
+    "grossMargin": 0.5959722915319994,
+    "operatingMargin": 0.15209374103257955,
+    "netMargin": 0.10498059892034504,
+    "debtToEquity": 0.21309999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 45.19,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 246171300000.0,
+      "operatingIncome": 25376000000.0,
+      "netIncome": 19275000000.0,
+      "eps": 32.9,
+      "freeCashFlow": -3336500000.0,
+      "totalDebt": 52862100000.0,
+      "cash": 43962900000.0,
+      "sharesOutstanding": 585938609.0,
+      "grossMargin": 0.5166089629457211,
+      "operatingMargin": 0.10308269079295596,
+      "netMargin": 0.07829913560191623,
+      "roe": 0.07181485738556662,
+      "roic": 0.07898883336456447
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 287045000000.0,
+      "operatingIncome": 44415300000.0,
+      "netIncome": 31729700000.0,
+      "eps": 54.16,
+      "freeCashFlow": -11269800000.0,
+      "totalDebt": 66476300000.0,
+      "cash": 33934800000.0,
+      "sharesOutstanding": 585938609.0,
+      "grossMargin": 0.5388803149331987,
+      "operatingMargin": 0.1547328816039297,
+      "netMargin": 0.11053911407619015,
+      "roe": 0.1063227981288619,
+      "roic": 0.12171766679647239
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 313781300000.0,
+      "operatingIncome": 49560200000.0,
+      "netIncome": 34858800000.0,
+      "eps": 59.81,
+      "freeCashFlow": 14050700000.0,
+      "totalDebt": 82628700000.0,
+      "cash": 55689500000.0,
+      "sharesOutstanding": 580801623.0,
+      "grossMargin": 0.5848624503754685,
+      "operatingMargin": 0.15794504006452903,
+      "netMargin": 0.11109266230970424,
+      "roe": 0.10675422897273538,
+      "roic": 0.12112613613339854
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 333847400000.0,
+      "operatingIncome": 50776100000.0,
+      "netIncome": 35047500000.0,
+      "eps": null,
+      "freeCashFlow": 24217000000.0,
+      "totalDebt": 80728400000.0,
+      "cash": 71914000000.0,
+      "sharesOutstanding": 580801623.0,
+      "grossMargin": 0.5959722915319994,
+      "operatingMargin": 0.15209374103257955,
+      "netMargin": 0.10498059892034504,
+      "roe": 0.09249565265813992,
+      "roic": 0.11046973695174529
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:57.043441+00:00"
+  }
+}

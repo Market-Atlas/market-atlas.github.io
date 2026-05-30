@@ -1,0 +1,111 @@
+{
+  "ticker": "ORLY",
+  "name": "O'Reilly Automotive, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 71998767104.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 86.88,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17781992000.0,
+    "operatingIncome": 3460612000.0,
+    "netIncome": 2538209000.0,
+    "eps": 2.97,
+    "freeCashFlow": 1593178000.0,
+    "totalDebt": 8491499000.0,
+    "cash": 193793000.0,
+    "sharesOutstanding": 841909238.0
+  },
+  "ratios": {
+    "roe": -3.325083316739853,
+    "roic": 0.4477932420281343,
+    "grossMargin": 0.5159231316716373,
+    "operatingMargin": 0.19461329191915056,
+    "netMargin": 0.14274041963352588,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14409860000.0,
+      "operatingIncome": 2954491000.0,
+      "netIncome": 2172650000.0,
+      "eps": 2.229333,
+      "freeCashFlow": 2584908000.0,
+      "totalDebt": 6545030000.0,
+      "cash": 108583000.0,
+      "sharesOutstanding": 935298315.0,
+      "grossMargin": 0.51226771113668,
+      "operatingMargin": 0.2050325957365304,
+      "netMargin": 0.15077523306957874,
+      "roe": -2.048216736805587,
+      "roic": 0.5387201378194176
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15812250000.0,
+      "operatingIncome": 3186376000.0,
+      "netIncome": 2346581000.0,
+      "eps": 2.564667,
+      "freeCashFlow": 2027820000.0,
+      "totalDebt": 7841005000.0,
+      "cash": 279132000.0,
+      "sharesOutstanding": 886091880.0,
+      "grossMargin": 0.5125648152539961,
+      "operatingMargin": 0.2015131306423817,
+      "netMargin": 0.14840272573479424,
+      "roe": -1.3491695979596132,
+      "roic": 0.5222088762738811
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16708479000.0,
+      "operatingIncome": 3251157000.0,
+      "netIncome": 2386680000.0,
+      "eps": 2.710667,
+      "freeCashFlow": 2026189000.0,
+      "totalDebt": 7920850000.0,
+      "cash": 130245000.0,
+      "sharesOutstanding": 862232760.0,
+      "grossMargin": 0.5119849029944616,
+      "operatingMargin": 0.19458126619424784,
+      "netMargin": 0.1428424454434183,
+      "roe": -1.7408810316267203,
+      "roic": 0.49636825906515364
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17781992000.0,
+      "operatingIncome": 3460612000.0,
+      "netIncome": 2538209000.0,
+      "eps": 2.97,
+      "freeCashFlow": 1593178000.0,
+      "totalDebt": 8491499000.0,
+      "cash": 193793000.0,
+      "sharesOutstanding": 841909238.0,
+      "grossMargin": 0.5159231316716373,
+      "operatingMargin": 0.19461329191915056,
+      "netMargin": 0.14274041963352588,
+      "roe": -3.325083316739853,
+      "roic": 0.4477932420281343
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:05.261426+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "IREDA",
+  "name": "Indian Renewable Energy Development Agency Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 374330064896.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 133.25,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 66186200000.0,
+    "operatingIncome": 41569700000.0,
+    "netIncome": 16983400000.0,
+    "eps": 6.32,
+    "freeCashFlow": -144872600000.0,
+    "totalDebt": 647403100000.0,
+    "cash": 572900000.0,
+    "sharesOutstanding": 2687764706.0
+  },
+  "ratios": {
+    "roe": 0.16542476822765995,
+    "roic": 0.05542120486328915,
+    "grossMargin": 0.6512369648053522,
+    "operatingMargin": 0.6280720150121929,
+    "netMargin": 0.25660031849539633,
+    "debtToEquity": 5.54116
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 27796810000.0,
+      "operatingIncome": 18592290000.0,
+      "netIncome": 6335280000.0,
+      "eps": 2.357081,
+      "freeCashFlow": -52622480000.0,
+      "totalDebt": 276176660000.0,
+      "cash": 1311750000.0,
+      "sharesOutstanding": 2687764706.0,
+      "grossMargin": 0.729020704174328,
+      "operatingMargin": 0.6688641610314278,
+      "netMargin": 0.22791392249686204,
+      "roe": 0.12025707871925323,
+      "roic": 0.05653595566229538
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33428679000.0,
+      "operatingIncome": 19956841000.0,
+      "netIncome": 8646283000.0,
+      "eps": 3.216905,
+      "freeCashFlow": -123604661000.0,
+      "totalDebt": 401652799000.0,
+      "cash": 1384500000.0,
+      "sharesOutstanding": 2687764706.0,
+      "grossMargin": 0.6283616830925326,
+      "operatingMargin": 0.5969975959863685,
+      "netMargin": 0.2586486591348704,
+      "roe": 0.14567879056661803,
+      "roic": 0.0432899056365596
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 48381000000.0,
+      "operatingIncome": 26106700000.0,
+      "netIncome": 12522400000.0,
+      "eps": 5.16,
+      "freeCashFlow": -111229500000.0,
+      "totalDebt": 496868800000.0,
+      "cash": 742100000.0,
+      "sharesOutstanding": 2687764706.0,
+      "grossMargin": 0.5687645976726401,
+      "operatingMargin": 0.5396064570802588,
+      "netMargin": 0.25882887910543395,
+      "roe": 0.14629963245173155,
+      "roic": 0.04482121611158134
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 66186200000.0,
+      "operatingIncome": 41569700000.0,
+      "netIncome": 16983400000.0,
+      "eps": 6.32,
+      "freeCashFlow": -144872600000.0,
+      "totalDebt": 647403100000.0,
+      "cash": 572900000.0,
+      "sharesOutstanding": 2687764706.0,
+      "grossMargin": 0.6512369648053522,
+      "operatingMargin": 0.6280720150121929,
+      "netMargin": 0.25660031849539633,
+      "roe": 0.16542476822765995,
+      "roic": 0.05542120486328915
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:04.875893+00:00"
+  }
+}

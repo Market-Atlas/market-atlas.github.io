@@ -1,0 +1,128 @@
+{
+  "ticker": "JAINREC",
+  "name": "JAIN RESOURCE RECYCLING L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "INR",
+  "marketCap": {
+    "value": 128906805248.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 373.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 95431130000.0,
+    "operatingIncome": 5443860000.0,
+    "netIncome": 3522150000.0,
+    "eps": null,
+    "freeCashFlow": -7047320000.0,
+    "totalDebt": 12758860000.0,
+    "cash": 696760000.0,
+    "sharesOutstanding": 345085814.0
+  },
+  "ratios": {
+    "roe": 0.2255982229612317,
+    "roic": 0.19187877912048598,
+    "grossMargin": 0.08429398247720633,
+    "operatingMargin": 0.05704490767320894,
+    "netMargin": 0.03690776793694049,
+    "debtToEquity": 0.81887
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 30602410000.0,
+      "operatingIncome": 1137750000.0,
+      "netIncome": 918190000.0,
+      "eps": null,
+      "freeCashFlow": -111880000.0,
+      "totalDebt": 7385730000.0,
+      "cash": 55180000.0,
+      "sharesOutstanding": 345085814.0,
+      "grossMargin": 0.08456360136342203,
+      "operatingMargin": 0.03717844444277428,
+      "netMargin": 0.030003846102316777,
+      "roe": 0.4611980631680463,
+      "roic": 0.12133916202124222
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 44139670000.0,
+      "operatingIncome": 2153810000.0,
+      "netIncome": 1638270000.0,
+      "eps": null,
+      "freeCashFlow": 42250000.0,
+      "totalDebt": 9143630000.0,
+      "cash": 814050000.0,
+      "sharesOutstanding": 345085814.0,
+      "grossMargin": 0.08807881889465871,
+      "operatingMargin": 0.04879533535252982,
+      "netMargin": 0.037115592391152905,
+      "roe": 0.4437831834434933,
+      "roic": 0.1678045504443629
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 64293800000.0,
+      "operatingIncome": 3507830000.0,
+      "netIncome": 2218000000.0,
+      "eps": 6.427387,
+      "freeCashFlow": -351450000.0,
+      "totalDebt": 9283070000.0,
+      "cash": 235880000.0,
+      "sharesOutstanding": 345085814.0,
+      "grossMargin": 0.08877434527123922,
+      "operatingMargin": 0.05455938208660866,
+      "netMargin": 0.03449788315514093,
+      "roe": 0.30548229153037265,
+      "roic": 0.21203393190890563
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 95431130000.0,
+      "operatingIncome": 5443860000.0,
+      "netIncome": 3522150000.0,
+      "eps": null,
+      "freeCashFlow": -7047320000.0,
+      "totalDebt": 12758860000.0,
+      "cash": 696760000.0,
+      "sharesOutstanding": 345085814.0,
+      "grossMargin": 0.08429398247720633,
+      "operatingMargin": 0.05704490767320894,
+      "netMargin": 0.03690776793694049,
+      "roe": 0.2255982229612317,
+      "roic": 0.19187877912048598
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:06.549882+00:00"
+  }
+}

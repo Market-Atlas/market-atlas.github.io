@@ -1,0 +1,128 @@
+{
+  "ticker": "DIS",
+  "name": "The Walt Disney Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 176828973056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 101.83,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 94425000000.0,
+    "operatingIncome": 13832000000.0,
+    "netIncome": 12404000000.0,
+    "eps": 6.85,
+    "freeCashFlow": 10077000000.0,
+    "totalDebt": 44877000000.0,
+    "cash": 5695000000.0,
+    "sharesOutstanding": 1870000000.0
+  },
+  "ratios": {
+    "roe": 0.11289808772265152,
+    "roic": 0.0893851860468122,
+    "grossMargin": 0.3776436325125761,
+    "operatingMargin": 0.1464866296002118,
+    "netMargin": 0.1313635160180037,
+    "debtToEquity": 0.41069
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 82722000000.0,
+      "operatingIncome": 6770000000.0,
+      "netIncome": 3145000000.0,
+      "eps": 1.72,
+      "freeCashFlow": 1067000000.0,
+      "totalDebt": 51608000000.0,
+      "cash": 11615000000.0,
+      "sharesOutstanding": 1800000000.0,
+      "grossMargin": 0.3423635792171369,
+      "operatingMargin": 0.08184038103527477,
+      "netMargin": 0.03801890669954788,
+      "roe": 0.0331024755810037,
+      "roic": 0.04617504228733563
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 88898000000.0,
+      "operatingIncome": 8992000000.0,
+      "netIncome": 2354000000.0,
+      "eps": 1.29,
+      "freeCashFlow": 4897000000.0,
+      "totalDebt": 49895000000.0,
+      "cash": 14182000000.0,
+      "sharesOutstanding": 1849000000.0,
+      "grossMargin": 0.33405700915656145,
+      "operatingMargin": 0.10114963216270333,
+      "netMargin": 0.02647978582195325,
+      "roe": 0.02371143366540085,
+      "roic": 0.060279409004370794
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 91361000000.0,
+      "operatingIncome": 11914000000.0,
+      "netIncome": 4972000000.0,
+      "eps": 2.72,
+      "freeCashFlow": 8559000000.0,
+      "totalDebt": 48743000000.0,
+      "cash": 6002000000.0,
+      "sharesOutstanding": 1855587380.0,
+      "grossMargin": 0.3575157890128173,
+      "operatingMargin": 0.1304057530018279,
+      "netMargin": 0.054421470868313615,
+      "roe": 0.04937634066894415,
+      "roic": 0.07972483755913784
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 94425000000.0,
+      "operatingIncome": 13832000000.0,
+      "netIncome": 12404000000.0,
+      "eps": 6.85,
+      "freeCashFlow": 10077000000.0,
+      "totalDebt": 44877000000.0,
+      "cash": 5695000000.0,
+      "sharesOutstanding": 1870000000.0,
+      "grossMargin": 0.3776436325125761,
+      "operatingMargin": 0.1464866296002118,
+      "netMargin": 0.1313635160180037,
+      "roe": 0.11289808772265152,
+      "roic": 0.0893851860468122
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.138205+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon.com, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 2911304417280.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 270.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 716924000000.0,
+    "operatingIncome": 79975000000.0,
+    "netIncome": 77670000000.0,
+    "eps": 7.17,
+    "freeCashFlow": 7695000000.0,
+    "totalDebt": 152987000000.0,
+    "cash": 86810000000.0,
+    "sharesOutstanding": 11246000000.0
+  },
+  "ratios": {
+    "roe": 0.1889482198679041,
+    "roic": 0.1417865728691681,
+    "grossMargin": 0.5028566486824266,
+    "operatingMargin": 0.11155296795755199,
+    "netMargin": 0.10833784334183261,
+    "debtToEquity": 0.5329999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 513983000000.0,
+      "operatingIncome": 12248000000.0,
+      "netIncome": -2722000000.0,
+      "eps": -0.27,
+      "freeCashFlow": -16893000000.0,
+      "totalDebt": 140118000000.0,
+      "cash": 53888000000.0,
+      "sharesOutstanding": 10757000000.0,
+      "grossMargin": 0.43805339865326287,
+      "operatingMargin": 0.023829581912242232,
+      "netMargin": -0.005295895000418302,
+      "roe": -0.018638346240490815,
+      "roic": 0.04280108051062164
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 574785000000.0,
+      "operatingIncome": 36852000000.0,
+      "netIncome": 30425000000.0,
+      "eps": 2.9,
+      "freeCashFlow": 32217000000.0,
+      "totalDebt": 135611000000.0,
+      "cash": 73387000000.0,
+      "sharesOutstanding": 10898000000.0,
+      "grossMargin": 0.46982088955000567,
+      "operatingMargin": 0.0641144079960333,
+      "netMargin": 0.05293283575597832,
+      "roe": 0.15071207430340558,
+      "roic": 0.109195640708059
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 637959000000.0,
+      "operatingIncome": 68593000000.0,
+      "netIncome": 59248000000.0,
+      "eps": 5.53,
+      "freeCashFlow": 32878000000.0,
+      "totalDebt": 130900000000.0,
+      "cash": 78779000000.0,
+      "sharesOutstanding": 11108000000.0,
+      "grossMargin": 0.48854393464156787,
+      "operatingMargin": 0.1075194487420038,
+      "netMargin": 0.09287117197186653,
+      "roe": 0.2071825715984194,
+      "roic": 0.1645429030633051
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 716924000000.0,
+      "operatingIncome": 79975000000.0,
+      "netIncome": 77670000000.0,
+      "eps": 7.17,
+      "freeCashFlow": 7695000000.0,
+      "totalDebt": 152987000000.0,
+      "cash": 86810000000.0,
+      "sharesOutstanding": 11246000000.0,
+      "grossMargin": 0.5028566486824266,
+      "operatingMargin": 0.11155296795755199,
+      "netMargin": 0.10833784334183261,
+      "roe": 0.1889482198679041,
+      "roic": 0.1417865728691681
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.045240+00:00"
+  }
+}

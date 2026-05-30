@@ -1,0 +1,128 @@
+{
+  "ticker": "BANDHANBNK",
+  "name": "Bandhan Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 335575056384.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 208.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 135637116000.0,
+    "operatingIncome": null,
+    "netIncome": 12235627000.0,
+    "eps": 7.59,
+    "freeCashFlow": 6139053000.0,
+    "totalDebt": 143028132000.0,
+    "cash": 139511263000.0,
+    "sharesOutstanding": 1610978587.0
+  },
+  "ratios": {
+    "roe": 0.04784233167329015,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.26448,
+    "netMargin": 0.09020854586734209,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 117219870000.0,
+      "operatingIncome": null,
+      "netIncome": 21946380000.0,
+      "eps": 13.62,
+      "freeCashFlow": -46567017000.0,
+      "totalDebt": 247108226000.0,
+      "cash": 150470839000.0,
+      "sharesOutstanding": 1610836480.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18722406022118945,
+      "roe": 0.11206193374974996,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 124859352000.0,
+      "operatingIncome": null,
+      "netIncome": 22295627000.0,
+      "eps": 13.84,
+      "freeCashFlow": 142509986000.0,
+      "totalDebt": 163715240000.0,
+      "cash": 224151361000.0,
+      "sharesOutstanding": 1610969748.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17856593553360744,
+      "roe": 0.10317445854484004,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 144571836000.0,
+      "operatingIncome": null,
+      "netIncome": 27452955000.0,
+      "eps": 17.04,
+      "freeCashFlow": 24642549000.0,
+      "totalDebt": 111384927000.0,
+      "cash": 140692712000.0,
+      "sharesOutstanding": 1610971405.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18989144607667569,
+      "roe": 0.11157466897519952,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 135637116000.0,
+      "operatingIncome": null,
+      "netIncome": 12235627000.0,
+      "eps": 7.59,
+      "freeCashFlow": 6139053000.0,
+      "totalDebt": 143028132000.0,
+      "cash": 139511263000.0,
+      "sharesOutstanding": 1610978587.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09020854586734209,
+      "roe": 0.04784233167329015,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:59.020822+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ADSK",
+  "name": "Autodesk, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 48840007680.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 231.31,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7206000000.0,
+    "operatingIncome": 1794000000.0,
+    "netIncome": 1124000000.0,
+    "eps": 5.23,
+    "freeCashFlow": 2376000000.0,
+    "totalDebt": 2734000000.0,
+    "cash": 2249000000.0,
+    "sharesOutstanding": 212000000.0
+  },
+  "ratios": {
+    "roe": 0.3691297208538588,
+    "roic": 0.3104343311991694,
+    "grossMargin": 0.9097973910630031,
+    "operatingMargin": 0.24895920066611157,
+    "netMargin": 0.1559811268387455,
+    "debtToEquity": 0.85419
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 5005000000.0,
+      "operatingIncome": 989000000.0,
+      "netIncome": 823000000.0,
+      "eps": 3.78,
+      "freeCashFlow": 2025000000.0,
+      "totalDebt": 2666000000.0,
+      "cash": 1947000000.0,
+      "sharesOutstanding": 215000000.0,
+      "grossMargin": 0.9040959040959041,
+      "operatingMargin": 0.1976023976023976,
+      "netMargin": 0.16443556443556442,
+      "roe": 0.7187772925764192,
+      "roic": 0.2595119391235896
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 5497000000.0,
+      "operatingIncome": 1128000000.0,
+      "netIncome": 906000000.0,
+      "eps": 4.19,
+      "freeCashFlow": 1252000000.0,
+      "totalDebt": 2626000000.0,
+      "cash": 1892000000.0,
+      "sharesOutstanding": 213915325.0,
+      "grossMargin": 0.9070402037474986,
+      "operatingMargin": 0.20520283791158814,
+      "netMargin": 0.16481717300345644,
+      "roe": 0.4884097035040431,
+      "roic": 0.2517295246596742
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 6131000000.0,
+      "operatingIncome": 1369000000.0,
+      "netIncome": 1112000000.0,
+      "eps": 5.12,
+      "freeCashFlow": 1505000000.0,
+      "totalDebt": 2559000000.0,
+      "cash": 1599000000.0,
+      "sharesOutstanding": 214000000.0,
+      "grossMargin": 0.9057250040776382,
+      "operatingMargin": 0.2232914695808188,
+      "netMargin": 0.18137334855651607,
+      "roe": 0.42426554750095385,
+      "roic": 0.2642857142857143
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 7206000000.0,
+      "operatingIncome": 1794000000.0,
+      "netIncome": 1124000000.0,
+      "eps": 5.23,
+      "freeCashFlow": 2376000000.0,
+      "totalDebt": 2734000000.0,
+      "cash": 2249000000.0,
+      "sharesOutstanding": 212000000.0,
+      "grossMargin": 0.9097973910630031,
+      "operatingMargin": 0.24895920066611157,
+      "netMargin": 0.1559811268387455,
+      "roe": 0.3691297208538588,
+      "roic": 0.3104343311991694
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:39.662194+00:00"
+  }
+}

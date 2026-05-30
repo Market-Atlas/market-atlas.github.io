@@ -1,0 +1,128 @@
+{
+  "ticker": "ETR",
+  "name": "Entergy Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 49932562432.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 109.05,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12946686000.0,
+    "operatingIncome": 3215073000.0,
+    "netIncome": 1773328000.0,
+    "eps": 3.91,
+    "freeCashFlow": -2790700000.0,
+    "totalDebt": 30934935000.0,
+    "cash": 1928916000.0,
+    "sharesOutstanding": 583203774.0
+  },
+  "ratios": {
+    "roe": 0.10457129688533062,
+    "roic": 0.06713031678045885,
+    "grossMargin": 0.47716913810993794,
+    "operatingMargin": 0.2483317352409721,
+    "netMargin": 0.13697157712792293,
+    "debtToEquity": 1.92883
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13764237000.0,
+      "operatingIncome": 1887311000.0,
+      "netIncome": 1097138000.0,
+      "eps": 2.685,
+      "freeCashFlow": -2809442000.0,
+      "totalDebt": 26760170000.0,
+      "cash": 224164000.0,
+      "sharesOutstanding": 559307858.0,
+      "grossMargin": 0.38326505130651267,
+      "operatingMargin": 0.13711700837467417,
+      "netMargin": 0.07970932206412895,
+      "roe": 0.0843823462340558,
+      "roic": 0.04746500786992053
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12147412000.0,
+      "operatingIncome": 2660654000.0,
+      "netIncome": 2362310000.0,
+      "eps": 5.55,
+      "freeCashFlow": -452391000.0,
+      "totalDebt": 26246067000.0,
+      "cash": 132548000.0,
+      "sharesOutstanding": 561950696.0,
+      "grossMargin": 0.43873015914830255,
+      "operatingMargin": 0.21903052271545578,
+      "netMargin": 0.19447022954354393,
+      "roe": 0.16116570415428888,
+      "roic": 0.06504675834570915
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11879653000.0,
+      "operatingIncome": 2758224000.0,
+      "netIncome": 1061184000.0,
+      "eps": 2.45,
+      "freeCashFlow": -1481200000.0,
+      "totalDebt": 28918886000.0,
+      "cash": 859703000.0,
+      "sharesOutstanding": 561950696.0,
+      "grossMargin": 0.48303490009346234,
+      "operatingMargin": 0.23218051907745116,
+      "netMargin": 0.08932786168080835,
+      "roe": 0.07018919620385282,
+      "roic": 0.06263311009629592
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12946686000.0,
+      "operatingIncome": 3215073000.0,
+      "netIncome": 1773328000.0,
+      "eps": 3.91,
+      "freeCashFlow": -2790700000.0,
+      "totalDebt": 30934935000.0,
+      "cash": 1928916000.0,
+      "sharesOutstanding": 583203774.0,
+      "grossMargin": 0.47716913810993794,
+      "operatingMargin": 0.2483317352409721,
+      "netMargin": 0.13697157712792293,
+      "roe": 0.10457129688533062,
+      "roic": 0.06713031678045885
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:20.838978+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "COR",
+  "name": "Cencora, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 52406964224.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 269.36,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 321332819000.0,
+    "operatingIncome": 3933622000.0,
+    "netIncome": 1554169000.0,
+    "eps": 7.96,
+    "freeCashFlow": 3207139000.0,
+    "totalDebt": 7660773000.0,
+    "cash": 4356138000.0,
+    "sharesOutstanding": 297401863.0
+  },
+  "ratios": {
+    "roe": 1.0306030626935072,
+    "roic": 0.4290229290837877,
+    "grossMargin": 0.03572165157521616,
+    "operatingMargin": 0.012241581834814079,
+    "netMargin": 0.004836633260295768,
+    "debtToEquity": 4.20985
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 238587006000.0,
+      "operatingIncome": 2753510000.0,
+      "netIncome": 1698820000.0,
+      "eps": 8.04,
+      "freeCashFlow": 2206770000.0,
+      "totalDebt": 5702833000.0,
+      "cash": 3388189000.0,
+      "sharesOutstanding": 292700490.0,
+      "grossMargin": 0.0347729205336522,
+      "operatingMargin": 0.011540905123726646,
+      "netMargin": 0.007120337475545504,
+      "roe": -8.03000581398097,
+      "roic": 0.5014337292220348
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 262173411000.0,
+      "operatingIncome": 2685605000.0,
+      "netIncome": 1745293000.0,
+      "eps": 8.53,
+      "freeCashFlow": 3452975000.0,
+      "totalDebt": 4787457000.0,
+      "cash": 2592051000.0,
+      "sharesOutstanding": 294822962.0,
+      "grossMargin": 0.034173919337686,
+      "operatingMargin": 0.010243620776631693,
+      "netMargin": 0.006657017556978728,
+      "roe": 3.343453964823957,
+      "roic": 0.5058150923069389
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 293958599000.0,
+      "operatingIncome": 3156949000.0,
+      "netIncome": 1509120000.0,
+      "eps": 7.53,
+      "freeCashFlow": 2997512000.0,
+      "totalDebt": 4388076000.0,
+      "cash": 3132648000.0,
+      "sharesOutstanding": 296169781.0,
+      "grossMargin": 0.033712328993648524,
+      "operatingMargin": 0.01073943409289415,
+      "netMargin": 0.005133784162578622,
+      "roe": 2.336323300378674,
+      "roic": 0.6271236035497716
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 321332819000.0,
+      "operatingIncome": 3933622000.0,
+      "netIncome": 1554169000.0,
+      "eps": 7.96,
+      "freeCashFlow": 3207139000.0,
+      "totalDebt": 7660773000.0,
+      "cash": 4356138000.0,
+      "sharesOutstanding": 297401863.0,
+      "grossMargin": 0.03572165157521616,
+      "operatingMargin": 0.012241581834814079,
+      "netMargin": 0.004836633260295768,
+      "roe": 1.0306030626935072,
+      "roic": 0.4290229290837877
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:04.384548+00:00"
+  }
+}

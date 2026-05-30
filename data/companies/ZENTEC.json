@@ -1,0 +1,128 @@
+{
+  "ticker": "ZENTEC",
+  "name": "Zen Technologies Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "INR",
+  "marketCap": {
+    "value": 149714370560.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1664.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6876900000.0,
+    "operatingIncome": 2228542000.0,
+    "netIncome": 1934519000.0,
+    "eps": 21.52,
+    "freeCashFlow": 1827846000.0,
+    "totalDebt": 185174000.0,
+    "cash": 789372000.0,
+    "sharesOutstanding": 90290356.0
+  },
+  "ratios": {
+    "roe": 0.10240634821013778,
+    "roic": 0.11682567275064362,
+    "grossMargin": 0.6934749669182335,
+    "operatingMargin": 0.3240620046823423,
+    "netMargin": 0.2813068388372668,
+    "debtToEquity": 0.0095
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2188462000.0,
+      "operatingIncome": 665549000.0,
+      "netIncome": 427381000.0,
+      "eps": 5.2,
+      "freeCashFlow": 1032130000.0,
+      "totalDebt": 67542000.0,
+      "cash": 1102535000.0,
+      "sharesOutstanding": 79510000.0,
+      "grossMargin": 0.6973431569750811,
+      "operatingMargin": 0.3041172293601625,
+      "netMargin": 0.19528828921863847,
+      "roe": 0.13517379017400366,
+      "roic": 0.2060997313004199
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4398520000.0,
+      "operatingIncome": 1745008000.0,
+      "netIncome": 1278846000.0,
+      "eps": 15.34,
+      "freeCashFlow": -167195000.0,
+      "totalDebt": 60338000.0,
+      "cash": 367085000.0,
+      "sharesOutstanding": 84044260.0,
+      "grossMargin": 0.7074340914671299,
+      "operatingMargin": 0.3967261715304239,
+      "netMargin": 0.29074461409746916,
+      "roe": 0.2850569803681534,
+      "roic": 0.38380335282033684
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9736416000.0,
+      "operatingIncome": 3581101000.0,
+      "netIncome": 2802441000.0,
+      "eps": 32.07,
+      "freeCashFlow": -12699000.0,
+      "totalDebt": 777036000.0,
+      "cash": 741540000.0,
+      "sharesOutstanding": 90290356.0,
+      "grossMargin": 0.6048562427899548,
+      "operatingMargin": 0.36780484728672236,
+      "netMargin": 0.2878308609656777,
+      "roe": 0.1647823944606078,
+      "roic": 0.2013669512002841
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 6876900000.0,
+      "operatingIncome": 2228542000.0,
+      "netIncome": 1934519000.0,
+      "eps": 21.52,
+      "freeCashFlow": 1827846000.0,
+      "totalDebt": 185174000.0,
+      "cash": 789372000.0,
+      "sharesOutstanding": 90290356.0,
+      "grossMargin": 0.6934749669182335,
+      "operatingMargin": 0.3240620046823423,
+      "netMargin": 0.2813068388372668,
+      "roe": 0.10240634821013778,
+      "roic": 0.11682567275064362
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:17.743982+00:00"
+  }
+}

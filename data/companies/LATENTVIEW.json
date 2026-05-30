@@ -1,0 +1,128 @@
+{
+  "ticker": "LATENTVIEW",
+  "name": "Latent View Analytics Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 66743648256.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 322.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10601920000.0,
+    "operatingIncome": 1953100000.0,
+    "netIncome": 1981220000.0,
+    "eps": 9.56,
+    "freeCashFlow": 1420450000.0,
+    "totalDebt": 332410000.0,
+    "cash": 1585140000.0,
+    "sharesOutstanding": 206924980.0
+  },
+  "ratios": {
+    "roe": 0.11287703637530039,
+    "roic": 0.10920672339012202,
+    "grossMargin": 0.3339555476743835,
+    "operatingMargin": 0.18422134858591652,
+    "netMargin": 0.1868736983489783,
+    "debtToEquity": 0.01863
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5387620000.0,
+      "operatingIncome": 1409610000.0,
+      "netIncome": 1554310000.0,
+      "eps": 7.63,
+      "freeCashFlow": 942240000.0,
+      "totalDebt": 214610000.0,
+      "cash": 533810000.0,
+      "sharesOutstanding": 204901506.0,
+      "grossMargin": 0.4308247426507437,
+      "operatingMargin": 0.26163871988002124,
+      "netMargin": 0.28849659033116665,
+      "roe": 0.1287267619584761,
+      "roic": 0.11470408736197117
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 6406830000.0,
+      "operatingIncome": 1266290000.0,
+      "netIncome": 1586440000.0,
+      "eps": 7.68,
+      "freeCashFlow": 1107550000.0,
+      "totalDebt": 239920000.0,
+      "cash": 1648640000.0,
+      "sharesOutstanding": 205903951.0,
+      "grossMargin": 0.38544022550933926,
+      "operatingMargin": 0.1976468862136189,
+      "netMargin": 0.2476169962368285,
+      "roe": 0.11542715118072654,
+      "roic": 0.09055277459954233
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 8478430000.0,
+      "operatingIncome": 1663580000.0,
+      "netIncome": 1741830000.0,
+      "eps": 8.41,
+      "freeCashFlow": 1142800000.0,
+      "totalDebt": 287600000.0,
+      "cash": 694430000.0,
+      "sharesOutstanding": 206471420.0,
+      "grossMargin": 0.33846124813202444,
+      "operatingMargin": 0.19621321400306424,
+      "netMargin": 0.2054425170697877,
+      "roe": 0.11612091620478208,
+      "roic": 0.10881791553231544
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 10601920000.0,
+      "operatingIncome": 1953100000.0,
+      "netIncome": 1981220000.0,
+      "eps": 9.56,
+      "freeCashFlow": 1420450000.0,
+      "totalDebt": 332410000.0,
+      "cash": 1585140000.0,
+      "sharesOutstanding": 206924980.0,
+      "grossMargin": 0.3339555476743835,
+      "operatingMargin": 0.18422134858591652,
+      "netMargin": 0.1868736983489783,
+      "roe": 0.11287703637530039,
+      "roic": 0.10920672339012202
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:17.309065+00:00"
+  }
+}

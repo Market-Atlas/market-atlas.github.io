@@ -1,0 +1,111 @@
+{
+  "ticker": "LH",
+  "name": "Labcorp Holdings Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21324918784.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 260.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13951700000.0,
+    "operatingIncome": 1516200000.0,
+    "netIncome": 876500000.0,
+    "eps": 10.46,
+    "freeCashFlow": 1206000000.0,
+    "totalDebt": 6526000000.0,
+    "cash": 532300000.0,
+    "sharesOutstanding": 82200000.0
+  },
+  "ratios": {
+    "roe": 0.10168449383976426,
+    "roic": 0.1001069603454423,
+    "grossMargin": 0.28759936065139013,
+    "operatingMargin": 0.10867492850333652,
+    "netMargin": 0.06282388526129433,
+    "debtToEquity": 0.83407
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11863900000.0,
+      "operatingIncome": 1752200000.0,
+      "netIncome": 1279100000.0,
+      "eps": 13.97,
+      "freeCashFlow": 1526600000.0,
+      "totalDebt": 6246400000.0,
+      "cash": 320600000.0,
+      "sharesOutstanding": 88200000.0,
+      "grossMargin": 0.3126206390815836,
+      "operatingMargin": 0.1476917371184855,
+      "netMargin": 0.10781446236060654,
+      "roe": 0.12668621119980983,
+      "roic": 0.10721409777886556
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12161600000.0,
+      "operatingIncome": 1123700000.0,
+      "netIncome": 418000000.0,
+      "eps": 4.77,
+      "freeCashFlow": 874100000.0,
+      "totalDebt": 5954200000.0,
+      "cash": 536800000.0,
+      "sharesOutstanding": 83900000.0,
+      "grossMargin": 0.2766823444283647,
+      "operatingMargin": 0.09239738192343112,
+      "netMargin": 0.034370477568740954,
+      "roe": 0.05307936507936508,
+      "roic": 0.08125560408411188
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13008900000.0,
+      "operatingIncome": 1138000000.0,
+      "netIncome": 746000000.0,
+      "eps": 8.84,
+      "freeCashFlow": 1095900000.0,
+      "totalDebt": 7272800000.0,
+      "cash": 1518700000.0,
+      "sharesOutstanding": 83400000.0,
+      "grossMargin": 0.27860925981443474,
+      "operatingMargin": 0.08747857236199832,
+      "netMargin": 0.05734535587174934,
+      "roe": 0.0926454881895631,
+      "roic": 0.07425774877650897
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13951700000.0,
+      "operatingIncome": 1516200000.0,
+      "netIncome": 876500000.0,
+      "eps": 10.46,
+      "freeCashFlow": 1206000000.0,
+      "totalDebt": 6526000000.0,
+      "cash": 532300000.0,
+      "sharesOutstanding": 82200000.0,
+      "grossMargin": 0.28759936065139013,
+      "operatingMargin": 0.10867492850333652,
+      "netMargin": 0.06282388526129433,
+      "roe": 0.10168449383976426,
+      "roic": 0.1001069603454423
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:48.419499+00:00"
+  }
+}

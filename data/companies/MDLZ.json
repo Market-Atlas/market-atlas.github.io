@@ -1,0 +1,128 @@
+{
+  "ticker": "MDLZ",
+  "name": "Mondelez International, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "currency": "USD",
+  "marketCap": {
+    "value": 78520852480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 61.17,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38537000000.0,
+    "operatingIncome": 3620000000.0,
+    "netIncome": 2451000000.0,
+    "eps": 1.89,
+    "freeCashFlow": 3235000000.0,
+    "totalDebt": 21804000000.0,
+    "cash": 2125000000.0,
+    "sharesOutstanding": 1996537778.0
+  },
+  "ratios": {
+    "roe": 0.09486028330366128,
+    "roic": 0.07598337601276185,
+    "grossMargin": 0.2837532760723461,
+    "operatingMargin": 0.09393569816020966,
+    "netMargin": 0.06360121441731323,
+    "debtToEquity": 0.8379300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 31496000000.0,
+      "operatingIncome": 3796000000.0,
+      "netIncome": 2717000000.0,
+      "eps": 1.96,
+      "freeCashFlow": 3002000000.0,
+      "totalDebt": 23447000000.0,
+      "cash": 1923000000.0,
+      "sharesOutstanding": 1996537778.0,
+      "grossMargin": 0.35915671831343665,
+      "operatingMargin": 0.1205232410464821,
+      "netMargin": 0.08626492252984506,
+      "roe": 0.10106758918275491,
+      "roic": 0.07542221339161534
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 36016000000.0,
+      "operatingIncome": 5611000000.0,
+      "netIncome": 4959000000.0,
+      "eps": 3.62,
+      "freeCashFlow": 3602000000.0,
+      "totalDebt": 19945000000.0,
+      "cash": 1810000000.0,
+      "sharesOutstanding": 1996537778.0,
+      "grossMargin": 0.38216348289649044,
+      "operatingMargin": 0.15579187027987562,
+      "netMargin": 0.1376888049755664,
+      "roe": 0.17503176620076238,
+      "roic": 0.11622511755080059
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 36441000000.0,
+      "operatingIncome": 6665000000.0,
+      "netIncome": 4611000000.0,
+      "eps": 3.42,
+      "freeCashFlow": 3523000000.0,
+      "totalDebt": 18372000000.0,
+      "cash": 1351000000.0,
+      "sharesOutstanding": 1996537778.0,
+      "grossMargin": 0.3912351472242803,
+      "operatingMargin": 0.1828983836887023,
+      "netMargin": 0.12653330040339178,
+      "roe": 0.1712089707411258,
+      "roic": 0.14711725233974926
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 38537000000.0,
+      "operatingIncome": 3620000000.0,
+      "netIncome": 2451000000.0,
+      "eps": 1.89,
+      "freeCashFlow": 3235000000.0,
+      "totalDebt": 21804000000.0,
+      "cash": 2125000000.0,
+      "sharesOutstanding": 1996537778.0,
+      "grossMargin": 0.2837532760723461,
+      "operatingMargin": 0.09393569816020966,
+      "netMargin": 0.06360121441731323,
+      "roe": 0.09486028330366128,
+      "roic": 0.07598337601276185
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:53.997977+00:00"
+  }
+}

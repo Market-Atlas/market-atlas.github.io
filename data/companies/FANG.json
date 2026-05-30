@@ -1,0 +1,128 @@
+{
+  "ticker": "FANG",
+  "name": "Diamondback Energy, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 53865873408.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 191.48,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14929000000.0,
+    "operatingIncome": 4918000000.0,
+    "netIncome": 1664000000.0,
+    "eps": 5.73,
+    "freeCashFlow": -703000000.0,
+    "totalDebt": 14879000000.0,
+    "cash": 104000000.0,
+    "sharesOutstanding": 284594908.0
+  },
+  "ratios": {
+    "roe": 0.0450070323488045,
+    "roic": 0.09484870108580355,
+    "grossMargin": 0.3497220175497354,
+    "operatingMargin": 0.3294259494942729,
+    "netMargin": 0.11146091499765556,
+    "debtToEquity": 0.32594
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9566000000.0,
+      "operatingIncome": 6522000000.0,
+      "netIncome": 4386000000.0,
+      "eps": 24.61,
+      "freeCashFlow": 2712000000.0,
+      "totalDebt": 6379000000.0,
+      "cash": 157000000.0,
+      "sharesOutstanding": 179840797.0,
+      "grossMargin": 0.700501777127326,
+      "operatingMargin": 0.6817896717541292,
+      "netMargin": 0.4584988500940832,
+      "roe": 0.2922246652008795,
+      "roic": 0.30493734804563305
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8339000000.0,
+      "operatingIncome": 4570000000.0,
+      "netIncome": 3143000000.0,
+      "eps": 17.34,
+      "freeCashFlow": 1206000000.0,
+      "totalDebt": 6801000000.0,
+      "cash": 582000000.0,
+      "sharesOutstanding": 178723871.0,
+      "grossMargin": 0.5753687492505096,
+      "operatingMargin": 0.5480273414078427,
+      "netMargin": 0.3769037054802734,
+      "roe": 0.18905263157894736,
+      "roic": 0.1950823870912661
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11023000000.0,
+      "operatingIncome": 4396000000.0,
+      "netIncome": 3338000000.0,
+      "eps": 15.53,
+      "freeCashFlow": -5374000000.0,
+      "totalDebt": 13329000000.0,
+      "cash": 161000000.0,
+      "sharesOutstanding": 290984373.0,
+      "grossMargin": 0.4530527079742357,
+      "operatingMargin": 0.3988025038555747,
+      "netMargin": 0.3028213734917899,
+      "roe": 0.08845664617341531,
+      "roic": 0.08608636052090472
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14929000000.0,
+      "operatingIncome": 4918000000.0,
+      "netIncome": 1664000000.0,
+      "eps": 5.73,
+      "freeCashFlow": -703000000.0,
+      "totalDebt": 14879000000.0,
+      "cash": 104000000.0,
+      "sharesOutstanding": 284594908.0,
+      "grossMargin": 0.3497220175497354,
+      "operatingMargin": 0.3294259494942729,
+      "netMargin": 0.11146091499765556,
+      "roe": 0.0450070323488045,
+      "roic": 0.09484870108580355
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:23.414372+00:00"
+  }
+}

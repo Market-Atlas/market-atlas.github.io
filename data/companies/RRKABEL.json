@@ -1,0 +1,128 @@
+{
+  "ticker": "RRKABEL",
+  "name": "R R Kabel Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 232578859008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2056.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 97223586000.0,
+    "operatingIncome": 6915531000.0,
+    "netIncome": 4922191000.0,
+    "eps": null,
+    "freeCashFlow": 42578000.0,
+    "totalDebt": 3360215000.0,
+    "cash": 855250000.0,
+    "sharesOutstanding": 113105505.0
+  },
+  "ratios": {
+    "roe": 0.19119760686752668,
+    "roic": 0.23761270446953145,
+    "grossMargin": 0.18412242066446716,
+    "operatingMargin": 0.07113017822650565,
+    "netMargin": 0.050627540111511625,
+    "debtToEquity": 0.13092
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.962869,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 55368898000.0,
+      "operatingIncome": 2684948000.0,
+      "netIncome": 1898726000.0,
+      "eps": 16.829858,
+      "freeCashFlow": 3454000000.0,
+      "totalDebt": 5804404000.0,
+      "cash": 310348000.0,
+      "sharesOutstanding": 112818899.0,
+      "grossMargin": 0.17214877565379755,
+      "operatingMargin": 0.04849198913079325,
+      "netMargin": 0.034292284451823474,
+      "roe": 0.13374232411491047,
+      "roic": 0.13423866777466126
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 65176205000.0,
+      "operatingIncome": 4044162000.0,
+      "netIncome": 2981295000.0,
+      "eps": 26.57,
+      "freeCashFlow": 1492840000.0,
+      "totalDebt": 3599856000.0,
+      "cash": 814936000.0,
+      "sharesOutstanding": 112818761.0,
+      "grossMargin": 0.17814372591960517,
+      "operatingMargin": 0.06204966981431337,
+      "netMargin": 0.045742077189060024,
+      "roe": 0.16304634947399924,
+      "roic": 0.18479310535481003
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 76182329000.0,
+      "operatingIncome": 4151436000.0,
+      "netIncome": 3116110000.0,
+      "eps": 27.57,
+      "freeCashFlow": 1273332000.0,
+      "totalDebt": 2901273000.0,
+      "cash": 2156767000.0,
+      "sharesOutstanding": 113072901.0,
+      "grossMargin": 0.17895005546496223,
+      "operatingMargin": 0.05449342458406595,
+      "netMargin": 0.040903317618446663,
+      "roe": 0.14475887766587803,
+      "roic": 0.16994939675119208
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 97223586000.0,
+      "operatingIncome": 6915531000.0,
+      "netIncome": 4922191000.0,
+      "eps": null,
+      "freeCashFlow": 42578000.0,
+      "totalDebt": 3360215000.0,
+      "cash": 855250000.0,
+      "sharesOutstanding": 113105505.0,
+      "grossMargin": 0.18412242066446716,
+      "operatingMargin": 0.07113017822650565,
+      "netMargin": 0.050627540111511625,
+      "roe": 0.19119760686752668,
+      "roic": 0.23761270446953145
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:50.398879+00:00"
+  }
+}

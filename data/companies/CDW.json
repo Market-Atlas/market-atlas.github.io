@@ -1,0 +1,128 @@
+{
+  "ticker": "CDW",
+  "name": "CDW Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16026670080.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 125.45,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22424100000.0,
+    "operatingIncome": 1655600000.0,
+    "netIncome": 1066600000.0,
+    "eps": 8.08,
+    "freeCashFlow": 1088100000.0,
+    "totalDebt": 5787600000.0,
+    "cash": 618700000.0,
+    "sharesOutstanding": 129400000.0
+  },
+  "ratios": {
+    "roe": 0.4092705575380837,
+    "roic": 0.19724317047309292,
+    "grossMargin": 0.21732867762808764,
+    "operatingMargin": 0.07383127973920915,
+    "netMargin": 0.0475648966959655,
+    "debtToEquity": 2.40522
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23748700000.0,
+      "operatingIncome": 1735200000.0,
+      "netIncome": 1114500000.0,
+      "eps": 8.13,
+      "freeCashFlow": 1208100000.0,
+      "totalDebt": 6097900000.0,
+      "cash": 315200000.0,
+      "sharesOutstanding": 135500000.0,
+      "grossMargin": 0.19734132815690963,
+      "operatingMargin": 0.07306505198179268,
+      "netMargin": 0.046928884528416294,
+      "roe": 0.6951287968564835,
+      "roic": 0.2253155352412611
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21376000000.0,
+      "operatingIncome": 1680900000.0,
+      "netIncome": 1104300000.0,
+      "eps": 8.1,
+      "freeCashFlow": 1450500000.0,
+      "totalDebt": 5808900000.0,
+      "cash": 588700000.0,
+      "sharesOutstanding": 134100000.0,
+      "grossMargin": 0.21764595808383233,
+      "operatingMargin": 0.07863491766467066,
+      "netMargin": 0.05166074101796407,
+      "roe": 0.5406609547123623,
+      "roic": 0.21408920702040402
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20998700000.0,
+      "operatingIncome": 1651300000.0,
+      "netIncome": 1077800000.0,
+      "eps": 7.97,
+      "freeCashFlow": 1154700000.0,
+      "totalDebt": 5991900000.0,
+      "cash": 503500000.0,
+      "sharesOutstanding": 132600000.0,
+      "grossMargin": 0.2191754727673618,
+      "operatingMargin": 0.0786382014124684,
+      "netMargin": 0.051326986908713394,
+      "roe": 0.45811195647553876,
+      "roic": 0.19788845480909809
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22424100000.0,
+      "operatingIncome": 1655600000.0,
+      "netIncome": 1066600000.0,
+      "eps": 8.08,
+      "freeCashFlow": 1088100000.0,
+      "totalDebt": 5787600000.0,
+      "cash": 618700000.0,
+      "sharesOutstanding": 129400000.0,
+      "grossMargin": 0.21732867762808764,
+      "operatingMargin": 0.07383127973920915,
+      "netMargin": 0.0475648966959655,
+      "roe": 0.4092705575380837,
+      "roic": 0.19724317047309292
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:57.915992+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "DLTR",
+  "name": "Dollar Tree, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22376810496.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 116.44,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19411800000.0,
+    "operatingIncome": 1653100000.0,
+    "netIncome": 1282500000.0,
+    "eps": 6.22,
+    "freeCashFlow": 1400000000.0,
+    "totalDebt": 7055600000.0,
+    "cash": 717800000.0,
+    "sharesOutstanding": 198505205.0
+  },
+  "ratios": {
+    "roe": 0.3415537031612027,
+    "roic": 0.15291614633920725,
+    "grossMargin": 0.364046610824344,
+    "operatingMargin": 0.08515954213416582,
+    "netMargin": 0.06606806169443329,
+    "debtToEquity": 2.16518
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 15411500000.0,
+      "operatingIncome": 2099300000.0,
+      "netIncome": 1615400000.0,
+      "eps": 7.21,
+      "freeCashFlow": 971100000.0,
+      "totalDebt": 10126500000.0,
+      "cash": 642800000.0,
+      "sharesOutstanding": 221222984.0,
+      "grossMargin": 0.3751289621386627,
+      "operatingMargin": 0.13621646173312138,
+      "netMargin": 0.10481783084060604,
+      "roe": 0.1845854996286351,
+      "roic": 0.11120351732175018
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 16781100000.0,
+      "operatingIncome": 1774500000.0,
+      "netIncome": -998400000.0,
+      "eps": -4.55,
+      "freeCashFlow": 1489700000.0,
+      "totalDebt": 7368400000.0,
+      "cash": 425200000.0,
+      "sharesOutstanding": 217907206.0,
+      "grossMargin": 0.3587190351049693,
+      "operatingMargin": 0.10574396195720186,
+      "netMargin": -0.05949550387042566,
+      "roe": -0.13652213151741396,
+      "roic": 0.12086639648537274
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 17578500000.0,
+      "operatingIncome": 1462000000.0,
+      "netIncome": -3030100000.0,
+      "eps": -14.05,
+      "freeCashFlow": 1562000000.0,
+      "totalDebt": 7830600000.0,
+      "cash": 1256500000.0,
+      "sharesOutstanding": 215078018.0,
+      "grossMargin": 0.35807378331484485,
+      "operatingMargin": 0.08316978126688852,
+      "netMargin": -0.17237534488153142,
+      "roe": -0.7618293357469704,
+      "roic": 0.12381436314363144
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 19411800000.0,
+      "operatingIncome": 1653100000.0,
+      "netIncome": 1282500000.0,
+      "eps": 6.22,
+      "freeCashFlow": 1400000000.0,
+      "totalDebt": 7055600000.0,
+      "cash": 717800000.0,
+      "sharesOutstanding": 198505205.0,
+      "grossMargin": 0.364046610824344,
+      "operatingMargin": 0.08515954213416582,
+      "netMargin": 0.06606806169443329,
+      "roe": 0.3415537031612027,
+      "roic": 0.15291614633920725
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:12.237659+00:00"
+  }
+}

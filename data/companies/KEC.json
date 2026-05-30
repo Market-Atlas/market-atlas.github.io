@@ -1,0 +1,128 @@
+{
+  "ticker": "KEC",
+  "name": "KEC International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 133006827520.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 499.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 235055400000.0,
+    "operatingIncome": 14611900000.0,
+    "netIncome": 6055900000.0,
+    "eps": 22.75,
+    "freeCashFlow": -7428100000.0,
+    "totalDebt": 53777300000.0,
+    "cash": 4112600000.0,
+    "sharesOutstanding": 266200000.0
+  },
+  "ratios": {
+    "roe": 0.09831501260615388,
+    "roic": 0.1266478987503272,
+    "grossMargin": 0.2208411293678001,
+    "operatingMargin": 0.062163643124131585,
+    "netMargin": 0.025763713575608135,
+    "debtToEquity": 0.87306
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 169968000000.0,
+      "operatingIncome": 7865500000.0,
+      "netIncome": 1760300000.0,
+      "eps": 6.85,
+      "freeCashFlow": 4354500000.0,
+      "totalDebt": 33833700000.0,
+      "cash": 2736700000.0,
+      "sharesOutstanding": 257088370.0,
+      "grossMargin": 0.1972877247481879,
+      "operatingMargin": 0.04627635790266403,
+      "netMargin": 0.010356655370422668,
+      "roe": 0.04667460353234715,
+      "roic": 0.1099331917034718
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 195953400000.0,
+      "operatingIncome": 11907800000.0,
+      "netIncome": 3467800000.0,
+      "eps": 13.49,
+      "freeCashFlow": 737500000.0,
+      "totalDebt": 39609900000.0,
+      "cash": 2036000000.0,
+      "sharesOutstanding": 257088370.0,
+      "grossMargin": 0.20260480297866737,
+      "operatingMargin": 0.06076852966062339,
+      "netMargin": 0.01769706471028316,
+      "roe": 0.08466928730131601,
+      "roic": 0.14780015117870987
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 218467000000.0,
+      "operatingIncome": 13202200000.0,
+      "netIncome": 5707400000.0,
+      "eps": 21.8,
+      "freeCashFlow": 2365500000.0,
+      "totalDebt": 39574800000.0,
+      "cash": 5422100000.0,
+      "sharesOutstanding": 266200000.0,
+      "grossMargin": 0.22595586518787736,
+      "operatingMargin": 0.0604310948564314,
+      "netMargin": 0.026124769415975867,
+      "roe": 0.10673124573394796,
+      "roic": 0.14188392604780475
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 235055400000.0,
+      "operatingIncome": 14611900000.0,
+      "netIncome": 6055900000.0,
+      "eps": 22.75,
+      "freeCashFlow": -7428100000.0,
+      "totalDebt": 53777300000.0,
+      "cash": 4112600000.0,
+      "sharesOutstanding": 266200000.0,
+      "grossMargin": 0.2208411293678001,
+      "operatingMargin": 0.062163643124131585,
+      "netMargin": 0.025763713575608135,
+      "roe": 0.09831501260615388,
+      "roic": 0.1266478987503272
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:14.508132+00:00"
+  }
+}

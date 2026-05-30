@@ -1,0 +1,128 @@
+{
+  "ticker": "SAPPHIRE",
+  "name": "Sapphire Foods India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "INR",
+  "marketCap": {
+    "value": 58222104576.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 180.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31253170000.0,
+    "operatingIncome": 814600000.0,
+    "netIncome": -319630000.0,
+    "eps": -0.99,
+    "freeCashFlow": 1873540000.0,
+    "totalDebt": 14171300000.0,
+    "cash": 681080000.0,
+    "sharesOutstanding": 321382905.0
+  },
+  "ratios": {
+    "roe": -0.022984943254955034,
+    "roic": 0.029012699199639853,
+    "grossMargin": 0.5446647492078404,
+    "operatingMargin": 0.0260645560114382,
+    "netMargin": -0.010227122560687444,
+    "debtToEquity": 1.02058
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 22570640000.0,
+      "operatingIncome": 1657380000.0,
+      "netIncome": 2333600000.0,
+      "eps": 7.258,
+      "freeCashFlow": -23320000.0,
+      "totalDebt": 9627800000.0,
+      "cash": 444170000.0,
+      "sharesOutstanding": 317712705.0,
+      "grossMargin": 0.4986633077307511,
+      "operatingMargin": 0.07343079327834745,
+      "netMargin": 0.10339095391180755,
+      "roe": 0.18580401880015637,
+      "roic": 0.07469959125210086
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25879610000.0,
+      "operatingIncome": 1382060000.0,
+      "netIncome": 528090000.0,
+      "eps": 1.64,
+      "freeCashFlow": 637680000.0,
+      "totalDebt": 11640560000.0,
+      "cash": 975550000.0,
+      "sharesOutstanding": 318522080.0,
+      "grossMargin": 0.5042599173635152,
+      "operatingMargin": 0.05340343227737976,
+      "netMargin": 0.020405639806782252,
+      "roe": 0.03943498108115576,
+      "roic": 0.055211795156354056
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28818640000.0,
+      "operatingIncome": 1128420000.0,
+      "netIncome": 192530000.0,
+      "eps": 0.6,
+      "freeCashFlow": 2431330000.0,
+      "totalDebt": 12921660000.0,
+      "cash": 582690000.0,
+      "sharesOutstanding": 321190894.0,
+      "grossMargin": 0.5512491220959768,
+      "operatingMargin": 0.03915590742658224,
+      "netMargin": 0.006680745517484517,
+      "roe": 0.013771176590501873,
+      "roic": 0.04194509690803504
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 31253170000.0,
+      "operatingIncome": 814600000.0,
+      "netIncome": -319630000.0,
+      "eps": -0.99,
+      "freeCashFlow": 1873540000.0,
+      "totalDebt": 14171300000.0,
+      "cash": 681080000.0,
+      "sharesOutstanding": 321382905.0,
+      "grossMargin": 0.5446647492078404,
+      "operatingMargin": 0.0260645560114382,
+      "netMargin": -0.010227122560687444,
+      "roe": -0.022984943254955034,
+      "roic": 0.029012699199639853
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:52.120648+00:00"
+  }
+}

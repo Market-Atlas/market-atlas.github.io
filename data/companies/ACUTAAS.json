@@ -1,0 +1,111 @@
+{
+  "ticker": "ACUTAAS",
+  "name": "Acutaas Chemicals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 256461291520.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3132.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9999668000.0,
+    "operatingIncome": 2054520000.0,
+    "netIncome": 1587136000.0,
+    "eps": 19.81,
+    "freeCashFlow": -763002000.0,
+    "totalDebt": 129387000.0,
+    "cash": 1852243000.0,
+    "sharesOutstanding": 81868922.0
+  },
+  "ratios": {
+    "roe": 0.1211897692834618,
+    "roic": 0.15534331180399577,
+    "grossMargin": 0.406246387380061,
+    "operatingMargin": 0.20545882123286494,
+    "netMargin": 0.1587188694664663,
+    "debtToEquity": 0.02081
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5201350000.0,
+      "operatingIncome": 950954000.0,
+      "netIncome": 719461000.0,
+      "eps": 10.515,
+      "freeCashFlow": -456928000.0,
+      "totalDebt": 8441000.0,
+      "cash": 102966000.0,
+      "sharesOutstanding": 72874124.0,
+      "grossMargin": 0.4754509886856297,
+      "operatingMargin": 0.1828283041902583,
+      "netMargin": 0.13832197410287714,
+      "roe": 0.13775549572743345,
+      "roic": 0.18178575388344503
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6130573000.0,
+      "operatingIncome": 1110109000.0,
+      "netIncome": 832897000.0,
+      "eps": 11.43,
+      "freeCashFlow": -308729000.0,
+      "totalDebt": 36003000.0,
+      "cash": 305326000.0,
+      "sharesOutstanding": 72874124.0,
+      "grossMargin": 0.3904669269903482,
+      "operatingMargin": 0.18107752733716734,
+      "netMargin": 0.13585956810236172,
+      "roe": 0.14022798198933528,
+      "roic": 0.18577380160469376
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7130117000.0,
+      "operatingIncome": 1124346000.0,
+      "netIncome": 427730000.0,
+      "eps": 5.83,
+      "freeCashFlow": -1895078000.0,
+      "totalDebt": 2166466000.0,
+      "cash": 297044000.0,
+      "sharesOutstanding": 73761124.0,
+      "grossMargin": 0.3621396395038118,
+      "operatingMargin": 0.15768969850003864,
+      "netMargin": 0.05998919793321764,
+      "roe": 0.06346166913996998,
+      "roic": 0.12623966478188817
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9999668000.0,
+      "operatingIncome": 2054520000.0,
+      "netIncome": 1587136000.0,
+      "eps": 19.81,
+      "freeCashFlow": -763002000.0,
+      "totalDebt": 129387000.0,
+      "cash": 1852243000.0,
+      "sharesOutstanding": 81868922.0,
+      "grossMargin": 0.406246387380061,
+      "operatingMargin": 0.20545882123286494,
+      "netMargin": 0.1587188694664663,
+      "roe": 0.1211897692834618,
+      "roic": 0.15534331180399577
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:47.960694+00:00"
+  }
+}

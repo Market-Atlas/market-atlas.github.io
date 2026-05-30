@@ -1,0 +1,128 @@
+{
+  "ticker": "TECHNOE",
+  "name": "Techno Electric & Engineering Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 125510500352.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1079.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32516330000.0,
+    "operatingIncome": 4448790000.0,
+    "netIncome": 4738670000.0,
+    "eps": 40.74,
+    "freeCashFlow": -6570660000.0,
+    "totalDebt": 724930000.0,
+    "cash": 533120000.0,
+    "sharesOutstanding": 116299574.0
+  },
+  "ratios": {
+    "roe": 0.11399651900294815,
+    "roic": 0.10518855388584718,
+    "grossMargin": 0.2130083561090689,
+    "operatingMargin": 0.13681710082287885,
+    "netMargin": 0.14573200604127218,
+    "debtToEquity": 0.01744
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 0.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8273553000.0,
+      "operatingIncome": 806560000.0,
+      "netIncome": 1868596000.0,
+      "eps": 17.1,
+      "freeCashFlow": 278159000.0,
+      "totalDebt": null,
+      "cash": 484039000.0,
+      "sharesOutstanding": 107619019.0,
+      "grossMargin": 0.2436184309207906,
+      "operatingMargin": 0.09748653329470422,
+      "netMargin": 0.22585169878043931,
+      "roe": 0.09680962739248933,
+      "roic": 0.041786867289497674
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14975874000.0,
+      "operatingIncome": 2021604000.0,
+      "netIncome": 2684573000.0,
+      "eps": 24.94,
+      "freeCashFlow": -3786692000.0,
+      "totalDebt": 0.0,
+      "cash": 344096000.0,
+      "sharesOutstanding": 107619019.0,
+      "grossMargin": 0.22517617335722775,
+      "operatingMargin": 0.1349907190725563,
+      "netMargin": 0.17925985488392865,
+      "roe": 0.1241015307365407,
+      "roic": 0.09345402451083044
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22686610000.0,
+      "operatingIncome": 3312040000.0,
+      "netIncome": 4229450000.0,
+      "eps": 37.19,
+      "freeCashFlow": 2846110000.0,
+      "totalDebt": 390924000.0,
+      "cash": 323258000.0,
+      "sharesOutstanding": 116299574.0,
+      "grossMargin": 0.22113043773397612,
+      "operatingMargin": 0.14599096118811933,
+      "netMargin": 0.18642935193931576,
+      "roe": 0.11309833221374599,
+      "roic": 0.0876499183862617
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 32516330000.0,
+      "operatingIncome": 4448790000.0,
+      "netIncome": 4738670000.0,
+      "eps": 40.74,
+      "freeCashFlow": -6570660000.0,
+      "totalDebt": 724930000.0,
+      "cash": 533120000.0,
+      "sharesOutstanding": 116299574.0,
+      "grossMargin": 0.2130083561090689,
+      "operatingMargin": 0.13681710082287885,
+      "netMargin": 0.14573200604127218,
+      "roe": 0.11399651900294815,
+      "roic": 0.10518855388584718
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:04.228973+00:00"
+  }
+}

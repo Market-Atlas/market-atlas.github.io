@@ -1,0 +1,128 @@
+{
+  "ticker": "PTC",
+  "name": "PTC Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16024118272.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 138.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2739226000.0,
+    "operatingIncome": 998028000.0,
+    "netIncome": 733997000.0,
+    "eps": 6.08,
+    "freeCashFlow": 856688000.0,
+    "totalDebt": 1369867000.0,
+    "cash": 184415000.0,
+    "sharesOutstanding": 119536000.0
+  },
+  "ratios": {
+    "roe": 0.1918330031997562,
+    "roic": 0.19207266378450283,
+    "grossMargin": 0.8375515565345831,
+    "operatingMargin": 0.3643467169193049,
+    "netMargin": 0.26795780997989943,
+    "debtToEquity": 0.3578
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 1933347000.0,
+      "operatingIncome": 483596000.0,
+      "netIncome": 313081000.0,
+      "eps": 2.65,
+      "freeCashFlow": 409379000.0,
+      "totalDebt": 1540203000.0,
+      "cash": 272182000.0,
+      "sharesOutstanding": 117472000.0,
+      "grossMargin": 0.8003565836862188,
+      "operatingMargin": 0.2501340938796812,
+      "netMargin": 0.16193730354664734,
+      "roe": 0.1363573013291615,
+      "roic": 0.12605999055845613
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 2097053000.0,
+      "operatingIncome": 458014000.0,
+      "netIncome": 245540000.0,
+      "eps": 2.06,
+      "freeCashFlow": 587047000.0,
+      "totalDebt": 1888977000.0,
+      "cash": 288103000.0,
+      "sharesOutstanding": 118846000.0,
+      "grossMargin": 0.7897020246984697,
+      "operatingMargin": 0.21840840455629876,
+      "netMargin": 0.11708812319001952,
+      "roe": 0.09171214175528239,
+      "roic": 0.10030381491051663
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 2298472000.0,
+      "operatingIncome": 587260000.0,
+      "netIncome": 376333000.0,
+      "eps": 3.12,
+      "freeCashFlow": 735606000.0,
+      "totalDebt": 1930326000.0,
+      "cash": 265808000.0,
+      "sharesOutstanding": 120155000.0,
+      "grossMargin": 0.8064731700016359,
+      "operatingMargin": 0.2555001757689456,
+      "netMargin": 0.16373181835584685,
+      "roe": 0.11707728787785458,
+      "roic": 0.11414800871728008
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 2739226000.0,
+      "operatingIncome": 998028000.0,
+      "netIncome": 733997000.0,
+      "eps": 6.08,
+      "freeCashFlow": 856688000.0,
+      "totalDebt": 1369867000.0,
+      "cash": 184415000.0,
+      "sharesOutstanding": 119536000.0,
+      "grossMargin": 0.8375515565345831,
+      "operatingMargin": 0.3643467169193049,
+      "netMargin": 0.26795780997989943,
+      "roe": 0.1918330031997562,
+      "roic": 0.19207266378450283
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:12.909448+00:00"
+  }
+}

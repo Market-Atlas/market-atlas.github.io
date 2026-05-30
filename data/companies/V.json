@@ -1,0 +1,111 @@
+{
+  "ticker": "V",
+  "name": "Visa Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 620653051904.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 326.36,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40000000000.0,
+    "operatingIncome": 26556000000.0,
+    "netIncome": 20058000000.0,
+    "eps": 10.2,
+    "freeCashFlow": 21577000000.0,
+    "totalDebt": 25171000000.0,
+    "cash": 17164000000.0,
+    "sharesOutstanding": 1933259368.0
+  },
+  "ratios": {
+    "roe": 0.5291091825160252,
+    "roic": 0.42098922003804695,
+    "grossMargin": 0.803625,
+    "operatingMargin": 0.6639,
+    "netMargin": 0.50145,
+    "debtToEquity": 0.6723300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 29310000000.0,
+      "operatingIncome": 19681000000.0,
+      "netIncome": 14957000000.0,
+      "eps": 7.0,
+      "freeCashFlow": 17879000000.0,
+      "totalDebt": 22450000000.0,
+      "cash": 15689000000.0,
+      "sharesOutstanding": 2086435000.0,
+      "grossMargin": 0.8044012282497441,
+      "operatingMargin": 0.6714773114977823,
+      "netMargin": 0.5103036506311839,
+      "roe": 0.42036480143897026,
+      "roic": 0.33914631834709036
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 32653000000.0,
+      "operatingIncome": 21927000000.0,
+      "netIncome": 17273000000.0,
+      "eps": 8.28,
+      "freeCashFlow": 19696000000.0,
+      "totalDebt": 20463000000.0,
+      "cash": 16286000000.0,
+      "sharesOutstanding": 2031761500.0,
+      "grossMargin": 0.7988852479098398,
+      "operatingMargin": 0.6715156340918139,
+      "netMargin": 0.5289866168499066,
+      "roe": 0.44595048150156197,
+      "roic": 0.37041354145550376
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 35926000000.0,
+      "operatingIncome": 24057000000.0,
+      "netIncome": 19743000000.0,
+      "eps": 9.73,
+      "freeCashFlow": 18693000000.0,
+      "totalDebt": 20836000000.0,
+      "cash": 11975000000.0,
+      "sharesOutstanding": 1980512564.0,
+      "grossMargin": 0.803985971162946,
+      "operatingMargin": 0.6696264543784446,
+      "netMargin": 0.5495462895952792,
+      "roe": 0.504458696374275,
+      "roic": 0.401130508728928
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 40000000000.0,
+      "operatingIncome": 26556000000.0,
+      "netIncome": 20058000000.0,
+      "eps": 10.2,
+      "freeCashFlow": 21577000000.0,
+      "totalDebt": 25171000000.0,
+      "cash": 17164000000.0,
+      "sharesOutstanding": 1933259368.0,
+      "grossMargin": 0.803625,
+      "operatingMargin": 0.6639,
+      "netMargin": 0.50145,
+      "roe": 0.5291091825160252,
+      "roic": 0.42098922003804695
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.867098+00:00"
+  }
+}

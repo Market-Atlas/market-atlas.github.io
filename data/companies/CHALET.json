@@ -1,0 +1,128 @@
+{
+  "ticker": "CHALET",
+  "name": "Chalet Hotels Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "INR",
+  "marketCap": {
+    "value": 171822792704.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 784.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27697530000.0,
+    "operatingIncome": 9574520000.0,
+    "netIncome": 6451090000.0,
+    "eps": 29.46,
+    "freeCashFlow": 7285060000.0,
+    "totalDebt": 23676780000.0,
+    "cash": 1639930000.0,
+    "sharesOutstanding": 218994127.0
+  },
+  "ratios": {
+    "roe": 0.17445784553110463,
+    "roic": 0.15785286913415297,
+    "grossMargin": 0.6757837251191713,
+    "operatingMargin": 0.34568136581131964,
+    "netMargin": 0.23291210443674942,
+    "debtToEquity": 0.6404099999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11284670000.0,
+      "operatingIncome": 3439160000.0,
+      "netIncome": 1833320000.0,
+      "eps": 8.94,
+      "freeCashFlow": 3020670000.0,
+      "totalDebt": 26671250000.0,
+      "cash": 444540000.0,
+      "sharesOutstanding": 205024864.0,
+      "grossMargin": 0.6489494154459102,
+      "operatingMargin": 0.30476389650738567,
+      "netMargin": 0.16246110874310016,
+      "roe": 0.11889705105065765,
+      "roic": 0.08170842733681408
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14172520000.0,
+      "operatingIncome": 4547630000.0,
+      "netIncome": 2781650000.0,
+      "eps": 13.53,
+      "freeCashFlow": 2531920000.0,
+      "totalDebt": 28048360000.0,
+      "cash": 823340000.0,
+      "sharesOutstanding": 205474008.0,
+      "grossMargin": 0.6683285682433329,
+      "operatingMargin": 0.32087659781041056,
+      "netMargin": 0.1962706702830548,
+      "roe": 0.15025046695856303,
+      "roic": 0.09766873173663035
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 17178250000.0,
+      "operatingIncome": 5570960000.0,
+      "netIncome": 1425650000.0,
+      "eps": 6.52,
+      "freeCashFlow": -187350000.0,
+      "totalDebt": 26040390000.0,
+      "cash": 1092430000.0,
+      "sharesOutstanding": 218455415.0,
+      "grossMargin": 0.7658213147439349,
+      "operatingMargin": 0.3243031158587167,
+      "netMargin": 0.08299157364690815,
+      "roe": 0.046800210225894354,
+      "roic": 0.09859607106613719
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 27697530000.0,
+      "operatingIncome": 9574520000.0,
+      "netIncome": 6451090000.0,
+      "eps": 29.46,
+      "freeCashFlow": 7285060000.0,
+      "totalDebt": 23676780000.0,
+      "cash": 1639930000.0,
+      "sharesOutstanding": 218994127.0,
+      "grossMargin": 0.6757837251191713,
+      "operatingMargin": 0.34568136581131964,
+      "netMargin": 0.23291210443674942,
+      "roe": 0.17445784553110463,
+      "roic": 0.15785286913415297
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:24.838858+00:00"
+  }
+}

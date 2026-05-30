@@ -1,0 +1,128 @@
+{
+  "ticker": "SCHNEIDER",
+  "name": "Schneider Electric Infrastructure Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 312939380736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1308.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28906300000.0,
+    "operatingIncome": 3385200000.0,
+    "netIncome": 2125600000.0,
+    "eps": 8.89,
+    "freeCashFlow": 1202000000.0,
+    "totalDebt": 5482500000.0,
+    "cash": 3578500000.0,
+    "sharesOutstanding": 239104035.0
+  },
+  "ratios": {
+    "roe": 0.2744763823248367,
+    "roic": 0.25593685499784524,
+    "grossMargin": 0.3688919024572498,
+    "operatingMargin": 0.11710941905397786,
+    "netMargin": 0.07353414307607684,
+    "debtToEquity": 0.70795
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 17642200000.0,
+      "operatingIncome": 1554600000.0,
+      "netIncome": 1236300000.0,
+      "eps": 5.17,
+      "freeCashFlow": 499300000.0,
+      "totalDebt": 3763900000.0,
+      "cash": 195600000.0,
+      "sharesOutstanding": 239104035.0,
+      "grossMargin": 0.31364569044676965,
+      "operatingMargin": 0.08811826189477502,
+      "netMargin": 0.0700762943397082,
+      "roe": 0.818308181096108,
+      "roic": 0.29472766223671487
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 22066800000.0,
+      "operatingIncome": 2737000000.0,
+      "netIncome": 1720300000.0,
+      "eps": 7.19,
+      "freeCashFlow": 1314500000.0,
+      "totalDebt": 3198800000.0,
+      "cash": 473000000.0,
+      "sharesOutstanding": 239104035.0,
+      "grossMargin": 0.36650533833632426,
+      "operatingMargin": 0.12403248318741276,
+      "netMargin": 0.0779587434517012,
+      "roe": 0.5808488368166931,
+      "roic": 0.44428211995779565
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 26367100000.0,
+      "operatingIncome": 3574100000.0,
+      "netIncome": 2678900000.0,
+      "eps": 11.2,
+      "freeCashFlow": 2448000000.0,
+      "totalDebt": 5215700000.0,
+      "cash": 2584300000.0,
+      "sharesOutstanding": 239104035.0,
+      "grossMargin": 0.3816005552373981,
+      "operatingMargin": 0.1355515016820204,
+      "netMargin": 0.10160010012477672,
+      "roe": 0.47677440022780665,
+      "roic": 0.3298813973879736
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 28906300000.0,
+      "operatingIncome": 3385200000.0,
+      "netIncome": 2125600000.0,
+      "eps": 8.89,
+      "freeCashFlow": 1202000000.0,
+      "totalDebt": 5482500000.0,
+      "cash": 3578500000.0,
+      "sharesOutstanding": 239104035.0,
+      "grossMargin": 0.3688919024572498,
+      "operatingMargin": 0.11710941905397786,
+      "netMargin": 0.07353414307607684,
+      "roe": 0.2744763823248367,
+      "roic": 0.25593685499784524
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:53.987064+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "VOLTAS",
+  "name": "Voltas Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "currency": "INR",
+  "marketCap": {
+    "value": 412183101440.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1245.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 141229900000.0,
+    "operatingIncome": 5628000000.0,
+    "netIncome": 3758800000.0,
+    "eps": null,
+    "freeCashFlow": -617700000.0,
+    "totalDebt": 9924800000.0,
+    "cash": 7551000000.0,
+    "sharesOutstanding": 330884740.0
+  },
+  "ratios": {
+    "roe": 0.05895037961422224,
+    "roic": 0.07637721223175355,
+    "grossMargin": 0.21618722381025549,
+    "operatingMargin": 0.03984991846627378,
+    "netMargin": 0.026614760755335802,
+    "debtToEquity": 0.1551
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 15.23,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 93993700000.0,
+      "operatingIncome": 2908300000.0,
+      "netIncome": 1350100000.0,
+      "eps": 4.08,
+      "freeCashFlow": -205500000.0,
+      "totalDebt": 6505800000.0,
+      "cash": 6927200000.0,
+      "sharesOutstanding": 330884740.0,
+      "grossMargin": 0.21428882999605292,
+      "operatingMargin": 0.03094143543663033,
+      "netMargin": 0.014363728632876459,
+      "roe": 0.024763071640679594,
+      "roic": 0.04765634601361703
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 124073600000.0,
+      "operatingIncome": 4273700000.0,
+      "netIncome": 2520000000.0,
+      "eps": 7.62,
+      "freeCashFlow": 4684600000.0,
+      "totalDebt": 7436300000.0,
+      "cash": 8153000000.0,
+      "sharesOutstanding": 330884740.0,
+      "grossMargin": 0.20830136306192454,
+      "operatingMargin": 0.034444877878936374,
+      "netMargin": 0.020310525365589457,
+      "roe": 0.04329524954900782,
+      "roic": 0.06510687631110292
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 153204500000.0,
+      "operatingIncome": 10344000000.0,
+      "netIncome": 8413700000.0,
+      "eps": 25.43,
+      "freeCashFlow": -4333300000.0,
+      "totalDebt": 8919700000.0,
+      "cash": 6497900000.0,
+      "sharesOutstanding": 330884740.0,
+      "grossMargin": 0.21801317846407905,
+      "operatingMargin": 0.06751759902613827,
+      "netMargin": 0.05491809966417435,
+      "roe": 0.12917821364142326,
+      "roic": 0.13968524905404567
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 141229900000.0,
+      "operatingIncome": 5628000000.0,
+      "netIncome": 3758800000.0,
+      "eps": null,
+      "freeCashFlow": -617700000.0,
+      "totalDebt": 9924800000.0,
+      "cash": 7551000000.0,
+      "sharesOutstanding": 330884740.0,
+      "grossMargin": 0.21618722381025549,
+      "operatingMargin": 0.03984991846627378,
+      "netMargin": 0.026614760755335802,
+      "roe": 0.05895037961422224,
+      "roic": 0.07637721223175355
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:14.915338+00:00"
+  }
+}

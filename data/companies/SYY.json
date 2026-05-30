@@ -1,0 +1,111 @@
+{
+  "ticker": "SYY",
+  "name": "Sysco Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 36251021312.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 81370000000.0,
+    "operatingIncome": 3088000000.0,
+    "netIncome": 1828000000.0,
+    "eps": 3.73,
+    "freeCashFlow": 1604000000.0,
+    "totalDebt": 14494000000.0,
+    "cash": 1071000000.0,
+    "sharesOutstanding": 765174900.0
+  },
+  "ratios": {
+    "roe": 0.9989071038251366,
+    "roic": 0.18916932124479294,
+    "grossMargin": 0.1839621482118717,
+    "operatingMargin": 0.0379501044611036,
+    "netMargin": 0.02246528204497972,
+    "debtToEquity": 6.704400000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 68636000000.0,
+      "operatingIncome": 2346000000.0,
+      "netIncome": 1359000000.0,
+      "eps": 2.64,
+      "freeCashFlow": 1158000000.0,
+      "totalDebt": 11389649000.0,
+      "cash": 867086000.0,
+      "sharesOutstanding": 765174900.0,
+      "grossMargin": 0.17949763972259455,
+      "operatingMargin": 0.03418031353808497,
+      "netMargin": 0.01980010490121802,
+      "roe": 0.98317248563946,
+      "roic": 0.18368436543041453
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 76325000000.0,
+      "operatingIncome": 3039000000.0,
+      "netIncome": 1770000000.0,
+      "eps": 3.47,
+      "freeCashFlow": 2075000000.0,
+      "totalDebt": 11166000000.0,
+      "cash": 745000000.0,
+      "sharesOutstanding": 765174900.0,
+      "grossMargin": 0.18283655420897477,
+      "operatingMargin": 0.039816573861775305,
+      "netMargin": 0.02319030461840812,
+      "roe": 0.8810353409656545,
+      "roic": 0.23066413662239088
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 78844000000.0,
+      "operatingIncome": 3202000000.0,
+      "netIncome": 1955000000.0,
+      "eps": 3.89,
+      "freeCashFlow": 2157000000.0,
+      "totalDebt": 12945000000.0,
+      "cash": 696000000.0,
+      "sharesOutstanding": 765174900.0,
+      "grossMargin": 0.18527725635431994,
+      "operatingMargin": 0.04061184110395211,
+      "netMargin": 0.024795799299883313,
+      "roe": 1.0510752688172043,
+      "roic": 0.21627828436339075
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 81370000000.0,
+      "operatingIncome": 3088000000.0,
+      "netIncome": 1828000000.0,
+      "eps": 3.73,
+      "freeCashFlow": 1604000000.0,
+      "totalDebt": 14494000000.0,
+      "cash": 1071000000.0,
+      "sharesOutstanding": 765174900.0,
+      "grossMargin": 0.1839621482118717,
+      "operatingMargin": 0.0379501044611036,
+      "netMargin": 0.02246528204497972,
+      "roe": 0.9989071038251366,
+      "roic": 0.18916932124479294
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:24.114899+00:00"
+  }
+}

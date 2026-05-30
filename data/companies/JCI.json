@@ -1,0 +1,111 @@
+{
+  "ticker": "JCI",
+  "name": "Johnson Controls International plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 81792090112.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 134.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23596000000.0,
+    "operatingIncome": 2828000000.0,
+    "netIncome": 3291000000.0,
+    "eps": 5.03,
+    "freeCashFlow": 965000000.0,
+    "totalDebt": 9880000000.0,
+    "cash": 379000000.0,
+    "sharesOutstanding": 641632294.0
+  },
+  "ratios": {
+    "roe": 0.2545834300301694,
+    "roic": 0.12399701845924496,
+    "grossMargin": 0.3641295134768605,
+    "operatingMargin": 0.1198508221732497,
+    "netMargin": 0.13947279199864385,
+    "debtToEquity": 0.70317
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 20637000000.0,
+      "operatingIncome": 2012000000.0,
+      "netIncome": 1532000000.0,
+      "eps": 2.19,
+      "freeCashFlow": 1503000000.0,
+      "totalDebt": 8960000000.0,
+      "cash": 2031000000.0,
+      "sharesOutstanding": 717726243.0,
+      "grossMargin": 0.3435576876483985,
+      "operatingMargin": 0.09749479090953142,
+      "netMargin": 0.07423559625914619,
+      "roe": 0.09417260880255716,
+      "roic": 0.07975265577929284
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 22331000000.0,
+      "operatingIncome": 2417000000.0,
+      "netIncome": 1849000000.0,
+      "eps": 2.69,
+      "freeCashFlow": 1775000000.0,
+      "totalDebt": 8824000000.0,
+      "cash": 828000000.0,
+      "sharesOutstanding": 709968796.0,
+      "grossMargin": 0.34946934754377323,
+      "operatingMargin": 0.10823518875106354,
+      "netMargin": 0.08279969549057364,
+      "roe": 0.11175581746751284,
+      "roic": 0.09527375931254681
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 22952000000.0,
+      "operatingIncome": 2416000000.0,
+      "netIncome": 1705000000.0,
+      "eps": 2.52,
+      "freeCashFlow": 1604000000.0,
+      "totalDebt": 9493000000.0,
+      "cash": 606000000.0,
+      "sharesOutstanding": 692964542.0,
+      "grossMargin": 0.35190833042872083,
+      "operatingMargin": 0.10526315789473684,
+      "netMargin": 0.07428546531892645,
+      "roe": 0.10591377810908187,
+      "roic": 0.09440819037943027
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 23596000000.0,
+      "operatingIncome": 2828000000.0,
+      "netIncome": 3291000000.0,
+      "eps": 5.03,
+      "freeCashFlow": 965000000.0,
+      "totalDebt": 9880000000.0,
+      "cash": 379000000.0,
+      "sharesOutstanding": 641632294.0,
+      "grossMargin": 0.3641295134768605,
+      "operatingMargin": 0.1198508221732497,
+      "netMargin": 0.13947279199864385,
+      "roe": 0.2545834300301694,
+      "roic": 0.12399701845924496
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:43.513085+00:00"
+  }
+}

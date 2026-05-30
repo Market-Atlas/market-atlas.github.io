@@ -1,0 +1,128 @@
+{
+  "ticker": "ADANIPOWER",
+  "name": "Adani Power Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 4693316075520.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 243.37,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 542405200000.0,
+    "operatingIncome": 152415800000.0,
+    "netIncome": 128343000000.0,
+    "eps": 6.62,
+    "freeCashFlow": -28364400000.0,
+    "totalDebt": 546702900000.0,
+    "cash": 9278800000.0,
+    "sharesOutstanding": 19284694705.0
+  },
+  "ratios": {
+    "roe": 0.19764269549137561,
+    "roic": 0.12743032043981978,
+    "grossMargin": 0.44810447982430845,
+    "operatingMargin": 0.2809998871692233,
+    "netMargin": 0.23661830675664614,
+    "debtToEquity": 0.8233199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 380230300000.0,
+      "operatingIncome": 66082900000.0,
+      "netIncome": 107266400000.0,
+      "eps": 4.914,
+      "freeCashFlow": 51868500000.0,
+      "totalDebt": 421805800000.0,
+      "cash": 3492300000.0,
+      "sharesOutstanding": 19284694705.0,
+      "grossMargin": 0.28494599194225184,
+      "operatingMargin": 0.17379703826864928,
+      "netMargin": 0.28210902708174496,
+      "roe": 0.35904277930596346,
+      "roic": 0.09171016972298304
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 500510700000.0,
+      "operatingIncome": 147474600000.0,
+      "netIncome": 208287900000.0,
+      "eps": 10.324,
+      "freeCashFlow": 115677000000.0,
+      "totalDebt": 344310700000.0,
+      "cash": 11362500000.0,
+      "sharesOutstanding": 19284694705.0,
+      "grossMargin": 0.394763588470736,
+      "operatingMargin": 0.29464824628124836,
+      "netMargin": 0.41615074363045584,
+      "roe": 0.48276220922780677,
+      "roic": 0.1901031374353699
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 562030900000.0,
+      "operatingIncome": 169965600000.0,
+      "netIncome": 129387700000.0,
+      "eps": 6.46,
+      "freeCashFlow": 99420700000.0,
+      "totalDebt": 393562900000.0,
+      "cash": 3198600000.0,
+      "sharesOutstanding": 19284694705.0,
+      "grossMargin": 0.4468394887185028,
+      "operatingMargin": 0.3024132658898292,
+      "netMargin": 0.23021456649447566,
+      "roe": 0.22962623269453666,
+      "roic": 0.17759623536807165
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 542405200000.0,
+      "operatingIncome": 152415800000.0,
+      "netIncome": 128343000000.0,
+      "eps": 6.62,
+      "freeCashFlow": -28364400000.0,
+      "totalDebt": 546702900000.0,
+      "cash": 9278800000.0,
+      "sharesOutstanding": 19284694705.0,
+      "grossMargin": 0.44810447982430845,
+      "operatingMargin": 0.2809998871692233,
+      "netMargin": 0.23661830675664614,
+      "roe": 0.19764269549137561,
+      "roic": 0.12743032043981978
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:48.925433+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "DMART",
+  "name": "Avenue Supermarts Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2644198031360.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4054.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 688207400000.0,
+    "operatingIncome": 41495700000.0,
+    "netIncome": 29704900000.0,
+    "eps": 45.63,
+    "freeCashFlow": -6466100000.0,
+    "totalDebt": 24249900000.0,
+    "cash": 2837100000.0,
+    "sharesOutstanding": 651959123.0
+  },
+  "ratios": {
+    "roe": 0.12142270859596371,
+    "roic": 0.15432204136779942,
+    "grossMargin": 0.1505506915502507,
+    "operatingMargin": 0.060295341200922864,
+    "netMargin": 0.043162715193123466,
+    "debtToEquity": 0.09913
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 427353800000.0,
+      "operatingIncome": 29999000000.0,
+      "netIncome": 23785100000.0,
+      "eps": 36.49,
+      "freeCashFlow": 4183200000.0,
+      "totalDebt": 6430400000.0,
+      "cash": 2071500000.0,
+      "sharesOutstanding": 648263978.0,
+      "grossMargin": 0.14792123060564805,
+      "operatingMargin": 0.07019710600443942,
+      "netMargin": 0.055656694757364976,
+      "roe": 0.1479292480113442,
+      "roic": 0.17940118671860703
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 507006700000.0,
+      "operatingIncome": 33748800000.0,
+      "netIncome": 25361700000.0,
+      "eps": 38.93,
+      "freeCashFlow": 145900000.0,
+      "totalDebt": 5922200000.0,
+      "cash": 12717700000.0,
+      "sharesOutstanding": 650733068.0,
+      "grossMargin": 0.14584619887666178,
+      "operatingMargin": 0.0665648008201864,
+      "netMargin": 0.05002241587734442,
+      "roe": 0.1356398767342931,
+      "roic": 0.17495453612330508
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 593580500000.0,
+      "operatingIncome": 36178100000.0,
+      "netIncome": 27080200000.0,
+      "eps": 41.5,
+      "freeCashFlow": -9600700000.0,
+      "totalDebt": 8196800000.0,
+      "cash": 6912600000.0,
+      "sharesOutstanding": 650733068.0,
+      "grossMargin": 0.1483598265104733,
+      "operatingMargin": 0.06094893615945941,
+      "netMargin": 0.04562178171284265,
+      "roe": 0.12637911119926265,
+      "roic": 0.1626169854225859
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 688207400000.0,
+      "operatingIncome": 41495700000.0,
+      "netIncome": 29704900000.0,
+      "eps": 45.63,
+      "freeCashFlow": -6466100000.0,
+      "totalDebt": 24249900000.0,
+      "cash": 2837100000.0,
+      "sharesOutstanding": 651959123.0,
+      "grossMargin": 0.1505506915502507,
+      "operatingMargin": 0.060295341200922864,
+      "netMargin": 0.043162715193123466,
+      "roe": 0.12142270859596371,
+      "roic": 0.15432204136779942
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.987921+00:00"
+  }
+}

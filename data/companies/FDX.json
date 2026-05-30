@@ -1,0 +1,128 @@
+{
+  "ticker": "FDX",
+  "name": "FedEx Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 98246328320.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 411.75,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 87926000000.0,
+    "operatingIncome": 5994000000.0,
+    "netIncome": 4092000000.0,
+    "eps": 16.81,
+    "freeCashFlow": 2981000000.0,
+    "totalDebt": 37416000000.0,
+    "cash": 5502000000.0,
+    "sharesOutstanding": 318000000.0
+  },
+  "ratios": {
+    "roe": 0.14575764052147894,
+    "roic": 0.09152542372881356,
+    "grossMargin": 0.21603393762937015,
+    "operatingMargin": 0.06817096194527215,
+    "netMargin": 0.04653913518185747,
+    "debtToEquity": 1.40994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 93512000000.0,
+      "operatingIncome": 6523000000.0,
+      "netIncome": 3826000000.0,
+      "eps": 14.33,
+      "freeCashFlow": 3069000000.0,
+      "totalDebt": 37194000000.0,
+      "cash": 6897000000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.21566216100607408,
+      "operatingMargin": 0.06975575327230729,
+      "netMargin": 0.04091453503293695,
+      "roe": 0.15341433096756085,
+      "roic": 0.10498446880079829
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 90155000000.0,
+      "operatingIncome": 5338000000.0,
+      "netIncome": 3972000000.0,
+      "eps": 15.48,
+      "freeCashFlow": 2674000000.0,
+      "totalDebt": 38332000000.0,
+      "cash": 6856000000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.2125894293161777,
+      "operatingMargin": 0.059209139814763466,
+      "netMargin": 0.044057456602517885,
+      "roe": 0.15225390984360626,
+      "roic": 0.0828624650729587
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 87693000000.0,
+      "operatingIncome": 6298000000.0,
+      "netIncome": 4331000000.0,
+      "eps": 17.21,
+      "freeCashFlow": 3136000000.0,
+      "totalDebt": 37719000000.0,
+      "cash": 6501000000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.2161175920540978,
+      "operatingMargin": 0.07181873125563044,
+      "netMargin": 0.04938820658433398,
+      "roe": 0.15702269596113408,
+      "roic": 0.09644568995880615
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 87926000000.0,
+      "operatingIncome": 5994000000.0,
+      "netIncome": 4092000000.0,
+      "eps": 16.81,
+      "freeCashFlow": 2981000000.0,
+      "totalDebt": 37416000000.0,
+      "cash": 5502000000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.21603393762937015,
+      "operatingMargin": 0.06817096194527215,
+      "netMargin": 0.04653913518185747,
+      "roe": 0.14575764052147894,
+      "roic": 0.09152542372881356
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:24.818585+00:00"
+  }
+}

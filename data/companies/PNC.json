@@ -1,0 +1,111 @@
+{
+  "ticker": "PNC",
+  "name": "The PNC Financial Services Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 88793972736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 221.12,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23077000000.0,
+    "operatingIncome": null,
+    "netIncome": 6936000000.0,
+    "eps": 16.59,
+    "freeCashFlow": null,
+    "totalDebt": 57101000000.0,
+    "cash": 39713000000.0,
+    "sharesOutstanding": 543497966.0
+  },
+  "ratios": {
+    "roe": 0.11448378311463234,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.36725,
+    "netMargin": 0.30055899813667286,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21114000000.0,
+      "operatingIncome": null,
+      "netIncome": 6041000000.0,
+      "eps": 13.85,
+      "freeCashFlow": null,
+      "totalDebt": 58713000000.0,
+      "cash": 34363000000.0,
+      "sharesOutstanding": 543000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28611347920810837,
+      "roe": 0.1319744833311487,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21509000000.0,
+      "operatingIncome": null,
+      "netIncome": 5578000000.0,
+      "eps": 12.79,
+      "freeCashFlow": null,
+      "totalDebt": 72737000000.0,
+      "cash": 50725000000.0,
+      "sharesOutstanding": 543116271.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25933330233855595,
+      "roe": 0.1091478328930633,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20809000000.0,
+      "operatingIncome": null,
+      "netIncome": 5889000000.0,
+      "eps": 13.74,
+      "freeCashFlow": null,
+      "totalDebt": 61673000000.0,
+      "cash": 46251000000.0,
+      "sharesOutstanding": 543310646.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28300254697486665,
+      "roe": 0.10820395039044557,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23077000000.0,
+      "operatingIncome": null,
+      "netIncome": 6936000000.0,
+      "eps": 16.59,
+      "freeCashFlow": null,
+      "totalDebt": 57101000000.0,
+      "cash": 39713000000.0,
+      "sharesOutstanding": 543497966.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30055899813667286,
+      "roe": 0.11448378311463234,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:09.688037+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BLUEJET",
+  "name": "Blue Jet Healthcare Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "INR",
+  "marketCap": {
+    "value": 77946691584.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 449.35,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9473210000.0,
+    "operatingIncome": 2700970000.0,
+    "netIncome": 2478160000.0,
+    "eps": 14.29,
+    "freeCashFlow": 1146830000.0,
+    "totalDebt": 421840000.0,
+    "cash": 608570000.0,
+    "sharesOutstanding": 173465425.0
+  },
+  "ratios": {
+    "roe": 0.1822294383754243,
+    "roic": 0.19263802193287763,
+    "grossMargin": 0.5399500274985987,
+    "operatingMargin": 0.28511666056173146,
+    "netMargin": 0.26159664992119885,
+    "debtToEquity": 0.03102
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7205300000.0,
+      "operatingIncome": 1940140000.0,
+      "netIncome": 1600270000.0,
+      "eps": 9.225297,
+      "freeCashFlow": 822850000.0,
+      "totalDebt": 34400000.0,
+      "cash": 654380000.0,
+      "sharesOutstanding": 173465425.0,
+      "grossMargin": 0.5221656280793305,
+      "operatingMargin": 0.2692656794304193,
+      "netMargin": 0.22209623471611176,
+      "roe": 0.2348206712977229,
+      "roic": 0.2832627174322482
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7103160000.0,
+      "operatingIncome": 2025290000.0,
+      "netIncome": 1637510000.0,
+      "eps": 9.44,
+      "freeCashFlow": 669590000.0,
+      "totalDebt": 16130000.0,
+      "cash": 409540000.0,
+      "sharesOutstanding": 173465425.0,
+      "grossMargin": 0.5489289274069569,
+      "operatingMargin": 0.28512521187753054,
+      "netMargin": 0.230532608022345,
+      "roe": 0.19373703744455606,
+      "roic": 0.23915964838528359
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 10299850000.0,
+      "operatingIncome": 3599410000.0,
+      "netIncome": 3052030000.0,
+      "eps": 17.59,
+      "freeCashFlow": -341150000.0,
+      "totalDebt": 199860000.0,
+      "cash": 329790000.0,
+      "sharesOutstanding": 173465425.0,
+      "grossMargin": 0.5522061000888362,
+      "operatingMargin": 0.3494623708112254,
+      "netMargin": 0.29631790754234283,
+      "roe": 0.26934960476069864,
+      "roic": 0.31215153625410524
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 9473210000.0,
+      "operatingIncome": 2700970000.0,
+      "netIncome": 2478160000.0,
+      "eps": 14.29,
+      "freeCashFlow": 1146830000.0,
+      "totalDebt": 421840000.0,
+      "cash": 608570000.0,
+      "sharesOutstanding": 173465425.0,
+      "grossMargin": 0.5399500274985987,
+      "operatingMargin": 0.28511666056173146,
+      "netMargin": 0.26159664992119885,
+      "roe": 0.1822294383754243,
+      "roic": 0.19263802193287763
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:03.777422+00:00"
+  }
+}

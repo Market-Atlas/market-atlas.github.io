@@ -1,0 +1,128 @@
+{
+  "ticker": "EQIX",
+  "name": "Equinix, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 105334644736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1068.04,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9217000000.0,
+    "operatingIncome": 1966000000.0,
+    "netIncome": 1350000000.0,
+    "eps": 13.76,
+    "freeCashFlow": -400000000.0,
+    "totalDebt": 22726000000.0,
+    "cash": 1727000000.0,
+    "sharesOutstanding": 98288000.0
+  },
+  "ratios": {
+    "roe": 0.09536592257699915,
+    "roic": 0.053305135296350524,
+    "grossMargin": 0.5109037647824671,
+    "operatingMargin": 0.2133015080828903,
+    "netMargin": 0.1464684821525442,
+    "debtToEquity": 1.6296100000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7263000000.0,
+      "operatingIncome": 1226000000.0,
+      "netIncome": 705000000.0,
+      "eps": 7.67,
+      "freeCashFlow": 685000000.0,
+      "totalDebt": 16469554000.0,
+      "cash": 1906421000.0,
+      "sharesOutstanding": 92813976.0,
+      "grossMargin": 0.4835467437697921,
+      "operatingMargin": 0.1688007710312543,
+      "netMargin": 0.09706732755059892,
+      "roe": 0.06127256068721218,
+      "roic": 0.043824029008218614
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8188000000.0,
+      "operatingIncome": 1451000000.0,
+      "netIncome": 969000000.0,
+      "eps": 10.31,
+      "freeCashFlow": 436000000.0,
+      "totalDebt": 17454000000.0,
+      "cash": 2096000000.0,
+      "sharesOutstanding": 94629955.0,
+      "grossMargin": 0.4836345872007816,
+      "operatingMargin": 0.1772105520273571,
+      "netMargin": 0.11834391792867612,
+      "roe": 0.07758827768436224,
+      "roic": 0.048458738269378486
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8748000000.0,
+      "operatingIncome": 1624000000.0,
+      "netIncome": 815000000.0,
+      "eps": 8.5,
+      "freeCashFlow": 183000000.0,
+      "totalDebt": 18961000000.0,
+      "cash": 3081000000.0,
+      "sharesOutstanding": 97390000.0,
+      "grossMargin": 0.4893689986282579,
+      "operatingMargin": 0.18564243255601282,
+      "netMargin": 0.09316415180612711,
+      "roe": 0.06024541691306919,
+      "roic": 0.04998614915817661
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9217000000.0,
+      "operatingIncome": 1966000000.0,
+      "netIncome": 1350000000.0,
+      "eps": 13.76,
+      "freeCashFlow": -400000000.0,
+      "totalDebt": 22726000000.0,
+      "cash": 1727000000.0,
+      "sharesOutstanding": 98288000.0,
+      "grossMargin": 0.5109037647824671,
+      "operatingMargin": 0.2133015080828903,
+      "netMargin": 0.1464684821525442,
+      "roe": 0.09536592257699915,
+      "roic": 0.053305135296350524
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:18.802617+00:00"
+  }
+}

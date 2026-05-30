@@ -1,0 +1,111 @@
+{
+  "ticker": "INVH",
+  "name": "Invitation Homes Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17375727616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 29.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2729296000.0,
+    "operatingIncome": 752396000.0,
+    "netIncome": 587924000.0,
+    "eps": 0.96,
+    "freeCashFlow": 963478000.0,
+    "totalDebt": 8380020000.0,
+    "cash": 129971000.0,
+    "sharesOutstanding": 610788732.0
+  },
+  "ratios": {
+    "roe": 0.06169106576907854,
+    "roic": 0.04200947038305426,
+    "grossMargin": 0.5842455343795616,
+    "operatingMargin": 0.27567401996705376,
+    "netMargin": 0.21541232610900393,
+    "debtToEquity": 0.97038
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2238121000.0,
+      "operatingIncome": 651695000.0,
+      "netIncome": 383329000.0,
+      "eps": 0.63,
+      "freeCashFlow": 815517000.0,
+      "totalDebt": 7769077000.0,
+      "cash": 262870000.0,
+      "sharesOutstanding": 611411382.0,
+      "grossMargin": 0.609365624110582,
+      "operatingMargin": 0.29117952067828323,
+      "netMargin": 0.17127268811650487,
+      "roe": 0.03724771754742968,
+      "roic": 0.03608415729446809
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2432278000.0,
+      "operatingIncome": 699503000.0,
+      "netIncome": 519470000.0,
+      "eps": 0.85,
+      "freeCashFlow": 885986000.0,
+      "totalDebt": 8546052000.0,
+      "cash": 700618000.0,
+      "sharesOutstanding": 611958239.0,
+      "grossMargin": 0.5986708756153696,
+      "operatingMargin": 0.28759171443395865,
+      "netMargin": 0.21357344842982587,
+      "roe": 0.05114922049304788,
+      "roic": 0.03740253126626997
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2618942000.0,
+      "operatingIncome": 741241000.0,
+      "netIncome": 453917000.0,
+      "eps": 0.74,
+      "freeCashFlow": 862411000.0,
+      "totalDebt": 8202302000.0,
+      "cash": 174491000.0,
+      "sharesOutstanding": 612605478.0,
+      "grossMargin": 0.5903830630842531,
+      "operatingMargin": 0.2830307047655122,
+      "netMargin": 0.17332075318964682,
+      "roe": 0.04652331449238702,
+      "roic": 0.04127391702886999
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2729296000.0,
+      "operatingIncome": 752396000.0,
+      "netIncome": 587924000.0,
+      "eps": 0.96,
+      "freeCashFlow": 963478000.0,
+      "totalDebt": 8380020000.0,
+      "cash": 129971000.0,
+      "sharesOutstanding": 610788732.0,
+      "grossMargin": 0.5842455343795616,
+      "operatingMargin": 0.27567401996705376,
+      "netMargin": 0.21541232610900393,
+      "roe": 0.06169106576907854,
+      "roic": 0.04200947038305426
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:40.376304+00:00"
+  }
+}

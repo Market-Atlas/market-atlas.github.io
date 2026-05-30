@@ -1,0 +1,128 @@
+{
+  "ticker": "DGX",
+  "name": "Quest Diagnostics Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21574733824.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 194.9,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11035000000.0,
+    "operatingIncome": 1556000000.0,
+    "netIncome": 992000000.0,
+    "eps": 8.75,
+    "freeCashFlow": 1359000000.0,
+    "totalDebt": 6585000000.0,
+    "cash": 420000000.0,
+    "sharesOutstanding": 162242362.0
+  },
+  "ratios": {
+    "roe": 0.13835425383542538,
+    "roic": 0.11312250090876046,
+    "grossMargin": 0.3321250566379701,
+    "operatingMargin": 0.14100589034888988,
+    "netMargin": 0.08989578613502493,
+    "debtToEquity": 0.8273699999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9883000000.0,
+      "operatingIncome": 1428000000.0,
+      "netIncome": 946000000.0,
+      "eps": 7.97,
+      "freeCashFlow": 1314000000.0,
+      "totalDebt": 4714000000.0,
+      "cash": 315000000.0,
+      "sharesOutstanding": 162000000.0,
+      "grossMargin": 0.34736416067995546,
+      "operatingMargin": 0.14449053930992614,
+      "netMargin": 0.09571992310027319,
+      "roe": 0.16052944171050398,
+      "roic": 0.13462807579900066
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9252000000.0,
+      "operatingIncome": 1262000000.0,
+      "netIncome": 854000000.0,
+      "eps": 7.49,
+      "freeCashFlow": 864000000.0,
+      "totalDebt": 5498000000.0,
+      "cash": 686000000.0,
+      "sharesOutstanding": 162434997.0,
+      "grossMargin": 0.3299827064418504,
+      "operatingMargin": 0.13640293990488542,
+      "netMargin": 0.09230436662343278,
+      "roe": 0.13540510543840178,
+      "roic": 0.10690385429902584
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9872000000.0,
+      "operatingIncome": 1346000000.0,
+      "netIncome": 871000000.0,
+      "eps": 7.69,
+      "freeCashFlow": 909000000.0,
+      "totalDebt": 7087000000.0,
+      "cash": 549000000.0,
+      "sharesOutstanding": 161615181.0,
+      "grossMargin": 0.3286061588330632,
+      "operatingMargin": 0.1363452188006483,
+      "netMargin": 0.08822933549432739,
+      "roe": 0.1285039834759516,
+      "roic": 0.09707897583844212
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11035000000.0,
+      "operatingIncome": 1556000000.0,
+      "netIncome": 992000000.0,
+      "eps": 8.75,
+      "freeCashFlow": 1359000000.0,
+      "totalDebt": 6585000000.0,
+      "cash": 420000000.0,
+      "sharesOutstanding": 162242362.0,
+      "grossMargin": 0.3321250566379701,
+      "operatingMargin": 0.14100589034888988,
+      "netMargin": 0.08989578613502493,
+      "roe": 0.13835425383542538,
+      "roic": 0.11312250090876046
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:11.199428+00:00"
+  }
+}

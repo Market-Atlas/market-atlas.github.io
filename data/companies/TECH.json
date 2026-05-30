@@ -1,0 +1,111 @@
+{
+  "ticker": "TECH",
+  "name": "Bio-Techne Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8091472896.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 51.68,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1219635000.0,
+    "operatingIncome": 242804000.0,
+    "netIncome": 73400000.0,
+    "eps": 0.46,
+    "freeCashFlow": 256550000.0,
+    "totalDebt": 444058000.0,
+    "cash": 162186000.0,
+    "sharesOutstanding": 154972196.0
+  },
+  "ratios": {
+    "roe": 0.038252915351614125,
+    "roic": 0.10275826051921692,
+    "grossMargin": 0.6479577906504815,
+    "operatingMargin": 0.19907923272126496,
+    "netMargin": 0.06018193967867436,
+    "debtToEquity": 0.13922
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 1105599000.0,
+      "operatingIncome": 295828000.0,
+      "netIncome": 272051000.0,
+      "eps": 1.6575,
+      "freeCashFlow": 280364000.0,
+      "totalDebt": 325971000.0,
+      "cash": 172567000.0,
+      "sharesOutstanding": 156640000.0,
+      "grossMargin": 0.6842408504349226,
+      "operatingMargin": 0.2675726009158836,
+      "netMargin": 0.24606661185475023,
+      "roe": 0.15986355382924838,
+      "roic": 0.1458904268345908
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 1136702000.0,
+      "operatingIncome": 290998000.0,
+      "netIncome": 285263000.0,
+      "eps": 1.76,
+      "freeCashFlow": 216149000.0,
+      "totalDebt": 454965000.0,
+      "cash": 180571000.0,
+      "sharesOutstanding": 157641914.0,
+      "grossMargin": 0.6772355463437207,
+      "operatingMargin": 0.25600201284065655,
+      "netMargin": 0.2509567151285033,
+      "roe": 0.14506009612939838,
+      "roic": 0.12017356320367577
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 1159060000.0,
+      "operatingIncome": 246401000.0,
+      "netIncome": 168105000.0,
+      "eps": 1.05,
+      "freeCashFlow": 236104000.0,
+      "totalDebt": 419538000.0,
+      "cash": 151791000.0,
+      "sharesOutstanding": 158216258.0,
+      "grossMargin": 0.6640941797663624,
+      "operatingMargin": 0.21258692388659775,
+      "netMargin": 0.1450356323227443,
+      "roe": 0.0812552867535104,
+      "roic": 0.09902032962705173
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 1219635000.0,
+      "operatingIncome": 242804000.0,
+      "netIncome": 73400000.0,
+      "eps": 0.46,
+      "freeCashFlow": 256550000.0,
+      "totalDebt": 444058000.0,
+      "cash": 162186000.0,
+      "sharesOutstanding": 154972196.0,
+      "grossMargin": 0.6479577906504815,
+      "operatingMargin": 0.19907923272126496,
+      "netMargin": 0.06018193967867436,
+      "roe": 0.038252915351614125,
+      "roic": 0.10275826051921692
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:25.673109+00:00"
+  }
+}

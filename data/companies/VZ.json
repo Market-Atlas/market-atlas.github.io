@@ -1,0 +1,111 @@
+{
+  "ticker": "VZ",
+  "name": "Verizon Communications Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 199633469440.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 138191000000.0,
+    "operatingIncome": 29259000000.0,
+    "netIncome": 17174000000.0,
+    "eps": 4.06,
+    "freeCashFlow": 19676000000.0,
+    "totalDebt": 181643000000.0,
+    "cash": 19048000000.0,
+    "sharesOutstanding": 4291433646.0
+  },
+  "ratios": {
+    "roe": 0.16440742868083477,
+    "roic": 0.10226736524957795,
+    "grossMargin": 0.5892279526163064,
+    "operatingMargin": 0.2117286943433364,
+    "netMargin": 0.12427726841834852,
+    "debtToEquity": 1.9204499999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 136835000000.0,
+      "operatingIncome": 30467000000.0,
+      "netIncome": 21256000000.0,
+      "eps": 5.06,
+      "freeCashFlow": 10401000000.0,
+      "totalDebt": 176331000000.0,
+      "cash": 2605000000.0,
+      "sharesOutstanding": 4291433646.0,
+      "grossMargin": 0.5678517923046005,
+      "operatingMargin": 0.2226550224723207,
+      "netMargin": 0.1553403734424672,
+      "roe": 0.23321337663477573,
+      "roic": 0.11390597252079633
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 133974000000.0,
+      "operatingIncome": 28718000000.0,
+      "netIncome": 11614000000.0,
+      "eps": 2.75,
+      "freeCashFlow": 12912000000.0,
+      "totalDebt": 174942000000.0,
+      "cash": 2065000000.0,
+      "sharesOutstanding": 4291433646.0,
+      "grossMargin": 0.5903160314687924,
+      "operatingMargin": 0.2143550241091555,
+      "netMargin": 0.0866884619403765,
+      "roe": 0.1256518446391864,
+      "roic": 0.10740840476938497
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 134788000000.0,
+      "operatingIncome": 28686000000.0,
+      "netIncome": 17506000000.0,
+      "eps": 4.14,
+      "freeCashFlow": 18922000000.0,
+      "totalDebt": 168357000000.0,
+      "cash": 4194000000.0,
+      "sharesOutstanding": 4291433646.0,
+      "grossMargin": 0.5986512152417129,
+      "operatingMargin": 0.21282309997922663,
+      "netMargin": 0.12987803068522422,
+      "roe": 0.17640597760915788,
+      "roic": 0.10719971299804928
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 138191000000.0,
+      "operatingIncome": 29259000000.0,
+      "netIncome": 17174000000.0,
+      "eps": 4.06,
+      "freeCashFlow": 19676000000.0,
+      "totalDebt": 181643000000.0,
+      "cash": 19048000000.0,
+      "sharesOutstanding": 4291433646.0,
+      "grossMargin": 0.5892279526163064,
+      "operatingMargin": 0.2117286943433364,
+      "netMargin": 0.12427726841834852,
+      "roe": 0.16440742868083477,
+      "roic": 0.10226736524957795
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.375745+00:00"
+  }
+}

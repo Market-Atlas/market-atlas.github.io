@@ -1,0 +1,128 @@
+{
+  "ticker": "GNRC",
+  "name": "Generac Holdings Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16360195072.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 277.91,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4209147000.0,
+    "operatingIncome": 289191000.0,
+    "netIncome": 159554000.0,
+    "eps": 2.69,
+    "freeCashFlow": 268128000.0,
+    "totalDebt": 1498263000.0,
+    "cash": 341413000.0,
+    "sharesOutstanding": 74050753.0
+  },
+  "ratios": {
+    "roe": 0.060611102627162364,
+    "roic": 0.07001042200022514,
+    "grossMargin": 0.3829129750041992,
+    "operatingMargin": 0.06870536952023772,
+    "netMargin": 0.03790649269317513,
+    "debtToEquity": 0.52086
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4564737000.0,
+      "operatingIncome": 566330000.0,
+      "netIncome": 350267000.0,
+      "eps": 5.42,
+      "freeCashFlow": -27672000.0,
+      "totalDebt": 1599998000.0,
+      "cash": 132723000.0,
+      "sharesOutstanding": 72701257.0,
+      "grossMargin": 0.3334264383687384,
+      "operatingMargin": 0.12406629341405649,
+      "netMargin": 0.0767332269088011,
+      "roe": 0.15516521136662353,
+      "roic": 0.1468173078144512
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4022667000.0,
+      "operatingIncome": 386199000.0,
+      "netIncome": 203089000.0,
+      "eps": 3.27,
+      "freeCashFlow": 392610000.0,
+      "totalDebt": 1733566000.0,
+      "cash": 200994000.0,
+      "sharesOutstanding": 73195055.0,
+      "grossMargin": 0.3394342609020334,
+      "operatingMargin": 0.09600570964486993,
+      "netMargin": 0.050486157566609416,
+      "roe": 0.08678082531282956,
+      "roic": 0.09480025862716498
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4295834000.0,
+      "operatingIncome": 536742000.0,
+      "netIncome": 325256000.0,
+      "eps": 5.39,
+      "freeCashFlow": 604568000.0,
+      "totalDebt": 1475737000.0,
+      "cash": 281277000.0,
+      "sharesOutstanding": 73785631.0,
+      "grossMargin": 0.3877305314870174,
+      "operatingMargin": 0.12494477207452616,
+      "netMargin": 0.07571428504918952,
+      "roe": 0.1304008614917824,
+      "roic": 0.13519898539426173
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4209147000.0,
+      "operatingIncome": 289191000.0,
+      "netIncome": 159554000.0,
+      "eps": 2.69,
+      "freeCashFlow": 268128000.0,
+      "totalDebt": 1498263000.0,
+      "cash": 341413000.0,
+      "sharesOutstanding": 74050753.0,
+      "grossMargin": 0.3829129750041992,
+      "operatingMargin": 0.06870536952023772,
+      "netMargin": 0.03790649269317513,
+      "roe": 0.060611102627162364,
+      "roic": 0.07001042200022514
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:31.449553+00:00"
+  }
+}

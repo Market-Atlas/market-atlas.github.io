@@ -1,0 +1,128 @@
+{
+  "ticker": "DEVYANI",
+  "name": "Devyani International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "INR",
+  "marketCap": {
+    "value": 142231928832.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 115.36,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 56114790000.0,
+    "operatingIncome": 2014250000.0,
+    "netIncome": -386310000.0,
+    "eps": -0.31,
+    "freeCashFlow": 4602490000.0,
+    "totalDebt": 38331460000.0,
+    "cash": 4912500000.0,
+    "sharesOutstanding": 1232939791.0
+  },
+  "ratios": {
+    "roe": -0.02505542144294218,
+    "roic": 0.03747464170949483,
+    "grossMargin": 0.536400118400158,
+    "operatingMargin": 0.035895171308669246,
+    "netMargin": -0.006884281309793728,
+    "debtToEquity": 2.03327
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 29728030000.0,
+      "operatingIncome": 3657070000.0,
+      "netIncome": 2649970000.0,
+      "eps": 2.19,
+      "freeCashFlow": 1996900000.0,
+      "totalDebt": 15648140000.0,
+      "cash": 625860000.0,
+      "sharesOutstanding": 1204961378.0,
+      "grossMargin": 0.5207284169183091,
+      "operatingMargin": 0.12301756961359364,
+      "netMargin": 0.08914045094814557,
+      "roe": 0.27309537010509655,
+      "roic": 0.14425401158112308
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 35316770000.0,
+      "operatingIncome": 2567100000.0,
+      "netIncome": 472630000.0,
+      "eps": 0.39,
+      "freeCashFlow": 1140130000.0,
+      "totalDebt": 29056810000.0,
+      "cash": 1676420000.0,
+      "sharesOutstanding": 1205858878.0,
+      "grossMargin": 0.49825168043396945,
+      "operatingMargin": 0.07268784772786413,
+      "netMargin": 0.013382594161357338,
+      "roe": 0.044766675854334734,
+      "roic": 0.06480212770898693
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 49510520000.0,
+      "operatingIncome": 2723230000.0,
+      "netIncome": 91490000.0,
+      "eps": 0.08,
+      "freeCashFlow": 4092700000.0,
+      "totalDebt": 31876000000.0,
+      "cash": 1813720000.0,
+      "sharesOutstanding": 1206266378.0,
+      "grossMargin": 0.5457038221371943,
+      "operatingMargin": 0.05500305793596997,
+      "netMargin": 0.0018478901049716302,
+      "roe": 0.008359786039184726,
+      "roic": 0.06359706175096438
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 56114790000.0,
+      "operatingIncome": 2014250000.0,
+      "netIncome": -386310000.0,
+      "eps": -0.31,
+      "freeCashFlow": 4602490000.0,
+      "totalDebt": 38331460000.0,
+      "cash": 4912500000.0,
+      "sharesOutstanding": 1232939791.0,
+      "grossMargin": 0.536400118400158,
+      "operatingMargin": 0.035895171308669246,
+      "netMargin": -0.006884281309793728,
+      "roe": -0.02505542144294218,
+      "roic": 0.03747464170949483
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:32.826030+00:00"
+  }
+}

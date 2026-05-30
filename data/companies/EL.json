@@ -1,0 +1,111 @@
+{
+  "ticker": "EL",
+  "name": "The Estée Lauder Companies Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32181655552.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 88.95,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14326000000.0,
+    "operatingIncome": 1141000000.0,
+    "netIncome": -1133000000.0,
+    "eps": -3.15,
+    "freeCashFlow": 670000000.0,
+    "totalDebt": 9467000000.0,
+    "cash": 2921000000.0,
+    "sharesOutstanding": 598083592.0
+  },
+  "ratios": {
+    "roe": -0.293143596377749,
+    "roic": 0.08558355835583559,
+    "grossMargin": 0.7397040346223649,
+    "operatingMargin": 0.07964539997207874,
+    "netMargin": -0.07908697473125785,
+    "debtToEquity": 2.32908
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 17737000000.0,
+      "operatingIncome": 3544000000.0,
+      "netIncome": 2390000000.0,
+      "eps": 6.55,
+      "freeCashFlow": 2000000000.0,
+      "totalDebt": 7645000000.0,
+      "cash": 3957000000.0,
+      "sharesOutstanding": 593491380.0,
+      "grossMargin": 0.757287027118453,
+      "operatingMargin": 0.19980831031177765,
+      "netMargin": 0.13474657495630601,
+      "roe": 0.4275491949910555,
+      "roic": 0.2677748394408765
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 15910000000.0,
+      "operatingIncome": 1771000000.0,
+      "netIncome": 1006000000.0,
+      "eps": 2.79,
+      "freeCashFlow": -1558000000.0,
+      "totalDebt": 10169000000.0,
+      "cash": 4029000000.0,
+      "sharesOutstanding": 595210114.0,
+      "grossMargin": 0.7131363922061597,
+      "operatingMargin": 0.11131363922061596,
+      "netMargin": 0.06323067253299812,
+      "roe": 0.1801253357206804,
+      "roic": 0.11241589437603149
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 15608000000.0,
+      "operatingIncome": 1563000000.0,
+      "netIncome": 390000000.0,
+      "eps": 1.08,
+      "freeCashFlow": 1441000000.0,
+      "totalDebt": 9826000000.0,
+      "cash": 3395000000.0,
+      "sharesOutstanding": 596560598.0,
+      "grossMargin": 0.716555612506407,
+      "operatingMargin": 0.10014095335725269,
+      "netMargin": 0.024987186058431574,
+      "roe": 0.07339104252916824,
+      "roic": 0.10323645970937913
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 14326000000.0,
+      "operatingIncome": 1141000000.0,
+      "netIncome": -1133000000.0,
+      "eps": -3.15,
+      "freeCashFlow": 670000000.0,
+      "totalDebt": 9467000000.0,
+      "cash": 2921000000.0,
+      "sharesOutstanding": 598083592.0,
+      "grossMargin": 0.7397040346223649,
+      "operatingMargin": 0.07964539997207874,
+      "netMargin": -0.07908697473125785,
+      "roe": -0.293143596377749,
+      "roic": 0.08558355835583559
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:17.753531+00:00"
+  }
+}

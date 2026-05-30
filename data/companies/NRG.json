@@ -1,0 +1,128 @@
+{
+  "ticker": "NRG",
+  "name": "NRG Energy, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28289064960.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 134.08,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30713000000.0,
+    "operatingIncome": 1944000000.0,
+    "netIncome": 864000000.0,
+    "eps": 4.01,
+    "freeCashFlow": 765000000.0,
+    "totalDebt": 16622000000.0,
+    "cash": 4708000000.0,
+    "sharesOutstanding": 199828615.0
+  },
+  "ratios": {
+    "roe": 0.5139797739440809,
+    "roic": 0.106212096377643,
+    "grossMargin": 0.19379415882525314,
+    "operatingMargin": 0.06329567284211897,
+    "netMargin": 0.028131410152052876,
+    "debtToEquity": 4.79237
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 31543000000.0,
+      "operatingIncome": 2224000000.0,
+      "netIncome": 1221000000.0,
+      "eps": 5.17,
+      "freeCashFlow": -13000000.0,
+      "totalDebt": 8302000000.0,
+      "cash": 430000000.0,
+      "sharesOutstanding": 423897001.0,
+      "grossMargin": 0.12998129537456804,
+      "operatingMargin": 0.07050692705196082,
+      "netMargin": 0.03870906381764575,
+      "roe": 0.31896551724137934,
+      "roic": 0.18334707337180545
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 28823000000.0,
+      "operatingIncome": -1049000000.0,
+      "netIncome": -202000000.0,
+      "eps": -1.12,
+      "freeCashFlow": -843000000.0,
+      "totalDebt": 10971000000.0,
+      "cash": 541000000.0,
+      "sharesOutstanding": 267330470.0,
+      "grossMargin": 0.08118516462547272,
+      "operatingMargin": -0.03639454602227388,
+      "netMargin": -0.007008291989036533,
+      "roe": -0.06951135581555402,
+      "roic": -0.07559270735749801
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 28130000000.0,
+      "operatingIncome": 2282000000.0,
+      "netIncome": 1125000000.0,
+      "eps": 4.99,
+      "freeCashFlow": 1816000000.0,
+      "totalDebt": 10991000000.0,
+      "cash": 966000000.0,
+      "sharesOutstanding": 205064058.0,
+      "grossMargin": 0.2143618912193388,
+      "operatingMargin": 0.08112335584784927,
+      "netMargin": 0.03999289015286171,
+      "roe": 0.4539951573849879,
+      "roic": 0.16942608953894128
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 30713000000.0,
+      "operatingIncome": 1944000000.0,
+      "netIncome": 864000000.0,
+      "eps": 4.01,
+      "freeCashFlow": 765000000.0,
+      "totalDebt": 16622000000.0,
+      "cash": 4708000000.0,
+      "sharesOutstanding": 199828615.0,
+      "grossMargin": 0.19379415882525314,
+      "operatingMargin": 0.06329567284211897,
+      "netMargin": 0.028131410152052876,
+      "roe": 0.5139797739440809,
+      "roic": 0.106212096377643
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:00.890989+00:00"
+  }
+}

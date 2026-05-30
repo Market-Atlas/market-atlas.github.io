@@ -1,0 +1,128 @@
+{
+  "ticker": "EVRG",
+  "name": "Evergy, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18911289344.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82.04,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5961600000.0,
+    "operatingIncome": 1532900000.0,
+    "netIncome": 855600000.0,
+    "eps": 3.66,
+    "freeCashFlow": -751700000.0,
+    "totalDebt": 15202200000.0,
+    "cash": 19800000.0,
+    "sharesOutstanding": 230262674.0
+  },
+  "ratios": {
+    "roe": 0.08370755187696281,
+    "roic": 0.06029460931815053,
+    "grossMargin": 0.522661701556629,
+    "operatingMargin": 0.25712895866881375,
+    "netMargin": 0.14351851851851852,
+    "debtToEquity": 1.55555
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5859100000.0,
+      "operatingIncome": 1302100000.0,
+      "netIncome": 752700000.0,
+      "eps": 3.27,
+      "freeCashFlow": -364600000.0,
+      "totalDebt": 12036100000.0,
+      "cash": 25200000.0,
+      "sharesOutstanding": 229546105.0,
+      "grossMargin": 0.4488061306343978,
+      "operatingMargin": 0.22223549691932207,
+      "netMargin": 0.1284668293765254,
+      "roe": 0.07936775730991069,
+      "roic": 0.06050706790955306
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5508200000.0,
+      "operatingIncome": 1282400000.0,
+      "netIncome": 731300000.0,
+      "eps": 3.17,
+      "freeCashFlow": -353800000.0,
+      "totalDebt": 13147100000.0,
+      "cash": 27700000.0,
+      "sharesOutstanding": 229729296.0,
+      "grossMargin": 0.5020696416252133,
+      "operatingMargin": 0.23281652808539996,
+      "netMargin": 0.13276569478232453,
+      "roe": 0.07567964731814843,
+      "roic": 0.05622046277542503
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5847300000.0,
+      "operatingIncome": 1468000000.0,
+      "netIncome": 873500000.0,
+      "eps": 3.79,
+      "freeCashFlow": -352900000.0,
+      "totalDebt": 14069500000.0,
+      "cash": 22000000.0,
+      "sharesOutstanding": 229983615.0,
+      "grossMargin": 0.5189745694594086,
+      "operatingMargin": 0.2510560429599986,
+      "netMargin": 0.14938518632531253,
+      "roe": 0.08774485183324962,
+      "roic": 0.06110428937126683
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5961600000.0,
+      "operatingIncome": 1532900000.0,
+      "netIncome": 855600000.0,
+      "eps": 3.66,
+      "freeCashFlow": -751700000.0,
+      "totalDebt": 15202200000.0,
+      "cash": 19800000.0,
+      "sharesOutstanding": 230262674.0,
+      "grossMargin": 0.522661701556629,
+      "operatingMargin": 0.25712895866881375,
+      "netMargin": 0.14351851851851852,
+      "roe": 0.08370755187696281,
+      "roic": 0.06029460931815053
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:21.237154+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ABBV",
+  "name": "AbbVie Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 384666140672.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 217.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 61160000000.0,
+    "operatingIncome": 20091000000.0,
+    "netIncome": 4226000000.0,
+    "eps": 2.37,
+    "freeCashFlow": 17816000000.0,
+    "totalDebt": 67496000000.0,
+    "cash": 5229000000.0,
+    "sharesOutstanding": 1838678628.0
+  },
+  "ratios": {
+    "roe": -1.2923547400611621,
+    "roic": 0.3128172391243422,
+    "grossMargin": 0.7023544800523218,
+    "operatingMargin": 0.32849901896664485,
+    "netMargin": 0.06909744931327665,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 58054000000.0,
+      "operatingIncome": 18814000000.0,
+      "netIncome": 11836000000.0,
+      "eps": 6.63,
+      "freeCashFlow": 24248000000.0,
+      "totalDebt": 63271000000.0,
+      "cash": 9201000000.0,
+      "sharesOutstanding": 1813770294.0,
+      "grossMargin": 0.7000378957522306,
+      "operatingMargin": 0.32407758294002137,
+      "netMargin": 0.20387914700106796,
+      "roe": 0.6859858583516866,
+      "roic": 0.23364172617199627
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 54318000000.0,
+      "operatingIncome": 13535000000.0,
+      "netIncome": 4863000000.0,
+      "eps": 2.72,
+      "freeCashFlow": 22062000000.0,
+      "totalDebt": 59385000000.0,
+      "cash": 12814000000.0,
+      "sharesOutstanding": 1823046087.0,
+      "grossMargin": 0.6241577377664862,
+      "operatingMargin": 0.24918075039581722,
+      "netMargin": 0.0895283331492323,
+      "roe": 0.4694015444015444,
+      "roic": 0.19406409061581475
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 56334000000.0,
+      "operatingIncome": 11894000000.0,
+      "netIncome": 4278000000.0,
+      "eps": 2.39,
+      "freeCashFlow": 17832000000.0,
+      "totalDebt": 67144000000.0,
+      "cash": 5524000000.0,
+      "sharesOutstanding": 1831594494.0,
+      "grossMargin": 0.6999325451769801,
+      "operatingMargin": 0.21113359605211773,
+      "netMargin": 0.0759399297049739,
+      "roe": 1.2866165413533834,
+      "roic": 0.16878343668847295
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 61160000000.0,
+      "operatingIncome": 20091000000.0,
+      "netIncome": 4226000000.0,
+      "eps": 2.37,
+      "freeCashFlow": 17816000000.0,
+      "totalDebt": 67496000000.0,
+      "cash": 5229000000.0,
+      "sharesOutstanding": 1838678628.0,
+      "grossMargin": 0.7023544800523218,
+      "operatingMargin": 0.32849901896664485,
+      "netMargin": 0.06909744931327665,
+      "roe": -1.2923547400611621,
+      "roic": 0.3128172391243422
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.857497+00:00"
+  }
+}

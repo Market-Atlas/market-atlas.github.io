@@ -1,0 +1,128 @@
+{
+  "ticker": "BMY",
+  "name": "Bristol-Myers Squibb Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 116765638656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 57.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 48195000000.0,
+    "operatingIncome": 13724000000.0,
+    "netIncome": 7054000000.0,
+    "eps": 3.46,
+    "freeCashFlow": 12845000000.0,
+    "totalDebt": 47139000000.0,
+    "cash": 10209000000.0,
+    "sharesOutstanding": 2922753027.0
+  },
+  "ratios": {
+    "roe": 0.38185459860336707,
+    "roic": 0.20916905444126074,
+    "grossMargin": 0.7108413735864716,
+    "operatingMargin": 0.2847598298578691,
+    "netMargin": 0.14636373067745617,
+    "debtToEquity": 2.30967
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 46159000000.0,
+      "operatingIncome": 9104000000.0,
+      "netIncome": 6327000000.0,
+      "eps": 2.95,
+      "freeCashFlow": 11948000000.0,
+      "totalDebt": 40717000000.0,
+      "cash": 9123000000.0,
+      "sharesOutstanding": 2900000000.0,
+      "grossMargin": 0.7803895231699127,
+      "operatingMargin": 0.19723130917047596,
+      "netMargin": 0.13706969388418294,
+      "roe": 0.20369595312449695,
+      "roic": 0.12683552063306305
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 45006000000.0,
+      "operatingIncome": 8195000000.0,
+      "netIncome": 8025000000.0,
+      "eps": 3.86,
+      "freeCashFlow": 12651000000.0,
+      "totalDebt": 41464000000.0,
+      "cash": 11464000000.0,
+      "sharesOutstanding": 2923000000.0,
+      "grossMargin": 0.7624094565169088,
+      "operatingMargin": 0.1820868328667289,
+      "netMargin": 0.17830955872550328,
+      "roe": 0.2726809378185525,
+      "roic": 0.11559511383191808
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 48300000000.0,
+      "operatingIncome": 5887000000.0,
+      "netIncome": -8948000000.0,
+      "eps": -4.41,
+      "freeCashFlow": 13942000000.0,
+      "totalDebt": 51200000000.0,
+      "cash": 10346000000.0,
+      "sharesOutstanding": 2923000000.0,
+      "grossMargin": 0.710807453416149,
+      "operatingMargin": 0.1218840579710145,
+      "netMargin": -0.18525879917184265,
+      "roe": -0.5477808386899296,
+      "roic": 0.08716961575479382
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 48195000000.0,
+      "operatingIncome": 13724000000.0,
+      "netIncome": 7054000000.0,
+      "eps": 3.46,
+      "freeCashFlow": 12845000000.0,
+      "totalDebt": 47139000000.0,
+      "cash": 10209000000.0,
+      "sharesOutstanding": 2922753027.0,
+      "grossMargin": 0.7108413735864716,
+      "operatingMargin": 0.2847598298578691,
+      "netMargin": 0.14636373067745617,
+      "roe": 0.38185459860336707,
+      "roic": 0.20916905444126074
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:53.213205+00:00"
+  }
+}

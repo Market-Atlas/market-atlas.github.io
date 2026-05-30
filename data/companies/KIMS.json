@@ -1,0 +1,128 @@
+{
+  "ticker": "KIMS",
+  "name": "Krishna Institute of Medical Sciences Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 303645425664.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 758.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 39046000000.0,
+    "operatingIncome": 5188000000.0,
+    "netIncome": 2414000000.0,
+    "eps": null,
+    "freeCashFlow": -9171000000.0,
+    "totalDebt": 42529000000.0,
+    "cash": 554000000.0,
+    "sharesOutstanding": 400138935.0
+  },
+  "ratios": {
+    "roe": 0.10741301059001512,
+    "roic": 0.07981170099841546,
+    "grossMargin": 0.6182451467499872,
+    "operatingMargin": 0.13286892383342724,
+    "netMargin": 0.06182451467499872,
+    "debtToEquity": 1.66226
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 8.376,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 21676640000.0,
+      "operatingIncome": 4894740000.0,
+      "netIncome": 3363220000.0,
+      "eps": 8.406,
+      "freeCashFlow": -1424380000.0,
+      "totalDebt": 6781740000.0,
+      "cash": 616110000.0,
+      "sharesOutstanding": 400138935.0,
+      "grossMargin": 0.6184450173089556,
+      "operatingMargin": 0.2258071361613239,
+      "netMargin": 0.155154119826689,
+      "roe": 0.20144614857523457,
+      "roic": 0.2084897977264673
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 24740000000.0,
+      "operatingIncome": 5025000000.0,
+      "netIncome": 3100000000.0,
+      "eps": 7.75,
+      "freeCashFlow": -1261000000.0,
+      "totalDebt": 13555000000.0,
+      "cash": 469000000.0,
+      "sharesOutstanding": 400138935.0,
+      "grossMargin": 0.614874696847211,
+      "operatingMargin": 0.20311236863379142,
+      "netMargin": 0.12530315278900567,
+      "roe": 0.169565693031397,
+      "roic": 0.15783522316801207
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 30350000000.0,
+      "operatingIncome": 6056000000.0,
+      "netIncome": 3845000000.0,
+      "eps": 9.61,
+      "freeCashFlow": -4271000000.0,
+      "totalDebt": 25567000000.0,
+      "cash": 560000000.0,
+      "sharesOutstanding": 400138935.0,
+      "grossMargin": 0.6288632619439868,
+      "operatingMargin": 0.19953871499176276,
+      "netMargin": 0.12668863261943986,
+      "roe": 0.17985779773599028,
+      "roic": 0.1290020236446906
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 39046000000.0,
+      "operatingIncome": 5188000000.0,
+      "netIncome": 2414000000.0,
+      "eps": null,
+      "freeCashFlow": -9171000000.0,
+      "totalDebt": 42529000000.0,
+      "cash": 554000000.0,
+      "sharesOutstanding": 400138935.0,
+      "grossMargin": 0.6182451467499872,
+      "operatingMargin": 0.13286892383342724,
+      "netMargin": 0.06182451467499872,
+      "roe": 0.10741301059001512,
+      "roic": 0.07981170099841546
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:15.448367+00:00"
+  }
+}

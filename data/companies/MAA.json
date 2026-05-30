@@ -1,0 +1,111 @@
+{
+  "ticker": "MAA",
+  "name": "Mid-America Apartment Communities, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15401490432.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 129.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2209126000.0,
+    "operatingIncome": 619438000.0,
+    "netIncome": 446909000.0,
+    "eps": 3.78,
+    "freeCashFlow": 717937000.0,
+    "totalDebt": 5429651000.0,
+    "cash": 60258000.0,
+    "sharesOutstanding": 116878077.0
+  },
+  "ratios": {
+    "roe": 0.07863612617632894,
+    "roic": 0.05574042572490503,
+    "grossMargin": 0.3052089378333332,
+    "operatingMargin": 0.2803995788379658,
+    "netMargin": 0.20230127208678908,
+    "debtToEquity": 0.9982500000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2019866000.0,
+      "operatingIncome": 628878000.0,
+      "netIncome": 637436000.0,
+      "eps": 5.48,
+      "freeCashFlow": 762303000.0,
+      "totalDebt": 4443574000.0,
+      "cash": 38659000.0,
+      "sharesOutstanding": 115480336.0,
+      "grossMargin": 0.3404735759698911,
+      "operatingMargin": 0.3113463962460876,
+      "netMargin": 0.315583310972114,
+      "roe": 0.10578516236956002,
+      "roic": 0.060068577428134394
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2148468000.0,
+      "operatingIncome": 688902000.0,
+      "netIncome": 552806000.0,
+      "eps": 4.71,
+      "freeCashFlow": 795963000.0,
+      "totalDebt": 4567569000.0,
+      "cash": 41314000.0,
+      "sharesOutstanding": 116694124.0,
+      "grossMargin": 0.3479130245365535,
+      "operatingMargin": 0.32064801523690367,
+      "netMargin": 0.2573024126959303,
+      "roe": 0.09042769151143797,
+      "roic": 0.06449905891942434
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2191015000.0,
+      "operatingIncome": 656751000.0,
+      "netIncome": 527543000.0,
+      "eps": 4.49,
+      "freeCashFlow": 775920000.0,
+      "totalDebt": 5007048000.0,
+      "cash": 43018000.0,
+      "sharesOutstanding": 116883421.0,
+      "grossMargin": 0.3255418150948305,
+      "operatingMargin": 0.2997473773570697,
+      "netMargin": 0.24077562225726432,
+      "roe": 0.08844920688067004,
+      "roic": 0.059860223969409945
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2209126000.0,
+      "operatingIncome": 619438000.0,
+      "netIncome": 446909000.0,
+      "eps": 3.78,
+      "freeCashFlow": 717937000.0,
+      "totalDebt": 5429651000.0,
+      "cash": 60258000.0,
+      "sharesOutstanding": 116878077.0,
+      "grossMargin": 0.3052089378333332,
+      "operatingMargin": 0.2803995788379658,
+      "netMargin": 0.20230127208678908,
+      "roe": 0.07863612617632894,
+      "roic": 0.05574042572490503
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:51.815139+00:00"
+  }
+}

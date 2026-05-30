@@ -1,0 +1,128 @@
+{
+  "ticker": "KDP",
+  "name": "Keurig Dr Pepper Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40857604096.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 30.03,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16603000000.0,
+    "operatingIncome": 3653000000.0,
+    "netIncome": 2079000000.0,
+    "eps": 1.53,
+    "freeCashFlow": 1488000000.0,
+    "totalDebt": 16141000000.0,
+    "cash": 1026000000.0,
+    "sharesOutstanding": 1358663795.0
+  },
+  "ratios": {
+    "roe": 0.0814782881329362,
+    "roic": 0.08769234462395276,
+    "grossMargin": 0.5420104800337289,
+    "operatingMargin": 0.22002047822682647,
+    "netMargin": 0.1252183340360176,
+    "debtToEquity": 0.85985
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14057000000.0,
+      "operatingIncome": 2783000000.0,
+      "netIncome": 1436000000.0,
+      "eps": 1.01,
+      "freeCashFlow": 2458000000.0,
+      "totalDebt": 13583000000.0,
+      "cash": 535000000.0,
+      "sharesOutstanding": 1408394293.0,
+      "grossMargin": 0.5209504161627658,
+      "operatingMargin": 0.19797965426477912,
+      "netMargin": 0.10215550971046454,
+      "roe": 0.057151954151078564,
+      "roic": 0.0718954248366013
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14814000000.0,
+      "operatingIncome": 3194000000.0,
+      "netIncome": 2181000000.0,
+      "eps": 1.55,
+      "freeCashFlow": 848000000.0,
+      "totalDebt": 14824000000.0,
+      "cash": 267000000.0,
+      "sharesOutstanding": 1390446043.0,
+      "grossMargin": 0.5454299986499257,
+      "operatingMargin": 0.21560685837721075,
+      "netMargin": 0.14722559740785743,
+      "roe": 0.08494313756036766,
+      "roic": 0.0788641975308642
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15351000000.0,
+      "operatingIncome": 3309000000.0,
+      "netIncome": 1441000000.0,
+      "eps": 1.05,
+      "freeCashFlow": 1597000000.0,
+      "totalDebt": 15554000000.0,
+      "cash": 510000000.0,
+      "sharesOutstanding": 1356664609.0,
+      "grossMargin": 0.5555989837795583,
+      "operatingMargin": 0.2155559898377956,
+      "netMargin": 0.09387010618200768,
+      "roe": 0.05943983830384028,
+      "roic": 0.0831469708772018
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16603000000.0,
+      "operatingIncome": 3653000000.0,
+      "netIncome": 2079000000.0,
+      "eps": 1.53,
+      "freeCashFlow": 1488000000.0,
+      "totalDebt": 16141000000.0,
+      "cash": 1026000000.0,
+      "sharesOutstanding": 1358663795.0,
+      "grossMargin": 0.5420104800337289,
+      "operatingMargin": 0.22002047822682647,
+      "netMargin": 0.1252183340360176,
+      "roe": 0.0814782881329362,
+      "roic": 0.08769234462395276
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:44.802187+00:00"
+  }
+}

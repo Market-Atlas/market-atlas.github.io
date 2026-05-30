@@ -1,0 +1,128 @@
+{
+  "ticker": "SWK",
+  "name": "Stanley Black & Decker, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12346280960.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 79.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15130400000.0,
+    "operatingIncome": 1255400000.0,
+    "netIncome": 401900000.0,
+    "eps": 2.65,
+    "freeCashFlow": 687900000.0,
+    "totalDebt": 5996800000.0,
+    "cash": 280100000.0,
+    "sharesOutstanding": 176902738.0
+  },
+  "ratios": {
+    "roe": 0.04438627879751728,
+    "roic": 0.08340752355262633,
+    "grossMargin": 0.30325040977105694,
+    "operatingMargin": 0.08297202982075821,
+    "netMargin": 0.026562417384867552,
+    "debtToEquity": 0.77606
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16947400000.0,
+      "operatingIncome": 914100000.0,
+      "netIncome": 1062500000.0,
+      "eps": 6.76,
+      "freeCashFlow": -1989900000.0,
+      "totalDebt": 7571100000.0,
+      "cash": 395600000.0,
+      "sharesOutstanding": 176902738.0,
+      "grossMargin": 0.2527880382831585,
+      "operatingMargin": 0.053937477135135775,
+      "netMargin": 0.06269398255779647,
+      "roe": 0.10939961491335551,
+      "roic": 0.052889511201629325
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15781100000.0,
+      "operatingIncome": 641900000.0,
+      "netIncome": -310500000.0,
+      "eps": -2.07,
+      "freeCashFlow": 852600000.0,
+      "totalDebt": 7304600000.0,
+      "cash": 449400000.0,
+      "sharesOutstanding": 176902738.0,
+      "grossMargin": 0.24919682404902066,
+      "operatingMargin": 0.04067523810127304,
+      "netMargin": -0.019675434538783735,
+      "roe": -0.03428628217444595,
+      "roic": 0.03923426259267635
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15365700000.0,
+      "operatingIncome": 1181700000.0,
+      "netIncome": 294300000.0,
+      "eps": 1.95,
+      "freeCashFlow": 753000000.0,
+      "totalDebt": 6229600000.0,
+      "cash": 290500000.0,
+      "sharesOutstanding": 176902738.0,
+      "grossMargin": 0.29379722368652256,
+      "operatingMargin": 0.07690505476483336,
+      "netMargin": 0.019153048673343876,
+      "roe": 0.033750387045723,
+      "roic": 0.07904612194387772
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15130400000.0,
+      "operatingIncome": 1255400000.0,
+      "netIncome": 401900000.0,
+      "eps": 2.65,
+      "freeCashFlow": 687900000.0,
+      "totalDebt": 5996800000.0,
+      "cash": 280100000.0,
+      "sharesOutstanding": 176902738.0,
+      "grossMargin": 0.30325040977105694,
+      "operatingMargin": 0.08297202982075821,
+      "netMargin": 0.026562417384867552,
+      "roe": 0.04438627879751728,
+      "roic": 0.08340752355262633
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:23.615056+00:00"
+  }
+}

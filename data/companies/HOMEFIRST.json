@@ -1,0 +1,128 @@
+{
+  "ticker": "HOMEFIRST",
+  "name": "Home First Finance Company India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 111269167104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1065.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17467590000.0,
+    "operatingIncome": 5950030000.0,
+    "netIncome": 5403830000.0,
+    "eps": null,
+    "freeCashFlow": -19493300000.0,
+    "totalDebt": 105900480000.0,
+    "cash": 4487020000.0,
+    "sharesOutstanding": 104328017.0
+  },
+  "ratios": {
+    "roe": 0.12403951852605934,
+    "roic": 0.039808619854151316,
+    "grossMargin": 0.4040253978940426,
+    "operatingMargin": 0.3406325657975714,
+    "netMargin": 0.3093632264095963,
+    "debtToEquity": 2.43084
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 20.54,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6929050000.0,
+      "operatingIncome": 2394530000.0,
+      "netIncome": 2282920000.0,
+      "eps": 25.2,
+      "freeCashFlow": -14756860000.0,
+      "totalDebt": 48134730000.0,
+      "cash": 2355650000.0,
+      "sharesOutstanding": 88016767.0,
+      "grossMargin": 0.4634574725250936,
+      "operatingMargin": 0.3455783981931145,
+      "netMargin": 0.32947085098245793,
+      "roe": 0.12561883060892876,
+      "roic": 0.03611216846443543
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 9795470000.0,
+      "operatingIncome": 2865680000.0,
+      "netIncome": 3057170000.0,
+      "eps": 33.67,
+      "freeCashFlow": -19156800000.0,
+      "totalDebt": 73021020000.0,
+      "cash": 5804770000.0,
+      "sharesOutstanding": 88516167.0,
+      "grossMargin": 0.40159583970958,
+      "operatingMargin": 0.2925515569952233,
+      "netMargin": 0.3121003892615668,
+      "roe": 0.14410519046799766,
+      "roic": 0.030409651866110006
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 13993290000.0,
+      "operatingIncome": 3947690000.0,
+      "netIncome": 3820680000.0,
+      "eps": 42.07,
+      "freeCashFlow": -22083470000.0,
+      "totalDebt": 95506990000.0,
+      "cash": 5991280000.0,
+      "sharesOutstanding": 90055540.0,
+      "grossMargin": 0.3499177105598469,
+      "operatingMargin": 0.2821130699070769,
+      "netMargin": 0.2730365768164599,
+      "roe": 0.15153719417344033,
+      "roic": 0.0327012608783927
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 17467590000.0,
+      "operatingIncome": 5950030000.0,
+      "netIncome": 5403830000.0,
+      "eps": null,
+      "freeCashFlow": -19493300000.0,
+      "totalDebt": 105900480000.0,
+      "cash": 4487020000.0,
+      "sharesOutstanding": 104328017.0,
+      "grossMargin": 0.4040253978940426,
+      "operatingMargin": 0.3406325657975714,
+      "netMargin": 0.3093632264095963,
+      "roe": 0.12403951852605934,
+      "roic": 0.039808619854151316
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:54.148338+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "RAILTEL",
+  "name": "RailTel Corporation of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 101191876608.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 315.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34659000000.0,
+    "operatingIncome": 3511500000.0,
+    "netIncome": 2998100000.0,
+    "eps": 9.34,
+    "freeCashFlow": -697100000.0,
+    "totalDebt": 445400000.0,
+    "cash": 3080400000.0,
+    "sharesOutstanding": 320938407.0
+  },
+  "ratios": {
+    "roe": 0.1499334873625989,
+    "roic": 0.1717820522855354,
+    "grossMargin": 0.2237514065610664,
+    "operatingMargin": 0.10131567558209989,
+    "netMargin": 0.08650278426959808,
+    "debtToEquity": 0.02817
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 15429900000.0,
+      "operatingIncome": 2700000000.0,
+      "netIncome": 2089400000.0,
+      "eps": 6.51,
+      "freeCashFlow": 1339400000.0,
+      "totalDebt": 315100000.0,
+      "cash": 1871100000.0,
+      "sharesOutstanding": 320938407.0,
+      "grossMargin": 0.3785701786790582,
+      "operatingMargin": 0.17498493185309044,
+      "netMargin": 0.13541241356068412,
+      "roe": 0.1368563774390683,
+      "roic": 0.1732746338771162
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 19514000000.0,
+      "operatingIncome": 2313600000.0,
+      "netIncome": 1882500000.0,
+      "eps": 5.87,
+      "freeCashFlow": 1074000000.0,
+      "totalDebt": 417900000.0,
+      "cash": 1877900000.0,
+      "sharesOutstanding": 320938407.0,
+      "grossMargin": 0.31182740596494823,
+      "operatingMargin": 0.11856103310443784,
+      "netMargin": 0.09646920159885211,
+      "roe": 0.11416840522051332,
+      "roic": 0.13684515606238948
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25637800000.0,
+      "operatingIncome": 2908200000.0,
+      "netIncome": 2462100000.0,
+      "eps": 7.67,
+      "freeCashFlow": 3466700000.0,
+      "totalDebt": 456200000.0,
+      "cash": 2476500000.0,
+      "sharesOutstanding": 320938407.0,
+      "grossMargin": 0.27505480189407827,
+      "operatingMargin": 0.11343407000600676,
+      "netMargin": 0.09603398107481921,
+      "roe": 0.13474420437380968,
+      "roic": 0.15528122764114777
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 34659000000.0,
+      "operatingIncome": 3511500000.0,
+      "netIncome": 2998100000.0,
+      "eps": 9.34,
+      "freeCashFlow": -697100000.0,
+      "totalDebt": 445400000.0,
+      "cash": 3080400000.0,
+      "sharesOutstanding": 320938407.0,
+      "grossMargin": 0.2237514065610664,
+      "operatingMargin": 0.10131567558209989,
+      "netMargin": 0.08650278426959808,
+      "roe": 0.1499334873625989,
+      "roic": 0.1717820522855354
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:47.114574+00:00"
+  }
+}

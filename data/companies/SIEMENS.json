@@ -1,0 +1,128 @@
+{
+  "ticker": "SIEMENS",
+  "name": "Siemens Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1368927240192.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3844.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 173642000000.0,
+    "operatingIncome": 17267000000.0,
+    "netIncome": 21042000000.0,
+    "eps": 59.14,
+    "freeCashFlow": -57000000.0,
+    "totalDebt": 1453000000.0,
+    "cash": 21504000000.0,
+    "sharesOutstanding": 356120505.0
+  },
+  "ratios": {
+    "roe": 0.15907647645831444,
+    "roic": 0.12911933836340658,
+    "grossMargin": 0.30492622752559867,
+    "operatingMargin": 0.09944022759470635,
+    "netMargin": 0.12118035959042167,
+    "debtToEquity": 0.02213
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 158738000000.0,
+      "operatingIncome": 16700000000.0,
+      "netIncome": 15429000000.0,
+      "eps": 43.33,
+      "freeCashFlow": 8225000000.0,
+      "totalDebt": 1821000000.0,
+      "cash": 10006000000.0,
+      "sharesOutstanding": 356120255.0,
+      "grossMargin": 0.31167710315110436,
+      "operatingMargin": 0.10520480288273759,
+      "netMargin": 0.09719789842381786,
+      "roe": 0.13289176758367643,
+      "roic": 0.14161783536714637
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 192792000000.0,
+      "operatingIncome": 21288000000.0,
+      "netIncome": 19609000000.0,
+      "eps": 55.062861,
+      "freeCashFlow": 11980000000.0,
+      "totalDebt": 1752000000.0,
+      "cash": 11917000000.0,
+      "sharesOutstanding": 356120255.0,
+      "grossMargin": 0.30585293995601476,
+      "operatingMargin": 0.11041951948213619,
+      "netMargin": 0.10171065189426948,
+      "roe": 0.14983456991999755,
+      "roic": 0.16051514443196127
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 151457000000.0,
+      "operatingIncome": 17858000000.0,
+      "netIncome": 27166000000.0,
+      "eps": 76.33,
+      "freeCashFlow": 13124000000.0,
+      "totalDebt": 2794000000.0,
+      "cash": 18359000000.0,
+      "sharesOutstanding": 356120505.0,
+      "grossMargin": 0.30075202862858763,
+      "operatingMargin": 0.11790805311078392,
+      "netMargin": 0.17936444007209967,
+      "roe": 0.17689998502282392,
+      "roic": 0.11421006516970345
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 173642000000.0,
+      "operatingIncome": 17267000000.0,
+      "netIncome": 21042000000.0,
+      "eps": 59.14,
+      "freeCashFlow": -57000000.0,
+      "totalDebt": 1453000000.0,
+      "cash": 21504000000.0,
+      "sharesOutstanding": 356120505.0,
+      "grossMargin": 0.30492622752559867,
+      "operatingMargin": 0.09944022759470635,
+      "netMargin": 0.12118035959042167,
+      "roe": 0.15907647645831444,
+      "roic": 0.12911933836340658
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:55.171379+00:00"
+  }
+}

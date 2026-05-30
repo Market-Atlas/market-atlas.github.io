@@ -1,0 +1,128 @@
+{
+  "ticker": "ABCAPITAL",
+  "name": "Aditya Birla Capital Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 952416665600.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 363.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 438407700000.0,
+    "operatingIncome": null,
+    "netIncome": 37644900000.0,
+    "eps": 14.24,
+    "freeCashFlow": -369375500000.0,
+    "totalDebt": 1795377500000.0,
+    "cash": 24033300000.0,
+    "sharesOutstanding": 2619606094.0
+  },
+  "ratios": {
+    "roe": 0.10935938095076243,
+    "roic": null,
+    "grossMargin": 0.27749002,
+    "operatingMargin": 0.13699001,
+    "netMargin": 0.08586733307831956,
+    "debtToEquity": 4.91748
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 285782800000.0,
+      "operatingIncome": null,
+      "netIncome": 47957700000.0,
+      "eps": 19.77,
+      "freeCashFlow": -242741700000.0,
+      "totalDebt": 847263000000.0,
+      "cash": 17307900000.0,
+      "sharesOutstanding": 2417994042.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16781170875224122,
+      "roe": 0.23611978878180273,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 406273700000.0,
+      "operatingIncome": null,
+      "netIncome": 33349800000.0,
+      "eps": 12.95,
+      "freeCashFlow": -245029100000.0,
+      "totalDebt": 1101283400000.0,
+      "cash": 15543000000.0,
+      "sharesOutstanding": 2600021884.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08208702655377396,
+      "roe": 0.12435946103367757,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 390919400000.0,
+      "operatingIncome": null,
+      "netIncome": 33323200000.0,
+      "eps": 12.67,
+      "freeCashFlow": -283922800000.0,
+      "totalDebt": 1397980100000.0,
+      "cash": 43307900000.0,
+      "sharesOutstanding": 2607010822.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0852431473086268,
+      "roe": 0.10965647779834096,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 438407700000.0,
+      "operatingIncome": null,
+      "netIncome": 37644900000.0,
+      "eps": 14.24,
+      "freeCashFlow": -369375500000.0,
+      "totalDebt": 1795377500000.0,
+      "cash": 24033300000.0,
+      "sharesOutstanding": 2619606094.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08586733307831956,
+      "roe": 0.10935938095076243,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:45.721879+00:00"
+  }
+}

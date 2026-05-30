@@ -1,0 +1,128 @@
+{
+  "ticker": "CIEN",
+  "name": "Ciena Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 82043609088.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 580.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4769507000.0,
+    "operatingIncome": 310792000.0,
+    "netIncome": 123338000.0,
+    "eps": 0.85,
+    "freeCashFlow": 665292000.0,
+    "totalDebt": 1625554000.0,
+    "cash": 1091952000.0,
+    "sharesOutstanding": 141016300.0
+  },
+  "ratios": {
+    "roe": 0.04518996102696529,
+    "roic": 0.0713664243559577,
+    "grossMargin": 0.42036147551518427,
+    "operatingMargin": 0.06516229035831167,
+    "netMargin": 0.025859695771491685,
+    "debtToEquity": 0.56931
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 3632661000.0,
+      "operatingIncome": 257230000.0,
+      "netIncome": 152902000.0,
+      "eps": 1.0,
+      "freeCashFlow": -258574000.0,
+      "totalDebt": 1186306000.0,
+      "cash": 994352000.0,
+      "sharesOutstanding": 148412943.0,
+      "grossMargin": 0.42953196018015444,
+      "operatingMargin": 0.07081035086951411,
+      "netMargin": 0.04209090801481338,
+      "roe": 0.056361899854065506,
+      "roic": 0.06597050087877744
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 4386549000.0,
+      "operatingIncome": 384853000.0,
+      "netIncome": 254827000.0,
+      "eps": 1.71,
+      "freeCashFlow": 62135000.0,
+      "totalDebt": 1657165000.0,
+      "cash": 1010618000.0,
+      "sharesOutstanding": 144829938.0,
+      "grossMargin": 0.42832098763743437,
+      "operatingMargin": 0.08773480018119027,
+      "netMargin": 0.05809281966301984,
+      "roe": 0.08946443235250026,
+      "roic": 0.085417995590304
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 4014955000.0,
+      "operatingIncome": 191209000.0,
+      "netIncome": 83956000.0,
+      "eps": 0.58,
+      "freeCashFlow": 377891000.0,
+      "totalDebt": 1632253000.0,
+      "cash": 934863000.0,
+      "sharesOutstanding": 142656116.0,
+      "grossMargin": 0.42829620755400744,
+      "operatingMargin": 0.04762419504079124,
+      "netMargin": 0.020910819672947768,
+      "roe": 0.029812459474642224,
+      "roic": 0.042983856410104236
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 4769507000.0,
+      "operatingIncome": 310792000.0,
+      "netIncome": 123338000.0,
+      "eps": 0.85,
+      "freeCashFlow": 665292000.0,
+      "totalDebt": 1625554000.0,
+      "cash": 1091952000.0,
+      "sharesOutstanding": 141016300.0,
+      "grossMargin": 0.42036147551518427,
+      "operatingMargin": 0.06516229035831167,
+      "netMargin": 0.025859695771491685,
+      "roe": 0.04518996102696529,
+      "roic": 0.0713664243559577
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:00.012402+00:00"
+  }
+}

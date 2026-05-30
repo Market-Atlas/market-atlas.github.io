@@ -1,0 +1,128 @@
+{
+  "ticker": "AVB",
+  "name": "AvalonBay Communities, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "currency": "USD",
+  "marketCap": {
+    "value": 25893068800.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 182.51,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3040725000.0,
+    "operatingIncome": 919756000.0,
+    "netIncome": 1051301000.0,
+    "eps": 7.4,
+    "freeCashFlow": 1406163000.0,
+    "totalDebt": 9493752000.0,
+    "cash": 187234000.0,
+    "sharesOutstanding": 140080657.0
+  },
+  "ratios": {
+    "roe": 0.09054088503135728,
+    "roic": 0.043579814766976616,
+    "grossMargin": 0.6313662037836372,
+    "operatingMargin": 0.30247917848539413,
+    "netMargin": 0.34574024286971033,
+    "debtToEquity": 0.8130700000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2593446000.0,
+      "operatingIncome": 785290000.0,
+      "netIncome": 1136775000.0,
+      "eps": 8.12,
+      "freeCashFlow": 1247227000.0,
+      "totalDebt": 8478716000.0,
+      "cash": 613189000.0,
+      "sharesOutstanding": 139916864.0,
+      "grossMargin": 0.6456012579402077,
+      "operatingMargin": 0.3027978990115854,
+      "netMargin": 0.4383260727233187,
+      "roe": 0.1010154551358176,
+      "roic": 0.03979740314710094
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2767909000.0,
+      "operatingIncome": 886278000.0,
+      "netIncome": 928825000.0,
+      "eps": 6.56,
+      "freeCashFlow": 1362755000.0,
+      "totalDebt": 8135054000.0,
+      "cash": 397890000.0,
+      "sharesOutstanding": 142025456.0,
+      "grossMargin": 0.6430041594575544,
+      "operatingMargin": 0.3201976654579323,
+      "netMargin": 0.33556919681969316,
+      "roe": 0.07882542081950092,
+      "roic": 0.0444955039498208
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2913757000.0,
+      "operatingIncome": 915750000.0,
+      "netIncome": 1081994000.0,
+      "eps": 7.6,
+      "freeCashFlow": 1409852000.0,
+      "totalDebt": 8250531000.0,
+      "cash": 108576000.0,
+      "sharesOutstanding": 142254022.0,
+      "grossMargin": 0.6315900742580799,
+      "operatingMargin": 0.31428495924677313,
+      "netMargin": 0.3713398200330364,
+      "roe": 0.0906109759475934,
+      "roic": 0.04535296642573012
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3040725000.0,
+      "operatingIncome": 919756000.0,
+      "netIncome": 1051301000.0,
+      "eps": 7.4,
+      "freeCashFlow": 1406163000.0,
+      "totalDebt": 9493752000.0,
+      "cash": 187234000.0,
+      "sharesOutstanding": 140080657.0,
+      "grossMargin": 0.6313662037836372,
+      "operatingMargin": 0.30247917848539413,
+      "netMargin": 0.34574024286971033,
+      "roe": 0.09054088503135728,
+      "roic": 0.043579814766976616
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:47.738613+00:00"
+  }
+}

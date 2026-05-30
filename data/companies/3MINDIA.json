@@ -1,0 +1,128 @@
+{
+  "ticker": "3MINDIA",
+  "name": "3M India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 369606950912.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32810.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 50897600000.0,
+    "operatingIncome": 9231200000.0,
+    "netIncome": 5223200000.0,
+    "eps": 463.66,
+    "freeCashFlow": 4553900000.0,
+    "totalDebt": 1697500000.0,
+    "cash": 8121400000.0,
+    "sharesOutstanding": 11265070.0
+  },
+  "ratios": {
+    "roe": 0.2954048016288211,
+    "roic": 0.4763506888900356,
+    "grossMargin": 0.4236820596648958,
+    "operatingMargin": 0.18136808022382195,
+    "netMargin": 0.10262173462009996,
+    "debtToEquity": 0.096
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 39572834000.0,
+      "operatingIncome": 5759201000.0,
+      "netIncome": 4510192000.0,
+      "eps": 400.37,
+      "freeCashFlow": 4052530000.0,
+      "totalDebt": 267474000.0,
+      "cash": 7982054000.0,
+      "sharesOutstanding": 11265070.0,
+      "grossMargin": 0.3609852405314211,
+      "operatingMargin": 0.14553420662265432,
+      "netMargin": 0.11397192326432826,
+      "roe": 0.268868648889423,
+      "roic": 0.337938085143812
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 41868741000.0,
+      "operatingIncome": 7214155000.0,
+      "netIncome": 5834168000.0,
+      "eps": 517.9,
+      "freeCashFlow": 6116207000.0,
+      "totalDebt": 181778000.0,
+      "cash": 10442888000.0,
+      "sharesOutstanding": 11265070.0,
+      "grossMargin": 0.3799078887994268,
+      "operatingMargin": 0.17230408241795472,
+      "netMargin": 0.13934424252212407,
+      "roe": 0.2717480441830778,
+      "roic": 0.33320482391145423
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 44455600000.0,
+      "operatingIncome": 7143200000.0,
+      "netIncome": 4760700000.0,
+      "eps": 422.6,
+      "freeCashFlow": 2996900000.0,
+      "totalDebt": 995353000.0,
+      "cash": 9327792000.0,
+      "sharesOutstanding": 11265070.0,
+      "grossMargin": 0.4040323378831913,
+      "operatingMargin": 0.16068166890110583,
+      "netMargin": 0.10708887069345595,
+      "roe": 0.25782334105191296,
+      "roic": 0.36706484096203545
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 50897600000.0,
+      "operatingIncome": 9231200000.0,
+      "netIncome": 5223200000.0,
+      "eps": 463.66,
+      "freeCashFlow": 4553900000.0,
+      "totalDebt": 1697500000.0,
+      "cash": 8121400000.0,
+      "sharesOutstanding": 11265070.0,
+      "grossMargin": 0.4236820596648958,
+      "operatingMargin": 0.18136808022382195,
+      "netMargin": 0.10262173462009996,
+      "roe": 0.2954048016288211,
+      "roic": 0.4763506888900356
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:43.706968+00:00"
+  }
+}

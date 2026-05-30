@@ -1,0 +1,128 @@
+{
+  "ticker": "PERSISTENT",
+  "name": "Persistent Systems Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 811510857728.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5194.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 147484490000.0,
+    "operatingIncome": 23924930000.0,
+    "netIncome": 18651200000.0,
+    "eps": null,
+    "freeCashFlow": 15585490000.0,
+    "totalDebt": 4774480000.0,
+    "cash": 10749150000.0,
+    "sharesOutstanding": 157750000.0
+  },
+  "ratios": {
+    "roe": 0.23796306514984011,
+    "roic": 0.28772168614901944,
+    "grossMargin": 0.3119170700593669,
+    "operatingMargin": 0.1622199730968321,
+    "netMargin": 0.12646211137184662,
+    "debtToEquity": 0.060919999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 45.17,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 83505920000.0,
+      "operatingIncome": 12587070000.0,
+      "netIncome": 9210930000.0,
+      "eps": 60.26,
+      "freeCashFlow": 5224630000.0,
+      "totalDebt": 6575540000.0,
+      "cash": 4670120000.0,
+      "sharesOutstanding": 152850000.0,
+      "grossMargin": 0.28565268186974047,
+      "operatingMargin": 0.1507326666181272,
+      "netMargin": 0.11030271865755147,
+      "roe": 0.23230135699726462,
+      "roic": 0.27229227851146276
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 98215870000.0,
+      "operatingIncome": 13031800000.0,
+      "netIncome": 10934910000.0,
+      "eps": 71.07,
+      "freeCashFlow": 9440760000.0,
+      "totalDebt": 4511290000.0,
+      "cash": 6625150000.0,
+      "sharesOutstanding": 154050000.0,
+      "grossMargin": 0.26520388202028855,
+      "operatingMargin": 0.1326852778476635,
+      "netMargin": 0.11133546951220816,
+      "roe": 0.22056386147870377,
+      "roic": 0.24093538794668576
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 119387170000.0,
+      "operatingIncome": 17512830000.0,
+      "netIncome": 14001610000.0,
+      "eps": 90.24,
+      "freeCashFlow": 9202270000.0,
+      "totalDebt": 3108970000.0,
+      "cash": 6744060000.0,
+      "sharesOutstanding": 155850000.0,
+      "grossMargin": 0.2777379679910329,
+      "operatingMargin": 0.14668938044180124,
+      "netMargin": 0.11727901750246697,
+      "roe": 0.22157724283576763,
+      "roic": 0.26414676283212485
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 147484490000.0,
+      "operatingIncome": 23924930000.0,
+      "netIncome": 18651200000.0,
+      "eps": null,
+      "freeCashFlow": 15585490000.0,
+      "totalDebt": 4774480000.0,
+      "cash": 10749150000.0,
+      "sharesOutstanding": 157750000.0,
+      "grossMargin": 0.3119170700593669,
+      "operatingMargin": 0.1622199730968321,
+      "netMargin": 0.12646211137184662,
+      "roe": 0.23796306514984011,
+      "roic": 0.28772168614901944
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:39.861429+00:00"
+  }
+}

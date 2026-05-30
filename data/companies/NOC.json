@@ -1,0 +1,111 @@
+{
+  "ticker": "NOC",
+  "name": "Northrop Grumman Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 80061423616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 563.68,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 41954000000.0,
+    "operatingIncome": 4280000000.0,
+    "netIncome": 4182000000.0,
+    "eps": 29.08,
+    "freeCashFlow": 3307000000.0,
+    "totalDebt": 17019000000.0,
+    "cash": 4403000000.0,
+    "sharesOutstanding": 141997194.0
+  },
+  "ratios": {
+    "roe": 0.250809643756747,
+    "roic": 0.12702935327812898,
+    "grossMargin": 0.19814558802497975,
+    "operatingMargin": 0.1020164942556133,
+    "netMargin": 0.09968060256471373,
+    "debtToEquity": 1.02682
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 36602000000.0,
+      "operatingIncome": 3601000000.0,
+      "netIncome": 4896000000.0,
+      "eps": 31.47,
+      "freeCashFlow": 1466000000.0,
+      "totalDebt": 13629000000.0,
+      "cash": 2577000000.0,
+      "sharesOutstanding": 153157924.0,
+      "grossMargin": 0.20419649199497295,
+      "operatingMargin": 0.09838260204360418,
+      "netMargin": 0.13376318233976286,
+      "roe": 0.31974921630094044,
+      "roic": 0.1244255554403787
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 39290000000.0,
+      "operatingIncome": 2537000000.0,
+      "netIncome": 2056000000.0,
+      "eps": 13.53,
+      "freeCashFlow": 2100000000.0,
+      "totalDebt": 15678000000.0,
+      "cash": 3109000000.0,
+      "sharesOutstanding": 150109271.0,
+      "grossMargin": 0.1667345380503945,
+      "operatingMargin": 0.06457113769406973,
+      "netMargin": 0.05232883685416136,
+      "roe": 0.13896586684690773,
+      "roic": 0.0832540281560726
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 41033000000.0,
+      "operatingIncome": 4370000000.0,
+      "netIncome": 4174000000.0,
+      "eps": 28.34,
+      "freeCashFlow": 2621000000.0,
+      "totalDebt": 16490000000.0,
+      "cash": 4353000000.0,
+      "sharesOutstanding": 144952026.0,
+      "grossMargin": 0.2037871956717764,
+      "operatingMargin": 0.10649964662588648,
+      "netMargin": 0.10172300343625862,
+      "roe": 0.27298888162197515,
+      "roic": 0.13750786658275646
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 41954000000.0,
+      "operatingIncome": 4280000000.0,
+      "netIncome": 4182000000.0,
+      "eps": 29.08,
+      "freeCashFlow": 3307000000.0,
+      "totalDebt": 17019000000.0,
+      "cash": 4403000000.0,
+      "sharesOutstanding": 141997194.0,
+      "grossMargin": 0.19814558802497975,
+      "operatingMargin": 0.1020164942556133,
+      "netMargin": 0.09968060256471373,
+      "roe": 0.250809643756747,
+      "roic": 0.12702935327812898
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:00.672806+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "PHM",
+  "name": "PulteGroup, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22511677440.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 118.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17311953000.0,
+    "operatingIncome": 2978583000.0,
+    "netIncome": 2218730000.0,
+    "eps": 11.12,
+    "freeCashFlow": 1748533000.0,
+    "totalDebt": 2296679000.0,
+    "cash": 1980869000.0,
+    "sharesOutstanding": 192724978.0
+  },
+  "ratios": {
+    "roe": 0.1708628785989726,
+    "roic": 0.1949063876669999,
+    "grossMargin": 0.26412987604575866,
+    "operatingMargin": 0.17205355167034014,
+    "netMargin": 0.12816173888642143,
+    "debtToEquity": 0.18942
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16002979000.0,
+      "operatingIncome": 3442158000.0,
+      "netIncome": 2617317000.0,
+      "eps": 11.01,
+      "freeCashFlow": 555805000.0,
+      "totalDebt": 2722321000.0,
+      "cash": 1053104000.0,
+      "sharesOutstanding": 225840443.0,
+      "grossMargin": 0.30209987777900604,
+      "operatingMargin": 0.215094827031892,
+      "netMargin": 0.1635518611878451,
+      "roe": 0.2936154617102033,
+      "roic": 0.2958090457210247
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16061578000.0,
+      "operatingIncome": 3396305000.0,
+      "netIncome": 2602372000.0,
+      "eps": 11.72,
+      "freeCashFlow": 2104561000.0,
+      "totalDebt": 2553399000.0,
+      "cash": 1806583000.0,
+      "sharesOutstanding": 212557522.0,
+      "grossMargin": 0.29383694429028084,
+      "operatingMargin": 0.21145525053640432,
+      "netMargin": 0.1620246777745001,
+      "roe": 0.2506315696510257,
+      "roic": 0.26253345532261196
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17946950000.0,
+      "operatingIncome": 3889895000.0,
+      "netIncome": 3083262000.0,
+      "eps": 14.69,
+      "freeCashFlow": 1562249000.0,
+      "totalDebt": 2254513000.0,
+      "cash": 1613327000.0,
+      "sharesOutstanding": 202912881.0,
+      "grossMargin": 0.2909243631926316,
+      "operatingMargin": 0.2167440707195373,
+      "netMargin": 0.17179866216822356,
+      "roe": 0.2543533374624772,
+      "roic": 0.27057359045613194
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17311953000.0,
+      "operatingIncome": 2978583000.0,
+      "netIncome": 2218730000.0,
+      "eps": 11.12,
+      "freeCashFlow": 1748533000.0,
+      "totalDebt": 2296679000.0,
+      "cash": 1980869000.0,
+      "sharesOutstanding": 192724978.0,
+      "grossMargin": 0.26412987604575866,
+      "operatingMargin": 0.17205355167034014,
+      "netMargin": 0.12816173888642143,
+      "roe": 0.1708628785989726,
+      "roic": 0.1949063876669999
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:08.368360+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BOSCHLTD",
+  "name": "Bosch Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1080204591104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 36625.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 200347000000.0,
+    "operatingIncome": 22584000000.0,
+    "netIncome": 27732000000.0,
+    "eps": 940.27,
+    "freeCashFlow": 18588000000.0,
+    "totalDebt": 1188000000.0,
+    "cash": 3963000000.0,
+    "sharesOutstanding": 29493640.0
+  },
+  "ratios": {
+    "roe": 0.18678898341045486,
+    "roic": 0.1509070862984865,
+    "grossMargin": 0.36112844215286477,
+    "operatingMargin": 0.1127244231258766,
+    "netMargin": 0.1384198415748676,
+    "debtToEquity": 0.008
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 146118000000.0,
+      "operatingIncome": 12859000000.0,
+      "netIncome": 14255000000.0,
+      "eps": 483.32,
+      "freeCashFlow": 5727000000.0,
+      "totalDebt": 532000000.0,
+      "cash": 3793000000.0,
+      "sharesOutstanding": 29493640.0,
+      "grossMargin": 0.30997549925402756,
+      "operatingMargin": 0.08800421577081537,
+      "netMargin": 0.09755813794330609,
+      "roe": 0.1295308538768389,
+      "roic": 0.11628369640903213
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 163789000000.0,
+      "operatingIncome": 15431000000.0,
+      "netIncome": 24913000000.0,
+      "eps": 844.68,
+      "freeCashFlow": 9289000000.0,
+      "totalDebt": 393000000.0,
+      "cash": 4634000000.0,
+      "sharesOutstanding": 29493640.0,
+      "grossMargin": 0.30118628235107364,
+      "operatingMargin": 0.0942126760649372,
+      "netMargin": 0.15210423166390905,
+      "roe": 0.20662856953279865,
+      "roic": 0.1275689886079926
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 180874000000.0,
+      "operatingIncome": 19341000000.0,
+      "netIncome": 20152000000.0,
+      "eps": 683.25,
+      "freeCashFlow": 20580000000.0,
+      "totalDebt": 1183000000.0,
+      "cash": 3529000000.0,
+      "sharesOutstanding": 29493640.0,
+      "grossMargin": 0.3662162610435994,
+      "operatingMargin": 0.10693079160078287,
+      "netMargin": 0.11141457589261032,
+      "roe": 0.145888382935287,
+      "roic": 0.13882827528783484
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 200347000000.0,
+      "operatingIncome": 22584000000.0,
+      "netIncome": 27732000000.0,
+      "eps": 940.27,
+      "freeCashFlow": 18588000000.0,
+      "totalDebt": 1188000000.0,
+      "cash": 3963000000.0,
+      "sharesOutstanding": 29493640.0,
+      "grossMargin": 0.36112844215286477,
+      "operatingMargin": 0.1127244231258766,
+      "netMargin": 0.1384198415748676,
+      "roe": 0.18678898341045486,
+      "roic": 0.1509070862984865
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:04.761095+00:00"
+  }
+}

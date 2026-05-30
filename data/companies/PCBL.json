@@ -1,0 +1,128 @@
+{
+  "ticker": "PCBL",
+  "name": "PCBL Chemical Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 114045132800.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 289.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 81893000000.0,
+    "operatingIncome": 6702100000.0,
+    "netIncome": 1978700000.0,
+    "eps": 5.13,
+    "freeCashFlow": 8495200000.0,
+    "totalDebt": 49890600000.0,
+    "cash": 2295200000.0,
+    "sharesOutstanding": 393462604.0
+  },
+  "ratios": {
+    "roe": 0.04938971120485236,
+    "roic": 0.07450618985788228,
+    "grossMargin": 0.3016655880233964,
+    "operatingMargin": 0.08183971768038782,
+    "netMargin": 0.024162016289548557,
+    "debtToEquity": 1.24132
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 57518400000.0,
+      "operatingIncome": 5851300000.0,
+      "netIncome": 4418000000.0,
+      "eps": 11.7,
+      "freeCashFlow": -3918100000.0,
+      "totalDebt": 10294400000.0,
+      "cash": 402200000.0,
+      "sharesOutstanding": 377462604.0,
+      "grossMargin": 0.2210649114022643,
+      "operatingMargin": 0.10172918579098167,
+      "netMargin": 0.07681020334362569,
+      "roe": 0.15610369695106655,
+      "roic": 0.15160340034355801
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 63871000000.0,
+      "operatingIncome": 7752600000.0,
+      "netIncome": 4909400000.0,
+      "eps": 13.0,
+      "freeCashFlow": 5696500000.0,
+      "totalDebt": 49831000000.0,
+      "cash": 3122900000.0,
+      "sharesOutstanding": 377462604.0,
+      "grossMargin": 0.2755084467129057,
+      "operatingMargin": 0.1213790296065507,
+      "netMargin": 0.07686430461398756,
+      "roe": 0.15121246561883026,
+      "roic": 0.09420167464783427
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 84042500000.0,
+      "operatingIncome": 9911000000.0,
+      "netIncome": 4346000000.0,
+      "eps": 11.48,
+      "freeCashFlow": -133300000.0,
+      "totalDebt": 55713300000.0,
+      "cash": 3185300000.0,
+      "sharesOutstanding": 377462604.0,
+      "grossMargin": 0.3087378409733171,
+      "operatingMargin": 0.117928429068626,
+      "netMargin": 0.05171193146324776,
+      "roe": 0.11754078497555065,
+      "roic": 0.10692896684241814
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 81893000000.0,
+      "operatingIncome": 6702100000.0,
+      "netIncome": 1978700000.0,
+      "eps": 5.13,
+      "freeCashFlow": 8495200000.0,
+      "totalDebt": 49890600000.0,
+      "cash": 2295200000.0,
+      "sharesOutstanding": 393462604.0,
+      "grossMargin": 0.3016655880233964,
+      "operatingMargin": 0.08183971768038782,
+      "netMargin": 0.024162016289548557,
+      "roe": 0.04938971120485236,
+      "roic": 0.07450618985788228
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:39.846587+00:00"
+  }
+}

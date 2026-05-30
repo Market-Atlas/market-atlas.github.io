@@ -1,0 +1,128 @@
+{
+  "ticker": "WELCORP",
+  "name": "Welspun Corp Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 363093950464.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1376.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 167701400000.0,
+    "operatingIncome": 18810900000.0,
+    "netIncome": 16130500000.0,
+    "eps": 61.2,
+    "freeCashFlow": 6720700000.0,
+    "totalDebt": 23554500000.0,
+    "cash": 15125900000.0,
+    "sharesOutstanding": 263790645.0
+  },
+  "ratios": {
+    "roe": 0.17618256010555336,
+    "roic": 0.16341658985614643,
+    "grossMargin": 0.3883038543506494,
+    "operatingMargin": 0.11216900991881999,
+    "netMargin": 0.09618583983198709,
+    "debtToEquity": 0.25042000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 94870600000.0,
+      "operatingIncome": 2244500000.0,
+      "netIncome": 2066900000.0,
+      "eps": 7.89,
+      "freeCashFlow": -13793100000.0,
+      "totalDebt": 33450900000.0,
+      "cash": 10163400000.0,
+      "sharesOutstanding": 261529395.0,
+      "grossMargin": 0.21798850223356867,
+      "operatingMargin": 0.023658541212978522,
+      "netMargin": 0.02178651763560049,
+      "roe": 0.04367874388478566,
+      "roic": 0.02778830130466972
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 168956100000.0,
+      "operatingIncome": 12825800000.0,
+      "netIncome": 11104000000.0,
+      "eps": 42.32,
+      "freeCashFlow": 10070300000.0,
+      "totalDebt": 19299000000.0,
+      "cash": 8187300000.0,
+      "sharesOutstanding": 261666895.0,
+      "grossMargin": 0.25611386626466875,
+      "operatingMargin": 0.07591202685194556,
+      "netMargin": 0.06572121397215017,
+      "roe": 0.1977105883065155,
+      "roic": 0.16996391556533827
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 139775400000.0,
+      "operatingIncome": 13171100000.0,
+      "netIncome": 19081400000.0,
+      "eps": 72.44,
+      "freeCashFlow": 6509500000.0,
+      "totalDebt": 10826400000.0,
+      "cash": 11471200000.0,
+      "sharesOutstanding": 262349395.0,
+      "grossMargin": 0.3653897610022937,
+      "operatingMargin": 0.09423045829237477,
+      "netMargin": 0.13651472290546118,
+      "roe": 0.255689614510527,
+      "roic": 0.15413159890279637
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 167701400000.0,
+      "operatingIncome": 18810900000.0,
+      "netIncome": 16130500000.0,
+      "eps": 61.2,
+      "freeCashFlow": 6720700000.0,
+      "totalDebt": 23554500000.0,
+      "cash": 15125900000.0,
+      "sharesOutstanding": 263790645.0,
+      "grossMargin": 0.3883038543506494,
+      "operatingMargin": 0.11216900991881999,
+      "netMargin": 0.09618583983198709,
+      "roe": 0.17618256010555336,
+      "roic": 0.16341658985614643
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:15.827990+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "UNIONBANK",
+  "name": "Union Bank of India",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1281529741312.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 167.88,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 589221800000.0,
+    "operatingIncome": null,
+    "netIncome": 194302000000.0,
+    "eps": 25.45,
+    "freeCashFlow": -390221300000.0,
+    "totalDebt": 777978700000.0,
+    "cash": 960433500000.0,
+    "sharesOutstanding": 7633605607.0
+  },
+  "ratios": {
+    "roe": 0.14548867330296847,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": -8.87682,
+    "netMargin": 0.3297603720704156,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 471316461000.0,
+      "operatingIncome": null,
+      "netIncome": 85116600000.0,
+      "eps": 12.45,
+      "freeCashFlow": 29903000000.0,
+      "totalDebt": 293545947000.0,
+      "cash": 1125988641000.0,
+      "sharesOutstanding": 6834747466.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18059331053154115,
+      "roe": 0.10801117320732677,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 551776884000.0,
+      "operatingIncome": null,
+      "netIncome": 137971187000.0,
+      "eps": 19.15,
+      "freeCashFlow": 182808900000.0,
+      "totalDebt": 269742680000.0,
+      "cash": 1196458454000.0,
+      "sharesOutstanding": 7633605607.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25004887120280306,
+      "roe": 0.1413673162396441,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 592459400000.0,
+      "operatingIncome": null,
+      "netIncome": 180269600000.0,
+      "eps": 23.62,
+      "freeCashFlow": -220546400000.0,
+      "totalDebt": 274897937000.0,
+      "cash": 1316837325000.0,
+      "sharesOutstanding": 7633605607.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30427333923641015,
+      "roe": 0.15836171632476925,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 589221800000.0,
+      "operatingIncome": null,
+      "netIncome": 194302000000.0,
+      "eps": 25.45,
+      "freeCashFlow": -390221300000.0,
+      "totalDebt": 777978700000.0,
+      "cash": 960433500000.0,
+      "sharesOutstanding": 7633605607.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3297603720704156,
+      "roe": 0.14548867330296847,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:11.387400+00:00"
+  }
+}

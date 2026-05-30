@@ -1,0 +1,128 @@
+{
+  "ticker": "TARIL",
+  "name": "TRANS & RECTI. LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 96218152960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 320.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25088000000.0,
+    "operatingIncome": 3532700000.0,
+    "netIncome": 2643900000.0,
+    "eps": 8.808131,
+    "freeCashFlow": -2148200000.0,
+    "totalDebt": 4566500000.0,
+    "cash": 81000000.0,
+    "sharesOutstanding": 300165834.0
+  },
+  "ratios": {
+    "roe": 0.1745344362073632,
+    "roic": 0.17919025300789254,
+    "grossMargin": 0.32443000637755104,
+    "operatingMargin": 0.1408123405612245,
+    "netMargin": 0.10538504464285714,
+    "debtToEquity": 0.29595
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13729082000.0,
+      "operatingIncome": 1025595000.0,
+      "netIncome": 407385000.0,
+      "eps": 1.535,
+      "freeCashFlow": 181058000.0,
+      "totalDebt": 3302510000.0,
+      "cash": 47490000.0,
+      "sharesOutstanding": 265128220.0,
+      "grossMargin": 0.20269228488838512,
+      "operatingMargin": 0.07470237267138473,
+      "netMargin": 0.029673142020711946,
+      "roe": 0.10336281506331269,
+      "roic": 0.14158204627088383
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 12672693000.0,
+      "operatingIncome": 1224818000.0,
+      "netIncome": 444973000.0,
+      "eps": 0.82,
+      "freeCashFlow": 133276000.0,
+      "totalDebt": 2560018000.0,
+      "cash": 16066000.0,
+      "sharesOutstanding": 285128242.0,
+      "grossMargin": 0.2471028060097408,
+      "operatingMargin": 0.09665017530212403,
+      "netMargin": 0.035112742019395564,
+      "roe": 0.08025843702631122,
+      "roic": 0.15113242772020183
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 20193900000.0,
+      "operatingIncome": 3005000000.0,
+      "netIncome": 2142700000.0,
+      "eps": 7.138387,
+      "freeCashFlow": -782200000.0,
+      "totalDebt": 2827942000.0,
+      "cash": 52697000.0,
+      "sharesOutstanding": 300165834.0,
+      "grossMargin": 0.3143919698522821,
+      "operatingMargin": 0.14880731309950035,
+      "netMargin": 0.1061062994270547,
+      "roe": 0.17115334123640497,
+      "roic": 0.19580214535295698
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 25088000000.0,
+      "operatingIncome": 3532700000.0,
+      "netIncome": 2643900000.0,
+      "eps": 8.808131,
+      "freeCashFlow": -2148200000.0,
+      "totalDebt": 4566500000.0,
+      "cash": 81000000.0,
+      "sharesOutstanding": 300165834.0,
+      "grossMargin": 0.32443000637755104,
+      "operatingMargin": 0.1408123405612245,
+      "netMargin": 0.10538504464285714,
+      "roe": 0.1745344362073632,
+      "roic": 0.17919025300789254
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:01.364451+00:00"
+  }
+}

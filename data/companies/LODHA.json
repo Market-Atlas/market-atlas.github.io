@@ -1,0 +1,128 @@
+{
+  "ticker": "LODHA",
+  "name": "Lodha Developers Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 937082290176.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 938.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 166762000000.0,
+    "operatingIncome": 45755000000.0,
+    "netIncome": 34282000000.0,
+    "eps": 34.25,
+    "freeCashFlow": 7091000000.0,
+    "totalDebt": 98960000000.0,
+    "cash": 27026000000.0,
+    "sharesOutstanding": 998915116.0
+  },
+  "ratios": {
+    "roe": 0.1472202420317613,
+    "roic": 0.13789019414023182,
+    "grossMargin": 0.41255202024442017,
+    "operatingMargin": 0.2743730586104748,
+    "netMargin": 0.20557441143665822,
+    "debtToEquity": 0.42238
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 93348000000.0,
+      "operatingIncome": 19848000000.0,
+      "netIncome": 4867000000.0,
+      "eps": 5.05,
+      "freeCashFlow": 26596000000.0,
+      "totalDebt": 90603000000.0,
+      "cash": 13108000000.0,
+      "sharesOutstanding": 963577748.0,
+      "grossMargin": 0.3503877962034537,
+      "operatingMargin": 0.2126237305566268,
+      "netMargin": 0.05213823542014826,
+      "roe": 0.03843602419724227,
+      "roic": 0.0913690161074258
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 101977000000.0,
+      "operatingIncome": 41741000000.0,
+      "netIncome": 15491000000.0,
+      "eps": 15.99,
+      "freeCashFlow": 23426000000.0,
+      "totalDebt": 76976000000.0,
+      "cash": 18270000000.0,
+      "sharesOutstanding": 994456213.0,
+      "grossMargin": 0.391745197446483,
+      "operatingMargin": 0.40931778734420504,
+      "netMargin": 0.15190680251429245,
+      "roe": 0.0886755622721002,
+      "roic": 0.16585674040108236
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 137795000000.0,
+      "operatingIncome": 37161000000.0,
+      "netIncome": 27643000000.0,
+      "eps": 27.67,
+      "freeCashFlow": 10914000000.0,
+      "totalDebt": 70940000000.0,
+      "cash": 9336000000.0,
+      "sharesOutstanding": 997568861.0,
+      "grossMargin": 0.4013135454842338,
+      "operatingMargin": 0.2696832250807359,
+      "netMargin": 0.20060960121920243,
+      "roe": 0.1369970958181764,
+      "roic": 0.13626163289551846
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 166762000000.0,
+      "operatingIncome": 45755000000.0,
+      "netIncome": 34282000000.0,
+      "eps": 34.25,
+      "freeCashFlow": 7091000000.0,
+      "totalDebt": 98960000000.0,
+      "cash": 27026000000.0,
+      "sharesOutstanding": 998915116.0,
+      "grossMargin": 0.41255202024442017,
+      "operatingMargin": 0.2743730586104748,
+      "netMargin": 0.20557441143665822,
+      "roe": 0.1472202420317613,
+      "roic": 0.13789019414023182
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:19.982310+00:00"
+  }
+}

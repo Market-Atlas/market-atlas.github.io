@@ -1,0 +1,128 @@
+{
+  "ticker": "ON",
+  "name": "ON Semiconductor Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 46897442816.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 120.62,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5995400000.0,
+    "operatingIncome": 751100000.0,
+    "netIncome": 121000000.0,
+    "eps": 0.29,
+    "freeCashFlow": 1418600000.0,
+    "totalDebt": 3004800000.0,
+    "cash": 2147600000.0,
+    "sharesOutstanding": 624962201.0
+  },
+  "ratios": {
+    "roe": 0.015768965112793715,
+    "roic": 0.07034022906696884,
+    "grossMargin": 0.33090369283117055,
+    "operatingMargin": 0.1252793808586583,
+    "netMargin": 0.020182139640390968,
+    "debtToEquity": 0.44337000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8326200000.0,
+      "operatingIncome": 2764700000.0,
+      "netIncome": 1902200000.0,
+      "eps": 4.24,
+      "freeCashFlow": 1597100000.0,
+      "totalDebt": 3230700000.0,
+      "cash": 2919000000.0,
+      "sharesOutstanding": 608367713.0,
+      "grossMargin": 0.48968316879248636,
+      "operatingMargin": 0.3320482332876943,
+      "netMargin": 0.22845956138454518,
+      "roe": 0.3073765856023269,
+      "roic": 0.29351749617801937
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8253000000.0,
+      "operatingIncome": 2613600000.0,
+      "netIncome": 2183700000.0,
+      "eps": 4.89,
+      "freeCashFlow": 438400000.0,
+      "totalDebt": 3359800000.0,
+      "cash": 2483000000.0,
+      "sharesOutstanding": 616281996.0,
+      "grossMargin": 0.47055616139585604,
+      "operatingMargin": 0.3166848418756816,
+      "netMargin": 0.26459469283896764,
+      "roe": 0.2805874643435356,
+      "roic": 0.23456346927053418
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7082300000.0,
+      "operatingIncome": 1901600000.0,
+      "netIncome": 1572800000.0,
+      "eps": 3.63,
+      "freeCashFlow": 1212400000.0,
+      "totalDebt": 3366900000.0,
+      "cash": 2691300000.0,
+      "sharesOutstanding": 622655553.0,
+      "grossMargin": 0.4541038928031854,
+      "operatingMargin": 0.2685003459328184,
+      "netMargin": 0.22207474972819563,
+      "roe": 0.17880041835296256,
+      "roic": 0.1563391513816152
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5995400000.0,
+      "operatingIncome": 751100000.0,
+      "netIncome": 121000000.0,
+      "eps": 0.29,
+      "freeCashFlow": 1418600000.0,
+      "totalDebt": 3004800000.0,
+      "cash": 2147600000.0,
+      "sharesOutstanding": 624962201.0,
+      "grossMargin": 0.33090369283117055,
+      "operatingMargin": 0.1252793808586583,
+      "netMargin": 0.020182139640390968,
+      "roe": 0.015768965112793715,
+      "roic": 0.07034022906696884
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:05.343579+00:00"
+  }
+}

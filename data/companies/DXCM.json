@@ -1,0 +1,128 @@
+{
+  "ticker": "DXCM",
+  "name": "DexCom, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28454273024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 73.74,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4662000000.0,
+    "operatingIncome": 911800000.0,
+    "netIncome": 836300000.0,
+    "eps": 2.09,
+    "freeCashFlow": 1077200000.0,
+    "totalDebt": 1389700000.0,
+    "cash": 917700000.0,
+    "sharesOutstanding": 410700000.0
+  },
+  "ratios": {
+    "roe": 0.3045520757465404,
+    "roic": 0.220470537031216,
+    "grossMargin": 0.601008151008151,
+    "operatingMargin": 0.19558129558129558,
+    "netMargin": 0.17938652938652938,
+    "debtToEquity": 0.46832999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2909800000.0,
+      "operatingIncome": 391200000.0,
+      "netIncome": 341200000.0,
+      "eps": 0.82,
+      "freeCashFlow": 304700000.0,
+      "totalDebt": 2145000000.0,
+      "cash": 642300000.0,
+      "sharesOutstanding": 393200000.0,
+      "grossMargin": 0.647157880266685,
+      "operatingMargin": 0.13444222970650904,
+      "netMargin": 0.11725891813870369,
+      "roe": 0.1600525377615161,
+      "roic": 0.0914702581369248
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3622300000.0,
+      "operatingIncome": 597700000.0,
+      "netIncome": 541500000.0,
+      "eps": 1.3,
+      "freeCashFlow": 511900000.0,
+      "totalDebt": 2594000000.0,
+      "cash": 566300000.0,
+      "sharesOutstanding": 407200000.0,
+      "grossMargin": 0.6318913397565082,
+      "operatingMargin": 0.16500565938768186,
+      "netMargin": 0.14949065510863263,
+      "roe": 0.2617712462535048,
+      "roic": 0.12819028010123107
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4033000000.0,
+      "operatingIncome": 600000000.0,
+      "netIncome": 576200000.0,
+      "eps": 1.42,
+      "freeCashFlow": 630700000.0,
+      "totalDebt": 2587400000.0,
+      "cash": 606100000.0,
+      "sharesOutstanding": 408900000.0,
+      "grossMargin": 0.6045623605256633,
+      "operatingMargin": 0.14877262583684603,
+      "netMargin": 0.14287131167865114,
+      "roe": 0.2740416627033197,
+      "roic": 0.1279317697228145
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4662000000.0,
+      "operatingIncome": 911800000.0,
+      "netIncome": 836300000.0,
+      "eps": 2.09,
+      "freeCashFlow": 1077200000.0,
+      "totalDebt": 1389700000.0,
+      "cash": 917700000.0,
+      "sharesOutstanding": 410700000.0,
+      "grossMargin": 0.601008151008151,
+      "operatingMargin": 0.19558129558129558,
+      "netMargin": 0.17938652938652938,
+      "roe": 0.3045520757465404,
+      "roic": 0.220470537031216
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:15.476945+00:00"
+  }
+}

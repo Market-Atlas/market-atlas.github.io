@@ -1,0 +1,128 @@
+{
+  "ticker": "HONAUT",
+  "name": "Honeywell Automation India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 314258194432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 35520.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46819000000.0,
+    "operatingIncome": 5518000000.0,
+    "netIncome": 5250000000.0,
+    "eps": 593.81,
+    "freeCashFlow": 4596000000.0,
+    "totalDebt": 1105000000.0,
+    "cash": 5647000000.0,
+    "sharesOutstanding": 8841523.0
+  },
+  "ratios": {
+    "roe": 0.11764178636251596,
+    "roic": 0.12065949444590221,
+    "grossMargin": 0.38510006621243514,
+    "operatingMargin": 0.11785813451803755,
+    "netMargin": 0.11213396270744783,
+    "debtToEquity": 0.02476
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 34319000000.0,
+      "operatingIncome": 4872000000.0,
+      "netIncome": 4380000000.0,
+      "eps": 495.4,
+      "freeCashFlow": 3818000000.0,
+      "totalDebt": 363000000.0,
+      "cash": 4809000000.0,
+      "sharesOutstanding": 8841523.0,
+      "grossMargin": 0.4658352516098954,
+      "operatingMargin": 0.14196217838515107,
+      "netMargin": 0.1276260963314782,
+      "roe": 0.13736866865297162,
+      "roic": 0.1510791366906475
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 40548000000.0,
+      "operatingIncome": 5588000000.0,
+      "netIncome": 5014000000.0,
+      "eps": 567.13,
+      "freeCashFlow": 4067000000.0,
+      "totalDebt": 596000000.0,
+      "cash": 28224000000.0,
+      "sharesOutstanding": 8841523.0,
+      "grossMargin": 0.4300088783663806,
+      "operatingMargin": 0.13781197592976227,
+      "netMargin": 0.12365591397849462,
+      "roe": 0.13903832288835893,
+      "roic": 0.1524360303344427
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 41896000000.0,
+      "operatingIncome": 5302000000.0,
+      "netIncome": 5236000000.0,
+      "eps": 592.15,
+      "freeCashFlow": 3984000000.0,
+      "totalDebt": 1009000000.0,
+      "cash": 31304000000.0,
+      "sharesOutstanding": 8841523.0,
+      "grossMargin": 0.39223314874928394,
+      "operatingMargin": 0.12655146075997709,
+      "netMargin": 0.12497613137292343,
+      "roe": 0.12966173047397356,
+      "roic": 0.1280954796936532
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 46819000000.0,
+      "operatingIncome": 5518000000.0,
+      "netIncome": 5250000000.0,
+      "eps": 593.81,
+      "freeCashFlow": 4596000000.0,
+      "totalDebt": 1105000000.0,
+      "cash": 5647000000.0,
+      "sharesOutstanding": 8841523.0,
+      "grossMargin": 0.38510006621243514,
+      "operatingMargin": 0.11785813451803755,
+      "netMargin": 0.11213396270744783,
+      "roe": 0.11764178636251596,
+      "roic": 0.12065949444590221
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:55.271885+00:00"
+  }
+}

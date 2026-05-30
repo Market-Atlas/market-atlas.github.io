@@ -1,0 +1,128 @@
+{
+  "ticker": "DLF",
+  "name": "DLF Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1461919023104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 590.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 81940200000.0,
+    "operatingIncome": 13059500000.0,
+    "netIncome": 44146800000.0,
+    "eps": 17.83,
+    "freeCashFlow": 62181800000.0,
+    "totalDebt": 3058900000.0,
+    "cash": 22732200000.0,
+    "sharesOutstanding": 2475311706.0
+  },
+  "ratios": {
+    "roe": 0.09708275414819706,
+    "roic": 0.02852711031152535,
+    "grossMargin": 0.4082794525763911,
+    "operatingMargin": 0.15937842475366182,
+    "netMargin": 0.538768516552315,
+    "debtToEquity": 0.006730000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 56819715000.0,
+      "operatingIncome": 16543683000.0,
+      "netIncome": 20358252000.0,
+      "eps": 8.22,
+      "freeCashFlow": 23115205000.0,
+      "totalDebt": 33339953000.0,
+      "cash": 1655247000.0,
+      "sharesOutstanding": 2475311706.0,
+      "grossMargin": 0.5716339830286019,
+      "operatingMargin": 0.2911609641125444,
+      "netMargin": 0.3582955669524214,
+      "roe": 0.05401852979801194,
+      "roic": 0.0403292688522047
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 62492095000.0,
+      "operatingIncome": 18326441000.0,
+      "netIncome": 27271051000.0,
+      "eps": 11.02,
+      "freeCashFlow": 24232871000.0,
+      "totalDebt": 48338600000.0,
+      "cash": 7675310000.0,
+      "sharesOutstanding": 2475311706.0,
+      "grossMargin": 0.5529424161567955,
+      "operatingMargin": 0.2932601475434613,
+      "netMargin": 0.4363920108615338,
+      "roe": 0.06916177465510324,
+      "roic": 0.04140195595790941
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 79936600000.0,
+      "operatingIncome": 19579800000.0,
+      "netIncome": 43676200000.0,
+      "eps": 17.64,
+      "freeCashFlow": 51392200000.0,
+      "totalDebt": 41027332000.0,
+      "cash": 3138063000.0,
+      "sharesOutstanding": 2475311706.0,
+      "grossMargin": 0.48314289074091216,
+      "operatingMargin": 0.24494161623086297,
+      "netMargin": 0.5463855105170848,
+      "roe": 0.10264623754554915,
+      "roic": 0.04196904721999668
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 81940200000.0,
+      "operatingIncome": 13059500000.0,
+      "netIncome": 44146800000.0,
+      "eps": 17.83,
+      "freeCashFlow": 62181800000.0,
+      "totalDebt": 3058900000.0,
+      "cash": 22732200000.0,
+      "sharesOutstanding": 2475311706.0,
+      "grossMargin": 0.4082794525763911,
+      "operatingMargin": 0.15937842475366182,
+      "netMargin": 0.538768516552315,
+      "roe": 0.09708275414819706,
+      "roic": 0.02852711031152535
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:33.579714+00:00"
+  }
+}

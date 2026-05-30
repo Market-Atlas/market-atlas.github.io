@@ -1,0 +1,128 @@
+{
+  "ticker": "PFIZER",
+  "name": "Pfizer Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "INR",
+  "marketCap": {
+    "value": 210370953216.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4598.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25196500000.0,
+    "operatingIncome": 8463600000.0,
+    "netIncome": 7224300000.0,
+    "eps": null,
+    "freeCashFlow": 9423400000.0,
+    "totalDebt": 702300000.0,
+    "cash": 1026600000.0,
+    "sharesOutstanding": 45747732.0
+  },
+  "ratios": {
+    "roe": 0.17188845796949725,
+    "roic": 0.19806558658407303,
+    "grossMargin": 0.6490345881372412,
+    "operatingMargin": 0.33590379616216537,
+    "netMargin": 0.2867183934276586,
+    "debtToEquity": 0.01671
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 133.89,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 24223200000.0,
+      "operatingIncome": 7087800000.0,
+      "netIncome": 6239300000.0,
+      "eps": 136.38,
+      "freeCashFlow": 2907000000.0,
+      "totalDebt": 1344700000.0,
+      "cash": 366000000.0,
+      "sharesOutstanding": 45747732.0,
+      "grossMargin": 0.638507711615311,
+      "operatingMargin": 0.29260378480134747,
+      "netMargin": 0.2575753822781466,
+      "roe": 0.19453434352882487,
+      "roic": 0.21209718203227632
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 21926900000.0,
+      "operatingIncome": 5770600000.0,
+      "netIncome": 5513300000.0,
+      "eps": 120.51,
+      "freeCashFlow": 2379100000.0,
+      "totalDebt": 945400000.0,
+      "cash": 1120000000.0,
+      "sharesOutstanding": 45747732.0,
+      "grossMargin": 0.6373267538958995,
+      "operatingMargin": 0.2631744569455783,
+      "netMargin": 0.25144001204000566,
+      "roe": 0.15333718996312098,
+      "roic": 0.15638143346485714
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22813500000.0,
+      "operatingIncome": 6794400000.0,
+      "netIncome": 7676000000.0,
+      "eps": 167.79,
+      "freeCashFlow": 6316000000.0,
+      "totalDebt": 1084000000.0,
+      "cash": 4950700000.0,
+      "sharesOutstanding": 45747732.0,
+      "grossMargin": 0.6447498191860083,
+      "operatingMargin": 0.2978236570451706,
+      "netMargin": 0.3364674425230675,
+      "roe": 0.18200744058557267,
+      "roic": 0.1570665378275976
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 25196500000.0,
+      "operatingIncome": 8463600000.0,
+      "netIncome": 7224300000.0,
+      "eps": null,
+      "freeCashFlow": 9423400000.0,
+      "totalDebt": 702300000.0,
+      "cash": 1026600000.0,
+      "sharesOutstanding": 45747732.0,
+      "grossMargin": 0.6490345881372412,
+      "operatingMargin": 0.33590379616216537,
+      "netMargin": 0.2867183934276586,
+      "roe": 0.17188845796949725,
+      "roic": 0.19806558658407303
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:40.811929+00:00"
+  }
+}

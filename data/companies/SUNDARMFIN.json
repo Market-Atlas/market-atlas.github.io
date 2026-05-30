@@ -1,0 +1,128 @@
+{
+  "ticker": "SUNDARMFIN",
+  "name": "Sundaram Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 461671366656.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4188.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 49446000000.0,
+    "operatingIncome": null,
+    "netIncome": 20588600000.0,
+    "eps": 186.807311,
+    "freeCashFlow": -59546400000.0,
+    "totalDebt": 607632600000.0,
+    "cash": 15196800000.0,
+    "sharesOutstanding": 110213031.0
+  },
+  "ratios": {
+    "roe": 0.13823743675996147,
+    "roic": null,
+    "grossMargin": 0.88615,
+    "operatingMargin": 0.60705,
+    "netMargin": 0.41638555191522064,
+    "debtToEquity": 4.081259999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 29525600000.0,
+      "operatingIncome": null,
+      "netIncome": 13277600000.0,
+      "eps": 120.49,
+      "freeCashFlow": -65296400000.0,
+      "totalDebt": 359856900000.0,
+      "cash": 4369500000.0,
+      "sharesOutstanding": 111103860.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4496978892892947,
+      "roe": 0.13384960770338888,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 36276400000.0,
+      "operatingIncome": null,
+      "netIncome": 14360200000.0,
+      "eps": 130.31,
+      "freeCashFlow": -85709800000.0,
+      "totalDebt": 444595900000.0,
+      "cash": 6421800000.0,
+      "sharesOutstanding": 111103860.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.39585515652049263,
+      "roe": 0.12962540044754442,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 41940500000.0,
+      "operatingIncome": null,
+      "netIncome": 18794400000.0,
+      "eps": 170.52793,
+      "freeCashFlow": -90426200000.0,
+      "totalDebt": 525381700000.0,
+      "cash": 11474600000.0,
+      "sharesOutstanding": 111103860.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4481205517340041,
+      "roe": 0.1424160196047081,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 49446000000.0,
+      "operatingIncome": null,
+      "netIncome": 20588600000.0,
+      "eps": 186.807311,
+      "freeCashFlow": -59546400000.0,
+      "totalDebt": 607632600000.0,
+      "cash": 15196800000.0,
+      "sharesOutstanding": 110213031.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.41638555191522064,
+      "roe": 0.13823743675996147,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:58.764529+00:00"
+  }
+}

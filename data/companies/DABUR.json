@@ -1,0 +1,128 @@
+{
+  "ticker": "DABUR",
+  "name": "Dabur India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 786570477568.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 443.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 131925700000.0,
+    "operatingIncome": 19829100000.0,
+    "netIncome": 18950300000.0,
+    "eps": 10.66,
+    "freeCashFlow": 21584800000.0,
+    "totalDebt": 12873200000.0,
+    "cash": 1993700000.0,
+    "sharesOutstanding": 1773690172.0
+  },
+  "ratios": {
+    "roe": 0.16594655467129968,
+    "roic": 0.1560505995196288,
+    "grossMargin": 0.48275658192452264,
+    "operatingMargin": 0.15030505807435549,
+    "netMargin": 0.14364373279808257,
+    "debtToEquity": 0.10907
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 114265100000.0,
+      "operatingIncome": 18685100000.0,
+      "netIncome": 17071500000.0,
+      "eps": 9.61,
+      "freeCashFlow": 9793400000.0,
+      "totalDebt": 11737900000.0,
+      "cash": 1468100000.0,
+      "sharesOutstanding": 1771763464.0,
+      "grossMargin": 0.4472424213517513,
+      "operatingMargin": 0.16352412066326463,
+      "netMargin": 0.1494025734891931,
+      "roe": 0.190248583012194,
+      "roic": 0.1841431746172533
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 122616500000.0,
+      "operatingIncome": 20187600000.0,
+      "netIncome": 18426800000.0,
+      "eps": 10.38,
+      "freeCashFlow": 14496100000.0,
+      "totalDebt": 13650900000.0,
+      "cash": 2475900000.0,
+      "sharesOutstanding": 1772039162.0,
+      "grossMargin": 0.470184681506975,
+      "operatingMargin": 0.16464015854309982,
+      "netMargin": 0.1502799378550195,
+      "roe": 0.18676504870113417,
+      "roic": 0.17974266764843888
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 125630900000.0,
+      "operatingIncome": 18707400000.0,
+      "netIncome": 17676300000.0,
+      "eps": 9.95,
+      "freeCashFlow": 14172100000.0,
+      "totalDebt": 9500800000.0,
+      "cash": 1841700000.0,
+      "sharesOutstanding": 1772318252.0,
+      "grossMargin": 0.47983656886960135,
+      "operatingMargin": 0.14890763339274016,
+      "netMargin": 0.14070025765954078,
+      "roe": 0.16365898845351548,
+      "roic": 0.15920148211564009
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 131925700000.0,
+      "operatingIncome": 19829100000.0,
+      "netIncome": 18950300000.0,
+      "eps": 10.66,
+      "freeCashFlow": 21584800000.0,
+      "totalDebt": 12873200000.0,
+      "cash": 1993700000.0,
+      "sharesOutstanding": 1773690172.0,
+      "grossMargin": 0.48275658192452264,
+      "operatingMargin": 0.15030505807435549,
+      "netMargin": 0.14364373279808257,
+      "roe": 0.16594655467129968,
+      "roic": 0.1560505995196288
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:30.521024+00:00"
+  }
+}

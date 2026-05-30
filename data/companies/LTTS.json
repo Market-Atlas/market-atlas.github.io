@@ -1,0 +1,111 @@
+{
+  "ticker": "LTTS",
+  "name": "L&T Technology Services Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 364069814272.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3432.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 109959000000.0,
+    "operatingIncome": 15905000000.0,
+    "netIncome": 12792000000.0,
+    "eps": 120.53,
+    "freeCashFlow": 12700000000.0,
+    "totalDebt": 5785000000.0,
+    "cash": 16497000000.0,
+    "sharesOutstanding": 105998143.0
+  },
+  "ratios": {
+    "roe": 0.19763004619401486,
+    "roic": 0.22556444293169958,
+    "grossMargin": 0.27251975736410844,
+    "operatingMargin": 0.14464482216098729,
+    "netMargin": 0.1163342700461081,
+    "debtToEquity": 0.08911
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 88155000000.0,
+      "operatingIncome": 15463000000.0,
+      "netIncome": 12121000000.0,
+      "eps": 114.48,
+      "freeCashFlow": 11315000000.0,
+      "totalDebt": 4542000000.0,
+      "cash": 5346000000.0,
+      "sharesOutstanding": 105608142.0,
+      "grossMargin": 0.3367023991832568,
+      "operatingMargin": 0.175406953661165,
+      "netMargin": 0.13749645510748115,
+      "roe": 0.2733094320052312,
+      "roic": 0.31627497903499624
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 96473000000.0,
+      "operatingIncome": 16971000000.0,
+      "netIncome": 13037000000.0,
+      "eps": 123.0,
+      "freeCashFlow": 12400000000.0,
+      "totalDebt": 6588000000.0,
+      "cash": 11221000000.0,
+      "sharesOutstanding": 105753842.0,
+      "grossMargin": 0.3109885667492459,
+      "operatingMargin": 0.17591450457640997,
+      "netMargin": 0.13513625573994797,
+      "roe": 0.2447297779279533,
+      "roic": 0.2835162632185636
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 96422000000.0,
+      "operatingIncome": 15077000000.0,
+      "netIncome": 12667000000.0,
+      "eps": 119.44,
+      "freeCashFlow": 13695000000.0,
+      "totalDebt": 5776000000.0,
+      "cash": 13831000000.0,
+      "sharesOutstanding": 105879693.0,
+      "grossMargin": 0.2828503868411773,
+      "operatingMargin": 0.15636473004086204,
+      "netMargin": 0.13137043413328908,
+      "roe": 0.2083388157894737,
+      "roic": 0.2264629896659457
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 109959000000.0,
+      "operatingIncome": 15905000000.0,
+      "netIncome": 12792000000.0,
+      "eps": 120.53,
+      "freeCashFlow": 12700000000.0,
+      "totalDebt": 5785000000.0,
+      "cash": 16497000000.0,
+      "sharesOutstanding": 105998143.0,
+      "grossMargin": 0.27251975736410844,
+      "operatingMargin": 0.14464482216098729,
+      "netMargin": 0.1163342700461081,
+      "roe": 0.19763004619401486,
+      "roic": 0.22556444293169958
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:21.619646+00:00"
+  }
+}

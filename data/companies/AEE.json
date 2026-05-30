@@ -1,0 +1,128 @@
+{
+  "ticker": "AEE",
+  "name": "Ameren Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 29880872960.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 107.97,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8799000000.0,
+    "operatingIncome": 2026000000.0,
+    "netIncome": 1456000000.0,
+    "eps": 5.35,
+    "freeCashFlow": -821000000.0,
+    "totalDebt": 19830000000.0,
+    "cash": 13000000.0,
+    "sharesOutstanding": 276400000.0
+  },
+  "ratios": {
+    "roe": 0.10864860831281248,
+    "roic": 0.06096716920947308,
+    "grossMargin": 0.47403113990226164,
+    "operatingMargin": 0.2302534378906694,
+    "netMargin": 0.1654733492442323,
+    "debtToEquity": 1.55674
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7957000000.0,
+      "operatingIncome": 1515000000.0,
+      "netIncome": 1074000000.0,
+      "eps": 4.14,
+      "freeCashFlow": -1117000000.0,
+      "totalDebt": 15095000000.0,
+      "cash": 10000000.0,
+      "sharesOutstanding": 262000000.0,
+      "grossMargin": 0.4201332160361945,
+      "operatingMargin": 0.1903983913535252,
+      "netMargin": 0.13497549327636044,
+      "roe": 0.10220784164446137,
+      "roic": 0.0591727531929852
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7500000000.0,
+      "operatingIncome": 1558000000.0,
+      "netIncome": 1152000000.0,
+      "eps": 4.38,
+      "freeCashFlow": -1207000000.0,
+      "totalDebt": 16506000000.0,
+      "cash": 25000000.0,
+      "sharesOutstanding": 266300000.0,
+      "grossMargin": 0.46226666666666666,
+      "operatingMargin": 0.20773333333333333,
+      "netMargin": 0.1536,
+      "roe": 0.10150674068199841,
+      "roic": 0.055932507628791955
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7623000000.0,
+      "operatingIncome": 1516000000.0,
+      "netIncome": 1182000000.0,
+      "eps": 4.42,
+      "freeCashFlow": -1647000000.0,
+      "totalDebt": 18722000000.0,
+      "cash": 7000000.0,
+      "sharesOutstanding": 269900000.0,
+      "grossMargin": 0.47920766102584283,
+      "operatingMargin": 0.1988718352354716,
+      "netMargin": 0.15505706414797324,
+      "roe": 0.09757305596830114,
+      "roic": 0.049163315605136856
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8799000000.0,
+      "operatingIncome": 2026000000.0,
+      "netIncome": 1456000000.0,
+      "eps": 5.35,
+      "freeCashFlow": -821000000.0,
+      "totalDebt": 19830000000.0,
+      "cash": 13000000.0,
+      "sharesOutstanding": 276400000.0,
+      "grossMargin": 0.47403113990226164,
+      "operatingMargin": 0.2302534378906694,
+      "netMargin": 0.1654733492442323,
+      "roe": 0.10864860831281248,
+      "roic": 0.06096716920947308
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:40.138105+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TXT",
+  "name": "Textron Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15956052992.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 91.76,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14799000000.0,
+    "operatingIncome": 1001000000.0,
+    "netIncome": 921000000.0,
+    "eps": 5.109343,
+    "freeCashFlow": 929000000.0,
+    "totalDebt": 3878000000.0,
+    "cash": 2025000000.0,
+    "sharesOutstanding": 175000000.0
+  },
+  "ratios": {
+    "roe": 0.11695238095238095,
+    "roic": 0.0851697438951757,
+    "grossMargin": 0.18210689911480504,
+    "operatingMargin": 0.06763970538549902,
+    "netMargin": 0.06223393472531928,
+    "debtToEquity": 0.52674
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12869000000.0,
+      "operatingIncome": 883000000.0,
+      "netIncome": 861000000.0,
+      "eps": 4.01,
+      "freeCashFlow": 1134000000.0,
+      "totalDebt": 3557000000.0,
+      "cash": 2035000000.0,
+      "sharesOutstanding": 206200000.0,
+      "grossMargin": 0.20747532830833787,
+      "operatingMargin": 0.06861449996114695,
+      "netMargin": 0.06690496542077862,
+      "roe": 0.12104597216364403,
+      "roic": 0.08275538894095595
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13683000000.0,
+      "operatingIncome": 1053000000.0,
+      "netIncome": 921000000.0,
+      "eps": 4.564513,
+      "freeCashFlow": 864000000.0,
+      "totalDebt": 3874000000.0,
+      "cash": 2181000000.0,
+      "sharesOutstanding": 195000000.0,
+      "grossMargin": 0.2081414894394504,
+      "operatingMargin": 0.07695680771760578,
+      "netMargin": 0.06730980048235036,
+      "roe": 0.13181623014169172,
+      "roic": 0.09695239849001012
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13702000000.0,
+      "operatingIncome": 855000000.0,
+      "netIncome": 824000000.0,
+      "eps": 4.329846,
+      "freeCashFlow": 650000000.0,
+      "totalDebt": 3588000000.0,
+      "cash": 1441000000.0,
+      "sharesOutstanding": 184000000.0,
+      "grossMargin": 0.18260108013428697,
+      "operatingMargin": 0.0623996496861772,
+      "netMargin": 0.060137206247263174,
+      "roe": 0.11438089950027762,
+      "roic": 0.07922535211267606
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14799000000.0,
+      "operatingIncome": 1001000000.0,
+      "netIncome": 921000000.0,
+      "eps": 5.109343,
+      "freeCashFlow": 929000000.0,
+      "totalDebt": 3878000000.0,
+      "cash": 2025000000.0,
+      "sharesOutstanding": 175000000.0,
+      "grossMargin": 0.18210689911480504,
+      "operatingMargin": 0.06763970538549902,
+      "netMargin": 0.06223393472531928,
+      "roe": 0.11695238095238095,
+      "roic": 0.0851697438951757
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:30.389049+00:00"
+  }
+}

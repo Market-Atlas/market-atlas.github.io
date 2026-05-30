@@ -1,0 +1,128 @@
+{
+  "ticker": "CVNA",
+  "name": "Carvana Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto & Truck Dealerships",
+  "currency": "USD",
+  "marketCap": {
+    "value": 80069009408.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 73.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20322000000.0,
+    "operatingIncome": 1881000000.0,
+    "netIncome": 1407000000.0,
+    "eps": 1.69,
+    "freeCashFlow": 889000000.0,
+    "totalDebt": 5521000000.0,
+    "cash": 2327000000.0,
+    "sharesOutstanding": 711150000.0
+  },
+  "ratios": {
+    "roe": 0.40889276373147343,
+    "roic": 0.20988618611916982,
+    "grossMargin": 0.20627890955614606,
+    "operatingMargin": 0.09255978742249779,
+    "netMargin": 0.06923531148509005,
+    "debtToEquity": 1.21351
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13604000000.0,
+      "operatingIncome": -1504000000.0,
+      "netIncome": -1587000000.0,
+      "eps": -3.148,
+      "freeCashFlow": -1836000000.0,
+      "totalDebt": 8816000000.0,
+      "cash": 434000000.0,
+      "sharesOutstanding": 530185000.0,
+      "grossMargin": 0.0915907086151132,
+      "operatingMargin": -0.11055571890620405,
+      "netMargin": -0.11665686562775654,
+      "roe": 3.063706563706564,
+      "roic": -0.18124849361291878
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10771000000.0,
+      "operatingIncome": -80000000.0,
+      "netIncome": 450000000.0,
+      "eps": 0.15,
+      "freeCashFlow": 716000000.0,
+      "totalDebt": 6706000000.0,
+      "cash": 530000000.0,
+      "sharesOutstanding": 571195000.0,
+      "grossMargin": 0.16005941880976696,
+      "operatingMargin": -0.007427351220870857,
+      "netMargin": 0.04177885061739857,
+      "roe": 1.8518518518518519,
+      "roic": -0.011512447834220752
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13673000000.0,
+      "operatingIncome": 990000000.0,
+      "netIncome": 210000000.0,
+      "eps": 0.318,
+      "freeCashFlow": 827000000.0,
+      "totalDebt": 6046000000.0,
+      "cash": 1716000000.0,
+      "sharesOutstanding": 666355000.0,
+      "grossMargin": 0.21034154903825056,
+      "operatingMargin": 0.07240547063555913,
+      "netMargin": 0.015358736195421633,
+      "roe": 0.16666666666666666,
+      "roic": 0.1355050643306871
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20322000000.0,
+      "operatingIncome": 1881000000.0,
+      "netIncome": 1407000000.0,
+      "eps": 1.69,
+      "freeCashFlow": 889000000.0,
+      "totalDebt": 5521000000.0,
+      "cash": 2327000000.0,
+      "sharesOutstanding": 711150000.0,
+      "grossMargin": 0.20627890955614606,
+      "operatingMargin": 0.09255978742249779,
+      "netMargin": 0.06923531148509005,
+      "roe": 0.40889276373147343,
+      "roic": 0.20988618611916982
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:08.569572+00:00"
+  }
+}

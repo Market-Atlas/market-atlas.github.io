@@ -1,0 +1,128 @@
+{
+  "ticker": "PFC",
+  "name": "Power Finance Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1414423642112.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 428.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 432365900000.0,
+    "operatingIncome": null,
+    "netIncome": 259009500000.0,
+    "eps": 78.49,
+    "freeCashFlow": -48416200000.0,
+    "totalDebt": 10125034600000.0,
+    "cash": 46726800000.0,
+    "sharesOutstanding": 3300101760.0
+  },
+  "ratios": {
+    "roe": 0.19494781536243835,
+    "roic": null,
+    "grossMargin": 0.99286,
+    "operatingMargin": 0.93324995,
+    "netMargin": 0.5990516365883618,
+    "debtToEquity": 5.86017
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 275173700000.0,
+      "operatingIncome": null,
+      "netIncome": 158893300000.0,
+      "eps": 48.15,
+      "freeCashFlow": -748400000000.0,
+      "totalDebt": 7806405600000.0,
+      "cash": 4157300000.0,
+      "sharesOutstanding": 3300101760.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5774290929692772,
+      "roe": 0.18880246069053758,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 335664000000.0,
+      "operatingIncome": null,
+      "netIncome": 197611600000.0,
+      "eps": 59.88,
+      "freeCashFlow": -981438200000.0,
+      "totalDebt": 8915026400000.0,
+      "cash": 6860500000.0,
+      "sharesOutstanding": 3300101760.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5887184803851471,
+      "roe": 0.195371142350863,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 418243400000.0,
+      "operatingIncome": null,
+      "netIncome": 229908100000.0,
+      "eps": 69.67,
+      "freeCashFlow": -931104900000.0,
+      "totalDebt": 10008104200000.0,
+      "cash": 10375700000.0,
+      "sharesOutstanding": 3300101760.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5496992899349996,
+      "roe": 0.19527036008233511,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 432365900000.0,
+      "operatingIncome": null,
+      "netIncome": 259009500000.0,
+      "eps": 78.49,
+      "freeCashFlow": -48416200000.0,
+      "totalDebt": 10125034600000.0,
+      "cash": 46726800000.0,
+      "sharesOutstanding": 3300101760.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5990516365883618,
+      "roe": 0.19494781536243835,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:40.911328+00:00"
+  }
+}

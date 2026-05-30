@@ -1,0 +1,128 @@
+{
+  "ticker": "HDFCAMC",
+  "name": "HDFC Asset Management Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1146347454464.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2674.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 41221600000.0,
+    "operatingIncome": 35589700000.0,
+    "netIncome": 28580600000.0,
+    "eps": 66.5,
+    "freeCashFlow": 25051900000.0,
+    "totalDebt": null,
+    "cash": 115800000.0,
+    "sharesOutstanding": 428400181.0
+  },
+  "ratios": {
+    "roe": 0.30969225384696236,
+    "roic": 0.3856411134383895,
+    "grossMargin": 0.8810599297455702,
+    "operatingMargin": 0.863375026685039,
+    "netMargin": 0.6933403846527063,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 1096200000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 21668100000.0,
+      "operatingIncome": 15639400000.0,
+      "netIncome": 14233700000.0,
+      "eps": 33.355,
+      "freeCashFlow": 11352500000.0,
+      "totalDebt": 1304700000.0,
+      "cash": 44600000.0,
+      "sharesOutstanding": 426849432.0,
+      "grossMargin": 0.8773496522537739,
+      "operatingMargin": 0.7217707136297137,
+      "netMargin": 0.6568965437671046,
+      "roe": 0.23304059386163967,
+      "roic": 0.2507001117293361
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25843700000.0,
+      "operatingIncome": 19051400000.0,
+      "netIncome": 19426900000.0,
+      "eps": 45.445,
+      "freeCashFlow": 15956600000.0,
+      "totalDebt": null,
+      "cash": 103300000.0,
+      "sharesOutstanding": 426968000.0,
+      "grossMargin": 0.8854421000088997,
+      "operatingMargin": 0.737177726099591,
+      "netMargin": 0.7517073793613144,
+      "roe": 0.27458477090491745,
+      "roic": 0.2692773579118616
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 34984400000.0,
+      "operatingIncome": 30464900000.0,
+      "netIncome": 24601900000.0,
+      "eps": 57.38,
+      "freeCashFlow": 20300100000.0,
+      "totalDebt": null,
+      "cash": 121300000.0,
+      "sharesOutstanding": 427586172.0,
+      "grossMargin": 0.8875470209579127,
+      "operatingMargin": 0.8708138484581699,
+      "netMargin": 0.7032248659402477,
+      "roe": 0.30260714048497045,
+      "roic": 0.37472293904782056
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 41221600000.0,
+      "operatingIncome": 35589700000.0,
+      "netIncome": 28580600000.0,
+      "eps": 66.5,
+      "freeCashFlow": 25051900000.0,
+      "totalDebt": null,
+      "cash": 115800000.0,
+      "sharesOutstanding": 428400181.0,
+      "grossMargin": 0.8810599297455702,
+      "operatingMargin": 0.863375026685039,
+      "netMargin": 0.6933403846527063,
+      "roe": 0.30969225384696236,
+      "roic": 0.3856411134383895
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:52.297611+00:00"
+  }
+}

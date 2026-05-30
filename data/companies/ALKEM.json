@@ -1,0 +1,128 @@
+{
+  "ticker": "ALKEM",
+  "name": "Alkem Laboratories Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 657368350720.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5498.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 147122700000.0,
+    "operatingIncome": 26231500000.0,
+    "netIncome": 23018000000.0,
+    "eps": 192.51,
+    "freeCashFlow": 13457700000.0,
+    "totalDebt": 20471600000.0,
+    "cash": 2479100000.0,
+    "sharesOutstanding": 119565000.0
+  },
+  "ratios": {
+    "roe": 0.1665545111829871,
+    "roic": 0.1653183977573948,
+    "grossMargin": 0.6538419971901005,
+    "operatingMargin": 0.17829675502148887,
+    "netMargin": 0.1564544424483781,
+    "debtToEquity": 0.14267
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 114403500000.0,
+      "operatingIncome": 13341700000.0,
+      "netIncome": 9841700000.0,
+      "eps": 82.31,
+      "freeCashFlow": 14495900000.0,
+      "totalDebt": 13966800000.0,
+      "cash": 2738000000.0,
+      "sharesOutstanding": 119565000.0,
+      "grossMargin": 0.5644958414733815,
+      "operatingMargin": 0.1166196838383441,
+      "netMargin": 0.08602621423295616,
+      "roe": 0.10880469282908563,
+      "roic": 0.12776995145552036
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 124392400000.0,
+      "operatingIncome": 19848600000.0,
+      "netIncome": 17957700000.0,
+      "eps": 150.19,
+      "freeCashFlow": 16887800000.0,
+      "totalDebt": 14184100000.0,
+      "cash": 4550700000.0,
+      "sharesOutstanding": 119565000.0,
+      "grossMargin": 0.5954921683318274,
+      "operatingMargin": 0.15956441068746965,
+      "netMargin": 0.14436332123184376,
+      "roe": 0.1741427028159262,
+      "roic": 0.16920549645495875
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 129645200000.0,
+      "operatingIncome": 21549900000.0,
+      "netIncome": 21654800000.0,
+      "eps": 181.11,
+      "freeCashFlow": 12372200000.0,
+      "totalDebt": 13809000000.0,
+      "cash": 3041400000.0,
+      "sharesOutstanding": 119565000.0,
+      "grossMargin": 0.6325155115654109,
+      "operatingMargin": 0.16622212006306442,
+      "netMargin": 0.16703125144625486,
+      "roe": 0.18068447968146506,
+      "roic": 0.16123201282081018
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 147122700000.0,
+      "operatingIncome": 26231500000.0,
+      "netIncome": 23018000000.0,
+      "eps": 192.51,
+      "freeCashFlow": 13457700000.0,
+      "totalDebt": 20471600000.0,
+      "cash": 2479100000.0,
+      "sharesOutstanding": 119565000.0,
+      "grossMargin": 0.6538419971901005,
+      "operatingMargin": 0.17829675502148887,
+      "netMargin": 0.1564544424483781,
+      "roe": 0.1665545111829871,
+      "roic": 0.1653183977573948
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:51.157186+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CARTRADE",
+  "name": "CarTrade Tech Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto & Truck Dealerships",
+  "currency": "INR",
+  "marketCap": {
+    "value": 83164725248.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1735.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7792672000.0,
+    "operatingIncome": 2183126000.0,
+    "netIncome": 2229995000.0,
+    "eps": 44.6,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 47928035.0
+  },
+  "ratios": {
+    "roe": 0.09849,
+    "roic": null,
+    "grossMargin": 0.60593,
+    "operatingMargin": 0.280151147128995,
+    "netMargin": 0.2861656438253785,
+    "debtToEquity": 0.053630000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3633028000.0,
+      "operatingIncome": 102338000.0,
+      "netIncome": 339976000.0,
+      "eps": 6.71,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.9801003460474293,
+      "operatingMargin": 0.02816878923036101,
+      "netMargin": 0.09357924023706947,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4895978000.0,
+      "operatingIncome": 442719000.0,
+      "netIncome": 143029000.0,
+      "eps": 2.81,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.9989513841769714,
+      "operatingMargin": 0.09042503867460189,
+      "netMargin": 0.029213570812613946,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 6414573000.0,
+      "operatingIncome": 1100088000.0,
+      "netIncome": 1346508000.0,
+      "eps": 26.42,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.9982687857788819,
+      "operatingMargin": 0.17149824314104772,
+      "netMargin": 0.2099138945024088,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 7792672000.0,
+      "operatingIncome": 2183126000.0,
+      "netIncome": 2229995000.0,
+      "eps": 44.6,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": 0.280151147128995,
+      "netMargin": 0.2861656438253785,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:08.497948+00:00"
+  }
+}

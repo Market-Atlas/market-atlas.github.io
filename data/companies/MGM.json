@@ -1,0 +1,128 @@
+{
+  "ticker": "MGM",
+  "name": "MGM Resorts International",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11173022720.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 43.67,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17537683000.0,
+    "operatingIncome": 1337847000.0,
+    "netIncome": 205862000.0,
+    "eps": 0.76,
+    "freeCashFlow": 1460451000.0,
+    "totalDebt": 31375801000.0,
+    "cash": 2062994000.0,
+    "sharesOutstanding": 258323143.0
+  },
+  "ratios": {
+    "roe": 0.08471976614839108,
+    "roic": 0.03957457729488248,
+    "grossMargin": 0.4441938538859438,
+    "operatingMargin": 0.07628413627957581,
+    "netMargin": 0.011738266679811695,
+    "debtToEquity": 9.51186
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13127485000.0,
+      "operatingIncome": -1713283000.0,
+      "netIncome": 1473093000.0,
+      "eps": 3.49,
+      "freeCashFlow": 991395000.0,
+      "totalDebt": 33994990000.0,
+      "cash": 5911893000.0,
+      "sharesOutstanding": 379087524.0,
+      "grossMargin": 0.49320201089546095,
+      "operatingMargin": -0.13051113751034565,
+      "netMargin": 0.1122144112143339,
+      "roe": 0.30489168128764205,
+      "roic": -0.04412661871644996
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16164249000.0,
+      "operatingIncome": 1583503000.0,
+      "netIncome": 1142180000.0,
+      "eps": 3.19,
+      "freeCashFlow": 1758964000.0,
+      "totalDebt": 31555428000.0,
+      "cash": 2927833000.0,
+      "sharesOutstanding": 326550141.0,
+      "grossMargin": 0.47083455593885,
+      "operatingMargin": 0.09796328923168654,
+      "netMargin": 0.07066087635744785,
+      "roe": 0.29969274527244916,
+      "roic": 0.04477397006067703
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17240545000.0,
+      "operatingIncome": 1670397000.0,
+      "netIncome": 746558000.0,
+      "eps": 2.4,
+      "freeCashFlow": 1211906000.0,
+      "totalDebt": 31610449000.0,
+      "cash": 2415532000.0,
+      "sharesOutstanding": 294374189.0,
+      "grossMargin": 0.45514825662413805,
+      "operatingMargin": 0.09688771439649965,
+      "netMargin": 0.04330245940601066,
+      "roe": 0.2469200236416237,
+      "roic": 0.04823007380334834
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17537683000.0,
+      "operatingIncome": 1337847000.0,
+      "netIncome": 205862000.0,
+      "eps": 0.76,
+      "freeCashFlow": 1460451000.0,
+      "totalDebt": 31375801000.0,
+      "cash": 2062994000.0,
+      "sharesOutstanding": 258323143.0,
+      "grossMargin": 0.4441938538859438,
+      "operatingMargin": 0.07628413627957581,
+      "netMargin": 0.011738266679811695,
+      "roe": 0.08471976614839108,
+      "roic": 0.03957457729488248
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:54.280741+00:00"
+  }
+}

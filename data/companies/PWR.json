@@ -1,0 +1,128 @@
+{
+  "ticker": "PWR",
+  "name": "Quanta Services, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 106802307072.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 711.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28479697000.0,
+    "operatingIncome": 1587077000.0,
+    "netIncome": 1028378000.0,
+    "eps": 6.8,
+    "freeCashFlow": 1620816000.0,
+    "totalDebt": 6418954000.0,
+    "cash": 439508000.0,
+    "sharesOutstanding": 179534355.0
+  },
+  "ratios": {
+    "roe": 0.11505363075027335,
+    "roic": 0.10334414411270074,
+    "grossMargin": 0.1501097782044521,
+    "operatingMargin": 0.055726611136347415,
+    "netMargin": 0.036109162256887775,
+    "debtToEquity": 0.69121
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17073903000.0,
+      "operatingIncome": 838471000.0,
+      "netIncome": 491189000.0,
+      "eps": 3.32,
+      "freeCashFlow": 702682000.0,
+      "totalDebt": 3975491000.0,
+      "cash": 428505000.0,
+      "sharesOutstanding": 170638525.0,
+      "grossMargin": 0.14812986813852697,
+      "operatingMargin": 0.04910833802909622,
+      "netMargin": 0.02876840755157154,
+      "roe": 0.09124032407386769,
+      "roic": 0.08959023737158689
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20882206000.0,
+      "operatingIncome": 1092935000.0,
+      "netIncome": 744689000.0,
+      "eps": 5.0,
+      "freeCashFlow": 1141149000.0,
+      "totalDebt": 4463697000.0,
+      "cash": 1290248000.0,
+      "sharesOutstanding": 173949011.0,
+      "grossMargin": 0.14065017843421332,
+      "operatingMargin": 0.05233810067767745,
+      "netMargin": 0.03566141431609285,
+      "roe": 0.11872774021278838,
+      "roic": 0.10180153797460455
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23672795000.0,
+      "operatingIncome": 1303048000.0,
+      "netIncome": 904824000.0,
+      "eps": 6.03,
+      "freeCashFlow": 1477118000.0,
+      "totalDebt": 4478957000.0,
+      "cash": 741960000.0,
+      "sharesOutstanding": 176718480.0,
+      "grossMargin": 0.1483036118041828,
+      "operatingMargin": 0.05504411287302577,
+      "netMargin": 0.03822210262877704,
+      "roe": 0.1236481636179302,
+      "roic": 0.11045879996148071
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 28479697000.0,
+      "operatingIncome": 1587077000.0,
+      "netIncome": 1028378000.0,
+      "eps": 6.8,
+      "freeCashFlow": 1620816000.0,
+      "totalDebt": 6418954000.0,
+      "cash": 439508000.0,
+      "sharesOutstanding": 179534355.0,
+      "grossMargin": 0.1501097782044521,
+      "operatingMargin": 0.055726611136347415,
+      "netMargin": 0.036109162256887775,
+      "roe": 0.11505363075027335,
+      "roic": 0.10334414411270074
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:12.968432+00:00"
+  }
+}

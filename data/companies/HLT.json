@@ -1,0 +1,128 @@
+{
+  "ticker": "HLT",
+  "name": "Hilton Worldwide Holdings Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "USD",
+  "marketCap": {
+    "value": 74591264768.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 327.66,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12039000000.0,
+    "operatingIncome": 2693000000.0,
+    "netIncome": 1457000000.0,
+    "eps": 6.12,
+    "freeCashFlow": 1944000000.0,
+    "totalDebt": 13093000000.0,
+    "cash": 918000000.0,
+    "sharesOutstanding": 336974092.0
+  },
+  "ratios": {
+    "roe": -0.2704157386785449,
+    "roic": 0.3495133030499675,
+    "grossMargin": 0.2820001661267547,
+    "operatingMargin": 0.22368967522219455,
+    "netMargin": 0.12102334080903729,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8773000000.0,
+      "operatingIncome": 2094000000.0,
+      "netIncome": 1255000000.0,
+      "eps": 4.53,
+      "freeCashFlow": 1579000000.0,
+      "totalDebt": 9691000000.0,
+      "cash": 1209000000.0,
+      "sharesOutstanding": 333077386.0,
+      "grossMargin": 0.3075344807933432,
+      "operatingMargin": 0.23868688020061551,
+      "netMargin": 0.1430525475891941,
+      "roe": -1.1388384754990926,
+      "roic": 0.24380020957038073
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10235000000.0,
+      "operatingIncome": 2263000000.0,
+      "netIncome": 1141000000.0,
+      "eps": 4.33,
+      "freeCashFlow": 1699000000.0,
+      "totalDebt": 10120000000.0,
+      "cash": 800000000.0,
+      "sharesOutstanding": 334295337.0,
+      "grossMargin": 0.2862725940400586,
+      "operatingMargin": 0.22110405471421593,
+      "netMargin": 0.11148021494870543,
+      "roe": -0.48347457627118645,
+      "roic": 0.2916237113402062
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11174000000.0,
+      "operatingIncome": 2365000000.0,
+      "netIncome": 1535000000.0,
+      "eps": 6.14,
+      "freeCashFlow": 1815000000.0,
+      "totalDebt": 11886000000.0,
+      "cash": 1301000000.0,
+      "sharesOutstanding": 335894338.0,
+      "grossMargin": 0.27411848935027744,
+      "operatingMargin": 0.21165204940039378,
+      "netMargin": 0.1373724718095579,
+      "roe": -0.4118594043466595,
+      "roic": 0.28986395391592107
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12039000000.0,
+      "operatingIncome": 2693000000.0,
+      "netIncome": 1457000000.0,
+      "eps": 6.12,
+      "freeCashFlow": 1944000000.0,
+      "totalDebt": 13093000000.0,
+      "cash": 918000000.0,
+      "sharesOutstanding": 336974092.0,
+      "grossMargin": 0.2820001661267547,
+      "operatingMargin": 0.22368967522219455,
+      "netMargin": 0.12102334080903729,
+      "roe": -0.2704157386785449,
+      "roic": 0.3495133030499675
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:34.844023+00:00"
+  }
+}

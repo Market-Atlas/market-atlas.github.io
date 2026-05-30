@@ -1,0 +1,128 @@
+{
+  "ticker": "TRIDENT",
+  "name": "Trident Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 122497851392.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.04,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 67010500000.0,
+    "operatingIncome": 5679200000.0,
+    "netIncome": 3771100000.0,
+    "eps": 0.74,
+    "freeCashFlow": 4443600000.0,
+    "totalDebt": 18285300000.0,
+    "cash": 308600000.0,
+    "sharesOutstanding": 5095955670.0
+  },
+  "ratios": {
+    "roe": 0.07903517191947051,
+    "roic": 0.08604913673588437,
+    "grossMargin": 0.4865879227882198,
+    "operatingMargin": 0.08475089724744629,
+    "netMargin": 0.05627625521373516,
+    "debtToEquity": 0.38323
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 59824200000.0,
+      "operatingIncome": 6328500000.0,
+      "netIncome": 4407400000.0,
+      "eps": 0.88,
+      "freeCashFlow": 6471600000.0,
+      "totalDebt": 14421900000.0,
+      "cash": 1267300000.0,
+      "sharesOutstanding": 5095955670.0,
+      "grossMargin": 0.384752324310229,
+      "operatingMargin": 0.10578494990321642,
+      "netMargin": 0.0736725271712785,
+      "roe": 0.1051228110346275,
+      "roic": 0.11231079663733116
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 64368500000.0,
+      "operatingIncome": 5444500000.0,
+      "netIncome": 3495200000.0,
+      "eps": 0.69,
+      "freeCashFlow": -3600400000.0,
+      "totalDebt": 21258700000.0,
+      "cash": 264000000.0,
+      "sharesOutstanding": 5095955670.0,
+      "grossMargin": 0.4085911587189386,
+      "operatingMargin": 0.08458329773103304,
+      "netMargin": 0.054299851635504943,
+      "roe": 0.08099346296180432,
+      "roic": 0.08452512544090615
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 69870800000.0,
+      "operatingIncome": 5292700000.0,
+      "netIncome": 3698800000.0,
+      "eps": 0.73,
+      "freeCashFlow": 7153600000.0,
+      "totalDebt": 16352300000.0,
+      "cash": 663400000.0,
+      "sharesOutstanding": 5095955670.0,
+      "grossMargin": 0.484145021954808,
+      "operatingMargin": 0.0757498125110919,
+      "netMargin": 0.0529377078836939,
+      "roe": 0.08004345389191493,
+      "roic": 0.08459900706816575
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 67010500000.0,
+      "operatingIncome": 5679200000.0,
+      "netIncome": 3771100000.0,
+      "eps": 0.74,
+      "freeCashFlow": 4443600000.0,
+      "totalDebt": 18285300000.0,
+      "cash": 308600000.0,
+      "sharesOutstanding": 5095955670.0,
+      "grossMargin": 0.4865879227882198,
+      "operatingMargin": 0.08475089724744629,
+      "netMargin": 0.05627625521373516,
+      "roe": 0.07903517191947051,
+      "roic": 0.08604913673588437
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:09.384488+00:00"
+  }
+}

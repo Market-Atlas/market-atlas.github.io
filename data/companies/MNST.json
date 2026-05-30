@@ -1,0 +1,128 @@
+{
+  "ticker": "MNST",
+  "name": "Monster Beverage Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 86142959616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 88.08,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8294343000.0,
+    "operatingIncome": 2419354000.0,
+    "netIncome": 1905432000.0,
+    "eps": 1.94,
+    "freeCashFlow": 1940648000.0,
+    "totalDebt": null,
+    "cash": 2088117000.0,
+    "sharesOutstanding": 1132906000.0
+  },
+  "ratios": {
+    "roe": 0.23084650697567805,
+    "roic": 0.2931090797455037,
+    "grossMargin": 0.5584764218214752,
+    "operatingMargin": 0.29168723791625206,
+    "netMargin": 0.22972669444704663,
+    "debtToEquity": 0.010820000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6311050000.0,
+      "operatingIncome": 1584721000.0,
+      "netIncome": 1191624000.0,
+      "eps": 1.115,
+      "freeCashFlow": 675546000.0,
+      "totalDebt": null,
+      "cash": 1307141000.0,
+      "sharesOutstanding": 1283688000.0,
+      "grossMargin": 0.5030172475261644,
+      "operatingMargin": 0.2511025899018388,
+      "netMargin": 0.18881549029083908,
+      "roe": 0.16962520218743207,
+      "roic": 0.22558174393572936
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7140027000.0,
+      "operatingIncome": 1953355000.0,
+      "netIncome": 1630988000.0,
+      "eps": 1.54,
+      "freeCashFlow": 1483029000.0,
+      "totalDebt": null,
+      "cash": 2297675000.0,
+      "sharesOutstanding": 1122592000.0,
+      "grossMargin": 0.5313993910667285,
+      "operatingMargin": 0.27357809711363834,
+      "netMargin": 0.228428828070258,
+      "roe": 0.19820619039795137,
+      "roic": 0.23738191393486052
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7492709000.0,
+      "operatingIncome": 1930294000.0,
+      "netIncome": 1509048000.0,
+      "eps": 1.62,
+      "freeCashFlow": 1622099000.0,
+      "totalDebt": 373951000.0,
+      "cash": 1533287000.0,
+      "sharesOutstanding": 1126329000.0,
+      "grossMargin": 0.54037571724726,
+      "operatingMargin": 0.25762297721691846,
+      "netMargin": 0.2014021897820935,
+      "roe": 0.25329295545710623,
+      "roic": 0.30486337804455665
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8294343000.0,
+      "operatingIncome": 2419354000.0,
+      "netIncome": 1905432000.0,
+      "eps": 1.94,
+      "freeCashFlow": 1940648000.0,
+      "totalDebt": null,
+      "cash": 2088117000.0,
+      "sharesOutstanding": 1132906000.0,
+      "grossMargin": 0.5584764218214752,
+      "operatingMargin": 0.29168723791625206,
+      "netMargin": 0.22972669444704663,
+      "roe": 0.23084650697567805,
+      "roic": 0.2931090797455037
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:55.965745+00:00"
+  }
+}

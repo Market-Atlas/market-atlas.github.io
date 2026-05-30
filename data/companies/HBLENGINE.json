@@ -1,0 +1,128 @@
+{
+  "ticker": "HBLENGINE",
+  "name": "HBL ENGINEERING LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 228020551680.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 822.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33028300000.0,
+    "operatingIncome": 10623600000.0,
+    "netIncome": 8148900000.0,
+    "eps": 29.39,
+    "freeCashFlow": 5881200000.0,
+    "totalDebt": 668700000.0,
+    "cash": 5282100000.0,
+    "sharesOutstanding": 277194946.0
+  },
+  "ratios": {
+    "roe": 0.3680224365922393,
+    "roic": 0.4657206360061549,
+    "grossMargin": 0.581658759306413,
+    "operatingMargin": 0.32165143225657994,
+    "netMargin": 0.24672477844757373,
+    "debtToEquity": 0.03021
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13576439000.0,
+      "operatingIncome": 1165644000.0,
+      "netIncome": 986528000.0,
+      "eps": 3.55,
+      "freeCashFlow": 585586000.0,
+      "totalDebt": 860209000.0,
+      "cash": 1320171000.0,
+      "sharesOutstanding": 277194946.0,
+      "grossMargin": 0.27701468698824483,
+      "operatingMargin": 0.08585786007656353,
+      "netMargin": 0.07266470979614022,
+      "roe": 0.1036871098771545,
+      "roic": 0.11235469431346316
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 22214540000.0,
+      "operatingIncome": 3839474000.0,
+      "netIncome": 2808863000.0,
+      "eps": 10.133168,
+      "freeCashFlow": 1961619000.0,
+      "totalDebt": 674621000.0,
+      "cash": 2234683000.0,
+      "sharesOutstanding": 277194946.0,
+      "grossMargin": 0.3316905954388432,
+      "operatingMargin": 0.17283607943265988,
+      "netMargin": 0.12644254618821726,
+      "roe": 0.23013256495294343,
+      "roic": 0.29809502055662274
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 19672000000.0,
+      "operatingIncome": 3478500000.0,
+      "netIncome": 2769200000.0,
+      "eps": 9.96,
+      "freeCashFlow": 939300000.0,
+      "totalDebt": 742953000.0,
+      "cash": 1169514000.0,
+      "sharesOutstanding": 277194946.0,
+      "grossMargin": 0.506476209841399,
+      "operatingMargin": 0.17682492883285889,
+      "netMargin": 0.14076860512403416,
+      "roe": 0.18676132513675114,
+      "roic": 0.22340417743012173
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 33028300000.0,
+      "operatingIncome": 10623600000.0,
+      "netIncome": 8148900000.0,
+      "eps": 29.39,
+      "freeCashFlow": 5881200000.0,
+      "totalDebt": 668700000.0,
+      "cash": 5282100000.0,
+      "sharesOutstanding": 277194946.0,
+      "grossMargin": 0.581658759306413,
+      "operatingMargin": 0.32165143225657994,
+      "netMargin": 0.24672477844757373,
+      "roe": 0.3680224365922393,
+      "roic": 0.4657206360061549
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:51.317164+00:00"
+  }
+}

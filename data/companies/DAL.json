@@ -1,0 +1,128 @@
+{
+  "ticker": "DAL",
+  "name": "Delta Air Lines, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "USD",
+  "marketCap": {
+    "value": 54188896256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82.48,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 63364000000.0,
+    "operatingIncome": 5822000000.0,
+    "netIncome": 5005000000.0,
+    "eps": 7.66,
+    "freeCashFlow": 3843000000.0,
+    "totalDebt": 20274000000.0,
+    "cash": 4310000000.0,
+    "sharesOutstanding": 659669346.0
+  },
+  "ratios": {
+    "roe": 0.24001342732460557,
+    "roic": 0.14156150460767866,
+    "grossMargin": 0.24165141089577677,
+    "operatingMargin": 0.09188182564232056,
+    "netMargin": 0.07898806893504198,
+    "debtToEquity": 1.05021
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50582000000.0,
+      "operatingIncome": 3661000000.0,
+      "netIncome": 1318000000.0,
+      "eps": 2.06,
+      "freeCashFlow": -3000000.0,
+      "totalDebt": 30610000000.0,
+      "cash": 3266000000.0,
+      "sharesOutstanding": 651800786.0,
+      "grossMargin": 0.2095014036613815,
+      "operatingMargin": 0.0723775256019928,
+      "netMargin": 0.026056700011861927,
+      "roe": 0.2002430872075357,
+      "roic": 0.09843514734351473
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 58048000000.0,
+      "operatingIncome": 5521000000.0,
+      "netIncome": 4609000000.0,
+      "eps": 7.17,
+      "freeCashFlow": 1141000000.0,
+      "totalDebt": 27281000000.0,
+      "cash": 2741000000.0,
+      "sharesOutstanding": 654671194.0,
+      "grossMargin": 0.24350537486218302,
+      "operatingMargin": 0.09511094266813672,
+      "netMargin": 0.07939980705622933,
+      "roe": 0.415038271049077,
+      "roic": 0.14382847913301725
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 61643000000.0,
+      "operatingIncome": 5995000000.0,
+      "netIncome": 3457000000.0,
+      "eps": 5.33,
+      "freeCashFlow": 2885000000.0,
+      "totalDebt": 22771000000.0,
+      "cash": 3069000000.0,
+      "sharesOutstanding": 654571606.0,
+      "grossMargin": 0.24606200217380725,
+      "operatingMargin": 0.0972535405479941,
+      "netMargin": 0.056080982431095175,
+      "roe": 0.22605113450598313,
+      "roic": 0.1574978982765868
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 63364000000.0,
+      "operatingIncome": 5822000000.0,
+      "netIncome": 5005000000.0,
+      "eps": 7.66,
+      "freeCashFlow": 3843000000.0,
+      "totalDebt": 20274000000.0,
+      "cash": 4310000000.0,
+      "sharesOutstanding": 659669346.0,
+      "grossMargin": 0.24165141089577677,
+      "operatingMargin": 0.09188182564232056,
+      "netMargin": 0.07898806893504198,
+      "roe": 0.24001342732460557,
+      "roic": 0.14156150460767866
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:08.781391+00:00"
+  }
+}

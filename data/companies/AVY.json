@@ -1,0 +1,128 @@
+{
+  "ticker": "AVY",
+  "name": "Avery Dennison Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12167325696.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 159.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8855500000.0,
+    "operatingIncome": 1123800000.0,
+    "netIncome": 688000000.0,
+    "eps": 8.79,
+    "freeCashFlow": 681000000.0,
+    "totalDebt": 3732900000.0,
+    "cash": 202800000.0,
+    "sharesOutstanding": 124126624.0
+  },
+  "ratios": {
+    "roe": 0.3068551804112216,
+    "roic": 0.1880836820083682,
+    "grossMargin": 0.28753881768392525,
+    "operatingMargin": 0.12690418384055108,
+    "netMargin": 0.07769182993619785,
+    "debtToEquity": 1.64751
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9039300000.0,
+      "operatingIncome": 1073400000.0,
+      "netIncome": 757100000.0,
+      "eps": 9.21,
+      "freeCashFlow": 662500000.0,
+      "totalDebt": 3102100000.0,
+      "cash": 167200000.0,
+      "sharesOutstanding": 124126624.0,
+      "grossMargin": 0.2659719226046265,
+      "operatingMargin": 0.11874813315190336,
+      "netMargin": 0.08375648556857279,
+      "roe": 0.37255191418167505,
+      "roic": 0.20906452680988644
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8364300000.0,
+      "operatingIncome": 963800000.0,
+      "netIncome": 503000000.0,
+      "eps": 6.2,
+      "freeCashFlow": 540900000.0,
+      "totalDebt": 3244300000.0,
+      "cash": 215000000.0,
+      "sharesOutstanding": 124126624.0,
+      "grossMargin": 0.2722881771337709,
+      "operatingMargin": 0.1152278134452375,
+      "netMargin": 0.06013653264469233,
+      "roe": 0.2363832886883782,
+      "roic": 0.17940508543985703
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8755700000.0,
+      "operatingIncome": 1115400000.0,
+      "netIncome": 704900000.0,
+      "eps": 8.73,
+      "freeCashFlow": 699000000.0,
+      "totalDebt": 3152200000.0,
+      "cash": 329100000.0,
+      "sharesOutstanding": 124126624.0,
+      "grossMargin": 0.289034571764679,
+      "operatingMargin": 0.1273912993821168,
+      "netMargin": 0.08050755507840607,
+      "roe": 0.30484798685291703,
+      "roic": 0.20411748558880044
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8855500000.0,
+      "operatingIncome": 1123800000.0,
+      "netIncome": 688000000.0,
+      "eps": 8.79,
+      "freeCashFlow": 681000000.0,
+      "totalDebt": 3732900000.0,
+      "cash": 202800000.0,
+      "sharesOutstanding": 124126624.0,
+      "grossMargin": 0.28753881768392525,
+      "operatingMargin": 0.12690418384055108,
+      "netMargin": 0.07769182993619785,
+      "roe": 0.3068551804112216,
+      "roic": 0.1880836820083682
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:48.574028+00:00"
+  }
+}

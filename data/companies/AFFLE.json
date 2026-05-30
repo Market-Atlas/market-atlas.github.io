@@ -1,0 +1,128 @@
+{
+  "ticker": "AFFLE",
+  "name": "Affle 3i Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "currency": "INR",
+  "marketCap": {
+    "value": 205757235200.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1463.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27093090000.0,
+    "operatingIncome": 4856800000.0,
+    "netIncome": 4548510000.0,
+    "eps": null,
+    "freeCashFlow": 2912490000.0,
+    "totalDebt": 148090000.0,
+    "cash": 12074350000.0,
+    "sharesOutstanding": 140757384.0
+  },
+  "ratios": {
+    "roe": 0.1245412028268888,
+    "roic": 0.13244534666004185,
+    "grossMargin": 0.379982866479977,
+    "operatingMargin": 0.1792634210420443,
+    "netMargin": 0.16788450486821546,
+    "debtToEquity": 0.004050000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 16.113765,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14334440000.0,
+      "operatingIncome": 2394710000.0,
+      "netIncome": 2445890000.0,
+      "eps": 18.363916,
+      "freeCashFlow": 1681290000.0,
+      "totalDebt": 1056260000.0,
+      "cash": 1713870000.0,
+      "sharesOutstanding": 133251060.0,
+      "grossMargin": 0.38307181864097933,
+      "operatingMargin": 0.16705989211995725,
+      "netMargin": 0.17063031412458388,
+      "roe": 0.1669491369242436,
+      "roic": 0.1524635555241466
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 18420780000.0,
+      "operatingIncome": 2889470000.0,
+      "netIncome": 2972690000.0,
+      "eps": 21.91,
+      "freeCashFlow": 1466460000.0,
+      "totalDebt": 1826300000.0,
+      "cash": 8051010000.0,
+      "sharesOutstanding": 140209060.0,
+      "grossMargin": 0.3890785297908123,
+      "operatingMargin": 0.1568592643742556,
+      "netMargin": 0.16137698837942802,
+      "roe": 0.11900089670301517,
+      "roic": 0.10778909750174397
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22663080000.0,
+      "operatingIncome": 3864630000.0,
+      "netIncome": 3818690000.0,
+      "eps": 27.19,
+      "freeCashFlow": 2660890000.0,
+      "totalDebt": 820950000.0,
+      "cash": 10474810000.0,
+      "sharesOutstanding": 140496310.0,
+      "grossMargin": 0.39138281292745736,
+      "operatingMargin": 0.1705253654843031,
+      "netMargin": 0.1684982800219564,
+      "roe": 0.12960277377202517,
+      "roic": 0.12760652615507345
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 27093090000.0,
+      "operatingIncome": 4856800000.0,
+      "netIncome": 4548510000.0,
+      "eps": null,
+      "freeCashFlow": 2912490000.0,
+      "totalDebt": 148090000.0,
+      "cash": 12074350000.0,
+      "sharesOutstanding": 140757384.0,
+      "grossMargin": 0.379982866479977,
+      "operatingMargin": 0.1792634210420443,
+      "netMargin": 0.16788450486821546,
+      "roe": 0.1245412028268888,
+      "roic": 0.13244534666004185
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:50.051497+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MOTHERSON",
+  "name": "Samvardhana Motherson International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1534821662720.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 145.74,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1250228800000.0,
+    "operatingIncome": 67690700000.0,
+    "netIncome": 38596800000.0,
+    "eps": null,
+    "freeCashFlow": 52304100000.0,
+    "totalDebt": 191697600000.0,
+    "cash": 75158200000.0,
+    "sharesOutstanding": 10554442601.0
+  },
+  "ratios": {
+    "roe": 0.09418530763081374,
+    "roic": 0.11253761467279806,
+    "grossMargin": 0.45731997215229725,
+    "operatingMargin": 0.05414264972939353,
+    "netMargin": 0.030871789227699762,
+    "debtToEquity": 0.43908
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.113333,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 778707000000.0,
+      "operatingIncome": 31378000000.0,
+      "netIncome": 14956000000.0,
+      "eps": 1.473333,
+      "freeCashFlow": 24219000000.0,
+      "totalDebt": 137923000000.0,
+      "cash": 45381000000.0,
+      "sharesOutstanding": 10164632049.0,
+      "grossMargin": 0.4084540141542326,
+      "operatingMargin": 0.040295001842798384,
+      "netMargin": 0.019206196939285252,
+      "roe": 0.06661470280382158,
+      "roic": 0.08657480727738262
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 977794000000.0,
+      "operatingIncome": 55887000000.0,
+      "netIncome": 27162000000.0,
+      "eps": 2.673333,
+      "freeCashFlow": 34435000000.0,
+      "totalDebt": 199219000000.0,
+      "cash": 67432000000.0,
+      "sharesOutstanding": 10164632049.0,
+      "grossMargin": 0.43438699767026595,
+      "operatingMargin": 0.057156210817411436,
+      "netMargin": 0.02777885730532198,
+      "roe": 0.10385052131722927,
+      "roic": 0.12129097506771304
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1125408800000.0,
+      "operatingIncome": 60584700000.0,
+      "netIncome": 38030200000.0,
+      "eps": 3.67,
+      "freeCashFlow": 17251600000.0,
+      "totalDebt": 172217000000.0,
+      "cash": 56365000000.0,
+      "sharesOutstanding": 10554442600.0,
+      "grossMargin": 0.4575109951157304,
+      "operatingMargin": 0.053833504767334325,
+      "netMargin": 0.03379234283577665,
+      "roe": 0.1090305989340688,
+      "roic": 0.11628094890791141
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1250228800000.0,
+      "operatingIncome": 67690700000.0,
+      "netIncome": 38596800000.0,
+      "eps": null,
+      "freeCashFlow": 52304100000.0,
+      "totalDebt": 191697600000.0,
+      "cash": 75158200000.0,
+      "sharesOutstanding": 10554442601.0,
+      "grossMargin": 0.45731997215229725,
+      "operatingMargin": 0.05414264972939353,
+      "netMargin": 0.030871789227699762,
+      "roe": 0.09418530763081374,
+      "roic": 0.11253761467279806
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:26.654593+00:00"
+  }
+}

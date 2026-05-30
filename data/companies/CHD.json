@@ -1,0 +1,111 @@
+{
+  "ticker": "CHD",
+  "name": "Church & Dwight Co., Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22658916352.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 95.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6203200000.0,
+    "operatingIncome": 1077600000.0,
+    "netIncome": 736800000.0,
+    "eps": 3.02,
+    "freeCashFlow": 1093000000.0,
+    "totalDebt": 2205100000.0,
+    "cash": 409000000.0,
+    "sharesOutstanding": 293709982.0
+  },
+  "ratios": {
+    "roe": 0.18409874568987056,
+    "roic": 0.17360204920013533,
+    "grossMargin": 0.447317513541398,
+    "operatingMargin": 0.1737167913335053,
+    "netMargin": 0.11877740521021408,
+    "debtToEquity": 0.56794
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5375600000.0,
+      "operatingIncome": 1008800000.0,
+      "netIncome": 413900000.0,
+      "eps": 1.68,
+      "freeCashFlow": 706400000.0,
+      "totalDebt": 2673500000.0,
+      "cash": 270300000.0,
+      "sharesOutstanding": 293709982.0,
+      "grossMargin": 0.41855792841729295,
+      "operatingMargin": 0.18766277252771785,
+      "netMargin": 0.07699605625418558,
+      "roe": 0.11859938680191409,
+      "roic": 0.1636758931758445
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5867900000.0,
+      "operatingIncome": 1057400000.0,
+      "netIncome": 755600000.0,
+      "eps": 3.05,
+      "freeCashFlow": 807100000.0,
+      "totalDebt": 2406000000.0,
+      "cash": 344500000.0,
+      "sharesOutstanding": 293709982.0,
+      "grossMargin": 0.4411288535932787,
+      "operatingMargin": 0.18020075325073706,
+      "netMargin": 0.1287683839192897,
+      "roe": 0.19598485241479482,
+      "roic": 0.16887597023029993
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6107100000.0,
+      "operatingIncome": 1164200000.0,
+      "netIncome": 585300000.0,
+      "eps": 2.37,
+      "freeCashFlow": 976400000.0,
+      "totalDebt": 2204600000.0,
+      "cash": 964100000.0,
+      "sharesOutstanding": 293709982.0,
+      "grossMargin": 0.4568616855790801,
+      "operatingMargin": 0.19063057752452064,
+      "netMargin": 0.09583926904750209,
+      "roe": 0.13421849201981287,
+      "roic": 0.17732354464312913
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6203200000.0,
+      "operatingIncome": 1077600000.0,
+      "netIncome": 736800000.0,
+      "eps": 3.02,
+      "freeCashFlow": 1093000000.0,
+      "totalDebt": 2205100000.0,
+      "cash": 409000000.0,
+      "sharesOutstanding": 293709982.0,
+      "grossMargin": 0.447317513541398,
+      "operatingMargin": 0.1737167913335053,
+      "netMargin": 0.11877740521021408,
+      "roe": 0.18409874568987056,
+      "roic": 0.17360204920013533
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:58.837167+00:00"
+  }
+}

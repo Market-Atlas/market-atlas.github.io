@@ -1,0 +1,128 @@
+{
+  "ticker": "COCHINSHIP",
+  "name": "Cochin Shipyard Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "INR",
+  "marketCap": {
+    "value": 386044755968.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1467.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 50218695000.0,
+    "operatingIncome": 6815861000.0,
+    "netIncome": 7167395000.0,
+    "eps": null,
+    "freeCashFlow": -13852434000.0,
+    "totalDebt": 16717533000.0,
+    "cash": 1053870000.0,
+    "sharesOutstanding": 263080780.0
+  },
+  "ratios": {
+    "roe": 0.12204480375929726,
+    "roic": 0.09034199104103573,
+    "grossMargin": 0.22968279044288187,
+    "operatingMargin": 0.13572357863938916,
+    "netMargin": 0.14272364106633995,
+    "debtToEquity": 0.28466
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 21.435,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 23188046000.0,
+      "operatingIncome": 2675325000.0,
+      "netIncome": 3047091000.0,
+      "eps": 11.58,
+      "freeCashFlow": 15376339000.0,
+      "totalDebt": 5873286000.0,
+      "cash": 3750221000.0,
+      "sharesOutstanding": 263080780.0,
+      "grossMargin": 0.1506687109383861,
+      "operatingMargin": 0.11537518081514932,
+      "netMargin": 0.13140783833187153,
+      "roe": 0.06881965551720662,
+      "roic": 0.05334672655397086
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 37510069000.0,
+      "operatingIncome": 8424571000.0,
+      "netIncome": 7832778000.0,
+      "eps": 29.77,
+      "freeCashFlow": -8054130000.0,
+      "totalDebt": 5021996000.0,
+      "cash": 3064130000.0,
+      "sharesOutstanding": 263080780.0,
+      "grossMargin": 0.2605150899615781,
+      "operatingMargin": 0.22459492143296245,
+      "netMargin": 0.20881801097193398,
+      "roe": 0.15655108719746963,
+      "roic": 0.15301998826163402
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 48199588000.0,
+      "operatingIncome": 7746810000.0,
+      "netIncome": 8273305000.0,
+      "eps": 31.45,
+      "freeCashFlow": -5419317000.0,
+      "totalDebt": 5604070000.0,
+      "cash": 3166712000.0,
+      "sharesOutstanding": 263080780.0,
+      "grossMargin": 0.26647883380247983,
+      "operatingMargin": 0.16072357298987702,
+      "netMargin": 0.17164679913861505,
+      "roe": 0.1482867719937713,
+      "roic": 0.1261763809253964
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 50218695000.0,
+      "operatingIncome": 6815861000.0,
+      "netIncome": 7167395000.0,
+      "eps": null,
+      "freeCashFlow": -13852434000.0,
+      "totalDebt": 16717533000.0,
+      "cash": 1053870000.0,
+      "sharesOutstanding": 263080780.0,
+      "grossMargin": 0.22968279044288187,
+      "operatingMargin": 0.13572357863938916,
+      "netMargin": 0.14272364106633995,
+      "roe": 0.12204480375929726,
+      "roic": 0.09034199104103573
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:26.653882+00:00"
+  }
+}

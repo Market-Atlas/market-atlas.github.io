@@ -1,0 +1,128 @@
+{
+  "ticker": "MKC",
+  "name": "McCormick & Company, Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12735101952.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.37,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6840300000.0,
+    "operatingIncome": 1091900000.0,
+    "netIncome": 789400000.0,
+    "eps": 2.93,
+    "freeCashFlow": 740400000.0,
+    "totalDebt": 4164000000.0,
+    "cash": 95900000.0,
+    "sharesOutstanding": 268400000.0
+  },
+  "ratios": {
+    "roe": 0.13761004096574567,
+    "roic": 0.11028735922428161,
+    "grossMargin": 0.3789599871350672,
+    "operatingMargin": 0.1596275017177609,
+    "netMargin": 0.11540429513325438,
+    "debtToEquity": 0.65158
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-11-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-11-30",
+      "revenue": 6350500000.0,
+      "operatingIncome": 917400000.0,
+      "netIncome": 682000000.0,
+      "eps": 2.52,
+      "freeCashFlow": 389500000.0,
+      "totalDebt": 5325700000.0,
+      "cash": 334000000.0,
+      "sharesOutstanding": 268000000.0,
+      "grossMargin": 0.3581607747421463,
+      "operatingMargin": 0.14446106605779072,
+      "netMargin": 0.10739311865207464,
+      "roe": 0.14571092831962398,
+      "roic": 0.09168315644300534
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-11-30",
+      "revenue": 6662200000.0,
+      "operatingIncome": 1024200000.0,
+      "netIncome": 680600000.0,
+      "eps": 2.52,
+      "freeCashFlow": 973400000.0,
+      "totalDebt": 4591300000.0,
+      "cash": 166600000.0,
+      "sharesOutstanding": 268100000.0,
+      "grossMargin": 0.3756266698688121,
+      "operatingMargin": 0.1537330011107442,
+      "netMargin": 0.10215844615892648,
+      "roe": 0.1344873238879997,
+      "roic": 0.1061127227517613
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-11-30",
+      "revenue": 6723700000.0,
+      "operatingIncome": 1069800000.0,
+      "netIncome": 788500000.0,
+      "eps": 2.92,
+      "freeCashFlow": 647000000.0,
+      "totalDebt": 4508500000.0,
+      "cash": 186100000.0,
+      "sharesOutstanding": 268000000.0,
+      "grossMargin": 0.385353302497137,
+      "operatingMargin": 0.1591088240105894,
+      "netMargin": 0.1172717402620581,
+      "roe": 0.14902664902664903,
+      "roic": 0.10916883514465024
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-11-30",
+      "revenue": 6840300000.0,
+      "operatingIncome": 1091900000.0,
+      "netIncome": 789400000.0,
+      "eps": 2.93,
+      "freeCashFlow": 740400000.0,
+      "totalDebt": 4164000000.0,
+      "cash": 95900000.0,
+      "sharesOutstanding": 268400000.0,
+      "grossMargin": 0.3789599871350672,
+      "operatingMargin": 0.1596275017177609,
+      "netMargin": 0.11540429513325438,
+      "roe": 0.13761004096574567,
+      "roic": 0.11028735922428161
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:54.546286+00:00"
+  }
+}

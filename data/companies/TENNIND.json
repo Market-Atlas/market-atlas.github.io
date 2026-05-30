@@ -1,0 +1,94 @@
+{
+  "ticker": "TENNIND",
+  "name": "TENNECO CLEAN AIR INDIA L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 588.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 48698970000.0,
+    "operatingIncome": 7156960000.0,
+    "netIncome": 5520630000.0,
+    "eps": 13.678323,
+    "freeCashFlow": 4976050000.0,
+    "totalDebt": 700360000.0,
+    "cash": 2858980000.0,
+    "sharesOutstanding": 403604309.0
+  },
+  "ratios": {
+    "roe": 0.34290266278253634,
+    "roic": 0.4260080023523726,
+    "grossMargin": 0.29342735585578095,
+    "operatingMargin": 0.1469632725291726,
+    "netMargin": 0.11336235653444005,
+    "debtToEquity": 0.024470000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 47987030000.0,
+      "operatingIncome": 4730930000.0,
+      "netIncome": 3810790000.0,
+      "eps": 9.441896,
+      "freeCashFlow": 4741110000.0,
+      "totalDebt": 830760000.0,
+      "cash": 4114760000.0,
+      "sharesOutstanding": 403604309.0,
+      "grossMargin": 0.23792887369774707,
+      "operatingMargin": 0.09858768087960434,
+      "netMargin": 0.07941291636510948,
+      "roe": 0.31545360854611,
+      "roic": 0.36642318127566104
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 54493660000.0,
+      "operatingIncome": 5131710000.0,
+      "netIncome": 4166580000.0,
+      "eps": 10.323428,
+      "freeCashFlow": 3901800000.0,
+      "totalDebt": 632280000.0,
+      "cash": 1830730000.0,
+      "sharesOutstanding": 403604309.0,
+      "grossMargin": 0.21793562774091518,
+      "operatingMargin": 0.09417077142551995,
+      "netMargin": 0.07645990377596219,
+      "roe": 0.42515168026840217,
+      "roic": 0.49189647735442127
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 48698970000.0,
+      "operatingIncome": 7156960000.0,
+      "netIncome": 5520630000.0,
+      "eps": 13.678323,
+      "freeCashFlow": 4976050000.0,
+      "totalDebt": 700360000.0,
+      "cash": 2858980000.0,
+      "sharesOutstanding": 403604309.0,
+      "grossMargin": 0.29342735585578095,
+      "operatingMargin": 0.1469632725291726,
+      "netMargin": 0.11336235653444005,
+      "roe": 0.34290266278253634,
+      "roic": 0.4260080023523726
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:05.217544+00:00"
+  }
+}

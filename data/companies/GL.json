@@ -1,0 +1,128 @@
+{
+  "ticker": "GL",
+  "name": "Globe Life Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11898283008.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 153.24,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5994318000.0,
+    "operatingIncome": null,
+    "netIncome": 1161238000.0,
+    "eps": 14.07,
+    "freeCashFlow": 1253907000.0,
+    "totalDebt": 2625449000.0,
+    "cash": 144704000.0,
+    "sharesOutstanding": 92218183.0
+  },
+  "ratios": {
+    "roe": 0.19436315094335518,
+    "roic": null,
+    "grossMargin": 0.33731997,
+    "operatingMargin": 0.23746,
+    "netMargin": 0.19372312246363974,
+    "debtToEquity": 0.53588
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5226740000.0,
+      "operatingIncome": null,
+      "netIncome": 894386000.0,
+      "eps": 7.47,
+      "freeCashFlow": 1394265000.0,
+      "totalDebt": 2077055000.0,
+      "cash": 92559000.0,
+      "sharesOutstanding": 105218183.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17111736952670306,
+      "roe": 0.22645108577450193,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5447533000.0,
+      "operatingIncome": null,
+      "netIncome": 970755000.0,
+      "eps": 10.07,
+      "freeCashFlow": 1432872000.0,
+      "totalDebt": 2115672000.0,
+      "cash": 103156000.0,
+      "sharesOutstanding": 102218183.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17820084798017746,
+      "roe": 0.21635783875512252,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5778069000.0,
+      "operatingIncome": null,
+      "netIncome": 1070762000.0,
+      "eps": 11.94,
+      "freeCashFlow": 1331395000.0,
+      "totalDebt": 2739652000.0,
+      "cash": 165325000.0,
+      "sharesOutstanding": 97218183.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18531485172641587,
+      "roe": 0.2018203682202687,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5994318000.0,
+      "operatingIncome": null,
+      "netIncome": 1161238000.0,
+      "eps": 14.07,
+      "freeCashFlow": 1253907000.0,
+      "totalDebt": 2625449000.0,
+      "cash": 144704000.0,
+      "sharesOutstanding": 92218183.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19372312246363974,
+      "roe": 0.19436315094335518,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:31.209073+00:00"
+  }
+}

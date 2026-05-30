@@ -1,0 +1,128 @@
+{
+  "ticker": "INDUSTOWER",
+  "name": "Indus Towers Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1165769703424.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 442.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 324931000000.0,
+    "operatingIncome": 108348000000.0,
+    "netIncome": 71449000000.0,
+    "eps": null,
+    "freeCashFlow": 70582000000.0,
+    "totalDebt": 211269000000.0,
+    "cash": 473000000.0,
+    "sharesOutstanding": 2637135108.0
+  },
+  "ratios": {
+    "roe": 0.18021924248844765,
+    "roic": 0.17828458595581884,
+    "grossMargin": 0.6305400223432052,
+    "operatingMargin": 0.33344925538037307,
+    "netMargin": 0.2198897612108417,
+    "debtToEquity": 0.53289
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 23.65,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 283818000000.0,
+      "operatingIncome": 44431000000.0,
+      "netIncome": 20400000000.0,
+      "eps": 7.57,
+      "freeCashFlow": 42822000000.0,
+      "totalDebt": 191849000000.0,
+      "cash": 224000000.0,
+      "sharesOutstanding": 2694936950.0,
+      "grossMargin": 0.6268453727388679,
+      "operatingMargin": 0.15654750579596785,
+      "netMargin": 0.07187704796735936,
+      "roe": 0.09663895402543879,
+      "roic": 0.11026594266200762
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 286006000000.0,
+      "operatingIncome": 86340000000.0,
+      "netIncome": 60362000000.0,
+      "eps": 22.4,
+      "freeCashFlow": 26292000000.0,
+      "totalDebt": 205310000000.0,
+      "cash": 631000000.0,
+      "sharesOutstanding": 2694936950.0,
+      "grossMargin": 0.6101515352824766,
+      "operatingMargin": 0.3018817787039433,
+      "netMargin": 0.21105151640175382,
+      "roe": 0.22324215571696968,
+      "roic": 0.1815017090675176
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 301228000000.0,
+      "operatingIncome": 144426000000.0,
+      "netIncome": 99317000000.0,
+      "eps": 37.31,
+      "freeCashFlow": 128610000000.0,
+      "totalDebt": 211558000000.0,
+      "cash": 1497000000.0,
+      "sharesOutstanding": 2638162757.0,
+      "grossMargin": 0.6199290902572138,
+      "operatingMargin": 0.47945742095688315,
+      "netMargin": 0.3297070657442203,
+      "roe": 0.30560675481486727,
+      "roic": 0.2691798017299703
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 324931000000.0,
+      "operatingIncome": 108348000000.0,
+      "netIncome": 71449000000.0,
+      "eps": null,
+      "freeCashFlow": 70582000000.0,
+      "totalDebt": 211269000000.0,
+      "cash": 473000000.0,
+      "sharesOutstanding": 2637135108.0,
+      "grossMargin": 0.6305400223432052,
+      "operatingMargin": 0.33344925538037307,
+      "netMargin": 0.2198897612108417,
+      "roe": 0.18021924248844765,
+      "roic": 0.17828458595581884
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:01.841609+00:00"
+  }
+}

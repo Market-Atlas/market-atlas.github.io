@@ -1,0 +1,111 @@
+{
+  "ticker": "PAYX",
+  "name": "Paychex, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 34747052032.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 96.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5571700000.0,
+    "operatingIncome": 2207700000.0,
+    "netIncome": 1657300000.0,
+    "eps": 4.58,
+    "freeCashFlow": 1709100000.0,
+    "totalDebt": 5022300000.0,
+    "cash": 1628600000.0,
+    "sharesOutstanding": 360500000.0
+  },
+  "ratios": {
+    "roe": 0.40147771317829456,
+    "roic": 0.24127077800727845,
+    "grossMargin": 0.7235314177001633,
+    "operatingMargin": 0.3962345424197283,
+    "netMargin": 0.2974496114291868,
+    "debtToEquity": 1.2490999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 4611700000.0,
+      "operatingIncome": 1840000000.0,
+      "netIncome": 1392800000.0,
+      "eps": 3.84,
+      "freeCashFlow": 1455900000.0,
+      "totalDebt": 881200000.0,
+      "cash": 370000000.0,
+      "sharesOutstanding": 359900000.0,
+      "grossMargin": 0.7059002103345837,
+      "operatingMargin": 0.39898518984322484,
+      "netMargin": 0.30201444152915413,
+      "roe": 0.45144561130558797,
+      "roic": 0.463896732553449
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 5007100000.0,
+      "operatingIncome": 2033100000.0,
+      "netIncome": 1557300000.0,
+      "eps": 4.3,
+      "freeCashFlow": 1563200000.0,
+      "totalDebt": 865700000.0,
+      "cash": 1222000000.0,
+      "sharesOutstanding": 360500000.0,
+      "grossMargin": 0.7098120668650516,
+      "operatingMargin": 0.40604341834594876,
+      "netMargin": 0.3110183539374089,
+      "roe": 0.44580900034352455,
+      "roic": 0.46642501548555826
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 5278300000.0,
+      "operatingIncome": 2174100000.0,
+      "netIncome": 1690400000.0,
+      "eps": 4.67,
+      "freeCashFlow": 1736300000.0,
+      "totalDebt": 866300000.0,
+      "cash": 1468900000.0,
+      "sharesOutstanding": 360100000.0,
+      "grossMargin": 0.7197393100051153,
+      "operatingMargin": 0.4118939810166152,
+      "netMargin": 0.3202546274368641,
+      "roe": 0.44472507234938174,
+      "roic": 0.4658153536305787
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 5571700000.0,
+      "operatingIncome": 2207700000.0,
+      "netIncome": 1657300000.0,
+      "eps": 4.58,
+      "freeCashFlow": 1709100000.0,
+      "totalDebt": 5022300000.0,
+      "cash": 1628600000.0,
+      "sharesOutstanding": 360500000.0,
+      "grossMargin": 0.7235314177001633,
+      "operatingMargin": 0.3962345424197283,
+      "netMargin": 0.2974496114291868,
+      "roe": 0.40147771317829456,
+      "roic": 0.24127077800727845
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:06.291047+00:00"
+  }
+}

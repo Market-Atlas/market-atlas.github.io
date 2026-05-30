@@ -1,0 +1,111 @@
+{
+  "ticker": "NSLNISP",
+  "name": "NMDC Steel Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 130763628544.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 44.62,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 85030500000.0,
+    "operatingIncome": -27044800000.0,
+    "netIncome": -23737800000.0,
+    "eps": -8.1,
+    "freeCashFlow": 15384300000.0,
+    "totalDebt": 59089400000.0,
+    "cash": 70400000.0,
+    "sharesOutstanding": 2930605850.0
+  },
+  "ratios": {
+    "roe": -0.18100450799421708,
+    "roic": -0.14216581455910662,
+    "grossMargin": -0.01952358271443776,
+    "operatingMargin": -0.31805999023879666,
+    "netMargin": -0.27916806322437243,
+    "debtToEquity": 0.40765999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 0.0,
+      "operatingIncome": 0.0,
+      "netIncome": 0.0,
+      "eps": 0.0,
+      "freeCashFlow": -11482200000.0,
+      "totalDebt": 16908500000.0,
+      "cash": 8200000.0,
+      "sharesOutstanding": 2930605850.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": 0.0,
+      "roic": 0.0
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 0.0,
+      "operatingIncome": 0.0,
+      "netIncome": 0.0,
+      "eps": 0.0,
+      "freeCashFlow": -6206200000.0,
+      "totalDebt": 38418800000.0,
+      "cash": 6211400000.0,
+      "sharesOutstanding": 2930605850.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": 0.0,
+      "roic": 0.0
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 30489900000.0,
+      "operatingIncome": -19836600000.0,
+      "netIncome": -15603200000.0,
+      "eps": -5.32,
+      "freeCashFlow": -34089600000.0,
+      "totalDebt": 66619100000.0,
+      "cash": 66500000.0,
+      "sharesOutstanding": 2930605850.0,
+      "grossMargin": -0.2182099646112319,
+      "operatingMargin": -0.6505957710586129,
+      "netMargin": -0.5117497925542557,
+      "roe": -0.10074211047593468,
+      "roic": -0.08955506887757521
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 85030500000.0,
+      "operatingIncome": -27044800000.0,
+      "netIncome": -23737800000.0,
+      "eps": -8.1,
+      "freeCashFlow": 15384300000.0,
+      "totalDebt": 59089400000.0,
+      "cash": 70400000.0,
+      "sharesOutstanding": 2930605850.0,
+      "grossMargin": -0.01952358271443776,
+      "operatingMargin": -0.31805999023879666,
+      "netMargin": -0.27916806322437243,
+      "roe": -0.18100450799421708,
+      "roic": -0.14216581455910662
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:34.643932+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TSLA",
+  "name": "Tesla, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 1636706942976.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 435.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 94827000000.0,
+    "operatingIncome": 4849000000.0,
+    "netIncome": 3794000000.0,
+    "eps": 1.08,
+    "freeCashFlow": 6220000000.0,
+    "totalDebt": 14719000000.0,
+    "cash": 16513000000.0,
+    "sharesOutstanding": 3751000000.0
+  },
+  "ratios": {
+    "roe": 0.04619111971462313,
+    "roic": 0.050064012554720407,
+    "grossMargin": 0.18026511436616155,
+    "operatingMargin": 0.05113522519957396,
+    "netMargin": 0.04000970187815706,
+    "debtToEquity": 0.18738
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 81462000000.0,
+      "operatingIncome": 13832000000.0,
+      "netIncome": 12583000000.0,
+      "eps": 3.62,
+      "freeCashFlow": 7552000000.0,
+      "totalDebt": 5748000000.0,
+      "cash": 16253000000.0,
+      "sharesOutstanding": 3164000000.0,
+      "grossMargin": 0.25598438535759005,
+      "operatingMargin": 0.16979696054602145,
+      "netMargin": 0.15446465836831896,
+      "roe": 0.28147369362920543,
+      "roic": 0.2741615793229208
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 96773000000.0,
+      "operatingIncome": 8891000000.0,
+      "netIncome": 14999000000.0,
+      "eps": 4.31,
+      "freeCashFlow": 4357000000.0,
+      "totalDebt": 9573000000.0,
+      "cash": 16398000000.0,
+      "sharesOutstanding": 3185000000.0,
+      "grossMargin": 0.18248891736331416,
+      "operatingMargin": 0.0918747997891974,
+      "netMargin": 0.15499157822946483,
+      "roe": 0.23947057508701344,
+      "roic": 0.12313210630548285
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 97690000000.0,
+      "operatingIncome": 7760000000.0,
+      "netIncome": 7130000000.0,
+      "eps": 2.04,
+      "freeCashFlow": 3581000000.0,
+      "totalDebt": 13623000000.0,
+      "cash": 16139000000.0,
+      "sharesOutstanding": 3216000000.0,
+      "grossMargin": 0.17862626676220697,
+      "operatingMargin": 0.07943494728221927,
+      "netMargin": 0.07298597604667827,
+      "roe": 0.09778777447094482,
+      "roic": 0.08967366182860312
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 94827000000.0,
+      "operatingIncome": 4849000000.0,
+      "netIncome": 3794000000.0,
+      "eps": 1.08,
+      "freeCashFlow": 6220000000.0,
+      "totalDebt": 14719000000.0,
+      "cash": 16513000000.0,
+      "sharesOutstanding": 3751000000.0,
+      "grossMargin": 0.18026511436616155,
+      "operatingMargin": 0.05113522519957396,
+      "netMargin": 0.04000970187815706,
+      "roe": 0.04619111971462313,
+      "roic": 0.050064012554720407
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.385225+00:00"
+  }
+}

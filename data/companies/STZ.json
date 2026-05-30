@@ -1,0 +1,128 @@
+{
+  "ticker": "STZ",
+  "name": "Constellation Brands, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23908231168.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 138.82,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9139000000.0,
+    "operatingIncome": 2863100000.0,
+    "netIncome": 1686700000.0,
+    "eps": 9.61,
+    "freeCashFlow": 1794000000.0,
+    "totalDebt": 11202600000.0,
+    "cash": 102400000.0,
+    "sharesOutstanding": 212725465.0
+  },
+  "ratios": {
+    "roe": 0.2086880134613481,
+    "roic": 0.14846253564946849,
+    "grossMargin": 0.5155378050114893,
+    "operatingMargin": 0.31328372907320273,
+    "netMargin": 0.18456067403435825,
+    "debtToEquity": 1.33573
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-02-28",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-02-28",
+      "revenue": 9452600000.0,
+      "operatingIncome": 2840900000.0,
+      "netIncome": -71000000.0,
+      "eps": -0.11,
+      "freeCashFlow": 1721500000.0,
+      "totalDebt": 12960100000.0,
+      "cash": 133500000.0,
+      "sharesOutstanding": 212720133.0,
+      "grossMargin": 0.504517275670186,
+      "operatingMargin": 0.3005416499164251,
+      "netMargin": -0.007511160950426338,
+      "roe": -0.008438718265665114,
+      "roic": 0.13291568610020726
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-02-29",
+      "revenue": 9961800000.0,
+      "operatingIncome": 3184800000.0,
+      "netIncome": 1727400000.0,
+      "eps": 9.39,
+      "freeCashFlow": 1510900000.0,
+      "totalDebt": 12557600000.0,
+      "cash": 152400000.0,
+      "sharesOutstanding": 212721959.0,
+      "grossMargin": 0.5036740348129856,
+      "operatingMargin": 0.319701258808649,
+      "netMargin": 0.1734023971571403,
+      "roe": 0.1772947008652277,
+      "roic": 0.14281166062051864
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-02-28",
+      "revenue": 10208700000.0,
+      "operatingIncome": 3364600000.0,
+      "netIncome": -81400000.0,
+      "eps": -0.45,
+      "freeCashFlow": 1938100000.0,
+      "totalDebt": 12113500000.0,
+      "cash": 68100000.0,
+      "sharesOutstanding": 212725335.0,
+      "grossMargin": 0.5205951786221557,
+      "operatingMargin": 0.3295816313536493,
+      "netMargin": -0.007973591152644312,
+      "roe": -0.011827956989247311,
+      "roic": 0.177126161459293
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-02-28",
+      "revenue": 9139000000.0,
+      "operatingIncome": 2863100000.0,
+      "netIncome": 1686700000.0,
+      "eps": 9.61,
+      "freeCashFlow": 1794000000.0,
+      "totalDebt": 11202600000.0,
+      "cash": 102400000.0,
+      "sharesOutstanding": 212725465.0,
+      "grossMargin": 0.5155378050114893,
+      "operatingMargin": 0.31328372907320273,
+      "netMargin": 0.18456067403435825,
+      "roe": 0.2086880134613481,
+      "roic": 0.14846253564946849
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:22.727639+00:00"
+  }
+}

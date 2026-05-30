@@ -1,0 +1,111 @@
+{
+  "ticker": "TROW",
+  "name": "T. Rowe Price Group, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22397288448.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 104.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7314800000.0,
+    "operatingIncome": 2477400000.0,
+    "netIncome": 2087100000.0,
+    "eps": 9.24,
+    "freeCashFlow": 1479200000.0,
+    "totalDebt": 447200000.0,
+    "cash": 3378200000.0,
+    "sharesOutstanding": 218565000.0
+  },
+  "ratios": {
+    "roe": 0.19218055082365723,
+    "roic": 0.21909739725663951,
+    "grossMargin": 0.5127002788866408,
+    "operatingMargin": 0.33868321758626346,
+    "netMargin": 0.2853256411658555,
+    "debtToEquity": 0.0387
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6488400000.0,
+      "operatingIncome": 2496000000.0,
+      "netIncome": 1557900000.0,
+      "eps": 6.7,
+      "freeCashFlow": 2121800000.0,
+      "totalDebt": 329600000.0,
+      "cash": 1755600000.0,
+      "sharesOutstanding": 224310000.0,
+      "grossMargin": 0.5495962024536095,
+      "operatingMargin": 0.38468651747734417,
+      "netMargin": 0.2401054189014241,
+      "roe": 0.17624300016969285,
+      "roic": 0.27221864741359564
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6460500000.0,
+      "operatingIncome": 2038000000.0,
+      "netIncome": 1788700000.0,
+      "eps": 7.76,
+      "freeCashFlow": 911200000.0,
+      "totalDebt": 308500000.0,
+      "cash": 2066600000.0,
+      "sharesOutstanding": 223938000.0,
+      "grossMargin": 0.4962618992338054,
+      "operatingMargin": 0.3154554601037071,
+      "netMargin": 0.27686711554833215,
+      "roe": 0.18818318586863894,
+      "roic": 0.20767098720143473
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7093600000.0,
+      "operatingIncome": 2476600000.0,
+      "netIncome": 2100100000.0,
+      "eps": 9.15,
+      "freeCashFlow": 1262200000.0,
+      "totalDebt": 278700000.0,
+      "cash": 2649800000.0,
+      "sharesOutstanding": 222966000.0,
+      "grossMargin": 0.5193554753580693,
+      "operatingMargin": 0.3491316115935491,
+      "netMargin": 0.29605559941355586,
+      "roe": 0.2029984340866472,
+      "roic": 0.23311151062207622
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7314800000.0,
+      "operatingIncome": 2477400000.0,
+      "netIncome": 2087100000.0,
+      "eps": 9.24,
+      "freeCashFlow": 1479200000.0,
+      "totalDebt": 447200000.0,
+      "cash": 3378200000.0,
+      "sharesOutstanding": 218565000.0,
+      "grossMargin": 0.5127002788866408,
+      "operatingMargin": 0.33868321758626346,
+      "netMargin": 0.2853256411658555,
+      "roe": 0.19218055082365723,
+      "roic": 0.21909739725663951
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:28.652677+00:00"
+  }
+}

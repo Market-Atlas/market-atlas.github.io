@@ -1,0 +1,128 @@
+{
+  "ticker": "GMRAIRPORT",
+  "name": "GMR Airports Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1059804479488.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 100.37,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 148074100000.0,
+    "operatingIncome": 41755500000.0,
+    "netIncome": 1754900000.0,
+    "eps": 0.13,
+    "freeCashFlow": 15548300000.0,
+    "totalDebt": 432825200000.0,
+    "cash": 6102400000.0,
+    "sharesOutstanding": 10558975952.0
+  },
+  "ratios": {
+    "roe": -0.07076894538181114,
+    "roic": 0.10233498910367828,
+    "grossMargin": 0.4545595752396942,
+    "operatingMargin": 0.28199057093711866,
+    "netMargin": 0.011851498675325395,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 58318100000.0,
+      "operatingIncome": 6694400000.0,
+      "netIncome": -1792600000.0,
+      "eps": -0.3,
+      "freeCashFlow": -17221200000.0,
+      "totalDebt": 333063300000.0,
+      "cash": 32777100000.0,
+      "sharesOutstanding": 6035945275.0,
+      "grossMargin": 0.235868452504454,
+      "operatingMargin": 0.1147911197381259,
+      "netMargin": -0.03073831280511539,
+      "roe": 0.22611569413960997,
+      "roic": 0.02058956957945226
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 75481200000.0,
+      "operatingIncome": 13665800000.0,
+      "netIncome": -5592700000.0,
+      "eps": -0.93,
+      "freeCashFlow": -6444800000.0,
+      "totalDebt": 358865900000.0,
+      "cash": 17948600000.0,
+      "sharesOutstanding": 6035945275.0,
+      "grossMargin": 0.25419442192228,
+      "operatingMargin": 0.1810490559238592,
+      "netMargin": -0.07409394657212658,
+      "roe": 0.25842359160136036,
+      "roic": 0.04052436316125499
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 104142400000.0,
+      "operatingIncome": 18580400000.0,
+      "netIncome": -3928500000.0,
+      "eps": -0.43,
+      "freeCashFlow": -6863200000.0,
+      "totalDebt": 382052200000.0,
+      "cash": 5556600000.0,
+      "sharesOutstanding": 10558975952.0,
+      "grossMargin": 0.3810743750864201,
+      "operatingMargin": 0.1784134031864063,
+      "netMargin": -0.03772238780746363,
+      "roe": 0.15692532615382157,
+      "roic": 0.05204331434269421
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 148074100000.0,
+      "operatingIncome": 41755500000.0,
+      "netIncome": 1754900000.0,
+      "eps": 0.13,
+      "freeCashFlow": 15548300000.0,
+      "totalDebt": 432825200000.0,
+      "cash": 6102400000.0,
+      "sharesOutstanding": 10558975952.0,
+      "grossMargin": 0.4545595752396942,
+      "operatingMargin": 0.28199057093711866,
+      "netMargin": 0.011851498675325395,
+      "roe": -0.07076894538181114,
+      "roic": 0.10233498910367828
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:47.311615+00:00"
+  }
+}

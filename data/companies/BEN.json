@@ -1,0 +1,128 @@
+{
+  "ticker": "BEN",
+  "name": "Franklin Resources, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16119144448.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.02,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8770700000.0,
+    "operatingIncome": 1099800000.0,
+    "netIncome": 524900000.0,
+    "eps": 0.91,
+    "freeCashFlow": 911600000.0,
+    "totalDebt": 13299900000.0,
+    "cash": 3573900000.0,
+    "sharesOutstanding": 520951796.0
+  },
+  "ratios": {
+    "roe": 0.04345990163771548,
+    "roic": 0.04333726066586018,
+    "grossMargin": 0.8034364417891389,
+    "operatingMargin": 0.1253947803482048,
+    "netMargin": 0.05984699054807484,
+    "debtToEquity": 0.23471
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 8275300000.0,
+      "operatingIncome": 1945300000.0,
+      "netIncome": 1291900000.0,
+      "eps": 2.53,
+      "freeCashFlow": 1866400000.0,
+      "totalDebt": 9362500000.0,
+      "cash": 4782500000.0,
+      "sharesOutstanding": 499575175.0,
+      "grossMargin": 0.8276316266479765,
+      "operatingMargin": 0.23507304871122497,
+      "netMargin": 0.1561151861563931,
+      "roe": 0.1125878026249281,
+      "roic": 0.0933575209602104
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 7849400000.0,
+      "operatingIncome": 1436900000.0,
+      "netIncome": 882800000.0,
+      "eps": 1.72,
+      "freeCashFlow": 940400000.0,
+      "totalDebt": 11752400000.0,
+      "cash": 4402400000.0,
+      "sharesOutstanding": 495937891.0,
+      "grossMargin": 0.808966290417102,
+      "operatingMargin": 0.18305857772568604,
+      "netMargin": 0.11246719494483655,
+      "roe": 0.07407966837012982,
+      "roic": 0.06070732974781679
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 8478000000.0,
+      "operatingIncome": 1157900000.0,
+      "netIncome": 464800000.0,
+      "eps": 0.85,
+      "freeCashFlow": 794200000.0,
+      "totalDebt": 13086900000.0,
+      "cash": 4408900000.0,
+      "sharesOutstanding": 523596548.0,
+      "grossMargin": 0.8010615711252654,
+      "operatingMargin": 0.13657702288275536,
+      "netMargin": 0.05482425100259495,
+      "roe": 0.0371599203715992,
+      "roic": 0.045239304551670245
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 8770700000.0,
+      "operatingIncome": 1099800000.0,
+      "netIncome": 524900000.0,
+      "eps": 0.91,
+      "freeCashFlow": 911600000.0,
+      "totalDebt": 13299900000.0,
+      "cash": 3573900000.0,
+      "sharesOutstanding": 520951796.0,
+      "grossMargin": 0.8034364417891389,
+      "operatingMargin": 0.1253947803482048,
+      "netMargin": 0.05984699054807484,
+      "roe": 0.04345990163771548,
+      "roic": 0.04333726066586018
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:50.859478+00:00"
+  }
+}

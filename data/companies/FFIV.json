@@ -1,0 +1,111 @@
+{
+  "ticker": "FFIV",
+  "name": "F5, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21633961984.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 383.45,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3088072000.0,
+    "operatingIncome": 791433000.0,
+    "netIncome": 692380000.0,
+    "eps": 11.8,
+    "freeCashFlow": 906406000.0,
+    "totalDebt": 261791000.0,
+    "cash": 1344273000.0,
+    "sharesOutstanding": 57684000.0
+  },
+  "ratios": {
+    "roe": 0.19275617838423675,
+    "roic": 0.20536484862953092,
+    "grossMargin": 0.8141306290785966,
+    "operatingMargin": 0.2562870943423599,
+    "netMargin": 0.22421109352372612,
+    "debtToEquity": 0.0712
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 2695845000.0,
+      "operatingIncome": 411701000.0,
+      "netIncome": 322160000.0,
+      "eps": 5.27,
+      "freeCashFlow": 409007000.0,
+      "totalDebt": 664671000.0,
+      "cash": 758012000.0,
+      "sharesOutstanding": 59860000.0,
+      "grossMargin": 0.7998301089268857,
+      "operatingMargin": 0.15271686614030108,
+      "netMargin": 0.11950241946402705,
+      "roe": 0.13048313917742482,
+      "roic": 0.13138070026349474
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 2813169000.0,
+      "operatingIncome": 537956000.0,
+      "netIncome": 394948000.0,
+      "eps": 6.55,
+      "freeCashFlow": 599225000.0,
+      "totalDebt": 280986000.0,
+      "cash": 797163000.0,
+      "sharesOutstanding": 59207000.0,
+      "grossMargin": 0.78909621142562,
+      "operatingMargin": 0.19122775773513784,
+      "netMargin": 0.14039256084508253,
+      "roe": 0.14104117087441326,
+      "roic": 0.1745919957627146
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 2816120000.0,
+      "operatingIncome": 667246000.0,
+      "netIncome": 566778000.0,
+      "eps": 9.55,
+      "freeCashFlow": 762007000.0,
+      "totalDebt": 249564000.0,
+      "cash": 1074602000.0,
+      "sharesOutstanding": 58094000.0,
+      "grossMargin": 0.8019803843586211,
+      "operatingMargin": 0.23693805661690553,
+      "netMargin": 0.2012620200843714,
+      "roe": 0.18111522481464368,
+      "roic": 0.19747187137275515
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 3088072000.0,
+      "operatingIncome": 791433000.0,
+      "netIncome": 692380000.0,
+      "eps": 11.8,
+      "freeCashFlow": 906406000.0,
+      "totalDebt": 261791000.0,
+      "cash": 1344273000.0,
+      "sharesOutstanding": 57684000.0,
+      "grossMargin": 0.8141306290785966,
+      "operatingMargin": 0.2562870943423599,
+      "netMargin": 0.22421109352372612,
+      "roe": 0.19275617838423675,
+      "roic": 0.20536484862953092
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:24.885630+00:00"
+  }
+}

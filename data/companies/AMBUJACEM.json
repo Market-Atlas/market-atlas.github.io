@@ -1,0 +1,128 @@
+{
+  "ticker": "AMBUJACEM",
+  "name": "Ambuja Cements Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1112825397248.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 447.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 404460400000.0,
+    "operatingIncome": 29685300000.0,
+    "netIncome": 47281800000.0,
+    "eps": null,
+    "freeCashFlow": -9828000000.0,
+    "totalDebt": 8659300000.0,
+    "cash": 8915900000.0,
+    "sharesOutstanding": 2471823478.0
+  },
+  "ratios": {
+    "roe": 0.0796696464136881,
+    "roic": 0.04930027859316679,
+    "grossMargin": 0.8332964117129885,
+    "operatingMargin": 0.07339482431407376,
+    "netMargin": 0.1169009376443281,
+    "debtToEquity": 0.01205
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 14.0,
+      "freeCashFlow": null,
+      "totalDebt": 4765700000.0,
+      "cash": 113584900000.0,
+      "sharesOutstanding": 1985645229.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 309828300000.0,
+      "operatingIncome": 25896400000.0,
+      "netIncome": 19384600000.0,
+      "eps": 9.56,
+      "freeCashFlow": -53902400000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.8803327520436319,
+      "operatingMargin": 0.08358306842854575,
+      "netMargin": 0.06256562102299887,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 325297900000.0,
+      "operatingIncome": 47806000000.0,
+      "netIncome": 35734000000.0,
+      "eps": 16.65,
+      "freeCashFlow": 11633600000.0,
+      "totalDebt": 6990100000.0,
+      "cash": 30071000000.0,
+      "sharesOutstanding": 2197675987.0,
+      "grossMargin": 0.7691082543108947,
+      "operatingMargin": 0.1469606781968159,
+      "netMargin": 0.10985007895839476,
+      "roe": 0.08620639742466409,
+      "roic": 0.11341688593947098
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 339893800000.0,
+      "operatingIncome": 36736100000.0,
+      "netIncome": 43031000000.0,
+      "eps": 17.51,
+      "freeCashFlow": -64497000000.0,
+      "totalDebt": 7885000000.0,
+      "cash": 50433200000.0,
+      "sharesOutstanding": 2463123478.0,
+      "grossMargin": 0.8079570736506521,
+      "operatingMargin": 0.10808111239451852,
+      "netMargin": 0.1266013089971044,
+      "roe": 0.08051718411586122,
+      "roic": 0.06773910117228377
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 404460400000.0,
+      "operatingIncome": 29685300000.0,
+      "netIncome": 47281800000.0,
+      "eps": null,
+      "freeCashFlow": -9828000000.0,
+      "totalDebt": 8659300000.0,
+      "cash": 8915900000.0,
+      "sharesOutstanding": 2471823478.0,
+      "grossMargin": 0.8332964117129885,
+      "operatingMargin": 0.07339482431407376,
+      "netMargin": 0.1169009376443281,
+      "roe": 0.0796696464136881,
+      "roic": 0.04930027859316679
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:51.588868+00:00"
+  }
+}

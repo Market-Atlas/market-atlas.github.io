@@ -1,0 +1,128 @@
+{
+  "ticker": "CTAS",
+  "name": "Cintas Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 68527443968.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 171.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10340181000.0,
+    "operatingIncome": 2359726000.0,
+    "netIncome": 1812281000.0,
+    "eps": 4.4,
+    "freeCashFlow": 1757021000.0,
+    "totalDebt": 2654481000.0,
+    "cash": 263973000.0,
+    "sharesOutstanding": 776936000.0
+  },
+  "ratios": {
+    "roe": 0.3868691110071745,
+    "roic": 0.3215340262015255,
+    "grossMargin": 0.5003939486165667,
+    "operatingMargin": 0.22820935146106244,
+    "netMargin": 0.17526588751202712,
+    "debtToEquity": 0.60943
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 7854459000.0,
+      "operatingIncome": 1587370000.0,
+      "netIncome": 1235757000.0,
+      "eps": 2.9125,
+      "freeCashFlow": 1296953000.0,
+      "totalDebt": 2968442000.0,
+      "cash": 90471000.0,
+      "sharesOutstanding": 763351684.0,
+      "grossMargin": 0.46244381694525366,
+      "operatingMargin": 0.20209794207341333,
+      "netMargin": 0.1573319053546527,
+      "roe": 0.3735440705447924,
+      "roic": 0.25290131436606667
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 8815769000.0,
+      "operatingIncome": 1802664000.0,
+      "netIncome": 1348010000.0,
+      "eps": 3.2475,
+      "freeCashFlow": 1255119000.0,
+      "totalDebt": 2668393000.0,
+      "cash": 124149000.0,
+      "sharesOutstanding": 768795752.0,
+      "grossMargin": 0.4733980665781964,
+      "operatingMargin": 0.20448176443824698,
+      "netMargin": 0.15290895212885003,
+      "roe": 0.3488651356397254,
+      "roic": 0.2759582688022235
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 9596615000.0,
+      "operatingIncome": 2068633000.0,
+      "netIncome": 1571592000.0,
+      "eps": 3.7875,
+      "freeCashFlow": 1659031000.0,
+      "totalDebt": 2668080000.0,
+      "cash": 342015000.0,
+      "sharesOutstanding": 773097184.0,
+      "grossMargin": 0.4883405242369315,
+      "operatingMargin": 0.2155586110310771,
+      "netMargin": 0.163765244307498,
+      "roe": 0.36410022120428914,
+      "roic": 0.29617685109726577
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 10340181000.0,
+      "operatingIncome": 2359726000.0,
+      "netIncome": 1812281000.0,
+      "eps": 4.4,
+      "freeCashFlow": 1757021000.0,
+      "totalDebt": 2654481000.0,
+      "cash": 263973000.0,
+      "sharesOutstanding": 776936000.0,
+      "grossMargin": 0.5003939486165667,
+      "operatingMargin": 0.22820935146106244,
+      "netMargin": 0.17526588751202712,
+      "roe": 0.3868691110071745,
+      "roic": 0.3215340262015255
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:07.368327+00:00"
+  }
+}

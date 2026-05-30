@@ -1,0 +1,128 @@
+{
+  "ticker": "ZBH",
+  "name": "Zimmer Biomet Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15927766016.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82.33,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8231500000.0,
+    "operatingIncome": 1356200000.0,
+    "netIncome": 705100000.0,
+    "eps": 3.55,
+    "freeCashFlow": 1420200000.0,
+    "totalDebt": 7519100000.0,
+    "cash": 591900000.0,
+    "sharesOutstanding": 318681555.0
+  },
+  "ratios": {
+    "roe": 0.05552974160674768,
+    "roic": 0.06708282220727316,
+    "grossMargin": 0.6970539998785155,
+    "operatingMargin": 0.16475733462916844,
+    "netMargin": 0.08565874992407216,
+    "debtToEquity": 0.59827
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6939900000.0,
+      "operatingIncome": 1192100000.0,
+      "netIncome": 231400000.0,
+      "eps": 1.1,
+      "freeCashFlow": 1067100000.0,
+      "totalDebt": 5696500000.0,
+      "cash": 375700000.0,
+      "sharesOutstanding": 313800000.0,
+      "grossMargin": 0.7090015706278189,
+      "operatingMargin": 0.17177480943529447,
+      "netMargin": 0.03334341993400481,
+      "roe": 0.019250767451727494,
+      "roic": 0.06728641741172221
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7394200000.0,
+      "operatingIncome": 1451300000.0,
+      "netIncome": 1024000000.0,
+      "eps": 4.88,
+      "freeCashFlow": 1187100000.0,
+      "totalDebt": 5767900000.0,
+      "cash": 415800000.0,
+      "sharesOutstanding": 316200000.0,
+      "grossMargin": 0.7181845230045171,
+      "operatingMargin": 0.19627545914365313,
+      "netMargin": 0.13848692218225095,
+      "roe": 0.08204799487200032,
+      "roic": 0.07953026018719449
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7678600000.0,
+      "operatingIncome": 1528300000.0,
+      "netIncome": 903800000.0,
+      "eps": 4.43,
+      "freeCashFlow": 1142600000.0,
+      "totalDebt": 6204600000.0,
+      "cash": 525500000.0,
+      "sharesOutstanding": 317473712.0,
+      "grossMargin": 0.7146354804261194,
+      "operatingMargin": 0.19903367801422134,
+      "netMargin": 0.11770374807907691,
+      "roe": 0.07248899190734755,
+      "roic": 0.08184676024356413
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8231500000.0,
+      "operatingIncome": 1356200000.0,
+      "netIncome": 705100000.0,
+      "eps": 3.55,
+      "freeCashFlow": 1420200000.0,
+      "totalDebt": 7519100000.0,
+      "cash": 591900000.0,
+      "sharesOutstanding": 318681555.0,
+      "grossMargin": 0.6970539998785155,
+      "operatingMargin": 0.16475733462916844,
+      "netMargin": 0.08565874992407216,
+      "roe": 0.05552974160674768,
+      "roic": 0.06708282220727316
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:42.802223+00:00"
+  }
+}

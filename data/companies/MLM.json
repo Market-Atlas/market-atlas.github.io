@@ -1,0 +1,128 @@
+{
+  "ticker": "MLM",
+  "name": "Martin Marietta Materials, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 34925096960.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 581.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6150000000.0,
+    "operatingIncome": 1455000000.0,
+    "netIncome": 1137000000.0,
+    "eps": 18.77,
+    "freeCashFlow": 978000000.0,
+    "totalDebt": 5705000000.0,
+    "cash": 67000000.0,
+    "sharesOutstanding": 60309739.0
+  },
+  "ratios": {
+    "roe": 0.11333732057416268,
+    "roic": 0.0924572663150537,
+    "grossMargin": 0.3071544715447154,
+    "operatingMargin": 0.23658536585365852,
+    "netMargin": 0.1848780487804878,
+    "debtToEquity": 0.5035000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6161000000.0,
+      "operatingIncome": 1216000000.0,
+      "netIncome": 867000000.0,
+      "eps": 13.87,
+      "freeCashFlow": 509000000.0,
+      "totalDebt": 5428000000.0,
+      "cash": 358000000.0,
+      "sharesOutstanding": 62100000.0,
+      "grossMargin": 0.2309689985391982,
+      "operatingMargin": 0.19737055672780393,
+      "netMargin": 0.1407239084564194,
+      "roe": 0.12091207028798549,
+      "roic": 0.09651942691590269
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5851000000.0,
+      "operatingIncome": 1325000000.0,
+      "netIncome": 1169000000.0,
+      "eps": 18.82,
+      "freeCashFlow": 878000000.0,
+      "totalDebt": 4726000000.0,
+      "cash": 1272000000.0,
+      "sharesOutstanding": 61821421.0,
+      "grossMargin": 0.2982396171594599,
+      "operatingMargin": 0.22645701589471884,
+      "netMargin": 0.19979490685352932,
+      "roe": 0.14550659696290763,
+      "roic": 0.10384012539184953
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5662000000.0,
+      "operatingIncome": 1251000000.0,
+      "netIncome": 1995000000.0,
+      "eps": 32.41,
+      "freeCashFlow": 604000000.0,
+      "totalDebt": 5795000000.0,
+      "cash": 670000000.0,
+      "sharesOutstanding": 61126646.0,
+      "grossMargin": 0.28894383610031793,
+      "operatingMargin": 0.22094666195690568,
+      "netMargin": 0.3523489932885906,
+      "roe": 0.21104411298000636,
+      "roic": 0.08204354669464847
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6150000000.0,
+      "operatingIncome": 1455000000.0,
+      "netIncome": 1137000000.0,
+      "eps": 18.77,
+      "freeCashFlow": 978000000.0,
+      "totalDebt": 5705000000.0,
+      "cash": 67000000.0,
+      "sharesOutstanding": 60309739.0,
+      "grossMargin": 0.3071544715447154,
+      "operatingMargin": 0.23658536585365852,
+      "netMargin": 0.1848780487804878,
+      "roe": 0.11333732057416268,
+      "roic": 0.0924572663150537
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:54.747404+00:00"
+  }
+}

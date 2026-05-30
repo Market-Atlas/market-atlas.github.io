@@ -1,0 +1,111 @@
+{
+  "ticker": "C",
+  "name": "Citigroup Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 214732144640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 125.9,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 85213000000.0,
+    "operatingIncome": null,
+    "netIncome": 14306000000.0,
+    "eps": 6.99,
+    "freeCashFlow": -74152000000.0,
+    "totalDebt": 367705000000.0,
+    "cash": 349579000000.0,
+    "sharesOutstanding": 3099752593.0
+  },
+  "ratios": {
+    "roe": 0.06738863164241536,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.34078,
+    "netMargin": 0.16788518183845189,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 74480000000.0,
+      "operatingIncome": null,
+      "netIncome": 14845000000.0,
+      "eps": 7.0,
+      "freeCashFlow": 19437000000.0,
+      "totalDebt": 318702000000.0,
+      "cash": 342025000000.0,
+      "sharesOutstanding": 3099669424.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19931525241675618,
+      "roe": 0.0737863402074666,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 78090000000.0,
+      "operatingIncome": null,
+      "netIncome": 9228000000.0,
+      "eps": 4.04,
+      "freeCashFlow": -79999000000.0,
+      "totalDebt": 324076000000.0,
+      "cash": 260932000000.0,
+      "sharesOutstanding": 3099691704.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11817134076066077,
+      "roe": 0.044915382106856555,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 80672000000.0,
+      "operatingIncome": null,
+      "netIncome": 12682000000.0,
+      "eps": 5.94,
+      "freeCashFlow": -26169000000.0,
+      "totalDebt": 335805000000.0,
+      "cash": 276532000000.0,
+      "sharesOutstanding": 3099719006.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1572044823482745,
+      "roe": 0.060796364298794814,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 85213000000.0,
+      "operatingIncome": null,
+      "netIncome": 14306000000.0,
+      "eps": 6.99,
+      "freeCashFlow": -74152000000.0,
+      "totalDebt": 367705000000.0,
+      "cash": 349579000000.0,
+      "sharesOutstanding": 3099752593.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16788518183845189,
+      "roe": 0.06738863164241536,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.222574+00:00"
+  }
+}

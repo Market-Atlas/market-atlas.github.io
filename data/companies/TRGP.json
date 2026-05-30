@@ -1,0 +1,128 @@
+{
+  "ticker": "TRGP",
+  "name": "Targa Resources Corp.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "USD",
+  "marketCap": {
+    "value": 54749220864.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 255.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17028300000.0,
+    "operatingIncome": 3331200000.0,
+    "netIncome": 1923000000.0,
+    "eps": 8.62984,
+    "freeCashFlow": 584100000.0,
+    "totalDebt": 17522000000.0,
+    "cash": 166100000.0,
+    "sharesOutstanding": 242770213.0
+  },
+  "ratios": {
+    "roe": 0.6268131295022654,
+    "roic": 0.16178806113677094,
+    "grossMargin": 0.2939342153943729,
+    "operatingMargin": 0.19562727929388135,
+    "netMargin": 0.11292965240217755,
+    "debtToEquity": 5.85249
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20929800000.0,
+      "operatingIncome": 1729000000.0,
+      "netIncome": 1195500000.0,
+      "eps": 3.88,
+      "freeCashFlow": 1046500000.0,
+      "totalDebt": 11565000000.0,
+      "cash": 219000000.0,
+      "sharesOutstanding": 237939058.0,
+      "grossMargin": 0.141028581257346,
+      "operatingMargin": 0.08260948504046861,
+      "netMargin": 0.05711951380328527,
+      "roe": 0.44847507221367744,
+      "roic": 0.12149788836810557
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16060300000.0,
+      "operatingIncome": 2626200000.0,
+      "netIncome": 1345900000.0,
+      "eps": 3.66,
+      "freeCashFlow": 826200000.0,
+      "totalDebt": 13010400000.0,
+      "cash": 141700000.0,
+      "sharesOutstanding": 240095699.0,
+      "grossMargin": 0.2524423578638008,
+      "operatingMargin": 0.16352122936682378,
+      "netMargin": 0.08380291775371568,
+      "roe": 0.49125816695258606,
+      "roic": 0.16674179846477166
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16381500000.0,
+      "operatingIncome": 2695400000.0,
+      "netIncome": 1312000000.0,
+      "eps": 5.873795,
+      "freeCashFlow": 683900000.0,
+      "totalDebt": 14265000000.0,
+      "cash": 157300000.0,
+      "sharesOutstanding": 241764105.0,
+      "grossMargin": 0.2597747459023899,
+      "operatingMargin": 0.16453926685590453,
+      "netMargin": 0.08009034581692763,
+      "roe": 0.506094738466286,
+      "roic": 0.15989417110586449
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17028300000.0,
+      "operatingIncome": 3331200000.0,
+      "netIncome": 1923000000.0,
+      "eps": 8.62984,
+      "freeCashFlow": 584100000.0,
+      "totalDebt": 17522000000.0,
+      "cash": 166100000.0,
+      "sharesOutstanding": 242770213.0,
+      "grossMargin": 0.2939342153943729,
+      "operatingMargin": 0.19562727929388135,
+      "netMargin": 0.11292965240217755,
+      "roe": 0.6268131295022654,
+      "roic": 0.16178806113677094
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:28.208782+00:00"
+  }
+}

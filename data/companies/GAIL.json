@@ -1,0 +1,128 @@
+{
+  "ticker": "GAIL",
+  "name": "GAIL (India) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1081666306048.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 164.51,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1415977200000.0,
+    "operatingIncome": 76750500000.0,
+    "netIncome": 75824700000.0,
+    "eps": 11.53,
+    "freeCashFlow": 24423600000.0,
+    "totalDebt": 248314900000.0,
+    "cash": 9592300000.0,
+    "sharesOutstanding": 6575099643.0
+  },
+  "ratios": {
+    "roe": 0.08514883840017248,
+    "roic": 0.06739529802533502,
+    "grossMargin": 0.17092033685288152,
+    "operatingMargin": 0.05420320327191709,
+    "netMargin": 0.05354937918491908,
+    "debtToEquity": 0.27809
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1453245700000.0,
+      "operatingIncome": 49787400000.0,
+      "netIncome": 56160000000.0,
+      "eps": 8.52,
+      "freeCashFlow": -56258700000.0,
+      "totalDebt": 178161800000.0,
+      "cash": 2437700000.0,
+      "sharesOutstanding": 6575099643.0,
+      "grossMargin": 0.07216157598126731,
+      "operatingMargin": 0.03425945110314106,
+      "netMargin": 0.03864453202923635,
+      "roe": 0.08649657009371849,
+      "roic": 0.060170688709375864
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1328585600000.0,
+      "operatingIncome": 110777600000.0,
+      "netIncome": 98992200000.0,
+      "eps": 15.06,
+      "freeCashFlow": 845500000.0,
+      "totalDebt": 217937700000.0,
+      "cash": 11460300000.0,
+      "sharesOutstanding": 6575099643.0,
+      "grossMargin": 0.13686111004063267,
+      "operatingMargin": 0.08338009985957999,
+      "netMargin": 0.07450946329690764,
+      "roe": 0.12856600722260217,
+      "roic": 0.11213334824698011
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1419016900000.0,
+      "operatingIncome": 116232000000.0,
+      "netIncome": 124498000000.0,
+      "eps": 18.93,
+      "freeCashFlow": 78053400000.0,
+      "totalDebt": 215953800000.0,
+      "cash": 13171800000.0,
+      "sharesOutstanding": 6575099643.0,
+      "grossMargin": 0.1844493183978288,
+      "operatingMargin": 0.08191022953990189,
+      "netMargin": 0.0877353891979722,
+      "roe": 0.14647245714729423,
+      "roic": 0.10904287929790465
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1415977200000.0,
+      "operatingIncome": 76750500000.0,
+      "netIncome": 75824700000.0,
+      "eps": 11.53,
+      "freeCashFlow": 24423600000.0,
+      "totalDebt": 248314900000.0,
+      "cash": 9592300000.0,
+      "sharesOutstanding": 6575099643.0,
+      "grossMargin": 0.17092033685288152,
+      "operatingMargin": 0.05420320327191709,
+      "netMargin": 0.05354937918491908,
+      "roe": 0.08514883840017248,
+      "roic": 0.06739529802533502
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:44.549756+00:00"
+  }
+}

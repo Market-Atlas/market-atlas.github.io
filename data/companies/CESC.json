@@ -1,0 +1,128 @@
+{
+  "ticker": "CESC",
+  "name": "CESC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "INR",
+  "marketCap": {
+    "value": 241373118464.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 182.09,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 185700000000.0,
+    "operatingIncome": 44040000000.0,
+    "netIncome": 15420000000.0,
+    "eps": 11.63,
+    "freeCashFlow": 1410000000.0,
+    "totalDebt": 216710000000.0,
+    "cash": 42080000000.0,
+    "sharesOutstanding": 1325570430.0
+  },
+  "ratios": {
+    "roe": 0.12306464485235435,
+    "roic": 0.12876816467354757,
+    "grossMargin": 0.38287560581583197,
+    "operatingMargin": 0.237156704361874,
+    "netMargin": 0.08303715670436188,
+    "debtToEquity": 1.64311
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 142463500000.0,
+      "operatingIncome": 14402300000.0,
+      "netIncome": 13428300000.0,
+      "eps": 10.13,
+      "freeCashFlow": 12828100000.0,
+      "totalDebt": 142628400000.0,
+      "cash": 11292000000.0,
+      "sharesOutstanding": 1325570430.0,
+      "grossMargin": 0.31953868885714587,
+      "operatingMargin": 0.10109466635313606,
+      "netMargin": 0.09425782744352063,
+      "roe": 0.12307831906708938,
+      "roic": 0.057212806789440046
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 152932100000.0,
+      "operatingIncome": 11038800000.0,
+      "netIncome": 13763500000.0,
+      "eps": 10.38,
+      "freeCashFlow": 15802500000.0,
+      "totalDebt": 145436300000.0,
+      "cash": 12753800000.0,
+      "sharesOutstanding": 1325570430.0,
+      "grossMargin": 0.3111276180736418,
+      "operatingMargin": 0.07218105289863933,
+      "netMargin": 0.08999745638750792,
+      "roe": 0.12025103008656571,
+      "roic": 0.04247445195651898
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 170010000000.0,
+      "operatingIncome": 35640000000.0,
+      "netIncome": 13700000000.0,
+      "eps": 10.33,
+      "freeCashFlow": 7180000000.0,
+      "totalDebt": 179780000000.0,
+      "cash": 21812200000.0,
+      "sharesOutstanding": 1325570430.0,
+      "grossMargin": 0.35233221575201457,
+      "operatingMargin": 0.20963472736897829,
+      "netMargin": 0.0805834950885242,
+      "roe": 0.11407426651079293,
+      "roic": 0.11884864871354008
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 185700000000.0,
+      "operatingIncome": 44040000000.0,
+      "netIncome": 15420000000.0,
+      "eps": 11.63,
+      "freeCashFlow": 1410000000.0,
+      "totalDebt": 216710000000.0,
+      "cash": 42080000000.0,
+      "sharesOutstanding": 1325570430.0,
+      "grossMargin": 0.38287560581583197,
+      "operatingMargin": 0.237156704361874,
+      "netMargin": 0.08303715670436188,
+      "roe": 0.12306464485235435,
+      "roic": 0.12876816467354757
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:23.984070+00:00"
+  }
+}

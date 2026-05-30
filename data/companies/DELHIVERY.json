@@ -1,0 +1,128 @@
+{
+  "ticker": "DELHIVERY",
+  "name": "Delhivery Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "INR",
+  "marketCap": {
+    "value": 338682380288.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 452.35,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 105083070000.0,
+    "operatingIncome": -554420000.0,
+    "netIncome": 1526760000.0,
+    "eps": null,
+    "freeCashFlow": 4893270000.0,
+    "totalDebt": 14625710000.0,
+    "cash": 2419370000.0,
+    "sharesOutstanding": 748608108.0
+  },
+  "ratios": {
+    "roe": 0.015760989908593568,
+    "roic": -0.0049725880723539275,
+    "grossMargin": 0.07065191376688938,
+    "operatingMargin": -0.005276016393506585,
+    "netMargin": 0.01452907685319814,
+    "debtToEquity": 0.15098
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -13.954098,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 72253010000.0,
+      "operatingIncome": -12541010000.0,
+      "netIncome": -10077790000.0,
+      "eps": -14.09,
+      "freeCashFlow": -6302480000.0,
+      "totalDebt": 9234430000.0,
+      "cash": 2954520000.0,
+      "sharesOutstanding": 728715149.0,
+      "grossMargin": -0.042595180463762,
+      "operatingMargin": -0.17357076196548768,
+      "netMargin": -0.13947917187117878,
+      "roe": -0.10981409561609465,
+      "roic": -0.12416128578754883
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 81415380000.0,
+      "operatingIncome": -5827280000.0,
+      "netIncome": -2491860000.0,
+      "eps": -3.4,
+      "freeCashFlow": -925610000.0,
+      "totalDebt": 11693400000.0,
+      "cash": 3032190000.0,
+      "sharesOutstanding": 736785255.0,
+      "grossMargin": 0.04029545768870697,
+      "operatingMargin": -0.07157468281791475,
+      "netMargin": -0.030606747766822436,
+      "roe": -0.027249387237078395,
+      "roic": -0.056498816267541954
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 89319010000.0,
+      "operatingIncome": -1590850000.0,
+      "netIncome": 1621100000.0,
+      "eps": 2.14,
+      "freeCashFlow": 841820000.0,
+      "totalDebt": 14216010000.0,
+      "cash": 3359660000.0,
+      "sharesOutstanding": 745581479.0,
+      "grossMargin": 0.05444574452851638,
+      "operatingMargin": -0.01781087810982231,
+      "netMargin": 0.018149551814333812,
+      "roe": 0.017186959793158527,
+      "roic": -0.014657143446800702
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 105083070000.0,
+      "operatingIncome": -554420000.0,
+      "netIncome": 1526760000.0,
+      "eps": null,
+      "freeCashFlow": 4893270000.0,
+      "totalDebt": 14625710000.0,
+      "cash": 2419370000.0,
+      "sharesOutstanding": 748608108.0,
+      "grossMargin": 0.07065191376688938,
+      "operatingMargin": -0.005276016393506585,
+      "netMargin": 0.01452907685319814,
+      "roe": 0.015760989908593568,
+      "roic": -0.0049725880723539275
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:32.679137+00:00"
+  }
+}

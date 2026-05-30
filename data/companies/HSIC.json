@@ -1,0 +1,128 @@
+{
+  "ticker": "HSIC",
+  "name": "Henry Schein, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8723745792.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 76.58,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13184000000.0,
+    "operatingIncome": 758000000.0,
+    "netIncome": 398000000.0,
+    "eps": 3.27,
+    "freeCashFlow": 521000000.0,
+    "totalDebt": 3436000000.0,
+    "cash": 156000000.0,
+    "sharesOutstanding": 115771149.0
+  },
+  "ratios": {
+    "roe": 0.1226502311248074,
+    "roic": 0.11345606945068104,
+    "grossMargin": 0.3113622572815534,
+    "operatingMargin": 0.057493932038834954,
+    "netMargin": 0.030188106796116505,
+    "debtToEquity": 0.7774800000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12647000000.0,
+      "operatingIncome": 878000000.0,
+      "netIncome": 538000000.0,
+      "eps": 3.91,
+      "freeCashFlow": 474000000.0,
+      "totalDebt": 1497000000.0,
+      "cash": 117000000.0,
+      "sharesOutstanding": 131792817.0,
+      "grossMargin": 0.30291768798924645,
+      "operatingMargin": 0.0694235787143196,
+      "netMargin": 0.04253973274294299,
+      "roe": 0.15612304120719675,
+      "roic": 0.1776249241351406
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12339000000.0,
+      "operatingIncome": 695000000.0,
+      "netIncome": 416000000.0,
+      "eps": 3.16,
+      "freeCashFlow": 313000000.0,
+      "totalDebt": 2741000000.0,
+      "cash": 171000000.0,
+      "sharesOutstanding": 129247765.0,
+      "grossMargin": 0.312829240619175,
+      "operatingMargin": 0.0563254720803955,
+      "netMargin": 0.0337142394035173,
+      "roe": 0.11381668946648427,
+      "roic": 0.10866166353971232
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12673000000.0,
+      "operatingIncome": 731000000.0,
+      "netIncome": 390000000.0,
+      "eps": 3.05,
+      "freeCashFlow": 661000000.0,
+      "totalDebt": 2870000000.0,
+      "cash": 122000000.0,
+      "sharesOutstanding": 124155884.0,
+      "grossMargin": 0.31689418448670403,
+      "operatingMargin": 0.05768168547305295,
+      "netMargin": 0.03077408664089008,
+      "roe": 0.11494252873563218,
+      "roic": 0.11671722816541594
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13184000000.0,
+      "operatingIncome": 758000000.0,
+      "netIncome": 398000000.0,
+      "eps": 3.27,
+      "freeCashFlow": 521000000.0,
+      "totalDebt": 3436000000.0,
+      "cash": 156000000.0,
+      "sharesOutstanding": 115771149.0,
+      "grossMargin": 0.3113622572815534,
+      "operatingMargin": 0.057493932038834954,
+      "netMargin": 0.030188106796116505,
+      "roe": 0.1226502311248074,
+      "roic": 0.11345606945068104
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.433975+00:00"
+  }
+}

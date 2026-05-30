@@ -1,0 +1,128 @@
+{
+  "ticker": "DVN",
+  "name": "Devon Energy Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 51314909184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 44.49,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17188000000.0,
+    "operatingIncome": 3856000000.0,
+    "netIncome": 2642000000.0,
+    "eps": 4.17,
+    "freeCashFlow": null,
+    "totalDebt": 8586000000.0,
+    "cash": 1434000000.0,
+    "sharesOutstanding": 622000000.0
+  },
+  "ratios": {
+    "roe": 0.17014425553838228,
+    "roic": 0.15990710790412208,
+    "grossMargin": 0.2554689318128927,
+    "operatingMargin": 0.22434256457993948,
+    "netMargin": 0.15371189201768676,
+    "debtToEquity": 0.56404
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": 663000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19169000000.0,
+      "operatingIncome": 7920000000.0,
+      "netIncome": 6015000000.0,
+      "eps": 9.12,
+      "freeCashFlow": 3405000000.0,
+      "totalDebt": 6697000000.0,
+      "cash": 1454000000.0,
+      "sharesOutstanding": 653000000.0,
+      "grossMargin": 0.4365903281339663,
+      "operatingMargin": 0.41316709270175805,
+      "netMargin": 0.3137878866920549,
+      "roe": 0.5386406375929077,
+      "roic": 0.4433497536945813
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15258000000.0,
+      "operatingIncome": 4939000000.0,
+      "netIncome": 3747000000.0,
+      "eps": 5.836449,
+      "freeCashFlow": 2597000000.0,
+      "totalDebt": 6450000000.0,
+      "cash": 875000000.0,
+      "sharesOutstanding": 636000000.0,
+      "grossMargin": 0.35174990169091624,
+      "operatingMargin": 0.3236990431249181,
+      "netMargin": 0.24557609123082974,
+      "roe": 0.3106707569853246,
+      "roic": 0.26681432661660637
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15940000000.0,
+      "operatingIncome": 4182000000.0,
+      "netIncome": 2891000000.0,
+      "eps": 4.56,
+      "freeCashFlow": -853000000.0,
+      "totalDebt": 9203000000.0,
+      "cash": 846000000.0,
+      "sharesOutstanding": 651000000.0,
+      "grossMargin": 0.2954830614805521,
+      "operatingMargin": 0.26235884567126727,
+      "netMargin": 0.1813676286072773,
+      "roe": 0.1994343267108168,
+      "roic": 0.17646314190472173
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17188000000.0,
+      "operatingIncome": 3856000000.0,
+      "netIncome": 2642000000.0,
+      "eps": 4.17,
+      "freeCashFlow": null,
+      "totalDebt": 8586000000.0,
+      "cash": 1434000000.0,
+      "sharesOutstanding": 622000000.0,
+      "grossMargin": 0.2554689318128927,
+      "operatingMargin": 0.22434256457993948,
+      "netMargin": 0.15371189201768676,
+      "roe": 0.17014425553838228,
+      "roic": 0.15990710790412208
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:15.104922+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "VST",
+  "name": "Vistra Corp.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 54026743808.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 160.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17738000000.0,
+    "operatingIncome": 2134000000.0,
+    "netIncome": 944000000.0,
+    "eps": 2.18,
+    "freeCashFlow": 1318000000.0,
+    "totalDebt": 20068000000.0,
+    "cash": 785000000.0,
+    "sharesOutstanding": 553659160.0
+  },
+  "ratios": {
+    "roe": 0.18520698450068668,
+    "roic": 0.0848003179018478,
+    "grossMargin": 0.3288984101928064,
+    "operatingMargin": 0.12030668621039577,
+    "netMargin": 0.05321907768632315,
+    "debtToEquity": 3.55187
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13728000000.0,
+      "operatingIncome": -1103000000.0,
+      "netIncome": -1227000000.0,
+      "eps": -3.148133,
+      "freeCashFlow": -816000000.0,
+      "totalDebt": 13336000000.0,
+      "cash": 455000000.0,
+      "sharesOutstanding": 537179072.0,
+      "grossMargin": 0.12252331002331002,
+      "operatingMargin": -0.08034673659673659,
+      "netMargin": -0.08937937062937062,
+      "roe": -0.2503059975520196,
+      "roic": -0.06047812260116241
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14779000000.0,
+      "operatingIncome": 2710000000.0,
+      "netIncome": 1493000000.0,
+      "eps": 3.821235,
+      "freeCashFlow": 3777000000.0,
+      "totalDebt": 14677000000.0,
+      "cash": 3485000000.0,
+      "sharesOutstanding": 543635172.0,
+      "grossMargin": 0.3735029433655863,
+      "operatingMargin": 0.18336829284795994,
+      "netMargin": 0.10102172000811963,
+      "roe": 0.2813265498398342,
+      "roic": 0.13560848678943155
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17224000000.0,
+      "operatingIncome": 4081000000.0,
+      "netIncome": 2659000000.0,
+      "eps": 7.261129,
+      "freeCashFlow": 2485000000.0,
+      "totalDebt": 17048000000.0,
+      "cash": 1188000000.0,
+      "sharesOutstanding": 548752606.0,
+      "grossMargin": 0.43689038550859266,
+      "operatingMargin": 0.2369368323269856,
+      "netMargin": 0.1543776126335346,
+      "roe": 0.47737881508078994,
+      "roic": 0.18043151472278715
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17738000000.0,
+      "operatingIncome": 2134000000.0,
+      "netIncome": 944000000.0,
+      "eps": 2.18,
+      "freeCashFlow": 1318000000.0,
+      "totalDebt": 20068000000.0,
+      "cash": 785000000.0,
+      "sharesOutstanding": 553659160.0,
+      "grossMargin": 0.3288984101928064,
+      "operatingMargin": 0.12030668621039577,
+      "netMargin": 0.05321907768632315,
+      "roe": 0.18520698450068668,
+      "roic": 0.0848003179018478
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:36.266402+00:00"
+  }
+}

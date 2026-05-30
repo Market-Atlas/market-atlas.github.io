@@ -1,0 +1,128 @@
+{
+  "ticker": "CYIENT",
+  "name": "Cyient Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 100305838080.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 908.25,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 72682000000.0,
+    "operatingIncome": 6600000000.0,
+    "netIncome": 4279000000.0,
+    "eps": null,
+    "freeCashFlow": 6895000000.0,
+    "totalDebt": 4311000000.0,
+    "cash": 14575000000.0,
+    "sharesOutstanding": 110438577.0
+  },
+  "ratios": {
+    "roe": 0.07530931554585614,
+    "roic": 0.1079666284966465,
+    "grossMargin": 0.3368096640158499,
+    "operatingMargin": 0.09080652706309678,
+    "netMargin": 0.058872898379241076,
+    "debtToEquity": 0.06995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 47.54,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 60159000000.0,
+      "operatingIncome": 7469000000.0,
+      "netIncome": 5144000000.0,
+      "eps": 46.71,
+      "freeCashFlow": 4864000000.0,
+      "totalDebt": 12178000000.0,
+      "cash": 6187000000.0,
+      "sharesOutstanding": 110575006.0,
+      "grossMargin": 0.42327831247194936,
+      "operatingMargin": 0.12415432437374291,
+      "netMargin": 0.08550674047108496,
+      "roe": 0.1483831886231863,
+      "roic": 0.15944070872024763
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 71472000000.0,
+      "operatingIncome": 10361000000.0,
+      "netIncome": 6828000000.0,
+      "eps": 61.71,
+      "freeCashFlow": 6408000000.0,
+      "totalDebt": 7876000000.0,
+      "cash": 4818000000.0,
+      "sharesOutstanding": 110889812.0,
+      "grossMargin": 0.417156368927692,
+      "operatingMargin": 0.14496586075665996,
+      "netMargin": 0.09553391537944929,
+      "roe": 0.1603532091778023,
+      "roic": 0.20534316348574033
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 73604000000.0,
+      "operatingIncome": 8761000000.0,
+      "netIncome": 6157000000.0,
+      "eps": 55.51,
+      "freeCashFlow": 6860000000.0,
+      "totalDebt": 5134000000.0,
+      "cash": 10673000000.0,
+      "sharesOutstanding": 111038924.0,
+      "grossMargin": 0.34393511222216183,
+      "operatingMargin": 0.11902885712733004,
+      "netMargin": 0.08365034508994076,
+      "roe": 0.11596195498634523,
+      "roic": 0.15045767572858884
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 72682000000.0,
+      "operatingIncome": 6600000000.0,
+      "netIncome": 4279000000.0,
+      "eps": null,
+      "freeCashFlow": 6895000000.0,
+      "totalDebt": 4311000000.0,
+      "cash": 14575000000.0,
+      "sharesOutstanding": 110438577.0,
+      "grossMargin": 0.3368096640158499,
+      "operatingMargin": 0.09080652706309678,
+      "netMargin": 0.058872898379241076,
+      "roe": 0.07530931554585614,
+      "roic": 0.1079666284966465
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:30.846823+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "PG",
+  "name": "The Procter & Gamble Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 334293663744.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 143.56,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 84284000000.0,
+    "operatingIncome": 20451000000.0,
+    "netIncome": 15974000000.0,
+    "eps": 6.51,
+    "freeCashFlow": 14044000000.0,
+    "totalDebt": 35463000000.0,
+    "cash": 9556000000.0,
+    "sharesOutstanding": 4009244000.0
+  },
+  "ratios": {
+    "roe": 0.3071214335153426,
+    "roic": 0.2337925121463275,
+    "grossMargin": 0.5116036258364577,
+    "operatingMargin": 0.24264391818138675,
+    "netMargin": 0.1895258886621423,
+    "debtToEquity": 0.67651
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 80187000000.0,
+      "operatingIncome": 17813000000.0,
+      "netIncome": 14742000000.0,
+      "eps": 5.81,
+      "freeCashFlow": 13567000000.0,
+      "totalDebt": 32293000000.0,
+      "cash": 7214000000.0,
+      "sharesOutstanding": 4009200000.0,
+      "grossMargin": 0.4742664022846596,
+      "operatingMargin": 0.22214324017608839,
+      "netMargin": 0.18384526170077445,
+      "roe": 0.31642662431045954,
+      "roic": 0.22581831089475418
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 82006000000.0,
+      "operatingIncome": 18134000000.0,
+      "netIncome": 14653000000.0,
+      "eps": 5.9,
+      "freeCashFlow": 13786000000.0,
+      "totalDebt": 35424000000.0,
+      "cash": 8246000000.0,
+      "sharesOutstanding": 4009200000.0,
+      "grossMargin": 0.47857473843377313,
+      "operatingMargin": 0.2211301612077165,
+      "netMargin": 0.17868204765504964,
+      "roe": 0.31325223934839774,
+      "roic": 0.22060558873979635
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 84039000000.0,
+      "operatingIncome": 19886000000.0,
+      "netIncome": 14879000000.0,
+      "eps": 6.02,
+      "freeCashFlow": 16524000000.0,
+      "totalDebt": 33369000000.0,
+      "cash": 9482000000.0,
+      "sharesOutstanding": 4009250915.0,
+      "grossMargin": 0.5139399564487916,
+      "operatingMargin": 0.23662823213032044,
+      "netMargin": 0.17704875117504967,
+      "roe": 0.2958875233663445,
+      "roic": 0.23771442232980694
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 84284000000.0,
+      "operatingIncome": 20451000000.0,
+      "netIncome": 15974000000.0,
+      "eps": 6.51,
+      "freeCashFlow": 14044000000.0,
+      "totalDebt": 35463000000.0,
+      "cash": 9556000000.0,
+      "sharesOutstanding": 4009244000.0,
+      "grossMargin": 0.5116036258364577,
+      "operatingMargin": 0.24264391818138675,
+      "netMargin": 0.1895258886621423,
+      "roe": 0.3071214335153426,
+      "roic": 0.2337925121463275
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.224618+00:00"
+  }
+}

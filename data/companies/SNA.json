@@ -1,0 +1,128 @@
+{
+  "ticker": "SNA",
+  "name": "Snap-on Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "currency": "USD",
+  "marketCap": {
+    "value": 19229388800.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 371.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5156100000.0,
+    "operatingIncome": 1327700000.0,
+    "netIncome": 1016900000.0,
+    "eps": 19.19,
+    "freeCashFlow": 1005700000.0,
+    "totalDebt": 1291900000.0,
+    "cash": 1624500000.0,
+    "sharesOutstanding": 67461309.0
+  },
+  "ratios": {
+    "roe": 0.1714319430864156,
+    "roic": 0.1837977767626009,
+    "grossMargin": 0.517290199957332,
+    "operatingMargin": 0.2575008242664029,
+    "netMargin": 0.19722270708481215,
+    "debtToEquity": 0.21731
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4842500000.0,
+      "operatingIncome": 1207200000.0,
+      "netIncome": 911700000.0,
+      "eps": 16.82,
+      "freeCashFlow": 591000000.0,
+      "totalDebt": 1265100000.0,
+      "cash": 757200000.0,
+      "sharesOutstanding": 67444966.0,
+      "grossMargin": 0.5053381517811047,
+      "operatingMargin": 0.24929272070211667,
+      "netMargin": 0.18827052142488385,
+      "roe": 0.2034454287818267,
+      "roic": 0.21007935403034944
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5108300000.0,
+      "operatingIncome": 1310400000.0,
+      "netIncome": 1011100000.0,
+      "eps": 18.76,
+      "freeCashFlow": 1059200000.0,
+      "totalDebt": 1278600000.0,
+      "cash": 1001500000.0,
+      "sharesOutstanding": 67450999.0,
+      "grossMargin": 0.5128124816475148,
+      "operatingMargin": 0.25652369672885306,
+      "netMargin": 0.19793277607031692,
+      "roe": 0.1993768856111845,
+      "roic": 0.20636545457408778
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5108400000.0,
+      "operatingIncome": 1345700000.0,
+      "netIncome": 1043900000.0,
+      "eps": 19.51,
+      "freeCashFlow": 1134000000.0,
+      "totalDebt": 1292800000.0,
+      "cash": 1360500000.0,
+      "sharesOutstanding": 67456641.0,
+      "grossMargin": 0.5196930545767755,
+      "operatingMargin": 0.2634288622660716,
+      "netMargin": 0.20434969853574506,
+      "roe": 0.19352626017315214,
+      "roic": 0.20124422378082518
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5156100000.0,
+      "operatingIncome": 1327700000.0,
+      "netIncome": 1016900000.0,
+      "eps": 19.19,
+      "freeCashFlow": 1005700000.0,
+      "totalDebt": 1291900000.0,
+      "cash": 1624500000.0,
+      "sharesOutstanding": 67461309.0,
+      "grossMargin": 0.517290199957332,
+      "operatingMargin": 0.2575008242664029,
+      "netMargin": 0.19722270708481215,
+      "roe": 0.1714319430864156,
+      "roic": 0.1837977767626009
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:19.335674+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "LAURUSLABS",
+  "name": "Laurus Labs Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 735461900288.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1362.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 55078600000.0,
+    "operatingIncome": 6251800000.0,
+    "netIncome": 3583200000.0,
+    "eps": 6.64,
+    "freeCashFlow": -393500000.0,
+    "totalDebt": 27637300000.0,
+    "cash": 995400000.0,
+    "sharesOutstanding": 539252491.0
+  },
+  "ratios": {
+    "roe": 0.08011519129983723,
+    "roic": 0.08639510025164829,
+    "grossMargin": 0.5389479761649715,
+    "operatingMargin": 0.11350687925982142,
+    "netMargin": 0.06505611979970442,
+    "debtToEquity": 0.46369
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 48885400000.0,
+      "operatingIncome": 11726300000.0,
+      "netIncome": 8275200000.0,
+      "eps": 15.35,
+      "freeCashFlow": 342600000.0,
+      "totalDebt": 17766600000.0,
+      "cash": 755800000.0,
+      "sharesOutstanding": 537359335.0,
+      "grossMargin": 0.5400835423255205,
+      "operatingMargin": 0.2398732545913504,
+      "netMargin": 0.16927753480589297,
+      "roe": 0.2469331789603096,
+      "roic": 0.22867868599900543
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 60142200000.0,
+      "operatingIncome": 12942700000.0,
+      "netIncome": 7901100000.0,
+      "eps": 14.64,
+      "freeCashFlow": 37400000.0,
+      "totalDebt": 20150900000.0,
+      "cash": 456700000.0,
+      "sharesOutstanding": 538650925.0,
+      "grossMargin": 0.5276677607403787,
+      "operatingMargin": 0.21520163878275156,
+      "netMargin": 0.1313736444626236,
+      "roe": 0.19569142520303254,
+      "roic": 0.2138363221216597
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 50018000000.0,
+      "operatingIncome": 3948700000.0,
+      "netIncome": 1605500000.0,
+      "eps": 2.97,
+      "freeCashFlow": -126200000.0,
+      "totalDebt": 25774000000.0,
+      "cash": 1389400000.0,
+      "sharesOutstanding": 538965858.0,
+      "grossMargin": 0.5003618697268983,
+      "operatingMargin": 0.07894557959134711,
+      "netMargin": 0.03209844455995842,
+      "roe": 0.039054233206436466,
+      "roic": 0.05903847735241128
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 55078600000.0,
+      "operatingIncome": 6251800000.0,
+      "netIncome": 3583200000.0,
+      "eps": 6.64,
+      "freeCashFlow": -393500000.0,
+      "totalDebt": 27637300000.0,
+      "cash": 995400000.0,
+      "sharesOutstanding": 539252491.0,
+      "grossMargin": 0.5389479761649715,
+      "operatingMargin": 0.11350687925982142,
+      "netMargin": 0.06505611979970442,
+      "roe": 0.08011519129983723,
+      "roic": 0.08639510025164829
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:17.293394+00:00"
+  }
+}

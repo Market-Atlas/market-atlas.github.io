@@ -1,0 +1,128 @@
+{
+  "ticker": "TATACHEM",
+  "name": "Tata Chemicals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 193105248256.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 758.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 145840000000.0,
+    "operatingIncome": 6040000000.0,
+    "netIncome": -18960000000.0,
+    "eps": -74.42,
+    "freeCashFlow": 640000000.0,
+    "totalDebt": 80010000000.0,
+    "cash": 3810000000.0,
+    "sharesOutstanding": 254756278.0
+  },
+  "ratios": {
+    "roe": -0.0894086579270018,
+    "roic": 0.02067997397884069,
+    "grossMargin": 0.7816785518376302,
+    "operatingMargin": 0.04141524958859023,
+    "netMargin": -0.13000548546352167,
+    "debtToEquity": 0.36081
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 166800000000.0,
+      "operatingIncome": 29910000000.0,
+      "netIncome": 23170000000.0,
+      "eps": 90.95,
+      "freeCashFlow": 13930000000.0,
+      "totalDebt": 62960000000.0,
+      "cash": 5080000000.0,
+      "sharesOutstanding": 254756278.0,
+      "grossMargin": 0.7512589928057554,
+      "operatingMargin": 0.17931654676258993,
+      "netMargin": 0.13890887290167866,
+      "roe": 0.11748897114750774,
+      "roic": 0.11496329323134874
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 153020000000.0,
+      "operatingIncome": 19370000000.0,
+      "netIncome": 2680000000.0,
+      "eps": 10.52,
+      "freeCashFlow": 11820000000.0,
+      "totalDebt": 55630000000.0,
+      "cash": 4250000000.0,
+      "sharesOutstanding": 254756278.0,
+      "grossMargin": 0.7660436544242583,
+      "operatingMargin": 0.12658476016207032,
+      "netMargin": 0.01751405045092145,
+      "roe": 0.012049817903871229,
+      "roic": 0.06966623507409006
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 148870000000.0,
+      "operatingIncome": 8300000000.0,
+      "netIncome": 2350000000.0,
+      "eps": 9.23,
+      "freeCashFlow": -2440000000.0,
+      "totalDebt": 70720000000.0,
+      "cash": 5480000000.0,
+      "sharesOutstanding": 254756278.0,
+      "grossMargin": 0.8066769664808222,
+      "operatingMargin": 0.05575334184187546,
+      "netMargin": 0.015785584738362328,
+      "roe": 0.010882652588682042,
+      "roic": 0.02895416172469127
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 145840000000.0,
+      "operatingIncome": 6040000000.0,
+      "netIncome": -18960000000.0,
+      "eps": -74.42,
+      "freeCashFlow": 640000000.0,
+      "totalDebt": 80010000000.0,
+      "cash": 3810000000.0,
+      "sharesOutstanding": 254756278.0,
+      "grossMargin": 0.7816785518376302,
+      "operatingMargin": 0.04141524958859023,
+      "netMargin": -0.13000548546352167,
+      "roe": -0.0894086579270018,
+      "roic": 0.02067997397884069
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:01.680314+00:00"
+  }
+}

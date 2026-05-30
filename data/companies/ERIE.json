@@ -1,0 +1,128 @@
+{
+  "ticker": "ERIE",
+  "name": "Erie Indemnity Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11141402624.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 213.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4148570000.0,
+    "operatingIncome": null,
+    "netIncome": 559335000.0,
+    "eps": 10.69,
+    "freeCashFlow": 570965000.0,
+    "totalDebt": null,
+    "cash": 315685000.0,
+    "sharesOutstanding": 74400000.0
+  },
+  "ratios": {
+    "roe": 0.24495987078770276,
+    "roic": null,
+    "grossMargin": 0.17913,
+    "operatingMargin": 0.16876,
+    "netMargin": 0.13482597617974387,
+    "debtToEquity": 0.02108
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 93832000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2851202000.0,
+      "operatingIncome": null,
+      "netIncome": 298569000.0,
+      "eps": 5.71,
+      "freeCashFlow": 298948000.0,
+      "totalDebt": 0.0,
+      "cash": 130158000.0,
+      "sharesOutstanding": 74400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10471688782485422,
+      "roe": 0.2061359782602692,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3309216000.0,
+      "operatingIncome": null,
+      "netIncome": 446061000.0,
+      "eps": 8.53,
+      "freeCashFlow": 288558000.0,
+      "totalDebt": null,
+      "cash": 131513000.0,
+      "sharesOutstanding": 74400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1347935583533985,
+      "roe": 0.26825331436973604,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3862404000.0,
+      "operatingIncome": null,
+      "netIncome": 600314000.0,
+      "eps": 11.48,
+      "freeCashFlow": 486404000.0,
+      "totalDebt": null,
+      "cash": 274838000.0,
+      "sharesOutstanding": 74400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15542496331300404,
+      "roe": 0.30208156162913924,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4148570000.0,
+      "operatingIncome": null,
+      "netIncome": 559335000.0,
+      "eps": 10.69,
+      "freeCashFlow": 570965000.0,
+      "totalDebt": null,
+      "cash": 315685000.0,
+      "sharesOutstanding": 74400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.13482597617974387,
+      "roe": 0.24495987078770276,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:19.902160+00:00"
+  }
+}

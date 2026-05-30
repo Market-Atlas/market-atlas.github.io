@@ -1,0 +1,111 @@
+{
+  "ticker": "JMFINANCIL",
+  "name": "JM Financial Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 124684935168.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 130.36,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27223500000.0,
+    "operatingIncome": null,
+    "netIncome": 8213100000.0,
+    "eps": 8.58,
+    "freeCashFlow": 55347100000.0,
+    "totalDebt": 115073600000.0,
+    "cash": 5400000000.0,
+    "sharesOutstanding": 955843110.0
+  },
+  "ratios": {
+    "roe": 0.08442916178375377,
+    "roic": null,
+    "grossMargin": 0.89641,
+    "operatingMargin": 0.4678,
+    "netMargin": 0.3016915532536228,
+    "debtToEquity": 1.04102
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 26715600000.0,
+      "operatingIncome": null,
+      "netIncome": 7731600000.0,
+      "eps": 8.09,
+      "freeCashFlow": -34751100000.0,
+      "totalDebt": 134980400000.0,
+      "cash": 12629400000.0,
+      "sharesOutstanding": 954055533.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28940394376319456,
+      "roe": 0.10059053811956738,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 20685800000.0,
+      "operatingIncome": null,
+      "netIncome": 5972900000.0,
+      "eps": 6.25,
+      "freeCashFlow": -24317300000.0,
+      "totalDebt": 159394600000.0,
+      "cash": 5240200000.0,
+      "sharesOutstanding": 954803803.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28874396929294494,
+      "roe": 0.07341087920002556,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 26926900000.0,
+      "operatingIncome": null,
+      "netIncome": 4098400000.0,
+      "eps": 4.29,
+      "freeCashFlow": 35813200000.0,
+      "totalDebt": 162277300000.0,
+      "cash": 22315800000.0,
+      "sharesOutstanding": 955592751.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1522046726507693,
+      "roe": 0.04827041988104352,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 27223500000.0,
+      "operatingIncome": null,
+      "netIncome": 8213100000.0,
+      "eps": 8.58,
+      "freeCashFlow": 55347100000.0,
+      "totalDebt": 115073600000.0,
+      "cash": 5400000000.0,
+      "sharesOutstanding": 955843110.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3016915532536228,
+      "roe": 0.08442916178375377,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:09.126758+00:00"
+  }
+}

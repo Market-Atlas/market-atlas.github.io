@@ -1,0 +1,128 @@
+{
+  "ticker": "PSA",
+  "name": "Public Storage",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "currency": "USD",
+  "marketCap": {
+    "value": 53311488000.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 303.69,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4824113000.0,
+    "operatingIncome": 2260491000.0,
+    "netIncome": 1784348000.0,
+    "eps": 9.01,
+    "freeCashFlow": 2897071000.0,
+    "totalDebt": 10253881000.0,
+    "cash": 318095000.0,
+    "sharesOutstanding": 175500243.0
+  },
+  "ratios": {
+    "roe": 0.1929415336811947,
+    "roic": 0.11591067361316468,
+    "grossMargin": 0.7284526709884284,
+    "operatingMargin": 0.46858168537926037,
+    "netMargin": 0.36988105378128583,
+    "debtToEquity": 1.07646
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4182163000.0,
+      "operatingIncome": 2169438000.0,
+      "netIncome": 4349147000.0,
+      "eps": 23.5,
+      "freeCashFlow": 2657368000.0,
+      "totalDebt": 6870826000.0,
+      "cash": 775253000.0,
+      "sharesOutstanding": 175265668.0,
+      "grossMargin": 0.748238650669522,
+      "operatingMargin": 0.518735879017628,
+      "netMargin": 1.039927664225426,
+      "roe": 0.4317456009399804,
+      "roic": 0.12803404203484514
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4517690000.0,
+      "operatingIncome": 2319056000.0,
+      "netIncome": 2148327000.0,
+      "eps": 11.06,
+      "freeCashFlow": 2785511000.0,
+      "totalDebt": 9103277000.0,
+      "cash": 370002000.0,
+      "sharesOutstanding": 175670727.0,
+      "grossMargin": 0.7458997850671472,
+      "operatingMargin": 0.513327829045375,
+      "netMargin": 0.4755366127379258,
+      "roe": 0.21454996605473306,
+      "roic": 0.1213120319640854
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4695616000.0,
+      "operatingIncome": 2201172000.0,
+      "netIncome": 2072011000.0,
+      "eps": 10.64,
+      "freeCashFlow": 2708231000.0,
+      "totalDebt": 9353034000.0,
+      "cash": 447416000.0,
+      "sharesOutstanding": 175408393.0,
+      "grossMargin": 0.7320903157328027,
+      "operatingMargin": 0.46877172238956505,
+      "netMargin": 0.4412650012266761,
+      "roe": 0.2133321376363872,
+      "roic": 0.11545230057842275
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4824113000.0,
+      "operatingIncome": 2260491000.0,
+      "netIncome": 1784348000.0,
+      "eps": 9.01,
+      "freeCashFlow": 2897071000.0,
+      "totalDebt": 10253881000.0,
+      "cash": 318095000.0,
+      "sharesOutstanding": 175500243.0,
+      "grossMargin": 0.7284526709884284,
+      "operatingMargin": 0.46858168537926037,
+      "netMargin": 0.36988105378128583,
+      "roe": 0.1929415336811947,
+      "roic": 0.11591067361316468
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:11.806189+00:00"
+  }
+}

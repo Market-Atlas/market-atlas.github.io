@@ -1,0 +1,128 @@
+{
+  "ticker": "GLW",
+  "name": "Corning Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "USD",
+  "marketCap": {
+    "value": 155913158656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 181.16,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15629000000.0,
+    "operatingIncome": 2279000000.0,
+    "netIncome": 1596000000.0,
+    "eps": 1.83,
+    "freeCashFlow": 1413000000.0,
+    "totalDebt": 9377000000.0,
+    "cash": 1526000000.0,
+    "sharesOutstanding": 1849360396.0
+  },
+  "ratios": {
+    "roe": 0.13517404929279242,
+    "roic": 0.10758119335347432,
+    "grossMargin": 0.35965192910614885,
+    "operatingMargin": 0.1458186704203724,
+    "netMargin": 0.10211785782839593,
+    "debtToEquity": 0.80363
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14189000000.0,
+      "operatingIncome": 1438000000.0,
+      "netIncome": 1316000000.0,
+      "eps": 1.54,
+      "freeCashFlow": 1011000000.0,
+      "totalDebt": 7817000000.0,
+      "cash": 1671000000.0,
+      "sharesOutstanding": 1800000000.0,
+      "grossMargin": 0.31756994855169496,
+      "operatingMargin": 0.10134611318627106,
+      "netMargin": 0.09274790330537741,
+      "roe": 0.10959360426382411,
+      "roic": 0.07253467843631778
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12588000000.0,
+      "operatingIncome": 890000000.0,
+      "netIncome": 581000000.0,
+      "eps": 0.68,
+      "freeCashFlow": 615000000.0,
+      "totalDebt": 8484000000.0,
+      "cash": 1779000000.0,
+      "sharesOutstanding": 1833174879.0,
+      "grossMargin": 0.3122815379726724,
+      "operatingMargin": 0.07070225611693677,
+      "netMargin": 0.046155068319034,
+      "roe": 0.0502986754393559,
+      "roic": 0.04442226104317445
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13118000000.0,
+      "operatingIncome": 1135000000.0,
+      "netIncome": 506000000.0,
+      "eps": 0.58,
+      "freeCashFlow": 974000000.0,
+      "totalDebt": 8091000000.0,
+      "cash": 1768000000.0,
+      "sharesOutstanding": 1841000000.0,
+      "grossMargin": 0.32596432382985213,
+      "operatingMargin": 0.08652233572190883,
+      "netMargin": 0.038572953194084464,
+      "roe": 0.04735167508890137,
+      "roic": 0.06044629067476168
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15629000000.0,
+      "operatingIncome": 2279000000.0,
+      "netIncome": 1596000000.0,
+      "eps": 1.83,
+      "freeCashFlow": 1413000000.0,
+      "totalDebt": 9377000000.0,
+      "cash": 1526000000.0,
+      "sharesOutstanding": 1849360396.0,
+      "grossMargin": 0.35965192910614885,
+      "operatingMargin": 0.1458186704203724,
+      "netMargin": 0.10211785782839593,
+      "roe": 0.13517404929279242,
+      "roic": 0.10758119335347432
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:31.466572+00:00"
+  }
+}

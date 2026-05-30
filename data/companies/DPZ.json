@@ -1,0 +1,128 @@
+{
+  "ticker": "DPZ",
+  "name": "Domino's Pizza, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10330471424.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 310.58,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4939994000.0,
+    "operatingIncome": 949946000.0,
+    "netIncome": 601704000.0,
+    "eps": 17.57,
+    "freeCashFlow": 671504000.0,
+    "totalDebt": 5048284000.0,
+    "cash": 125675000.0,
+    "sharesOutstanding": 33627992.0
+  },
+  "ratios": {
+    "roe": -0.15423791289832567,
+    "roic": 0.8280980035601521,
+    "grossMargin": 0.3995065581051313,
+    "operatingMargin": 0.1922969946927061,
+    "netMargin": 0.12180257708815032,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4537158000.0,
+      "operatingIncome": 746752000.0,
+      "netIncome": 452263000.0,
+      "eps": 12.53,
+      "freeCashFlow": 388083000.0,
+      "totalDebt": 5252354000.0,
+      "cash": 60356000.0,
+      "sharesOutstanding": 35419718.0,
+      "grossMargin": 0.36335653287807035,
+      "operatingMargin": 0.16458584867443452,
+      "netMargin": 0.09967979955734405,
+      "roe": -0.10796275541200721,
+      "roic": 0.7023038891590151
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4479358000.0,
+      "operatingIncome": 819668000.0,
+      "netIncome": 519118000.0,
+      "eps": 14.66,
+      "freeCashFlow": 485468000.0,
+      "totalDebt": 5209306000.0,
+      "cash": 114098000.0,
+      "sharesOutstanding": 34726182.0,
+      "grossMargin": 0.38563941529120915,
+      "operatingMargin": 0.18298782995241727,
+      "netMargin": 0.11589116118872392,
+      "roe": -0.12753591997969715,
+      "roic": 0.719676822024709
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4706416000.0,
+      "operatingIncome": 879157000.0,
+      "netIncome": 584170000.0,
+      "eps": 16.69,
+      "freeCashFlow": 512012000.0,
+      "totalDebt": 5197241000.0,
+      "cash": 186126000.0,
+      "sharesOutstanding": 34281927.0,
+      "grossMargin": 0.39276213577380326,
+      "operatingMargin": 0.1867996794163542,
+      "netMargin": 0.12412204955957995,
+      "roe": -0.14743238192247868,
+      "roic": 0.7118968379286611
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4939994000.0,
+      "operatingIncome": 949946000.0,
+      "netIncome": 601704000.0,
+      "eps": 17.57,
+      "freeCashFlow": 671504000.0,
+      "totalDebt": 5048284000.0,
+      "cash": 125675000.0,
+      "sharesOutstanding": 33627992.0,
+      "grossMargin": 0.3995065581051313,
+      "operatingMargin": 0.1922969946927061,
+      "netMargin": 0.12180257708815032,
+      "roe": -0.15423791289832567,
+      "roic": 0.8280980035601521
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:13.458190+00:00"
+  }
+}

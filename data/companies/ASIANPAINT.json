@@ -1,0 +1,128 @@
+{
+  "ticker": "ASIANPAINT",
+  "name": "Asian Paints Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2561114112000.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2671.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 355163700000.0,
+    "operatingIncome": 54670700000.0,
+    "netIncome": 43253500000.0,
+    "eps": 45.11,
+    "freeCashFlow": 56008600000.0,
+    "totalDebt": 39289300000.0,
+    "cash": 6728300000.0,
+    "sharesOutstanding": 959197790.0
+  },
+  "ratios": {
+    "roe": 0.20238784292605277,
+    "roic": 0.21608528204163394,
+    "grossMargin": 0.43682927055890003,
+    "operatingMargin": 0.15393099013215597,
+    "netMargin": 0.12178468689226968,
+    "debtToEquity": 0.17847000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 343887100000.0,
+      "operatingIncome": 54860600000.0,
+      "netIncome": 41064500000.0,
+      "eps": 42.82,
+      "freeCashFlow": 27478200000.0,
+      "totalDebt": 19326200000.0,
+      "cash": 5231000000.0,
+      "sharesOutstanding": 959197790.0,
+      "grossMargin": 0.38217252115592587,
+      "operatingMargin": 0.15953084602475637,
+      "netMargin": 0.11941273749436952,
+      "roe": 0.25677782273016336,
+      "roic": 0.3060589070480367
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 353954200000.0,
+      "operatingIncome": 67619800000.0,
+      "netIncome": 54602300000.0,
+      "eps": 56.94,
+      "freeCashFlow": 36075200000.0,
+      "totalDebt": 24743800000.0,
+      "cash": 8293400000.0,
+      "sharesOutstanding": 959197790.0,
+      "grossMargin": 0.430030777993311,
+      "operatingMargin": 0.19104110079778683,
+      "netMargin": 0.1542637437272958,
+      "roe": 0.29154968683756666,
+      "roic": 0.31892100432586823
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 337973600000.0,
+      "operatingIncome": 49798700000.0,
+      "netIncome": 36672300000.0,
+      "eps": 38.25,
+      "freeCashFlow": 25938900000.0,
+      "totalDebt": 22902900000.0,
+      "cash": 4452800000.0,
+      "sharesOutstanding": 959197790.0,
+      "grossMargin": 0.4225649577363439,
+      "operatingMargin": 0.14734494055156971,
+      "netMargin": 0.10850640405049389,
+      "roe": 0.18903432559391045,
+      "roic": 0.22959184143918193
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 355163700000.0,
+      "operatingIncome": 54670700000.0,
+      "netIncome": 43253500000.0,
+      "eps": 45.11,
+      "freeCashFlow": 56008600000.0,
+      "totalDebt": 39289300000.0,
+      "cash": 6728300000.0,
+      "sharesOutstanding": 959197790.0,
+      "grossMargin": 0.43682927055890003,
+      "operatingMargin": 0.15393099013215597,
+      "netMargin": 0.12178468689226968,
+      "roe": 0.20238784292605277,
+      "roic": 0.21608528204163394
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:26.653265+00:00"
+  }
+}

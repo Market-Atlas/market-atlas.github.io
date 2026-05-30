@@ -1,0 +1,128 @@
+{
+  "ticker": "SBUX",
+  "name": "Starbucks Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 113012654080.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 99.16,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37184400000.0,
+    "operatingIncome": 3580800000.0,
+    "netIncome": 1856400000.0,
+    "eps": 1.63,
+    "freeCashFlow": 2442000000.0,
+    "totalDebt": 26611500000.0,
+    "cash": 3219800000.0,
+    "sharesOutstanding": 1136900000.0
+  },
+  "ratios": {
+    "roe": -0.22928142677173136,
+    "roic": 0.19340099055355417,
+    "grossMargin": 0.22771108314239305,
+    "operatingMargin": 0.09629844773614742,
+    "netMargin": 0.049924161745248004,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 32250300000.0,
+      "operatingIncome": 4429700000.0,
+      "netIncome": 3281600000.0,
+      "eps": 2.83,
+      "freeCashFlow": 2556000000.0,
+      "totalDebt": 23804800000.0,
+      "cash": 2818400000.0,
+      "sharesOutstanding": 1147900000.0,
+      "grossMargin": 0.25956657767524643,
+      "operatingMargin": 0.1373537610502848,
+      "netMargin": 0.10175409220999494,
+      "roe": -0.37690947097604116,
+      "roic": 0.2933925898451471
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 35975600000.0,
+      "operatingIncome": 5502900000.0,
+      "netIncome": 4124500000.0,
+      "eps": 3.58,
+      "freeCashFlow": 3675100000.0,
+      "totalDebt": 24599800000.0,
+      "cash": 3551500000.0,
+      "sharesOutstanding": 1142600000.0,
+      "grossMargin": 0.27369105727215115,
+      "operatingMargin": 0.1529620075829173,
+      "netMargin": 0.11464714973482026,
+      "roe": -0.5158978335918347,
+      "roic": 0.3314001806684734
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 36176200000.0,
+      "operatingIncome": 5107600000.0,
+      "netIncome": 3760900000.0,
+      "eps": 3.31,
+      "freeCashFlow": 3318100000.0,
+      "totalDebt": 25803100000.0,
+      "cash": 3286200000.0,
+      "sharesOutstanding": 1133500000.0,
+      "grossMargin": 0.26838363343855903,
+      "operatingMargin": 0.14118674708786438,
+      "netMargin": 0.10396061498996578,
+      "roe": -0.5048933399562352,
+      "roic": 0.27827963082019375
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 37184400000.0,
+      "operatingIncome": 3580800000.0,
+      "netIncome": 1856400000.0,
+      "eps": 1.63,
+      "freeCashFlow": 2442000000.0,
+      "totalDebt": 26611500000.0,
+      "cash": 3219800000.0,
+      "sharesOutstanding": 1136900000.0,
+      "grossMargin": 0.22771108314239305,
+      "operatingMargin": 0.09629844773614742,
+      "netMargin": 0.049924161745248004,
+      "roe": -0.22928142677173136,
+      "roic": 0.19340099055355417
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.418723+00:00"
+  }
+}

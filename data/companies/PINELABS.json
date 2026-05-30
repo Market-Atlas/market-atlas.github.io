@@ -1,0 +1,111 @@
+{
+  "ticker": "PINELABS",
+  "name": "PINE LABS LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "INR",
+  "marketCap": {
+    "value": 165937414144.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 144.51,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27105900000.0,
+    "operatingIncome": 1395200000.0,
+    "netIncome": 1125100000.0,
+    "eps": 1.02,
+    "freeCashFlow": 1570100000.0,
+    "totalDebt": 4406500000.0,
+    "cash": 13930800000.0,
+    "sharesOutstanding": 1148276377.0
+  },
+  "ratios": {
+    "roe": 0.01908433849384521,
+    "roic": 0.022019993497536323,
+    "grossMargin": 0.7530390062680081,
+    "operatingMargin": 0.051472188711682694,
+    "netMargin": 0.04150756846295456,
+    "debtToEquity": 0.07474
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13537120000.0,
+      "operatingIncome": -5104090000.0,
+      "netIncome": -2651450000.0,
+      "eps": -2.30907,
+      "freeCashFlow": -5190370000.0,
+      "totalDebt": 4381760000.0,
+      "cash": 10262620000.0,
+      "sharesOutstanding": 1148276377.0,
+      "grossMargin": 0.766109039441181,
+      "operatingMargin": -0.3770440093609276,
+      "netMargin": -0.19586514709184819,
+      "roe": -0.0709136872014896,
+      "roic": -0.12219049411106786
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14331190000.0,
+      "operatingIncome": -6140350000.0,
+      "netIncome": -3419030000.0,
+      "eps": -2.977532,
+      "freeCashFlow": -4953980000.0,
+      "totalDebt": 6541650000.0,
+      "cash": 8820890000.0,
+      "sharesOutstanding": 1148276377.0,
+      "grossMargin": 0.7319406134452199,
+      "operatingMargin": -0.4284605814311303,
+      "netMargin": -0.2385726516779137,
+      "roe": -0.09653011309367687,
+      "roic": -0.1463348312336038
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22742700000.0,
+      "operatingIncome": -348500000.0,
+      "netIncome": -1454900000.0,
+      "eps": -1.267029,
+      "freeCashFlow": -1005200000.0,
+      "totalDebt": 9703990000.0,
+      "cash": 9514550000.0,
+      "sharesOutstanding": 1148276377.0,
+      "grossMargin": 0.7601911822255053,
+      "operatingMargin": -0.015323598341445827,
+      "netMargin": -0.06397217568714357,
+      "roe": -0.04149565763016414,
+      "roic": -0.007785014751318482
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 27105900000.0,
+      "operatingIncome": 1395200000.0,
+      "netIncome": 1125100000.0,
+      "eps": 1.02,
+      "freeCashFlow": 1570100000.0,
+      "totalDebt": 4406500000.0,
+      "cash": 13930800000.0,
+      "sharesOutstanding": 1148276377.0,
+      "grossMargin": 0.7530390062680081,
+      "operatingMargin": 0.051472188711682694,
+      "netMargin": 0.04150756846295456,
+      "roe": 0.01908433849384521,
+      "roic": 0.022019993497536323
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:41.923574+00:00"
+  }
+}

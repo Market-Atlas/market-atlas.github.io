@@ -1,0 +1,128 @@
+{
+  "ticker": "TDG",
+  "name": "TransDigm Group Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 70382346240.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1258.32,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8831000000.0,
+    "operatingIncome": 4189000000.0,
+    "netIncome": 2074000000.0,
+    "eps": 32.08,
+    "freeCashFlow": 1816000000.0,
+    "totalDebt": 30030000000.0,
+    "cash": 2808000000.0,
+    "sharesOutstanding": 62465317.0
+  },
+  "ratios": {
+    "roe": -0.2141234771835639,
+    "roic": 0.2059083759339363,
+    "grossMargin": 0.6014041444909977,
+    "operatingMargin": 0.4743517155475031,
+    "netMargin": 0.23485448986524743,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 5429000000.0,
+      "operatingIncome": 2215000000.0,
+      "netIncome": 866000000.0,
+      "eps": 13.4,
+      "freeCashFlow": 829000000.0,
+      "totalDebt": 19813000000.0,
+      "cash": 3001000000.0,
+      "sharesOutstanding": 60049685.0,
+      "grossMargin": 0.5708233560508381,
+      "operatingMargin": 0.4079941057284951,
+      "netMargin": 0.1595137226008473,
+      "roe": -0.22952557646435198,
+      "roic": 0.13809226932668328
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 6585000000.0,
+      "operatingIncome": 2923000000.0,
+      "netIncome": 1298000000.0,
+      "eps": 22.03,
+      "freeCashFlow": 1236000000.0,
+      "totalDebt": 19766000000.0,
+      "cash": 3472000000.0,
+      "sharesOutstanding": 60995513.0,
+      "grossMargin": 0.5834472285497343,
+      "operatingMargin": 0.4438876233864844,
+      "netMargin": 0.19711465451784357,
+      "roe": -0.6542338709677419,
+      "roic": 0.164379709818918
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 7940000000.0,
+      "operatingIncome": 3577000000.0,
+      "netIncome": 1714000000.0,
+      "eps": 25.62,
+      "freeCashFlow": 1880000000.0,
+      "totalDebt": 24899000000.0,
+      "cash": 6261000000.0,
+      "sharesOutstanding": 61904833.0,
+      "grossMargin": 0.5884130982367758,
+      "operatingMargin": 0.45050377833753147,
+      "netMargin": 0.2158690176322418,
+      "roe": -0.2724960254372019,
+      "roic": 0.19221881885109357
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 8831000000.0,
+      "operatingIncome": 4189000000.0,
+      "netIncome": 2074000000.0,
+      "eps": 32.08,
+      "freeCashFlow": 1816000000.0,
+      "totalDebt": 30030000000.0,
+      "cash": 2808000000.0,
+      "sharesOutstanding": 62465317.0,
+      "grossMargin": 0.6014041444909977,
+      "operatingMargin": 0.4743517155475031,
+      "netMargin": 0.23485448986524743,
+      "roe": -0.2141234771835639,
+      "roic": 0.2059083759339363
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:25.013070+00:00"
+  }
+}

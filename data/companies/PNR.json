@@ -1,0 +1,111 @@
+{
+  "ticker": "PNR",
+  "name": "Pentair plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11448135680.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 70.84,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4176000000.0,
+    "operatingIncome": 930900000.0,
+    "netIncome": 653800000.0,
+    "eps": 3.96,
+    "freeCashFlow": 746000000.0,
+    "totalDebt": 1765900000.0,
+    "cash": 101600000.0,
+    "sharesOutstanding": 163235706.0
+  },
+  "ratios": {
+    "roe": 0.16897549881112375,
+    "roic": 0.1651967134567266,
+    "grossMargin": 0.4047653256704981,
+    "operatingMargin": 0.22291666666666668,
+    "netMargin": 0.15656130268199234,
+    "debtToEquity": 0.54634
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4121800000.0,
+      "operatingIncome": 595300000.0,
+      "netIncome": 480900000.0,
+      "eps": 2.9,
+      "freeCashFlow": 278100000.0,
+      "totalDebt": 2399000000.0,
+      "cash": 108900000.0,
+      "sharesOutstanding": 164542943.0,
+      "grossMargin": 0.3310689504585375,
+      "operatingMargin": 0.14442719200349363,
+      "netMargin": 0.11667232762385366,
+      "roe": 0.17757837598316162,
+      "roic": 0.11656321591509859
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4104500000.0,
+      "operatingIncome": 739200000.0,
+      "netIncome": 622700000.0,
+      "eps": 3.75,
+      "freeCashFlow": 543200000.0,
+      "totalDebt": 2093600000.0,
+      "cash": 170300000.0,
+      "sharesOutstanding": 165334513.0,
+      "grossMargin": 0.37013034474357415,
+      "operatingMargin": 0.18009501766354002,
+      "netMargin": 0.1517115361188939,
+      "roe": 0.19355941686612166,
+      "roic": 0.13919069049277874
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4082800000.0,
+      "operatingIncome": 896500000.0,
+      "netIncome": 625400000.0,
+      "eps": 3.74,
+      "freeCashFlow": 692300000.0,
+      "totalDebt": 1767100000.0,
+      "cash": 118700000.0,
+      "sharesOutstanding": 164817183.0,
+      "grossMargin": 0.39159400411482315,
+      "operatingMargin": 0.21957970020574116,
+      "netMargin": 0.1531791907514451,
+      "roe": 0.17553116843021135,
+      "roic": 0.16819887429643526
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4176000000.0,
+      "operatingIncome": 930900000.0,
+      "netIncome": 653800000.0,
+      "eps": 3.96,
+      "freeCashFlow": 746000000.0,
+      "totalDebt": 1765900000.0,
+      "cash": 101600000.0,
+      "sharesOutstanding": 163235706.0,
+      "grossMargin": 0.4047653256704981,
+      "operatingMargin": 0.22291666666666668,
+      "netMargin": 0.15656130268199234,
+      "roe": 0.16897549881112375,
+      "roic": 0.1651967134567266
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:09.701648+00:00"
+  }
+}

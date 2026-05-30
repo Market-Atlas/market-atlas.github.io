@@ -1,0 +1,128 @@
+{
+  "ticker": "UNP",
+  "name": "Union Pacific Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "USD",
+  "marketCap": {
+    "value": 155932852224.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 262.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24510000000.0,
+    "operatingIncome": 9846000000.0,
+    "netIncome": 7138000000.0,
+    "eps": 11.98,
+    "freeCashFlow": 5499000000.0,
+    "totalDebt": 32822000000.0,
+    "cash": 1266000000.0,
+    "sharesOutstanding": 1113161191.0
+  },
+  "ratios": {
+    "roe": 0.3865273190014621,
+    "roic": 0.19197098793113532,
+    "grossMargin": 0.45777233782129745,
+    "operatingMargin": 0.40171358629130965,
+    "netMargin": 0.2912280701754386,
+    "debtToEquity": 1.62246
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24875000000.0,
+      "operatingIncome": 9917000000.0,
+      "netIncome": 6998000000.0,
+      "eps": 11.21,
+      "freeCashFlow": 5742000000.0,
+      "totalDebt": 34957000000.0,
+      "cash": 973000000.0,
+      "sharesOutstanding": 1112623886.0,
+      "grossMargin": 0.45045226130653265,
+      "operatingMargin": 0.3986733668341709,
+      "netMargin": 0.2813266331658291,
+      "roe": 0.5753514757872236,
+      "roic": 0.21046264855687605
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24119000000.0,
+      "operatingIncome": 9082000000.0,
+      "netIncome": 6379000000.0,
+      "eps": 10.45,
+      "freeCashFlow": 4773000000.0,
+      "totalDebt": 34179000000.0,
+      "cash": 1055000000.0,
+      "sharesOutstanding": 1112854806.0,
+      "grossMargin": 0.4365438036402836,
+      "operatingMargin": 0.37654960819271116,
+      "netMargin": 0.2644802852522907,
+      "roe": 0.4313632675142007,
+      "roic": 0.18547184838768968
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24250000000.0,
+      "operatingIncome": 9713000000.0,
+      "netIncome": 6747000000.0,
+      "eps": 11.09,
+      "freeCashFlow": 5894000000.0,
+      "totalDebt": 32463000000.0,
+      "cash": 1016000000.0,
+      "sharesOutstanding": 1113018733.0,
+      "grossMargin": 0.4552164948453608,
+      "operatingMargin": 0.4005360824742268,
+      "netMargin": 0.2782268041237113,
+      "roe": 0.3994671403197158,
+      "roic": 0.19680667841873847
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24510000000.0,
+      "operatingIncome": 9846000000.0,
+      "netIncome": 7138000000.0,
+      "eps": 11.98,
+      "freeCashFlow": 5499000000.0,
+      "totalDebt": 32822000000.0,
+      "cash": 1266000000.0,
+      "sharesOutstanding": 1113161191.0,
+      "grossMargin": 0.45777233782129745,
+      "operatingMargin": 0.40171358629130965,
+      "netMargin": 0.2912280701754386,
+      "roe": 0.3865273190014621,
+      "roic": 0.19197098793113532
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:32.512676+00:00"
+  }
+}

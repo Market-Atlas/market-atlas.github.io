@@ -1,0 +1,128 @@
+{
+  "ticker": "NI",
+  "name": "NiSource Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22159681536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 46.22,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6642200000.0,
+    "operatingIncome": 1831900000.0,
+    "netIncome": 929500000.0,
+    "eps": 1.95,
+    "freeCashFlow": -793800000.0,
+    "totalDebt": 16213500000.0,
+    "cash": 110100000.0,
+    "sharesOutstanding": 482395058.0
+  },
+  "ratios": {
+    "roe": 0.0983587475264812,
+    "roic": 0.07138125594226842,
+    "grossMargin": 0.503989641986089,
+    "operatingMargin": 0.2757971756345789,
+    "netMargin": 0.139938574568667,
+    "debtToEquity": 1.4090799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5850600000.0,
+      "operatingIncome": 1161600000.0,
+      "netIncome": 804100000.0,
+      "eps": 1.7,
+      "freeCashFlow": -793700000.0,
+      "totalDebt": 11315500000.0,
+      "cash": 40800000.0,
+      "sharesOutstanding": 416105602.0,
+      "grossMargin": 0.38469558677742455,
+      "operatingMargin": 0.19854373910368167,
+      "netMargin": 0.13743889515605237,
+      "roe": 0.10614621010111677,
+      "roic": 0.06148992371988629
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5505400000.0,
+      "operatingIncome": 1298400000.0,
+      "netIncome": 714300000.0,
+      "eps": 1.48,
+      "freeCashFlow": -710700000.0,
+      "totalDebt": 14127900000.0,
+      "cash": 2245400000.0,
+      "sharesOutstanding": 451344671.0,
+      "grossMargin": 0.44995822283576126,
+      "operatingMargin": 0.23584117411995495,
+      "netMargin": 0.12974534093798815,
+      "roe": 0.08637660830028054,
+      "roic": 0.05797075566469472
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5455100000.0,
+      "operatingIncome": 1463800000.0,
+      "netIncome": 760400000.0,
+      "eps": 1.62,
+      "freeCashFlow": -861500000.0,
+      "totalDebt": 13960300000.0,
+      "cash": 156600000.0,
+      "sharesOutstanding": 469822472.0,
+      "grossMargin": 0.5146926729115873,
+      "operatingMargin": 0.268336052501329,
+      "netMargin": 0.13939249509633186,
+      "roe": 0.08756131825614334,
+      "roic": 0.06464262845282519
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6642200000.0,
+      "operatingIncome": 1831900000.0,
+      "netIncome": 929500000.0,
+      "eps": 1.95,
+      "freeCashFlow": -793800000.0,
+      "totalDebt": 16213500000.0,
+      "cash": 110100000.0,
+      "sharesOutstanding": 482395058.0,
+      "grossMargin": 0.503989641986089,
+      "operatingMargin": 0.2757971756345789,
+      "netMargin": 0.139938574568667,
+      "roe": 0.0983587475264812,
+      "roic": 0.07138125594226842
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:00.608068+00:00"
+  }
+}

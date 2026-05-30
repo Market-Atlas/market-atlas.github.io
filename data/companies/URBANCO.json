@@ -1,0 +1,128 @@
+{
+  "ticker": "URBANCO",
+  "name": "Urban Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "INR",
+  "marketCap": {
+    "value": 175505539072.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 120.03,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15555400000.0,
+    "operatingIncome": -2399800000.0,
+    "netIncome": -2348100000.0,
+    "eps": -1.57,
+    "freeCashFlow": -1394700000.0,
+    "totalDebt": 1357900000.0,
+    "cash": 1196900000.0,
+    "sharesOutstanding": 1542180603.0
+  },
+  "ratios": {
+    "roe": -0.10954053713629938,
+    "roic": -0.10528301555686195,
+    "grossMargin": 0.507283644265014,
+    "operatingMargin": -0.154274399886856,
+    "netMargin": -0.15095079522223795,
+    "debtToEquity": 0.06335
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6365970000.0,
+      "operatingIncome": -3936910000.0,
+      "netIncome": -3124840000.0,
+      "eps": -2.176221,
+      "freeCashFlow": -2528450000.0,
+      "totalDebt": 1017340000.0,
+      "cash": 622200000.0,
+      "sharesOutstanding": 1435901931.0,
+      "grossMargin": 0.4030414846441312,
+      "operatingMargin": -0.6184304984157952,
+      "netMargin": -0.49086627803775384,
+      "roe": -0.23329067939217388,
+      "roic": -0.27316964521133835
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 8280180000.0,
+      "operatingIncome": -1815160000.0,
+      "netIncome": -927720000.0,
+      "eps": -0.646089,
+      "freeCashFlow": -945570000.0,
+      "totalDebt": 1041190000.0,
+      "cash": 421580000.0,
+      "sharesOutstanding": 1435901931.0,
+      "grossMargin": 0.5104345557705268,
+      "operatingMargin": -0.21921745662533906,
+      "netMargin": -0.11204104258603075,
+      "roe": -0.07176934663220493,
+      "roic": -0.12995503880408946
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 11444700000.0,
+      "operatingIncome": -675400000.0,
+      "netIncome": 2397600000.0,
+      "eps": 1.669752,
+      "freeCashFlow": 423600000.0,
+      "totalDebt": 1199090000.0,
+      "cash": 610970000.0,
+      "sharesOutstanding": 1435901931.0,
+      "grossMargin": 0.5083051543509223,
+      "operatingMargin": -0.05901421618740552,
+      "netMargin": 0.20949435109701434,
+      "roe": 0.13350996563688697,
+      "roic": -0.03525549007427978
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 15555400000.0,
+      "operatingIncome": -2399800000.0,
+      "netIncome": -2348100000.0,
+      "eps": -1.57,
+      "freeCashFlow": -1394700000.0,
+      "totalDebt": 1357900000.0,
+      "cash": 1196900000.0,
+      "sharesOutstanding": 1542180603.0,
+      "grossMargin": 0.507283644265014,
+      "operatingMargin": -0.154274399886856,
+      "netMargin": -0.15095079522223795,
+      "roe": -0.10954053713629938,
+      "roic": -0.10528301555686195
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:12.799179+00:00"
+  }
+}

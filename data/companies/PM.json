@@ -1,0 +1,128 @@
+{
+  "ticker": "PM",
+  "name": "Philip Morris International Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "currency": "USD",
+  "marketCap": {
+    "value": 276457160704.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 177.38,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40648000000.0,
+    "operatingIncome": 14933000000.0,
+    "netIncome": 11348000000.0,
+    "eps": 7.26,
+    "freeCashFlow": 10664000000.0,
+    "totalDebt": 48835000000.0,
+    "cash": 4872000000.0,
+    "sharesOutstanding": 2109316331.0
+  },
+  "ratios": {
+    "roe": -1.135481288773264,
+    "roic": 0.38446486959656034,
+    "grossMargin": 0.6711769336744735,
+    "operatingMargin": 0.36737354851407206,
+    "netMargin": 0.279177327297776,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 31762000000.0,
+      "operatingIncome": 12246000000.0,
+      "netIncome": 9048000000.0,
+      "eps": 5.81,
+      "freeCashFlow": 9726000000.0,
+      "totalDebt": 43123000000.0,
+      "cash": 3207000000.0,
+      "sharesOutstanding": 2109316331.0,
+      "grossMargin": 0.6410175681632139,
+      "operatingMargin": 0.38555506580190163,
+      "netMargin": 0.2848687110383477,
+      "roe": -1.0101596516690856,
+      "roic": 0.35842650588304165
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 35174000000.0,
+      "operatingIncome": 12221000000.0,
+      "netIncome": 7813000000.0,
+      "eps": 5.02,
+      "freeCashFlow": 7883000000.0,
+      "totalDebt": 47909000000.0,
+      "cash": 3060000000.0,
+      "sharesOutstanding": 2109316331.0,
+      "grossMargin": 0.6334508443736852,
+      "operatingMargin": 0.3474441348723489,
+      "netMargin": 0.2221242963552624,
+      "roe": -0.6960356347438753,
+      "roic": 0.33314251444771564
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 37878000000.0,
+      "operatingIncome": 13402000000.0,
+      "netIncome": 7057000000.0,
+      "eps": 4.53,
+      "freeCashFlow": 10773000000.0,
+      "totalDebt": 45695000000.0,
+      "cash": 4216000000.0,
+      "sharesOutstanding": 2109316331.0,
+      "grossMargin": 0.6481070806272771,
+      "operatingMargin": 0.3538201594593168,
+      "netMargin": 0.1863086752204446,
+      "roe": -0.6005957446808511,
+      "roic": 0.3948151421416998
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40648000000.0,
+      "operatingIncome": 14933000000.0,
+      "netIncome": 11348000000.0,
+      "eps": 7.26,
+      "freeCashFlow": 10664000000.0,
+      "totalDebt": 48835000000.0,
+      "cash": 4872000000.0,
+      "sharesOutstanding": 2109316331.0,
+      "grossMargin": 0.6711769336744735,
+      "operatingMargin": 0.36737354851407206,
+      "netMargin": 0.279177327297776,
+      "roe": -1.135481288773264,
+      "roic": 0.38446486959656034
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:09.873716+00:00"
+  }
+}

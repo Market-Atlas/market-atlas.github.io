@@ -1,0 +1,128 @@
+{
+  "ticker": "SPGI",
+  "name": "S&P Global Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 125503995904.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 424.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15336000000.0,
+    "operatingIncome": 6177000000.0,
+    "netIncome": 4471000000.0,
+    "eps": 14.66,
+    "freeCashFlow": 5456000000.0,
+    "totalDebt": 13582000000.0,
+    "cash": 1745000000.0,
+    "sharesOutstanding": 415000000.0
+  },
+  "ratios": {
+    "roe": 0.1436373566357182,
+    "roic": 0.13816010199288734,
+    "grossMargin": 0.7024647887323944,
+    "operatingMargin": 0.4027777777777778,
+    "netMargin": 0.29153625456442356,
+    "debtToEquity": 0.38392000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11181000000.0,
+      "operatingIncome": 3019000000.0,
+      "netIncome": 3248000000.0,
+      "eps": 10.2,
+      "freeCashFlow": 2514000000.0,
+      "totalDebt": 11533000000.0,
+      "cash": 1286000000.0,
+      "sharesOutstanding": 415000000.0,
+      "grossMargin": 0.6643412932653608,
+      "operatingMargin": 0.2700116268670065,
+      "netMargin": 0.2904928002861998,
+      "roe": 0.08926019566890184,
+      "roic": 0.06299952004340477
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12497000000.0,
+      "operatingIncome": 4054000000.0,
+      "netIncome": 2626000000.0,
+      "eps": 8.23,
+      "freeCashFlow": 3567000000.0,
+      "totalDebt": 12000000000.0,
+      "cash": 1290000000.0,
+      "sharesOutstanding": 415000000.0,
+      "grossMargin": 0.6686404737136913,
+      "operatingMargin": 0.32439785548531647,
+      "netMargin": 0.21013043130351283,
+      "roe": 0.07678362573099415,
+      "roic": 0.08774891774891774
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14208000000.0,
+      "operatingIncome": 5478000000.0,
+      "netIncome": 3852000000.0,
+      "eps": 12.35,
+      "freeCashFlow": 5565000000.0,
+      "totalDebt": 11933000000.0,
+      "cash": 1666000000.0,
+      "sharesOutstanding": 415000000.0,
+      "grossMargin": 0.6930602477477478,
+      "operatingMargin": 0.38555743243243246,
+      "netMargin": 0.27111486486486486,
+      "roe": 0.11616755631955125,
+      "roic": 0.12148496407344983
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15336000000.0,
+      "operatingIncome": 6177000000.0,
+      "netIncome": 4471000000.0,
+      "eps": 14.66,
+      "freeCashFlow": 5456000000.0,
+      "totalDebt": 13582000000.0,
+      "cash": 1745000000.0,
+      "sharesOutstanding": 415000000.0,
+      "grossMargin": 0.7024647887323944,
+      "operatingMargin": 0.4027777777777778,
+      "netMargin": 0.29153625456442356,
+      "roe": 0.1436373566357182,
+      "roic": 0.13816010199288734
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:21.377274+00:00"
+  }
+}

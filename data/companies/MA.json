@@ -1,0 +1,111 @@
+{
+  "ticker": "MA",
+  "name": "Mastercard Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 436472774656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 493.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32791000000.0,
+    "operatingIncome": 19514000000.0,
+    "netIncome": 14968000000.0,
+    "eps": 16.52,
+    "freeCashFlow": 16433000000.0,
+    "totalDebt": 19000000000.0,
+    "cash": 10566000000.0,
+    "sharesOutstanding": 1412037665.0
+  },
+  "ratios": {
+    "roe": 1.9345999741501874,
+    "roic": 0.7298500205707447,
+    "grossMargin": 0.7788722515324327,
+    "operatingMargin": 0.5951023146595102,
+    "netMargin": 0.45646671342746487,
+    "debtToEquity": 2.82059
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22237000000.0,
+      "operatingIncome": 12722000000.0,
+      "netIncome": 9930000000.0,
+      "eps": 10.22,
+      "freeCashFlow": 10098000000.0,
+      "totalDebt": 14023000000.0,
+      "cash": 7008000000.0,
+      "sharesOutstanding": 1407000000.0,
+      "grossMargin": 0.7633223906102442,
+      "operatingMargin": 0.5721095471511445,
+      "netMargin": 0.4465530422269191,
+      "roe": 1.5766910130200062,
+      "roic": 0.6260518675262045
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25098000000.0,
+      "operatingIncome": 14630000000.0,
+      "netIncome": 11195000000.0,
+      "eps": 11.83,
+      "freeCashFlow": 10892000000.0,
+      "totalDebt": 15681000000.0,
+      "cash": 8588000000.0,
+      "sharesOutstanding": 1409000000.0,
+      "grossMargin": 0.7600605625946291,
+      "operatingMargin": 0.5829149733046458,
+      "netMargin": 0.44605147820543467,
+      "roe": 1.6156732573242891,
+      "roic": 0.6470588235294118
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 28167000000.0,
+      "operatingIncome": 16327000000.0,
+      "netIncome": 12874000000.0,
+      "eps": 13.89,
+      "freeCashFlow": 13586000000.0,
+      "totalDebt": 18226000000.0,
+      "cash": 8442000000.0,
+      "sharesOutstanding": 1410400000.0,
+      "grossMargin": 0.7630915610466148,
+      "operatingMargin": 0.5796499449710655,
+      "netMargin": 0.4570596797671033,
+      "roe": 1.9851966075558982,
+      "roic": 0.660717898911416
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32791000000.0,
+      "operatingIncome": 19514000000.0,
+      "netIncome": 14968000000.0,
+      "eps": 16.52,
+      "freeCashFlow": 16433000000.0,
+      "totalDebt": 19000000000.0,
+      "cash": 10566000000.0,
+      "sharesOutstanding": 1412037665.0,
+      "grossMargin": 0.7788722515324327,
+      "operatingMargin": 0.5951023146595102,
+      "netMargin": 0.45646671342746487,
+      "roe": 1.9345999741501874,
+      "roic": 0.7298500205707447
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.976158+00:00"
+  }
+}

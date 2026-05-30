@@ -1,0 +1,128 @@
+{
+  "ticker": "PCG",
+  "name": "PG&E Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 35984351232.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16.34,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24935000000.0,
+    "operatingIncome": 4849000000.0,
+    "netIncome": 2703000000.0,
+    "eps": 1.18,
+    "freeCashFlow": -3071000000.0,
+    "totalDebt": 61335000000.0,
+    "cash": 713000000.0,
+    "sharesOutstanding": 2675686464.0
+  },
+  "ratios": {
+    "roe": 0.08306699446834664,
+    "roic": 0.05165379494007989,
+    "grossMargin": 0.39582915580509326,
+    "operatingMargin": 0.19446561058752757,
+    "netMargin": 0.10840184479647083,
+    "debtToEquity": 1.8787200000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21680000000.0,
+      "operatingIncome": 2074000000.0,
+      "netIncome": 1814000000.0,
+      "eps": 0.84,
+      "freeCashFlow": -5863000000.0,
+      "totalDebt": 53539000000.0,
+      "cash": 734000000.0,
+      "sharesOutstanding": 2465528538.0,
+      "grossMargin": 0.323570110701107,
+      "operatingMargin": 0.09566420664206642,
+      "netMargin": 0.08367158671586716,
+      "roe": 0.07948122507996319,
+      "roic": 0.027160105811791204
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24428000000.0,
+      "operatingIncome": 2735000000.0,
+      "netIncome": 2256000000.0,
+      "eps": 1.05,
+      "freeCashFlow": -4967000000.0,
+      "totalDebt": 57733000000.0,
+      "cash": 635000000.0,
+      "sharesOutstanding": 2611341348.0,
+      "grossMargin": 0.340060586212543,
+      "operatingMargin": 0.11196168331422958,
+      "netMargin": 0.09235303749795316,
+      "roe": 0.0900958466453674,
+      "roic": 0.033042175588658136
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24419000000.0,
+      "operatingIncome": 4553000000.0,
+      "netIncome": 2512000000.0,
+      "eps": 1.15,
+      "freeCashFlow": -2334000000.0,
+      "totalDebt": 58343000000.0,
+      "cash": 940000000.0,
+      "sharesOutstanding": 2671317126.0,
+      "grossMargin": 0.375035832753184,
+      "operatingMargin": 0.18645317171055326,
+      "netMargin": 0.10287071542651215,
+      "roe": 0.08331951308501111,
+      "roic": 0.05145097861953623
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24935000000.0,
+      "operatingIncome": 4849000000.0,
+      "netIncome": 2703000000.0,
+      "eps": 1.18,
+      "freeCashFlow": -3071000000.0,
+      "totalDebt": 61335000000.0,
+      "cash": 713000000.0,
+      "sharesOutstanding": 2675686464.0,
+      "grossMargin": 0.39582915580509326,
+      "operatingMargin": 0.19446561058752757,
+      "netMargin": 0.10840184479647083,
+      "roe": 0.08306699446834664,
+      "roic": 0.05165379494007989
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:07.086210+00:00"
+  }
+}

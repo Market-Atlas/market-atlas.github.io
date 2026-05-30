@@ -1,0 +1,128 @@
+{
+  "ticker": "VRT",
+  "name": "Vertiv Holdings Co",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 121266987008.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 315.71,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10229900000.0,
+    "operatingIncome": 1896200000.0,
+    "netIncome": 1332800000.0,
+    "eps": 3.41,
+    "freeCashFlow": 1887400000.0,
+    "totalDebt": 3227900000.0,
+    "cash": 1728400000.0,
+    "sharesOutstanding": 382553680.0
+  },
+  "ratios": {
+    "roe": 0.3381625352041205,
+    "roic": 0.264492551470178,
+    "grossMargin": 0.363170705480992,
+    "operatingMargin": 0.18535860565596926,
+    "netMargin": 0.13028475351665217,
+    "debtToEquity": 0.76913
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5691500000.0,
+      "operatingIncome": 227800000.0,
+      "netIncome": 76600000.0,
+      "eps": 0.04,
+      "freeCashFlow": -263800000.0,
+      "totalDebt": 3368100000.0,
+      "cash": 260600000.0,
+      "sharesOutstanding": 377368837.0,
+      "grossMargin": 0.2839497496266362,
+      "operatingMargin": 0.040024598084863396,
+      "netMargin": 0.013458666432399192,
+      "roe": 0.053124349816214715,
+      "roic": 0.04735966735966736
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6863200000.0,
+      "operatingIncome": 916800000.0,
+      "netIncome": 460200000.0,
+      "eps": 1.19,
+      "freeCashFlow": 765900000.0,
+      "totalDebt": 3126400000.0,
+      "cash": 780400000.0,
+      "sharesOutstanding": 381788876.0,
+      "grossMargin": 0.3497639585033221,
+      "operatingMargin": 0.13358200256440145,
+      "netMargin": 0.06705326961184287,
+      "roe": 0.22839843168395454,
+      "roic": 0.1783206581992881
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8011800000.0,
+      "operatingIncome": 1382000000.0,
+      "netIncome": 495800000.0,
+      "eps": 1.28,
+      "freeCashFlow": 1135200000.0,
+      "totalDebt": 3145300000.0,
+      "cash": 1227600000.0,
+      "sharesOutstanding": 380703974.0,
+      "grossMargin": 0.3662348036645947,
+      "operatingMargin": 0.1724955690356724,
+      "netMargin": 0.061883721510771615,
+      "roe": 0.2036725136589574,
+      "roic": 0.24768800630869597
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10229900000.0,
+      "operatingIncome": 1896200000.0,
+      "netIncome": 1332800000.0,
+      "eps": 3.41,
+      "freeCashFlow": 1887400000.0,
+      "totalDebt": 3227900000.0,
+      "cash": 1728400000.0,
+      "sharesOutstanding": 382553680.0,
+      "grossMargin": 0.363170705480992,
+      "operatingMargin": 0.18535860565596926,
+      "netMargin": 0.13028475351665217,
+      "roe": 0.3381625352041205,
+      "roic": 0.264492551470178
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:36.003316+00:00"
+  }
+}

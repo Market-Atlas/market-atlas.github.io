@@ -1,0 +1,128 @@
+{
+  "ticker": "WSM",
+  "name": "Williams-Sonoma, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23969677312.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 203.57,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7806816000.0,
+    "operatingIncome": 1415722000.0,
+    "netIncome": 1088437000.0,
+    "eps": 8.84,
+    "freeCashFlow": 1055451000.0,
+    "totalDebt": 1456905000.0,
+    "cash": 1019801000.0,
+    "sharesOutstanding": 118784000.0
+  },
+  "ratios": {
+    "roe": 0.5226440163279887,
+    "roic": 0.39998203117760206,
+    "grossMargin": 0.46152631239163316,
+    "operatingMargin": 0.1813443534470391,
+    "netMargin": 0.13942137229825835,
+    "debtToEquity": 0.79878
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 8674417000.0,
+      "operatingIncome": 1498422000.0,
+      "netIncome": 1127904000.0,
+      "eps": 8.16,
+      "freeCashFlow": 698705000.0,
+      "totalDebt": 1443658000.0,
+      "cash": 367344000.0,
+      "sharesOutstanding": 132454000.0,
+      "grossMargin": 0.4239746601990658,
+      "operatingMargin": 0.17274036975626142,
+      "netMargin": 0.13002649054109341,
+      "roe": 0.6630630122200921,
+      "roic": 0.4764898755337934
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 7750652000.0,
+      "operatingIncome": 1244193000.0,
+      "netIncome": 949762000.0,
+      "eps": 7.275,
+      "freeCashFlow": 1491815000.0,
+      "totalDebt": 1390621000.0,
+      "cash": 1262007000.0,
+      "sharesOutstanding": 128314000.0,
+      "grossMargin": 0.42623523801610497,
+      "operatingMargin": 0.16052752723254765,
+      "netMargin": 0.1225396263436934,
+      "roe": 0.4463458844351205,
+      "roic": 0.35361641753460726
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 7711541000.0,
+      "operatingIncome": 1430184000.0,
+      "netIncome": 1125251000.0,
+      "eps": 8.79,
+      "freeCashFlow": 1138655000.0,
+      "totalDebt": 1347315000.0,
+      "cash": 1212977000.0,
+      "sharesOutstanding": 123129000.0,
+      "grossMargin": 0.46453737326949307,
+      "operatingMargin": 0.18546020827743767,
+      "netMargin": 0.14591778737868347,
+      "roe": 0.5252245242410565,
+      "roic": 0.4098260784346314
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 7806816000.0,
+      "operatingIncome": 1415722000.0,
+      "netIncome": 1088437000.0,
+      "eps": 8.84,
+      "freeCashFlow": 1055451000.0,
+      "totalDebt": 1456905000.0,
+      "cash": 1019801000.0,
+      "sharesOutstanding": 118784000.0,
+      "grossMargin": 0.46152631239163316,
+      "operatingMargin": 0.1813443534470391,
+      "netMargin": 0.13942137229825835,
+      "roe": 0.5226440163279887,
+      "roic": 0.39998203117760206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:40.791578+00:00"
+  }
+}

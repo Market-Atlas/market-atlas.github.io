@@ -1,0 +1,128 @@
+{
+  "ticker": "DRI",
+  "name": "Darden Restaurants, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23354832896.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 203.91,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12076700000.0,
+    "operatingIncome": 1436300000.0,
+    "netIncome": 1049600000.0,
+    "eps": 8.86,
+    "freeCashFlow": 1026600000.0,
+    "totalDebt": 6229700000.0,
+    "cash": 240000000.0,
+    "sharesOutstanding": 117033830.0
+  },
+  "ratios": {
+    "roe": 0.4541167308441137,
+    "roic": 0.16816532022011474,
+    "grossMargin": 0.21881805460100856,
+    "operatingMargin": 0.11893149618687224,
+    "netMargin": 0.08691115950549405,
+    "debtToEquity": 3.87681
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 9630000000.0,
+      "operatingIncome": 1160200000.0,
+      "netIncome": 952800000.0,
+      "eps": 7.39,
+      "freeCashFlow": 853600000.0,
+      "totalDebt": 4887300000.0,
+      "cash": 420600000.0,
+      "sharesOutstanding": 123946313.0,
+      "grossMargin": 0.2071651090342679,
+      "operatingMargin": 0.12047767393561785,
+      "netMargin": 0.09894080996884735,
+      "roe": 0.43344554635610955,
+      "roic": 0.16374285512666714
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 10487800000.0,
+      "operatingIncome": 1217100000.0,
+      "netIncome": 981900000.0,
+      "eps": 7.99,
+      "freeCashFlow": 951300000.0,
+      "totalDebt": 4793900000.0,
+      "cash": 367800000.0,
+      "sharesOutstanding": 121070611.0,
+      "grossMargin": 0.20111939586948646,
+      "operatingMargin": 0.11604912374377849,
+      "netMargin": 0.09362306680142642,
+      "roe": 0.446014081308199,
+      "roic": 0.17398576207221889
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 11390000000.0,
+      "operatingIncome": 1350900000.0,
+      "netIncome": 1027600000.0,
+      "eps": 8.51,
+      "freeCashFlow": 983600000.0,
+      "totalDebt": 5427800000.0,
+      "cash": 194800000.0,
+      "sharesOutstanding": 118862950.0,
+      "grossMargin": 0.21374012291483757,
+      "operatingMargin": 0.11860403863037752,
+      "netMargin": 0.09021949078138718,
+      "roe": 0.4582385730211817,
+      "roic": 0.1761208818429527
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 12076700000.0,
+      "operatingIncome": 1436300000.0,
+      "netIncome": 1049600000.0,
+      "eps": 8.86,
+      "freeCashFlow": 1026600000.0,
+      "totalDebt": 6229700000.0,
+      "cash": 240000000.0,
+      "sharesOutstanding": 117033830.0,
+      "grossMargin": 0.21881805460100856,
+      "operatingMargin": 0.11893149618687224,
+      "netMargin": 0.08691115950549405,
+      "roe": 0.4541167308441137,
+      "roic": 0.16816532022011474
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:13.332361+00:00"
+  }
+}

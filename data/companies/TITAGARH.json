@@ -1,0 +1,111 @@
+{
+  "ticker": "TITAGARH",
+  "name": "Titagarh Rail Systems Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "INR",
+  "marketCap": {
+    "value": 111260729344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 826.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38677500000.0,
+    "operatingIncome": 4036600000.0,
+    "netIncome": 2763900000.0,
+    "eps": 20.39,
+    "freeCashFlow": -3334300000.0,
+    "totalDebt": 6270100000.0,
+    "cash": 252700000.0,
+    "sharesOutstanding": 134673768.0
+  },
+  "ratios": {
+    "roe": 0.11131382451731388,
+    "roic": 0.1297946295647253,
+    "grossMargin": 0.13865942731562278,
+    "operatingMargin": 0.10436558722771637,
+    "netMargin": 0.07146015125072716,
+    "debtToEquity": 0.2509
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 14420670000.0,
+      "operatingIncome": 1808328000.0,
+      "netIncome": -3284000.0,
+      "eps": -0.03,
+      "freeCashFlow": -475881000.0,
+      "totalDebt": 9197941000.0,
+      "cash": 89585000.0,
+      "sharesOutstanding": 119571089.0,
+      "grossMargin": 0.14029493775254548,
+      "operatingMargin": 0.12539833447405704,
+      "netMargin": -0.0002277286700271208,
+      "roe": -0.0003899643783452448,
+      "roic": 0.10263381080993186
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 27553145000.0,
+      "operatingIncome": 2696150000.0,
+      "netIncome": 1302037000.0,
+      "eps": 10.89,
+      "freeCashFlow": 41759000.0,
+      "totalDebt": 3532602000.0,
+      "cash": 554055000.0,
+      "sharesOutstanding": 119571089.0,
+      "grossMargin": 0.10765362719936326,
+      "operatingMargin": 0.09785271336538896,
+      "netMargin": 0.0472554766434104,
+      "roe": 0.135128919392701,
+      "roic": 0.204748301560762
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 38053100000.0,
+      "operatingIncome": 4267000000.0,
+      "netIncome": 2861400000.0,
+      "eps": 22.46,
+      "freeCashFlow": -777400000.0,
+      "totalDebt": 1657200000.0,
+      "cash": 3289800000.0,
+      "sharesOutstanding": 134673768.0,
+      "grossMargin": 0.1281577585006215,
+      "operatingMargin": 0.11213278287445701,
+      "netMargin": 0.07519492498640058,
+      "roe": 0.12898892410056215,
+      "roic": 0.1789811455296659
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 38677500000.0,
+      "operatingIncome": 4036600000.0,
+      "netIncome": 2763900000.0,
+      "eps": 20.39,
+      "freeCashFlow": -3334300000.0,
+      "totalDebt": 6270100000.0,
+      "cash": 252700000.0,
+      "sharesOutstanding": 134673768.0,
+      "grossMargin": 0.13865942731562278,
+      "operatingMargin": 0.10436558722771637,
+      "netMargin": 0.07146015125072716,
+      "roe": 0.11131382451731388,
+      "roic": 0.1297946295647253
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:06.981479+00:00"
+  }
+}

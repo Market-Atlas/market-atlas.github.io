@@ -1,0 +1,128 @@
+{
+  "ticker": "IT",
+  "name": "Gartner, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10859595776.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 162.2,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6497226000.0,
+    "operatingIncome": 1175711000.0,
+    "netIncome": 729231000.0,
+    "eps": 9.65,
+    "freeCashFlow": 1175223000.0,
+    "totalDebt": 3347950000.0,
+    "cash": 1722521000.0,
+    "sharesOutstanding": 163602067.0
+  },
+  "ratios": {
+    "roe": 2.279502231891669,
+    "roic": 0.3205443067861406,
+    "grossMargin": 0.6839304958762401,
+    "operatingMargin": 0.18095584177001078,
+    "netMargin": 0.11223728403475576,
+    "debtToEquity": 52.9341
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5475846000.0,
+      "operatingIncome": 1109185000.0,
+      "netIncome": 807799000.0,
+      "eps": 9.96,
+      "freeCashFlow": 993372000.0,
+      "totalDebt": 3158391000.0,
+      "cash": 697999000.0,
+      "sharesOutstanding": 163602067.0,
+      "grossMargin": 0.6906832295868073,
+      "operatingMargin": 0.20255956796447527,
+      "netMargin": 0.1475204014137724,
+      "roe": 3.5461198078999816,
+      "roic": 0.32756145625657634
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5906956000.0,
+      "operatingIncome": 1111071000.0,
+      "netIncome": 882466000.0,
+      "eps": 11.08,
+      "freeCashFlow": 1052613000.0,
+      "totalDebt": 3070195000.0,
+      "cash": 1318999000.0,
+      "sharesOutstanding": 163602067.0,
+      "grossMargin": 0.6777968212392305,
+      "operatingMargin": 0.18809535740574332,
+      "netMargin": 0.1493943750385139,
+      "roe": 1.2965352891568742,
+      "roic": 0.2962201156064433
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6267411000.0,
+      "operatingIncome": 1157260000.0,
+      "netIncome": 1253715000.0,
+      "eps": 16.0,
+      "freeCashFlow": 1383185000.0,
+      "totalDebt": 2900006000.0,
+      "cash": 1933147000.0,
+      "sharesOutstanding": 163602067.0,
+      "grossMargin": 0.677215679648263,
+      "operatingMargin": 0.18464721716830124,
+      "netMargin": 0.20003714452427007,
+      "roe": 0.9224128861090858,
+      "roic": 0.27170989686969893
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6497226000.0,
+      "operatingIncome": 1175711000.0,
+      "netIncome": 729231000.0,
+      "eps": 9.65,
+      "freeCashFlow": 1175223000.0,
+      "totalDebt": 3347950000.0,
+      "cash": 1722521000.0,
+      "sharesOutstanding": 163602067.0,
+      "grossMargin": 0.6839304958762401,
+      "operatingMargin": 0.18095584177001078,
+      "netMargin": 0.11223728403475576,
+      "roe": 2.279502231891669,
+      "roic": 0.3205443067861406
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:42.756904+00:00"
+  }
+}

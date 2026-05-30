@@ -1,0 +1,128 @@
+{
+  "ticker": "EXPD",
+  "name": "Expeditors International of Washington, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20663693312.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 157.99,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11069009000.0,
+    "operatingIncome": 1052546000.0,
+    "netIncome": 810332000.0,
+    "eps": 5.95,
+    "freeCashFlow": 953400000.0,
+    "totalDebt": 570589000.0,
+    "cash": 1314285000.0,
+    "sharesOutstanding": 133884000.0
+  },
+  "ratios": {
+    "roe": 0.3439975581934877,
+    "roic": 0.3596945139500694,
+    "grossMargin": 0.1292198786720654,
+    "operatingMargin": 0.09508945200062625,
+    "netMargin": 0.0732072762792044,
+    "debtToEquity": 0.24708
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17071284000.0,
+      "operatingIncome": 1824371000.0,
+      "netIncome": 1357399000.0,
+      "eps": 8.26,
+      "freeCashFlow": 2042851000.0,
+      "totalDebt": 518465000.0,
+      "cash": 2034131000.0,
+      "sharesOutstanding": 154313000.0,
+      "grossMargin": 0.12718024022094648,
+      "operatingMargin": 0.10686782552501616,
+      "netMargin": 0.0795135855041718,
+      "roe": 0.43645975380873636,
+      "roic": 0.5027912468175432
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9300110000.0,
+      "operatingIncome": 939933000.0,
+      "netIncome": 752883000.0,
+      "eps": 5.01,
+      "freeCashFlow": 1013877000.0,
+      "totalDebt": 527733000.0,
+      "cash": 1512883000.0,
+      "sharesOutstanding": 143866000.0,
+      "grossMargin": 0.1339205665309335,
+      "operatingMargin": 0.10106686910154826,
+      "netMargin": 0.08095420376748232,
+      "roe": 0.31496768255694774,
+      "roic": 0.32210632802425426
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10600515000.0,
+      "operatingIncome": 1041323000.0,
+      "netIncome": 810073000.0,
+      "eps": 5.72,
+      "freeCashFlow": 682895000.0,
+      "totalDebt": 568937000.0,
+      "cash": 1148320000.0,
+      "sharesOutstanding": 138003000.0,
+      "grossMargin": 0.12726174152859554,
+      "operatingMargin": 0.09823324621492446,
+      "netMargin": 0.07641826835771658,
+      "roe": 0.3644033410525899,
+      "roic": 0.3729735034558296
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11069009000.0,
+      "operatingIncome": 1052546000.0,
+      "netIncome": 810332000.0,
+      "eps": 5.95,
+      "freeCashFlow": 953400000.0,
+      "totalDebt": 570589000.0,
+      "cash": 1314285000.0,
+      "sharesOutstanding": 133884000.0,
+      "grossMargin": 0.1292198786720654,
+      "operatingMargin": 0.09508945200062625,
+      "netMargin": 0.0732072762792044,
+      "roe": 0.3439975581934877,
+      "roic": 0.3596945139500694
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:22.446547+00:00"
+  }
+}

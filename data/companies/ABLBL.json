@@ -1,0 +1,77 @@
+{
+  "ticker": "ABLBL",
+  "name": "ADITYA BIRLA LIFES BRAN L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 121670303744.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 100.17,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 83958100000.0,
+    "operatingIncome": 25059500000.0,
+    "netIncome": 1710500000.0,
+    "eps": null,
+    "freeCashFlow": 8930100000.0,
+    "totalDebt": 30181000000.0,
+    "cash": 909600000.0,
+    "sharesOutstanding": 1220521649.0
+  },
+  "ratios": {
+    "roe": 0.12112478579217947,
+    "roic": 0.5656414492989157,
+    "grossMargin": 0.5951123238853666,
+    "operatingMargin": 0.29847626375537323,
+    "netMargin": 0.020373257613023638,
+    "debtToEquity": 2.13719
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 78299600000.0,
+      "operatingIncome": 21690900000.0,
+      "netIncome": 596000000.0,
+      "eps": 0.490138,
+      "freeCashFlow": 8976900000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.5821153620197294,
+      "operatingMargin": 0.27702440370065745,
+      "netMargin": 0.007611788565969686,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 83958100000.0,
+      "operatingIncome": 25059500000.0,
+      "netIncome": 1710500000.0,
+      "eps": null,
+      "freeCashFlow": 8930100000.0,
+      "totalDebt": 30181000000.0,
+      "cash": 909600000.0,
+      "sharesOutstanding": 1220521649.0,
+      "grossMargin": 0.5951123238853666,
+      "operatingMargin": 0.29847626375537323,
+      "netMargin": 0.020373257613023638,
+      "roe": 0.12112478579217947,
+      "roic": 0.5656414492989157
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:45.858342+00:00"
+  }
+}

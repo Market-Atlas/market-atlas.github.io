@@ -1,0 +1,111 @@
+{
+  "ticker": "CRISIL",
+  "name": "CRISIL Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "INR",
+  "marketCap": {
+    "value": 288746536960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3948.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 36490100000.0,
+    "operatingIncome": 9571800000.0,
+    "netIncome": 7660100000.0,
+    "eps": 104.75,
+    "freeCashFlow": 6821800000.0,
+    "totalDebt": 2968100000.0,
+    "cash": 3201300000.0,
+    "sharesOutstanding": 73130017.0
+  },
+  "ratios": {
+    "roe": 0.25252188934015507,
+    "roic": 0.2874198633736206,
+    "grossMargin": 0.5286749008635219,
+    "operatingMargin": 0.26231224359483807,
+    "netMargin": 0.20992269136012234,
+    "debtToEquity": 0.09785
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27687200000.0,
+      "operatingIncome": 6275700000.0,
+      "netIncome": 5643900000.0,
+      "eps": 77.26,
+      "freeCashFlow": 4152000000.0,
+      "totalDebt": 834600000.0,
+      "cash": 3192500000.0,
+      "sharesOutstanding": 73064044.0,
+      "grossMargin": 0.49760177988384524,
+      "operatingMargin": 0.22666430697217488,
+      "netMargin": 0.203845098095871,
+      "roe": 0.3149532918894184,
+      "roic": 0.33462547455530434
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 31395200000.0,
+      "operatingIncome": 7793700000.0,
+      "netIncome": 6584400000.0,
+      "eps": 90.07,
+      "freeCashFlow": 7173900000.0,
+      "totalDebt": 473200000.0,
+      "cash": 3658300000.0,
+      "sharesOutstanding": 73113605.0,
+      "grossMargin": 0.5028061614514321,
+      "operatingMargin": 0.24824495464274793,
+      "netMargin": 0.20972632759147894,
+      "roe": 0.30075916062961916,
+      "roic": 0.34846506720081555
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 32597800000.0,
+      "operatingIncome": 8413600000.0,
+      "netIncome": 6840700000.0,
+      "eps": 93.55,
+      "freeCashFlow": 5919000000.0,
+      "totalDebt": 2500000000.0,
+      "cash": 3018400000.0,
+      "sharesOutstanding": 73129790.0,
+      "grossMargin": 0.515688175275632,
+      "operatingMargin": 0.25810330758517447,
+      "netMargin": 0.20985158507629348,
+      "roe": 0.2667126737938725,
+      "roic": 0.29890365991431067
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 36490100000.0,
+      "operatingIncome": 9571800000.0,
+      "netIncome": 7660100000.0,
+      "eps": 104.75,
+      "freeCashFlow": 6821800000.0,
+      "totalDebt": 2968100000.0,
+      "cash": 3201300000.0,
+      "sharesOutstanding": 73130017.0,
+      "grossMargin": 0.5286749008635219,
+      "operatingMargin": 0.26231224359483807,
+      "netMargin": 0.20992269136012234,
+      "roe": 0.25252188934015507,
+      "roic": 0.2874198633736206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:29.979600+00:00"
+  }
+}

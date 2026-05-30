@@ -1,0 +1,128 @@
+{
+  "ticker": "JBMA",
+  "name": "JBM Auto Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 146969362432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 621.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 60883700000.0,
+    "operatingIncome": 5310300000.0,
+    "netIncome": 2187800000.0,
+    "eps": 9.25,
+    "freeCashFlow": -3619200000.0,
+    "totalDebt": 31454800000.0,
+    "cash": 908200000.0,
+    "sharesOutstanding": 236494264.0
+  },
+  "ratios": {
+    "roe": 0.14222470697601852,
+    "roic": 0.11337710168134507,
+    "grossMargin": 0.3217445720283097,
+    "operatingMargin": 0.08722038903680296,
+    "netMargin": 0.03593408416374169,
+    "debtToEquity": 1.9028200000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 35288614000.0,
+      "operatingIncome": 2746541000.0,
+      "netIncome": 1243834000.0,
+      "eps": 5.26,
+      "freeCashFlow": -1425793000.0,
+      "totalDebt": 17032281000.0,
+      "cash": 290341000.0,
+      "sharesOutstanding": 236494264.0,
+      "grossMargin": 0.19787201050174427,
+      "operatingMargin": 0.0778307983419241,
+      "netMargin": 0.035247459704708155,
+      "roe": 0.12078877438967309,
+      "roic": 0.10049591514809965
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 47231860000.0,
+      "operatingIncome": 4146951000.0,
+      "netIncome": 1788265000.0,
+      "eps": 7.56,
+      "freeCashFlow": -228078000.0,
+      "totalDebt": 21268415000.0,
+      "cash": 386892000.0,
+      "sharesOutstanding": 236494264.0,
+      "grossMargin": 0.2220694886883557,
+      "operatingMargin": 0.08779986644608109,
+      "netMargin": 0.03786141388461094,
+      "roe": 0.1531479529987672,
+      "roic": 0.1258744767436037
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 54723300000.0,
+      "operatingIncome": 5020800000.0,
+      "netIncome": 2019100000.0,
+      "eps": 8.54,
+      "freeCashFlow": 2718000000.0,
+      "totalDebt": 26302700000.0,
+      "cash": 1007193000.0,
+      "sharesOutstanding": 236494264.0,
+      "grossMargin": 0.3226066410468667,
+      "operatingMargin": 0.0917488528652329,
+      "netMargin": 0.03689653219012742,
+      "roe": 0.14949173845468589,
+      "roic": 0.12612181546686324
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 60883700000.0,
+      "operatingIncome": 5310300000.0,
+      "netIncome": 2187800000.0,
+      "eps": 9.25,
+      "freeCashFlow": -3619200000.0,
+      "totalDebt": 31454800000.0,
+      "cash": 908200000.0,
+      "sharesOutstanding": 236494264.0,
+      "grossMargin": 0.3217445720283097,
+      "operatingMargin": 0.08722038903680296,
+      "netMargin": 0.03593408416374169,
+      "roe": 0.14222470697601852,
+      "roic": 0.11337710168134507
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:07.341087+00:00"
+  }
+}

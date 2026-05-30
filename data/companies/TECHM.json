@@ -1,0 +1,128 @@
+{
+  "ticker": "TECHM",
+  "name": "Tech Mahindra Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1314317795328.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1483.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 568154000000.0,
+    "operatingIncome": 71525000000.0,
+    "netIncome": 48109000000.0,
+    "eps": 54.19,
+    "freeCashFlow": 54763000000.0,
+    "totalDebt": 21862000000.0,
+    "cash": 50461000000.0,
+    "sharesOutstanding": 979841252.0
+  },
+  "ratios": {
+    "roe": 0.1624458896384989,
+    "roic": 0.22491006741799155,
+    "grossMargin": 0.3561868789095914,
+    "operatingMargin": 0.12589016358240898,
+    "netMargin": 0.08467598573626164,
+    "debtToEquity": 0.07269
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 532902000000.0,
+      "operatingIncome": 62496000000.0,
+      "netIncome": 48313000000.0,
+      "eps": 54.54,
+      "freeCashFlow": 45568000000.0,
+      "totalDebt": 27402000000.0,
+      "cash": 40563000000.0,
+      "sharesOutstanding": 974147475.0,
+      "grossMargin": 0.27343113743239844,
+      "operatingMargin": 0.11727484603172816,
+      "netMargin": 0.09066019643386589,
+      "roe": 0.17301294562122868,
+      "roic": 0.20380437441096766
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 519956000000.0,
+      "operatingIncome": 34223000000.0,
+      "netIncome": 23578000000.0,
+      "eps": 26.58,
+      "freeCashFlow": 55853000000.0,
+      "totalDebt": 25367000000.0,
+      "cash": 43471000000.0,
+      "sharesOutstanding": 976758523.0,
+      "grossMargin": 0.24940571894544922,
+      "operatingMargin": 0.06581903084107117,
+      "netMargin": 0.04534614467378009,
+      "roe": 0.08840843813509115,
+      "roic": 0.11717757591735974
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 529883000000.0,
+      "operatingIncome": 51382000000.0,
+      "netIncome": 42515000000.0,
+      "eps": 47.91,
+      "freeCashFlow": 51922000000.0,
+      "totalDebt": 20252000000.0,
+      "cash": 43185000000.0,
+      "sharesOutstanding": 978993712.0,
+      "grossMargin": 0.33076735807716046,
+      "operatingMargin": 0.09696857608188977,
+      "netMargin": 0.0802346933190912,
+      "roe": 0.15538256309047385,
+      "roic": 0.1748478052996764
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 568154000000.0,
+      "operatingIncome": 71525000000.0,
+      "netIncome": 48109000000.0,
+      "eps": 54.19,
+      "freeCashFlow": 54763000000.0,
+      "totalDebt": 21862000000.0,
+      "cash": 50461000000.0,
+      "sharesOutstanding": 979841252.0,
+      "grossMargin": 0.3561868789095914,
+      "operatingMargin": 0.12589016358240898,
+      "netMargin": 0.08467598573626164,
+      "roe": 0.1624458896384989,
+      "roic": 0.22491006741799155
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:30.873878+00:00"
+  }
+}

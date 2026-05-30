@@ -1,0 +1,111 @@
+{
+  "ticker": "NATIONALUM",
+  "name": "National Aluminium Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "currency": "INR",
+  "marketCap": {
+    "value": 779558387712.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 424.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 166621900000.0,
+    "operatingIncome": 68799500000.0,
+    "netIncome": 52679400000.0,
+    "eps": 28.68,
+    "freeCashFlow": 46048200000.0,
+    "totalDebt": 3111000000.0,
+    "cash": 1214000000.0,
+    "sharesOutstanding": 1836631787.0
+  },
+  "ratios": {
+    "roe": 0.2958612648718594,
+    "roic": 0.37976070485865404,
+    "grossMargin": 0.5688579952575261,
+    "operatingMargin": 0.41290790706383734,
+    "netMargin": 0.316161320930802,
+    "debtToEquity": 0.0027700000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 140589800000.0,
+      "operatingIncome": 39614800000.0,
+      "netIncome": 29514100000.0,
+      "eps": 16.07,
+      "freeCashFlow": 27651500000.0,
+      "totalDebt": 771000000.0,
+      "cash": 4128000000.0,
+      "sharesOutstanding": 1836631787.0,
+      "grossMargin": 0.5035066555326204,
+      "operatingMargin": 0.28177577605203225,
+      "netMargin": 0.20993059240428538,
+      "roe": 0.23512733431641306,
+      "roic": 0.3136690396841044
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 141708600000.0,
+      "operatingIncome": 18493900000.0,
+      "netIncome": 14346600000.0,
+      "eps": 7.81,
+      "freeCashFlow": -6257500000.0,
+      "totalDebt": 1046100000.0,
+      "cash": 632900000.0,
+      "sharesOutstanding": 1836631787.0,
+      "grossMargin": 0.31810348842624936,
+      "operatingMargin": 0.13050654653281452,
+      "netMargin": 0.10124015056249233,
+      "roe": 0.109296020148754,
+      "roic": 0.13977725006008626
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 130701200000.0,
+      "operatingIncome": 21338600000.0,
+      "netIncome": 19884600000.0,
+      "eps": 10.83,
+      "freeCashFlow": 10711300000.0,
+      "totalDebt": 963800000.0,
+      "cash": 434900000.0,
+      "sharesOutstanding": 1836631787.0,
+      "grossMargin": 0.37579379531327944,
+      "operatingMargin": 0.1632624643079023,
+      "netMargin": 0.15213785336324379,
+      "roe": 0.13820180440906332,
+      "roic": 0.147320544003336
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 166621900000.0,
+      "operatingIncome": 68799500000.0,
+      "netIncome": 52679400000.0,
+      "eps": 28.68,
+      "freeCashFlow": 46048200000.0,
+      "totalDebt": 3111000000.0,
+      "cash": 1214000000.0,
+      "sharesOutstanding": 1836631787.0,
+      "grossMargin": 0.5688579952575261,
+      "operatingMargin": 0.41290790706383734,
+      "netMargin": 0.316161320930802,
+      "roe": 0.2958612648718594,
+      "roic": 0.37976070485865404
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:29.385376+00:00"
+  }
+}

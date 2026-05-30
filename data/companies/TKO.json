@@ -1,0 +1,128 @@
+{
+  "ticker": "TKO",
+  "name": "TKO Group Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15381866496.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 205.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4735151000.0,
+    "operatingIncome": 835015000.0,
+    "netIncome": 195403000.0,
+    "eps": null,
+    "freeCashFlow": 1158772000.0,
+    "totalDebt": 4063035000.0,
+    "cash": 831100000.0,
+    "sharesOutstanding": 77767155.0
+  },
+  "ratios": {
+    "roe": 0.052283403806034225,
+    "roic": 0.10704749592842228,
+    "grossMargin": 0.5980797655660822,
+    "operatingMargin": 0.17634390117654114,
+    "netMargin": 0.04126647703526244,
+    "debtToEquity": 0.58229
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.0,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1140147000.0,
+      "operatingIncome": 544387000.0,
+      "netIncome": 387275000.0,
+      "eps": 0.0,
+      "freeCashFlow": 489319000.0,
+      "totalDebt": 2783385000.0,
+      "cash": 180574000.0,
+      "sharesOutstanding": 83162446.0,
+      "grossMargin": 0.7144350684604704,
+      "operatingMargin": 0.4774708875259068,
+      "netMargin": 0.3396711125846053,
+      "roe": 0.6807243951655428,
+      "roic": 0.16239204057153578
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3224796000.0,
+      "operatingIncome": 397309000.0,
+      "netIncome": 223476000.0,
+      "eps": -0.43,
+      "freeCashFlow": 172406000.0,
+      "totalDebt": 3026895000.0,
+      "cash": 235839000.0,
+      "sharesOutstanding": 82292902.0,
+      "grossMargin": 0.5110515517880821,
+      "operatingMargin": 0.12320438254078708,
+      "netMargin": 0.06929926730248984,
+      "roe": 0.05438722018603157,
+      "roic": 0.05567768493702594
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4884241000.0,
+      "operatingIncome": 30946000.0,
+      "netIncome": 9408000.0,
+      "eps": 0.02,
+      "freeCashFlow": 467266000.0,
+      "totalDebt": 3083317000.0,
+      "cash": 619787000.0,
+      "sharesOutstanding": 81203161.0,
+      "grossMargin": 0.4627912504726937,
+      "operatingMargin": 0.00633588719311762,
+      "netMargin": 0.0019261948785901433,
+      "roe": 0.00229966930031926,
+      "roic": 0.004313428134155894
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4735151000.0,
+      "operatingIncome": 835015000.0,
+      "netIncome": 195403000.0,
+      "eps": null,
+      "freeCashFlow": 1158772000.0,
+      "totalDebt": 4063035000.0,
+      "cash": 831100000.0,
+      "sharesOutstanding": 77767155.0,
+      "grossMargin": 0.5980797655660822,
+      "operatingMargin": 0.17634390117654114,
+      "netMargin": 0.04126647703526244,
+      "roe": 0.052283403806034225,
+      "roic": 0.10704749592842228
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:27.216823+00:00"
+  }
+}

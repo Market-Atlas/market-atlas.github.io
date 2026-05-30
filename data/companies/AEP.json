@@ -1,0 +1,128 @@
+{
+  "ticker": "AEP",
+  "name": "American Electric Power Company, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 68921786368.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 126.67,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21876000000.0,
+    "operatingIncome": 5385000000.0,
+    "netIncome": 3580000000.0,
+    "eps": 6.66,
+    "freeCashFlow": -1639000000.0,
+    "totalDebt": 49508000000.0,
+    "cash": 197000000.0,
+    "sharesOutstanding": 542048288.0
+  },
+  "ratios": {
+    "roe": 0.11497205986254737,
+    "roic": 0.0667733055576222,
+    "grossMargin": 0.6100749680014628,
+    "operatingMargin": 0.2461601755348327,
+    "netMargin": 0.16364966172974948,
+    "debtToEquity": 1.5709899999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19639500000.0,
+      "operatingIncome": 3778500000.0,
+      "netIncome": 2307200000.0,
+      "eps": 4.49,
+      "freeCashFlow": -1484400000.0,
+      "totalDebt": 41579300000.0,
+      "cash": 509400000.0,
+      "sharesOutstanding": 525099321.0,
+      "grossMargin": 0.5749739046309733,
+      "operatingMargin": 0.19239288169250746,
+      "netMargin": 0.11747753252374042,
+      "roe": 0.09656223057413345,
+      "roic": 0.05771107652502493
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18982000000.0,
+      "operatingIncome": 3735000000.0,
+      "netIncome": 2208000000.0,
+      "eps": 4.24,
+      "freeCashFlow": -2494000000.0,
+      "totalDebt": 43608500000.0,
+      "cash": 330100000.0,
+      "sharesOutstanding": 527369157.0,
+      "grossMargin": 0.5862395954061743,
+      "operatingMargin": 0.1967653566536719,
+      "netMargin": 0.1163207248972711,
+      "roe": 0.08745697457489493,
+      "roic": 0.054244269132905
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19721000000.0,
+      "operatingIncome": 4447000000.0,
+      "netIncome": 2967000000.0,
+      "eps": 5.58,
+      "freeCashFlow": -967000000.0,
+      "totalDebt": 45763000000.0,
+      "cash": 203000000.0,
+      "sharesOutstanding": 534094530.0,
+      "grossMargin": 0.6318138025455099,
+      "operatingMargin": 0.22549566452005476,
+      "netMargin": 0.15044876020485776,
+      "roe": 0.11011728028503563,
+      "roic": 0.06116329926967142
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21876000000.0,
+      "operatingIncome": 5385000000.0,
+      "netIncome": 3580000000.0,
+      "eps": 6.66,
+      "freeCashFlow": -1639000000.0,
+      "totalDebt": 49508000000.0,
+      "cash": 197000000.0,
+      "sharesOutstanding": 542048288.0,
+      "grossMargin": 0.6100749680014628,
+      "operatingMargin": 0.2461601755348327,
+      "netMargin": 0.16364966172974948,
+      "roe": 0.11497205986254737,
+      "roic": 0.0667733055576222
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:39.912763+00:00"
+  }
+}

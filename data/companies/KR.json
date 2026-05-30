@@ -1,0 +1,128 @@
+{
+  "ticker": "KR",
+  "name": "The Kroger Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38319247360.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 147642000000.0,
+    "operatingIncome": 1890000000.0,
+    "netIncome": 1016000000.0,
+    "eps": 1.54,
+    "freeCashFlow": 3456000000.0,
+    "totalDebt": 24692000000.0,
+    "cash": 3334000000.0,
+    "sharesOutstanding": 1918000000.0
+  },
+  "ratios": {
+    "roe": 0.1714189303188797,
+    "roic": 0.06172637904569058,
+    "grossMargin": 0.23300957722057408,
+    "operatingMargin": 0.012801235420815215,
+    "netMargin": 0.006881510681242465,
+    "debtToEquity": 4.1597
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 148258000000.0,
+      "operatingIncome": 4126000000.0,
+      "netIncome": 2244000000.0,
+      "eps": 3.06,
+      "freeCashFlow": 1420000000.0,
+      "totalDebt": 20412000000.0,
+      "cash": 1015000000.0,
+      "sharesOutstanding": 1918000000.0,
+      "grossMargin": 0.21434256498806134,
+      "operatingMargin": 0.027829864155728527,
+      "netMargin": 0.015135776821486868,
+      "roe": 0.22346146186018723,
+      "roic": 0.13548302357654166
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 150039000000.0,
+      "operatingIncome": 3096000000.0,
+      "netIncome": 2164000000.0,
+      "eps": 2.96,
+      "freeCashFlow": 2884000000.0,
+      "totalDebt": 19247000000.0,
+      "cash": 1883000000.0,
+      "sharesOutstanding": 1918000000.0,
+      "grossMargin": 0.22236885076546764,
+      "operatingMargin": 0.020634634994901327,
+      "netMargin": 0.014422916708322502,
+      "roe": 0.18631080499354283,
+      "roic": 0.10031754260903376
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 147123000000.0,
+      "operatingIncome": 3849000000.0,
+      "netIncome": 2665000000.0,
+      "eps": 3.67,
+      "freeCashFlow": 1777000000.0,
+      "totalDebt": 25082000000.0,
+      "cash": 3959000000.0,
+      "sharesOutstanding": 1917600000.0,
+      "grossMargin": 0.22704131916831494,
+      "operatingMargin": 0.026161782997899716,
+      "netMargin": 0.0181140950089381,
+      "roe": 0.32166566083283044,
+      "roic": 0.11535349297209818
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 147642000000.0,
+      "operatingIncome": 1890000000.0,
+      "netIncome": 1016000000.0,
+      "eps": 1.54,
+      "freeCashFlow": 3456000000.0,
+      "totalDebt": 24692000000.0,
+      "cash": 3334000000.0,
+      "sharesOutstanding": 1918000000.0,
+      "grossMargin": 0.23300957722057408,
+      "operatingMargin": 0.012801235420815215,
+      "netMargin": 0.006881510681242465,
+      "roe": 0.1714189303188797,
+      "roic": 0.06172637904569058
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.847568+00:00"
+  }
+}

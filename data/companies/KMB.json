@@ -1,0 +1,111 @@
+{
+  "ticker": "KMB",
+  "name": "Kimberly-Clark Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32397377536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 97.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16447000000.0,
+    "operatingIncome": 2351000000.0,
+    "netIncome": 2021000000.0,
+    "eps": 6.07,
+    "freeCashFlow": 1639000000.0,
+    "totalDebt": 7296000000.0,
+    "cash": 688000000.0,
+    "sharesOutstanding": 378597000.0
+  },
+  "ratios": {
+    "roe": 1.3455392809587217,
+    "roic": 0.2672198226869743,
+    "grossMargin": 0.36012646683285704,
+    "operatingMargin": 0.14294400194564358,
+    "netMargin": 0.12287955250197605,
+    "debtToEquity": 3.71264
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20175000000.0,
+      "operatingIncome": 2681000000.0,
+      "netIncome": 1934000000.0,
+      "eps": 5.73,
+      "freeCashFlow": 1857000000.0,
+      "totalDebt": 8549000000.0,
+      "cash": 427000000.0,
+      "sharesOutstanding": 378600000.0,
+      "grossMargin": 0.30825278810408924,
+      "operatingMargin": 0.13288723667905825,
+      "netMargin": 0.09586121437422553,
+      "roe": 3.5356489945155394,
+      "roic": 0.2947449428320141
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17146000000.0,
+      "operatingIncome": 2586000000.0,
+      "netIncome": 1764000000.0,
+      "eps": 5.21,
+      "freeCashFlow": 2776000000.0,
+      "totalDebt": 8114000000.0,
+      "cash": 1093000000.0,
+      "sharesOutstanding": 378597000.0,
+      "grossMargin": 0.3656246354834947,
+      "operatingMargin": 0.1508223492359734,
+      "netMargin": 0.10288113845794937,
+      "roe": 1.9278688524590164,
+      "roic": 0.2864104551999114
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16805000000.0,
+      "operatingIncome": 2797000000.0,
+      "netIncome": 2545000000.0,
+      "eps": 7.55,
+      "freeCashFlow": 2513000000.0,
+      "totalDebt": 7534000000.0,
+      "cash": 1010000000.0,
+      "sharesOutstanding": 378597000.0,
+      "grossMargin": 0.3742338589705445,
+      "operatingMargin": 0.16643855995239512,
+      "netMargin": 0.15144302290984826,
+      "roe": 3.0297619047619047,
+      "roic": 0.3340100310484834
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16447000000.0,
+      "operatingIncome": 2351000000.0,
+      "netIncome": 2021000000.0,
+      "eps": 6.07,
+      "freeCashFlow": 1639000000.0,
+      "totalDebt": 7296000000.0,
+      "cash": 688000000.0,
+      "sharesOutstanding": 378597000.0,
+      "grossMargin": 0.36012646683285704,
+      "operatingMargin": 0.14294400194564358,
+      "netMargin": 0.12287955250197605,
+      "roe": 1.3455392809587217,
+      "roic": 0.2672198226869743
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:45.945635+00:00"
+  }
+}

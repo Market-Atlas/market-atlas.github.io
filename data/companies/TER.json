@@ -1,0 +1,128 @@
+{
+  "ticker": "TER",
+  "name": "Teradyne, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58595295232.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 374.31,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3190024000.0,
+    "operatingIncome": 688605000.0,
+    "netIncome": 554047000.0,
+    "eps": 3.47,
+    "freeCashFlow": 450406000.0,
+    "totalDebt": 283239000.0,
+    "cash": 293751000.0,
+    "sharesOutstanding": 156088000.0
+  },
+  "ratios": {
+    "roe": 0.1981745877316729,
+    "roic": 0.22364631790089676,
+    "grossMargin": 0.582235431457569,
+    "operatingMargin": 0.21586201232341826,
+    "netMargin": 0.17368113844911512,
+    "debtToEquity": 0.02621
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3155045000.0,
+      "operatingIncome": 849124000.0,
+      "netIncome": 715501000.0,
+      "eps": 4.22,
+      "freeCashFlow": 414674000.0,
+      "totalDebt": 132885000.0,
+      "cash": 854773000.0,
+      "sharesOutstanding": 155759000.0,
+      "grossMargin": 0.5917985321920923,
+      "operatingMargin": 0.2691321359917212,
+      "netMargin": 0.22677996668827227,
+      "roe": 0.29188706046683915,
+      "roic": 0.3285855972051472
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2676298000.0,
+      "operatingIncome": 522345000.0,
+      "netIncome": 448752000.0,
+      "eps": 2.73,
+      "freeCashFlow": 425589000.0,
+      "totalDebt": 82614000.0,
+      "cash": 757571000.0,
+      "sharesOutstanding": 152698000.0,
+      "grossMargin": 0.5742066092789369,
+      "operatingMargin": 0.19517445366696834,
+      "netMargin": 0.16767639478114918,
+      "roe": 0.17766045092099955,
+      "roic": 0.20024642410938653
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2819880000.0,
+      "operatingIncome": 552240000.0,
+      "netIncome": 542372000.0,
+      "eps": 3.32,
+      "freeCashFlow": 474081000.0,
+      "totalDebt": 76621000.0,
+      "cash": 553354000.0,
+      "sharesOutstanding": 161722000.0,
+      "grossMargin": 0.5847507695362923,
+      "operatingMargin": 0.19583812077109664,
+      "netMargin": 0.19233868107862745,
+      "roe": 0.19237865933811799,
+      "roic": 0.1906962048264538
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3190024000.0,
+      "operatingIncome": 688605000.0,
+      "netIncome": 554047000.0,
+      "eps": 3.47,
+      "freeCashFlow": 450406000.0,
+      "totalDebt": 283239000.0,
+      "cash": 293751000.0,
+      "sharesOutstanding": 156088000.0,
+      "grossMargin": 0.582235431457569,
+      "operatingMargin": 0.21586201232341826,
+      "netMargin": 0.17368113844911512,
+      "roe": 0.1981745877316729,
+      "roic": 0.22364631790089676
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:25.740992+00:00"
+  }
+}

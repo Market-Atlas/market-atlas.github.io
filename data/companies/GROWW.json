@@ -1,0 +1,111 @@
+{
+  "ticker": "GROWW",
+  "name": "BILLIONBRAINS GARAGE VN L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1144760696832.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 184.89,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46445790000.0,
+    "operatingIncome": 26985280000.0,
+    "netIncome": 20830000000.0,
+    "eps": 3.4,
+    "freeCashFlow": -326820000.0,
+    "totalDebt": 2922250000.0,
+    "cash": 11654670000.0,
+    "sharesOutstanding": 6273596631.0
+  },
+  "ratios": {
+    "roe": 0.21582461737237932,
+    "roic": 0.2713839482359472,
+    "grossMargin": 0.872790838523793,
+    "operatingMargin": 0.5810059426268774,
+    "netMargin": 0.44847982992645835,
+    "debtToEquity": 0.03028
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.741323,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 25753560000.0,
+      "sharesOutstanding": 6173596631.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.303844,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 25208140000.0,
+      "sharesOutstanding": 6173596631.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 39017230000.0,
+      "operatingIncome": 23477860000.0,
+      "netIncome": null,
+      "eps": 2.955122,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 30203350000.0,
+      "sharesOutstanding": 6173596631.0,
+      "grossMargin": 0.919221584925429,
+      "operatingMargin": 0.6017305687769224,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 46445790000.0,
+      "operatingIncome": 26985280000.0,
+      "netIncome": 20830000000.0,
+      "eps": 3.4,
+      "freeCashFlow": -326820000.0,
+      "totalDebt": 2922250000.0,
+      "cash": 11654670000.0,
+      "sharesOutstanding": 6273596631.0,
+      "grossMargin": 0.872790838523793,
+      "operatingMargin": 0.5810059426268774,
+      "netMargin": 0.44847982992645835,
+      "roe": 0.21582461737237932,
+      "roic": 0.2713839482359472
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:50.304248+00:00"
+  }
+}

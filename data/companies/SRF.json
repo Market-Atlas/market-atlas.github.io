@@ -1,0 +1,128 @@
+{
+  "ticker": "SRF",
+  "name": "SRF Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 804979474432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2715.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 154163700000.0,
+    "operatingIncome": 27459100000.0,
+    "netIncome": 18351800000.0,
+    "eps": 61.91,
+    "freeCashFlow": 7382500000.0,
+    "totalDebt": 50827900000.0,
+    "cash": 5904900000.0,
+    "sharesOutstanding": 296424825.0
+  },
+  "ratios": {
+    "roe": 0.13068513597042178,
+    "roic": 0.14357286457121496,
+    "grossMargin": 0.49419545586931296,
+    "operatingMargin": 0.1781165086203821,
+    "netMargin": 0.11904099343749534,
+    "debtToEquity": 0.36195
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 145918200000.0,
+      "operatingIncome": 30643100000.0,
+      "netIncome": 21623400000.0,
+      "eps": 72.95,
+      "freeCashFlow": 359600000.0,
+      "totalDebt": 44775300000.0,
+      "cash": 6079800000.0,
+      "sharesOutstanding": 296424825.0,
+      "grossMargin": 0.4874833982327085,
+      "operatingMargin": 0.21000190517701015,
+      "netMargin": 0.14818850561478966,
+      "roe": 0.20938602989237004,
+      "roic": 0.20698391984102216
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 129103500000.0,
+      "operatingIncome": 19967000000.0,
+      "netIncome": 13357100000.0,
+      "eps": 45.06,
+      "freeCashFlow": -1230700000.0,
+      "totalDebt": 50305400000.0,
+      "cash": 3993300000.0,
+      "sharesOutstanding": 296424825.0,
+      "grossMargin": 0.47306308504417,
+      "operatingMargin": 0.15465885897748705,
+      "netMargin": 0.10346040192558684,
+      "roe": 0.11636097855043374,
+      "roic": 0.1209420481224212
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 143581500000.0,
+      "operatingIncome": 20661100000.0,
+      "netIncome": 12507800000.0,
+      "eps": 42.2,
+      "freeCashFlow": 12560400000.0,
+      "totalDebt": 47260300000.0,
+      "cash": 3339900000.0,
+      "sharesOutstanding": 296424825.0,
+      "grossMargin": 0.4637777150956077,
+      "operatingMargin": 0.14389806486211665,
+      "netMargin": 0.08711289407061494,
+      "roe": 0.09906226734884604,
+      "roic": 0.11906884590626104
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 154163700000.0,
+      "operatingIncome": 27459100000.0,
+      "netIncome": 18351800000.0,
+      "eps": 61.91,
+      "freeCashFlow": 7382500000.0,
+      "totalDebt": 50827900000.0,
+      "cash": 5904900000.0,
+      "sharesOutstanding": 296424825.0,
+      "grossMargin": 0.49419545586931296,
+      "operatingMargin": 0.1781165086203821,
+      "netMargin": 0.11904099343749534,
+      "roe": 0.13068513597042178,
+      "roic": 0.14357286457121496
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:57.926453+00:00"
+  }
+}

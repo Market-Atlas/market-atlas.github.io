@@ -1,0 +1,128 @@
+{
+  "ticker": "SYNGENE",
+  "name": "Syngene International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "INR",
+  "marketCap": {
+    "value": 177618173952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 442.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37387000000.0,
+    "operatingIncome": 5265000000.0,
+    "netIncome": 3167000000.0,
+    "eps": null,
+    "freeCashFlow": 5470000000.0,
+    "totalDebt": 4584000000.0,
+    "cash": 2286000000.0,
+    "sharesOutstanding": 402939420.0
+  },
+  "ratios": {
+    "roe": 0.06544605401830919,
+    "roic": 0.09938650306748466,
+    "grossMargin": 0.7542996228635622,
+    "operatingMargin": 0.14082435071013988,
+    "netMargin": 0.08470858854682109,
+    "debtToEquity": 0.09473000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 9.82,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 30802000000.0,
+      "operatingIncome": 6182000000.0,
+      "netIncome": 4644000000.0,
+      "eps": 11.51,
+      "freeCashFlow": 3052000000.0,
+      "totalDebt": 8152000000.0,
+      "cash": 870000000.0,
+      "sharesOutstanding": 401434500.0,
+      "grossMargin": 0.7207324199727291,
+      "operatingMargin": 0.20070125316537887,
+      "netMargin": 0.15076943055645736,
+      "roe": 0.12835820895522387,
+      "roic": 0.13944780294144185
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 33695000000.0,
+      "operatingIncome": 6471000000.0,
+      "netIncome": 5100000000.0,
+      "eps": 12.69,
+      "freeCashFlow": 5313000000.0,
+      "totalDebt": 5552000000.0,
+      "cash": 856000000.0,
+      "sharesOutstanding": 402015000.0,
+      "grossMargin": 0.7239353019735866,
+      "operatingMargin": 0.19204629767027748,
+      "netMargin": 0.15135776821486868,
+      "roe": 0.11978298142189445,
+      "roic": 0.13445116250077915
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 36424000000.0,
+      "operatingIncome": 6111000000.0,
+      "netIncome": 4962000000.0,
+      "eps": 12.34,
+      "freeCashFlow": 3975000000.0,
+      "totalDebt": 5779000000.0,
+      "cash": 3669000000.0,
+      "sharesOutstanding": 402536981.0,
+      "grossMargin": 0.7412420382165605,
+      "operatingMargin": 0.16777399516802108,
+      "netMargin": 0.13622886009224688,
+      "roe": 0.10497588220360497,
+      "roic": 0.11519972854261315
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 37387000000.0,
+      "operatingIncome": 5265000000.0,
+      "netIncome": 3167000000.0,
+      "eps": null,
+      "freeCashFlow": 5470000000.0,
+      "totalDebt": 4584000000.0,
+      "cash": 2286000000.0,
+      "sharesOutstanding": 402939420.0,
+      "grossMargin": 0.7542996228635622,
+      "operatingMargin": 0.14082435071013988,
+      "netMargin": 0.08470858854682109,
+      "roe": 0.06544605401830919,
+      "roic": 0.09938650306748466
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:00.525920+00:00"
+  }
+}

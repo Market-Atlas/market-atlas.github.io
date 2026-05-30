@@ -1,0 +1,111 @@
+{
+  "ticker": "PWL",
+  "name": "Physicswallah Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 305186406400.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 106.72,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38995400000.0,
+    "operatingIncome": -566100000.0,
+    "netIncome": -224900000.0,
+    "eps": -0.08,
+    "freeCashFlow": 4901700000.0,
+    "totalDebt": 10521100000.0,
+    "cash": 3595000000.0,
+    "sharesOutstanding": 2859692500.0
+  },
+  "ratios": {
+    "roe": -0.004975234437736567,
+    "roic": -0.010158815612382233,
+    "grossMargin": 0.3151833293157654,
+    "operatingMargin": -0.014517096888350933,
+    "netMargin": -0.005767346917841591,
+    "debtToEquity": 0.23018
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7409610000.0,
+      "operatingIncome": -221840000.0,
+      "netIncome": -814470000.0,
+      "eps": -0.28481,
+      "freeCashFlow": 1240720000.0,
+      "totalDebt": 5699910000.0,
+      "cash": 489820000.0,
+      "sharesOutstanding": 2859692500.0,
+      "grossMargin": 0.35534663767728664,
+      "operatingMargin": -0.029939497490421223,
+      "netMargin": -0.10992076506050925,
+      "roe": 0.4459452800332897,
+      "roic": -0.057270906049278175
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 19329260000.0,
+      "operatingIncome": -4555240000.0,
+      "netIncome": -10404300000.0,
+      "eps": -3.638258,
+      "freeCashFlow": -244510000.0,
+      "totalDebt": 8466580000.0,
+      "cash": 532700000.0,
+      "sharesOutstanding": 2859692500.0,
+      "grossMargin": 0.25512564888671374,
+      "operatingMargin": -0.23566551435492097,
+      "netMargin": -0.5382668555340453,
+      "roe": 0.8346965086399508,
+      "roic": 1.139325544809026
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28866400000.0,
+      "operatingIncome": -1782600000.0,
+      "netIncome": -2159000000.0,
+      "eps": -0.754976,
+      "freeCashFlow": 3348300000.0,
+      "totalDebt": 9966570000.0,
+      "cash": 537090000.0,
+      "sharesOutstanding": 2859692500.0,
+      "grossMargin": 0.29423481972119836,
+      "operatingMargin": -0.06175345730676496,
+      "netMargin": -0.07479283873292132,
+      "roe": -0.14161518713013774,
+      "roic": -0.07070411798139863
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 38995400000.0,
+      "operatingIncome": -566100000.0,
+      "netIncome": -224900000.0,
+      "eps": -0.08,
+      "freeCashFlow": 4901700000.0,
+      "totalDebt": 10521100000.0,
+      "cash": 3595000000.0,
+      "sharesOutstanding": 2859692500.0,
+      "grossMargin": 0.3151833293157654,
+      "operatingMargin": -0.014517096888350933,
+      "netMargin": -0.005767346917841591,
+      "roe": -0.004975234437736567,
+      "roic": -0.010158815612382233
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:46.522728+00:00"
+  }
+}

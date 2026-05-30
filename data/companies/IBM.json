@@ -1,0 +1,128 @@
+{
+  "ticker": "IBM",
+  "name": "International Business Machines Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 279897833472.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 297.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 67536000000.0,
+    "operatingIncome": 12492000000.0,
+    "netIncome": 10593000000.0,
+    "eps": 11.17,
+    "freeCashFlow": 11455000000.0,
+    "totalDebt": 64607000000.0,
+    "cash": 13587000000.0,
+    "sharesOutstanding": 2290618523.0
+  },
+  "ratios": {
+    "roe": 0.3244609164420485,
+    "roic": 0.1284458382602437,
+    "grossMargin": 0.5818674484719261,
+    "operatingMargin": 0.1849680170575693,
+    "netMargin": 0.15684968017057568,
+    "debtToEquity": 2.1116900000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 60530000000.0,
+      "operatingIncome": 8174000000.0,
+      "netIncome": 1640000000.0,
+      "eps": 1.8,
+      "freeCashFlow": 8463000000.0,
+      "totalDebt": 54013000000.0,
+      "cash": 7886000000.0,
+      "sharesOutstanding": 2257116920.0,
+      "grossMargin": 0.540029737320337,
+      "operatingMargin": 0.1350404757971254,
+      "netMargin": 0.027094002973732035,
+      "roe": 0.07473569084943492,
+      "roic": 0.10761351817475677
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 61860000000.0,
+      "operatingIncome": 9382000000.0,
+      "netIncome": 7502000000.0,
+      "eps": 8.14,
+      "freeCashFlow": 12121000000.0,
+      "totalDebt": 59935000000.0,
+      "cash": 13068000000.0,
+      "sharesOutstanding": 2266911159.0,
+      "grossMargin": 0.5544778532169414,
+      "operatingMargin": 0.15166505011315876,
+      "netMargin": 0.12127384416424183,
+      "roe": 0.3329339191408157,
+      "roic": 0.11376533928311587
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 62753000000.0,
+      "operatingIncome": 10074000000.0,
+      "netIncome": 6023000000.0,
+      "eps": 6.43,
+      "freeCashFlow": 11760000000.0,
+      "totalDebt": 58396000000.0,
+      "cash": 13947000000.0,
+      "sharesOutstanding": 2279164313.0,
+      "grossMargin": 0.5665386515385719,
+      "operatingMargin": 0.16053415772951093,
+      "netMargin": 0.0959794750848565,
+      "roe": 0.2205661551983008,
+      "roic": 0.11754547682111478
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 67536000000.0,
+      "operatingIncome": 12492000000.0,
+      "netIncome": 10593000000.0,
+      "eps": 11.17,
+      "freeCashFlow": 11455000000.0,
+      "totalDebt": 64607000000.0,
+      "cash": 13587000000.0,
+      "sharesOutstanding": 2290618523.0,
+      "grossMargin": 0.5818674484719261,
+      "operatingMargin": 0.1849680170575693,
+      "netMargin": 0.15684968017057568,
+      "roe": 0.3244609164420485,
+      "roic": 0.1284458382602437
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.305659+00:00"
+  }
+}

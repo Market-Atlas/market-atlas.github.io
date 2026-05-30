@@ -1,0 +1,128 @@
+{
+  "ticker": "POLYMED",
+  "name": "Poly Medicure Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "INR",
+  "marketCap": {
+    "value": 136966873088.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1349.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18752592000.0,
+    "operatingIncome": 3267999000.0,
+    "netIncome": 3312921000.0,
+    "eps": null,
+    "freeCashFlow": -620173000.0,
+    "totalDebt": 3535759000.0,
+    "cash": 512282000.0,
+    "sharesOutstanding": 101359490.0
+  },
+  "ratios": {
+    "roe": 0.10665604652310542,
+    "roic": 0.09445770134858932,
+    "grossMargin": 0.6817446889475333,
+    "operatingMargin": 0.17426918902730887,
+    "netMargin": 0.17666469787216615,
+    "debtToEquity": 0.08169
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 15.27,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11086582000.0,
+      "operatingIncome": 2178500000.0,
+      "netIncome": 1792825000.0,
+      "eps": 18.67,
+      "freeCashFlow": -482228000.0,
+      "totalDebt": 1490168000.0,
+      "cash": 70624000.0,
+      "sharesOutstanding": 95944342.0,
+      "grossMargin": 0.5405964615604701,
+      "operatingMargin": 0.19649879466908737,
+      "netMargin": 0.16171124698306474,
+      "roe": 0.14439318017517658,
+      "roic": 0.15665403942346137
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13656937000.0,
+      "operatingIncome": 3026545000.0,
+      "netIncome": 2582597000.0,
+      "eps": 26.9,
+      "freeCashFlow": -109337000.0,
+      "totalDebt": 1739047000.0,
+      "cash": 120531000.0,
+      "sharesOutstanding": 95971417.0,
+      "grossMargin": 0.5575023154899228,
+      "operatingMargin": 0.2216122839257441,
+      "netMargin": 0.1891051412187081,
+      "roe": 0.17568047693502312,
+      "roic": 0.1841010921080597
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 16698316000.0,
+      "operatingIncome": 3702039000.0,
+      "netIncome": 3385572000.0,
+      "eps": 34.11,
+      "freeCashFlow": -979757000.0,
+      "totalDebt": 1802454000.0,
+      "cash": 86988000.0,
+      "sharesOutstanding": 101325715.0,
+      "grossMargin": 0.6673660385873641,
+      "operatingMargin": 0.22170133802713998,
+      "netMargin": 0.20274930717564574,
+      "roe": 0.12241470646098349,
+      "roic": 0.12566736321589375
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 18752592000.0,
+      "operatingIncome": 3267999000.0,
+      "netIncome": 3312921000.0,
+      "eps": null,
+      "freeCashFlow": -620173000.0,
+      "totalDebt": 3535759000.0,
+      "cash": 512282000.0,
+      "sharesOutstanding": 101359490.0,
+      "grossMargin": 0.6817446889475333,
+      "operatingMargin": 0.17426918902730887,
+      "netMargin": 0.17666469787216615,
+      "roe": 0.10665604652310542,
+      "roic": 0.09445770134858932
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:43.791826+00:00"
+  }
+}

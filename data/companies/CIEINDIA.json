@@ -1,0 +1,111 @@
+{
+  "ticker": "CIEINDIA",
+  "name": "CIE Automotive India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 169366339584.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 446.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 91223350000.0,
+    "operatingIncome": 10386580000.0,
+    "netIncome": 8281720000.0,
+    "eps": 21.83,
+    "freeCashFlow": 8805670000.0,
+    "totalDebt": 4258800000.0,
+    "cash": 2275490000.0,
+    "sharesOutstanding": 379362377.0
+  },
+  "ratios": {
+    "roe": 0.11102782774258531,
+    "roic": 0.1317254910863246,
+    "grossMargin": 0.43295757062199536,
+    "operatingMargin": 0.11385878725129038,
+    "netMargin": 0.09078508956314364,
+    "debtToEquity": 0.0571
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 82282830000.0,
+      "operatingIncome": 9127150000.0,
+      "netIncome": -1361660000.0,
+      "eps": -3.59,
+      "freeCashFlow": 6168290000.0,
+      "totalDebt": 9845230000.0,
+      "cash": 712940000.0,
+      "sharesOutstanding": 379317379.0,
+      "grossMargin": 0.3743056722769501,
+      "operatingMargin": 0.11092411381572559,
+      "netMargin": -0.016548531449392296,
+      "roe": -0.026707149280619635,
+      "roic": 0.15004336670278914
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 88120430000.0,
+      "operatingIncome": 11267150000.0,
+      "netIncome": 11251490000.0,
+      "eps": 29.66,
+      "freeCashFlow": 8529380000.0,
+      "totalDebt": 8554150000.0,
+      "cash": 2095450000.0,
+      "sharesOutstanding": 379362377.0,
+      "grossMargin": 0.3957597574138029,
+      "operatingMargin": 0.12786081502325852,
+      "netMargin": 0.12768310367981636,
+      "roe": 0.18790163875291252,
+      "roic": 0.1646429843251503
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 86295120000.0,
+      "operatingIncome": 10948780000.0,
+      "netIncome": 8275140000.0,
+      "eps": 21.81,
+      "freeCashFlow": 4941820000.0,
+      "totalDebt": 5699730000.0,
+      "cash": 2993910000.0,
+      "sharesOutstanding": 379362377.0,
+      "grossMargin": 0.4134319530467076,
+      "operatingMargin": 0.1268760041123994,
+      "netMargin": 0.09589348737217122,
+      "roe": 0.12582350279407079,
+      "roic": 0.15319927625914803
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 91223350000.0,
+      "operatingIncome": 10386580000.0,
+      "netIncome": 8281720000.0,
+      "eps": 21.83,
+      "freeCashFlow": 8805670000.0,
+      "totalDebt": 4258800000.0,
+      "cash": 2275490000.0,
+      "sharesOutstanding": 379362377.0,
+      "grossMargin": 0.43295757062199536,
+      "operatingMargin": 0.11385878725129038,
+      "netMargin": 0.09078508956314364,
+      "roe": 0.11102782774258531,
+      "roic": 0.1317254910863246
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:26.491065+00:00"
+  }
+}

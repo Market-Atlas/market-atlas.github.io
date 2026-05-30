@@ -1,0 +1,128 @@
+{
+  "ticker": "HD",
+  "name": "The Home Depot, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 316225585152.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 317.14,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 164683000000.0,
+    "operatingIncome": 20890000000.0,
+    "netIncome": 14156000000.0,
+    "eps": 14.23,
+    "freeCashFlow": 12646000000.0,
+    "totalDebt": 65350000000.0,
+    "cash": 1389000000.0,
+    "sharesOutstanding": 1801511485.0
+  },
+  "ratios": {
+    "roe": 1.1048154218371966,
+    "roic": 0.2672620037613705,
+    "grossMargin": 0.33315521334928316,
+    "operatingMargin": 0.12684976591390731,
+    "netMargin": 0.08595908503002739,
+    "debtToEquity": 4.59356
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 157403000000.0,
+      "operatingIncome": 24039000000.0,
+      "netIncome": 17105000000.0,
+      "eps": 16.69,
+      "freeCashFlow": 11496000000.0,
+      "totalDebt": 50364000000.0,
+      "cash": 2757000000.0,
+      "sharesOutstanding": 1794000000.0,
+      "grossMargin": 0.3353049179494673,
+      "operatingMargin": 0.15272262917479337,
+      "netMargin": 0.10867010158637383,
+      "roe": 10.950704225352112,
+      "roic": 0.462947271116589
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 152669000000.0,
+      "operatingIncome": 21689000000.0,
+      "netIncome": 15143000000.0,
+      "eps": 15.11,
+      "freeCashFlow": 17946000000.0,
+      "totalDebt": 52243000000.0,
+      "cash": 3760000000.0,
+      "sharesOutstanding": 1796000000.0,
+      "grossMargin": 0.33379402498215094,
+      "operatingMargin": 0.1420655142825328,
+      "netMargin": 0.09918844035134834,
+      "roe": 14.504789272030651,
+      "roic": 0.4070223506671421
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 159514000000.0,
+      "operatingIncome": 21526000000.0,
+      "netIncome": 14806000000.0,
+      "eps": 14.91,
+      "freeCashFlow": 16325000000.0,
+      "totalDebt": 62290000000.0,
+      "cash": 1659000000.0,
+      "sharesOutstanding": 1800000000.0,
+      "grossMargin": 0.3341901024361498,
+      "operatingMargin": 0.13494740273581002,
+      "netMargin": 0.09281943904610254,
+      "roe": 2.2298192771084335,
+      "roic": 0.3122878282315392
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 164683000000.0,
+      "operatingIncome": 20890000000.0,
+      "netIncome": 14156000000.0,
+      "eps": 14.23,
+      "freeCashFlow": 12646000000.0,
+      "totalDebt": 65350000000.0,
+      "cash": 1389000000.0,
+      "sharesOutstanding": 1801511485.0,
+      "grossMargin": 0.33315521334928316,
+      "operatingMargin": 0.12684976591390731,
+      "netMargin": 0.08595908503002739,
+      "roe": 1.1048154218371966,
+      "roic": 0.2672620037613705
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.276878+00:00"
+  }
+}

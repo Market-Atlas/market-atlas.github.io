@@ -1,0 +1,128 @@
+{
+  "ticker": "DD",
+  "name": "DuPont de Nemours, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 19612917760.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 48.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6849000000.0,
+    "operatingIncome": 860000000.0,
+    "netIncome": -779000000.0,
+    "eps": -1.87,
+    "freeCashFlow": 172000000.0,
+    "totalDebt": 3194000000.0,
+    "cash": 715000000.0,
+    "sharesOutstanding": 409195445.0
+  },
+  "ratios": {
+    "roe": -0.05596666427185861,
+    "roic": 0.05025419271898557,
+    "grossMargin": 0.34501387063804934,
+    "operatingMargin": 0.12556577602569718,
+    "netMargin": -0.11373923200467222,
+    "debtToEquity": 0.22594
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13017000000.0,
+      "operatingIncome": 2022000000.0,
+      "netIncome": 5868000000.0,
+      "eps": 11.61,
+      "freeCashFlow": 587000000.0,
+      "totalDebt": 8074000000.0,
+      "cash": 3662000000.0,
+      "sharesOutstanding": 458124262.0,
+      "grossMargin": 0.35453637550894984,
+      "operatingMargin": 0.15533533072136438,
+      "netMargin": 0.4507951140815856,
+      "roe": 0.22085889570552147,
+      "roic": 0.05836676962156857
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6614000000.0,
+      "operatingIncome": 822000000.0,
+      "netIncome": 423000000.0,
+      "eps": 0.94,
+      "freeCashFlow": -1218000000.0,
+      "totalDebt": 7800000000.0,
+      "cash": 2392000000.0,
+      "sharesOutstanding": 430110140.0,
+      "grossMargin": 0.3283943150892047,
+      "operatingMargin": 0.12428182642878742,
+      "netMargin": 0.06395524644693075,
+      "roe": 0.017422463857654762,
+      "roic": 0.02562424015711213
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6719000000.0,
+      "operatingIncome": 747000000.0,
+      "netIncome": 703000000.0,
+      "eps": 1.68,
+      "freeCashFlow": 160000000.0,
+      "totalDebt": 7171000000.0,
+      "cash": 1792000000.0,
+      "sharesOutstanding": 417994343.0,
+      "grossMargin": 0.3304063104628665,
+      "operatingMargin": 0.11117725852061319,
+      "netMargin": 0.10462866497990772,
+      "roe": 0.030107066381156317,
+      "roic": 0.02447495167261885
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6849000000.0,
+      "operatingIncome": 860000000.0,
+      "netIncome": -779000000.0,
+      "eps": -1.87,
+      "freeCashFlow": 172000000.0,
+      "totalDebt": 3194000000.0,
+      "cash": 715000000.0,
+      "sharesOutstanding": 409195445.0,
+      "grossMargin": 0.34501387063804934,
+      "operatingMargin": 0.12556577602569718,
+      "netMargin": -0.11373923200467222,
+      "roe": -0.05596666427185861,
+      "roic": 0.05025419271898557
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:09.647256+00:00"
+  }
+}

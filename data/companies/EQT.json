@@ -1,0 +1,128 @@
+{
+  "ticker": "EQT",
+  "name": "EQT Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 34357508096.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 54.93,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8353217000.0,
+    "operatingIncome": 3014406000.0,
+    "netIncome": 2039247000.0,
+    "eps": 3.31,
+    "freeCashFlow": 2837527000.0,
+    "totalDebt": 7858452000.0,
+    "cash": 110795000.0,
+    "sharesOutstanding": 624076000.0
+  },
+  "ratios": {
+    "roe": 0.08585335455031026,
+    "roic": 0.09535901106221166,
+    "grossMargin": 0.4587503233784062,
+    "operatingMargin": 0.36086767529204616,
+    "netMargin": 0.24412714287202164,
+    "debtToEquity": 0.20815999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12140621000.0,
+      "operatingIncome": 7757469000.0,
+      "netIncome": 1770965000.0,
+      "eps": 4.38,
+      "freeCashFlow": 2065117000.0,
+      "totalDebt": 5714414000.0,
+      "cash": 1458644000.0,
+      "sharesOutstanding": 365363000.0,
+      "grossMargin": 0.6638288931019262,
+      "operatingMargin": 0.6389680560821395,
+      "netMargin": 0.14587103905146204,
+      "roe": 0.15851144518215035,
+      "roic": 0.45937824660174215
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5069982000.0,
+      "operatingIncome": 658599000.0,
+      "netIncome": 1735232000.0,
+      "eps": 4.22,
+      "freeCashFlow": 1159813000.0,
+      "totalDebt": 5841493000.0,
+      "cash": 80977000.0,
+      "sharesOutstanding": 419896000.0,
+      "grossMargin": 0.18571643844100433,
+      "operatingMargin": 0.1299016446212235,
+      "netMargin": 0.3422560474573677,
+      "roe": 0.11745809980234478,
+      "roic": 0.03194803822690932
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5222192000.0,
+      "operatingIncome": 276922000.0,
+      "netIncome": 230577000.0,
+      "eps": 0.45,
+      "freeCashFlow": 573264000.0,
+      "totalDebt": 9366055000.0,
+      "cash": 202093000.0,
+      "sharesOutstanding": 596870000.0,
+      "grossMargin": 0.14691512682796803,
+      "operatingMargin": 0.05302792390628303,
+      "netMargin": 0.044153298078661224,
+      "roe": 0.011194347232603676,
+      "roic": 0.009241921295189246
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8353217000.0,
+      "operatingIncome": 3014406000.0,
+      "netIncome": 2039247000.0,
+      "eps": 3.31,
+      "freeCashFlow": 2837527000.0,
+      "totalDebt": 7858452000.0,
+      "cash": 110795000.0,
+      "sharesOutstanding": 624076000.0,
+      "grossMargin": 0.4587503233784062,
+      "operatingMargin": 0.36086767529204616,
+      "netMargin": 0.24412714287202164,
+      "roe": 0.08585335455031026,
+      "roic": 0.09535901106221166
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:19.941452+00:00"
+  }
+}

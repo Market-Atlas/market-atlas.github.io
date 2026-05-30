@@ -1,0 +1,128 @@
+{
+  "ticker": "TITAN",
+  "name": "Titan Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3614620516352.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4074.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 767970000000.0,
+    "operatingIncome": 75290000000.0,
+    "netIncome": 50730000000.0,
+    "eps": 57.19,
+    "freeCashFlow": 46880000000.0,
+    "totalDebt": 306210000000.0,
+    "cash": 8730000000.0,
+    "sharesOutstanding": 887786160.0
+  },
+  "ratios": {
+    "roe": 0.3230592880341336,
+    "roic": 0.16252914256109144,
+    "grossMargin": 0.08450850944698361,
+    "operatingMargin": 0.09803768376368868,
+    "netMargin": 0.06605726786202586,
+    "debtToEquity": 1.95001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 404470000000.0,
+      "operatingIncome": 44800000000.0,
+      "netIncome": 32500000000.0,
+      "eps": 36.61,
+      "freeCashFlow": 9380000000.0,
+      "totalDebt": 93670000000.0,
+      "cash": 2320000000.0,
+      "sharesOutstanding": 890000000.0,
+      "grossMargin": 0.24812717877716517,
+      "operatingMargin": 0.11076223205676565,
+      "netMargin": 0.08035206566618043,
+      "roe": 0.2742384608893764,
+      "roic": 0.21114148364596097
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 509360000000.0,
+      "operatingIncome": 47230000000.0,
+      "netIncome": 34960000000.0,
+      "eps": 39.38,
+      "freeCashFlow": 10040000000.0,
+      "totalDebt": 155280000000.0,
+      "cash": 4090000000.0,
+      "sharesOutstanding": 887786160.0,
+      "grossMargin": 0.22473299827234175,
+      "operatingMargin": 0.09272420292131302,
+      "netMargin": 0.06863514999214701,
+      "roe": 0.37219205791546894,
+      "roic": 0.18951887965972472
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 571430000000.0,
+      "operatingIncome": 50010000000.0,
+      "netIncome": 33370000000.0,
+      "eps": 37.61,
+      "freeCashFlow": -10350000000.0,
+      "totalDebt": 207770000000.0,
+      "cash": 4070000000.0,
+      "sharesOutstanding": 887786160.0,
+      "grossMargin": 0.16952207619480952,
+      "operatingMargin": 0.08751728120679698,
+      "netMargin": 0.058397354006614985,
+      "roe": 0.2870784583620096,
+      "roic": 0.15434708805283787
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 767970000000.0,
+      "operatingIncome": 75290000000.0,
+      "netIncome": 50730000000.0,
+      "eps": 57.19,
+      "freeCashFlow": 46880000000.0,
+      "totalDebt": 306210000000.0,
+      "cash": 8730000000.0,
+      "sharesOutstanding": 887786160.0,
+      "grossMargin": 0.08450850944698361,
+      "operatingMargin": 0.09803768376368868,
+      "netMargin": 0.06605726786202586,
+      "roe": 0.3230592880341336,
+      "roic": 0.16252914256109144
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.673010+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GDDY",
+  "name": "GoDaddy Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11364737024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 85.83,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4951100000.0,
+    "operatingIncome": 1138400000.0,
+    "netIncome": 875000000.0,
+    "eps": 6.22,
+    "freeCashFlow": 1575500000.0,
+    "totalDebt": 3862600000.0,
+    "cash": 1080900000.0,
+    "sharesOutstanding": 134737000.0
+  },
+  "ratios": {
+    "roe": 4.0678754067875404,
+    "roic": 0.2791769870270005,
+    "grossMargin": 0.6361414635131587,
+    "operatingMargin": 0.22992870271252852,
+    "netMargin": 0.17672840378905696,
+    "debtToEquity": 16.216179999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4091300000.0,
+      "operatingIncome": 514500000.0,
+      "netIncome": 352200000.0,
+      "eps": 2.19,
+      "freeCashFlow": 919600000.0,
+      "totalDebt": 3980900000.0,
+      "cash": 774000000.0,
+      "sharesOutstanding": 153830000.0,
+      "grossMargin": 0.6371568938968054,
+      "operatingMargin": 0.1257546501112116,
+      "netMargin": 0.08608510742306846,
+      "roe": -1.061482820976492,
+      "roic": 0.1409936696719739
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4254100000.0,
+      "operatingIncome": 638200000.0,
+      "netIncome": 1374800000.0,
+      "eps": 9.2,
+      "freeCashFlow": 970200000.0,
+      "totalDebt": 3935700000.0,
+      "cash": 458800000.0,
+      "sharesOutstanding": 142051000.0,
+      "grossMargin": 0.6300980230836134,
+      "operatingMargin": 0.15001998072447756,
+      "netMargin": 0.32317058837356905,
+      "roe": 22.10289389067524,
+      "roic": 0.15963380774906827
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4573200000.0,
+      "operatingIncome": 932900000.0,
+      "netIncome": 936900000.0,
+      "eps": 6.45,
+      "freeCashFlow": 1261100000.0,
+      "totalDebt": 3894700000.0,
+      "cash": 1089000000.0,
+      "sharesOutstanding": 141208000.0,
+      "grossMargin": 0.6387649785708038,
+      "operatingMargin": 0.20399282777923555,
+      "netMargin": 0.20486748884807138,
+      "roe": 1.35370611183355,
+      "roic": 0.20338798290747362
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4951100000.0,
+      "operatingIncome": 1138400000.0,
+      "netIncome": 875000000.0,
+      "eps": 6.22,
+      "freeCashFlow": 1575500000.0,
+      "totalDebt": 3862600000.0,
+      "cash": 1080900000.0,
+      "sharesOutstanding": 134737000.0,
+      "grossMargin": 0.6361414635131587,
+      "operatingMargin": 0.22992870271252852,
+      "netMargin": 0.17672840378905696,
+      "roe": 4.0678754067875404,
+      "roic": 0.2791769870270005
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:29.302594+00:00"
+  }
+}

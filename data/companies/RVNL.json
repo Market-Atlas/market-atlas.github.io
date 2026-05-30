@@ -1,0 +1,128 @@
+{
+  "ticker": "RVNL",
+  "name": "Rail Vikas Nigam Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 511768199168.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 245.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 204121200000.0,
+    "operatingIncome": 7311100000.0,
+    "netIncome": 8746900000.0,
+    "eps": null,
+    "freeCashFlow": -19548900000.0,
+    "totalDebt": 48184900000.0,
+    "cash": 5563200000.0,
+    "sharesOutstanding": 2085020100.0
+  },
+  "ratios": {
+    "roe": 0.08905561483388041,
+    "roic": 0.049938081996785594,
+    "grossMargin": 0.06001042517876634,
+    "operatingMargin": 0.035817445713625044,
+    "netMargin": 0.04285150195080178,
+    "debtToEquity": 0.49078000000000005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.32,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 202815700000.0,
+      "operatingIncome": 12241000000.0,
+      "netIncome": 13417500000.0,
+      "eps": 6.81,
+      "freeCashFlow": -41251500000.0,
+      "totalDebt": 64413300000.0,
+      "cash": 8366800000.0,
+      "sharesOutstanding": 2085020100.0,
+      "grossMargin": 0.07699108106522326,
+      "operatingMargin": 0.06035528807681062,
+      "netMargin": 0.06615612104980038,
+      "roe": 0.18516601805084043,
+      "roic": 0.08943176745548685
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 218785200000.0,
+      "operatingIncome": 13584700000.0,
+      "netIncome": 15506900000.0,
+      "eps": 7.44,
+      "freeCashFlow": 26154200000.0,
+      "totalDebt": 60325200000.0,
+      "cash": 11040500000.0,
+      "sharesOutstanding": 2085020100.0,
+      "grossMargin": 0.07805235454683407,
+      "operatingMargin": 0.06209149430583056,
+      "netMargin": 0.07087728054731307,
+      "roe": 0.17779410972238624,
+      "roic": 0.09207250743001216
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 199232500000.0,
+      "operatingIncome": 10999800000.0,
+      "netIncome": 12776600000.0,
+      "eps": 6.13,
+      "freeCashFlow": 14464500000.0,
+      "totalDebt": 54193400000.0,
+      "cash": 31274600000.0,
+      "sharesOutstanding": 2085020100.0,
+      "grossMargin": 0.07474884870691277,
+      "operatingMargin": 0.055210871720226366,
+      "netMargin": 0.06412909540361136,
+      "roe": 0.13349688790068867,
+      "roic": 0.07338067584831272
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 204121200000.0,
+      "operatingIncome": 7311100000.0,
+      "netIncome": 8746900000.0,
+      "eps": null,
+      "freeCashFlow": -19548900000.0,
+      "totalDebt": 48184900000.0,
+      "cash": 5563200000.0,
+      "sharesOutstanding": 2085020100.0,
+      "grossMargin": 0.06001042517876634,
+      "operatingMargin": 0.035817445713625044,
+      "netMargin": 0.04285150195080178,
+      "roe": 0.08905561483388041,
+      "roic": 0.049938081996785594
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:50.313333+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "PH",
+  "name": "Parker-Hannifin Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 106496352256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 844.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19850000000.0,
+    "operatingIncome": 4060000000.0,
+    "netIncome": 3531000000.0,
+    "eps": 27.12,
+    "freeCashFlow": 3341000000.0,
+    "totalDebt": 9285000000.0,
+    "cash": 467000000.0,
+    "sharesOutstanding": 181046128.0
+  },
+  "ratios": {
+    "roe": 0.25807630463382547,
+    "roic": 0.17677537336177995,
+    "grossMargin": 0.3685138539042821,
+    "operatingMargin": 0.20453400503778338,
+    "netMargin": 0.17788413098236777,
+    "debtToEquity": 0.65554
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 15861608000.0,
+      "operatingIncome": 2807238000.0,
+      "netIncome": 1315605000.0,
+      "eps": 10.09,
+      "freeCashFlow": 2211686000.0,
+      "totalDebt": 11480135000.0,
+      "cash": 535799000.0,
+      "sharesOutstanding": 181046128.0,
+      "grossMargin": 0.3348524941481343,
+      "operatingMargin": 0.17698319111151908,
+      "netMargin": 0.0829427256051215,
+      "roe": 0.14868934950465137,
+      "roic": 0.1380961156024755
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 19065000000.0,
+      "operatingIncome": 3075000000.0,
+      "netIncome": 2083000000.0,
+      "eps": 16.04,
+      "freeCashFlow": 2599000000.0,
+      "totalDebt": 12559459000.0,
+      "cash": 475182000.0,
+      "sharesOutstanding": 181046128.0,
+      "grossMargin": 0.33721479150275374,
+      "operatingMargin": 0.16129032258064516,
+      "netMargin": 0.1092578022554419,
+      "roe": 0.201706457937764,
+      "roic": 0.13435958128223782
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 19930000000.0,
+      "operatingIncome": 3813000000.0,
+      "netIncome": 2844000000.0,
+      "eps": 21.84,
+      "freeCashFlow": 2984000000.0,
+      "totalDebt": 10560000000.0,
+      "cash": 422000000.0,
+      "sharesOutstanding": 181046128.0,
+      "grossMargin": 0.3576517812343201,
+      "operatingMargin": 0.19131961866532865,
+      "netMargin": 0.14269944806823884,
+      "roe": 0.2355864811133201,
+      "roic": 0.16847826086956522
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 19850000000.0,
+      "operatingIncome": 4060000000.0,
+      "netIncome": 3531000000.0,
+      "eps": 27.12,
+      "freeCashFlow": 3341000000.0,
+      "totalDebt": 9285000000.0,
+      "cash": 467000000.0,
+      "sharesOutstanding": 181046128.0,
+      "grossMargin": 0.3685138539042821,
+      "operatingMargin": 0.20453400503778338,
+      "netMargin": 0.17788413098236777,
+      "roe": 0.25807630463382547,
+      "roic": 0.17677537336177995
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:07.857237+00:00"
+  }
+}

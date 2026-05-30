@@ -1,0 +1,111 @@
+{
+  "ticker": "ZTS",
+  "name": "Zoetis Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32569833472.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 77.69,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9467000000.0,
+    "operatingIncome": 3597000000.0,
+    "netIncome": 2673000000.0,
+    "eps": 6.02,
+    "freeCashFlow": 2283000000.0,
+    "totalDebt": 9238000000.0,
+    "cash": 2310000000.0,
+    "sharesOutstanding": 501891243.0
+  },
+  "ratios": {
+    "roe": 0.8024617232062444,
+    "roic": 0.2861802848277508,
+    "grossMargin": 0.7183901975282561,
+    "operatingMargin": 0.37995141016161404,
+    "netMargin": 0.2823492130558783,
+    "debtToEquity": 2.86236
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8080000000.0,
+      "operatingIncome": 2928000000.0,
+      "netIncome": 2114000000.0,
+      "eps": 4.49,
+      "freeCashFlow": 1326000000.0,
+      "totalDebt": 8090000000.0,
+      "cash": 3577000000.0,
+      "sharesOutstanding": 501891243.0,
+      "grossMargin": 0.6962871287128712,
+      "operatingMargin": 0.36237623762376237,
+      "netMargin": 0.26163366336633664,
+      "roe": 0.47990919409761634,
+      "roic": 0.23433373349339737
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8544000000.0,
+      "operatingIncome": 3069000000.0,
+      "netIncome": 2344000000.0,
+      "eps": 5.07,
+      "freeCashFlow": 1621000000.0,
+      "totalDebt": 6755000000.0,
+      "cash": 2039000000.0,
+      "sharesOutstanding": 501891243.0,
+      "grossMargin": 0.7002574906367042,
+      "operatingMargin": 0.3591994382022472,
+      "netMargin": 0.2743445692883895,
+      "roe": 0.46908144886932157,
+      "roic": 0.26114703880190604
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9256000000.0,
+      "operatingIncome": 3392000000.0,
+      "netIncome": 2486000000.0,
+      "eps": 5.47,
+      "freeCashFlow": 2298000000.0,
+      "totalDebt": 6744000000.0,
+      "cash": 1985000000.0,
+      "sharesOutstanding": 501891243.0,
+      "grossMargin": 0.7062445980985307,
+      "operatingMargin": 0.36646499567847884,
+      "netMargin": 0.2685825410544512,
+      "roe": 0.5211740041928721,
+      "roic": 0.29459788084071564
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9467000000.0,
+      "operatingIncome": 3597000000.0,
+      "netIncome": 2673000000.0,
+      "eps": 6.02,
+      "freeCashFlow": 2283000000.0,
+      "totalDebt": 9238000000.0,
+      "cash": 2310000000.0,
+      "sharesOutstanding": 501891243.0,
+      "grossMargin": 0.7183901975282561,
+      "operatingMargin": 0.37995141016161404,
+      "netMargin": 0.2823492130558783,
+      "roe": 0.8024617232062444,
+      "roic": 0.2861802848277508
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:43.576279+00:00"
+  }
+}

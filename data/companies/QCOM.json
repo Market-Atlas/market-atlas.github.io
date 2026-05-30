@@ -1,0 +1,128 @@
+{
+  "ticker": "QCOM",
+  "name": "QUALCOMM Incorporated",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 264575090688.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 251.02,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44284000000.0,
+    "operatingIncome": 12394000000.0,
+    "netIncome": 5541000000.0,
+    "eps": 5.01,
+    "freeCashFlow": 12820000000.0,
+    "totalDebt": 14811000000.0,
+    "cash": 5520000000.0,
+    "sharesOutstanding": 1074000000.0
+  },
+  "ratios": {
+    "roe": 0.26129397340375365,
+    "roic": 0.34411527889607685,
+    "grossMargin": 0.5542859723602204,
+    "operatingMargin": 0.2798753500135489,
+    "netMargin": 0.1251241983560654,
+    "debtToEquity": 0.55979
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 44200000000.0,
+      "operatingIncome": 15860000000.0,
+      "netIncome": 12936000000.0,
+      "eps": 11.37,
+      "freeCashFlow": 6834000000.0,
+      "totalDebt": 15482000000.0,
+      "cash": 2773000000.0,
+      "sharesOutstanding": 1121000000.0,
+      "grossMargin": 0.5783936651583711,
+      "operatingMargin": 0.3588235294117647,
+      "netMargin": 0.29266968325791853,
+      "roe": 0.718148004219175,
+      "roic": 0.4735035079862666
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 35820000000.0,
+      "operatingIncome": 8650000000.0,
+      "netIncome": 7232000000.0,
+      "eps": 6.42,
+      "freeCashFlow": 9849000000.0,
+      "totalDebt": 15398000000.0,
+      "cash": 8450000000.0,
+      "sharesOutstanding": 1114000000.0,
+      "grossMargin": 0.5569793411501954,
+      "operatingMargin": 0.24148520379676158,
+      "netMargin": 0.20189838079285316,
+      "roe": 0.3351095871368333,
+      "roic": 0.23391654722950864
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 38962000000.0,
+      "operatingIncome": 10253000000.0,
+      "netIncome": 10142000000.0,
+      "eps": 8.97,
+      "freeCashFlow": 11161000000.0,
+      "totalDebt": 14634000000.0,
+      "cash": 7849000000.0,
+      "sharesOutstanding": 1113000000.0,
+      "grossMargin": 0.5621374672758072,
+      "operatingMargin": 0.2631538422052256,
+      "netMargin": 0.26030491247882553,
+      "roe": 0.38600898226383495,
+      "roic": 0.2506355725041557
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 44284000000.0,
+      "operatingIncome": 12394000000.0,
+      "netIncome": 5541000000.0,
+      "eps": 5.01,
+      "freeCashFlow": 12820000000.0,
+      "totalDebt": 14811000000.0,
+      "cash": 5520000000.0,
+      "sharesOutstanding": 1074000000.0,
+      "grossMargin": 0.5542859723602204,
+      "operatingMargin": 0.2798753500135489,
+      "netMargin": 0.1251241983560654,
+      "roe": 0.26129397340375365,
+      "roic": 0.34411527889607685
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.218142+00:00"
+  }
+}

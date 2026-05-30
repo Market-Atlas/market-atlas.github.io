@@ -1,0 +1,128 @@
+{
+  "ticker": "BHARTIHEXA",
+  "name": "BHARTI HEXACOM LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 747750031360.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1495.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 93538000000.0,
+    "operatingIncome": 26772000000.0,
+    "netIncome": 17332000000.0,
+    "eps": null,
+    "freeCashFlow": 29811000000.0,
+    "totalDebt": 61373000000.0,
+    "cash": 330000000.0,
+    "sharesOutstanding": 500000000.0
+  },
+  "ratios": {
+    "roe": 0.24189136381398985,
+    "roic": 0.20125540311971435,
+    "grossMargin": 0.6099018580683786,
+    "operatingMargin": 0.2862152280356646,
+    "netMargin": 0.1852936774359084,
+    "debtToEquity": 0.9466500000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 33.492,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 65790000000.0,
+      "operatingIncome": 13632000000.0,
+      "netIncome": 5492000000.0,
+      "eps": 10.984,
+      "freeCashFlow": 41636000000.0,
+      "totalDebt": 91643000000.0,
+      "cash": 555000000.0,
+      "sharesOutstanding": 500000000.0,
+      "grossMargin": 0.5132238942088463,
+      "operatingMargin": 0.2072047423620611,
+      "netMargin": 0.08347773217814257,
+      "roe": 0.13046680128281268,
+      "roic": 0.1019306405060641
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 70888000000.0,
+      "operatingIncome": 17414000000.0,
+      "netIncome": 5044000000.0,
+      "eps": 10.09,
+      "freeCashFlow": 14878000000.0,
+      "totalDebt": 80626000000.0,
+      "cash": 398000000.0,
+      "sharesOutstanding": 500000000.0,
+      "grossMargin": 0.5650885904525449,
+      "operatingMargin": 0.24565511793251327,
+      "netMargin": 0.07115449723507505,
+      "roe": 0.11363687566179287,
+      "roic": 0.1392975130586419
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 85479000000.0,
+      "operatingIncome": 21027000000.0,
+      "netIncome": 14936000000.0,
+      "eps": 29.87,
+      "freeCashFlow": 20655000000.0,
+      "totalDebt": 70997000000.0,
+      "cash": 171000000.0,
+      "sharesOutstanding": 500000000.0,
+      "grossMargin": 0.577791036394904,
+      "operatingMargin": 0.2459902432176324,
+      "netMargin": 0.17473297535067092,
+      "roe": 0.2517826739266027,
+      "roic": 0.16135146334351355
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 93538000000.0,
+      "operatingIncome": 26772000000.0,
+      "netIncome": 17332000000.0,
+      "eps": null,
+      "freeCashFlow": 29811000000.0,
+      "totalDebt": 61373000000.0,
+      "cash": 330000000.0,
+      "sharesOutstanding": 500000000.0,
+      "grossMargin": 0.6099018580683786,
+      "operatingMargin": 0.2862152280356646,
+      "netMargin": 0.1852936774359084,
+      "roe": 0.24189136381398985,
+      "roic": 0.20125540311971435
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:02.213515+00:00"
+  }
+}

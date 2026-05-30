@@ -1,0 +1,128 @@
+{
+  "ticker": "SW",
+  "name": "Smurfit Westrock Plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21581697024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 41.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31179000000.0,
+    "operatingIncome": 2224000000.0,
+    "netIncome": 699000000.0,
+    "eps": 1.33,
+    "freeCashFlow": 1200000000.0,
+    "totalDebt": 13773000000.0,
+    "cash": 892000000.0,
+    "sharesOutstanding": 523759806.0
+  },
+  "ratios": {
+    "roe": 0.038140448518579145,
+    "roic": 0.06928348909657321,
+    "grossMargin": 0.1938163507489015,
+    "operatingMargin": 0.07133006190063824,
+    "netMargin": 0.02241893582218801,
+    "debtToEquity": 0.7883100000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13509000000.0,
+      "operatingIncome": 1729000000.0,
+      "netIncome": 1034000000.0,
+      "eps": 3.879934,
+      "freeCashFlow": 503000000.0,
+      "totalDebt": 4053662773.863527,
+      "cash": 833252903.516392,
+      "sharesOutstanding": 259033759.0,
+      "grossMargin": 0.2422088977718558,
+      "operatingMargin": 0.1279887482419128,
+      "netMargin": 0.07654156488267082,
+      "roe": 0.1918795343283582,
+      "roic": 0.18310905281090287
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12093000000.0,
+      "operatingIncome": 1482000000.0,
+      "netIncome": 825000000.0,
+      "eps": 3.218924,
+      "freeCashFlow": 630000000.0,
+      "totalDebt": 3747000000.0,
+      "cash": 1000000000.0,
+      "sharesOutstanding": 260354342.0,
+      "grossMargin": 0.2525427933515257,
+      "operatingMargin": 0.12255023567353014,
+      "netMargin": 0.06822128504093278,
+      "roe": 0.13397206885352386,
+      "roic": 0.1496214033316507
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21109000000.0,
+      "operatingIncome": 1458000000.0,
+      "netIncome": 319000000.0,
+      "eps": 0.82,
+      "freeCashFlow": 17000000.0,
+      "totalDebt": 13595000000.0,
+      "cash": 855000000.0,
+      "sharesOutstanding": 522481850.0,
+      "grossMargin": 0.19873039935572503,
+      "operatingMargin": 0.06907006490122697,
+      "netMargin": 0.015112037519541427,
+      "roe": 0.01837557603686636,
+      "roic": 0.047100629946696816
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 31179000000.0,
+      "operatingIncome": 2224000000.0,
+      "netIncome": 699000000.0,
+      "eps": 1.33,
+      "freeCashFlow": 1200000000.0,
+      "totalDebt": 13773000000.0,
+      "cash": 892000000.0,
+      "sharesOutstanding": 523759806.0,
+      "grossMargin": 0.1938163507489015,
+      "operatingMargin": 0.07133006190063824,
+      "netMargin": 0.02241893582218801,
+      "roe": 0.038140448518579145,
+      "roic": 0.06928348909657321
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:22.918777+00:00"
+  }
+}

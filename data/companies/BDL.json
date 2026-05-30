@@ -1,0 +1,128 @@
+{
+  "ticker": "BDL",
+  "name": "Bharat Dynamics Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "INR",
+  "marketCap": {
+    "value": 441561186304.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1204.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24153596000.0,
+    "operatingIncome": 1474379000.0,
+    "netIncome": 4203376000.0,
+    "eps": null,
+    "freeCashFlow": 3752529000.0,
+    "totalDebt": 3152000.0,
+    "cash": 8633149000.0,
+    "sharesOutstanding": 366562500.0
+  },
+  "ratios": {
+    "roe": 0.09911356821187081,
+    "roic": 0.034762558371172696,
+    "grossMargin": 0.4938667103647838,
+    "operatingMargin": 0.06104180098069041,
+    "netMargin": 0.1740269233616394,
+    "debtToEquity": 0.00029
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 13.64,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 24792393000.0,
+      "operatingIncome": 3319529000.0,
+      "netIncome": 3521749000.0,
+      "eps": 9.61,
+      "freeCashFlow": 20219947000.0,
+      "totalDebt": 52075000.0,
+      "cash": 10528837000.0,
+      "sharesOutstanding": 366562500.0,
+      "grossMargin": 0.5194907567010575,
+      "operatingMargin": 0.13389304533854396,
+      "netMargin": 0.14204957948189995,
+      "roe": 0.1096606421359106,
+      "roic": 0.1031965565262244
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 23588650000.0,
+      "operatingIncome": 4700108000.0,
+      "netIncome": 6127206000.0,
+      "eps": 16.72,
+      "freeCashFlow": 3308289000.0,
+      "totalDebt": 37411000.0,
+      "cash": 5938420000.0,
+      "sharesOutstanding": 366562500.0,
+      "grossMargin": 0.6195934485441091,
+      "operatingMargin": 0.19925294580232442,
+      "netMargin": 0.25975229612546713,
+      "roe": 0.1684768682602754,
+      "roic": 0.12910382796689437
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 33230729000.0,
+      "operatingIncome": 4016700000.0,
+      "netIncome": 5496452000.0,
+      "eps": 14.99,
+      "freeCashFlow": -1153522000.0,
+      "totalDebt": 21150000.0,
+      "cash": 1338568000.0,
+      "sharesOutstanding": 366562500.0,
+      "grossMargin": 0.4950776433463136,
+      "operatingMargin": 0.12087306300141655,
+      "netMargin": 0.16540269098520227,
+      "roe": 0.137104501257536,
+      "roic": 0.10014046640670916
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 24153596000.0,
+      "operatingIncome": 1474379000.0,
+      "netIncome": 4203376000.0,
+      "eps": null,
+      "freeCashFlow": 3752529000.0,
+      "totalDebt": 3152000.0,
+      "cash": 8633149000.0,
+      "sharesOutstanding": 366562500.0,
+      "grossMargin": 0.4938667103647838,
+      "operatingMargin": 0.06104180098069041,
+      "netMargin": 0.1740269233616394,
+      "roe": 0.09911356821187081,
+      "roic": 0.034762558371172696
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:00.297377+00:00"
+  }
+}

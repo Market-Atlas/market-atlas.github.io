@@ -1,0 +1,128 @@
+{
+  "ticker": "EXIDEIND",
+  "name": "Exide Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 328524988416.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 386.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 179953500000.0,
+    "operatingIncome": 12816900000.0,
+    "netIncome": 8541900000.0,
+    "eps": 10.05,
+    "freeCashFlow": 12605300000.0,
+    "totalDebt": 15754000000.0,
+    "cash": 2508100000.0,
+    "sharesOutstanding": 850000000.0
+  },
+  "ratios": {
+    "roe": 0.06143108339895792,
+    "roic": 0.08279517449653591,
+    "grossMargin": 0.32248052969239277,
+    "operatingMargin": 0.0712233993781727,
+    "netMargin": 0.04746726237611383,
+    "debtToEquity": 0.11308
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 149807300000.0,
+      "operatingIncome": 10924300000.0,
+      "netIncome": 8227000000.0,
+      "eps": 9.68,
+      "freeCashFlow": -2250600000.0,
+      "totalDebt": 5883900000.0,
+      "cash": 1317800000.0,
+      "sharesOutstanding": 850000000.0,
+      "grossMargin": 0.29746547731652595,
+      "operatingMargin": 0.07292234757585245,
+      "netMargin": 0.05491721698475308,
+      "roe": 0.07390220152565333,
+      "roic": 0.0932054225569016
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 166729600000.0,
+      "operatingIncome": 12854000000.0,
+      "netIncome": 8766800000.0,
+      "eps": 10.31,
+      "freeCashFlow": -3429100000.0,
+      "totalDebt": 11228700000.0,
+      "cash": 3229900000.0,
+      "sharesOutstanding": 850000000.0,
+      "grossMargin": 0.30547605224267316,
+      "operatingMargin": 0.07709488896992496,
+      "netMargin": 0.052580945435003745,
+      "roe": 0.06803172972310213,
+      "roic": 0.09175392473951065
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 172378500000.0,
+      "operatingIncome": 12156900000.0,
+      "netIncome": 7950200000.0,
+      "eps": 9.35,
+      "freeCashFlow": -6758200000.0,
+      "totalDebt": 20167100000.0,
+      "cash": 1808200000.0,
+      "sharesOutstanding": 850000000.0,
+      "grossMargin": 0.32721192028008134,
+      "operatingMargin": 0.07052445635621611,
+      "netMargin": 0.04612060088700157,
+      "roe": 0.05714026972403741,
+      "roic": 0.07631359073557817
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 179953500000.0,
+      "operatingIncome": 12816900000.0,
+      "netIncome": 8541900000.0,
+      "eps": 10.05,
+      "freeCashFlow": 12605300000.0,
+      "totalDebt": 15754000000.0,
+      "cash": 2508100000.0,
+      "sharesOutstanding": 850000000.0,
+      "grossMargin": 0.32248052969239277,
+      "operatingMargin": 0.0712233993781727,
+      "netMargin": 0.04746726237611383,
+      "roe": 0.06143108339895792,
+      "roic": 0.08279517449653591
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:41.024365+00:00"
+  }
+}

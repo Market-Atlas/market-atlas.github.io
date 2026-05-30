@@ -1,0 +1,128 @@
+{
+  "ticker": "AMT",
+  "name": "American Tower Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 87103365120.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 186.96,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10644600000.0,
+    "operatingIncome": 4929200000.0,
+    "netIncome": 2529500000.0,
+    "eps": 5.4,
+    "freeCashFlow": 3783600000.0,
+    "totalDebt": 44963900000.0,
+    "cash": 1474800000.0,
+    "sharesOutstanding": 479358000.0
+  },
+  "ratios": {
+    "roe": 0.692539356605065,
+    "roic": 0.10138965451987395,
+    "grossMargin": 0.7418315389962986,
+    "operatingMargin": 0.4630704770493959,
+    "netMargin": 0.23763222666892134,
+    "debtToEquity": 4.4455
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9645400000.0,
+      "operatingIncome": 2922700000.0,
+      "netIncome": 1765800000.0,
+      "eps": 3.82,
+      "freeCashFlow": 1822600000.0,
+      "totalDebt": 47051000000.0,
+      "cash": 2028400000.0,
+      "sharesOutstanding": 476623238.0,
+      "grossMargin": 0.7336346859642938,
+      "operatingMargin": 0.30301490866112346,
+      "netMargin": 0.18307172330852012,
+      "roe": 0.3168832101069557,
+      "roic": 0.05553993090526268
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10012200000.0,
+      "operatingIncome": 3536800000.0,
+      "netIncome": 1483300000.0,
+      "eps": 3.18,
+      "freeCashFlow": 2924300000.0,
+      "totalDebt": 46307000000.0,
+      "cash": 1753700000.0,
+      "sharesOutstanding": 477300418.0,
+      "grossMargin": 0.7441621222109027,
+      "operatingMargin": 0.35324903617586545,
+      "netMargin": 0.14814925790535546,
+      "roe": 0.35331808870468295,
+      "roic": 0.07002843271583917
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10127200000.0,
+      "operatingIncome": 4603000000.0,
+      "netIncome": 2255000000.0,
+      "eps": 4.82,
+      "freeCashFlow": 3700500000.0,
+      "totalDebt": 43954100000.0,
+      "cash": 1999600000.0,
+      "sharesOutstanding": 478388550.0,
+      "grossMargin": 0.7457935065960977,
+      "operatingMargin": 0.45451852437001344,
+      "netMargin": 0.2226676672722964,
+      "roe": 0.6667257997752942,
+      "roic": 0.09724038422943915
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10644600000.0,
+      "operatingIncome": 4929200000.0,
+      "netIncome": 2529500000.0,
+      "eps": 5.4,
+      "freeCashFlow": 3783600000.0,
+      "totalDebt": 44963900000.0,
+      "cash": 1474800000.0,
+      "sharesOutstanding": 479358000.0,
+      "grossMargin": 0.7418315389962986,
+      "operatingMargin": 0.4630704770493959,
+      "netMargin": 0.23763222666892134,
+      "roe": 0.692539356605065,
+      "roic": 0.10138965451987395
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.381177+00:00"
+  }
+}

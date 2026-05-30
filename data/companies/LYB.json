@@ -1,0 +1,111 @@
+{
+  "ticker": "LYB",
+  "name": "LyondellBasell Industries N.V.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21513605120.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 66.65,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30153000000.0,
+    "operatingIncome": 831000000.0,
+    "netIncome": -745000000.0,
+    "eps": -2.34,
+    "freeCashFlow": 384000000.0,
+    "totalDebt": 14635000000.0,
+    "cash": 3443000000.0,
+    "sharesOutstanding": 340422498.0
+  },
+  "ratios": {
+    "roe": -0.07389406863717517,
+    "roic": 0.03362058502245418,
+    "grossMargin": 0.0854641329220973,
+    "operatingMargin": 0.02755944682121182,
+    "netMargin": -0.024707325970881835,
+    "debtToEquity": 1.4124
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50451000000.0,
+      "operatingIncome": 5170000000.0,
+      "netIncome": 3882000000.0,
+      "eps": 11.81,
+      "freeCashFlow": 4229000000.0,
+      "totalDebt": 13175000000.0,
+      "cash": 2151000000.0,
+      "sharesOutstanding": 340698931.0,
+      "grossMargin": 0.13089928841846543,
+      "operatingMargin": 0.10247566946145766,
+      "netMargin": 0.0769459475530713,
+      "roe": 0.30772889417360283,
+      "roic": 0.20046529662659945
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33336000000.0,
+      "operatingIncome": 3232000000.0,
+      "netIncome": 2114000000.0,
+      "eps": 6.46,
+      "freeCashFlow": 3411000000.0,
+      "totalDebt": 13001000000.0,
+      "cash": 3390000000.0,
+      "sharesOutstanding": 340422498.0,
+      "grossMargin": 0.14701823854091672,
+      "operatingMargin": 0.09695224382049436,
+      "netMargin": 0.06341492680585553,
+      "roe": 0.1634957463263728,
+      "roic": 0.12463846361497821
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 33394000000.0,
+      "operatingIncome": 2867000000.0,
+      "netIncome": 1360000000.0,
+      "eps": 4.15,
+      "freeCashFlow": 1980000000.0,
+      "totalDebt": 12923000000.0,
+      "cash": 3375000000.0,
+      "sharesOutstanding": 340422498.0,
+      "grossMargin": 0.13906689824519375,
+      "operatingMargin": 0.08585374618194885,
+      "netMargin": 0.04072587890040127,
+      "roe": 0.10913176055207832,
+      "roic": 0.1129407130194997
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 30153000000.0,
+      "operatingIncome": 831000000.0,
+      "netIncome": -745000000.0,
+      "eps": -2.34,
+      "freeCashFlow": 384000000.0,
+      "totalDebt": 14635000000.0,
+      "cash": 3443000000.0,
+      "sharesOutstanding": 340422498.0,
+      "grossMargin": 0.0854641329220973,
+      "operatingMargin": 0.02755944682121182,
+      "netMargin": -0.024707325970881835,
+      "roe": -0.07389406863717517,
+      "roic": 0.03362058502245418
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:52.109414+00:00"
+  }
+}

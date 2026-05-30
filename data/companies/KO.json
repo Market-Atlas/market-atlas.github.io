@@ -1,0 +1,128 @@
+{
+  "ticker": "KO",
+  "name": "The Coca-Cola Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 339939131392.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 79.01,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 47941000000.0,
+    "operatingIncome": 14911000000.0,
+    "netIncome": 13107000000.0,
+    "eps": 3.04,
+    "freeCashFlow": 5296000000.0,
+    "totalDebt": 45492000000.0,
+    "cash": 10270000000.0,
+    "sharesOutstanding": 7039608845.0
+  },
+  "ratios": {
+    "roe": 0.4074419472162641,
+    "roic": 0.192001133129885,
+    "grossMargin": 0.6162574831563797,
+    "operatingMargin": 0.31102813875388496,
+    "netMargin": 0.2733985523873094,
+    "debtToEquity": 1.24943
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 43004000000.0,
+      "operatingIncome": 12042000000.0,
+      "netIncome": 9542000000.0,
+      "eps": 2.19,
+      "freeCashFlow": 9534000000.0,
+      "totalDebt": 39149000000.0,
+      "cash": 9519000000.0,
+      "sharesOutstanding": 7040000000.0,
+      "grossMargin": 0.5814342851827737,
+      "operatingMargin": 0.2800204632127244,
+      "netMargin": 0.2218863361547763,
+      "roe": 0.3958514830947936,
+      "roic": 0.19037531223321846
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 45754000000.0,
+      "operatingIncome": 13098000000.0,
+      "netIncome": 10714000000.0,
+      "eps": 2.47,
+      "freeCashFlow": 9747000000.0,
+      "totalDebt": 42064000000.0,
+      "cash": 9366000000.0,
+      "sharesOutstanding": 7040000000.0,
+      "grossMargin": 0.5952266468505486,
+      "operatingMargin": 0.28627005289155044,
+      "netMargin": 0.23416531887922368,
+      "roe": 0.41301414748853166,
+      "roic": 0.19260348503786487
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 47061000000.0,
+      "operatingIncome": 14022000000.0,
+      "netIncome": 10631000000.0,
+      "eps": 2.46,
+      "freeCashFlow": 4741000000.0,
+      "totalDebt": 44522000000.0,
+      "cash": 10828000000.0,
+      "sharesOutstanding": 7040000000.0,
+      "grossMargin": 0.6106330082233696,
+      "operatingMargin": 0.29795371964046663,
+      "netMargin": 0.22589830220352308,
+      "roe": 0.4277035725780496,
+      "roic": 0.20211017901928566
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 47941000000.0,
+      "operatingIncome": 14911000000.0,
+      "netIncome": 13107000000.0,
+      "eps": 3.04,
+      "freeCashFlow": 5296000000.0,
+      "totalDebt": 45492000000.0,
+      "cash": 10270000000.0,
+      "sharesOutstanding": 7039608845.0,
+      "grossMargin": 0.6162574831563797,
+      "operatingMargin": 0.31102813875388496,
+      "netMargin": 0.2733985523873094,
+      "roe": 0.4074419472162641,
+      "roic": 0.192001133129885
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.406619+00:00"
+  }
+}

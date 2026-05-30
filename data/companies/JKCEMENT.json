@@ -1,0 +1,128 @@
+{
+  "ticker": "JKCEMENT",
+  "name": "J.K. Cement Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 399554117632.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5171.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 137223000000.0,
+    "operatingIncome": 17470500000.0,
+    "netIncome": 9924900000.0,
+    "eps": 128.44,
+    "freeCashFlow": -3934600000.0,
+    "totalDebt": 61829900000.0,
+    "cash": 1189500000.0,
+    "sharesOutstanding": 77268251.0
+  },
+  "ratios": {
+    "roe": 0.14103378450389,
+    "roic": 0.13214964327425222,
+    "grossMargin": 0.8369362278918258,
+    "operatingMargin": 0.127314662993813,
+    "netMargin": 0.07232679652827878,
+    "debtToEquity": 0.8720300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 95037300000.0,
+      "operatingIncome": 8722600000.0,
+      "netIncome": 4235700000.0,
+      "eps": 54.82,
+      "freeCashFlow": -2343600000.0,
+      "totalDebt": 52921800000.0,
+      "cash": 2571400000.0,
+      "sharesOutstanding": 77268251.0,
+      "grossMargin": 0.7712887466289552,
+      "operatingMargin": 0.09178080606246179,
+      "netMargin": 0.04456881666461484,
+      "roe": 0.09042912040990607,
+      "roic": 0.08743426842739405
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 112025500000.0,
+      "operatingIncome": 15026800000.0,
+      "netIncome": 7908300000.0,
+      "eps": 102.35,
+      "freeCashFlow": 7865200000.0,
+      "totalDebt": 55520400000.0,
+      "cash": 1744100000.0,
+      "sharesOutstanding": 77268251.0,
+      "grossMargin": 0.7766151456588009,
+      "operatingMargin": 0.13413731695015868,
+      "netMargin": 0.07059374874470545,
+      "roe": 0.14734663153933006,
+      "roic": 0.13761839258991976
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 118791500000.0,
+      "operatingIncome": 14256800000.0,
+      "netIncome": 8611200000.0,
+      "eps": 111.44,
+      "freeCashFlow": 2195900000.0,
+      "totalDebt": 60282300000.0,
+      "cash": 2973000000.0,
+      "sharesOutstanding": 77268251.0,
+      "grossMargin": 0.8301612489109069,
+      "operatingMargin": 0.12001532096151661,
+      "netMargin": 0.07249003506143116,
+      "roe": 0.14142270133914053,
+      "roic": 0.11765744754774407
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 137223000000.0,
+      "operatingIncome": 17470500000.0,
+      "netIncome": 9924900000.0,
+      "eps": 128.44,
+      "freeCashFlow": -3934600000.0,
+      "totalDebt": 61829900000.0,
+      "cash": 1189500000.0,
+      "sharesOutstanding": 77268251.0,
+      "grossMargin": 0.8369362278918258,
+      "operatingMargin": 0.127314662993813,
+      "netMargin": 0.07232679652827878,
+      "roe": 0.14103378450389,
+      "roic": 0.13214964327425222
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:08.433271+00:00"
+  }
+}

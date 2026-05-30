@@ -1,0 +1,128 @@
+{
+  "ticker": "TMPV",
+  "name": "Tata Motors Passenger Vehicles Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1450511302656.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 393.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3333830000000.0,
+    "operatingIncome": -313220000000.0,
+    "netIncome": 823900000000.0,
+    "eps": 0.61,
+    "freeCashFlow": -232410000000.0,
+    "totalDebt": 791090000000.0,
+    "cash": 228800000000.0,
+    "sharesOutstanding": 3682377563.0
+  },
+  "ratios": {
+    "roe": 0.7351786415390655,
+    "roic": -0.16383770014175345,
+    "grossMargin": 0.3578496803976208,
+    "operatingMargin": -0.09395200115182838,
+    "netMargin": 0.24713317715660366,
+    "debtToEquity": 0.6531
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3428745900000.0,
+      "operatingIncome": -71374600000.0,
+      "netIncome": 24142900000.0,
+      "eps": 6.29,
+      "freeCashFlow": 172923300000.0,
+      "totalDebt": 1366134500000.0,
+      "cash": 318869500000.0,
+      "sharesOutstanding": 3829847221.0,
+      "grossMargin": 0.33480264606368176,
+      "operatingMargin": -0.020816532365375923,
+      "netMargin": 0.007041320851451838,
+      "roe": 0.053269961314414103,
+      "roic": -0.03923077244408505
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4312120000000.0,
+      "operatingIncome": 83770000000.0,
+      "netIncome": 313990000000.0,
+      "eps": 81.88,
+      "freeCashFlow": 365010000000.0,
+      "totalDebt": 1098120000000.0,
+      "cash": 400150000000.0,
+      "sharesOutstanding": 3832241897.0,
+      "grossMargin": 0.36260354535588063,
+      "operatingMargin": 0.019426639332857158,
+      "netMargin": 0.0728156915855774,
+      "roe": 0.3697567064697708,
+      "roic": 0.04301853848919016
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3634860000000.0,
+      "operatingIncome": -37550000000.0,
+      "netIncome": 278300000000.0,
+      "eps": 78.75,
+      "freeCashFlow": 250600000000.0,
+      "totalDebt": 740040000000.0,
+      "cash": 343490000000.0,
+      "sharesOutstanding": 3681348742.0,
+      "grossMargin": 0.3908100999763402,
+      "operatingMargin": -0.01033052167071084,
+      "netMargin": 0.07656415927986222,
+      "roe": 0.23961633833861412,
+      "roic": -0.019747775417043565
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 3333830000000.0,
+      "operatingIncome": -313220000000.0,
+      "netIncome": 823900000000.0,
+      "eps": 0.61,
+      "freeCashFlow": -232410000000.0,
+      "totalDebt": 791090000000.0,
+      "cash": 228800000000.0,
+      "sharesOutstanding": 3682377563.0,
+      "grossMargin": 0.3578496803976208,
+      "operatingMargin": -0.09395200115182838,
+      "netMargin": 0.24713317715660366,
+      "roe": 0.7351786415390655,
+      "roic": -0.16383770014175345
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:07.563033+00:00"
+  }
+}

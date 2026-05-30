@@ -1,0 +1,111 @@
+{
+  "ticker": "RSG",
+  "name": "Republic Services, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 61668192256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 200.44,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16591000000.0,
+    "operatingIncome": 3322000000.0,
+    "netIncome": 2139000000.0,
+    "eps": 6.85,
+    "freeCashFlow": 2409000000.0,
+    "totalDebt": 13806000000.0,
+    "cash": 76000000.0,
+    "sharesOutstanding": 313000000.0
+  },
+  "ratios": {
+    "roe": 0.17872660427807488,
+    "roic": 0.12888957864514627,
+    "grossMargin": 0.4195648243023326,
+    "operatingMargin": 0.2002290398408776,
+    "netMargin": 0.12892532095714543,
+    "debtToEquity": 1.17578
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13511000000.0,
+      "operatingIncome": 2413000000.0,
+      "netIncome": 1488000000.0,
+      "eps": 4.69,
+      "freeCashFlow": 1736000000.0,
+      "totalDebt": 12081400000.0,
+      "cash": 143400000.0,
+      "sharesOutstanding": 320300000.0,
+      "grossMargin": 0.3927170453704389,
+      "operatingMargin": 0.17859521871068018,
+      "netMargin": 0.11013248464214344,
+      "roe": 0.15362378690894074,
+      "roic": 0.1108538456591049
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14965000000.0,
+      "operatingIncome": 2809000000.0,
+      "netIncome": 1731000000.0,
+      "eps": 5.47,
+      "freeCashFlow": 1987000000.0,
+      "totalDebt": 13069000000.0,
+      "cash": 140000000.0,
+      "sharesOutstanding": 320717613.0,
+      "grossMargin": 0.4024056130972269,
+      "operatingMargin": 0.18770464416972937,
+      "netMargin": 0.11566989642499165,
+      "roe": 0.16420034149117815,
+      "roic": 0.11896997162339587
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16032000000.0,
+      "operatingIncome": 3224000000.0,
+      "netIncome": 2043000000.0,
+      "eps": 6.49,
+      "freeCashFlow": 2081000000.0,
+      "totalDebt": 12957000000.0,
+      "cash": 74000000.0,
+      "sharesOutstanding": 313000000.0,
+      "grossMargin": 0.41679141716566864,
+      "operatingMargin": 0.20109780439121758,
+      "netMargin": 0.12743263473053892,
+      "roe": 0.1791319596668128,
+      "roic": 0.13233724653148346
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16591000000.0,
+      "operatingIncome": 3322000000.0,
+      "netIncome": 2139000000.0,
+      "eps": 6.85,
+      "freeCashFlow": 2409000000.0,
+      "totalDebt": 13806000000.0,
+      "cash": 76000000.0,
+      "sharesOutstanding": 313000000.0,
+      "grossMargin": 0.4195648243023326,
+      "operatingMargin": 0.2002290398408776,
+      "netMargin": 0.12892532095714543,
+      "roe": 0.17872660427807488,
+      "roic": 0.12888957864514627
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:16.980261+00:00"
+  }
+}

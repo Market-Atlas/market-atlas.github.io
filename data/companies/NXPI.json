@@ -1,0 +1,128 @@
+{
+  "ticker": "NXPI",
+  "name": "NXP Semiconductors N.V.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 81131577344.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 321.35,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12269000000.0,
+    "operatingIncome": 3035000000.0,
+    "netIncome": 2021000000.0,
+    "eps": 7.95,
+    "freeCashFlow": 2283000000.0,
+    "totalDebt": 12222000000.0,
+    "cash": 2906000000.0,
+    "sharesOutstanding": 274519638.0
+  },
+  "ratios": {
+    "roe": 0.20097454256165473,
+    "roic": 0.13623305503187,
+    "grossMargin": 0.5473958757844976,
+    "operatingMargin": 0.2473714239139294,
+    "netMargin": 0.16472410139375662,
+    "debtToEquity": 1.03991
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13205000000.0,
+      "operatingIncome": 3794000000.0,
+      "netIncome": 2787000000.0,
+      "eps": 10.55,
+      "freeCashFlow": 2668000000.0,
+      "totalDebt": 11165000000.0,
+      "cash": 3618000000.0,
+      "sharesOutstanding": 274519638.0,
+      "grossMargin": 0.5692540704278682,
+      "operatingMargin": 0.28731541082923134,
+      "netMargin": 0.21105641802347597,
+      "roe": 0.37414418042690295,
+      "roic": 0.20382507789835608
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13276000000.0,
+      "operatingIncome": 3676000000.0,
+      "netIncome": 2797000000.0,
+      "eps": 10.7,
+      "freeCashFlow": 2507000000.0,
+      "totalDebt": 11175000000.0,
+      "cash": 3648000000.0,
+      "sharesOutstanding": 274519638.0,
+      "grossMargin": 0.5689213618559807,
+      "operatingMargin": 0.2768906297077433,
+      "netMargin": 0.21068092799035854,
+      "roe": 0.3235770476631189,
+      "roic": 0.18547858115949342
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12614000000.0,
+      "operatingIncome": 3472000000.0,
+      "netIncome": 2510000000.0,
+      "eps": 9.73,
+      "freeCashFlow": 1906000000.0,
+      "totalDebt": 10854000000.0,
+      "cash": 3031000000.0,
+      "sharesOutstanding": 274519638.0,
+      "grossMargin": 0.5643729189789123,
+      "operatingMargin": 0.27524972253052166,
+      "netMargin": 0.19898525447915016,
+      "roe": 0.27333115539584013,
+      "roic": 0.17327943304885962
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12269000000.0,
+      "operatingIncome": 3035000000.0,
+      "netIncome": 2021000000.0,
+      "eps": 7.95,
+      "freeCashFlow": 2283000000.0,
+      "totalDebt": 12222000000.0,
+      "cash": 2906000000.0,
+      "sharesOutstanding": 274519638.0,
+      "grossMargin": 0.5473958757844976,
+      "operatingMargin": 0.2473714239139294,
+      "netMargin": 0.16472410139375662,
+      "roe": 0.20097454256165473,
+      "roic": 0.13623305503187
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:03.262804+00:00"
+  }
+}

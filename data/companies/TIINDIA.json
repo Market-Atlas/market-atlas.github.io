@@ -1,0 +1,128 @@
+{
+  "ticker": "TIINDIA",
+  "name": "Tube Investments of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 608056573952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3141.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 222211800000.0,
+    "operatingIncome": 16116300000.0,
+    "netIncome": 6368400000.0,
+    "eps": null,
+    "freeCashFlow": -2720000000.0,
+    "totalDebt": 7540100000.0,
+    "cash": 5324400000.0,
+    "sharesOutstanding": 193552869.0
+  },
+  "ratios": {
+    "roe": 0.08215795577836807,
+    "roic": 0.18948270632138095,
+    "grossMargin": 0.32611049458219593,
+    "operatingMargin": 0.07252675150464556,
+    "netMargin": 0.02865914411385894,
+    "debtToEquity": 0.27724
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 39.78,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 144309500000.0,
+      "operatingIncome": 15595600000.0,
+      "netIncome": 9555200000.0,
+      "eps": 49.39,
+      "freeCashFlow": 9696500000.0,
+      "totalDebt": 11260700000.0,
+      "cash": 8428000000.0,
+      "sharesOutstanding": 193121076.0,
+      "grossMargin": 0.2914160190424054,
+      "operatingMargin": 0.10807050124905151,
+      "netMargin": 0.06621324306438592,
+      "roe": 0.24186889486833546,
+      "roic": 0.30720318951117276
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 163349200000.0,
+      "operatingIncome": 15738200000.0,
+      "netIncome": 12059200000.0,
+      "eps": 62.31,
+      "freeCashFlow": 4545600000.0,
+      "totalDebt": 21038100000.0,
+      "cash": 5359300000.0,
+      "sharesOutstanding": 193402216.0,
+      "grossMargin": 0.30315667294360793,
+      "operatingMargin": 0.09634696711095003,
+      "netMargin": 0.07382466519578915,
+      "roe": 0.2364697392777586,
+      "roic": 0.21848020889874215
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 189151400000.0,
+      "operatingIncome": 14937300000.0,
+      "netIncome": 6737100000.0,
+      "eps": 34.8,
+      "freeCashFlow": -278600000.0,
+      "totalDebt": 30974600000.0,
+      "cash": 6563800000.0,
+      "sharesOutstanding": 193493889.0,
+      "grossMargin": 0.32417153666322324,
+      "operatingMargin": 0.07897007370815125,
+      "netMargin": 0.035617500055511085,
+      "roe": 0.12170210613595678,
+      "roic": 0.1730217914814802
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 222211800000.0,
+      "operatingIncome": 16116300000.0,
+      "netIncome": 6368400000.0,
+      "eps": null,
+      "freeCashFlow": -2720000000.0,
+      "totalDebt": 7540100000.0,
+      "cash": 5324400000.0,
+      "sharesOutstanding": 193552869.0,
+      "grossMargin": 0.32611049458219593,
+      "operatingMargin": 0.07252675150464556,
+      "netMargin": 0.02865914411385894,
+      "roe": 0.08215795577836807,
+      "roic": 0.18948270632138095
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:06.152938+00:00"
+  }
+}

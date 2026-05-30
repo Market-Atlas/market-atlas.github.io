@@ -1,0 +1,128 @@
+{
+  "ticker": "FDS",
+  "name": "FactSet Research Systems Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8942748672.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 245.47,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2321748000.0,
+    "operatingIncome": 748303000.0,
+    "netIncome": 597040000.0,
+    "eps": 15.55,
+    "freeCashFlow": 617454000.0,
+    "totalDebt": 1558509000.0,
+    "cash": 337651000.0,
+    "sharesOutstanding": 43013266.0
+  },
+  "ratios": {
+    "roe": 0.27306826294940617,
+    "roic": 0.19981804694463595,
+    "grossMargin": 0.5271743531167035,
+    "operatingMargin": 0.3223015589977896,
+    "netMargin": 0.2571510775501906,
+    "debtToEquity": 0.7297199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-08-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-08-31",
+      "revenue": 1843892000.0,
+      "operatingIncome": 539754000.0,
+      "netIncome": 396917000.0,
+      "eps": 10.25,
+      "freeCashFlow": 487121000.0,
+      "totalDebt": 2220231000.0,
+      "cash": 503273000.0,
+      "sharesOutstanding": 41653218.0,
+      "grossMargin": 0.5275721137680515,
+      "operatingMargin": 0.2927253873871138,
+      "netMargin": 0.21526043824692553,
+      "roe": 0.2981182327280593,
+      "roic": 0.15197321574630754
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-08-31",
+      "revenue": 2085508000.0,
+      "operatingIncome": 629207000.0,
+      "netIncome": 468173000.0,
+      "eps": 12.03,
+      "freeCashFlow": 584787000.0,
+      "totalDebt": 1839921000.0,
+      "cash": 425444000.0,
+      "sharesOutstanding": 42096628.0,
+      "grossMargin": 0.5333391192937165,
+      "operatingMargin": 0.3017044288489903,
+      "netMargin": 0.22448870970526125,
+      "roe": 0.28900816701956256,
+      "roic": 0.18185956562869326
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-08-31",
+      "revenue": 2203056000.0,
+      "operatingIncome": 701299000.0,
+      "netIncome": 537126000.0,
+      "eps": 13.91,
+      "freeCashFlow": 614657000.0,
+      "totalDebt": 1574567000.0,
+      "cash": 422979000.0,
+      "sharesOutstanding": 42598915.0,
+      "grossMargin": 0.540663060766499,
+      "operatingMargin": 0.3183300833024671,
+      "netMargin": 0.24380950824672637,
+      "roe": 0.28085607019231773,
+      "roic": 0.2011165958852627
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-08-31",
+      "revenue": 2321748000.0,
+      "operatingIncome": 748303000.0,
+      "netIncome": 597040000.0,
+      "eps": 15.55,
+      "freeCashFlow": 617454000.0,
+      "totalDebt": 1558509000.0,
+      "cash": 337651000.0,
+      "sharesOutstanding": 43013266.0,
+      "grossMargin": 0.5271743531167035,
+      "operatingMargin": 0.3223015589977896,
+      "netMargin": 0.2571510775501906,
+      "roe": 0.27306826294940617,
+      "roic": 0.19981804694463595
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:24.479644+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GLAXO",
+  "name": "GlaxoSmithKline Pharmaceuticals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "INR",
+  "marketCap": {
+    "value": 374421192704.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2210.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38216700000.0,
+    "operatingIncome": 12427600000.0,
+    "netIncome": 10359800000.0,
+    "eps": null,
+    "freeCashFlow": 8480200000.0,
+    "totalDebt": 332700000.0,
+    "cash": 11020500000.0,
+    "sharesOutstanding": 169406034.0
+  },
+  "ratios": {
+    "roe": 0.4568981485565092,
+    "roic": 0.5401683842673285,
+    "grossMargin": 0.6464739237035119,
+    "operatingMargin": 0.32518767973163565,
+    "netMargin": 0.27108044388971314,
+    "debtToEquity": 0.01467
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 100.04,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 32263787000.0,
+      "operatingIncome": 7484264000.0,
+      "netIncome": 6106868000.0,
+      "eps": 36.05,
+      "freeCashFlow": 4401863000.0,
+      "totalDebt": 155392000.0,
+      "cash": 349409000.0,
+      "sharesOutstanding": 169406034.0,
+      "grossMargin": 0.5788705770962349,
+      "operatingMargin": 0.23197103303465275,
+      "netMargin": 0.18927933041462244,
+      "roe": 0.35071284054826557,
+      "roic": 0.4260138903862348
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 34417708000.0,
+      "operatingIncome": 8384856000.0,
+      "netIncome": 5899610000.0,
+      "eps": 34.83,
+      "freeCashFlow": 5507940000.0,
+      "totalDebt": 186650000.0,
+      "cash": 641712000.0,
+      "sharesOutstanding": 169406034.0,
+      "grossMargin": 0.5874657022483891,
+      "operatingMargin": 0.24362040610025515,
+      "netMargin": 0.1714120533534656,
+      "roe": 0.3318788391145855,
+      "roic": 0.4667836141607824
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 37492100000.0,
+      "operatingIncome": 11105700000.0,
+      "netIncome": 9275800000.0,
+      "eps": 54.52,
+      "freeCashFlow": 12651900000.0,
+      "totalDebt": 99512000.0,
+      "cash": 5388477000.0,
+      "sharesOutstanding": 169406034.0,
+      "grossMargin": 0.6290258481120022,
+      "operatingMargin": 0.2962144025007935,
+      "netMargin": 0.24740678702980096,
+      "roe": 0.47536253452615207,
+      "roic": 0.5662527783770235
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 38216700000.0,
+      "operatingIncome": 12427600000.0,
+      "netIncome": 10359800000.0,
+      "eps": null,
+      "freeCashFlow": 8480200000.0,
+      "totalDebt": 332700000.0,
+      "cash": 11020500000.0,
+      "sharesOutstanding": 169406034.0,
+      "grossMargin": 0.6464739237035119,
+      "operatingMargin": 0.32518767973163565,
+      "netMargin": 0.27108044388971314,
+      "roe": 0.4568981485565092,
+      "roic": 0.5401683842673285
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:46.439486+00:00"
+  }
+}

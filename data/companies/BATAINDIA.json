@@ -1,0 +1,128 @@
+{
+  "ticker": "BATAINDIA",
+  "name": "Bata India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "currency": "INR",
+  "marketCap": {
+    "value": 85978497024.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 668.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 35154990000.0,
+    "operatingIncome": 2864810000.0,
+    "netIncome": 1342040000.0,
+    "eps": 10.44,
+    "freeCashFlow": 5290690000.0,
+    "totalDebt": 13865700000.0,
+    "cash": 92850000.0,
+    "sharesOutstanding": 128527540.0
+  },
+  "ratios": {
+    "roe": 0.08410885191078711,
+    "roic": 0.0960646428824121,
+    "grossMargin": 0.5529186610492565,
+    "operatingMargin": 0.08149084952093572,
+    "netMargin": 0.038174950412445,
+    "debtToEquity": 0.9039100000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 34505590000.0,
+      "operatingIncome": 5117000000.0,
+      "netIncome": 3230040000.0,
+      "eps": 25.13,
+      "freeCashFlow": 5334060000.0,
+      "totalDebt": 12464480000.0,
+      "cash": 745870000.0,
+      "sharesOutstanding": 128527540.0,
+      "grossMargin": 0.5384460894597078,
+      "operatingMargin": 0.14829481252168128,
+      "netMargin": 0.09360918042554844,
+      "roe": 0.22458750808296424,
+      "roic": 0.19060155893227368
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 34771070000.0,
+      "operatingIncome": 4604870000.0,
+      "netIncome": 2625110000.0,
+      "eps": 20.42,
+      "freeCashFlow": 3522060000.0,
+      "totalDebt": 13572940000.0,
+      "cash": 501040000.0,
+      "sharesOutstanding": 128527540.0,
+      "grossMargin": 0.5471747058689882,
+      "operatingMargin": 0.13243394580609685,
+      "netMargin": 0.07549695767199571,
+      "roe": 0.17192494824457247,
+      "roic": 0.15965920378949078
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 34887860000.0,
+      "operatingIncome": 3663970000.0,
+      "netIncome": 3306560000.0,
+      "eps": 25.73,
+      "freeCashFlow": 6652230000.0,
+      "totalDebt": 14464510000.0,
+      "cash": 2029300000.0,
+      "sharesOutstanding": 128527540.0,
+      "grossMargin": 0.5683793732261021,
+      "operatingMargin": 0.10502134553394792,
+      "netMargin": 0.0947768077491712,
+      "roe": 0.20994524950744875,
+      "roic": 0.12126673140456753
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 35154990000.0,
+      "operatingIncome": 2864810000.0,
+      "netIncome": 1342040000.0,
+      "eps": 10.44,
+      "freeCashFlow": 5290690000.0,
+      "totalDebt": 13865700000.0,
+      "cash": 92850000.0,
+      "sharesOutstanding": 128527540.0,
+      "grossMargin": 0.5529186610492565,
+      "operatingMargin": 0.08149084952093572,
+      "netMargin": 0.038174950412445,
+      "roe": 0.08410885191078711,
+      "roic": 0.0960646428824121
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:59.444967+00:00"
+  }
+}

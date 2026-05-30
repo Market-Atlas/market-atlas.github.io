@@ -1,0 +1,128 @@
+{
+  "ticker": "SOLARINDS",
+  "name": "Solar Industries India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1651172048896.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18247.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 98377400000.0,
+    "operatingIncome": 23709400000.0,
+    "netIncome": 16775500000.0,
+    "eps": 185.39,
+    "freeCashFlow": -11182500000.0,
+    "totalDebt": 18092500000.0,
+    "cash": 4694400000.0,
+    "sharesOutstanding": 90490055.0
+  },
+  "ratios": {
+    "roe": 0.26724494997769704,
+    "roic": 0.2931991170414706,
+    "grossMargin": 0.5025564814683047,
+    "operatingMargin": 0.24100453966053179,
+    "netMargin": 0.17052188815723937,
+    "debtToEquity": 0.23271
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 67697200000.0,
+      "operatingIncome": 13455300000.0,
+      "netIncome": 7571900000.0,
+      "eps": 83.68,
+      "freeCashFlow": 1773700000.0,
+      "totalDebt": 11946900000.0,
+      "cash": 2450400000.0,
+      "sharesOutstanding": 90490055.0,
+      "grossMargin": 0.3549024184161236,
+      "operatingMargin": 0.19875711255413814,
+      "netMargin": 0.11184952996578884,
+      "roe": 0.29007332378157635,
+      "roic": 0.3536187625327527
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 59090200000.0,
+      "operatingIncome": 14232000000.0,
+      "netIncome": 8359300000.0,
+      "eps": 92.38,
+      "freeCashFlow": 8462600000.0,
+      "totalDebt": 13675500000.0,
+      "cash": 2513600000.0,
+      "sharesOutstanding": 90490055.0,
+      "grossMargin": 0.45326297761726986,
+      "operatingMargin": 0.2408521209946827,
+      "netMargin": 0.1414667745243712,
+      "roe": 0.25288298644724105,
+      "roic": 0.3045483239356751
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 75402600000.0,
+      "operatingIncome": 17788600000.0,
+      "netIncome": 12094400000.0,
+      "eps": 133.65,
+      "freeCashFlow": 14616100000.0,
+      "totalDebt": 13695600000.0,
+      "cash": 5883500000.0,
+      "sharesOutstanding": 90490055.0,
+      "grossMargin": 0.4723006898966349,
+      "operatingMargin": 0.2359149419250795,
+      "netMargin": 0.160397652070353,
+      "roe": 0.27572873967818273,
+      "roic": 0.30904984450737505
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 98377400000.0,
+      "operatingIncome": 23709400000.0,
+      "netIncome": 16775500000.0,
+      "eps": 185.39,
+      "freeCashFlow": -11182500000.0,
+      "totalDebt": 18092500000.0,
+      "cash": 4694400000.0,
+      "sharesOutstanding": 90490055.0,
+      "grossMargin": 0.5025564814683047,
+      "operatingMargin": 0.24100453966053179,
+      "netMargin": 0.17052188815723937,
+      "roe": 0.26724494997769704,
+      "roic": 0.2931991170414706
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:56.738249+00:00"
+  }
+}

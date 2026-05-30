@@ -1,0 +1,128 @@
+{
+  "ticker": "EIHOTEL",
+  "name": "EIH Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "INR",
+  "marketCap": {
+    "value": 185232867328.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 296.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29396300000.0,
+    "operatingIncome": 8812200000.0,
+    "netIncome": 6282800000.0,
+    "eps": 10.05,
+    "freeCashFlow": 2965400000.0,
+    "totalDebt": 2524200000.0,
+    "cash": 1727200000.0,
+    "sharesOutstanding": 625364182.0
+  },
+  "ratios": {
+    "roe": 0.11939311477154389,
+    "roic": 0.15979473044771247,
+    "grossMargin": 0.699679891687049,
+    "operatingMargin": 0.29977242033861407,
+    "netMargin": 0.21372757796049163,
+    "debtToEquity": 0.04666000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 20188070000.0,
+      "operatingIncome": 4971350000.0,
+      "netIncome": 3145800000.0,
+      "eps": 5.03,
+      "freeCashFlow": 4763920000.0,
+      "totalDebt": 2384060000.0,
+      "cash": 859760000.0,
+      "sharesOutstanding": 625364182.0,
+      "grossMargin": 0.6927011844123782,
+      "operatingMargin": 0.24625187053542016,
+      "netMargin": 0.15582470241087928,
+      "roe": 0.09322076590498937,
+      "roic": 0.13759709447281132
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25112710000.0,
+      "operatingIncome": 8095230000.0,
+      "netIncome": 6391080000.0,
+      "eps": 10.22,
+      "freeCashFlow": 4893180000.0,
+      "totalDebt": 1993040000.0,
+      "cash": 845830000.0,
+      "sharesOutstanding": 625364182.0,
+      "grossMargin": 0.7140694891152727,
+      "operatingMargin": 0.3223558907023575,
+      "netMargin": 0.2544958309955397,
+      "roe": 0.16222868094071657,
+      "roic": 0.19559109840550065
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 27431500000.0,
+      "operatingIncome": 8825600000.0,
+      "netIncome": 7394500000.0,
+      "eps": 11.82,
+      "freeCashFlow": 3405000000.0,
+      "totalDebt": 2650620000.0,
+      "cash": 3778540000.0,
+      "sharesOutstanding": 625364182.0,
+      "grossMargin": 0.7115943349798589,
+      "operatingMargin": 0.3217323150392797,
+      "netMargin": 0.2695623644350473,
+      "roe": 0.16030265105834002,
+      "roic": 0.1809303554665646
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 29396300000.0,
+      "operatingIncome": 8812200000.0,
+      "netIncome": 6282800000.0,
+      "eps": 10.05,
+      "freeCashFlow": 2965400000.0,
+      "totalDebt": 2524200000.0,
+      "cash": 1727200000.0,
+      "sharesOutstanding": 625364182.0,
+      "grossMargin": 0.699679891687049,
+      "operatingMargin": 0.29977242033861407,
+      "netMargin": 0.21372757796049163,
+      "roe": 0.11939311477154389,
+      "roic": 0.15979473044771247
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:37.042314+00:00"
+  }
+}

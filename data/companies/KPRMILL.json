@@ -1,0 +1,128 @@
+{
+  "ticker": "KPRMILL",
+  "name": "K.P.R. Mill Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 331048058880.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 966.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 63776400000.0,
+    "operatingIncome": 10516800000.0,
+    "netIncome": 8665000000.0,
+    "eps": 25.35,
+    "freeCashFlow": 7930200000.0,
+    "totalDebt": 5961400000.0,
+    "cash": 638600000.0,
+    "sharesOutstanding": 341814000.0
+  },
+  "ratios": {
+    "roe": 0.15208157820836843,
+    "roic": 0.16709937175669792,
+    "grossMargin": 0.366544677968653,
+    "operatingMargin": 0.16490112329952772,
+    "netMargin": 0.1358653044072729,
+    "debtToEquity": 0.0646
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 59601800000.0,
+      "operatingIncome": 11135300000.0,
+      "netIncome": 8141000000.0,
+      "eps": 23.81,
+      "freeCashFlow": -803400000.0,
+      "totalDebt": 13480900000.0,
+      "cash": 1085800000.0,
+      "sharesOutstanding": 376828920.0,
+      "grossMargin": 0.3180457637185454,
+      "operatingMargin": 0.18682825015351887,
+      "netMargin": 0.1365898345351986,
+      "roe": 0.21962991240163057,
+      "roic": 0.2202924756369219
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 58238800000.0,
+      "operatingIncome": 10740700000.0,
+      "netIncome": 8053500000.0,
+      "eps": 23.56,
+      "freeCashFlow": 3544700000.0,
+      "totalDebt": 11584200000.0,
+      "cash": 751300000.0,
+      "sharesOutstanding": 341814000.0,
+      "grossMargin": 0.32591674279003,
+      "operatingMargin": 0.18442515985906302,
+      "netMargin": 0.13828409926028695,
+      "roe": 0.1847883200290026,
+      "roic": 0.19469605648355434
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 61357300000.0,
+      "operatingIncome": 10381700000.0,
+      "netIncome": 8151100000.0,
+      "eps": 23.85,
+      "freeCashFlow": 12326300000.0,
+      "totalDebt": 4659600000.0,
+      "cash": 1145400000.0,
+      "sharesOutstanding": 341814000.0,
+      "grossMargin": 0.36605098333857583,
+      "operatingMargin": 0.16920073080138795,
+      "netMargin": 0.13284645836762699,
+      "roe": 0.16295681727309078,
+      "roic": 0.18986422724379842
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 63776400000.0,
+      "operatingIncome": 10516800000.0,
+      "netIncome": 8665000000.0,
+      "eps": 25.35,
+      "freeCashFlow": 7930200000.0,
+      "totalDebt": 5961400000.0,
+      "cash": 638600000.0,
+      "sharesOutstanding": 341814000.0,
+      "grossMargin": 0.366544677968653,
+      "operatingMargin": 0.16490112329952772,
+      "netMargin": 0.1358653044072729,
+      "roe": 0.15208157820836843,
+      "roic": 0.16709937175669792
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:16.396660+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TXN",
+  "name": "Texas Instruments Incorporated",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 278197174272.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 305.68,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17682000000.0,
+    "operatingIncome": 6140000000.0,
+    "netIncome": 5001000000.0,
+    "eps": 5.45,
+    "freeCashFlow": 2603000000.0,
+    "totalDebt": 14048000000.0,
+    "cash": 3225000000.0,
+    "sharesOutstanding": 1741000000.0
+  },
+  "ratios": {
+    "roe": 0.3073188717507528,
+    "roic": 0.20249991754889352,
+    "grossMargin": 0.5702409229725144,
+    "operatingMargin": 0.34724578667571543,
+    "netMargin": 0.2828299966067187,
+    "debtToEquity": 0.83741
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20028000000.0,
+      "operatingIncome": 10397000000.0,
+      "netIncome": 8749000000.0,
+      "eps": 9.41,
+      "freeCashFlow": 5923000000.0,
+      "totalDebt": 8735000000.0,
+      "cash": 3050000000.0,
+      "sharesOutstanding": 1741000000.0,
+      "grossMargin": 0.6875873776712602,
+      "operatingMargin": 0.5191232274815258,
+      "netMargin": 0.43683842620331537,
+      "roe": 0.6001920834190848,
+      "roic": 0.445993479752917
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17519000000.0,
+      "operatingIncome": 7331000000.0,
+      "netIncome": 6510000000.0,
+      "eps": 7.07,
+      "freeCashFlow": 1349000000.0,
+      "totalDebt": 11223000000.0,
+      "cash": 2964000000.0,
+      "sharesOutstanding": 1741000000.0,
+      "grossMargin": 0.628974256521491,
+      "operatingMargin": 0.4184599577601461,
+      "netMargin": 0.37159655231462985,
+      "roe": 0.38527549269101025,
+      "roic": 0.2607041251778094
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15641000000.0,
+      "operatingIncome": 5341000000.0,
+      "netIncome": 4799000000.0,
+      "eps": 5.2,
+      "freeCashFlow": 1498000000.0,
+      "totalDebt": 13596000000.0,
+      "cash": 3200000000.0,
+      "sharesOutstanding": 1741216614.0,
+      "grossMargin": 0.5814206252797136,
+      "operatingMargin": 0.34147433028578733,
+      "netMargin": 0.3068218144619909,
+      "roe": 0.2839140980890966,
+      "roic": 0.17512049575395916
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17682000000.0,
+      "operatingIncome": 6140000000.0,
+      "netIncome": 5001000000.0,
+      "eps": 5.45,
+      "freeCashFlow": 2603000000.0,
+      "totalDebt": 14048000000.0,
+      "cash": 3225000000.0,
+      "sharesOutstanding": 1741000000.0,
+      "grossMargin": 0.5702409229725144,
+      "operatingMargin": 0.34724578667571543,
+      "netMargin": 0.2828299966067187,
+      "roe": 0.3073188717507528,
+      "roic": 0.20249991754889352
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.343857+00:00"
+  }
+}

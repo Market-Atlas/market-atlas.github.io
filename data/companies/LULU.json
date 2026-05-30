@@ -1,0 +1,128 @@
+{
+  "ticker": "LULU",
+  "name": "lululemon athletica inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15682686976.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 131.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11102600000.0,
+    "operatingIncome": 2210615000.0,
+    "netIncome": 1579183000.0,
+    "eps": 13.26,
+    "freeCashFlow": 921675000.0,
+    "totalDebt": 1798441000.0,
+    "cash": 1807202000.0,
+    "sharesOutstanding": 116495961.0
+  },
+  "ratios": {
+    "roe": 0.3182656030827274,
+    "roic": 0.32700046048381715,
+    "grossMargin": 0.566005440167168,
+    "operatingMargin": 0.19910786662583538,
+    "netMargin": 0.14223542233350747,
+    "debtToEquity": 0.36245
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 8110518000.0,
+      "operatingIncome": 1726141000.0,
+      "netIncome": 854800000.0,
+      "eps": 6.68,
+      "freeCashFlow": 327806000.0,
+      "totalDebt": 1070334000.0,
+      "cash": 1154867000.0,
+      "sharesOutstanding": 127321000.0,
+      "grossMargin": 0.5538906392908567,
+      "operatingMargin": 0.21282746675366482,
+      "netMargin": 0.10539400812623806,
+      "roe": 0.27146858214830477,
+      "roic": 0.409122205912921
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 9619278000.0,
+      "operatingIncome": 2207177000.0,
+      "netIncome": 1550190000.0,
+      "eps": 12.2,
+      "freeCashFlow": 1644299000.0,
+      "totalDebt": 1403282000.0,
+      "cash": 2243971000.0,
+      "sharesOutstanding": 126222000.0,
+      "grossMargin": 0.583141998806979,
+      "operatingMargin": 0.2294534995246005,
+      "netMargin": 0.16115450660642097,
+      "roe": 0.3662949740328694,
+      "roic": 0.3916654526070459
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 10588126000.0,
+      "operatingIncome": 2505697000.0,
+      "netIncome": 1814616000.0,
+      "eps": 14.64,
+      "freeCashFlow": 1583481000.0,
+      "totalDebt": 1575791000.0,
+      "cash": 1984336000.0,
+      "sharesOutstanding": 121281961.0,
+      "grossMargin": 0.5922493744407651,
+      "operatingMargin": 0.23665160388155562,
+      "netMargin": 0.1713821690448338,
+      "roe": 0.4196568631192029,
+      "roic": 0.4247060682005167
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 11102600000.0,
+      "operatingIncome": 2210615000.0,
+      "netIncome": 1579183000.0,
+      "eps": 13.26,
+      "freeCashFlow": 921675000.0,
+      "totalDebt": 1798441000.0,
+      "cash": 1807202000.0,
+      "sharesOutstanding": 116495961.0,
+      "grossMargin": 0.566005440167168,
+      "operatingMargin": 0.19910786662583538,
+      "netMargin": 0.14223542233350747,
+      "roe": 0.3182656030827274,
+      "roic": 0.32700046048381715
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:50.236120+00:00"
+  }
+}

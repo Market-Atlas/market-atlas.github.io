@@ -1,0 +1,111 @@
+{
+  "ticker": "MCHP",
+  "name": "Microchip Technology Incorporated",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 51307806720.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 94.65,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4713100000.0,
+    "operatingIncome": 529800000.0,
+    "netIncome": 230000000.0,
+    "eps": 0.22,
+    "freeCashFlow": 871000000.0,
+    "totalDebt": 5535200000.0,
+    "cash": 240300000.0,
+    "sharesOutstanding": 578423967.0
+  },
+  "ratios": {
+    "roe": 0.03575648280579566,
+    "roic": 0.044269527724857115,
+    "grossMargin": 0.5773482421336276,
+    "operatingMargin": 0.11241009102289364,
+    "netMargin": 0.04880015276569562,
+    "debtToEquity": 0.87715
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8438700000.0,
+      "operatingIncome": 3112000000.0,
+      "netIncome": 2237700000.0,
+      "eps": 4.02,
+      "freeCashFlow": 3134800000.0,
+      "totalDebt": 6471400000.0,
+      "cash": 234000000.0,
+      "sharesOutstanding": 577805623.0,
+      "grossMargin": 0.6752106367094458,
+      "operatingMargin": 0.3687771813193975,
+      "netMargin": 0.26517117565501797,
+      "roe": 0.34354274134119384,
+      "roic": 0.23966114747785908
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7634400000.0,
+      "operatingIncome": 2558700000.0,
+      "netIncome": 1906900000.0,
+      "eps": 3.48,
+      "freeCashFlow": 2607600000.0,
+      "totalDebt": 6032400000.0,
+      "cash": 319700000.0,
+      "sharesOutstanding": 577806659.0,
+      "grossMargin": 0.6543670753431835,
+      "operatingMargin": 0.3351540396101855,
+      "netMargin": 0.2497773236927591,
+      "roe": 0.2864159331911442,
+      "roic": 0.20162802792706183
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4401600000.0,
+      "operatingIncome": 375500000.0,
+      "netIncome": -500000.0,
+      "eps": -0.01,
+      "freeCashFlow": 772100000.0,
+      "totalDebt": 5666100000.0,
+      "cash": 771700000.0,
+      "sharesOutstanding": 577996915.0,
+      "grossMargin": 0.5606824790985097,
+      "operatingMargin": 0.0853098873137041,
+      "netMargin": -0.00011359505634314795,
+      "roe": -7.063843013152875e-05,
+      "roic": 0.029463921408618688
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 4713100000.0,
+      "operatingIncome": 529800000.0,
+      "netIncome": 230000000.0,
+      "eps": 0.22,
+      "freeCashFlow": 871000000.0,
+      "totalDebt": 5535200000.0,
+      "cash": 240300000.0,
+      "sharesOutstanding": 578423967.0,
+      "grossMargin": 0.5773482421336276,
+      "operatingMargin": 0.11241009102289364,
+      "netMargin": 0.04880015276569562,
+      "roe": 0.03575648280579566,
+      "roic": 0.044269527724857115
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:52.461625+00:00"
+  }
+}

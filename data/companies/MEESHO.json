@@ -1,0 +1,111 @@
+{
+  "ticker": "MEESHO",
+  "name": "MEESHO LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 841841311744.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 183.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 126263480000.0,
+    "operatingIncome": -15319320000.0,
+    "netIncome": -13577380000.0,
+    "eps": -3.11,
+    "freeCashFlow": -39763760000.0,
+    "totalDebt": 626290000.0,
+    "cash": 6203720000.0,
+    "sharesOutstanding": 4564055196.0
+  },
+  "ratios": {
+    "roe": -0.30953553414986235,
+    "roic": -0.3443316825507569,
+    "grossMargin": 0.92775,
+    "operatingMargin": -0.12132819402728326,
+    "netMargin": -0.10753212251080044,
+    "debtToEquity": 0.01428
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 57345190000.0,
+      "operatingIncome": -18201050000.0,
+      "netIncome": -16719020000.0,
+      "eps": -3.704528,
+      "freeCashFlow": -23461880000.0,
+      "totalDebt": 116880000.0,
+      "cash": 965460000.0,
+      "sharesOutstanding": 4513131000.0,
+      "grossMargin": null,
+      "operatingMargin": -0.3173945364903316,
+      "netMargin": -0.29155052062779807,
+      "roe": -0.676359017199216,
+      "roic": -0.7328486074465203
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 76151480000.0,
+      "operatingIncome": -5310490000.0,
+      "netIncome": -3276410000.0,
+      "eps": -0.725973,
+      "freeCashFlow": 1849530000.0,
+      "totalDebt": 722710000.0,
+      "cash": 1403880000.0,
+      "sharesOutstanding": 4513131000.0,
+      "grossMargin": null,
+      "operatingMargin": -0.06973587381361465,
+      "netMargin": -0.04302490247070707,
+      "roe": -0.1469478059706446,
+      "roic": -0.23069898818938855
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 93899030000.0,
+      "operatingIncome": -6125320000.0,
+      "netIncome": -39417050000.0,
+      "eps": -8.733859,
+      "freeCashFlow": 5164730000.0,
+      "totalDebt": 582660000.0,
+      "cash": 1470580000.0,
+      "sharesOutstanding": 4513131000.0,
+      "grossMargin": null,
+      "operatingMargin": -0.06523304873330428,
+      "netMargin": -0.4197812267070278,
+      "roe": -2.726846016445316,
+      "roic": -0.40732711612838013
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 126263480000.0,
+      "operatingIncome": -15319320000.0,
+      "netIncome": -13577380000.0,
+      "eps": -3.11,
+      "freeCashFlow": -39763760000.0,
+      "totalDebt": 626290000.0,
+      "cash": 6203720000.0,
+      "sharesOutstanding": 4564055196.0,
+      "grossMargin": null,
+      "operatingMargin": -0.12132819402728326,
+      "netMargin": -0.10753212251080044,
+      "roe": -0.30953553414986235,
+      "roic": -0.3443316825507569
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:25.205785+00:00"
+  }
+}

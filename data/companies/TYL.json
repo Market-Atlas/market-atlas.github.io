@@ -1,0 +1,111 @@
+{
+  "ticker": "TYL",
+  "name": "Tyler Technologies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12883165184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 313.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2332340000.0,
+    "operatingIncome": 357676000.0,
+    "netIncome": 315603000.0,
+    "eps": 7.2,
+    "freeCashFlow": 620750000.0,
+    "totalDebt": 642608000.0,
+    "cash": 1015400000.0,
+    "sharesOutstanding": 48147969.0
+  },
+  "ratios": {
+    "roe": 0.0852338602064552,
+    "roic": 0.08231146659327099,
+    "grossMargin": 0.46464066131010057,
+    "operatingMargin": 0.15335499969987224,
+    "netMargin": 0.13531603454041863,
+    "debtToEquity": 0.01348
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1850204000.0,
+      "operatingIncome": 214249000.0,
+      "netIncome": 164240000.0,
+      "eps": 3.87,
+      "freeCashFlow": 331304000.0,
+      "totalDebt": 1046174000.0,
+      "cash": 173857000.0,
+      "sharesOutstanding": 48147969.0,
+      "grossMargin": 0.4236630122948605,
+      "operatingMargin": 0.11579750124851097,
+      "netMargin": 0.08876858984198499,
+      "roe": 0.06258218579638918,
+      "roic": 0.05836951988019277
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1951751000.0,
+      "operatingIncome": 218537000.0,
+      "netIncome": 165919000.0,
+      "eps": 3.88,
+      "freeCashFlow": 327431000.0,
+      "totalDebt": 696889000.0,
+      "cash": 165493000.0,
+      "sharesOutstanding": 48147969.0,
+      "grossMargin": 0.44119306202481773,
+      "operatingMargin": 0.11196971334970496,
+      "netMargin": 0.08501033174826092,
+      "roe": 0.0564735474362618,
+      "roic": 0.060122138698236315
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2137803000.0,
+      "operatingIncome": 299526000.0,
+      "netIncome": 263026000.0,
+      "eps": 6.05,
+      "freeCashFlow": 574697000.0,
+      "totalDebt": 638368000.0,
+      "cash": 744721000.0,
+      "sharesOutstanding": 48147969.0,
+      "grossMargin": 0.43772087512273117,
+      "operatingMargin": 0.1401092617046566,
+      "netMargin": 0.12303565857097216,
+      "roe": 0.07762492393214304,
+      "roic": 0.07438331772950663
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2332340000.0,
+      "operatingIncome": 357676000.0,
+      "netIncome": 315603000.0,
+      "eps": 7.2,
+      "freeCashFlow": 620750000.0,
+      "totalDebt": 642608000.0,
+      "cash": 1015400000.0,
+      "sharesOutstanding": 48147969.0,
+      "grossMargin": 0.46464066131010057,
+      "operatingMargin": 0.15335499969987224,
+      "netMargin": 0.13531603454041863,
+      "roe": 0.0852338602064552,
+      "roic": 0.08231146659327099
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:30.738781+00:00"
+  }
+}

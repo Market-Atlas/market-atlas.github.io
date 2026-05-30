@@ -1,0 +1,128 @@
+{
+  "ticker": "COIN",
+  "name": "Coinbase Global, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 49801990144.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 189.03,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7181325000.0,
+    "operatingIncome": 1456145000.0,
+    "netIncome": 1260327000.0,
+    "eps": 4.45,
+    "freeCashFlow": null,
+    "totalDebt": 7831459000.0,
+    "cash": 11285452000.0,
+    "sharesOutstanding": 267836000.0
+  },
+  "ratios": {
+    "roe": 0.08519719181794595,
+    "roic": 0.064361373990879,
+    "grossMargin": 0.7463949897825262,
+    "operatingMargin": 0.20276829136684385,
+    "netMargin": 0.1755006214034318,
+    "debtToEquity": 0.5908100000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3194208000.0,
+      "operatingIncome": -1947294000.0,
+      "netIncome": -2624949000.0,
+      "eps": -11.83,
+      "freeCashFlow": -1649390000.0,
+      "totalDebt": 3489745000.0,
+      "cash": 4425021000.0,
+      "sharesOutstanding": 230866000.0,
+      "grossMargin": 0.8028055780963544,
+      "operatingMargin": -0.6096328103868001,
+      "netMargin": -0.8217839915246596,
+      "roe": -0.4812396313761136,
+      "roic": -0.21771335538536155
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3108383000.0,
+      "operatingIncome": -53743000.0,
+      "netIncome": 94871000.0,
+      "eps": 0.37,
+      "freeCashFlow": 610174000.0,
+      "totalDebt": 2983778000.0,
+      "cash": 5139351000.0,
+      "sharesOutstanding": 242048000.0,
+      "grossMargin": 0.6346814404788599,
+      "operatingMargin": -0.017289696926022308,
+      "netMargin": 0.030521013658870222,
+      "roe": 0.015102881424925206,
+      "roic": -0.0058003802738934756
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6564028000.0,
+      "operatingIncome": 2235435000.0,
+      "netIncome": 2579066000.0,
+      "eps": 9.48,
+      "freeCashFlow": null,
+      "totalDebt": 4694138000.0,
+      "cash": 9308266000.0,
+      "sharesOutstanding": 253640000.0,
+      "grossMargin": 0.7478229830829485,
+      "operatingMargin": 0.3405584193120444,
+      "netMargin": 0.39290904913873004,
+      "roe": 0.25095900082924305,
+      "roic": 0.14931788032580365
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7181325000.0,
+      "operatingIncome": 1456145000.0,
+      "netIncome": 1260327000.0,
+      "eps": 4.45,
+      "freeCashFlow": null,
+      "totalDebt": 7831459000.0,
+      "cash": 11285452000.0,
+      "sharesOutstanding": 267836000.0,
+      "grossMargin": 0.7463949897825262,
+      "operatingMargin": 0.20276829136684385,
+      "netMargin": 0.1755006214034318,
+      "roe": 0.08519719181794595,
+      "roic": 0.064361373990879
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:03.655371+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "O",
+  "name": "Realty Income Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 57143140352.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 61.28,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5749377000.0,
+    "operatingIncome": 2593823000.0,
+    "netIncome": 1058590000.0,
+    "eps": 1.17,
+    "freeCashFlow": null,
+    "totalDebt": 29345846000.0,
+    "cash": 434842000.0,
+    "sharesOutstanding": 933975000.0
+  },
+  "ratios": {
+    "roe": 0.02684140537611602,
+    "roic": 0.03770938880002121,
+    "grossMargin": 0.9254180061596239,
+    "operatingMargin": 0.4511485331367207,
+    "netMargin": 0.18412255797454227,
+    "debtToEquity": 0.7346699999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3343681000.0,
+      "operatingIncome": 1308503000.0,
+      "netIncome": 869408000.0,
+      "eps": 1.42,
+      "freeCashFlow": null,
+      "totalDebt": 18600298000.0,
+      "cash": 171102000.0,
+      "sharesOutstanding": 660300195.0,
+      "grossMargin": 0.9323111265697894,
+      "operatingMargin": 0.39133607542107035,
+      "netMargin": 0.26001523470689936,
+      "roe": 0.030279089207526488,
+      "roic": 0.027656048818425764
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4078993000.0,
+      "operatingIncome": 1722316000.0,
+      "netIncome": 872309000.0,
+      "eps": 1.26,
+      "freeCashFlow": null,
+      "totalDebt": 21989695000.0,
+      "cash": 232923000.0,
+      "sharesOutstanding": 752460000.0,
+      "grossMargin": 0.9222935660835897,
+      "operatingMargin": 0.4222404892580105,
+      "netMargin": 0.2138540075945215,
+      "roe": 0.02648057537935393,
+      "roic": 0.031354079129074314
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5271142000.0,
+      "operatingIncome": 2320928000.0,
+      "netIncome": 860772000.0,
+      "eps": 0.98,
+      "freeCashFlow": null,
+      "totalDebt": 26757140000.0,
+      "cash": 444962000.0,
+      "sharesOutstanding": 891511000.0,
+      "grossMargin": 0.9283504409480906,
+      "operatingMargin": 0.44030838099220243,
+      "netMargin": 0.16329895874556216,
+      "roe": 0.022161576847484207,
+      "roic": 0.035381144493728894
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5749377000.0,
+      "operatingIncome": 2593823000.0,
+      "netIncome": 1058590000.0,
+      "eps": 1.17,
+      "freeCashFlow": null,
+      "totalDebt": 29345846000.0,
+      "cash": 434842000.0,
+      "sharesOutstanding": 933975000.0,
+      "grossMargin": 0.9254180061596239,
+      "operatingMargin": 0.4511485331367207,
+      "netMargin": 0.18412255797454227,
+      "roe": 0.02684140537611602,
+      "roic": 0.03770938880002121
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:03.216212+00:00"
+  }
+}

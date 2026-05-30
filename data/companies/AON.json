@@ -1,0 +1,128 @@
+{
+  "ticker": "AON",
+  "name": "Aon plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 67503128576.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 316.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17181000000.0,
+    "operatingIncome": 4709000000.0,
+    "netIncome": 3695000000.0,
+    "eps": 17.02,
+    "freeCashFlow": 3218000000.0,
+    "totalDebt": 16071000000.0,
+    "cash": 1195000000.0,
+    "sharesOutstanding": 214500000.0
+  },
+  "ratios": {
+    "roe": 0.3951026518391788,
+    "roic": 0.18522597647799238,
+    "grossMargin": 0.47703858913916536,
+    "operatingMargin": 0.2740818345847157,
+    "netMargin": 0.21506315115534602,
+    "debtToEquity": 1.5505000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12479000000.0,
+      "operatingIncome": 3669000000.0,
+      "netIncome": 2589000000.0,
+      "eps": 12.14,
+      "freeCashFlow": 3023000000.0,
+      "totalDebt": 11677000000.0,
+      "cash": 690000000.0,
+      "sharesOutstanding": 205400000.0,
+      "grossMargin": 0.48096802628415736,
+      "operatingMargin": 0.2940139434249539,
+      "netMargin": 0.2074685471592275,
+      "roe": -4.89413988657845,
+      "roic": 0.3291173304628633
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13376000000.0,
+      "operatingIncome": 3920000000.0,
+      "netIncome": 2564000000.0,
+      "eps": 12.51,
+      "freeCashFlow": 3183000000.0,
+      "totalDebt": 12032000000.0,
+      "cash": 778000000.0,
+      "sharesOutstanding": 198600000.0,
+      "grossMargin": 0.4840011961722488,
+      "operatingMargin": 0.2930622009569378,
+      "netMargin": 0.1916866028708134,
+      "roe": -3.1041162227602905,
+      "roic": 0.3498126003926468
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15698000000.0,
+      "operatingIncome": 4224000000.0,
+      "netIncome": 2654000000.0,
+      "eps": 12.49,
+      "freeCashFlow": 2817000000.0,
+      "totalDebt": 17892000000.0,
+      "cash": 1085000000.0,
+      "sharesOutstanding": 216000000.0,
+      "grossMargin": 0.4723531660084087,
+      "operatingMargin": 0.2690788635494967,
+      "netMargin": 0.16906612307300292,
+      "roe": 0.4335892827969286,
+      "roic": 0.17590471827759963
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17181000000.0,
+      "operatingIncome": 4709000000.0,
+      "netIncome": 3695000000.0,
+      "eps": 17.02,
+      "freeCashFlow": 3218000000.0,
+      "totalDebt": 16071000000.0,
+      "cash": 1195000000.0,
+      "sharesOutstanding": 214500000.0,
+      "grossMargin": 0.47703858913916536,
+      "operatingMargin": 0.2740818345847157,
+      "netMargin": 0.21506315115534602,
+      "roe": 0.3951026518391788,
+      "roic": 0.18522597647799238
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.429034+00:00"
+  }
+}

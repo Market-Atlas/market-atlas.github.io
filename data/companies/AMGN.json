@@ -1,0 +1,128 @@
+{
+  "ticker": "AMGN",
+  "name": "Amgen Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 181768355840.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 336.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 36751000000.0,
+    "operatingIncome": 9080000000.0,
+    "netIncome": 7711000000.0,
+    "eps": 14.23,
+    "freeCashFlow": 8100000000.0,
+    "totalDebt": 54604000000.0,
+    "cash": 9129000000.0,
+    "sharesOutstanding": 538800000.0
+  },
+  "ratios": {
+    "roe": 0.8906213906213907,
+    "roic": 0.14353008124940722,
+    "grossMargin": 0.6724714973742211,
+    "operatingMargin": 0.24706810699028597,
+    "netMargin": 0.20981741993415146,
+    "debtToEquity": 6.23754
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 26323000000.0,
+      "operatingIncome": 9566000000.0,
+      "netIncome": 6552000000.0,
+      "eps": 12.11,
+      "freeCashFlow": 8785000000.0,
+      "totalDebt": 38945000000.0,
+      "cash": 7629000000.0,
+      "sharesOutstanding": 534000000.0,
+      "grossMargin": 0.7566386810014056,
+      "operatingMargin": 0.363408426091251,
+      "netMargin": 0.24890779926300194,
+      "roe": 1.7896749521988529,
+      "roic": 0.22452236774163264
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 28190000000.0,
+      "operatingIncome": 7897000000.0,
+      "netIncome": 6717000000.0,
+      "eps": 12.49,
+      "freeCashFlow": 7359000000.0,
+      "totalDebt": 64613000000.0,
+      "cash": 10944000000.0,
+      "sharesOutstanding": 535400000.0,
+      "grossMargin": 0.7002128414331323,
+      "operatingMargin": 0.28013479957431714,
+      "netMargin": 0.23827598439162823,
+      "roe": 1.077824133504493,
+      "roic": 0.11146869927306091
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 33424000000.0,
+      "operatingIncome": 7258000000.0,
+      "netIncome": 4090000000.0,
+      "eps": 7.56,
+      "freeCashFlow": 10394000000.0,
+      "totalDebt": 60099000000.0,
+      "cash": 11973000000.0,
+      "sharesOutstanding": 537000000.0,
+      "grossMargin": 0.6153063666826233,
+      "operatingMargin": 0.21714935375777883,
+      "netMargin": 0.12236716132120631,
+      "roe": 0.6959332993023651,
+      "roic": 0.11000970049715048
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 36751000000.0,
+      "operatingIncome": 9080000000.0,
+      "netIncome": 7711000000.0,
+      "eps": 14.23,
+      "freeCashFlow": 8100000000.0,
+      "totalDebt": 54604000000.0,
+      "cash": 9129000000.0,
+      "sharesOutstanding": 538800000.0,
+      "grossMargin": 0.6724714973742211,
+      "operatingMargin": 0.24706810699028597,
+      "netMargin": 0.20981741993415146,
+      "roe": 0.8906213906213907,
+      "roic": 0.14353008124940722
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.149889+00:00"
+  }
+}

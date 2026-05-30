@@ -1,0 +1,128 @@
+{
+  "ticker": "M&M",
+  "name": "Mahindra & Mahindra Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3657041707008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3045.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1977927800000.0,
+    "operatingIncome": 293936200000.0,
+    "netIncome": 170988500000.0,
+    "eps": null,
+    "freeCashFlow": 20519100000.0,
+    "totalDebt": 1339631500000.0,
+    "cash": 42922400000.0,
+    "sharesOutstanding": 1243528831.0
+  },
+  "ratios": {
+    "roe": 0.18366831782341628,
+    "roic": 0.1294533811622064,
+    "grossMargin": 0.3785294892968287,
+    "operatingMargin": 0.14860815445336276,
+    "netMargin": 0.08644830210688176,
+    "debtToEquity": 1.25066
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 58.83,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1190403800000.0,
+      "operatingIncome": 159886100000.0,
+      "netIncome": 102815000000.0,
+      "eps": 91.96,
+      "freeCashFlow": -133785900000.0,
+      "totalDebt": 922468500000.0,
+      "cash": 34934100000.0,
+      "sharesOutstanding": 1243528831.0,
+      "grossMargin": 0.37293874565924606,
+      "operatingMargin": 0.13431249127396938,
+      "netMargin": 0.08636985197795907,
+      "roe": 0.1824067399747258,
+      "roic": 0.10758580158457584
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1358030300000.0,
+      "operatingIncome": 196098400000.0,
+      "netIncome": 112686400000.0,
+      "eps": 100.7,
+      "freeCashFlow": -155759400000.0,
+      "totalDebt": 1066255200000.0,
+      "cash": 45301000000.0,
+      "sharesOutstanding": 1243528831.0,
+      "grossMargin": 0.3799700198147273,
+      "operatingMargin": 0.14439913454066525,
+      "netMargin": 0.08297782457431178,
+      "roe": 0.17024545044572073,
+      "roic": 0.11347231770749097
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1587497500000.0,
+      "operatingIncome": 240143100000.0,
+      "netIncome": 129291000000.0,
+      "eps": 115.06,
+      "freeCashFlow": -72161400000.0,
+      "totalDebt": 1249493100000.0,
+      "cash": 49238900000.0,
+      "sharesOutstanding": 1243528831.0,
+      "grossMargin": 0.39689530219732627,
+      "operatingMargin": 0.15127148231729498,
+      "netMargin": 0.08144327786342971,
+      "roe": 0.1678256921247277,
+      "roic": 0.11888968547019363
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1977927800000.0,
+      "operatingIncome": 293936200000.0,
+      "netIncome": 170988500000.0,
+      "eps": null,
+      "freeCashFlow": 20519100000.0,
+      "totalDebt": 1339631500000.0,
+      "cash": 42922400000.0,
+      "sharesOutstanding": 1243528831.0,
+      "grossMargin": 0.3785294892968287,
+      "operatingMargin": 0.14860815445336276,
+      "netMargin": 0.08644830210688176,
+      "roe": 0.18366831782341628,
+      "roic": 0.1294533811622064
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.707355+00:00"
+  }
+}

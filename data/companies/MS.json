@@ -1,0 +1,128 @@
+{
+  "ticker": "MS",
+  "name": "Morgan Stanley",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "USD",
+  "marketCap": {
+    "value": 328075247616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 208.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65966000000.0,
+    "operatingIncome": null,
+    "netIncome": 16861000000.0,
+    "eps": 10.21,
+    "freeCashFlow": -20787000000.0,
+    "totalDebt": 370538000000.0,
+    "cash": 81310000000.0,
+    "sharesOutstanding": 2038893979.0
+  },
+  "ratios": {
+    "roe": 0.15104092016626058,
+    "roic": null,
+    "grossMargin": 0.87388,
+    "operatingMargin": 0.40616,
+    "netMargin": 0.25560137040293485,
+    "debtToEquity": 5.02246
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50210000000.0,
+      "operatingIncome": null,
+      "netIncome": 11029000000.0,
+      "eps": 6.15,
+      "freeCashFlow": -9475000000.0,
+      "totalDebt": 246216000000.0,
+      "cash": 92747000000.0,
+      "sharesOutstanding": 2039842714.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2196574387572197,
+      "roe": 0.11013471005881707,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 50667000000.0,
+      "operatingIncome": null,
+      "netIncome": 9087000000.0,
+      "eps": 5.18,
+      "freeCashFlow": -36948000000.0,
+      "totalDebt": 276387000000.0,
+      "cash": 58661000000.0,
+      "sharesOutstanding": 2038893979.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1793475042927349,
+      "roe": 0.09175266059492317,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 57621000000.0,
+      "operatingIncome": null,
+      "netIncome": 13390000000.0,
+      "eps": 7.95,
+      "freeCashFlow": -2100000000.0,
+      "totalDebt": 310421000000.0,
+      "cash": 75743000000.0,
+      "sharesOutstanding": 2038893979.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23238055570017876,
+      "roe": 0.1281204849250318,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 65966000000.0,
+      "operatingIncome": null,
+      "netIncome": 16861000000.0,
+      "eps": 10.21,
+      "freeCashFlow": -20787000000.0,
+      "totalDebt": 370538000000.0,
+      "cash": 81310000000.0,
+      "sharesOutstanding": 2038893979.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25560137040293485,
+      "roe": 0.15104092016626058,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.250822+00:00"
+  }
+}

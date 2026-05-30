@@ -1,0 +1,128 @@
+{
+  "ticker": "BAJAJHFL",
+  "name": "BAJAJ HOUSING FINANCE LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 707020128256.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 84.89,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 110246400000.0,
+    "operatingIncome": 34344200000.0,
+    "netIncome": 25603400000.0,
+    "eps": 3.07,
+    "freeCashFlow": -199428000000.0,
+    "totalDebt": 1036567900000.0,
+    "cash": 1618000000.0,
+    "sharesOutstanding": 8332334619.0
+  },
+  "ratios": {
+    "roe": 0.11367774596308894,
+    "roic": 0.02721850873176151,
+    "grossMargin": 0.334972389121096,
+    "operatingMargin": 0.311522190293742,
+    "netMargin": 0.23223796876814118,
+    "debtToEquity": 4.60504
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 54814600000.0,
+      "operatingIncome": 16468800000.0,
+      "netIncome": 12578000000.0,
+      "eps": 1.5103,
+      "freeCashFlow": -143655700000.0,
+      "totalDebt": 537453900000.0,
+      "cash": 937800000.0,
+      "sharesOutstanding": 8328146701.0,
+      "grossMargin": 0.3409255928165124,
+      "operatingMargin": 0.30044550174588525,
+      "netMargin": 0.22946441276594193,
+      "roe": 0.11975409375627785,
+      "roic": 0.02563294005875305
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 73294600000.0,
+      "operatingIncome": 19617200000.0,
+      "netIncome": 17312200000.0,
+      "eps": 2.078758,
+      "freeCashFlow": -146431400000.0,
+      "totalDebt": 691293200000.0,
+      "cash": 637000000.0,
+      "sharesOutstanding": 8328146701.0,
+      "grossMargin": 0.3017125408966008,
+      "operatingMargin": 0.26764863987251447,
+      "netMargin": 0.2362002112024624,
+      "roe": 0.1415146932603098,
+      "roic": 0.024110767055517495
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 93639000000.0,
+      "operatingIncome": 26640700000.0,
+      "netIncome": 21629000000.0,
+      "eps": 2.67,
+      "freeCashFlow": -171158700000.0,
+      "totalDebt": 820719200000.0,
+      "cash": 614300000.0,
+      "sharesOutstanding": 8328146701.0,
+      "grossMargin": 0.3085338373968112,
+      "operatingMargin": 0.2845043197812877,
+      "netMargin": 0.2309828169886479,
+      "roe": 0.10843343293159804,
+      "roic": 0.026113540730563958
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 110246400000.0,
+      "operatingIncome": 34344200000.0,
+      "netIncome": 25603400000.0,
+      "eps": 3.07,
+      "freeCashFlow": -199428000000.0,
+      "totalDebt": 1036567900000.0,
+      "cash": 1618000000.0,
+      "sharesOutstanding": 8332334619.0,
+      "grossMargin": 0.334972389121096,
+      "operatingMargin": 0.311522190293742,
+      "netMargin": 0.23223796876814118,
+      "roe": 0.11367774596308894,
+      "roic": 0.02721850873176151
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:57.884472+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ROL",
+  "name": "Rollins, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Personal Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22917668864.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3761050000.0,
+    "operatingIncome": 726068000.0,
+    "netIncome": 526705000.0,
+    "eps": 1.09,
+    "freeCashFlow": 650021000.0,
+    "totalDebt": 1038005000.0,
+    "cash": 100004000.0,
+    "sharesOutstanding": 481193751.0
+  },
+  "ratios": {
+    "roe": 0.3832474363703967,
+    "roic": 0.30098253718610174,
+    "grossMargin": 0.5275239627231757,
+    "operatingMargin": 0.19304928145065872,
+    "netMargin": 0.1400420095452068,
+    "debtToEquity": 0.77235
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2695823000.0,
+      "operatingIncome": 493388000.0,
+      "netIncome": 368599000.0,
+      "eps": 0.75,
+      "freeCashFlow": 435302000.0,
+      "totalDebt": 336329000.0,
+      "cash": 95346000.0,
+      "sharesOutstanding": 492447997.0,
+      "grossMargin": 0.514656934079129,
+      "operatingMargin": 0.18301943413940752,
+      "netMargin": 0.13672967401791586,
+      "roe": 0.290877424741378,
+      "roic": 0.30768942941991584
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3073278000.0,
+      "operatingIncome": 588422000.0,
+      "netIncome": 434957000.0,
+      "eps": 0.89,
+      "freeCashFlow": 495901000.0,
+      "totalDebt": 816348000.0,
+      "cash": 103825000.0,
+      "sharesOutstanding": 484080014.0,
+      "grossMargin": 0.5217253369203827,
+      "operatingMargin": 0.19146396778944177,
+      "netMargin": 0.14152868695900597,
+      "roe": 0.37640136833260207,
+      "roic": 0.2984013002588854
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3388708000.0,
+      "operatingIncome": 657224000.0,
+      "netIncome": 466379000.0,
+      "eps": 0.96,
+      "freeCashFlow": 580081000.0,
+      "totalDebt": 812528000.0,
+      "cash": 89630000.0,
+      "sharesOutstanding": 484372303.0,
+      "grossMargin": 0.526900222739758,
+      "operatingMargin": 0.1939453030476512,
+      "netMargin": 0.13762737893025898,
+      "roe": 0.35050462462977033,
+      "roic": 0.30666677243142126
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3761050000.0,
+      "operatingIncome": 726068000.0,
+      "netIncome": 526705000.0,
+      "eps": 1.09,
+      "freeCashFlow": 650021000.0,
+      "totalDebt": 1038005000.0,
+      "cash": 100004000.0,
+      "sharesOutstanding": 481193751.0,
+      "grossMargin": 0.5275239627231757,
+      "operatingMargin": 0.19304928145065872,
+      "netMargin": 0.1400420095452068,
+      "roe": 0.3832474363703967,
+      "roic": 0.30098253718610174
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:16.288002+00:00"
+  }
+}

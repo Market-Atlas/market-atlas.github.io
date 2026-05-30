@@ -1,0 +1,111 @@
+{
+  "ticker": "GLENMARK",
+  "name": "Glenmark Pharmaceuticals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 641978597376.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2274.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 131458360000.0,
+    "operatingIncome": 18684670000.0,
+    "netIncome": 10470970000.0,
+    "eps": 37.11,
+    "freeCashFlow": -15771640000.0,
+    "totalDebt": 24726670000.0,
+    "cash": 16757070000.0,
+    "sharesOutstanding": 282188156.0
+  },
+  "ratios": {
+    "roe": 0.11832351896577423,
+    "roic": 0.1650281908633975,
+    "grossMargin": 0.6381103491630353,
+    "operatingMargin": 0.1421337524673212,
+    "netMargin": 0.0796523705301055,
+    "debtToEquity": 0.12775999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 121741980000.0,
+      "operatingIncome": 18400480000.0,
+      "netIncome": 9417110000.0,
+      "eps": 33.37,
+      "freeCashFlow": 3185350000.0,
+      "totalDebt": 39620210000.0,
+      "cash": 14105260000.0,
+      "sharesOutstanding": 282168156.0,
+      "grossMargin": 0.6075165690585943,
+      "operatingMargin": 0.15114326216807053,
+      "netMargin": 0.07735302152963176,
+      "roe": 0.10363679804002511,
+      "roic": 0.14101423992088694
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 114319380000.0,
+      "operatingIncome": 10788740000.0,
+      "netIncome": 2972450000.0,
+      "eps": 10.53,
+      "freeCashFlow": 176290000.0,
+      "totalDebt": 46078810000.0,
+      "cash": 11592030000.0,
+      "sharesOutstanding": 282168156.0,
+      "grossMargin": 0.5987902488624414,
+      "operatingMargin": 0.09437367487472378,
+      "netMargin": 0.026001278173482047,
+      "roe": 0.03137507028503398,
+      "roic": 0.07661475759781915
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 116354560000.0,
+      "operatingIncome": 6310750000.0,
+      "netIncome": -15016680000.0,
+      "eps": -53.22,
+      "freeCashFlow": -11638220000.0,
+      "totalDebt": 12309300000.0,
+      "cash": 16582700000.0,
+      "sharesOutstanding": 282188156.0,
+      "grossMargin": 0.5806747926338255,
+      "operatingMargin": 0.05423723831708873,
+      "netMargin": -0.12905966040351147,
+      "roe": -0.19134581654492963,
+      "roic": 0.06951040202527697
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 131458360000.0,
+      "operatingIncome": 18684670000.0,
+      "netIncome": 10470970000.0,
+      "eps": 37.11,
+      "freeCashFlow": -15771640000.0,
+      "totalDebt": 24726670000.0,
+      "cash": 16757070000.0,
+      "sharesOutstanding": 282188156.0,
+      "grossMargin": 0.6381103491630353,
+      "operatingMargin": 0.1421337524673212,
+      "netMargin": 0.0796523705301055,
+      "roe": 0.11832351896577423,
+      "roic": 0.1650281908633975
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:46.685221+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BBTC",
+  "name": "The Bombay Burmah Trading Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 104769486848.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1501.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 192410500000.0,
+    "operatingIncome": 30934900000.0,
+    "netIncome": 12426700000.0,
+    "eps": null,
+    "freeCashFlow": 21847200000.0,
+    "totalDebt": 15904300000.0,
+    "cash": 7040600000.0,
+    "sharesOutstanding": 69771900.0
+  },
+  "ratios": {
+    "roe": 0.1764659939392046,
+    "roic": 0.3583576312987914,
+    "grossMargin": 0.41210225013707674,
+    "operatingMargin": 0.1607755294019817,
+    "netMargin": 0.0645843132261493,
+    "debtToEquity": 0.16570000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 9.09,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 163033859000.0,
+      "operatingIncome": 25521574000.0,
+      "netIncome": -16760519000.0,
+      "eps": -240.22,
+      "freeCashFlow": 17508049000.0,
+      "totalDebt": 65415993000.0,
+      "cash": 5419909000.0,
+      "sharesOutstanding": 69771900.0,
+      "grossMargin": 0.3510413011814926,
+      "operatingMargin": 0.1565415561929378,
+      "netMargin": -0.10280391510575726,
+      "roe": -0.4156547238328964,
+      "roic": 0.24136347958850066
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 168825850000.0,
+      "operatingIncome": 28082406000.0,
+      "netIncome": 6366067000.0,
+      "eps": 91.19,
+      "freeCashFlow": 13592381000.0,
+      "totalDebt": 21613212000.0,
+      "cash": 7423139000.0,
+      "sharesOutstanding": 69771900.0,
+      "grossMargin": 0.37954405086661785,
+      "operatingMargin": 0.1663394912568188,
+      "netMargin": 0.03770789248210508,
+      "roe": 0.13754569170743247,
+      "roic": 0.413606085533038
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 178866900000.0,
+      "operatingIncome": 28091000000.0,
+      "netIncome": 11226300000.0,
+      "eps": 160.9,
+      "freeCashFlow": 19071400000.0,
+      "totalDebt": 15744847000.0,
+      "cash": 3411673000.0,
+      "sharesOutstanding": 69771900.0,
+      "grossMargin": 0.3984387273441872,
+      "operatingMargin": 0.15704973921949786,
+      "netMargin": 0.06276342911964147,
+      "roe": 0.1993395194881135,
+      "roic": 0.3898153168236442
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 192410500000.0,
+      "operatingIncome": 30934900000.0,
+      "netIncome": 12426700000.0,
+      "eps": null,
+      "freeCashFlow": 21847200000.0,
+      "totalDebt": 15904300000.0,
+      "cash": 7040600000.0,
+      "sharesOutstanding": 69771900.0,
+      "grossMargin": 0.41210225013707674,
+      "operatingMargin": 0.1607755294019817,
+      "netMargin": 0.0645843132261493,
+      "roe": 0.1764659939392046,
+      "roic": 0.3583576312987914
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:00.711647+00:00"
+  }
+}

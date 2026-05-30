@@ -1,0 +1,128 @@
+{
+  "ticker": "OLAELEC",
+  "name": "OLA ELECTRIC MOBILITY LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 174174781440.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 41.49,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22530000000.0,
+    "operatingIncome": -16760000000.0,
+    "netIncome": -18330000000.0,
+    "eps": -4.16,
+    "freeCashFlow": -14930000000.0,
+    "totalDebt": 27630000000.0,
+    "cash": 4210000000.0,
+    "sharesOutstanding": 4195906062.0
+  },
+  "ratios": {
+    "roe": -0.5470008952551477,
+    "roic": -0.2741249591102388,
+    "grossMargin": 0.3062583222370173,
+    "operatingMargin": -0.7438970261873058,
+    "netMargin": -0.8135818908122503,
+    "debtToEquity": 0.82453
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26004760000.0,
+      "operatingIncome": -13923130000.0,
+      "netIncome": -14720790000.0,
+      "eps": -3.33742,
+      "freeCashFlow": -23498830000.0,
+      "totalDebt": 16957740000.0,
+      "cash": 2429090000.0,
+      "sharesOutstanding": 4127954806.0,
+      "grossMargin": 0.004038875959632006,
+      "operatingMargin": -0.5354069793376289,
+      "netMargin": -0.5660805944757806,
+      "roe": -0.6247035787822668,
+      "roic": -0.3435928175631222
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 47980000000.0,
+      "operatingIncome": -15680000000.0,
+      "netIncome": -15840000000.0,
+      "eps": -3.591161,
+      "freeCashFlow": -18470000000.0,
+      "totalDebt": 27110000000.0,
+      "cash": 1070000000.0,
+      "sharesOutstanding": 4127954806.0,
+      "grossMargin": 0.08065860775323051,
+      "operatingMargin": -0.32680283451438097,
+      "netMargin": -0.33013755731554817,
+      "roe": -0.7845468053491828,
+      "roic": -0.3315010570824524
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 45140000000.0,
+      "operatingIncome": -23050000000.0,
+      "netIncome": -22760000000.0,
+      "eps": -5.48,
+      "freeCashFlow": -33680000000.0,
+      "totalDebt": 35560000000.0,
+      "cash": 3390000000.0,
+      "sharesOutstanding": 4410829885.0,
+      "grossMargin": 0.17855560478511298,
+      "operatingMargin": -0.5106335844040762,
+      "netMargin": -0.5042091271599468,
+      "roe": -0.44254326268714755,
+      "roic": -0.26497298540062075
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 22530000000.0,
+      "operatingIncome": -16760000000.0,
+      "netIncome": -18330000000.0,
+      "eps": -4.16,
+      "freeCashFlow": -14930000000.0,
+      "totalDebt": 27630000000.0,
+      "cash": 4210000000.0,
+      "sharesOutstanding": 4195906062.0,
+      "grossMargin": 0.3062583222370173,
+      "operatingMargin": -0.7438970261873058,
+      "netMargin": -0.8135818908122503,
+      "roe": -0.5470008952551477,
+      "roic": -0.2741249591102388
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:36.976611+00:00"
+  }
+}

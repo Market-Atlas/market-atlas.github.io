@@ -1,0 +1,128 @@
+{
+  "ticker": "NDSN",
+  "name": "Nordson Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16009437184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 287.33,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2791687000.0,
+    "operatingIncome": 724270000.0,
+    "netIncome": 484474000.0,
+    "eps": 8.51,
+    "freeCashFlow": 661115000.0,
+    "totalDebt": 2092358000.0,
+    "cash": 108442000.0,
+    "sharesOutstanding": 98023000.0
+  },
+  "ratios": {
+    "roe": 0.15917946386005125,
+    "roic": 0.1410202516428868,
+    "grossMargin": 0.5515604005749928,
+    "operatingMargin": 0.25943811036122605,
+    "netMargin": 0.1735416613681978,
+    "debtToEquity": 0.61637
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 2590278000.0,
+      "operatingIncome": 702360000.0,
+      "netIncome": 513103000.0,
+      "eps": 8.81,
+      "freeCashFlow": 461703000.0,
+      "totalDebt": 860454000.0,
+      "cash": 163457000.0,
+      "sharesOutstanding": 98023000.0,
+      "grossMargin": 0.5507269876051915,
+      "operatingMargin": 0.2711523627965801,
+      "netMargin": 0.19808800445357602,
+      "roe": 0.2236351947698175,
+      "roic": 0.222630133043661
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 2628632000.0,
+      "operatingIncome": 672761000.0,
+      "netIncome": 487493000.0,
+      "eps": 8.46,
+      "freeCashFlow": 606699000.0,
+      "totalDebt": 1862909000.0,
+      "cash": 115679000.0,
+      "sharesOutstanding": 98023000.0,
+      "grossMargin": 0.5422611457214247,
+      "operatingMargin": 0.25593578713186177,
+      "netMargin": 0.1854550199495403,
+      "roe": 0.18763731399582764,
+      "roic": 0.15081050776187865
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 2689921000.0,
+      "operatingIncome": 674001000.0,
+      "netIncome": 467284000.0,
+      "eps": 8.11,
+      "freeCashFlow": 491783000.0,
+      "totalDebt": 2320351000.0,
+      "cash": 115952000.0,
+      "sharesOutstanding": 98023000.0,
+      "grossMargin": 0.5524805375325149,
+      "operatingMargin": 0.25056535117574086,
+      "netMargin": 0.17371662587860387,
+      "roe": 0.15936337047505758,
+      "roic": 0.12831898758372848
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 2791687000.0,
+      "operatingIncome": 724270000.0,
+      "netIncome": 484474000.0,
+      "eps": 8.51,
+      "freeCashFlow": 661115000.0,
+      "totalDebt": 2092358000.0,
+      "cash": 108442000.0,
+      "sharesOutstanding": 98023000.0,
+      "grossMargin": 0.5515604005749928,
+      "operatingMargin": 0.25943811036122605,
+      "netMargin": 0.1735416613681978,
+      "roe": 0.15917946386005125,
+      "roic": 0.1410202516428868
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:59.388884+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HON",
+  "name": "Honeywell International Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "USD",
+  "marketCap": {
+    "value": 150720724992.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 237.86,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37442000000.0,
+    "operatingIncome": 6567000000.0,
+    "netIncome": 4729000000.0,
+    "eps": 7.36,
+    "freeCashFlow": 5422000000.0,
+    "totalDebt": 35563000000.0,
+    "cash": 12487000000.0,
+    "sharesOutstanding": 957587208.0
+  },
+  "ratios": {
+    "roe": 0.3401179516685846,
+    "roic": 0.13275517011340893,
+    "grossMargin": 0.3693445862934672,
+    "operatingMargin": 0.17539127183376957,
+    "netMargin": 0.12630201378131511,
+    "debtToEquity": 2.57387
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 35466000000.0,
+      "operatingIncome": 6427000000.0,
+      "netIncome": 4966000000.0,
+      "eps": 7.27,
+      "freeCashFlow": 4508000000.0,
+      "totalDebt": 20537000000.0,
+      "cash": 9627000000.0,
+      "sharesOutstanding": 957600000.0,
+      "grossMargin": 0.3699035696159702,
+      "operatingMargin": 0.18121581232729939,
+      "netMargin": 0.14002142897422884,
+      "roe": 0.29741869796969517,
+      "roic": 0.1726110544126336
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33009000000.0,
+      "operatingIncome": 6110000000.0,
+      "netIncome": 5658000000.0,
+      "eps": 8.47,
+      "freeCashFlow": 4599000000.0,
+      "totalDebt": 21536000000.0,
+      "cash": 7925000000.0,
+      "sharesOutstanding": 957600000.0,
+      "grossMargin": 0.37480687085340364,
+      "operatingMargin": 0.18510103305159198,
+      "netMargin": 0.1714077978733073,
+      "roe": 0.3568365287588295,
+      "roic": 0.16340393667094566
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 34717000000.0,
+      "operatingIncome": 6668000000.0,
+      "netIncome": 5705000000.0,
+      "eps": 8.71,
+      "freeCashFlow": 5226000000.0,
+      "totalDebt": 32077000000.0,
+      "cash": 9906000000.0,
+      "sharesOutstanding": 957600000.0,
+      "grossMargin": 0.38473946481550825,
+      "operatingMargin": 0.19206728691995276,
+      "netMargin": 0.16432871503874183,
+      "roe": 0.30640743326709274,
+      "roic": 0.13152911472305506
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 37442000000.0,
+      "operatingIncome": 6567000000.0,
+      "netIncome": 4729000000.0,
+      "eps": 7.36,
+      "freeCashFlow": 5422000000.0,
+      "totalDebt": 35563000000.0,
+      "cash": 12487000000.0,
+      "sharesOutstanding": 957587208.0,
+      "grossMargin": 0.3693445862934672,
+      "operatingMargin": 0.17539127183376957,
+      "netMargin": 0.12630201378131511,
+      "roe": 0.3401179516685846,
+      "roic": 0.13275517011340893
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.674502+00:00"
+  }
+}

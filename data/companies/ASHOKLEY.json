@@ -1,0 +1,128 @@
+{
+  "ticker": "ASHOKLEY",
+  "name": "Ashok Leyland Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 913031954432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 155.44,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 560760300000.0,
+    "operatingIncome": 108416800000.0,
+    "netIncome": 34710300000.0,
+    "eps": 5.91,
+    "freeCashFlow": -78401900000.0,
+    "totalDebt": 639357000000.0,
+    "cash": 62808900000.0,
+    "sharesOutstanding": 5873854552.0
+  },
+  "ratios": {
+    "roe": 0.24372318172913468,
+    "roic": 0.13868050596214584,
+    "grossMargin": 0.3962491638584258,
+    "operatingMargin": 0.19333893644040065,
+    "netMargin": 0.061898640114145025,
+    "debtToEquity": 3.4473700000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 414883000000.0,
+      "operatingIncome": 48394600000.0,
+      "netIncome": 12387100000.0,
+      "eps": 2.105,
+      "freeCashFlow": -54283600000.0,
+      "totalDebt": 311609300000.0,
+      "cash": 19085800000.0,
+      "sharesOutstanding": 5872254552.0,
+      "grossMargin": 0.30256120400209213,
+      "operatingMargin": 0.11664637982274521,
+      "netMargin": 0.029856851208654007,
+      "roe": 0.14484854579642084,
+      "roic": 0.12186180286452516
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 455172600000.0,
+      "operatingIncome": 75011300000.0,
+      "netIncome": 24835200000.0,
+      "eps": 4.225,
+      "freeCashFlow": -73915200000.0,
+      "totalDebt": 408021800000.0,
+      "cash": 52173200000.0,
+      "sharesOutstanding": 5872654552.0,
+      "grossMargin": 0.35526083951450504,
+      "operatingMargin": 0.16479748561314983,
+      "netMargin": 0.05456215949729839,
+      "roe": 0.2758050867221493,
+      "roic": 0.15060453592682124
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 483417600000.0,
+      "operatingIncome": 87730500000.0,
+      "netIncome": 31068000000.0,
+      "eps": 5.28,
+      "freeCashFlow": -15196100000.0,
+      "totalDebt": 499621100000.0,
+      "cash": 65447700000.0,
+      "sharesOutstanding": 5873054552.0,
+      "grossMargin": 0.38604717743003153,
+      "operatingMargin": 0.18147973925649377,
+      "netMargin": 0.06426741599809357,
+      "roe": 0.2539876668664145,
+      "roic": 0.14105897334478135
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 560760300000.0,
+      "operatingIncome": 108416800000.0,
+      "netIncome": 34710300000.0,
+      "eps": 5.91,
+      "freeCashFlow": -78401900000.0,
+      "totalDebt": 639357000000.0,
+      "cash": 62808900000.0,
+      "sharesOutstanding": 5873854552.0,
+      "grossMargin": 0.3962491638584258,
+      "operatingMargin": 0.19333893644040065,
+      "netMargin": 0.061898640114145025,
+      "roe": 0.24372318172913468,
+      "roic": 0.13868050596214584
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:54.869728+00:00"
+  }
+}

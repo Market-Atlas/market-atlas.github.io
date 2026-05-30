@@ -1,0 +1,128 @@
+{
+  "ticker": "EMAMILTD",
+  "name": "Emami Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 174207156224.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 399.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37795100000.0,
+    "operatingIncome": 7863100000.0,
+    "netIncome": 7752700000.0,
+    "eps": null,
+    "freeCashFlow": 7572100000.0,
+    "totalDebt": 1619200000.0,
+    "cash": 1767500000.0,
+    "sharesOutstanding": 436500000.0
+  },
+  "ratios": {
+    "roe": 0.26514203243524237,
+    "roic": 0.2548073495576655,
+    "grossMargin": 0.6989001219734834,
+    "operatingMargin": 0.20804548737799344,
+    "netMargin": 0.20512447380745122,
+    "debtToEquity": 0.05541
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.88,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33620094000.0,
+      "operatingIncome": 6155062000.0,
+      "netIncome": 6395720000.0,
+      "eps": 14.5,
+      "freeCashFlow": 7084171000.0,
+      "totalDebt": 905080000.0,
+      "cash": 467850000.0,
+      "sharesOutstanding": 441226228.0,
+      "grossMargin": 0.6360001254011961,
+      "operatingMargin": 0.18307688253340398,
+      "netMargin": 0.19023504217448053,
+      "roe": 0.27773668046450756,
+      "roic": 0.2571780254433623
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 35302681000.0,
+      "operatingIncome": 7654416000.0,
+      "netIncome": 7235297000.0,
+      "eps": 16.55,
+      "freeCashFlow": 7384207000.0,
+      "totalDebt": 939559000.0,
+      "cash": 529539000.0,
+      "sharesOutstanding": 436500000.0,
+      "grossMargin": 0.6651425142470058,
+      "operatingMargin": 0.2168225127151108,
+      "netMargin": 0.20495035490364033,
+      "roe": 0.2957301064065591,
+      "roic": 0.3012904560039469
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 38091900000.0,
+      "operatingIncome": 8469000000.0,
+      "netIncome": 8064600000.0,
+      "eps": 18.48,
+      "freeCashFlow": 8513100000.0,
+      "totalDebt": 897909000.0,
+      "cash": 1046251000.0,
+      "sharesOutstanding": 436500000.0,
+      "grossMargin": 0.6864871534368199,
+      "operatingMargin": 0.22233073173036788,
+      "netMargin": 0.21171430146566592,
+      "roe": 0.2992660400730609,
+      "roic": 0.3041388088230636
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 37795100000.0,
+      "operatingIncome": 7863100000.0,
+      "netIncome": 7752700000.0,
+      "eps": null,
+      "freeCashFlow": 7572100000.0,
+      "totalDebt": 1619200000.0,
+      "cash": 1767500000.0,
+      "sharesOutstanding": 436500000.0,
+      "grossMargin": 0.6989001219734834,
+      "operatingMargin": 0.20804548737799344,
+      "netMargin": 0.20512447380745122,
+      "roe": 0.26514203243524237,
+      "roic": 0.2548073495576655
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:38.052574+00:00"
+  }
+}

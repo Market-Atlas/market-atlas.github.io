@@ -1,0 +1,128 @@
+{
+  "ticker": "ERIS",
+  "name": "Eris Lifesciences Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 193855602688.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1399.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31148900000.0,
+    "operatingIncome": 8405800000.0,
+    "netIncome": 6195000000.0,
+    "eps": 45.26,
+    "freeCashFlow": 2411300000.0,
+    "totalDebt": 23586200000.0,
+    "cash": 547400000.0,
+    "sharesOutstanding": 138542887.0
+  },
+  "ratios": {
+    "roe": 0.15873747972541874,
+    "roic": 0.13425029027564608,
+    "grossMargin": 0.7445816706207924,
+    "operatingMargin": 0.26985864669378373,
+    "netMargin": 0.1988834276651824,
+    "debtToEquity": 0.60545
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 16618160000.0,
+      "operatingIncome": 4221910000.0,
+      "netIncome": 3821580000.0,
+      "eps": 28.07,
+      "freeCashFlow": -5496830000.0,
+      "totalDebt": 8767110000.0,
+      "cash": 559460000.0,
+      "sharesOutstanding": 135992238.0,
+      "grossMargin": 0.7851278360540517,
+      "operatingMargin": 0.25405399875798523,
+      "netMargin": 0.2299640874802024,
+      "roe": 0.17402554112317553,
+      "roic": 0.13740070211888636
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 19913000000.0,
+      "operatingIncome": 4954100000.0,
+      "netIncome": 3920500000.0,
+      "eps": 28.79,
+      "freeCashFlow": 3568500000.0,
+      "totalDebt": 27812800000.0,
+      "cash": 941400000.0,
+      "sharesOutstanding": 136028280.0,
+      "grossMargin": 0.805333199417466,
+      "operatingMargin": 0.2487872244262542,
+      "netMargin": 0.1968814342389394,
+      "roe": 0.15159424324679643,
+      "roic": 0.0922987781930373
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28792600000.0,
+      "operatingIncome": 7017400000.0,
+      "netIncome": 3518400000.0,
+      "eps": 25.81,
+      "freeCashFlow": 9100100000.0,
+      "totalDebt": 24779200000.0,
+      "cash": 1996400000.0,
+      "sharesOutstanding": 136162569.0,
+      "grossMargin": 0.7520230892659919,
+      "operatingMargin": 0.2437223453248404,
+      "netMargin": 0.12219806478053388,
+      "roe": 0.12326405919365462,
+      "roic": 0.13160224144268493
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 31148900000.0,
+      "operatingIncome": 8405800000.0,
+      "netIncome": 6195000000.0,
+      "eps": 45.26,
+      "freeCashFlow": 2411300000.0,
+      "totalDebt": 23586200000.0,
+      "cash": 547400000.0,
+      "sharesOutstanding": 138542887.0,
+      "grossMargin": 0.7445816706207924,
+      "operatingMargin": 0.26985864669378373,
+      "netMargin": 0.1988834276651824,
+      "roe": 0.15873747972541874,
+      "roic": 0.13425029027564608
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:39.882756+00:00"
+  }
+}

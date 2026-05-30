@@ -1,0 +1,128 @@
+{
+  "ticker": "SBILIFE",
+  "name": "SBI Life Insurance Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1835904139264.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1830.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1122911100000.0,
+    "operatingIncome": null,
+    "netIncome": 24703000000.0,
+    "eps": 24.62,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": 32079400000.0,
+    "sharesOutstanding": 1003092121.0
+  },
+  "ratios": {
+    "roe": 0.12942994865346327,
+    "roic": null,
+    "grossMargin": 0.08375,
+    "operatingMargin": 0.21172,
+    "netMargin": 0.02199907009557569,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 806390392000.0,
+      "operatingIncome": null,
+      "netIncome": 17205724000.0,
+      "eps": 17.18,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 15912241000.0,
+      "sharesOutstanding": 1000894759.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02133671751386641,
+      "roe": 0.13217397856072335,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1309255600000.0,
+      "operatingIncome": null,
+      "netIncome": 18937800000.0,
+      "eps": 18.9,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 47406300000.0,
+      "sharesOutstanding": 1001465465.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.014464555278587313,
+      "roe": 0.12702635264572837,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1169198900000.0,
+      "operatingIncome": null,
+      "netIncome": 24133000000.0,
+      "eps": 24.07,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 17835800000.0,
+      "sharesOutstanding": 1002135083.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02064062838239071,
+      "roe": 0.14208126414822184,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1122911100000.0,
+      "operatingIncome": null,
+      "netIncome": 24703000000.0,
+      "eps": 24.62,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 32079400000.0,
+      "sharesOutstanding": 1003092121.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02199907009557569,
+      "roe": 0.12942994865346327,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.968509+00:00"
+  }
+}

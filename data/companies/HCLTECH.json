@@ -1,0 +1,128 @@
+{
+  "ticker": "HCLTECH",
+  "name": "HCL Technologies Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 3202951413760.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1183.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1301440000000.0,
+    "operatingIncome": 408190000000.0,
+    "netIncome": 166420000000.0,
+    "eps": null,
+    "freeCashFlow": 185530000000.0,
+    "totalDebt": 52150000000.0,
+    "cash": 82650000000.0,
+    "sharesOutstanding": 2713665096.0
+  },
+  "ratios": {
+    "roe": 0.2214062396061997,
+    "roic": 0.507825329684001,
+    "grossMargin": 0.4102532579296779,
+    "operatingMargin": 0.3136448856651094,
+    "netMargin": 0.12787373985738873,
+    "debtToEquity": 0.06935
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 49.77,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1014560000000.0,
+      "operatingIncome": 334330000000.0,
+      "netIncome": 148510000000.0,
+      "eps": 54.79,
+      "freeCashFlow": 163480000000.0,
+      "totalDebt": 47860000000.0,
+      "cash": 90570000000.0,
+      "sharesOutstanding": 2713665096.0,
+      "grossMargin": 0.425149818640593,
+      "operatingMargin": 0.32953201387793724,
+      "netMargin": 0.1463787257530358,
+      "roe": 0.22706215121168105,
+      "roic": 0.47631462723141144
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1099130000000.0,
+      "operatingIncome": 346050000000.0,
+      "netIncome": 157020000000.0,
+      "eps": 57.86,
+      "freeCashFlow": 214000000000.0,
+      "totalDebt": 57560000000.0,
+      "cash": 94410000000.0,
+      "sharesOutstanding": 2713665096.0,
+      "grossMargin": 0.4089416174610829,
+      "operatingMargin": 0.3148399188449046,
+      "netMargin": 0.14285844258640926,
+      "roe": 0.2300221203287286,
+      "roic": 0.46751509747497266
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1170550000000.0,
+      "operatingIncome": 365820000000.0,
+      "netIncome": 173900000000.0,
+      "eps": 64.09,
+      "freeCashFlow": 211530000000.0,
+      "totalDebt": 62790000000.0,
+      "cash": 82260000000.0,
+      "sharesOutstanding": 2713665096.0,
+      "grossMargin": 0.4123873392849515,
+      "operatingMargin": 0.31251975567041135,
+      "netMargin": 0.1485626414933151,
+      "roe": 0.24965903380948962,
+      "roic": 0.48176047620301843
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1301440000000.0,
+      "operatingIncome": 408190000000.0,
+      "netIncome": 166420000000.0,
+      "eps": null,
+      "freeCashFlow": 185530000000.0,
+      "totalDebt": 52150000000.0,
+      "cash": 82650000000.0,
+      "sharesOutstanding": 2713665096.0,
+      "grossMargin": 0.4102532579296779,
+      "operatingMargin": 0.3136448856651094,
+      "netMargin": 0.12787373985738873,
+      "roe": 0.2214062396061997,
+      "roic": 0.507825329684001
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.344638+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "EMCURE",
+  "name": "EMCURE PHARMACEUTICALS L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 321662615552.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1696.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 92035400000.0,
+    "operatingIncome": 13735610000.0,
+    "netIncome": 9243610000.0,
+    "eps": 48.77,
+    "freeCashFlow": 3958580000.0,
+    "totalDebt": 15212410000.0,
+    "cash": 1366580000.0,
+    "sharesOutstanding": 189589547.0
+  },
+  "ratios": {
+    "roe": 0.18673838876193125,
+    "roic": 0.2122551467076107,
+    "grossMargin": 0.6026461557183431,
+    "operatingMargin": 0.1492426827068715,
+    "netMargin": 0.10043537595316585,
+    "debtToEquity": 0.30567
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 59310760000.0,
+      "operatingIncome": 9406260000.0,
+      "netIncome": 5320190000.0,
+      "eps": 29.427009,
+      "freeCashFlow": 3434890000.0,
+      "totalDebt": 23343040000.0,
+      "cash": 563660000.0,
+      "sharesOutstanding": 189098347.0,
+      "grossMargin": 0.5939871618573088,
+      "operatingMargin": 0.158592808454992,
+      "netMargin": 0.0897002500052267,
+      "roe": 0.2127117946077087,
+      "roic": 0.19452789100452286
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 65819920000.0,
+      "operatingIncome": 9173160000.0,
+      "netIncome": 4981830000.0,
+      "eps": 27.566646,
+      "freeCashFlow": 7901080000.0,
+      "totalDebt": 23349710000.0,
+      "cash": 1089570000.0,
+      "sharesOutstanding": 189098347.0,
+      "grossMargin": 0.6035277770012483,
+      "operatingMargin": 0.13936753493471277,
+      "netMargin": 0.0756887884397307,
+      "roe": 0.16874500174949353,
+      "roic": 0.17349573143261132
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 78959970000.0,
+      "operatingIncome": 10847260000.0,
+      "netIncome": 6813320000.0,
+      "eps": 36.43,
+      "freeCashFlow": 4447780000.0,
+      "totalDebt": 10227490000.0,
+      "cash": 1218240000.0,
+      "sharesOutstanding": 189483347.0,
+      "grossMargin": 0.6014938962109535,
+      "operatingMargin": 0.13737669859803645,
+      "netMargin": 0.08628827999808004,
+      "roe": 0.1532396530419555,
+      "roic": 0.19834318747617224
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 92035400000.0,
+      "operatingIncome": 13735610000.0,
+      "netIncome": 9243610000.0,
+      "eps": 48.77,
+      "freeCashFlow": 3958580000.0,
+      "totalDebt": 15212410000.0,
+      "cash": 1366580000.0,
+      "sharesOutstanding": 189589547.0,
+      "grossMargin": 0.6026461557183431,
+      "operatingMargin": 0.1492426827068715,
+      "netMargin": 0.10043537595316585,
+      "roe": 0.18673838876193125,
+      "roic": 0.2122551467076107
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:38.140996+00:00"
+  }
+}

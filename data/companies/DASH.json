@@ -1,0 +1,128 @@
+{
+  "ticker": "DASH",
+  "name": "DoorDash, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 69405630464.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 159.29,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13717000000.0,
+    "operatingIncome": 725000000.0,
+    "netIncome": 935000000.0,
+    "eps": null,
+    "freeCashFlow": 1826000000.0,
+    "totalDebt": 3290000000.0,
+    "cash": 4378000000.0,
+    "sharesOutstanding": 434247000.0
+  },
+  "ratios": {
+    "roe": 0.09319246486594239,
+    "roic": 0.05441717330931472,
+    "grossMargin": 0.5087847196908946,
+    "operatingMargin": 0.052854122621564484,
+    "netMargin": 0.0681635926222935,
+    "debtToEquity": 0.32194
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.39,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6583000000.0,
+      "operatingIncome": -1032000000.0,
+      "netIncome": -1365000000.0,
+      "eps": -3.68,
+      "freeCashFlow": 21000000.0,
+      "totalDebt": 511000000.0,
+      "cash": 1977000000.0,
+      "sharesOutstanding": 391471000.0,
+      "grossMargin": 0.4549597447972049,
+      "operatingMargin": -0.1567674312623424,
+      "netMargin": -0.20735227100106335,
+      "roe": -0.20210245780278355,
+      "roic": -0.1420509291121817
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8635000000.0,
+      "operatingIncome": -577000000.0,
+      "netIncome": -558000000.0,
+      "eps": -1.42,
+      "freeCashFlow": 1349000000.0,
+      "totalDebt": 522000000.0,
+      "cash": 2656000000.0,
+      "sharesOutstanding": 403228000.0,
+      "grossMargin": 0.4685581933989577,
+      "operatingMargin": -0.06682107701215982,
+      "netMargin": -0.06462072958888246,
+      "roe": -0.08198648251542756,
+      "roic": -0.07873908296943231
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10722000000.0,
+      "operatingIncome": -38000000.0,
+      "netIncome": 123000000.0,
+      "eps": 0.3,
+      "freeCashFlow": 1802000000.0,
+      "totalDebt": 536000000.0,
+      "cash": 4019000000.0,
+      "sharesOutstanding": 419677000.0,
+      "grossMargin": 0.48311882111546356,
+      "operatingMargin": -0.003544114903935833,
+      "netMargin": 0.011471740346950195,
+      "roe": 0.015763168012302962,
+      "roic": -0.004556901307111164
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13717000000.0,
+      "operatingIncome": 725000000.0,
+      "netIncome": 935000000.0,
+      "eps": null,
+      "freeCashFlow": 1826000000.0,
+      "totalDebt": 3290000000.0,
+      "cash": 4378000000.0,
+      "sharesOutstanding": 434247000.0,
+      "grossMargin": 0.5087847196908946,
+      "operatingMargin": 0.052854122621564484,
+      "netMargin": 0.0681635926222935,
+      "roe": 0.09319246486594239,
+      "roic": 0.05441717330931472
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:09.208849+00:00"
+  }
+}

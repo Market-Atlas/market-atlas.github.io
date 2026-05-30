@@ -1,0 +1,128 @@
+{
+  "ticker": "LOW",
+  "name": "Lowe's Companies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 120255963136.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 214.36,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 86286000000.0,
+    "operatingIncome": 10153000000.0,
+    "netIncome": 6654000000.0,
+    "eps": 11.85,
+    "freeCashFlow": 7651000000.0,
+    "totalDebt": 44677000000.0,
+    "cash": 982000000.0,
+    "sharesOutstanding": 560951457.0
+  },
+  "ratios": {
+    "roe": -0.6709690430573763,
+    "roic": 0.2920886075949367,
+    "grossMargin": 0.334758825301903,
+    "operatingMargin": 0.11766682891778504,
+    "netMargin": 0.0771156386899381,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 97059000000.0,
+      "operatingIncome": 10159000000.0,
+      "netIncome": 6437000000.0,
+      "eps": 10.17,
+      "freeCashFlow": 6760000000.0,
+      "totalDebt": 37994000000.0,
+      "cash": 1348000000.0,
+      "sharesOutstanding": 601000000.0,
+      "grossMargin": 0.33234424422258624,
+      "operatingMargin": 0.10466829454249477,
+      "netMargin": 0.06632048547790519,
+      "roe": -0.45159253542865163,
+      "roic": 0.42792754844144903
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 86377000000.0,
+      "operatingIncome": 11557000000.0,
+      "netIncome": 7726000000.0,
+      "eps": 13.2,
+      "freeCashFlow": 6176000000.0,
+      "totalDebt": 40145000000.0,
+      "cash": 921000000.0,
+      "sharesOutstanding": 574000000.0,
+      "grossMargin": 0.3339314863910532,
+      "operatingMargin": 0.1337971913819651,
+      "netMargin": 0.08944510691503525,
+      "roe": -0.5133554817275747,
+      "roic": 0.4605299860529986
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 83674000000.0,
+      "operatingIncome": 10466000000.0,
+      "netIncome": 6957000000.0,
+      "eps": 12.23,
+      "freeCashFlow": 7698000000.0,
+      "totalDebt": 39678000000.0,
+      "cash": 1761000000.0,
+      "sharesOutstanding": 560000000.0,
+      "grossMargin": 0.33316203360661617,
+      "operatingMargin": 0.12508067022014008,
+      "netMargin": 0.08314410689102947,
+      "roe": -0.4888623427728199,
+      "roic": 0.41128620269579913
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 86286000000.0,
+      "operatingIncome": 10153000000.0,
+      "netIncome": 6654000000.0,
+      "eps": 11.85,
+      "freeCashFlow": 7651000000.0,
+      "totalDebt": 44677000000.0,
+      "cash": 982000000.0,
+      "sharesOutstanding": 560951457.0,
+      "grossMargin": 0.334758825301903,
+      "operatingMargin": 0.11766682891778504,
+      "netMargin": 0.0771156386899381,
+      "roe": -0.6709690430573763,
+      "roic": 0.2920886075949367
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:49.821041+00:00"
+  }
+}

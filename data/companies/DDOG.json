@@ -1,0 +1,111 @@
+{
+  "ticker": "DDOG",
+  "name": "Datadog, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 88046755840.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 247.35,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3427158000.0,
+    "operatingIncome": -44373000.0,
+    "netIncome": 107741000.0,
+    "eps": 0.31,
+    "freeCashFlow": 914717000.0,
+    "totalDebt": 1279005000.0,
+    "cash": 401305000.0,
+    "sharesOutstanding": 352525971.0
+  },
+  "ratios": {
+    "roe": 0.02886791350745377,
+    "roic": -0.008854745888768204,
+    "grossMargin": 0.7995549081775629,
+    "operatingMargin": -0.012947462591453327,
+    "netMargin": 0.03143741840907247,
+    "debtToEquity": 0.32220999999999994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1675100000.0,
+      "operatingIncome": -58695000.0,
+      "netIncome": -50160000.0,
+      "eps": -0.16,
+      "freeCashFlow": 353518000.0,
+      "totalDebt": 837521000.0,
+      "cash": 338985000.0,
+      "sharesOutstanding": 319189843.0,
+      "grossMargin": 0.793001611844069,
+      "operatingMargin": -0.035039699122440454,
+      "netMargin": -0.02994448092651185,
+      "roe": -0.03556173143661313,
+      "roic": -0.02610957346578732
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2128359000.0,
+      "operatingIncome": -33464000.0,
+      "netIncome": 48568000.0,
+      "eps": 0.14,
+      "freeCashFlow": 597548000.0,
+      "totalDebt": 902337000.0,
+      "cash": 330339000.0,
+      "sharesOutstanding": 331079746.0,
+      "grossMargin": 0.8074065512444094,
+      "operatingMargin": -0.015722911407333066,
+      "netMargin": 0.022819458559387773,
+      "roe": 0.023980005470648588,
+      "roic": -0.011430168006118131
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2684275000.0,
+      "operatingIncome": 54284000.0,
+      "netIncome": 183746000.0,
+      "eps": 0.52,
+      "freeCashFlow": 775103000.0,
+      "totalDebt": 1842180000.0,
+      "cash": 1246983000.0,
+      "sharesOutstanding": 342118782.0,
+      "grossMargin": 0.8079440444812845,
+      "operatingMargin": 0.020222965232697843,
+      "netMargin": 0.06845274794870124,
+      "roe": 0.06769396724019595,
+      "roic": 0.01191341769407202
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3427158000.0,
+      "operatingIncome": -44373000.0,
+      "netIncome": 107741000.0,
+      "eps": 0.31,
+      "freeCashFlow": 914717000.0,
+      "totalDebt": 1279005000.0,
+      "cash": 401305000.0,
+      "sharesOutstanding": 352525971.0,
+      "grossMargin": 0.7995549081775629,
+      "operatingMargin": -0.012947462591453327,
+      "netMargin": 0.03143741840907247,
+      "roe": 0.02886791350745377,
+      "roic": -0.008854745888768204
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:10.256191+00:00"
+  }
+}

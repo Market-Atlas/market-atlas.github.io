@@ -1,0 +1,128 @@
+{
+  "ticker": "CBRE",
+  "name": "CBRE Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 36613783552.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 125.04,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40550000000.0,
+    "operatingIncome": 1294000000.0,
+    "netIncome": 1157000000.0,
+    "eps": 3.85,
+    "freeCashFlow": 1193000000.0,
+    "totalDebt": 9991000000.0,
+    "cash": 1864000000.0,
+    "sharesOutstanding": 295731478.0
+  },
+  "ratios": {
+    "roe": 0.1303221446271683,
+    "roic": 0.06857809104881021,
+    "grossMargin": 0.18658446362515413,
+    "operatingMargin": 0.03191122071516646,
+    "netMargin": 0.028532675709001233,
+    "debtToEquity": 1.13689
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 30828000000.0,
+      "operatingIncome": 1327000000.0,
+      "netIncome": 1407000000.0,
+      "eps": 4.29,
+      "freeCashFlow": 1369000000.0,
+      "totalDebt": 3493000000.0,
+      "cash": 1318000000.0,
+      "sharesOutstanding": 311014160.0,
+      "grossMargin": 0.21373426754898145,
+      "operatingMargin": 0.04304528350849877,
+      "netMargin": 0.04564032697547684,
+      "roe": 0.17916719724945881,
+      "roic": 0.1169575180680416
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 31949000000.0,
+      "operatingIncome": 1090000000.0,
+      "netIncome": 986000000.0,
+      "eps": 3.15,
+      "freeCashFlow": 175000000.0,
+      "totalDebt": 4826000000.0,
+      "cash": 1265000000.0,
+      "sharesOutstanding": 304889140.0,
+      "grossMargin": 0.19637547341074837,
+      "operatingMargin": 0.03411687376756706,
+      "netMargin": 0.030861685811762497,
+      "roe": 0.1192693842990202,
+      "roic": 0.08325059191934621
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 35767000000.0,
+      "operatingIncome": 1271000000.0,
+      "netIncome": 968000000.0,
+      "eps": 3.14,
+      "freeCashFlow": 1401000000.0,
+      "totalDebt": 5694000000.0,
+      "cash": 1114000000.0,
+      "sharesOutstanding": 302052229.0,
+      "grossMargin": 0.19448094612352168,
+      "operatingMargin": 0.03553554952889535,
+      "netMargin": 0.027064053457097323,
+      "roe": 0.11508738556652004,
+      "roic": 0.09010989010989011
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40550000000.0,
+      "operatingIncome": 1294000000.0,
+      "netIncome": 1157000000.0,
+      "eps": 3.85,
+      "freeCashFlow": 1193000000.0,
+      "totalDebt": 9991000000.0,
+      "cash": 1864000000.0,
+      "sharesOutstanding": 295731478.0,
+      "grossMargin": 0.18658446362515413,
+      "operatingMargin": 0.03191122071516646,
+      "netMargin": 0.028532675709001233,
+      "roe": 0.1303221446271683,
+      "roic": 0.06857809104881021
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:56.624347+00:00"
+  }
+}

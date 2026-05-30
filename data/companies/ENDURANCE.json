@@ -1,0 +1,128 @@
+{
+  "ticker": "ENDURANCE",
+  "name": "Endurance Technologies Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 382968692736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2722.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 145958800000.0,
+    "operatingIncome": 12314200000.0,
+    "netIncome": 9517100000.0,
+    "eps": null,
+    "freeCashFlow": 5549100000.0,
+    "totalDebt": 13266600000.0,
+    "cash": 8747700000.0,
+    "sharesOutstanding": 140662848.0
+  },
+  "ratios": {
+    "roe": 0.13912221049523302,
+    "roic": 0.15077110687751913,
+    "grossMargin": 0.42328246052995777,
+    "operatingMargin": 0.08436764347199346,
+    "netMargin": 0.06520401647588224,
+    "debtToEquity": 0.19393000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 32.75,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 86760610000.0,
+      "operatingIncome": 6165580000.0,
+      "netIncome": 4795750000.0,
+      "eps": 34.09,
+      "freeCashFlow": 2257320000.0,
+      "totalDebt": 5147640000.0,
+      "cash": 2876610000.0,
+      "sharesOutstanding": 140662848.0,
+      "grossMargin": 0.3549964667145609,
+      "operatingMargin": 0.0710642767495526,
+      "netMargin": 0.05527566023337088,
+      "roe": 0.10869469138368348,
+      "roic": 0.12514134161224935
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 100824970000.0,
+      "operatingIncome": 8608390000.0,
+      "netIncome": 6804880000.0,
+      "eps": 48.38,
+      "freeCashFlow": 2222590000.0,
+      "totalDebt": 7653400000.0,
+      "cash": 5046260000.0,
+      "sharesOutstanding": 140662848.0,
+      "grossMargin": 0.3695485354471219,
+      "operatingMargin": 0.08537954437278782,
+      "netMargin": 0.0674920111555699,
+      "roe": 0.13671442815695856,
+      "roic": 0.14989932577961793
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 115608100000.0,
+      "operatingIncome": 10123700000.0,
+      "netIncome": 8363500000.0,
+      "eps": 59.46,
+      "freeCashFlow": 4782700000.0,
+      "totalDebt": 9436710000.0,
+      "cash": 10188590000.0,
+      "sharesOutstanding": 140662848.0,
+      "grossMargin": 0.4288358687669809,
+      "operatingMargin": 0.0875691236167708,
+      "netMargin": 0.07234354686220083,
+      "roe": 0.14628111720399564,
+      "roic": 0.15198270192237393
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 145958800000.0,
+      "operatingIncome": 12314200000.0,
+      "netIncome": 9517100000.0,
+      "eps": null,
+      "freeCashFlow": 5549100000.0,
+      "totalDebt": 13266600000.0,
+      "cash": 8747700000.0,
+      "sharesOutstanding": 140662848.0,
+      "grossMargin": 0.42328246052995777,
+      "operatingMargin": 0.08436764347199346,
+      "netMargin": 0.06520401647588224,
+      "roe": 0.13912221049523302,
+      "roic": 0.15077110687751913
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:39.028728+00:00"
+  }
+}

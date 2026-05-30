@@ -1,0 +1,111 @@
+{
+  "ticker": "SJM",
+  "name": "The J. M. Smucker Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11006106624.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 103.2,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8726100000.0,
+    "operatingIncome": 1654500000.0,
+    "netIncome": -1230800000.0,
+    "eps": -11.57,
+    "freeCashFlow": 816600000.0,
+    "totalDebt": 7761700000.0,
+    "cash": 69900000.0,
+    "sharesOutstanding": 150487645.0
+  },
+  "ratios": {
+    "roe": -0.20234768026830632,
+    "roic": 0.11950766741547063,
+    "grossMargin": 0.38788233002142997,
+    "operatingMargin": 0.189603602984151,
+    "netMargin": -0.1410481200077927,
+    "debtToEquity": 1.43204
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 7998900000.0,
+      "operatingIncome": 1172600000.0,
+      "netIncome": 631700000.0,
+      "eps": 5.83,
+      "freeCashFlow": 718800000.0,
+      "totalDebt": 4606900000.0,
+      "cash": 169900000.0,
+      "sharesOutstanding": 146497730.0,
+      "grossMargin": 0.33763392466464137,
+      "operatingMargin": 0.14659515683406468,
+      "netMargin": 0.07897335883684006,
+      "roe": 0.07760346924484957,
+      "roic": 0.09199027222091473
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 8529200000.0,
+      "operatingIncome": 1180700000.0,
+      "netIncome": -91300000.0,
+      "eps": -0.86,
+      "freeCashFlow": 717000000.0,
+      "totalDebt": 4424600000.0,
+      "cash": 655800000.0,
+      "sharesOutstanding": 146497730.0,
+      "grossMargin": 0.32849505229095344,
+      "operatingMargin": 0.13843033344276134,
+      "netMargin": -0.010704403695540028,
+      "roe": -0.01252263126131563,
+      "roic": 0.100781876845861
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 8178700000.0,
+      "operatingIncome": 1448900000.0,
+      "netIncome": 744000000.0,
+      "eps": 7.13,
+      "freeCashFlow": 642900000.0,
+      "totalDebt": 8507500000.0,
+      "cash": 62000000.0,
+      "sharesOutstanding": 150487645.0,
+      "grossMargin": 0.3809162825387898,
+      "operatingMargin": 0.17715529362857177,
+      "netMargin": 0.09096800224974629,
+      "roe": 0.09669998310349757,
+      "roic": 0.08943054303949041
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 8726100000.0,
+      "operatingIncome": 1654500000.0,
+      "netIncome": -1230800000.0,
+      "eps": -11.57,
+      "freeCashFlow": 816600000.0,
+      "totalDebt": 7761700000.0,
+      "cash": 69900000.0,
+      "sharesOutstanding": 150487645.0,
+      "grossMargin": 0.38788233002142997,
+      "operatingMargin": 0.189603602984151,
+      "netMargin": -0.1410481200077927,
+      "roe": -0.20234768026830632,
+      "roic": 0.11950766741547063
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:18.657169+00:00"
+  }
+}

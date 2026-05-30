@@ -1,0 +1,128 @@
+{
+  "ticker": "UPL",
+  "name": "UPL Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 545039220736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 644.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 518390000000.0,
+    "operatingIncome": 70940000000.0,
+    "netIncome": 19220000000.0,
+    "eps": 22.32,
+    "freeCashFlow": 54490000000.0,
+    "totalDebt": 235760000000.0,
+    "cash": 59750000000.0,
+    "sharesOutstanding": 844433596.0
+  },
+  "ratios": {
+    "roe": 0.055395434632234265,
+    "roic": 0.1217394288852279,
+    "grossMargin": 0.5005497791238257,
+    "operatingMargin": 0.136846775593665,
+    "netMargin": 0.037076332490981696,
+    "debtToEquity": 0.57128
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 531340000000.0,
+      "operatingIncome": 87500000000.0,
+      "netIncome": 35700000000.0,
+      "eps": 43.923751,
+      "freeCashFlow": 53910000000.0,
+      "totalDebt": 239390000000.0,
+      "cash": 59670000000.0,
+      "sharesOutstanding": 782499749.0,
+      "grossMargin": 0.48016336056009334,
+      "operatingMargin": 0.16467798396506944,
+      "netMargin": 0.06718861745774833,
+      "roe": 0.11962203457981503,
+      "roic": 0.1626908130822007
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 425990000000.0,
+      "operatingIncome": 28480000000.0,
+      "netIncome": -12000000000.0,
+      "eps": -17.45,
+      "freeCashFlow": 3260000000.0,
+      "totalDebt": 297540000000.0,
+      "cash": 59430000000.0,
+      "sharesOutstanding": 782499749.0,
+      "grossMargin": 0.418601375619146,
+      "operatingMargin": 0.0668560294842602,
+      "netMargin": -0.028169675344491656,
+      "roe": -0.04317633936602742,
+      "roic": 0.04948998210158653
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 466370000000.0,
+      "operatingIncome": 56100000000.0,
+      "netIncome": 8970000000.0,
+      "eps": 9.62,
+      "freeCashFlow": 84560000000.0,
+      "totalDebt": 250990000000.0,
+      "cash": 94780000000.0,
+      "sharesOutstanding": 844433596.0,
+      "grossMargin": 0.4806055277998156,
+      "operatingMargin": 0.1202907562664837,
+      "netMargin": 0.019233655681111565,
+      "roe": 0.0278580080126712,
+      "roic": 0.09790917658557018
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 518390000000.0,
+      "operatingIncome": 70940000000.0,
+      "netIncome": 19220000000.0,
+      "eps": 22.32,
+      "freeCashFlow": 54490000000.0,
+      "totalDebt": 235760000000.0,
+      "cash": 59750000000.0,
+      "sharesOutstanding": 844433596.0,
+      "grossMargin": 0.5005497791238257,
+      "operatingMargin": 0.136846775593665,
+      "netMargin": 0.037076332490981696,
+      "roe": 0.055395434632234265,
+      "roic": 0.1217394288852279
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:12.314686+00:00"
+  }
+}

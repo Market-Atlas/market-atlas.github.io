@@ -1,0 +1,128 @@
+{
+  "ticker": "DELL",
+  "name": "Dell Technologies Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 273409769472.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 420.91,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 113538000000.0,
+    "operatingIncome": 8446000000.0,
+    "netIncome": 5936000000.0,
+    "eps": 8.68,
+    "freeCashFlow": 8552000000.0,
+    "totalDebt": 31503000000.0,
+    "cash": 11528000000.0,
+    "sharesOutstanding": 843771798.0
+  },
+  "ratios": {
+    "roe": -2.403238866396761,
+    "roic": 0.2909103434023353,
+    "grossMargin": 0.19999471542567246,
+    "operatingMargin": 0.0743891912839754,
+    "netMargin": 0.052282055347108454,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 102301000000.0,
+      "operatingIncome": 5771000000.0,
+      "netIncome": 2442000000.0,
+      "eps": 3.24,
+      "freeCashFlow": 562000000.0,
+      "totalDebt": 29588000000.0,
+      "cash": 8607000000.0,
+      "sharesOutstanding": 798000000.0,
+      "grossMargin": 0.22175736307562977,
+      "operatingMargin": 0.05641196078239705,
+      "netMargin": 0.02387073440142325,
+      "roe": -0.7821909032671365,
+      "roic": 0.21805335146981034
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 88425000000.0,
+      "operatingIncome": 5933000000.0,
+      "netIncome": 3388000000.0,
+      "eps": 4.546,
+      "freeCashFlow": 5920000000.0,
+      "totalDebt": 25994000000.0,
+      "cash": 7366000000.0,
+      "sharesOutstanding": 822335200.0,
+      "grossMargin": 0.23826972010178116,
+      "operatingMargin": 0.06709640938648573,
+      "netMargin": 0.038314956177551596,
+      "roe": -1.5213291423439605,
+      "roic": 0.2496318424706526
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 95567000000.0,
+      "operatingIncome": 6656000000.0,
+      "netIncome": 4592000000.0,
+      "eps": 6.38,
+      "freeCashFlow": 1869000000.0,
+      "totalDebt": 24567000000.0,
+      "cash": 3633000000.0,
+      "sharesOutstanding": 834130464.0,
+      "grossMargin": 0.22235708979040883,
+      "operatingMargin": 0.06964747245388052,
+      "netMargin": 0.04805005912082622,
+      "roe": -3.098515519568151,
+      "roic": 0.288325752653238
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 113538000000.0,
+      "operatingIncome": 8446000000.0,
+      "netIncome": 5936000000.0,
+      "eps": 8.68,
+      "freeCashFlow": 8552000000.0,
+      "totalDebt": 31503000000.0,
+      "cash": 11528000000.0,
+      "sharesOutstanding": 843771798.0,
+      "grossMargin": 0.19999471542567246,
+      "operatingMargin": 0.0743891912839754,
+      "netMargin": 0.052282055347108454,
+      "roe": -2.403238866396761,
+      "roic": 0.2909103434023353
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:10.606182+00:00"
+  }
+}

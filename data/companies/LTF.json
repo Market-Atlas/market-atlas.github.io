@@ -1,0 +1,128 @@
+{
+  "ticker": "LTF",
+  "name": "L&T Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 718078148608.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 286.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 106351800000.0,
+    "operatingIncome": null,
+    "netIncome": 29811800000.0,
+    "eps": null,
+    "freeCashFlow": -144287000000.0,
+    "totalDebt": 1102976600000.0,
+    "cash": 58776300000.0,
+    "sharesOutstanding": 2504386016.0
+  },
+  "ratios": {
+    "roe": 0.10653337874099515,
+    "roic": null,
+    "grossMargin": 0.99498004,
+    "operatingMargin": 0.43723,
+    "netMargin": 0.28031307415577356,
+    "debtToEquity": 3.9344200000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 4.32,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 65212600000.0,
+      "operatingIncome": null,
+      "netIncome": 16232500000.0,
+      "eps": 6.54,
+      "freeCashFlow": 65903300000.0,
+      "totalDebt": 831049000000.0,
+      "cash": 89040700000.0,
+      "sharesOutstanding": 2479671117.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24891662040771262,
+      "roe": 0.07540050640155292,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 78592600000.0,
+      "operatingIncome": null,
+      "netIncome": 23201000000.0,
+      "eps": 9.3,
+      "freeCashFlow": 5668800000.0,
+      "totalDebt": 766034500000.0,
+      "cash": 36478600000.0,
+      "sharesOutstanding": 2488940310.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.29520590997116775,
+      "roe": 0.09898696329619207,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 96691800000.0,
+      "operatingIncome": null,
+      "netIncome": 26436600000.0,
+      "eps": 10.57,
+      "freeCashFlow": -167827500000.0,
+      "totalDebt": 923724400000.0,
+      "cash": 60418000000.0,
+      "sharesOutstanding": 2494868101.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2734109821101686,
+      "roe": 0.10341315111918842,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 106351800000.0,
+      "operatingIncome": null,
+      "netIncome": 29811800000.0,
+      "eps": null,
+      "freeCashFlow": -144287000000.0,
+      "totalDebt": 1102976600000.0,
+      "cash": 58776300000.0,
+      "sharesOutstanding": 2504386016.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28031307415577356,
+      "roe": 0.10653337874099515,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:20.695854+00:00"
+  }
+}

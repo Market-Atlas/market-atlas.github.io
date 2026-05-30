@@ -1,0 +1,111 @@
+{
+  "ticker": "WIPRO",
+  "name": "Wipro Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2142657052672.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 204.25,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 890884000000.0,
+    "operatingIncome": 150686000000.0,
+    "netIncome": 131354000000.0,
+    "eps": 12.52,
+    "freeCashFlow": 154389000000.0,
+    "totalDebt": 192035000000.0,
+    "cash": 121974000000.0,
+    "sharesOutstanding": 10472136049.0
+  },
+  "ratios": {
+    "roe": 0.15858091605910354,
+    "roic": 0.14768156621688372,
+    "grossMargin": 0.30652924510935203,
+    "operatingMargin": 0.1691421105329089,
+    "netMargin": 0.14744231572236116,
+    "debtToEquity": 0.22853
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 790934000000.0,
+      "operatingIncome": 135931000000.0,
+      "netIncome": 122191000000.0,
+      "eps": 11.145,
+      "freeCashFlow": 90644000000.0,
+      "totalDebt": 175929000000.0,
+      "cash": 103836000000.0,
+      "sharesOutstanding": 10993519688.0,
+      "grossMargin": 0.2971954676369963,
+      "operatingMargin": 0.17186136896378207,
+      "netMargin": 0.1544895022846407,
+      "roe": 0.185656027883882,
+      "roic": 0.16296981010374217
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 904876000000.0,
+      "operatingIncome": 135134000000.0,
+      "netIncome": 113500000000.0,
+      "eps": 10.34,
+      "freeCashFlow": 115767000000.0,
+      "totalDebt": 174666000000.0,
+      "cash": 91880000000.0,
+      "sharesOutstanding": 10975835482.0,
+      "grossMargin": 0.28670226638788077,
+      "operatingMargin": 0.14933979904428893,
+      "netMargin": 0.12543155084232535,
+      "roe": 0.14529599418303968,
+      "roic": 0.14137869704863837
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 897603000000.0,
+      "operatingIncome": 133730000000.0,
+      "netIncome": 110452000000.0,
+      "eps": 10.41,
+      "freeCashFlow": 165706000000.0,
+      "totalDebt": 164649000000.0,
+      "cash": 96953000000.0,
+      "sharesOutstanding": 10450276492.0,
+      "grossMargin": 0.2964629128913339,
+      "operatingMargin": 0.1489856874364279,
+      "netMargin": 0.1230521733995987,
+      "roe": 0.14729231093383902,
+      "roic": 0.14622779738707886
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 890884000000.0,
+      "operatingIncome": 150686000000.0,
+      "netIncome": 131354000000.0,
+      "eps": 12.52,
+      "freeCashFlow": 154389000000.0,
+      "totalDebt": 192035000000.0,
+      "cash": 121974000000.0,
+      "sharesOutstanding": 10472136049.0,
+      "grossMargin": 0.30652924510935203,
+      "operatingMargin": 0.1691421105329089,
+      "netMargin": 0.14744231572236116,
+      "roe": 0.15858091605910354,
+      "roic": 0.14768156621688372
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.657397+00:00"
+  }
+}

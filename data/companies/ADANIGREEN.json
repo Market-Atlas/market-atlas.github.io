@@ -1,0 +1,128 @@
+{
+  "ticker": "ADANIGREEN",
+  "name": "Adani Green Energy Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2430243700736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1475.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 129280000000.0,
+    "operatingIncome": 73960000000.0,
+    "netIncome": 16520000000.0,
+    "eps": 9.65,
+    "freeCashFlow": -159620000000.0,
+    "totalDebt": 1014400000000.0,
+    "cash": 17350000000.0,
+    "sharesOutstanding": 1647176155.0
+  },
+  "ratios": {
+    "roe": 0.08274480340596044,
+    "roic": 0.060920060953008524,
+    "grossMargin": 0.9452351485148515,
+    "operatingMargin": 0.5720915841584159,
+    "netMargin": 0.12778465346534654,
+    "debtToEquity": 3.3950299999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 77750000000.0,
+      "operatingIncome": 42440000000.0,
+      "netIncome": 9740000000.0,
+      "eps": 5.41,
+      "freeCashFlow": 38890000000.0,
+      "totalDebt": 542240000000.0,
+      "cash": 10020000000.0,
+      "sharesOutstanding": 1584032478.0,
+      "grossMargin": 0.7413504823151126,
+      "operatingMargin": 0.5458520900321543,
+      "netMargin": 0.1252733118971061,
+      "roe": 0.1333515881708653,
+      "roic": 0.06897672604342739
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 92200000000.0,
+      "operatingIncome": 54440000000.0,
+      "netIncome": 11000000000.0,
+      "eps": 6.2,
+      "freeCashFlow": -80600000000.0,
+      "totalDebt": 648580000000.0,
+      "cash": 16080000000.0,
+      "sharesOutstanding": 1584032478.0,
+      "grossMargin": 0.8345986984815619,
+      "operatingMargin": 0.5904555314533623,
+      "netMargin": 0.1193058568329718,
+      "roe": 0.10336402931779741,
+      "roic": 0.07210596026490067
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 112120000000.0,
+      "operatingIncome": 63790000000.0,
+      "netIncome": 14440000000.0,
+      "eps": 8.37,
+      "freeCashFlow": -158190000000.0,
+      "totalDebt": 800400000000.0,
+      "cash": 22120000000.0,
+      "sharesOutstanding": 1584032478.0,
+      "grossMargin": 0.871566179093828,
+      "operatingMargin": 0.5689439885836604,
+      "netMargin": 0.12879058151980022,
+      "roe": 0.1189750350168905,
+      "roic": 0.06920381440055545
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 129280000000.0,
+      "operatingIncome": 73960000000.0,
+      "netIncome": 16520000000.0,
+      "eps": 9.65,
+      "freeCashFlow": -159620000000.0,
+      "totalDebt": 1014400000000.0,
+      "cash": 17350000000.0,
+      "sharesOutstanding": 1647176155.0,
+      "grossMargin": 0.9452351485148515,
+      "operatingMargin": 0.5720915841584159,
+      "netMargin": 0.12778465346534654,
+      "roe": 0.08274480340596044,
+      "roic": 0.060920060953008524
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:48.331625+00:00"
+  }
+}

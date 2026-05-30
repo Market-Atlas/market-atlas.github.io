@@ -1,0 +1,128 @@
+{
+  "ticker": "GRAPHITE",
+  "name": "Graphite India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 142184595456.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 727.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28520000000.0,
+    "operatingIncome": 1060000000.0,
+    "netIncome": 1750000000.0,
+    "eps": null,
+    "freeCashFlow": -1690000000.0,
+    "totalDebt": 3670000000.0,
+    "cash": 220000000.0,
+    "sharesOutstanding": 195375594.0
+  },
+  "ratios": {
+    "roe": 0.02986857825567503,
+    "roic": 0.01702537744940572,
+    "grossMargin": 0.4361851332398317,
+    "operatingMargin": 0.03716690042075736,
+    "netMargin": 0.061360448807854136,
+    "debtToEquity": 0.045720000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 25.82,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 31605700000.0,
+      "operatingIncome": 2583600000.0,
+      "netIncome": 1993500000.0,
+      "eps": 10.19,
+      "freeCashFlow": -3302100000.0,
+      "totalDebt": 4320200000.0,
+      "cash": 231100000.0,
+      "sharesOutstanding": 195375594.0,
+      "grossMargin": 0.4789420895597946,
+      "operatingMargin": 0.0817447485738332,
+      "netMargin": 0.0630740657539621,
+      "roe": 0.04016044030428056,
+      "roic": 0.047881153328663086
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 29237300000.0,
+      "operatingIncome": -2255400000.0,
+      "netIncome": 8081000000.0,
+      "eps": 41.36,
+      "freeCashFlow": 4205600000.0,
+      "totalDebt": 1771200000.0,
+      "cash": 369900000.0,
+      "sharesOutstanding": 195375594.0,
+      "grossMargin": 0.2503993186785374,
+      "operatingMargin": -0.07714118608763464,
+      "netMargin": 0.2763935110287202,
+      "roe": 0.14402657745728303,
+      "roic": -0.038967568492144805
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 25600000000.0,
+      "operatingIncome": 1640000000.0,
+      "netIncome": 4620000000.0,
+      "eps": 23.65,
+      "freeCashFlow": 3320000000.0,
+      "totalDebt": 1726800000.0,
+      "cash": 1087000000.0,
+      "sharesOutstanding": 195375594.0,
+      "grossMargin": 0.468359375,
+      "operatingMargin": 0.0640625,
+      "netMargin": 0.18046875,
+      "roe": 0.07876029253822943,
+      "roic": 0.02715870287385445
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 28520000000.0,
+      "operatingIncome": 1060000000.0,
+      "netIncome": 1750000000.0,
+      "eps": null,
+      "freeCashFlow": -1690000000.0,
+      "totalDebt": 3670000000.0,
+      "cash": 220000000.0,
+      "sharesOutstanding": 195375594.0,
+      "grossMargin": 0.4361851332398317,
+      "operatingMargin": 0.03716690042075736,
+      "netMargin": 0.061360448807854136,
+      "roe": 0.02986857825567503,
+      "roic": 0.01702537744940572
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:49.496092+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "EFX",
+  "name": "Equifax Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20000010240.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 165.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6074500000.0,
+    "operatingIncome": 1095200000.0,
+    "netIncome": 660300000.0,
+    "eps": 5.32,
+    "freeCashFlow": 1134300000.0,
+    "totalDebt": 5093300000.0,
+    "cash": 180800000.0,
+    "sharesOutstanding": 189300000.0
+  },
+  "ratios": {
+    "roe": 0.14340942162760897,
+    "roic": 0.11293515921465105,
+    "grossMargin": 0.5644744423409334,
+    "operatingMargin": 0.1802946744588032,
+    "netMargin": 0.10870030455181497,
+    "debtToEquity": 1.13353
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5122200000.0,
+      "operatingIncome": 1056000000.0,
+      "netIncome": 696200000.0,
+      "eps": 5.65,
+      "freeCashFlow": 132600000.0,
+      "totalDebt": 5787300000.0,
+      "cash": 285200000.0,
+      "sharesOutstanding": 188700000.0,
+      "grossMargin": 0.574948264417633,
+      "operatingMargin": 0.2061614150169849,
+      "netMargin": 0.13591816016555386,
+      "roe": 0.17596360419562745,
+      "roic": 0.10837660871528562
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5265200000.0,
+      "operatingIncome": 933600000.0,
+      "netIncome": 545300000.0,
+      "eps": 4.4,
+      "freeCashFlow": 515500000.0,
+      "totalDebt": 5711200000.0,
+      "cash": 216800000.0,
+      "sharesOutstanding": 189300000.0,
+      "grossMargin": 0.5565030768061991,
+      "operatingMargin": 0.17731520170173973,
+      "netMargin": 0.10356681607536276,
+      "roe": 0.12026642553097638,
+      "roic": 0.0911247108430207
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5681100000.0,
+      "operatingIncome": 1042100000.0,
+      "netIncome": 604100000.0,
+      "eps": 4.84,
+      "freeCashFlow": 813000000.0,
+      "totalDebt": 5010500000.0,
+      "cash": 169900000.0,
+      "sharesOutstanding": 189252015.0,
+      "grossMargin": 0.5566527609089789,
+      "operatingMargin": 0.18343278590413828,
+      "netMargin": 0.10633504074915069,
+      "roe": 0.1259355000104234,
+      "roic": 0.10625650019373127
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6074500000.0,
+      "operatingIncome": 1095200000.0,
+      "netIncome": 660300000.0,
+      "eps": 5.32,
+      "freeCashFlow": 1134300000.0,
+      "totalDebt": 5093300000.0,
+      "cash": 180800000.0,
+      "sharesOutstanding": 189300000.0,
+      "grossMargin": 0.5644744423409334,
+      "operatingMargin": 0.1802946744588032,
+      "netMargin": 0.10870030455181497,
+      "roe": 0.14340942162760897,
+      "roic": 0.11293515921465105
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:16.422373+00:00"
+  }
+}

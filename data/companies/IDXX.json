@@ -1,0 +1,128 @@
+{
+  "ticker": "IDXX",
+  "name": "IDEXX Laboratories, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 44452937728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 563.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4303702000.0,
+    "operatingIncome": 1360031000.0,
+    "netIncome": 1059464000.0,
+    "eps": 13.08,
+    "freeCashFlow": 1043579000.0,
+    "totalDebt": 976062000.0,
+    "cash": 180070000.0,
+    "sharesOutstanding": 108369000.0
+  },
+  "ratios": {
+    "roe": 0.6599446985547996,
+    "roic": 0.5268487223241247,
+    "grossMargin": 0.6179747110743262,
+    "operatingMargin": 0.316014212879981,
+    "netMargin": 0.24617503721214898,
+    "debtToEquity": 0.7104
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3367324000.0,
+      "operatingIncome": 898765000.0,
+      "netIncome": 679089000.0,
+      "eps": 8.03,
+      "freeCashFlow": 384146000.0,
+      "totalDebt": 1470033000.0,
+      "cash": 112546000.0,
+      "sharesOutstanding": 107193000.0,
+      "grossMargin": 0.5952317032753605,
+      "operatingMargin": 0.2669077879051734,
+      "netMargin": 0.20167022834749493,
+      "roe": 1.1155704351797247,
+      "roic": 0.4323542287025501
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3660953000.0,
+      "operatingIncome": 1097128000.0,
+      "netIncome": 845042000.0,
+      "eps": 10.06,
+      "freeCashFlow": 772879000.0,
+      "totalDebt": 1067353000.0,
+      "cash": 453932000.0,
+      "sharesOutstanding": 107506000.0,
+      "grossMargin": 0.5981966990562293,
+      "operatingMargin": 0.2996837162345433,
+      "netMargin": 0.23082568937650935,
+      "roe": 0.5692320128256081,
+      "roic": 0.42992880159474395
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3897504000.0,
+      "operatingIncome": 1128337000.0,
+      "netIncome": 887867000.0,
+      "eps": 10.67,
+      "freeCashFlow": 798079000.0,
+      "totalDebt": 986948000.0,
+      "cash": 288266000.0,
+      "sharesOutstanding": 107836000.0,
+      "grossMargin": 0.6103719200801333,
+      "operatingMargin": 0.28950246106225935,
+      "netMargin": 0.22780399968800547,
+      "roe": 0.5565472104847137,
+      "roic": 0.43695699234120794
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4303702000.0,
+      "operatingIncome": 1360031000.0,
+      "netIncome": 1059464000.0,
+      "eps": 13.08,
+      "freeCashFlow": 1043579000.0,
+      "totalDebt": 976062000.0,
+      "cash": 180070000.0,
+      "sharesOutstanding": 108369000.0,
+      "grossMargin": 0.6179747110743262,
+      "operatingMargin": 0.316014212879981,
+      "netMargin": 0.24617503721214898,
+      "roe": 0.6599446985547996,
+      "roic": 0.5268487223241247
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.614284+00:00"
+  }
+}

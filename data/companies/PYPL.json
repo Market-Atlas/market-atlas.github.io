@@ -1,0 +1,111 @@
+{
+  "ticker": "PYPL",
+  "name": "PayPal Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 39474221056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 44.75,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33172000000.0,
+    "operatingIncome": 6396000000.0,
+    "netIncome": 5233000000.0,
+    "eps": 5.41,
+    "freeCashFlow": 5564000000.0,
+    "totalDebt": 9987000000.0,
+    "cash": 8049000000.0,
+    "sharesOutstanding": 1343000000.0
+  },
+  "ratios": {
+    "roe": 0.25834320695102686,
+    "roic": 0.21148695565916079,
+    "grossMargin": 0.4662064391655613,
+    "operatingMargin": 0.19281321596527193,
+    "netMargin": 0.15775352707102375,
+    "debtToEquity": 0.5828
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27518000000.0,
+      "operatingIncome": 4044000000.0,
+      "netIncome": 2419000000.0,
+      "eps": 2.09,
+      "freeCashFlow": 5107000000.0,
+      "totalDebt": 10417000000.0,
+      "cash": 7776000000.0,
+      "sharesOutstanding": 1309000000.0,
+      "grossMargin": 0.5005087579039175,
+      "operatingMargin": 0.14695835453157932,
+      "netMargin": 0.08790609782687696,
+      "roe": 0.11931537930354148,
+      "roic": 0.13176501254439413
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 29771000000.0,
+      "operatingIncome": 4944000000.0,
+      "netIncome": 4246000000.0,
+      "eps": 3.84,
+      "freeCashFlow": 4220000000.0,
+      "totalDebt": 9676000000.0,
+      "cash": 9081000000.0,
+      "sharesOutstanding": 1317000000.0,
+      "grossMargin": 0.4603137281246851,
+      "operatingMargin": 0.16606764972624366,
+      "netMargin": 0.14262201471230393,
+      "roe": 0.2017006317989644,
+      "roic": 0.1609008363979562
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 31797000000.0,
+      "operatingIncome": 5763000000.0,
+      "netIncome": 4147000000.0,
+      "eps": 3.99,
+      "freeCashFlow": 6767000000.0,
+      "totalDebt": 9879000000.0,
+      "cash": 6662000000.0,
+      "sharesOutstanding": 1330000000.0,
+      "grossMargin": 0.4609868855552411,
+      "operatingMargin": 0.1812435135390131,
+      "netMargin": 0.13042110890964556,
+      "roe": 0.20311505118283782,
+      "roic": 0.19022313176656985
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33172000000.0,
+      "operatingIncome": 6396000000.0,
+      "netIncome": 5233000000.0,
+      "eps": 5.41,
+      "freeCashFlow": 5564000000.0,
+      "totalDebt": 9987000000.0,
+      "cash": 8049000000.0,
+      "sharesOutstanding": 1343000000.0,
+      "grossMargin": 0.4662064391655613,
+      "operatingMargin": 0.19281321596527193,
+      "netMargin": 0.15775352707102375,
+      "roe": 0.25834320695102686,
+      "roic": 0.21148695565916079
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:13.264680+00:00"
+  }
+}

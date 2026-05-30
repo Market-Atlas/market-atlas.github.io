@@ -1,0 +1,128 @@
+{
+  "ticker": "IOB",
+  "name": "Indian Overseas Bank",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 643555196928.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 33.42,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 182101100000.0,
+    "operatingIncome": null,
+    "netIncome": 54184600000.0,
+    "eps": 2.81,
+    "freeCashFlow": 41337700000.0,
+    "totalDebt": 516025700000.0,
+    "cash": 252225800000.0,
+    "sharesOutstanding": 19256589795.0
+  },
+  "ratios": {
+    "roe": 0.14648180203278285,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.44187,
+    "netMargin": 0.29755229375330516,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 123755456000.0,
+      "operatingIncome": null,
+      "netIncome": 21039896000.0,
+      "eps": 1.15,
+      "freeCashFlow": -142370433000.0,
+      "totalDebt": 208037719000.0,
+      "cash": 208205692000.0,
+      "sharesOutstanding": 18902412256.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17001186598189255,
+      "roe": 0.08457896167684184,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 155022553000.0,
+      "operatingIncome": null,
+      "netIncome": 26656601000.0,
+      "eps": 1.4,
+      "freeCashFlow": -14842068000.0,
+      "totalDebt": 233871655000.0,
+      "cash": 188149006000.0,
+      "sharesOutstanding": 18902412256.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17195305124409865,
+      "roe": 0.09671697922443417,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 164451400000.0,
+      "operatingIncome": null,
+      "netIncome": 33955100000.0,
+      "eps": 1.79,
+      "freeCashFlow": 20438100000.0,
+      "totalDebt": 402816632000.0,
+      "cash": 212196351000.0,
+      "sharesOutstanding": 19256589795.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20647498288248078,
+      "roe": 0.1053415236129318,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 182101100000.0,
+      "operatingIncome": null,
+      "netIncome": 54184600000.0,
+      "eps": 2.81,
+      "freeCashFlow": 41337700000.0,
+      "totalDebt": 516025700000.0,
+      "cash": 252225800000.0,
+      "sharesOutstanding": 19256589795.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.29755229375330516,
+      "roe": 0.14648180203278285,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:02.659209+00:00"
+  }
+}

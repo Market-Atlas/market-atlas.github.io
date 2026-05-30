@@ -1,0 +1,128 @@
+{
+  "ticker": "TSCO",
+  "name": "Tractor Supply Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16535896064.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15524046000.0,
+    "operatingIncome": 1467389000.0,
+    "netIncome": 1096087000.0,
+    "eps": 2.06,
+    "freeCashFlow": 740489000.0,
+    "totalDebt": 5942895000.0,
+    "cash": 194109000.0,
+    "sharesOutstanding": 890991000.0
+  },
+  "ratios": {
+    "roe": 0.4246271151705754,
+    "roic": 0.17214413853847427,
+    "grossMargin": 0.3642418993089817,
+    "operatingMargin": 0.09452361839175173,
+    "netMargin": 0.0706057557417699,
+    "debtToEquity": 2.54949
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14204717000.0,
+      "operatingIncome": 1434943000.0,
+      "netIncome": 1088712000.0,
+      "eps": 1.942,
+      "freeCashFlow": 583610000.0,
+      "totalDebt": 4270204000.0,
+      "cash": 202502000.0,
+      "sharesOutstanding": 884380000.0,
+      "grossMargin": 0.35003893424979887,
+      "operatingMargin": 0.10101876721655208,
+      "netMargin": 0.07664439918091998,
+      "roe": 0.5330510532624108,
+      "roic": 0.22731338176541593
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14555741000.0,
+      "operatingIncome": 1478912000.0,
+      "netIncome": 1107226000.0,
+      "eps": 2.018,
+      "freeCashFlow": 580150000.0,
+      "totalDebt": 5036018000.0,
+      "cash": 397071000.0,
+      "sharesOutstanding": 886660000.0,
+      "grossMargin": 0.3591860421259213,
+      "operatingMargin": 0.1016033467482006,
+      "netMargin": 0.07606799269099389,
+      "roe": 0.515045851587292,
+      "roic": 0.205810921013446
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14883231000.0,
+      "operatingIncome": 1467532000.0,
+      "netIncome": 1101240000.0,
+      "eps": 2.04,
+      "freeCashFlow": 636788000.0,
+      "totalDebt": 5424448000.0,
+      "cash": 251491000.0,
+      "sharesOutstanding": 889548000.0,
+      "grossMargin": 0.3625931089828546,
+      "operatingMargin": 0.09860305198515026,
+      "netMargin": 0.07399199810847523,
+      "roe": 0.48505638377436977,
+      "roic": 0.19071781370804267
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15524046000.0,
+      "operatingIncome": 1467389000.0,
+      "netIncome": 1096087000.0,
+      "eps": 2.06,
+      "freeCashFlow": 740489000.0,
+      "totalDebt": 5942895000.0,
+      "cash": 194109000.0,
+      "sharesOutstanding": 890991000.0,
+      "grossMargin": 0.3642418993089817,
+      "operatingMargin": 0.09452361839175173,
+      "netMargin": 0.0706057557417699,
+      "roe": 0.4246271151705754,
+      "roic": 0.17214413853847427
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:29.428418+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "EOG",
+  "name": "EOG Resources, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 71041998848.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 133.38,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22582000000.0,
+    "operatingIncome": 7250000000.0,
+    "netIncome": 4980000000.0,
+    "eps": 9.12,
+    "freeCashFlow": 3450000000.0,
+    "totalDebt": 8408000000.0,
+    "cash": 3396000000.0,
+    "sharesOutstanding": 589044385.0
+  },
+  "ratios": {
+    "roe": 0.16692923943284282,
+    "roic": 0.18958709238775137,
+    "grossMargin": 0.6337791161101762,
+    "operatingMargin": 0.32105216544150206,
+    "netMargin": 0.2205296253653352,
+    "debtToEquity": 0.26873
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": 4664000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29492000000.0,
+      "operatingIncome": 14256000000.0,
+      "netIncome": 7759000000.0,
+      "eps": 13.22,
+      "freeCashFlow": 6093000000.0,
+      "totalDebt": 5374000000.0,
+      "cash": 5972000000.0,
+      "sharesOutstanding": 588396757.0,
+      "grossMargin": 0.7809575478095755,
+      "operatingMargin": 0.48338532483385327,
+      "netMargin": 0.26308829513088294,
+      "roe": 0.3131280519794988,
+      "roic": 0.4727887772360959
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23182000000.0,
+      "operatingIncome": 8892000000.0,
+      "netIncome": 7594000000.0,
+      "eps": 13.0,
+      "freeCashFlow": 5155000000.0,
+      "totalDebt": 4124000000.0,
+      "cash": 5278000000.0,
+      "sharesOutstanding": 588748473.0,
+      "grossMargin": 0.7167630057803468,
+      "operatingMargin": 0.3835734621689242,
+      "netMargin": 0.32758174445690624,
+      "roe": 0.2703453186187255,
+      "roic": 0.27602905569007263
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23378000000.0,
+      "operatingIncome": 8253000000.0,
+      "netIncome": 6403000000.0,
+      "eps": 11.25,
+      "freeCashFlow": 5771000000.0,
+      "totalDebt": 5067000000.0,
+      "cash": 7092000000.0,
+      "sharesOutstanding": 588939584.0,
+      "grossMargin": 0.6833775344340833,
+      "operatingMargin": 0.35302421079647534,
+      "netMargin": 0.2738899820343913,
+      "roe": 0.21815270348540083,
+      "roic": 0.23978732058806437
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22582000000.0,
+      "operatingIncome": 7250000000.0,
+      "netIncome": 4980000000.0,
+      "eps": 9.12,
+      "freeCashFlow": 3450000000.0,
+      "totalDebt": 8408000000.0,
+      "cash": 3396000000.0,
+      "sharesOutstanding": 589044385.0,
+      "grossMargin": 0.6337791161101762,
+      "operatingMargin": 0.32105216544150206,
+      "netMargin": 0.2205296253653352,
+      "roe": 0.16692923943284282,
+      "roic": 0.18958709238775137
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:18.217870+00:00"
+  }
+}

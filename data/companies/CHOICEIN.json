@@ -1,0 +1,128 @@
+{
+  "ticker": "CHOICEIN",
+  "name": "Choice International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 149772632064.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 672.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11191310000.0,
+    "operatingIncome": 3801099000.0,
+    "netIncome": 2176628000.0,
+    "eps": null,
+    "freeCashFlow": -3692326000.0,
+    "totalDebt": 9076512000.0,
+    "cash": 1944477000.0,
+    "sharesOutstanding": 222776500.0
+  },
+  "ratios": {
+    "roe": 0.1302194264232912,
+    "roic": 0.14737745337230262,
+    "grossMargin": 0.7088301548254852,
+    "operatingMargin": 0.3396473692534654,
+    "netMargin": 0.19449269120415752,
+    "debtToEquity": 0.49768
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 3.02,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3892807000.0,
+      "operatingIncome": 1044708000.0,
+      "netIncome": 600679000.0,
+      "eps": 3.01,
+      "freeCashFlow": 912774000.0,
+      "totalDebt": 2067023000.0,
+      "cash": 873294000.0,
+      "sharesOutstanding": 199024000.0,
+      "grossMargin": 0.5187840034196404,
+      "operatingMargin": 0.2683688145854649,
+      "netMargin": 0.15430484994503965,
+      "roe": 0.1258502838382431,
+      "roic": 0.15273535567606258
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7504817000.0,
+      "operatingIncome": 2141684000.0,
+      "netIncome": 1308588000.0,
+      "eps": 6.52,
+      "freeCashFlow": -1689542000.0,
+      "totalDebt": 4728571000.0,
+      "cash": 1450691000.0,
+      "sharesOutstanding": 199379000.0,
+      "grossMargin": 0.5782856530678896,
+      "operatingMargin": 0.2853745800863632,
+      "netMargin": 0.17436641026689925,
+      "roe": 0.20724525672294195,
+      "roic": 0.19394443659114186
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9103821000.0,
+      "operatingIncome": 2760981000.0,
+      "netIncome": 1565277000.0,
+      "eps": 7.99,
+      "freeCashFlow": -4512322000.0,
+      "totalDebt": 4629302000.0,
+      "cash": 1387934000.0,
+      "sharesOutstanding": 199655500.0,
+      "grossMargin": 0.6990574616965778,
+      "operatingMargin": 0.30327716241345254,
+      "netMargin": 0.1719362672003327,
+      "roe": 0.1523480910609785,
+      "roic": 0.18525538176961776
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 11191310000.0,
+      "operatingIncome": 3801099000.0,
+      "netIncome": 2176628000.0,
+      "eps": null,
+      "freeCashFlow": -3692326000.0,
+      "totalDebt": 9076512000.0,
+      "cash": 1944477000.0,
+      "sharesOutstanding": 222776500.0,
+      "grossMargin": 0.7088301548254852,
+      "operatingMargin": 0.3396473692534654,
+      "netMargin": 0.19449269120415752,
+      "roe": 0.1302194264232912,
+      "roic": 0.14737745337230262
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:25.729111+00:00"
+  }
+}

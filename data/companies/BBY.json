@@ -1,0 +1,111 @@
+{
+  "ticker": "BBY",
+  "name": "Best Buy Co., Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16423689216.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 77.95,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 41691000000.0,
+    "operatingIncome": 1750000000.0,
+    "netIncome": 1069000000.0,
+    "eps": 5.04,
+    "freeCashFlow": 1258000000.0,
+    "totalDebt": 4133000000.0,
+    "cash": 1738000000.0,
+    "sharesOutstanding": 209100000.0
+  },
+  "ratios": {
+    "roe": 0.3606612685560054,
+    "roic": 0.2465830632661688,
+    "grossMargin": 0.22482070470845025,
+    "operatingMargin": 0.04197548631599146,
+    "netMargin": 0.02564102564102564,
+    "debtToEquity": 1.3383099999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 46298000000.0,
+      "operatingIncome": 1942000000.0,
+      "netIncome": 1419000000.0,
+      "eps": 6.29,
+      "freeCashFlow": 894000000.0,
+      "totalDebt": 3978000000.0,
+      "cash": 1874000000.0,
+      "sharesOutstanding": 218100000.0,
+      "grossMargin": 0.21409132143937104,
+      "operatingMargin": 0.04194565639984449,
+      "netMargin": 0.03064927210678647,
+      "roe": 0.5076923076923077,
+      "roic": 0.28672670899158426
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 43452000000.0,
+      "operatingIncome": 1727000000.0,
+      "netIncome": 1241000000.0,
+      "eps": 5.68,
+      "freeCashFlow": 675000000.0,
+      "totalDebt": 3982000000.0,
+      "cash": 1447000000.0,
+      "sharesOutstanding": 215395970.0,
+      "grossMargin": 0.22100248550124274,
+      "operatingMargin": 0.0397450059836141,
+      "netMargin": 0.028560250391236306,
+      "roe": 0.40648542417294464,
+      "roic": 0.24548685145700072
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 41528000000.0,
+      "operatingIncome": 1734000000.0,
+      "netIncome": 927000000.0,
+      "eps": 4.28,
+      "freeCashFlow": 1392000000.0,
+      "totalDebt": 4053000000.0,
+      "cash": 1578000000.0,
+      "sharesOutstanding": 211400000.0,
+      "grossMargin": 0.22599210171450587,
+      "operatingMargin": 0.04175496050857253,
+      "netMargin": 0.0223222885763822,
+      "roe": 0.3301282051282051,
+      "roic": 0.25273283777874944
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 41691000000.0,
+      "operatingIncome": 1750000000.0,
+      "netIncome": 1069000000.0,
+      "eps": 5.04,
+      "freeCashFlow": 1258000000.0,
+      "totalDebt": 4133000000.0,
+      "cash": 1738000000.0,
+      "sharesOutstanding": 209100000.0,
+      "grossMargin": 0.22482070470845025,
+      "operatingMargin": 0.04197548631599146,
+      "netMargin": 0.02564102564102564,
+      "roe": 0.3606612685560054,
+      "roic": 0.2465830632661688
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:50.887118+00:00"
+  }
+}

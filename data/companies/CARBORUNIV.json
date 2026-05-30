@@ -1,0 +1,128 @@
+{
+  "ticker": "CARBORUNIV",
+  "name": "Carborundum Universal Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 196027351040.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1029.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 51493900000.0,
+    "operatingIncome": 3321400000.0,
+    "netIncome": 1947300000.0,
+    "eps": 10.3,
+    "freeCashFlow": null,
+    "totalDebt": 4125400000.0,
+    "cash": 6978800000.0,
+    "sharesOutstanding": 190492502.0
+  },
+  "ratios": {
+    "roe": 0.049933073834176965,
+    "roic": 0.07702047138921611,
+    "grossMargin": 0.6044016864133421,
+    "operatingMargin": 0.06450084378926436,
+    "netMargin": 0.03781612967749578,
+    "debtToEquity": 0.10292
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 46010360000.0,
+      "operatingIncome": 4895110000.0,
+      "netIncome": 4139860000.0,
+      "eps": 21.74,
+      "freeCashFlow": null,
+      "totalDebt": 2236340000.0,
+      "cash": 3963710000.0,
+      "sharesOutstanding": 189943974.0,
+      "grossMargin": 0.5942694210608219,
+      "operatingMargin": 0.10639147357247368,
+      "netMargin": 0.08997669220584234,
+      "roe": 0.14677408718675614,
+      "roic": 0.16080119571644438
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 46282150000.0,
+      "operatingIncome": 5772780000.0,
+      "netIncome": 4612500000.0,
+      "eps": 24.22,
+      "freeCashFlow": null,
+      "totalDebt": 1220530000.0,
+      "cash": 5548780000.0,
+      "sharesOutstanding": 190257608.0,
+      "grossMargin": 0.5858939137442837,
+      "operatingMargin": 0.124730160547857,
+      "netMargin": 0.09966045224778883,
+      "roe": 0.1475668505826851,
+      "roic": 0.1777467820078793
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 48335200000.0,
+      "operatingIncome": 4997700000.0,
+      "netIncome": 2927400000.0,
+      "eps": 15.55,
+      "freeCashFlow": null,
+      "totalDebt": 1609620000.0,
+      "cash": 3779270000.0,
+      "sharesOutstanding": 190422718.0,
+      "grossMargin": 0.6286288253695029,
+      "operatingMargin": 0.10339669640344924,
+      "netMargin": 0.06056455750674457,
+      "roe": 0.0829614464776243,
+      "roic": 0.13545411155551473
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 51493900000.0,
+      "operatingIncome": 3321400000.0,
+      "netIncome": 1947300000.0,
+      "eps": 10.3,
+      "freeCashFlow": null,
+      "totalDebt": 4125400000.0,
+      "cash": 6978800000.0,
+      "sharesOutstanding": 190492502.0,
+      "grossMargin": 0.6044016864133421,
+      "operatingMargin": 0.06450084378926436,
+      "netMargin": 0.03781612967749578,
+      "roe": 0.049933073834176965,
+      "roic": 0.07702047138921611
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:07.747080+00:00"
+  }
+}

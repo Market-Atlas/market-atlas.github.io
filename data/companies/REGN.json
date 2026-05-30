@@ -1,0 +1,128 @@
+{
+  "ticker": "REGN",
+  "name": "Regeneron Pharmaceuticals, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "USD",
+  "marketCap": {
+    "value": 64452943872.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 614.78,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14342900000.0,
+    "operatingIncome": 3702000000.0,
+    "netIncome": 4504900000.0,
+    "eps": 41.48,
+    "freeCashFlow": 3765200000.0,
+    "totalDebt": 2705900000.0,
+    "cash": 3118100000.0,
+    "sharesOutstanding": 139417146.0
+  },
+  "ratios": {
+    "roe": 0.14412497720503312,
+    "roic": 0.10900161353009763,
+    "grossMargin": 0.8535372902272205,
+    "operatingMargin": 0.25810679848566187,
+    "netMargin": 0.31408571488332204,
+    "debtToEquity": 0.08612
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12172900000.0,
+      "operatingIncome": 4738900000.0,
+      "netIncome": 4338400000.0,
+      "eps": 38.22,
+      "freeCashFlow": 3398000000.0,
+      "totalDebt": 2701400000.0,
+      "cash": 3105900000.0,
+      "sharesOutstanding": 132200000.0,
+      "grossMargin": 0.8718136187761338,
+      "operatingMargin": 0.3892991809675591,
+      "netMargin": 0.35639822885261524,
+      "roe": 0.19142252029650547,
+      "roic": 0.1868253605304864
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13117200000.0,
+      "operatingIncome": 4047100000.0,
+      "netIncome": 3953600000.0,
+      "eps": 34.77,
+      "freeCashFlow": 3667600000.0,
+      "totalDebt": 2702900000.0,
+      "cash": 2730000000.0,
+      "sharesOutstanding": 134918146.0,
+      "grossMargin": 0.8615710669960053,
+      "operatingMargin": 0.3085338334400634,
+      "netMargin": 0.3014057878205715,
+      "roe": 0.15221902660829859,
+      "roic": 0.14113195703724368
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14202000000.0,
+      "operatingIncome": 3990700000.0,
+      "netIncome": 4412600000.0,
+      "eps": 38.34,
+      "freeCashFlow": 3538900000.0,
+      "totalDebt": 2704400000.0,
+      "cash": 2488200000.0,
+      "sharesOutstanding": 137817146.0,
+      "grossMargin": 0.8612519363469934,
+      "operatingMargin": 0.28099563441768766,
+      "netMargin": 0.3107027179270525,
+      "roe": 0.1503256840728224,
+      "roic": 0.12448374820637595
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14342900000.0,
+      "operatingIncome": 3702000000.0,
+      "netIncome": 4504900000.0,
+      "eps": 41.48,
+      "freeCashFlow": 3765200000.0,
+      "totalDebt": 2705900000.0,
+      "cash": 3118100000.0,
+      "sharesOutstanding": 139417146.0,
+      "grossMargin": 0.8535372902272205,
+      "operatingMargin": 0.25810679848566187,
+      "netMargin": 0.31408571488332204,
+      "roe": 0.14412497720503312,
+      "roic": 0.10900161353009763
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:14.408440+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MMM",
+  "name": "3M Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "USD",
+  "marketCap": {
+    "value": 79867600896.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 153.13,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24948000000.0,
+    "operatingIncome": 4791000000.0,
+    "netIncome": 3250000000.0,
+    "eps": 6.0,
+    "freeCashFlow": 1396000000.0,
+    "totalDebt": 12602000000.0,
+    "cash": 5235000000.0,
+    "sharesOutstanding": 944033056.0
+  },
+  "ratios": {
+    "roe": 0.6911952360697575,
+    "roic": 0.27687239944521497,
+    "grossMargin": 0.39911014911014914,
+    "operatingMargin": 0.19203944203944204,
+    "netMargin": 0.13027096360429694,
+    "debtToEquity": 3.96497
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 26161000000.0,
+      "operatingIncome": 1916000000.0,
+      "netIncome": 5777000000.0,
+      "eps": 10.18,
+      "freeCashFlow": 3842000000.0,
+      "totalDebt": 16855000000.0,
+      "cash": 3655000000.0,
+      "sharesOutstanding": 944033056.0,
+      "grossMargin": 0.394021635258591,
+      "operatingMargin": 0.07323879056610985,
+      "netMargin": 0.22082489201483124,
+      "roe": 0.3924059231082733,
+      "roic": 0.06067707508629699
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24610000000.0,
+      "operatingIncome": -10725000000.0,
+      "netIncome": -6995000000.0,
+      "eps": -12.63,
+      "freeCashFlow": 5065000000.0,
+      "totalDebt": 16751000000.0,
+      "cash": 5735000000.0,
+      "sharesOutstanding": 944033056.0,
+      "grossMargin": 0.3911824461600975,
+      "operatingMargin": -0.4357984559122308,
+      "netMargin": -0.2842340511986997,
+      "roe": -1.4551695444143957,
+      "roic": -0.49749512941831336
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24575000000.0,
+      "operatingIncome": 4822000000.0,
+      "netIncome": 4173000000.0,
+      "eps": 7.55,
+      "freeCashFlow": 638000000.0,
+      "totalDebt": 13044000000.0,
+      "cash": 5600000000.0,
+      "sharesOutstanding": 944033056.0,
+      "grossMargin": 0.4121261444557477,
+      "operatingMargin": 0.19621566632756868,
+      "netMargin": 0.16980671414038656,
+      "roe": 1.086153045288912,
+      "roic": 0.2855620040270046
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24948000000.0,
+      "operatingIncome": 4791000000.0,
+      "netIncome": 3250000000.0,
+      "eps": 6.0,
+      "freeCashFlow": 1396000000.0,
+      "totalDebt": 12602000000.0,
+      "cash": 5235000000.0,
+      "sharesOutstanding": 944033056.0,
+      "grossMargin": 0.39911014911014914,
+      "operatingMargin": 0.19203944203944204,
+      "netMargin": 0.13027096360429694,
+      "roe": 0.6911952360697575,
+      "roic": 0.27687239944521497
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:55.561540+00:00"
+  }
+}

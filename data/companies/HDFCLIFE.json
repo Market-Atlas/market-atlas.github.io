@@ -1,0 +1,128 @@
+{
+  "ticker": "HDFCLIFE",
+  "name": "HDFC Life Insurance Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1283228172288.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 594.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 994040100000.0,
+    "operatingIncome": null,
+    "netIncome": 19123200000.0,
+    "eps": 8.86,
+    "freeCashFlow": null,
+    "totalDebt": 30990000000.0,
+    "cash": 19902300000.0,
+    "sharesOutstanding": 2157819536.0
+  },
+  "ratios": {
+    "roe": 0.10773913014083746,
+    "roic": null,
+    "grossMargin": 0.1041,
+    "operatingMargin": 0.0269,
+    "netMargin": 0.019237855696163566,
+    "debtToEquity": 0.1746
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 702463154000.0,
+      "operatingIncome": null,
+      "netIncome": 13682771000.0,
+      "eps": 6.41,
+      "freeCashFlow": null,
+      "totalDebt": 9500000000.0,
+      "cash": 19036324000.0,
+      "sharesOutstanding": 2149396132.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.019478275724622563,
+      "roe": 0.10530764330787626,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 958232700000.0,
+      "operatingIncome": null,
+      "netIncome": 15740800000.0,
+      "eps": 7.31,
+      "freeCashFlow": null,
+      "totalDebt": 9500000000.0,
+      "cash": 21782800000.0,
+      "sharesOutstanding": 2150944127.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.016426907576833894,
+      "roe": 0.1073260268069607,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 968268200000.0,
+      "operatingIncome": null,
+      "netIncome": 18108200000.0,
+      "eps": 8.41,
+      "freeCashFlow": null,
+      "totalDebt": 29500000000.0,
+      "cash": 22756600000.0,
+      "sharesOutstanding": 2152988187.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.018701636592010355,
+      "roe": 0.11209301116336998,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 994040100000.0,
+      "operatingIncome": null,
+      "netIncome": 19123200000.0,
+      "eps": 8.86,
+      "freeCashFlow": null,
+      "totalDebt": 30990000000.0,
+      "cash": 19902300000.0,
+      "sharesOutstanding": 2157819536.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.019237855696163566,
+      "roe": 0.10773913014083746,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.375136+00:00"
+  }
+}

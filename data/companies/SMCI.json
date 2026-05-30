@@ -1,0 +1,111 @@
+{
+  "ticker": "SMCI",
+  "name": "Super Micro Computer, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27719378944.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 46.09,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21972042000.0,
+    "operatingIncome": 1252994000.0,
+    "netIncome": 1048854000.0,
+    "eps": 1.68,
+    "freeCashFlow": 1532310000.0,
+    "totalDebt": 4778842000.0,
+    "cash": 5169911000.0,
+    "sharesOutstanding": 594136852.0
+  },
+  "ratios": {
+    "roe": 0.16644003444788566,
+    "roic": 0.11308064096183082,
+    "grossMargin": 0.11059154174200105,
+    "operatingMargin": 0.057026743349571245,
+    "netMargin": 0.047735845398438614,
+    "debtToEquity": 1.20798
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 5196099000.0,
+      "operatingIncome": 335167000.0,
+      "netIncome": 285163000.0,
+      "eps": 0.532,
+      "freeCashFlow": -485983000.0,
+      "totalDebt": 596764000.0,
+      "cash": 267397000.0,
+      "sharesOutstanding": 523110000.0,
+      "grossMargin": 0.1539618471472541,
+      "operatingMargin": 0.06450358239902665,
+      "netMargin": 0.054880209172304066,
+      "roe": 0.20003367062413413,
+      "roic": 0.1657323524888755
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 7123482000.0,
+      "operatingIncome": 761142000.0,
+      "netIncome": 639998000.0,
+      "eps": 1.143,
+      "freeCashFlow": 626787000.0,
+      "totalDebt": 290302000.0,
+      "cash": 440459000.0,
+      "sharesOutstanding": 529013580.0,
+      "grossMargin": 0.18011023260815426,
+      "operatingMargin": 0.106849711980742,
+      "netMargin": 0.08984342207925843,
+      "roe": 0.3245417734742052,
+      "roic": 0.3364450536554057
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 14989251000.0,
+      "operatingIncome": 1210774000.0,
+      "netIncome": 1152666000.0,
+      "eps": 2.009,
+      "freeCashFlow": -2610251000.0,
+      "totalDebt": 2183393000.0,
+      "cash": 1669766000.0,
+      "sharesOutstanding": 588087410.0,
+      "grossMargin": 0.13752588438208152,
+      "operatingMargin": 0.08077615085637034,
+      "netMargin": 0.07689950618613298,
+      "roe": 0.2127786907125186,
+      "roic": 0.15929981308052168
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 21972042000.0,
+      "operatingIncome": 1252994000.0,
+      "netIncome": 1048854000.0,
+      "eps": 1.68,
+      "freeCashFlow": 1532310000.0,
+      "totalDebt": 4778842000.0,
+      "cash": 5169911000.0,
+      "sharesOutstanding": 594136852.0,
+      "grossMargin": 0.11059154174200105,
+      "operatingMargin": 0.057026743349571245,
+      "netMargin": 0.047735845398438614,
+      "roe": 0.16644003444788566,
+      "roic": 0.11308064096183082
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:19.102784+00:00"
+  }
+}

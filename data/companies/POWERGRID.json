@@ -1,0 +1,128 @@
+{
+  "ticker": "POWERGRID",
+  "name": "Power Grid Corporation of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2702290452480.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 290.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 467328700000.0,
+    "operatingIncome": 249493900000.0,
+    "netIncome": 159279500000.0,
+    "eps": null,
+    "freeCashFlow": 36514700000.0,
+    "totalDebt": 1480706000000.0,
+    "cash": 52806200000.0,
+    "sharesOutstanding": 9300603819.0
+  },
+  "ratios": {
+    "roe": 0.15849647984064327,
+    "roic": 0.1003738544780084,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.5338724114311832,
+    "netMargin": 0.3408296986681965,
+    "debtToEquity": 1.50993
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.09,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 440052200000.0,
+      "operatingIncome": 255206600000.0,
+      "netIncome": 154197400000.0,
+      "eps": 16.58,
+      "freeCashFlow": 319602400000.0,
+      "totalDebt": 1285838100000.0,
+      "cash": 41436300000.0,
+      "sharesOutstanding": 9300603818.0,
+      "grossMargin": 0.9698699381573368,
+      "operatingMargin": 0.5799461972920485,
+      "netMargin": 0.3504070653436115,
+      "roe": 0.18572117337773372,
+      "roic": 0.12060227749053566
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 442027500000.0,
+      "operatingIncome": 268076200000.0,
+      "netIncome": 155731600000.0,
+      "eps": 16.74,
+      "freeCashFlow": 258798200000.0,
+      "totalDebt": 1270037100000.0,
+      "cash": 26911500000.0,
+      "sharesOutstanding": 9300603819.0,
+      "grossMargin": 0.9661297091244323,
+      "operatingMargin": 0.6064695069876874,
+      "netMargin": 0.35231201678628593,
+      "roe": 0.1787037735106422,
+      "roic": 0.12518219806207664
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 457923200000.0,
+      "operatingIncome": 261612200000.0,
+      "netIncome": 155214400000.0,
+      "eps": 16.39,
+      "freeCashFlow": 120877800000.0,
+      "totalDebt": 1345177100000.0,
+      "cash": 37967900000.0,
+      "sharesOutstanding": 9300603819.0,
+      "grossMargin": 0.9646855629939693,
+      "operatingMargin": 0.5713014758806717,
+      "netMargin": 0.3389529073870902,
+      "roe": 0.1675045252782643,
+      "roic": 0.11515608820685858
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 467328700000.0,
+      "operatingIncome": 249493900000.0,
+      "netIncome": 159279500000.0,
+      "eps": null,
+      "freeCashFlow": 36514700000.0,
+      "totalDebt": 1480706000000.0,
+      "cash": 52806200000.0,
+      "sharesOutstanding": 9300603819.0,
+      "grossMargin": null,
+      "operatingMargin": 0.5338724114311832,
+      "netMargin": 0.3408296986681965,
+      "roe": 0.15849647984064327,
+      "roic": 0.1003738544780084
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.278080+00:00"
+  }
+}

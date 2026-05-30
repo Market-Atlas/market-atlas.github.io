@@ -1,0 +1,128 @@
+{
+  "ticker": "BDX",
+  "name": "Becton, Dickinson and Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40537505792.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 147.12,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21840000000.0,
+    "operatingIncome": 2986000000.0,
+    "netIncome": 1678000000.0,
+    "eps": 5.82,
+    "freeCashFlow": 2671000000.0,
+    "totalDebt": 19181000000.0,
+    "cash": 641000000.0,
+    "sharesOutstanding": 370594401.0
+  },
+  "ratios": {
+    "roe": 0.06608901142181961,
+    "roic": 0.06699423391891589,
+    "grossMargin": 0.45444139194139194,
+    "operatingMargin": 0.13672161172161174,
+    "netMargin": 0.07683150183150184,
+    "debtToEquity": 0.71599
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 18870000000.0,
+      "operatingIncome": 2475000000.0,
+      "netIncome": 1779000000.0,
+      "eps": 5.88,
+      "freeCashFlow": 1660000000.0,
+      "totalDebt": 16065000000.0,
+      "cash": 1006000000.0,
+      "sharesOutstanding": 364639901.0,
+      "grossMargin": 0.44923158452570217,
+      "operatingMargin": 0.13116057233704292,
+      "netMargin": 0.09427662957074721,
+      "roe": 0.07036626849141682,
+      "roic": 0.059859240089970255
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 19372000000.0,
+      "operatingIncome": 2424000000.0,
+      "netIncome": 1484000000.0,
+      "eps": 4.94,
+      "freeCashFlow": 2115000000.0,
+      "totalDebt": 15879000000.0,
+      "cash": 1416000000.0,
+      "sharesOutstanding": 370594401.0,
+      "grossMargin": 0.42174272145364444,
+      "operatingMargin": 0.1251290522403469,
+      "netMargin": 0.07660540986991535,
+      "roe": 0.05752606892274295,
+      "roic": 0.058162971494385256
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 20178000000.0,
+      "operatingIncome": 2856000000.0,
+      "netIncome": 1705000000.0,
+      "eps": 5.93,
+      "freeCashFlow": 3072000000.0,
+      "totalDebt": 20110000000.0,
+      "cash": 1717000000.0,
+      "sharesOutstanding": 370594401.0,
+      "grossMargin": 0.452225195757756,
+      "operatingMargin": 0.1415402914064823,
+      "netMargin": 0.08449796808405194,
+      "roe": 0.06585808644598092,
+      "roic": 0.06208830626752755
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 21840000000.0,
+      "operatingIncome": 2986000000.0,
+      "netIncome": 1678000000.0,
+      "eps": 5.82,
+      "freeCashFlow": 2671000000.0,
+      "totalDebt": 19181000000.0,
+      "cash": 641000000.0,
+      "sharesOutstanding": 370594401.0,
+      "grossMargin": 0.45444139194139194,
+      "operatingMargin": 0.13672161172161174,
+      "netMargin": 0.07683150183150184,
+      "roe": 0.06608901142181961,
+      "roic": 0.06699423391891589
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:51.014589+00:00"
+  }
+}

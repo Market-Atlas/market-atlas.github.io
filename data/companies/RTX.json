@@ -1,0 +1,128 @@
+{
+  "ticker": "RTX",
+  "name": "RTX Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 241945149440.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 179.66,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 88603000000.0,
+    "operatingIncome": 9300000000.0,
+    "netIncome": 6732000000.0,
+    "eps": 4.96,
+    "freeCashFlow": 7448000000.0,
+    "totalDebt": 39506000000.0,
+    "cash": 7435000000.0,
+    "sharesOutstanding": 1725312676.0
+  },
+  "ratios": {
+    "roe": 0.10318032033105985,
+    "roic": 0.08878196866855687,
+    "grossMargin": 0.20077198288996986,
+    "operatingMargin": 0.10496258591695541,
+    "netMargin": 0.07597936864440256,
+    "debtToEquity": 0.57229
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 67074000000.0,
+      "operatingIncome": 5504000000.0,
+      "netIncome": 5197000000.0,
+      "eps": 3.5,
+      "freeCashFlow": 4393000000.0,
+      "totalDebt": 33500000000.0,
+      "cash": 6220000000.0,
+      "sharesOutstanding": 1710960000.0,
+      "grossMargin": 0.2037749351462564,
+      "operatingMargin": 0.08205862182067568,
+      "netMargin": 0.07748158750037272,
+      "roe": 0.07155248375371737,
+      "roic": 0.05185994798929635
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 68920000000.0,
+      "operatingIncome": 3561000000.0,
+      "netIncome": 3195000000.0,
+      "eps": 2.23,
+      "freeCashFlow": 4717000000.0,
+      "totalDebt": 45239000000.0,
+      "cash": 6587000000.0,
+      "sharesOutstanding": 1712717000.0,
+      "grossMargin": 0.1754062681369704,
+      "operatingMargin": 0.05166860127684272,
+      "netMargin": 0.046358096343586765,
+      "roe": 0.05342988059801331,
+      "roic": 0.03390233917571903
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 80738000000.0,
+      "operatingIncome": 6538000000.0,
+      "netIncome": 4774000000.0,
+      "eps": 3.55,
+      "freeCashFlow": 3923000000.0,
+      "totalDebt": 42893000000.0,
+      "cash": 5578000000.0,
+      "sharesOutstanding": 1718755758.0,
+      "grossMargin": 0.19086427704426664,
+      "operatingMargin": 0.08097797815155193,
+      "netMargin": 0.059129530084966186,
+      "roe": 0.07936032980916284,
+      "roic": 0.06344554532309872
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 88603000000.0,
+      "operatingIncome": 9300000000.0,
+      "netIncome": 6732000000.0,
+      "eps": 4.96,
+      "freeCashFlow": 7448000000.0,
+      "totalDebt": 39506000000.0,
+      "cash": 7435000000.0,
+      "sharesOutstanding": 1725312676.0,
+      "grossMargin": 0.20077198288996986,
+      "operatingMargin": 0.10496258591695541,
+      "netMargin": 0.07597936864440256,
+      "roe": 0.10318032033105985,
+      "roic": 0.08878196866855687
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:17.126871+00:00"
+  }
+}

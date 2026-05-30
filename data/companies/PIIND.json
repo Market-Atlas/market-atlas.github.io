@@ -1,0 +1,128 @@
+{
+  "ticker": "PIIND",
+  "name": "PI Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 420976459776.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2775.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 67137000000.0,
+    "operatingIncome": 13256000000.0,
+    "netIncome": 13208000000.0,
+    "eps": null,
+    "freeCashFlow": -6438000000.0,
+    "totalDebt": 3423000000.0,
+    "cash": 2833000000.0,
+    "sharesOutstanding": 151718118.0
+  },
+  "ratios": {
+    "roe": 0.11760829882908153,
+    "roic": 0.11454444905295175,
+    "grossMargin": 0.577982334629191,
+    "operatingMargin": 0.19744701133503134,
+    "netMargin": 0.19673205534950922,
+    "debtToEquity": 0.03048
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 55.63,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 64582000000.0,
+      "operatingIncome": 13312000000.0,
+      "netIncome": 12295000000.0,
+      "eps": 81.04,
+      "freeCashFlow": 11751000000.0,
+      "totalDebt": 465000000.0,
+      "cash": 8727000000.0,
+      "sharesOutstanding": 151718118.0,
+      "grossMargin": 0.44332786225264004,
+      "operatingMargin": 0.2061255458177201,
+      "netMargin": 0.19037812393546188,
+      "roe": 0.1707994721122456,
+      "roic": 0.18374051069703243
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 76116000000.0,
+      "operatingIncome": 17406000000.0,
+      "netIncome": 16815000000.0,
+      "eps": 110.83,
+      "freeCashFlow": 14155000000.0,
+      "totalDebt": 1906000000.0,
+      "cash": 8865000000.0,
+      "sharesOutstanding": 151718118.0,
+      "grossMargin": 0.4905801671133533,
+      "operatingMargin": 0.22867728204319723,
+      "netMargin": 0.22091281727889012,
+      "roe": 0.19258962318176612,
+      "roic": 0.1950995337159254
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 79778000000.0,
+      "operatingIncome": 18692000000.0,
+      "netIncome": 16602000000.0,
+      "eps": 109.42,
+      "freeCashFlow": 5629000000.0,
+      "totalDebt": 1841000000.0,
+      "cash": 5923000000.0,
+      "sharesOutstanding": 151718118.0,
+      "grossMargin": 0.527300759607912,
+      "operatingMargin": 0.23430018300784677,
+      "netMargin": 0.20810248439419388,
+      "roe": 0.1634537757211775,
+      "roic": 0.18075446519229096
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 67137000000.0,
+      "operatingIncome": 13256000000.0,
+      "netIncome": 13208000000.0,
+      "eps": null,
+      "freeCashFlow": -6438000000.0,
+      "totalDebt": 3423000000.0,
+      "cash": 2833000000.0,
+      "sharesOutstanding": 151718118.0,
+      "grossMargin": 0.577982334629191,
+      "operatingMargin": 0.19744701133503134,
+      "netMargin": 0.19673205534950922,
+      "roe": 0.11760829882908153,
+      "roic": 0.11454444905295175
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:41.728209+00:00"
+  }
+}

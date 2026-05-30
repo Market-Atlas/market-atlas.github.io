@@ -1,0 +1,111 @@
+{
+  "ticker": "BRO",
+  "name": "Brown & Brown, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 19065815040.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5763000000.0,
+    "operatingIncome": 1502000000.0,
+    "netIncome": 1054000000.0,
+    "eps": 3.16,
+    "freeCashFlow": 1382000000.0,
+    "totalDebt": 7918000000.0,
+    "cash": 1079000000.0,
+    "sharesOutstanding": 357000000.0
+  },
+  "ratios": {
+    "roe": 0.08400414441699211,
+    "roic": 0.07339359882726607,
+    "grossMargin": 0.4907166406385563,
+    "operatingMargin": 0.2606281450633351,
+    "netMargin": 0.18289085545722714,
+    "debtToEquity": 0.6437
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3563000000.0,
+      "operatingIncome": 963000000.0,
+      "netIncome": 672000000.0,
+      "eps": 2.37,
+      "freeCashFlow": 829000000.0,
+      "totalDebt": 4183000000.0,
+      "cash": 650000000.0,
+      "sharesOutstanding": 302900000.0,
+      "grossMargin": 0.490036486107213,
+      "operatingMargin": 0.2702778557395453,
+      "netMargin": 0.18860510805500982,
+      "roe": 0.14587765380106804,
+      "roic": 0.10956129971784836
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4199000000.0,
+      "operatingIncome": 1156000000.0,
+      "netIncome": 871000000.0,
+      "eps": 3.05,
+      "freeCashFlow": 941000000.0,
+      "totalDebt": 4020000000.0,
+      "cash": 700000000.0,
+      "sharesOutstanding": 304300000.0,
+      "grossMargin": 0.47916170516789713,
+      "operatingMargin": 0.27530364372469635,
+      "netMargin": 0.20743034055727555,
+      "roe": 0.15612116866822012,
+      "roic": 0.12042921137618502
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4705000000.0,
+      "operatingIncome": 1367000000.0,
+      "netIncome": 993000000.0,
+      "eps": 3.46,
+      "freeCashFlow": 1092000000.0,
+      "totalDebt": 4060000000.0,
+      "cash": 675000000.0,
+      "sharesOutstanding": 305958390.0,
+      "grossMargin": 0.48862911795961744,
+      "operatingMargin": 0.29054197662061637,
+      "netMargin": 0.2110520722635494,
+      "roe": 0.15467289719626168,
+      "roic": 0.13043893129770992
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5763000000.0,
+      "operatingIncome": 1502000000.0,
+      "netIncome": 1054000000.0,
+      "eps": 3.16,
+      "freeCashFlow": 1382000000.0,
+      "totalDebt": 7918000000.0,
+      "cash": 1079000000.0,
+      "sharesOutstanding": 357000000.0,
+      "grossMargin": 0.4907166406385563,
+      "operatingMargin": 0.2606281450633351,
+      "netMargin": 0.18289085545722714,
+      "roe": 0.08400414441699211,
+      "roic": 0.07339359882726607
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:54.063697+00:00"
+  }
+}

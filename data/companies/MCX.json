@@ -1,0 +1,128 @@
+{
+  "ticker": "MCX",
+  "name": "Multi Commodity Exchange of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "INR",
+  "marketCap": {
+    "value": 751961899008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2954.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23020000000.0,
+    "operatingIncome": 15685400000.0,
+    "netIncome": 13315500000.0,
+    "eps": 52.22,
+    "freeCashFlow": 29623800000.0,
+    "totalDebt": 47600000.0,
+    "cash": 8197600000.0,
+    "sharesOutstanding": 254991845.0
+  },
+  "ratios": {
+    "roe": 0.4675484736335737,
+    "roic": 0.549844007431556,
+    "grossMargin": 0.8293614248479583,
+    "operatingMargin": 0.6813814074717637,
+    "netMargin": 0.5784317984361425,
+    "debtToEquity": 0.00113
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4476900000.0,
+      "operatingIncome": 1338400000.0,
+      "netIncome": 1489700000.0,
+      "eps": 5.854,
+      "freeCashFlow": 701500000.0,
+      "totalDebt": 15500000.0,
+      "cash": 1810700000.0,
+      "sharesOutstanding": 254991845.0,
+      "grossMargin": 0.31061672139203467,
+      "operatingMargin": 0.2989568674752619,
+      "netMargin": 0.3327525743259845,
+      "roe": 0.10070303521936051,
+      "roic": 0.0903805246986528
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 5835400000.0,
+      "operatingIncome": 328300000.0,
+      "netIncome": 831100000.0,
+      "eps": 3.26,
+      "freeCashFlow": 2988900000.0,
+      "totalDebt": 16600000.0,
+      "cash": 1788500000.0,
+      "sharesOutstanding": 254991845.0,
+      "grossMargin": 0.09197312951982727,
+      "operatingMargin": 0.05626006786167186,
+      "netMargin": 0.1424238269870103,
+      "roe": 0.060291482585765374,
+      "roic": 0.023787614210255555
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 11126600000.0,
+      "operatingIncome": 6015600000.0,
+      "netIncome": 5600400000.0,
+      "eps": 21.96,
+      "freeCashFlow": 8542300000.0,
+      "totalDebt": 10100000.0,
+      "cash": 3385800000.0,
+      "sharesOutstanding": 254991845.0,
+      "grossMargin": 0.7246508367335933,
+      "operatingMargin": 0.5406503334351913,
+      "netMargin": 0.5033343519134327,
+      "roe": 0.2971980471237529,
+      "roic": 0.3190605756838035
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 23020000000.0,
+      "operatingIncome": 15685400000.0,
+      "netIncome": 13315500000.0,
+      "eps": 52.22,
+      "freeCashFlow": 29623800000.0,
+      "totalDebt": 47600000.0,
+      "cash": 8197600000.0,
+      "sharesOutstanding": 254991845.0,
+      "grossMargin": 0.8293614248479583,
+      "operatingMargin": 0.6813814074717637,
+      "netMargin": 0.5784317984361425,
+      "roe": 0.4675484736335737,
+      "roic": 0.549844007431556
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:24.665274+00:00"
+  }
+}

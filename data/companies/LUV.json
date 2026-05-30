@@ -1,0 +1,128 @@
+{
+  "ticker": "LUV",
+  "name": "Southwest Airlines Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20992831488.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.95,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28063000000.0,
+    "operatingIncome": 428000000.0,
+    "netIncome": 441000000.0,
+    "eps": 0.79,
+    "freeCashFlow": -831000000.0,
+    "totalDebt": 5981000000.0,
+    "cash": 3231000000.0,
+    "sharesOutstanding": 888111634.0
+  },
+  "ratios": {
+    "roe": 0.05525623355469239,
+    "roic": 0.030654634006589312,
+    "grossMargin": 0.1744289634037701,
+    "operatingMargin": 0.015251398638777038,
+    "netMargin": 0.015714642055375407,
+    "debtToEquity": 0.93033
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23814000000.0,
+      "operatingIncome": 1017000000.0,
+      "netIncome": 539000000.0,
+      "eps": 0.87,
+      "freeCashFlow": -156000000.0,
+      "totalDebt": 9431000000.0,
+      "cash": 9492000000.0,
+      "sharesOutstanding": 888111634.0,
+      "grossMargin": 0.19954648526077098,
+      "operatingMargin": 0.04270597127739985,
+      "netMargin": 0.02263374485596708,
+      "roe": 0.05043510807523159,
+      "roic": 0.05055174470623323
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 26091000000.0,
+      "operatingIncome": 224000000.0,
+      "netIncome": 465000000.0,
+      "eps": 0.81,
+      "freeCashFlow": -356000000.0,
+      "totalDebt": 9200000000.0,
+      "cash": 9288000000.0,
+      "sharesOutstanding": 888111634.0,
+      "grossMargin": 0.16185657889693764,
+      "operatingMargin": 0.008585335939596029,
+      "netMargin": 0.017822237553179257,
+      "roe": 0.0442225392296719,
+      "roic": 0.011361907177276186
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27483000000.0,
+      "operatingIncome": 321000000.0,
+      "netIncome": 465000000.0,
+      "eps": 0.76,
+      "freeCashFlow": -1592000000.0,
+      "totalDebt": 8058000000.0,
+      "cash": 7509000000.0,
+      "sharesOutstanding": 888111634.0,
+      "grossMargin": 0.16224575191936833,
+      "operatingMargin": 0.011679947603973366,
+      "netMargin": 0.016919550267438053,
+      "roe": 0.04492753623188406,
+      "roic": 0.0174380704041721
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 28063000000.0,
+      "operatingIncome": 428000000.0,
+      "netIncome": 441000000.0,
+      "eps": 0.79,
+      "freeCashFlow": -831000000.0,
+      "totalDebt": 5981000000.0,
+      "cash": 3231000000.0,
+      "sharesOutstanding": 888111634.0,
+      "grossMargin": 0.1744289634037701,
+      "operatingMargin": 0.015251398638777038,
+      "netMargin": 0.015714642055375407,
+      "roe": 0.05525623355469239,
+      "roic": 0.030654634006589312
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:50.555105+00:00"
+  }
+}

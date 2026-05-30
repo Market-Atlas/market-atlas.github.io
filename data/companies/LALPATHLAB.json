@@ -1,0 +1,111 @@
+{
+  "ticker": "LALPATHLAB",
+  "name": "Dr. Lal PathLabs Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "INR",
+  "marketCap": {
+    "value": 268400082944.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1607.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24612220000.0,
+    "operatingIncome": 5604440000.0,
+    "netIncome": 4871380000.0,
+    "eps": 29.2,
+    "freeCashFlow": 5150110000.0,
+    "totalDebt": 1574300000.0,
+    "cash": 2926260000.0,
+    "sharesOutstanding": 167183470.0
+  },
+  "ratios": {
+    "roe": 0.22420704050001955,
+    "roic": 0.24051893766267765,
+    "grossMargin": 0.6655632852298574,
+    "operatingMargin": 0.22770964992186807,
+    "netMargin": 0.1979252582660158,
+    "debtToEquity": 0.07831
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 20874000000.0,
+      "operatingIncome": 7371000000.0,
+      "netIncome": 3448000000.0,
+      "eps": 20.785,
+      "freeCashFlow": -294000000.0,
+      "totalDebt": 5324350000.0,
+      "cash": 3781950000.0,
+      "sharesOutstanding": 166689754.0,
+      "grossMargin": 0.7593657181182332,
+      "operatingMargin": 0.35311871227364183,
+      "netMargin": 0.16518156558398006,
+      "roe": 0.22863554049295892,
+      "roic": 0.36123286704513374
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 20166430000.0,
+      "operatingIncome": 3514640000.0,
+      "netIncome": 2388480000.0,
+      "eps": 14.37,
+      "freeCashFlow": 4114610000.0,
+      "totalDebt": 4194950000.0,
+      "cash": 2637310000.0,
+      "sharesOutstanding": 166735754.0,
+      "grossMargin": 0.6384159219058604,
+      "operatingMargin": 0.17428171471103215,
+      "netMargin": 0.11843841473180924,
+      "roe": 0.14334050692013073,
+      "roic": 0.16850377769989638
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 22265020000.0,
+      "operatingIncome": 4668730000.0,
+      "netIncome": 3577350000.0,
+      "eps": 21.49,
+      "freeCashFlow": 4779000000.0,
+      "totalDebt": 2469300000.0,
+      "cash": 3609330000.0,
+      "sharesOutstanding": 166955704.0,
+      "grossMargin": 0.6566681727660698,
+      "operatingMargin": 0.2096890099357647,
+      "netMargin": 0.16067131311806593,
+      "roe": 0.19344524337270175,
+      "roic": 0.22272211841067677
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 24612220000.0,
+      "operatingIncome": 5604440000.0,
+      "netIncome": 4871380000.0,
+      "eps": 29.2,
+      "freeCashFlow": 5150110000.0,
+      "totalDebt": 1574300000.0,
+      "cash": 2926260000.0,
+      "sharesOutstanding": 167183470.0,
+      "grossMargin": 0.6655632852298574,
+      "operatingMargin": 0.22770964992186807,
+      "netMargin": 0.1979252582660158,
+      "roe": 0.22420704050001955,
+      "roic": 0.24051893766267765
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:17.331240+00:00"
+  }
+}

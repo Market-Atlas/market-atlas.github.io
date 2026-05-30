@@ -1,0 +1,128 @@
+{
+  "ticker": "CPT",
+  "name": "Camden Property Trust",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10559092736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 106.56,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1573544000.0,
+    "operatingIncome": 288906000.0,
+    "netIncome": 384462000.0,
+    "eps": 3.54,
+    "freeCashFlow": 386219000.0,
+    "totalDebt": 3900790000.0,
+    "cash": 25203000.0,
+    "sharesOutstanding": 117737767.0
+  },
+  "ratios": {
+    "roe": 0.0881283605840015,
+    "roic": 0.03496249022637773,
+    "grossMargin": 0.6140965870671554,
+    "operatingMargin": 0.18360211090379425,
+    "netMargin": 0.2443287254757414,
+    "debtToEquity": 1.0414700000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1422756000.0,
+      "operatingIncome": 261313000.0,
+      "netIncome": 653613000.0,
+      "eps": 6.04,
+      "freeCashFlow": 295281000.0,
+      "totalDebt": 3680900000.0,
+      "cash": 10687000.0,
+      "sharesOutstanding": 115590000.0,
+      "grossMargin": 0.6280472547646961,
+      "operatingMargin": 0.18366677069012535,
+      "netMargin": 0.45939922235436015,
+      "roe": 0.13107335229073,
+      "roic": 0.030148531529203278
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1542027000.0,
+      "operatingIncome": 323816000.0,
+      "netIncome": 403309000.0,
+      "eps": 3.7,
+      "freeCashFlow": 384016000.0,
+      "totalDebt": 3715436000.0,
+      "cash": 259686000.0,
+      "sharesOutstanding": 115659556.0,
+      "grossMargin": 0.6210552733512448,
+      "operatingMargin": 0.20999372903327893,
+      "netMargin": 0.2615447070641435,
+      "roe": 0.08097343435947588,
+      "roic": 0.03723652407438519
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1543842000.0,
+      "operatingIncome": 297264000.0,
+      "netIncome": 163293000.0,
+      "eps": 1.5,
+      "freeCashFlow": 381142000.0,
+      "totalDebt": 3485591000.0,
+      "cash": 21045000.0,
+      "sharesOutstanding": 117737740.0,
+      "grossMargin": 0.6117892893184665,
+      "operatingMargin": 0.19254820117602708,
+      "netMargin": 0.1057705386950219,
+      "roe": 0.034927504674668326,
+      "roic": 0.036425889702576555
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1573544000.0,
+      "operatingIncome": 288906000.0,
+      "netIncome": 384462000.0,
+      "eps": 3.54,
+      "freeCashFlow": 386219000.0,
+      "totalDebt": 3900790000.0,
+      "cash": 25203000.0,
+      "sharesOutstanding": 117737767.0,
+      "grossMargin": 0.6140965870671554,
+      "operatingMargin": 0.18360211090379425,
+      "netMargin": 0.2443287254757414,
+      "roe": 0.0881283605840015,
+      "roic": 0.03496249022637773
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:05.777571+00:00"
+  }
+}

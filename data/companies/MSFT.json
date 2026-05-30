@@ -1,0 +1,111 @@
+{
+  "ticker": "MSFT",
+  "name": "Microsoft Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 3344578379776.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 450.24,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 281724000000.0,
+    "operatingIncome": 128528000000.0,
+    "netIncome": 101832000000.0,
+    "eps": 13.64,
+    "freeCashFlow": 71611000000.0,
+    "totalDebt": 60588000000.0,
+    "cash": 30242000000.0,
+    "sharesOutstanding": 7434158655.0
+  },
+  "ratios": {
+    "roe": 0.2964722734140952,
+    "roic": 0.318085861998134,
+    "grossMargin": 0.6882374238616519,
+    "operatingMargin": 0.4562195624085985,
+    "netMargin": 0.3614601524896707,
+    "debtToEquity": 0.30271000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 198270000000.0,
+      "operatingIncome": 83383000000.0,
+      "netIncome": 72738000000.0,
+      "eps": 9.65,
+      "freeCashFlow": 65149000000.0,
+      "totalDebt": 61270000000.0,
+      "cash": 13931000000.0,
+      "sharesOutstanding": 7464000000.0,
+      "grossMargin": 0.684016744842891,
+      "operatingMargin": 0.4205527815604983,
+      "netMargin": 0.3668633681343622,
+      "roe": 0.4367546925099975,
+      "roic": 0.3660167155373729
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 211915000000.0,
+      "operatingIncome": 88523000000.0,
+      "netIncome": 72361000000.0,
+      "eps": 9.68,
+      "freeCashFlow": 59475000000.0,
+      "totalDebt": 59965000000.0,
+      "cash": 34704000000.0,
+      "sharesOutstanding": 7432000000.0,
+      "grossMargin": 0.6892008588349102,
+      "operatingMargin": 0.417728806361041,
+      "netMargin": 0.3414623787839464,
+      "roe": 0.35088714643856406,
+      "roic": 0.33255819195455844
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 245122000000.0,
+      "operatingIncome": 109433000000.0,
+      "netIncome": 88136000000.0,
+      "eps": 11.8,
+      "freeCashFlow": 74071000000.0,
+      "totalDebt": 67127000000.0,
+      "cash": 18315000000.0,
+      "sharesOutstanding": 7434138859.0,
+      "grossMargin": 0.6976444382797138,
+      "operatingMargin": 0.44644299573273716,
+      "netMargin": 0.35955972944084985,
+      "roe": 0.32828137978299815,
+      "roic": 0.3260777583103896
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 281724000000.0,
+      "operatingIncome": 128528000000.0,
+      "netIncome": 101832000000.0,
+      "eps": 13.64,
+      "freeCashFlow": 71611000000.0,
+      "totalDebt": 60588000000.0,
+      "cash": 30242000000.0,
+      "sharesOutstanding": 7434158655.0,
+      "grossMargin": 0.6882374238616519,
+      "operatingMargin": 0.4562195624085985,
+      "netMargin": 0.3614601524896707,
+      "roe": 0.2964722734140952,
+      "roic": 0.318085861998134
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:19.937128+00:00"
+  }
+}

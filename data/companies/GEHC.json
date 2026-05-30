@@ -1,0 +1,128 @@
+{
+  "ticker": "GEHC",
+  "name": "GE HealthCare Technologies Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28357953536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.34,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20625000000.0,
+    "operatingIncome": 2762000000.0,
+    "netIncome": 2084000000.0,
+    "eps": 4.55,
+    "freeCashFlow": 1505000000.0,
+    "totalDebt": 10463000000.0,
+    "cash": 4492000000.0,
+    "sharesOutstanding": 458844209.0
+  },
+  "ratios": {
+    "roe": 0.2007900568455535,
+    "roic": 0.1325208713175319,
+    "grossMargin": 0.39985454545454546,
+    "operatingMargin": 0.13391515151515151,
+    "netMargin": 0.10104242424242424,
+    "debtToEquity": 0.97055
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 18341000000.0,
+      "operatingIncome": 2522000000.0,
+      "netIncome": 1916000000.0,
+      "eps": 4.63,
+      "freeCashFlow": 1803000000.0,
+      "totalDebt": 8635000000.0,
+      "cash": 1440000000.0,
+      "sharesOutstanding": 454000000.0,
+      "grossMargin": 0.39141813423477456,
+      "operatingMargin": 0.1375061337985933,
+      "netMargin": 0.1044654053759337,
+      "roe": 0.2047664849845036,
+      "roic": 0.14017341040462428
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19552000000.0,
+      "operatingIncome": 2435000000.0,
+      "netIncome": 1568000000.0,
+      "eps": 3.03,
+      "freeCashFlow": 1714000000.0,
+      "totalDebt": 9863000000.0,
+      "cash": 2494000000.0,
+      "sharesOutstanding": 455342290.0,
+      "grossMargin": 0.4051759410801964,
+      "operatingMargin": 0.12453968903436989,
+      "netMargin": 0.08019639934533551,
+      "roe": 0.2198233562315996,
+      "roic": 0.1432690044716404
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19672000000.0,
+      "operatingIncome": 2625000000.0,
+      "netIncome": 1993000000.0,
+      "eps": 4.34,
+      "freeCashFlow": 1550000000.0,
+      "totalDebt": 9376000000.0,
+      "cash": 2874000000.0,
+      "sharesOutstanding": 457246971.0,
+      "grossMargin": 0.4170902806018707,
+      "operatingMargin": 0.13343838958926393,
+      "netMargin": 0.10131150874339162,
+      "roe": 0.23596968979398533,
+      "roic": 0.14728986645718775
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20625000000.0,
+      "operatingIncome": 2762000000.0,
+      "netIncome": 2084000000.0,
+      "eps": 4.55,
+      "freeCashFlow": 1505000000.0,
+      "totalDebt": 10463000000.0,
+      "cash": 4492000000.0,
+      "sharesOutstanding": 458844209.0,
+      "grossMargin": 0.39985454545454546,
+      "operatingMargin": 0.13391515151515151,
+      "netMargin": 0.10104242424242424,
+      "roe": 0.2007900568455535,
+      "roic": 0.1325208713175319
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:29.513186+00:00"
+  }
+}

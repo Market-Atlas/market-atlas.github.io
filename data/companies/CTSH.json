@@ -1,0 +1,111 @@
+{
+  "ticker": "CTSH",
+  "name": "Cognizant Technology Solutions Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 26372116480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 55.755,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21108000000.0,
+    "operatingIncome": 3327000000.0,
+    "netIncome": 2230000000.0,
+    "eps": 4.56,
+    "freeCashFlow": 2595000000.0,
+    "totalDebt": 1152000000.0,
+    "cash": 1901000000.0,
+    "sharesOutstanding": 479000000.0
+  },
+  "ratios": {
+    "roe": 0.1485181485181485,
+    "roic": 0.20578957134904435,
+    "grossMargin": 0.33717074095129806,
+    "operatingMargin": 0.1576179647527004,
+    "netMargin": 0.105647148000758,
+    "debtToEquity": 0.07246999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19428000000.0,
+      "operatingIncome": 2968000000.0,
+      "netIncome": 2290000000.0,
+      "eps": 4.41,
+      "freeCashFlow": 2236000000.0,
+      "totalDebt": 1534000000.0,
+      "cash": 2191000000.0,
+      "sharesOutstanding": 509000000.0,
+      "grossMargin": 0.3592752728021412,
+      "operatingMargin": 0.152769199094091,
+      "netMargin": 0.11787111385628989,
+      "roe": 0.18604273295962304,
+      "roic": 0.21440439211153653
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19353000000.0,
+      "operatingIncome": 2918000000.0,
+      "netIncome": 2126000000.0,
+      "eps": 4.21,
+      "freeCashFlow": 2013000000.0,
+      "totalDebt": 1315000000.0,
+      "cash": 2621000000.0,
+      "sharesOutstanding": 498000000.0,
+      "grossMargin": 0.3456311682943213,
+      "operatingMargin": 0.15077765721076836,
+      "netMargin": 0.10985376944143027,
+      "roe": 0.16073183639525213,
+      "roic": 0.20066015678723698
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19736000000.0,
+      "operatingIncome": 3026000000.0,
+      "netIncome": 2240000000.0,
+      "eps": 4.51,
+      "freeCashFlow": 1827000000.0,
+      "totalDebt": 1480000000.0,
+      "cash": 2231000000.0,
+      "sharesOutstanding": 495000000.0,
+      "grossMargin": 0.3434333198216457,
+      "operatingMargin": 0.1533238751520065,
+      "netMargin": 0.11349817592217268,
+      "roe": 0.15546918378678512,
+      "roic": 0.19045820745216516
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21108000000.0,
+      "operatingIncome": 3327000000.0,
+      "netIncome": 2230000000.0,
+      "eps": 4.56,
+      "freeCashFlow": 2595000000.0,
+      "totalDebt": 1152000000.0,
+      "cash": 1901000000.0,
+      "sharesOutstanding": 479000000.0,
+      "grossMargin": 0.33717074095129806,
+      "operatingMargin": 0.1576179647527004,
+      "netMargin": 0.105647148000758,
+      "roe": 0.1485181485181485,
+      "roic": 0.20578957134904435
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:07.864077+00:00"
+  }
+}

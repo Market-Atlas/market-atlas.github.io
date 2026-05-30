@@ -1,0 +1,111 @@
+{
+  "ticker": "SOBHA",
+  "name": "Sobha Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 151660527616.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1418.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40167590000.0,
+    "operatingIncome": 2235860000.0,
+    "netIncome": 946860000.0,
+    "eps": 9.28,
+    "freeCashFlow": 686740000.0,
+    "totalDebt": 11834620000.0,
+    "cash": 706680000.0,
+    "sharesOutstanding": 106953834.0
+  },
+  "ratios": {
+    "roe": 0.020762169811858595,
+    "roic": 0.038925356130117716,
+    "grossMargin": 0.33045497626320125,
+    "operatingMargin": 0.05566328475270734,
+    "netMargin": 0.023572736128804343,
+    "debtToEquity": 0.22402999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 25555310000.0,
+      "operatingIncome": 4613860000.0,
+      "netIncome": 1731900000.0,
+      "eps": 17.786203,
+      "freeCashFlow": 8064090000.0,
+      "totalDebt": 25290760000.0,
+      "cash": 1390650000.0,
+      "sharesOutstanding": 97425725.0,
+      "grossMargin": 0.44052214588670613,
+      "operatingMargin": 0.18054408261922864,
+      "netMargin": 0.06777065118756141,
+      "roe": 0.07148007377895946,
+      "roic": 0.093171854784007
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 32749150000.0,
+      "operatingIncome": 3073350000.0,
+      "netIncome": 1042050000.0,
+      "eps": 10.69898,
+      "freeCashFlow": 10268070000.0,
+      "totalDebt": 20268300000.0,
+      "cash": 1035100000.0,
+      "sharesOutstanding": 97425725.0,
+      "grossMargin": 0.3532116100723225,
+      "operatingMargin": 0.09384518376812834,
+      "netMargin": 0.031819146451129265,
+      "roe": 0.041771039147045844,
+      "roic": 0.06797189694307267
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 30631950000.0,
+      "operatingIncome": 1996650000.0,
+      "netIncome": 491130000.0,
+      "eps": 5.18,
+      "freeCashFlow": 5227250000.0,
+      "totalDebt": 19397330000.0,
+      "cash": 561120000.0,
+      "sharesOutstanding": 97425725.0,
+      "grossMargin": 0.3712496266153477,
+      "operatingMargin": 0.06518194238368762,
+      "netMargin": 0.016033259390930057,
+      "roe": 0.019535224500153932,
+      "roic": 0.044830186849138275
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40167590000.0,
+      "operatingIncome": 2235860000.0,
+      "netIncome": 946860000.0,
+      "eps": 9.28,
+      "freeCashFlow": 686740000.0,
+      "totalDebt": 11834620000.0,
+      "cash": 706680000.0,
+      "sharesOutstanding": 106953834.0,
+      "grossMargin": 0.33045497626320125,
+      "operatingMargin": 0.05566328475270734,
+      "netMargin": 0.023572736128804343,
+      "roe": 0.020762169811858595,
+      "roic": 0.038925356130117716
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:56.149326+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GMDCLTD",
+  "name": "Gujarat Mineral Development Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "currency": "INR",
+  "marketCap": {
+    "value": 213059993600.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 670.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26533800000.0,
+    "operatingIncome": 3290700000.0,
+    "netIncome": 9566700000.0,
+    "eps": 30.08,
+    "freeCashFlow": -2903100000.0,
+    "totalDebt": 3165000000.0,
+    "cash": 943100000.0,
+    "sharesOutstanding": 318000000.0
+  },
+  "ratios": {
+    "roe": 0.13526158179149805,
+    "roic": 0.044533673287103955,
+    "grossMargin": 0.4084337712653295,
+    "operatingMargin": 0.1240191755421387,
+    "netMargin": 0.3605476788096692,
+    "debtToEquity": 0.04475
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 34978799000.0,
+      "operatingIncome": 12606881000.0,
+      "netIncome": 12044468000.0,
+      "eps": 37.88,
+      "freeCashFlow": 9077061000.0,
+      "totalDebt": 20678000.0,
+      "cash": 510744000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.4723011501910057,
+      "operatingMargin": 0.3604149187626482,
+      "netMargin": 0.34433623635848676,
+      "roe": 0.20819560831851916,
+      "roic": 0.21783938030945302
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 24628800000.0,
+      "operatingIncome": 5364900000.0,
+      "netIncome": 5973600000.0,
+      "eps": 18.78,
+      "freeCashFlow": -3685700000.0,
+      "totalDebt": 28200000.0,
+      "cash": 507600000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.3785202689534204,
+      "operatingMargin": 0.21783034496199571,
+      "netMargin": 0.24254531280452155,
+      "roe": 0.0979320430051117,
+      "roic": 0.08791228599145277
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28508400000.0,
+      "operatingIncome": 5434300000.0,
+      "netIncome": 6798500000.0,
+      "eps": 21.38,
+      "freeCashFlow": 4214600000.0,
+      "totalDebt": 1264400000.0,
+      "cash": 1188600000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.3644645087062059,
+      "operatingMargin": 0.19062100994794517,
+      "netMargin": 0.23847357270137926,
+      "roe": 0.10603205994004748,
+      "roic": 0.08311640242391613
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 26533800000.0,
+      "operatingIncome": 3290700000.0,
+      "netIncome": 9566700000.0,
+      "eps": 30.08,
+      "freeCashFlow": -2903100000.0,
+      "totalDebt": 3165000000.0,
+      "cash": 943100000.0,
+      "sharesOutstanding": 318000000.0,
+      "grossMargin": 0.4084337712653295,
+      "operatingMargin": 0.1240191755421387,
+      "netMargin": 0.3605476788096692,
+      "roe": 0.13526158179149805,
+      "roic": 0.044533673287103955
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:46.805466+00:00"
+  }
+}

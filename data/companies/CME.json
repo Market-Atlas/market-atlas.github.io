@@ -1,0 +1,128 @@
+{
+  "ticker": "CME",
+  "name": "CME Group Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 98836226048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 273.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6520600000.0,
+    "operatingIncome": 4229500000.0,
+    "netIncome": 4072200000.0,
+    "eps": 11.16,
+    "freeCashFlow": 4193600000.0,
+    "totalDebt": 3422300000.0,
+    "cash": 4416900000.0,
+    "sharesOutstanding": 358953138.0
+  },
+  "ratios": {
+    "roe": 0.14174922201878293,
+    "roic": 0.13155316402544284,
+    "grossMargin": 0.8609023709474588,
+    "operatingMargin": 0.6486366285311168,
+    "netMargin": 0.624513081618256,
+    "debtToEquity": 0.14059
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5019400000.0,
+      "operatingIncome": 3015900000.0,
+      "netIncome": 2691000000.0,
+      "eps": 7.4,
+      "freeCashFlow": 2966300000.0,
+      "totalDebt": 3438400000.0,
+      "cash": 2720100000.0,
+      "sharesOutstanding": 358932100.0,
+      "grossMargin": 0.8499621468701438,
+      "operatingMargin": 0.600848707016775,
+      "netMargin": 0.5361198549627445,
+      "roe": 0.1001164490842191,
+      "roic": 0.09947851212681952
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5578900000.0,
+      "operatingIncome": 3435700000.0,
+      "netIncome": 3226200000.0,
+      "eps": 8.86,
+      "freeCashFlow": 3377400000.0,
+      "totalDebt": 3425400000.0,
+      "cash": 2912000000.0,
+      "sharesOutstanding": 359234138.0,
+      "grossMargin": 0.8514760974385631,
+      "operatingMargin": 0.615838247683235,
+      "netMargin": 0.5782860420513004,
+      "roe": 0.12066018647687365,
+      "roic": 0.1139033195969937
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6130100000.0,
+      "operatingIncome": 3931500000.0,
+      "netIncome": 3525800000.0,
+      "eps": 9.67,
+      "freeCashFlow": 3596500000.0,
+      "totalDebt": 3428000000.0,
+      "cash": 2892400000.0,
+      "sharesOutstanding": 359605138.0,
+      "grossMargin": 0.8612910066719955,
+      "operatingMargin": 0.6413435343632241,
+      "netMargin": 0.575161906004796,
+      "roe": 0.1331148605537077,
+      "roic": 0.1314228026836125
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6520600000.0,
+      "operatingIncome": 4229500000.0,
+      "netIncome": 4072200000.0,
+      "eps": 11.16,
+      "freeCashFlow": 4193600000.0,
+      "totalDebt": 3422300000.0,
+      "cash": 4416900000.0,
+      "sharesOutstanding": 358953138.0,
+      "grossMargin": 0.8609023709474588,
+      "operatingMargin": 0.6486366285311168,
+      "netMargin": 0.624513081618256,
+      "roe": 0.14174922201878293,
+      "roic": 0.13155316402544284
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:01.582998+00:00"
+  }
+}

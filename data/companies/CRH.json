@@ -1,0 +1,128 @@
+{
+  "ticker": "CRH",
+  "name": "CRH plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 72693497856.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 108.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37447000000.0,
+    "operatingIncome": 5323000000.0,
+    "netIncome": 3730000000.0,
+    "eps": 5.51,
+    "freeCashFlow": 2912000000.0,
+    "totalDebt": 19705000000.0,
+    "cash": 4096000000.0,
+    "sharesOutstanding": 706946142.0
+  },
+  "ratios": {
+    "roe": 0.15539076820529912,
+    "roic": 0.12178269921526459,
+    "grossMargin": 0.36125724357091354,
+    "operatingMargin": 0.14214756856356983,
+    "netMargin": 0.09960744518920074,
+    "debtToEquity": 0.8322700000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 32723000000.0,
+      "operatingIncome": 3759000000.0,
+      "netIncome": 3862000000.0,
+      "eps": 5.03,
+      "freeCashFlow": 2277000000.0,
+      "totalDebt": 10874000000.0,
+      "cash": 5931000000.0,
+      "sharesOutstanding": 752140000.0,
+      "grossMargin": 0.3305014821379458,
+      "operatingMargin": 0.1148733306848394,
+      "netMargin": 0.11802096384805794,
+      "roe": 0.17430157512298597,
+      "roic": 0.1138021858254367
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34949000000.0,
+      "operatingIncome": 4487000000.0,
+      "netIncome": 3154000000.0,
+      "eps": 4.33,
+      "freeCashFlow": 3200000000.0,
+      "totalDebt": 13022000000.0,
+      "cash": 6341000000.0,
+      "sharesOutstanding": 734519598.0,
+      "grossMargin": 0.34229877821969157,
+      "operatingMargin": 0.12838707831411486,
+      "netMargin": 0.09024578671778878,
+      "roe": 0.15124196796777598,
+      "roic": 0.13245365450466406
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 35572000000.0,
+      "operatingIncome": 4922000000.0,
+      "netIncome": 3458000000.0,
+      "eps": 5.02,
+      "freeCashFlow": 2411000000.0,
+      "totalDebt": 15564000000.0,
+      "cash": 3720000000.0,
+      "sharesOutstanding": 718647277.0,
+      "grossMargin": 0.3570504891487687,
+      "operatingMargin": 0.13836725514449566,
+      "netMargin": 0.09721128977847746,
+      "roe": 0.16004072754200027,
+      "roic": 0.13241505474698018
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 37447000000.0,
+      "operatingIncome": 5323000000.0,
+      "netIncome": 3730000000.0,
+      "eps": 5.51,
+      "freeCashFlow": 2912000000.0,
+      "totalDebt": 19705000000.0,
+      "cash": 4096000000.0,
+      "sharesOutstanding": 706946142.0,
+      "grossMargin": 0.36125724357091354,
+      "operatingMargin": 0.14214756856356983,
+      "netMargin": 0.09960744518920074,
+      "roe": 0.15539076820529912,
+      "roic": 0.12178269921526459
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:05.851218+00:00"
+  }
+}

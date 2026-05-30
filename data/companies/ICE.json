@@ -1,0 +1,111 @@
+{
+  "ticker": "ICE",
+  "name": "Intercontinental Exchange, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 83611025408.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 147.85,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12640000000.0,
+    "operatingIncome": 4999000000.0,
+    "netIncome": 3315000000.0,
+    "eps": 5.77,
+    "freeCashFlow": 3871000000.0,
+    "totalDebt": 20279000000.0,
+    "cash": 837000000.0,
+    "sharesOutstanding": 653000000.0
+  },
+  "ratios": {
+    "roe": 0.11464637731281342,
+    "roic": 0.10161808350611863,
+    "grossMargin": 0.5615506329113924,
+    "operatingMargin": 0.3954905063291139,
+    "netMargin": 0.2622626582278481,
+    "debtToEquity": 0.70986
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9636000000.0,
+      "operatingIncome": 3731000000.0,
+      "netIncome": 1446000000.0,
+      "eps": 2.58,
+      "freeCashFlow": 3072000000.0,
+      "totalDebt": 18376000000.0,
+      "cash": 1799000000.0,
+      "sharesOutstanding": 634000000.0,
+      "grossMargin": 0.5398505603985057,
+      "operatingMargin": 0.38719385637193854,
+      "netMargin": 0.15006226650062265,
+      "roe": 0.06368360785695411,
+      "roic": 0.09081836327345309
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9903000000.0,
+      "operatingIncome": 3963000000.0,
+      "netIncome": 2368000000.0,
+      "eps": 4.19,
+      "freeCashFlow": 3053000000.0,
+      "totalDebt": 22912000000.0,
+      "cash": 899000000.0,
+      "sharesOutstanding": 649000000.0,
+      "grossMargin": 0.5714429970715945,
+      "operatingMargin": 0.40018176310209025,
+      "netMargin": 0.23911945874987378,
+      "roe": 0.09207916942100557,
+      "roic": 0.0814945814226079
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11761000000.0,
+      "operatingIncome": 4413000000.0,
+      "netIncome": 2754000000.0,
+      "eps": 4.78,
+      "freeCashFlow": 3857000000.0,
+      "totalDebt": 20703000000.0,
+      "cash": 844000000.0,
+      "sharesOutstanding": 651176497.0,
+      "grossMargin": 0.554544681574696,
+      "operatingMargin": 0.37522319530652154,
+      "netMargin": 0.23416376158489924,
+      "roe": 0.09961297789995298,
+      "roic": 0.09127197518097208
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12640000000.0,
+      "operatingIncome": 4999000000.0,
+      "netIncome": 3315000000.0,
+      "eps": 5.77,
+      "freeCashFlow": 3871000000.0,
+      "totalDebt": 20279000000.0,
+      "cash": 837000000.0,
+      "sharesOutstanding": 653000000.0,
+      "grossMargin": 0.5615506329113924,
+      "operatingMargin": 0.3954905063291139,
+      "netMargin": 0.2622626582278481,
+      "roe": 0.11464637731281342,
+      "roic": 0.10161808350611863
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.578799+00:00"
+  }
+}

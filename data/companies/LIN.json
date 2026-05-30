@@ -1,0 +1,128 @@
+{
+  "ticker": "LIN",
+  "name": "Linde plc",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 230105628672.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 497.69,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33986000000.0,
+    "operatingIncome": 9254000000.0,
+    "netIncome": 6898000000.0,
+    "eps": 14.61,
+    "freeCashFlow": 5089000000.0,
+    "totalDebt": 28069000000.0,
+    "cash": 5056000000.0,
+    "sharesOutstanding": 490766972.0
+  },
+  "ratios": {
+    "roe": 0.18036344620211792,
+    "roic": 0.13954821003106432,
+    "grossMargin": 0.4883481433531454,
+    "operatingMargin": 0.2722885894191726,
+    "netMargin": 0.20296592714647207,
+    "debtToEquity": 0.65642
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 33364000000.0,
+      "operatingIncome": 6460000000.0,
+      "netIncome": 4147000000.0,
+      "eps": 8.23,
+      "freeCashFlow": 5691000000.0,
+      "totalDebt": 18791000000.0,
+      "cash": 5436000000.0,
+      "sharesOutstanding": 552012862.0,
+      "grossMargin": 0.4170363265795468,
+      "operatingMargin": 0.19362186788154898,
+      "netMargin": 0.12429564800383647,
+      "roe": 0.10360247826521435,
+      "roic": 0.10982845679117292
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 32854000000.0,
+      "operatingIncome": 8105000000.0,
+      "netIncome": 6199000000.0,
+      "eps": 12.59,
+      "freeCashFlow": 5518000000.0,
+      "totalDebt": 20315000000.0,
+      "cash": 4664000000.0,
+      "sharesOutstanding": 490766972.0,
+      "grossMargin": 0.467583855847081,
+      "operatingMargin": 0.2466975101966275,
+      "netMargin": 0.18868326535581664,
+      "roe": 0.156067472306143,
+      "roic": 0.13500458066128093
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 33005000000.0,
+      "operatingIncome": 8595000000.0,
+      "netIncome": 6565000000.0,
+      "eps": 13.62,
+      "freeCashFlow": 4926000000.0,
+      "totalDebt": 22609000000.0,
+      "cash": 4850000000.0,
+      "sharesOutstanding": 490766972.0,
+      "grossMargin": 0.48059384941675504,
+      "operatingMargin": 0.26041508862293594,
+      "netMargin": 0.19890925617330707,
+      "roe": 0.17234589940144912,
+      "roic": 0.14159569035106506
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33986000000.0,
+      "operatingIncome": 9254000000.0,
+      "netIncome": 6898000000.0,
+      "eps": 14.61,
+      "freeCashFlow": 5089000000.0,
+      "totalDebt": 28069000000.0,
+      "cash": 5056000000.0,
+      "sharesOutstanding": 490766972.0,
+      "grossMargin": 0.4883481433531454,
+      "operatingMargin": 0.2722885894191726,
+      "netMargin": 0.20296592714647207,
+      "roe": 0.18036344620211792,
+      "roic": 0.13954821003106432
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:25.460086+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "BF-B",
+  "name": "Brown-Forman Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11797856256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 25.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3975000000.0,
+    "operatingIncome": 1167000000.0,
+    "netIncome": 869000000.0,
+    "eps": 1.84,
+    "freeCashFlow": 431000000.0,
+    "totalDebt": 2733000000.0,
+    "cash": 444000000.0,
+    "sharesOutstanding": 484532000.0
+  },
+  "ratios": {
+    "roe": 0.21763085399449036,
+    "roic": 0.1735057983942908,
+    "grossMargin": 0.5894339622641509,
+    "operatingMargin": 0.29358490566037737,
+    "netMargin": 0.21861635220125786,
+    "debtToEquity": 0.67246
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 3933000000.0,
+      "operatingIncome": 1204000000.0,
+      "netIncome": 838000000.0,
+      "eps": 1.74,
+      "freeCashFlow": 798000000.0,
+      "totalDebt": 2269000000.0,
+      "cash": 868000000.0,
+      "sharesOutstanding": 484532000.0,
+      "grossMargin": 0.6079328756674295,
+      "operatingMargin": 0.30612763793541825,
+      "netMargin": 0.213068904144419,
+      "roe": 0.3061746437705517,
+      "roic": 0.24051138633639632
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 4228000000.0,
+      "operatingIncome": 1127000000.0,
+      "netIncome": 783000000.0,
+      "eps": 1.63,
+      "freeCashFlow": 457000000.0,
+      "totalDebt": 2913000000.0,
+      "cash": 374000000.0,
+      "sharesOutstanding": 484532000.0,
+      "grossMargin": 0.5898770104068117,
+      "operatingMargin": 0.26655629139072845,
+      "netMargin": 0.18519394512771997,
+      "roe": 0.23959608323133416,
+      "roic": 0.1823329558323896
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 4178000000.0,
+      "operatingIncome": 1147000000.0,
+      "netIncome": 1024000000.0,
+      "eps": 2.14,
+      "freeCashFlow": 419000000.0,
+      "totalDebt": 3100000000.0,
+      "cash": 446000000.0,
+      "sharesOutstanding": 484532000.0,
+      "grossMargin": 0.6045955002393489,
+      "operatingMargin": 0.2745332695069411,
+      "netMargin": 0.24509334609861178,
+      "roe": 0.2911572362809212,
+      "roic": 0.1733413933806861
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 3975000000.0,
+      "operatingIncome": 1167000000.0,
+      "netIncome": 869000000.0,
+      "eps": 1.84,
+      "freeCashFlow": 431000000.0,
+      "totalDebt": 2733000000.0,
+      "cash": 444000000.0,
+      "sharesOutstanding": 484532000.0,
+      "grossMargin": 0.5894339622641509,
+      "operatingMargin": 0.29358490566037737,
+      "netMargin": 0.21861635220125786,
+      "roe": 0.21763085399449036,
+      "roic": 0.1735057983942908
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:50.939535+00:00"
+  }
+}

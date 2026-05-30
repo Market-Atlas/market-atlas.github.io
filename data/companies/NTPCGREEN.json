@@ -1,0 +1,111 @@
+{
+  "ticker": "NTPCGREEN",
+  "name": "NTPC GREEN ENERGY LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "INR",
+  "marketCap": {
+    "value": 872293597184.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 103.52,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28584200000.0,
+    "operatingIncome": 13731100000.0,
+    "netIncome": 5226000000.0,
+    "eps": 0.62,
+    "freeCashFlow": -128796400000.0,
+    "totalDebt": 317161400000.0,
+    "cash": 1016100000.0,
+    "sharesOutstanding": 8426329669.0
+  },
+  "ratios": {
+    "roe": 0.02755574818918239,
+    "roic": 0.02709301433091831,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.4803737729235032,
+    "netMargin": 0.18282827576073496,
+    "debtToEquity": 1.6528100000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1647130000.0,
+      "operatingIncome": 1023450000.0,
+      "netIncome": 1712190000.0,
+      "eps": 0.203183,
+      "freeCashFlow": -7341730000.0,
+      "totalDebt": 61370050000.0,
+      "cash": 727460000.0,
+      "sharesOutstanding": 8426329669.0,
+      "grossMargin": 0.9442484806906559,
+      "operatingMargin": 0.6213535057949281,
+      "netMargin": 1.0394990073643247,
+      "roe": 0.03503250786916319,
+      "roic": 0.009283467264586844
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 18975100000.0,
+      "operatingIncome": 11132500000.0,
+      "netIncome": 3428500000.0,
+      "eps": 0.406855,
+      "freeCashFlow": -79367300000.0,
+      "totalDebt": 138559300000.0,
+      "cash": 1156200000.0,
+      "sharesOutstanding": 8426329669.0,
+      "grossMargin": 0.9364641029559791,
+      "operatingMargin": 0.5866899252177854,
+      "netMargin": 0.18068415976727395,
+      "roe": 0.055013205736713235,
+      "roic": 0.055418464790295933
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22096400000.0,
+      "operatingIncome": 11584800000.0,
+      "netIncome": 4754800000.0,
+      "eps": 0.67,
+      "freeCashFlow": -99861800000.0,
+      "totalDebt": 194409800000.0,
+      "cash": 360400000.0,
+      "sharesOutstanding": 8426329669.0,
+      "grossMargin": 0.9345413732553719,
+      "operatingMargin": 0.524284498832389,
+      "netMargin": 0.2151843739251643,
+      "roe": 0.025784774033450576,
+      "roic": 0.030581827665984183
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 28584200000.0,
+      "operatingIncome": 13731100000.0,
+      "netIncome": 5226000000.0,
+      "eps": 0.62,
+      "freeCashFlow": -128796400000.0,
+      "totalDebt": 317161400000.0,
+      "cash": 1016100000.0,
+      "sharesOutstanding": 8426329669.0,
+      "grossMargin": null,
+      "operatingMargin": 0.4803737729235032,
+      "netMargin": 0.18282827576073496,
+      "roe": 0.02755574818918239,
+      "roic": 0.02709301433091831
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:34.740954+00:00"
+  }
+}

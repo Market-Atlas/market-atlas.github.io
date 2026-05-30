@@ -1,0 +1,128 @@
+{
+  "ticker": "WAT",
+  "name": "Waters Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 37661151232.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 383.57,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3165286000.0,
+    "operatingIncome": 802588000.0,
+    "netIncome": 642629000.0,
+    "eps": 10.76,
+    "freeCashFlow": 539810000.0,
+    "totalDebt": 1491084000.0,
+    "cash": 587831000.0,
+    "sharesOutstanding": 163162000.0
+  },
+  "ratios": {
+    "roe": 0.2509052248869884,
+    "roic": 0.1980561287517342,
+    "grossMargin": 0.5928260511056505,
+    "operatingMargin": 0.2535593940010476,
+    "netMargin": 0.20302399214478564,
+    "debtToEquity": 0.36634
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2971956000.0,
+      "operatingIncome": 883192000.0,
+      "netIncome": 707755000.0,
+      "eps": 11.73,
+      "freeCashFlow": 428205000.0,
+      "totalDebt": 1663415000.0,
+      "cash": 480529000.0,
+      "sharesOutstanding": 162425000.0,
+      "grossMargin": 0.5800132976396689,
+      "operatingMargin": 0.29717532830230325,
+      "netMargin": 0.23814450819594907,
+      "roe": 1.402917413298235,
+      "roic": 0.4073946112902653
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2956416000.0,
+      "operatingIncome": 817676000.0,
+      "netIncome": 642234000.0,
+      "eps": 10.84,
+      "freeCashFlow": 442177000.0,
+      "totalDebt": 2442264000.0,
+      "cash": 395076000.0,
+      "sharesOutstanding": 162709000.0,
+      "grossMargin": 0.5957189380655497,
+      "operatingMargin": 0.2765767740399186,
+      "netMargin": 0.21723397519158333,
+      "roe": 0.5582988000949284,
+      "roic": 0.22759975004210037
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2958387000.0,
+      "operatingIncome": 837921000.0,
+      "netIncome": 637834000.0,
+      "eps": 10.71,
+      "freeCashFlow": 619642000.0,
+      "totalDebt": 1702342000.0,
+      "cash": 325355000.0,
+      "sharesOutstanding": 162962000.0,
+      "grossMargin": 0.5943056131601444,
+      "operatingMargin": 0.2832357632723508,
+      "netMargin": 0.21560194795339488,
+      "roe": 0.34882775947808786,
+      "roic": 0.23731431165705472
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3165286000.0,
+      "operatingIncome": 802588000.0,
+      "netIncome": 642629000.0,
+      "eps": 10.76,
+      "freeCashFlow": 539810000.0,
+      "totalDebt": 1491084000.0,
+      "cash": 587831000.0,
+      "sharesOutstanding": 163162000.0,
+      "grossMargin": 0.5928260511056505,
+      "operatingMargin": 0.2535593940010476,
+      "netMargin": 0.20302399214478564,
+      "roe": 0.2509052248869884,
+      "roic": 0.1980561287517342
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:37.255916+00:00"
+  }
+}

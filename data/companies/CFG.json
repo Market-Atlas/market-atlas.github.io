@@ -1,0 +1,128 @@
+{
+  "ticker": "CFG",
+  "name": "Citizens Financial Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 26328629248.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8247000000.0,
+    "operatingIncome": null,
+    "netIncome": 1831000000.0,
+    "eps": 3.86,
+    "freeCashFlow": 2037000000.0,
+    "totalDebt": 11282000000.0,
+    "cash": 13688000000.0,
+    "sharesOutstanding": 652238745.0
+  },
+  "ratios": {
+    "roe": 0.06957479955922027,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.32051,
+    "netMargin": 0.22202012853158726,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8021000000.0,
+      "operatingIncome": null,
+      "netIncome": 2073000000.0,
+      "eps": 4.1,
+      "freeCashFlow": 3993000000.0,
+      "totalDebt": 15890000000.0,
+      "cash": 10850000000.0,
+      "sharesOutstanding": 645220018.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2584465777334497,
+      "roe": 0.0875052764879696,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8224000000.0,
+      "operatingIncome": null,
+      "netIncome": 1608000000.0,
+      "eps": 3.13,
+      "freeCashFlow": 2789000000.0,
+      "totalDebt": 13972000000.0,
+      "cash": 12033000000.0,
+      "sharesOutstanding": 647829720.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19552529182879377,
+      "roe": 0.0660586640374661,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7809000000.0,
+      "operatingIncome": null,
+      "netIncome": 1509000000.0,
+      "eps": 3.03,
+      "freeCashFlow": 1879000000.0,
+      "totalDebt": 12401000000.0,
+      "cash": 11236000000.0,
+      "sharesOutstanding": 650068324.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19323857087975413,
+      "roe": 0.06221654160138534,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8247000000.0,
+      "operatingIncome": null,
+      "netIncome": 1831000000.0,
+      "eps": 3.86,
+      "freeCashFlow": 2037000000.0,
+      "totalDebt": 11282000000.0,
+      "cash": 13688000000.0,
+      "sharesOutstanding": 652238745.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22202012853158726,
+      "roe": 0.06957479955922027,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:58.660720+00:00"
+  }
+}

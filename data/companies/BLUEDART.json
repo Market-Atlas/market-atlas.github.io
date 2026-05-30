@@ -1,0 +1,128 @@
+{
+  "ticker": "BLUEDART",
+  "name": "Blue Dart Express Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "INR",
+  "marketCap": {
+    "value": 112505995264.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4741.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 61408800000.0,
+    "operatingIncome": 4145000000.0,
+    "netIncome": 2473900000.0,
+    "eps": 104.26,
+    "freeCashFlow": 4955800000.0,
+    "totalDebt": 11419000000.0,
+    "cash": 2380000000.0,
+    "sharesOutstanding": 23727934.0
+  },
+  "ratios": {
+    "roe": 0.1392311025815638,
+    "roic": 0.1420138210797162,
+    "grossMargin": 0.16184813902893397,
+    "operatingMargin": 0.06749846927476193,
+    "netMargin": 0.04028575709018903,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 51722200000.0,
+      "operatingIncome": 5743600000.0,
+      "netIncome": 3705300000.0,
+      "eps": 156.16,
+      "freeCashFlow": 1453800000.0,
+      "totalDebt": 11213500000.0,
+      "cash": 937500000.0,
+      "sharesOutstanding": 23727934.0,
+      "grossMargin": 0.19539965430704803,
+      "operatingMargin": 0.11104709389778471,
+      "netMargin": 0.0716384840552026,
+      "roe": 0.3141256061582285,
+      "roic": 0.24962297525761545
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 52678300000.0,
+      "operatingIncome": 4289300000.0,
+      "netIncome": 3010100000.0,
+      "eps": 126.86,
+      "freeCashFlow": 5791900000.0,
+      "totalDebt": 10740700000.0,
+      "cash": 1646100000.0,
+      "sharesOutstanding": 23727934.0,
+      "grossMargin": 0.18226670184876884,
+      "operatingMargin": 0.08142441954277188,
+      "netMargin": 0.05714117577826164,
+      "roe": 0.22015402956255897,
+      "roic": 0.17569449564583384
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 57201800000.0,
+      "operatingIncome": 3876500000.0,
+      "netIncome": 2524200000.0,
+      "eps": 106.38,
+      "freeCashFlow": 4812300000.0,
+      "totalDebt": 10075300000.0,
+      "cash": 1663200000.0,
+      "sharesOutstanding": 23727934.0,
+      "grossMargin": 0.15989531797950415,
+      "operatingMargin": 0.0677688464349024,
+      "netMargin": 0.04412798198658084,
+      "roe": 0.1619073275862069,
+      "roic": 0.15103815598249803
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 61408800000.0,
+      "operatingIncome": 4145000000.0,
+      "netIncome": 2473900000.0,
+      "eps": 104.26,
+      "freeCashFlow": 4955800000.0,
+      "totalDebt": 11419000000.0,
+      "cash": 2380000000.0,
+      "sharesOutstanding": 23727934.0,
+      "grossMargin": 0.16184813902893397,
+      "operatingMargin": 0.06749846927476193,
+      "netMargin": 0.04028575709018903,
+      "roe": 0.1392311025815638,
+      "roic": 0.1420138210797162
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:03.702286+00:00"
+  }
+}

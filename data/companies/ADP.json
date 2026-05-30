@@ -1,0 +1,111 @@
+{
+  "ticker": "ADP",
+  "name": "Automatic Data Processing, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 88677048320.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 221.84,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20560900000.0,
+    "operatingIncome": 5411900000.0,
+    "netIncome": 4079700000.0,
+    "eps": 9.98,
+    "freeCashFlow": 4392700000.0,
+    "totalDebt": 9065400000.0,
+    "cash": 3347800000.0,
+    "sharesOutstanding": 638700000.0
+  },
+  "ratios": {
+    "roe": 0.6592921784098255,
+    "roic": 0.35479958566614656,
+    "grossMargin": 0.46027168071436564,
+    "operatingMargin": 0.2632131861932114,
+    "netMargin": 0.19842030261321245,
+    "debtToEquity": 0.69259
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 16498300000.0,
+      "operatingIncome": 3803200000.0,
+      "netIncome": 2948900000.0,
+      "eps": 7.0,
+      "freeCashFlow": 2546100000.0,
+      "totalDebt": 3358000000.0,
+      "cash": 1436300000.0,
+      "sharesOutstanding": 638800000.0,
+      "grossMargin": 0.42649242649242647,
+      "operatingMargin": 0.23052072031663867,
+      "netMargin": 0.17873962771921956,
+      "roe": 0.9143025454996434,
+      "roic": 0.5777041909072957
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 18012200000.0,
+      "operatingIncome": 4507400000.0,
+      "netIncome": 3412000000.0,
+      "eps": 8.21,
+      "freeCashFlow": 3636000000.0,
+      "totalDebt": 3338900000.0,
+      "cash": 2083500000.0,
+      "sharesOutstanding": 638700000.0,
+      "grossMargin": 0.4474078680005774,
+      "operatingMargin": 0.25024150298131265,
+      "netMargin": 0.1894271660319117,
+      "roe": 0.972329087230344,
+      "roic": 0.6582067757009346
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 19202600000.0,
+      "operatingIncome": 4947000000.0,
+      "netIncome": 3752000000.0,
+      "eps": 9.1,
+      "freeCashFlow": 3594200000.0,
+      "totalDebt": 3319900000.0,
+      "cash": 2913400000.0,
+      "sharesOutstanding": 638700000.0,
+      "grossMargin": 0.45441242331767573,
+      "operatingMargin": 0.25762136377365563,
+      "netMargin": 0.1953902075760574,
+      "roe": 0.8250505761280675,
+      "roic": 0.628789323164919
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 20560900000.0,
+      "operatingIncome": 5411900000.0,
+      "netIncome": 4079700000.0,
+      "eps": 9.98,
+      "freeCashFlow": 4392700000.0,
+      "totalDebt": 9065400000.0,
+      "cash": 3347800000.0,
+      "sharesOutstanding": 638700000.0,
+      "grossMargin": 0.46027168071436564,
+      "operatingMargin": 0.2632131861932114,
+      "netMargin": 0.19842030261321245,
+      "roe": 0.6592921784098255,
+      "roic": 0.35479958566614656
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:37.858409+00:00"
+  }
+}

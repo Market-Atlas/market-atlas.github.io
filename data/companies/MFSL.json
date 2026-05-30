@@ -1,0 +1,128 @@
+{
+  "ticker": "MFSL",
+  "name": "Max Financial Services Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "INR",
+  "marketCap": {
+    "value": 574929633280.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1674.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 476753400000.0,
+    "operatingIncome": null,
+    "netIncome": 839700000.0,
+    "eps": null,
+    "freeCashFlow": 112282700000.0,
+    "totalDebt": 18586500000.0,
+    "cash": 21371500000.0,
+    "sharesOutstanding": 346782928.0
+  },
+  "ratios": {
+    "roe": 0.015898019421446138,
+    "roic": null,
+    "grossMargin": 0.123409994,
+    "operatingMargin": 0.04599,
+    "netMargin": 0.0017612879111087618,
+    "debtToEquity": 0.12673
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.34,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 313279828000.0,
+      "operatingIncome": null,
+      "netIncome": 3784860000.0,
+      "eps": 10.97,
+      "freeCashFlow": 97483546000.0,
+      "totalDebt": 8307296000.0,
+      "cash": 12259018000.0,
+      "sharesOutstanding": 345114771.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.012081403466551954,
+      "roe": 0.10757826373685969,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 464943825000.0,
+      "operatingIncome": null,
+      "netIncome": 3401071000.0,
+      "eps": 9.9,
+      "freeCashFlow": 58815496000.0,
+      "totalDebt": 8438522000.0,
+      "cash": 16968250000.0,
+      "sharesOutstanding": 345114771.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0073150148837873045,
+      "roe": 0.08797559146053945,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 464703300000.0,
+      "operatingIncome": null,
+      "netIncome": 3272000000.0,
+      "eps": 9.53,
+      "freeCashFlow": 81335200000.0,
+      "totalDebt": 14421134000.0,
+      "cash": 14537501000.0,
+      "sharesOutstanding": 345114771.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.007041051785085236,
+      "roe": 0.0620341055246016,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 476753400000.0,
+      "operatingIncome": null,
+      "netIncome": 839700000.0,
+      "eps": null,
+      "freeCashFlow": 112282700000.0,
+      "totalDebt": 18586500000.0,
+      "cash": 21371500000.0,
+      "sharesOutstanding": 346782928.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0017612879111087618,
+      "roe": 0.015898019421446138,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:25.540905+00:00"
+  }
+}

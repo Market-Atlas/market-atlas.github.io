@@ -1,0 +1,128 @@
+{
+  "ticker": "SCI",
+  "name": "The Shipping Corporation of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "INR",
+  "marketCap": {
+    "value": 136153047040.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 292.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57797900000.0,
+    "operatingIncome": 11216400000.0,
+    "netIncome": 13529200000.0,
+    "eps": null,
+    "freeCashFlow": -2072300000.0,
+    "totalDebt": 26792500000.0,
+    "cash": 1148600000.0,
+    "sharesOutstanding": 465799010.0
+  },
+  "ratios": {
+    "roe": 0.14873316483973137,
+    "roic": 0.0952516827253782,
+    "grossMargin": 0.23564350953927393,
+    "operatingMargin": 0.19406241403234373,
+    "netMargin": 0.23407770870567962,
+    "debtToEquity": 0.29454
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.47,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 57704200000.0,
+      "operatingIncome": 10030800000.0,
+      "netIncome": 8701600000.0,
+      "eps": 18.68,
+      "freeCashFlow": 9896200000.0,
+      "totalDebt": 26045800000.0,
+      "cash": 3168200000.0,
+      "sharesOutstanding": 465799010.0,
+      "grossMargin": 0.19279012619532027,
+      "operatingMargin": 0.1738313675607668,
+      "netMargin": 0.15079664911739527,
+      "roe": 0.1260675742828871,
+      "roic": 0.10551062332556004
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 50320200000.0,
+      "operatingIncome": 5640200000.0,
+      "netIncome": 6789700000.0,
+      "eps": 14.58,
+      "freeCashFlow": 4822900000.0,
+      "totalDebt": 29142200000.0,
+      "cash": 8383900000.0,
+      "sharesOutstanding": 465799010.0,
+      "grossMargin": 0.1373941280042607,
+      "operatingMargin": 0.1120861999753578,
+      "netMargin": 0.13492990886363726,
+      "roe": 0.09005504343789376,
+      "roic": 0.05395399915054162
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 56058300000.0,
+      "operatingIncome": 8129600000.0,
+      "netIncome": 8435800000.0,
+      "eps": 18.11,
+      "freeCashFlow": 5575900000.0,
+      "totalDebt": 22284900000.0,
+      "cash": 1357100000.0,
+      "sharesOutstanding": 465799010.0,
+      "grossMargin": 0.17492681725988837,
+      "operatingMargin": 0.14502045192237367,
+      "netMargin": 0.15048262255544673,
+      "roe": 0.1014925875929709,
+      "roic": 0.07712924670524267
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 57797900000.0,
+      "operatingIncome": 11216400000.0,
+      "netIncome": 13529200000.0,
+      "eps": null,
+      "freeCashFlow": -2072300000.0,
+      "totalDebt": 26792500000.0,
+      "cash": 1148600000.0,
+      "sharesOutstanding": 465799010.0,
+      "grossMargin": 0.23564350953927393,
+      "operatingMargin": 0.19406241403234373,
+      "netMargin": 0.23407770870567962,
+      "roe": 0.14873316483973137,
+      "roic": 0.0952516827253782
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:54.031338+00:00"
+  }
+}

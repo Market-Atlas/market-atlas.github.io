@@ -1,0 +1,128 @@
+{
+  "ticker": "AZO",
+  "name": "AutoZone, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 48046125056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2935.19,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18938717000.0,
+    "operatingIncome": 3610156000.0,
+    "netIncome": 2498247000.0,
+    "eps": 144.87,
+    "freeCashFlow": 1790080000.0,
+    "totalDebt": 12288796000.0,
+    "cash": 271803000.0,
+    "sharesOutstanding": 16927000.0
+  },
+  "ratios": {
+    "roe": -0.7316982947960542,
+    "roic": 0.40680183848456297,
+    "grossMargin": 0.5262486365892685,
+    "operatingMargin": 0.1906230501253068,
+    "netMargin": 0.13191215645706095,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-08-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-08-31",
+      "revenue": 16252230000.0,
+      "operatingIncome": 3270729000.0,
+      "netIncome": 2429604000.0,
+      "eps": 117.19,
+      "freeCashFlow": 2538744000.0,
+      "totalDebt": 9296349000.0,
+      "cash": 264380000.0,
+      "sharesOutstanding": 20732000.0,
+      "grossMargin": 0.5213223046929559,
+      "operatingMargin": 0.20124801334955264,
+      "netMargin": 0.14949357718909959,
+      "roe": -0.6865396238901607,
+      "roic": 0.5680877737937512
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-08-31",
+      "revenue": 17457209000.0,
+      "operatingIncome": 3473986000.0,
+      "netIncome": 2528426000.0,
+      "eps": 132.36,
+      "freeCashFlow": 2144131000.0,
+      "totalDebt": 10929767000.0,
+      "cash": 277054000.0,
+      "sharesOutstanding": 18936000.0,
+      "grossMargin": 0.5195803063364826,
+      "operatingMargin": 0.19900008071164182,
+      "netMargin": 0.14483563781587308,
+      "roe": -0.5812615203956694,
+      "roic": 0.5279715885093831
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-08-31",
+      "revenue": 18490268000.0,
+      "operatingIncome": 3788708000.0,
+      "netIncome": 2662427000.0,
+      "eps": 149.55,
+      "freeCashFlow": 1931420000.0,
+      "totalDebt": 12366969000.0,
+      "cash": 298172000.0,
+      "sharesOutstanding": 17451000.0,
+      "grossMargin": 0.530930757736989,
+      "operatingMargin": 0.20490281698458887,
+      "netMargin": 0.14399071987490933,
+      "roe": -0.5605564999597862,
+      "roic": 0.4973784207247791
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-08-31",
+      "revenue": 18938717000.0,
+      "operatingIncome": 3610156000.0,
+      "netIncome": 2498247000.0,
+      "eps": 144.87,
+      "freeCashFlow": 1790080000.0,
+      "totalDebt": 12288796000.0,
+      "cash": 271803000.0,
+      "sharesOutstanding": 16927000.0,
+      "grossMargin": 0.5262486365892685,
+      "operatingMargin": 0.1906230501253068,
+      "netMargin": 0.13191215645706095,
+      "roe": -0.7316982947960542,
+      "roic": 0.40680183848456297
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:48.780440+00:00"
+  }
+}

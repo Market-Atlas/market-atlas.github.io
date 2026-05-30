@@ -1,0 +1,111 @@
+{
+  "ticker": "LTM",
+  "name": "LTM Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1204106952704.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4061.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 423076000000.0,
+    "operatingIncome": 65465000000.0,
+    "netIncome": 50181000000.0,
+    "eps": 169.13,
+    "freeCashFlow": 38682000000.0,
+    "totalDebt": 23100000000.0,
+    "cash": 23311000000.0,
+    "sharesOutstanding": 296493321.0
+  },
+  "ratios": {
+    "roe": 0.20886992715920916,
+    "roic": 0.2485855325612303,
+    "grossMargin": 0.28123552269568586,
+    "operatingMargin": 0.15473579215081923,
+    "netMargin": 0.11860989514886214,
+    "debtToEquity": 0.09582
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 331830000000.0,
+      "operatingIncome": 53980000000.0,
+      "netIncome": 44083000000.0,
+      "eps": 148.83,
+      "freeCashFlow": 21553000000.0,
+      "totalDebt": 15412000000.0,
+      "cash": 23216000000.0,
+      "sharesOutstanding": 295822779.0,
+      "grossMargin": 0.37247687068679747,
+      "operatingMargin": 0.16267365819847512,
+      "netMargin": 0.13284814513455684,
+      "roe": 0.2656866822162354,
+      "roic": 0.2976843707433286
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 355170000000.0,
+      "operatingIncome": 55685000000.0,
+      "netIncome": 45821000000.0,
+      "eps": 154.48,
+      "freeCashFlow": 48263000000.0,
+      "totalDebt": 20706000000.0,
+      "cash": 18063000000.0,
+      "sharesOutstanding": 296163369.0,
+      "grossMargin": 0.28788467494439285,
+      "operatingMargin": 0.15678407523157925,
+      "netMargin": 0.12901145930117972,
+      "roe": 0.22890813900045962,
+      "roic": 0.25210749825695633
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 380081000000.0,
+      "operatingIncome": 55286000000.0,
+      "netIncome": 45987000000.0,
+      "eps": 155.0,
+      "freeCashFlow": 35962000000.0,
+      "totalDebt": 21873000000.0,
+      "cash": 20623000000.0,
+      "sharesOutstanding": 296285542.0,
+      "grossMargin": 0.2734864410480924,
+      "operatingMargin": 0.1454584680633865,
+      "netMargin": 0.12099263051823164,
+      "roe": 0.20260107585149548,
+      "roic": 0.2221606069373453
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 423076000000.0,
+      "operatingIncome": 65465000000.0,
+      "netIncome": 50181000000.0,
+      "eps": 169.13,
+      "freeCashFlow": 38682000000.0,
+      "totalDebt": 23100000000.0,
+      "cash": 23311000000.0,
+      "sharesOutstanding": 296493321.0,
+      "grossMargin": 0.28123552269568586,
+      "operatingMargin": 0.15473579215081923,
+      "netMargin": 0.11860989514886214,
+      "roe": 0.20886992715920916,
+      "roic": 0.2485855325612303
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:20.916439+00:00"
+  }
+}

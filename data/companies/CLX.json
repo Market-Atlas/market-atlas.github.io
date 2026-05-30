@@ -1,0 +1,128 @@
+{
+  "ticker": "CLX",
+  "name": "The Clorox Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10885340160.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 90.02,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7104000000.0,
+    "operatingIncome": 1177000000.0,
+    "netIncome": 810000000.0,
+    "eps": null,
+    "freeCashFlow": 761000000.0,
+    "totalDebt": 2880000000.0,
+    "cash": 167000000.0,
+    "sharesOutstanding": 130741461.0
+  },
+  "ratios": {
+    "roe": 2.5233644859813085,
+    "roic": 0.36769759450171824,
+    "grossMargin": 0.45228040540540543,
+    "operatingMargin": 0.16568130630630631,
+    "netMargin": 0.11402027027027027,
+    "debtToEquity": 48.760870000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.58,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 7107000000.0,
+      "operatingIncome": 719000000.0,
+      "netIncome": 462000000.0,
+      "eps": 3.73,
+      "freeCashFlow": 535000000.0,
+      "totalDebt": 3103000000.0,
+      "cash": 183000000.0,
+      "sharesOutstanding": 130741461.0,
+      "grossMargin": 0.3580976502040242,
+      "operatingMargin": 0.10116786267060644,
+      "netMargin": 0.06500633178556353,
+      "roe": 0.8309352517985612,
+      "roic": 0.19650177644165073
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 7389000000.0,
+      "operatingIncome": 823000000.0,
+      "netIncome": 149000000.0,
+      "eps": 1.2,
+      "freeCashFlow": 930000000.0,
+      "totalDebt": 2924000000.0,
+      "cash": 367000000.0,
+      "sharesOutstanding": 130741461.0,
+      "grossMargin": 0.3935579916091487,
+      "operatingMargin": 0.11138178373257546,
+      "netMargin": 0.020165110299093247,
+      "roe": 0.6772727272727272,
+      "roic": 0.26176844783715014
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 7093000000.0,
+      "operatingIncome": 723000000.0,
+      "netIncome": 280000000.0,
+      "eps": 2.25,
+      "freeCashFlow": 483000000.0,
+      "totalDebt": 2903000000.0,
+      "cash": 202000000.0,
+      "sharesOutstanding": 130741461.0,
+      "grossMargin": 0.42971944170308757,
+      "operatingMargin": 0.10193148174256308,
+      "netMargin": 0.039475539264063164,
+      "roe": 0.8536585365853658,
+      "roic": 0.22376973073351902
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 7104000000.0,
+      "operatingIncome": 1177000000.0,
+      "netIncome": 810000000.0,
+      "eps": null,
+      "freeCashFlow": 761000000.0,
+      "totalDebt": 2880000000.0,
+      "cash": 167000000.0,
+      "sharesOutstanding": 130741461.0,
+      "grossMargin": 0.45228040540540543,
+      "operatingMargin": 0.16568130630630631,
+      "netMargin": 0.11402027027027027,
+      "roe": 2.5233644859813085,
+      "roic": 0.36769759450171824
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:00.865352+00:00"
+  }
+}

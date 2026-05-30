@@ -1,0 +1,128 @@
+{
+  "ticker": "KPITTECH",
+  "name": "KPIT Technologies Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "INR",
+  "marketCap": {
+    "value": 210145820672.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 771.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 64549310000.0,
+    "operatingIncome": 9572750000.0,
+    "netIncome": 6373390000.0,
+    "eps": null,
+    "freeCashFlow": 10522020000.0,
+    "totalDebt": 8383870000.0,
+    "cash": 13184470000.0,
+    "sharesOutstanding": 274143808.0
+  },
+  "ratios": {
+    "roe": 0.17999289448594036,
+    "roic": 0.2185909206016762,
+    "grossMargin": 0.3668644947560245,
+    "operatingMargin": 0.1483013528727108,
+    "netMargin": 0.09873676418849403,
+    "debtToEquity": 0.23623999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.05,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33650380000.0,
+      "operatingIncome": 4940420000.0,
+      "netIncome": 3809980000.0,
+      "eps": 13.95,
+      "freeCashFlow": 3329470000.0,
+      "totalDebt": 2865260000.0,
+      "cash": 4542130000.0,
+      "sharesOutstanding": 274143808.0,
+      "grossMargin": 0.3532019549259176,
+      "operatingMargin": 0.14681617265540536,
+      "netMargin": 0.11322249555577084,
+      "roe": 0.23069284509348256,
+      "roic": 0.25491521435824616
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 48715410000.0,
+      "operatingIncome": 8041020000.0,
+      "netIncome": 5945330000.0,
+      "eps": 21.77,
+      "freeCashFlow": 8464300000.0,
+      "totalDebt": 3287520000.0,
+      "cash": 6357120000.0,
+      "sharesOutstanding": 274143808.0,
+      "grossMargin": 0.355575166051153,
+      "operatingMargin": 0.16506111721116584,
+      "netMargin": 0.12204208072969108,
+      "roe": 0.2770607374765711,
+      "roic": 0.3249408997781469
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 58423450000.0,
+      "operatingIncome": 10048150000.0,
+      "netIncome": 8396000000.0,
+      "eps": 30.7,
+      "freeCashFlow": 12599980000.0,
+      "totalDebt": 3448670000.0,
+      "cash": 10687140000.0,
+      "sharesOutstanding": 274143808.0,
+      "grossMargin": 0.35727263624452166,
+      "operatingMargin": 0.17198830264217535,
+      "netMargin": 0.14370941805045748,
+      "roe": 0.2883085327101071,
+      "roic": 0.3085069964154405
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 64549310000.0,
+      "operatingIncome": 9572750000.0,
+      "netIncome": 6373390000.0,
+      "eps": null,
+      "freeCashFlow": 10522020000.0,
+      "totalDebt": 8383870000.0,
+      "cash": 13184470000.0,
+      "sharesOutstanding": 274143808.0,
+      "grossMargin": 0.3668644947560245,
+      "operatingMargin": 0.1483013528727108,
+      "netMargin": 0.09873676418849403,
+      "roe": 0.17999289448594036,
+      "roic": 0.2185909206016762
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:16.387081+00:00"
+  }
+}

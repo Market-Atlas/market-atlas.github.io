@@ -1,0 +1,128 @@
+{
+  "ticker": "GRAVITA",
+  "name": "Gravita India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "currency": "INR",
+  "marketCap": {
+    "value": 117478653952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1612.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42652700000.0,
+    "operatingIncome": 3961000000.0,
+    "netIncome": 3788000000.0,
+    "eps": 52.02,
+    "freeCashFlow": -464000000.0,
+    "totalDebt": 7359000000.0,
+    "cash": 803200000.0,
+    "sharesOutstanding": 73808451.0
+  },
+  "ratios": {
+    "roe": 0.1545094488156859,
+    "roic": 0.12426549710904682,
+    "grossMargin": 0.19865565368663649,
+    "operatingMargin": 0.09286633671490901,
+    "netMargin": 0.08881032150367972,
+    "debtToEquity": 0.29934
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 27871800000.0,
+      "operatingIncome": 1967300000.0,
+      "netIncome": 2011000000.0,
+      "eps": 29.72,
+      "freeCashFlow": 919000000.0,
+      "totalDebt": 3477200000.0,
+      "cash": 303700000.0,
+      "sharesOutstanding": 69037914.0,
+      "grossMargin": 0.1777100868978681,
+      "operatingMargin": 0.07058388765705839,
+      "netMargin": 0.07215178065284625,
+      "roe": 0.34146672779447473,
+      "roic": 0.2100357657609566
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 31426400000.0,
+      "operatingIncome": 2588300000.0,
+      "netIncome": 2391900000.0,
+      "eps": 34.88,
+      "freeCashFlow": -557800000.0,
+      "totalDebt": 5475900000.0,
+      "cash": 358100000.0,
+      "sharesOutstanding": 69037914.0,
+      "grossMargin": 0.18110887661329328,
+      "operatingMargin": 0.08236069037497136,
+      "netMargin": 0.07611116768067612,
+      "roe": 0.2856341055648436,
+      "roic": 0.18688221575607045
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 38687700000.0,
+      "operatingIncome": 2949900000.0,
+      "netIncome": 3123900000.0,
+      "eps": 45.11,
+      "freeCashFlow": 1748700000.0,
+      "totalDebt": 2859500000.0,
+      "cash": 946100000.0,
+      "sharesOutstanding": 73808451.0,
+      "grossMargin": 0.1798943850371048,
+      "operatingMargin": 0.07624904039268295,
+      "netMargin": 0.08074659387867461,
+      "roe": 0.1509196052002261,
+      "roic": 0.12521542027115362
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 42652700000.0,
+      "operatingIncome": 3961000000.0,
+      "netIncome": 3788000000.0,
+      "eps": 52.02,
+      "freeCashFlow": -464000000.0,
+      "totalDebt": 7359000000.0,
+      "cash": 803200000.0,
+      "sharesOutstanding": 73808451.0,
+      "grossMargin": 0.19865565368663649,
+      "operatingMargin": 0.09286633671490901,
+      "netMargin": 0.08881032150367972,
+      "roe": 0.1545094488156859,
+      "roic": 0.12426549710904682
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:49.603066+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CEATLTD",
+  "name": "CEAT Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 130746867712.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3241.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 156780000000.0,
+    "operatingIncome": 13497800000.0,
+    "netIncome": 6980200000.0,
+    "eps": 172.78,
+    "freeCashFlow": 6390100000.0,
+    "totalDebt": 32720900000.0,
+    "cash": 395300000.0,
+    "sharesOutstanding": 40450092.0
+  },
+  "ratios": {
+    "roe": 0.13833107742553027,
+    "roic": 0.1622702299804042,
+    "grossMargin": 0.3939054726368159,
+    "operatingMargin": 0.08609388952672535,
+    "netMargin": 0.044522260492409746,
+    "debtToEquity": 0.64742
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 111490500000.0,
+      "operatingIncome": 5070800000.0,
+      "netIncome": 1861700000.0,
+      "eps": 46.03,
+      "freeCashFlow": 3263600000.0,
+      "totalDebt": 22954700000.0,
+      "cash": 606200000.0,
+      "sharesOutstanding": 40450092.0,
+      "grossMargin": 0.3291347693301223,
+      "operatingMargin": 0.045481902045465754,
+      "netMargin": 0.016698283710271277,
+      "roe": 0.05412485027502878,
+      "roic": 0.08841678712352509
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 117817100000.0,
+      "operatingIncome": 11443000000.0,
+      "netIncome": 6426500000.0,
+      "eps": 158.87,
+      "freeCashFlow": 8519500000.0,
+      "totalDebt": 17915000000.0,
+      "cash": 551600000.0,
+      "sharesOutstanding": 40450092.0,
+      "grossMargin": 0.41227801397250485,
+      "operatingMargin": 0.09712512020750808,
+      "netMargin": 0.05454641134436342,
+      "roe": 0.15896908185553393,
+      "roic": 0.1961395996990115
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 132178700000.0,
+      "operatingIncome": 9114500000.0,
+      "netIncome": 4726400000.0,
+      "eps": 116.85,
+      "freeCashFlow": 1486000000.0,
+      "totalDebt": 21363800000.0,
+      "cash": 479400000.0,
+      "sharesOutstanding": 40450092.0,
+      "grossMargin": 0.37719844422739823,
+      "operatingMargin": 0.06895589077514001,
+      "netMargin": 0.03575765232976266,
+      "roe": 0.10819200051275829,
+      "roic": 0.14011723451977046
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 156780000000.0,
+      "operatingIncome": 13497800000.0,
+      "netIncome": 6980200000.0,
+      "eps": 172.78,
+      "freeCashFlow": 6390100000.0,
+      "totalDebt": 32720900000.0,
+      "cash": 395300000.0,
+      "sharesOutstanding": 40450092.0,
+      "grossMargin": 0.3939054726368159,
+      "operatingMargin": 0.08609388952672535,
+      "netMargin": 0.044522260492409746,
+      "roe": 0.13833107742553027,
+      "roic": 0.1622702299804042
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:23.086128+00:00"
+  }
+}

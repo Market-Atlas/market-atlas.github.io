@@ -1,0 +1,128 @@
+{
+  "ticker": "LHX",
+  "name": "L3Harris Technologies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58716438528.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 315.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21865000000.0,
+    "operatingIncome": 2150000000.0,
+    "netIncome": 1606000000.0,
+    "eps": 8.53,
+    "freeCashFlow": 2682000000.0,
+    "totalDebt": 11116000000.0,
+    "cash": 1069000000.0,
+    "sharesOutstanding": 186844093.0
+  },
+  "ratios": {
+    "roe": 0.08179271708683473,
+    "roic": 0.06991642548209814,
+    "grossMargin": 0.25726046192545166,
+    "operatingMargin": 0.09833066544706151,
+    "netMargin": 0.0734507203292934,
+    "debtToEquity": 0.34574
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17062000000.0,
+      "operatingIncome": 1929000000.0,
+      "netIncome": 1062000000.0,
+      "eps": 5.49,
+      "freeCashFlow": 1906000000.0,
+      "totalDebt": 7045000000.0,
+      "cash": 880000000.0,
+      "sharesOutstanding": 190611458.0,
+      "grossMargin": 0.2887703668971984,
+      "operatingMargin": 0.11305825811745399,
+      "netMargin": 0.062243582229515884,
+      "roe": 0.0573341251417157,
+      "roic": 0.07544586983729662
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19419000000.0,
+      "operatingIncome": 1800000000.0,
+      "netIncome": 1227000000.0,
+      "eps": 6.44,
+      "freeCashFlow": 1647000000.0,
+      "totalDebt": 13125000000.0,
+      "cash": 560000000.0,
+      "sharesOutstanding": 189808581.0,
+      "grossMargin": 0.2632988310417632,
+      "operatingMargin": 0.09269272362119574,
+      "netMargin": 0.0631855399351151,
+      "roe": 0.0653876898481215,
+      "roic": 0.05644402634054563
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21325000000.0,
+      "operatingIncome": 2015000000.0,
+      "netIncome": 1502000000.0,
+      "eps": 7.87,
+      "freeCashFlow": 2151000000.0,
+      "totalDebt": 12236000000.0,
+      "cash": 615000000.0,
+      "sharesOutstanding": 189794911.0,
+      "grossMargin": 0.25903868698710436,
+      "operatingMargin": 0.09449003516998827,
+      "netMargin": 0.0704337631887456,
+      "roe": 0.07697038023982782,
+      "roic": 0.06346456692913385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21865000000.0,
+      "operatingIncome": 2150000000.0,
+      "netIncome": 1606000000.0,
+      "eps": 8.53,
+      "freeCashFlow": 2682000000.0,
+      "totalDebt": 11116000000.0,
+      "cash": 1069000000.0,
+      "sharesOutstanding": 186844093.0,
+      "grossMargin": 0.25726046192545166,
+      "operatingMargin": 0.09833066544706151,
+      "netMargin": 0.0734507203292934,
+      "roe": 0.08179271708683473,
+      "roic": 0.06991642548209814
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:48.093055+00:00"
+  }
+}

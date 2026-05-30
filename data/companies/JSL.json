@@ -1,0 +1,128 @@
+{
+  "ticker": "JSL",
+  "name": "Jindal Stainless Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 564487979008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 685.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 429546600000.0,
+    "operatingIncome": 45001300000.0,
+    "netIncome": 31934500000.0,
+    "eps": null,
+    "freeCashFlow": 7368300000.0,
+    "totalDebt": 74603300000.0,
+    "cash": 4151200000.0,
+    "sharesOutstanding": 824419588.0
+  },
+  "ratios": {
+    "roe": 0.16135641555270805,
+    "roic": 0.1651326288611939,
+    "grossMargin": 0.28530292173189126,
+    "operatingMargin": 0.1047646518445263,
+    "netMargin": 0.0743446694724158,
+    "debtToEquity": 0.37523
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 37.78,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 355740900000.0,
+      "operatingIncome": 27969200000.0,
+      "netIncome": 21145000000.0,
+      "eps": 25.68,
+      "freeCashFlow": 14399200000.0,
+      "totalDebt": 39581700000.0,
+      "cash": 4699100000.0,
+      "sharesOutstanding": 823434588.0,
+      "grossMargin": 0.2153339691893735,
+      "operatingMargin": 0.07862239062193861,
+      "netMargin": 0.05943932789285685,
+      "roe": 0.17722471708582052,
+      "roic": 0.1760248216572736
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 384143000000.0,
+      "operatingIncome": 36395400000.0,
+      "netIncome": 27132100000.0,
+      "eps": 32.94,
+      "freeCashFlow": 33432200000.0,
+      "totalDebt": 60522600000.0,
+      "cash": 12297000000.0,
+      "sharesOutstanding": 823434588.0,
+      "grossMargin": 0.2349161640326649,
+      "operatingMargin": 0.09474440507831719,
+      "netMargin": 0.070630208021492,
+      "roe": 0.18896983542161458,
+      "roic": 0.17832001316991145
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 393122100000.0,
+      "operatingIncome": 37105100000.0,
+      "netIncome": 25052000000.0,
+      "eps": 30.41,
+      "freeCashFlow": 28329000000.0,
+      "totalDebt": 64018700000.0,
+      "cash": 6325400000.0,
+      "sharesOutstanding": 823769588.0,
+      "grossMargin": 0.26737469096751365,
+      "operatingMargin": 0.09438568831413956,
+      "netMargin": 0.06372574831076655,
+      "roe": 0.15012038633887706,
+      "roic": 0.16069902697337052
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 429546600000.0,
+      "operatingIncome": 45001300000.0,
+      "netIncome": 31934500000.0,
+      "eps": null,
+      "freeCashFlow": 7368300000.0,
+      "totalDebt": 74603300000.0,
+      "cash": 4151200000.0,
+      "sharesOutstanding": 824419588.0,
+      "grossMargin": 0.28530292173189126,
+      "operatingMargin": 0.1047646518445263,
+      "netMargin": 0.0743446694724158,
+      "roe": 0.16135641555270805,
+      "roic": 0.1651326288611939
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:09.386613+00:00"
+  }
+}

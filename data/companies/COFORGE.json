@@ -1,0 +1,128 @@
+{
+  "ticker": "COFORGE",
+  "name": "Coforge Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 611373940736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1421.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 164027000000.0,
+    "operatingIncome": 23645000000.0,
+    "netIncome": 15557000000.0,
+    "eps": 45.9,
+    "freeCashFlow": 10492000000.0,
+    "totalDebt": 7278000000.0,
+    "cash": 10936000000.0,
+    "sharesOutstanding": 335810937.0
+  },
+  "ratios": {
+    "roe": 0.1631123133702399,
+    "roic": 0.23033685974243576,
+    "grossMargin": 0.3643058764715565,
+    "operatingMargin": 0.1441530967462674,
+    "netMargin": 0.09484414151328745,
+    "debtToEquity": 0.07518
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 80146000000.0,
+      "operatingIncome": 10356000000.0,
+      "netIncome": 6938000000.0,
+      "eps": 22.306,
+      "freeCashFlow": 7923000000.0,
+      "totalDebt": 5622000000.0,
+      "cash": 5699000000.0,
+      "sharesOutstanding": 305435400.0,
+      "grossMargin": 0.3660319916153021,
+      "operatingMargin": 0.12921418411399196,
+      "netMargin": 0.086567015197265,
+      "roe": 0.22507704785077048,
+      "roic": 0.28413861223145936
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 90089000000.0,
+      "operatingIncome": 11628000000.0,
+      "netIncome": 8080000000.0,
+      "eps": 25.918,
+      "freeCashFlow": 6379000000.0,
+      "totalDebt": 7260000000.0,
+      "cash": 3213000000.0,
+      "sharesOutstanding": 309104960.0,
+      "grossMargin": 0.3584122367880651,
+      "operatingMargin": 0.1290723617755775,
+      "netMargin": 0.08968908523793138,
+      "roe": 0.22279821320244858,
+      "roic": 0.26715066856591463
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 120733000000.0,
+      "operatingIncome": 12942000000.0,
+      "netIncome": 8121000000.0,
+      "eps": 24.41,
+      "freeCashFlow": 6227000000.0,
+      "totalDebt": 10704000000.0,
+      "cash": 7956000000.0,
+      "sharesOutstanding": 334394280.0,
+      "grossMargin": 0.325031267341986,
+      "operatingMargin": 0.10719521588960765,
+      "netMargin": 0.0672641282830709,
+      "roe": 0.1273043641835967,
+      "roic": 0.17372744845360824
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 164027000000.0,
+      "operatingIncome": 23645000000.0,
+      "netIncome": 15557000000.0,
+      "eps": 45.9,
+      "freeCashFlow": 10492000000.0,
+      "totalDebt": 7278000000.0,
+      "cash": 10936000000.0,
+      "sharesOutstanding": 335810937.0,
+      "grossMargin": 0.3643058764715565,
+      "operatingMargin": 0.1441530967462674,
+      "netMargin": 0.09484414151328745,
+      "roe": 0.1631123133702399,
+      "roic": 0.23033685974243576
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:27.401386+00:00"
+  }
+}

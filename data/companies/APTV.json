@@ -1,0 +1,128 @@
+{
+  "ticker": "APTV",
+  "name": "Aptiv PLC",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 14377499648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 67.94,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20398000000.0,
+    "operatingIncome": 2017000000.0,
+    "netIncome": 165000000.0,
+    "eps": 0.75,
+    "freeCashFlow": 1529000000.0,
+    "totalDebt": 8094000000.0,
+    "cash": 1851000000.0,
+    "sharesOutstanding": 212746899.0
+  },
+  "ratios": {
+    "roe": 0.017921146953405017,
+    "roic": 0.11658285648228427,
+    "grossMargin": 0.19109716638886165,
+    "operatingMargin": 0.09888224335719188,
+    "netMargin": 0.008089028336111383,
+    "debtToEquity": 1.03823
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17489000000.0,
+      "operatingIncome": 1348000000.0,
+      "netIncome": 594000000.0,
+      "eps": 1.96,
+      "freeCashFlow": 419000000.0,
+      "totalDebt": 6961000000.0,
+      "cash": 1531000000.0,
+      "sharesOutstanding": 270949579.0,
+      "grossMargin": 0.1506661329978844,
+      "operatingMargin": 0.07707701984104294,
+      "netMargin": 0.033964206072388356,
+      "roe": 0.06743103644000455,
+      "roic": 0.08547875713379835
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20051000000.0,
+      "operatingIncome": 1770000000.0,
+      "netIncome": 2938000000.0,
+      "eps": 10.39,
+      "freeCashFlow": 990000000.0,
+      "totalDebt": 6787000000.0,
+      "cash": 1640000000.0,
+      "sharesOutstanding": 279033365.0,
+      "grossMargin": 0.17151264276095957,
+      "operatingMargin": 0.0882748990075308,
+      "netMargin": 0.1465263577876415,
+      "roe": 0.2544163491513682,
+      "roic": 0.0965366784837742
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19713000000.0,
+      "operatingIncome": 2035000000.0,
+      "netIncome": 1787000000.0,
+      "eps": 6.96,
+      "freeCashFlow": 1616000000.0,
+      "totalDebt": 8888000000.0,
+      "cash": 1573000000.0,
+      "sharesOutstanding": 235035739.0,
+      "grossMargin": 0.1882514077005022,
+      "operatingMargin": 0.10323137016182214,
+      "netMargin": 0.09065083954750672,
+      "roe": 0.20316052751250568,
+      "roic": 0.11507577471160371
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20398000000.0,
+      "operatingIncome": 2017000000.0,
+      "netIncome": 165000000.0,
+      "eps": 0.75,
+      "freeCashFlow": 1529000000.0,
+      "totalDebt": 8094000000.0,
+      "cash": 1851000000.0,
+      "sharesOutstanding": 212746899.0,
+      "grossMargin": 0.19109716638886165,
+      "operatingMargin": 0.09888224335719188,
+      "netMargin": 0.008089028336111383,
+      "roe": 0.017921146953405017,
+      "roic": 0.11658285648228427
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.574376+00:00"
+  }
+}

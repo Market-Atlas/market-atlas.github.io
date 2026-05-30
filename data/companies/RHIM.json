@@ -1,0 +1,111 @@
+{
+  "ticker": "RHIM",
+  "name": "RHI Magnesita India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "currency": "INR",
+  "marketCap": {
+    "value": 83963478016.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 406.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 36241780000.0,
+    "operatingIncome": 3126927000.0,
+    "netIncome": 2025128000.0,
+    "eps": 9.81,
+    "freeCashFlow": 2539619000.0,
+    "totalDebt": 3797402000.0,
+    "cash": 967480000.0,
+    "sharesOutstanding": 206501426.0
+  },
+  "ratios": {
+    "roe": 0.050645732286374236,
+    "roic": 0.07141784169878394,
+    "grossMargin": 0.3568103718967446,
+    "operatingMargin": 0.08627961981999781,
+    "netMargin": 0.05587827087963119,
+    "debtToEquity": 0.10314999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 19688584000.0,
+      "operatingIncome": 3629448000.0,
+      "netIncome": 2690044000.0,
+      "eps": 16.71,
+      "freeCashFlow": -351872000.0,
+      "totalDebt": 647062000.0,
+      "cash": 622102000.0,
+      "sharesOutstanding": 160996331.0,
+      "grossMargin": 0.36052343835392126,
+      "operatingMargin": 0.18434276431458962,
+      "netMargin": 0.13662963268460546,
+      "roe": 0.2614942333201973,
+      "roic": 0.33193345249392187
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26897649000.0,
+      "operatingIncome": 3186343000.0,
+      "netIncome": -4661054000.0,
+      "eps": -27.85,
+      "freeCashFlow": 1930968000.0,
+      "totalDebt": 15893036000.0,
+      "cash": 3224196000.0,
+      "sharesOutstanding": 187996331.0,
+      "grossMargin": 0.3264271907184156,
+      "operatingMargin": 0.11846176593352081,
+      "netMargin": -0.1732885279304522,
+      "roe": -0.1612244280992002,
+      "roic": 0.07111835887746153
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 37811040000.0,
+      "operatingIncome": 3962396000.0,
+      "netIncome": -1004456000.0,
+      "eps": -4.88,
+      "freeCashFlow": 1884559000.0,
+      "totalDebt": 4866564000.0,
+      "cash": 500329000.0,
+      "sharesOutstanding": 206501426.0,
+      "grossMargin": 0.3743985883487997,
+      "operatingMargin": 0.10479468430384353,
+      "netMargin": -0.0265651513420419,
+      "roe": -0.026118796767565653,
+      "roic": 0.0914600880089573
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 36241780000.0,
+      "operatingIncome": 3126927000.0,
+      "netIncome": 2025128000.0,
+      "eps": 9.81,
+      "freeCashFlow": 2539619000.0,
+      "totalDebt": 3797402000.0,
+      "cash": 967480000.0,
+      "sharesOutstanding": 206501426.0,
+      "grossMargin": 0.3568103718967446,
+      "operatingMargin": 0.08627961981999781,
+      "netMargin": 0.05587827087963119,
+      "roe": 0.050645732286374236,
+      "roic": 0.07141784169878394
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:48.934811+00:00"
+  }
+}

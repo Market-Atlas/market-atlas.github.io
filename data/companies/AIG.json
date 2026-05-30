@@ -1,0 +1,128 @@
+{
+  "ticker": "AIG",
+  "name": "American International Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 39357210624.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 74.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26774000000.0,
+    "operatingIncome": null,
+    "netIncome": 3096000000.0,
+    "eps": 5.43,
+    "freeCashFlow": null,
+    "totalDebt": 9191000000.0,
+    "cash": 1274000000.0,
+    "sharesOutstanding": 1906671492.0
+  },
+  "ratios": {
+    "roe": 0.07525705534893896,
+    "roic": null,
+    "grossMargin": 0.35534,
+    "operatingMargin": 0.18620001,
+    "netMargin": 0.11563457085231942,
+    "debtToEquity": 0.22646999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29975000000.0,
+      "operatingIncome": null,
+      "netIncome": 10227000000.0,
+      "eps": 12.94,
+      "freeCashFlow": null,
+      "totalDebt": 27179000000.0,
+      "cash": 2043000000.0,
+      "sharesOutstanding": 1906671492.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.34118432026688905,
+      "roe": 0.24962167439589944,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27938000000.0,
+      "operatingIncome": null,
+      "netIncome": 3643000000.0,
+      "eps": 4.98,
+      "freeCashFlow": null,
+      "totalDebt": 10606000000.0,
+      "cash": 1540000000.0,
+      "sharesOutstanding": 1906671492.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.13039587658386428,
+      "roe": 0.08032898943793963,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27270000000.0,
+      "operatingIncome": null,
+      "netIncome": -1404000000.0,
+      "eps": -2.17,
+      "freeCashFlow": null,
+      "totalDebt": 8922000000.0,
+      "cash": 1302000000.0,
+      "sharesOutstanding": 1906671492.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.05148514851485148,
+      "roe": -0.0330189788575057,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26774000000.0,
+      "operatingIncome": null,
+      "netIncome": 3096000000.0,
+      "eps": 5.43,
+      "freeCashFlow": null,
+      "totalDebt": 9191000000.0,
+      "cash": 1274000000.0,
+      "sharesOutstanding": 1906671492.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11563457085231942,
+      "roe": 0.07525705534893896,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:40.032548+00:00"
+  }
+}

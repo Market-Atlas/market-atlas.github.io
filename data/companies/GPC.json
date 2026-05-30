@@ -1,0 +1,128 @@
+{
+  "ticker": "GPC",
+  "name": "Genuine Parts Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 13731351552.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 98.7,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24300141000.0,
+    "operatingIncome": 1214612000.0,
+    "netIncome": 65945000.0,
+    "eps": 0.47,
+    "freeCashFlow": 420924000.0,
+    "totalDebt": 6535229000.0,
+    "cash": 477179000.0,
+    "sharesOutstanding": 137617832.0
+  },
+  "ratios": {
+    "roe": 0.014909593982895285,
+    "roic": 0.1108402642034929,
+    "grossMargin": 0.3679278239578939,
+    "operatingMargin": 0.04998374289268527,
+    "netMargin": 0.0027137702616622677,
+    "debtToEquity": 1.49454
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22095973000.0,
+      "operatingIncome": 1614199000.0,
+      "netIncome": 1182701000.0,
+      "eps": 8.31,
+      "freeCashFlow": 1127339000.0,
+      "totalDebt": 4164842000.0,
+      "cash": 653463000.0,
+      "sharesOutstanding": 140941649.0,
+      "grossMargin": 0.3502947799583209,
+      "operatingMargin": 0.0730539904262193,
+      "netMargin": 0.053525635644105826,
+      "roe": 0.3120284257734681,
+      "roic": 0.20291105006093496
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23090610000.0,
+      "operatingIncome": 1747053000.0,
+      "netIncome": 1316524000.0,
+      "eps": 9.33,
+      "freeCashFlow": 922935000.0,
+      "totalDebt": 4886166000.0,
+      "cash": 1102007000.0,
+      "sharesOutstanding": 139567071.0,
+      "grossMargin": 0.3590495010742462,
+      "operatingMargin": 0.07566075560585017,
+      "netMargin": 0.05701555740623569,
+      "roe": 0.29913881855840213,
+      "roic": 0.18811380766221256
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23486569000.0,
+      "operatingIncome": 1442736000.0,
+      "netIncome": 904076000.0,
+      "eps": 6.47,
+      "freeCashFlow": 683912000.0,
+      "totalDebt": 5742736000.0,
+      "cash": 479991000.0,
+      "sharesOutstanding": 138779664.0,
+      "grossMargin": 0.36291443846055166,
+      "operatingMargin": 0.061428129413027506,
+      "netMargin": 0.0384933193094317,
+      "roe": 0.20843697628560104,
+      "roic": 0.14312654096276214
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24300141000.0,
+      "operatingIncome": 1214612000.0,
+      "netIncome": 65945000.0,
+      "eps": 0.47,
+      "freeCashFlow": 420924000.0,
+      "totalDebt": 6535229000.0,
+      "cash": 477179000.0,
+      "sharesOutstanding": 137617832.0,
+      "grossMargin": 0.3679278239578939,
+      "operatingMargin": 0.04998374289268527,
+      "netMargin": 0.0027137702616622677,
+      "roe": 0.014909593982895285,
+      "roic": 0.1108402642034929
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:32.025176+00:00"
+  }
+}

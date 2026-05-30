@@ -1,0 +1,128 @@
+{
+  "ticker": "PPLPHARMA",
+  "name": "Piramal Pharma Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 228902518784.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 172.79,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 88690800000.0,
+    "operatingIncome": 903800000.0,
+    "netIncome": -3259400000.0,
+    "eps": -2.46,
+    "freeCashFlow": 7625700000.0,
+    "totalDebt": 56745900000.0,
+    "cash": 11998800000.0,
+    "sharesOutstanding": 1329248130.0
+  },
+  "ratios": {
+    "roe": -0.03993080653025622,
+    "roic": 0.006531663536218645,
+    "grossMargin": 0.6348505143712764,
+    "operatingMargin": 0.010190459438859498,
+    "netMargin": -0.036750147704158714,
+    "debtToEquity": 0.6951900000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 70324100000.0,
+      "operatingIncome": -479700000.0,
+      "netIncome": -1864600000.0,
+      "eps": -1.54,
+      "freeCashFlow": -4808600000.0,
+      "totalDebt": 56370800000.0,
+      "cash": 1955900000.0,
+      "sharesOutstanding": 1221872448.0,
+      "grossMargin": 0.5733781164636306,
+      "operatingMargin": -0.006821274641268072,
+      "netMargin": -0.02651438127185417,
+      "roe": -0.027527865948180408,
+      "roic": -0.0038652504556596066
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 81064100000.0,
+      "operatingIncome": 4620300000.0,
+      "netIncome": 178200000.0,
+      "eps": 0.14,
+      "freeCashFlow": 2925000000.0,
+      "totalDebt": 47101600000.0,
+      "cash": 3568200000.0,
+      "sharesOutstanding": 1322948130.0,
+      "grossMargin": 0.5980020749012201,
+      "operatingMargin": 0.05699563678619759,
+      "netMargin": 0.002198260389000803,
+      "roe": 0.0022524629203143844,
+      "roic": 0.03660658400348611
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 91511800000.0,
+      "operatingIncome": 6284900000.0,
+      "netIncome": 911300000.0,
+      "eps": 0.68,
+      "freeCashFlow": 2279200000.0,
+      "totalDebt": 48564700000.0,
+      "cash": 3689800000.0,
+      "sharesOutstanding": 1325748130.0,
+      "grossMargin": 0.6468597492345249,
+      "operatingMargin": 0.06867857478489113,
+      "netMargin": 0.009958278604507834,
+      "roe": 0.011215434051943226,
+      "roic": 0.048412864700644286
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 88690800000.0,
+      "operatingIncome": 903800000.0,
+      "netIncome": -3259400000.0,
+      "eps": -2.46,
+      "freeCashFlow": 7625700000.0,
+      "totalDebt": 56745900000.0,
+      "cash": 11998800000.0,
+      "sharesOutstanding": 1329248130.0,
+      "grossMargin": 0.6348505143712764,
+      "operatingMargin": 0.010190459438859498,
+      "netMargin": -0.036750147704158714,
+      "roe": -0.03993080653025622,
+      "roic": 0.006531663536218645
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:44.701363+00:00"
+  }
+}

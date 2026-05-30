@@ -1,0 +1,128 @@
+{
+  "ticker": "JUBLFOOD",
+  "name": "Jubilant FoodWorks Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "INR",
+  "marketCap": {
+    "value": 281158156288.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 427.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 95125060000.0,
+    "operatingIncome": 9290980000.0,
+    "netIncome": 4284810000.0,
+    "eps": 6.49,
+    "freeCashFlow": 8836180000.0,
+    "totalDebt": 49022160000.0,
+    "cash": 1288230000.0,
+    "sharesOutstanding": 657497108.0
+  },
+  "ratios": {
+    "roe": 0.18693858675142175,
+    "roic": 0.1291434301352833,
+    "grossMargin": 0.5445160297402177,
+    "operatingMargin": 0.09767121303261202,
+    "netMargin": 0.04504396633232084,
+    "debtToEquity": 0.026549999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 51382680000.0,
+      "operatingIncome": 6895970000.0,
+      "netIncome": 3532010000.0,
+      "eps": 5.35,
+      "freeCashFlow": 1841320000.0,
+      "totalDebt": 25537380000.0,
+      "cash": 298030000.0,
+      "sharesOutstanding": 659845200.0,
+      "grossMargin": 0.5506871186944706,
+      "operatingMargin": 0.13420806388456188,
+      "netMargin": 0.0687393106003813,
+      "roe": 0.17332551440531163,
+      "roic": 0.15018900026309326
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 55881490000.0,
+      "operatingIncome": 5702920000.0,
+      "netIncome": 3993440000.0,
+      "eps": 6.05,
+      "freeCashFlow": 1566850000.0,
+      "totalDebt": 42068550000.0,
+      "cash": 1312880000.0,
+      "sharesOutstanding": 659845200.0,
+      "grossMargin": 0.5411965572142046,
+      "operatingMargin": 0.10205382855754204,
+      "netMargin": 0.07146266142867701,
+      "roe": 0.1839750635986957,
+      "roic": 0.0894225430447086
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 81044890000.0,
+      "operatingIncome": 7891100000.0,
+      "netIncome": 2107640000.0,
+      "eps": 4.17,
+      "freeCashFlow": 7819170000.0,
+      "totalDebt": 43718190000.0,
+      "cash": 997710000.0,
+      "sharesOutstanding": 659845200.0,
+      "grossMargin": 0.5493288966151968,
+      "operatingMargin": 0.09736702708832105,
+      "netMargin": 0.02600583454428774,
+      "roe": 0.10023264794449929,
+      "roic": 0.12187842059553944
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 95125060000.0,
+      "operatingIncome": 9290980000.0,
+      "netIncome": 4284810000.0,
+      "eps": 6.49,
+      "freeCashFlow": 8836180000.0,
+      "totalDebt": 49022160000.0,
+      "cash": 1288230000.0,
+      "sharesOutstanding": 657497108.0,
+      "grossMargin": 0.5445160297402177,
+      "operatingMargin": 0.09767121303261202,
+      "netMargin": 0.04504396633232084,
+      "roe": 0.18693858675142175,
+      "roic": 0.1291434301352833
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:11.443244+00:00"
+  }
+}

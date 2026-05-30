@@ -1,0 +1,128 @@
+{
+  "ticker": "GABRIEL",
+  "name": "Gabriel India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 158022696960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1100.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46669330000.0,
+    "operatingIncome": 3378360000.0,
+    "netIncome": 2522760000.0,
+    "eps": null,
+    "freeCashFlow": 1054620000.0,
+    "totalDebt": 1481170000.0,
+    "cash": 1135530000.0,
+    "sharesOutstanding": 143643940.0
+  },
+  "ratios": {
+    "roe": 0.1843119061622143,
+    "roic": 0.22272032656892982,
+    "grossMargin": 0.261197878778204,
+    "operatingMargin": 0.07238929721082346,
+    "netMargin": 0.05405605780070123,
+    "debtToEquity": 0.08126
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.23,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 29496270000.0,
+      "operatingIncome": 1657060000.0,
+      "netIncome": 1323530000.0,
+      "eps": 9.21,
+      "freeCashFlow": 476870000.0,
+      "totalDebt": 111640000.0,
+      "cash": 398280000.0,
+      "sharesOutstanding": 143643940.0,
+      "grossMargin": 0.2201834333629303,
+      "operatingMargin": 0.05617862868762728,
+      "netMargin": 0.04487109726077229,
+      "roe": 0.15208408502267134,
+      "roic": 0.18799763111140358
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 33765030000.0,
+      "operatingIncome": 2349700000.0,
+      "netIncome": 1787470000.0,
+      "eps": 12.44,
+      "freeCashFlow": 138140000.0,
+      "totalDebt": 749680000.0,
+      "cash": 599280000.0,
+      "sharesOutstanding": 143643940.0,
+      "grossMargin": 0.23326945067130106,
+      "operatingMargin": 0.06958975010536049,
+      "netMargin": 0.05293849879594362,
+      "roe": 0.17836316247435519,
+      "roic": 0.21814653891859775
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40633810000.0,
+      "operatingIncome": 3083830000.0,
+      "netIncome": 2449810000.0,
+      "eps": 17.05,
+      "freeCashFlow": -47570000.0,
+      "totalDebt": 690860000.0,
+      "cash": 378410000.0,
+      "sharesOutstanding": 143643940.0,
+      "grossMargin": 0.2590042627063522,
+      "operatingMargin": 0.07589320322165212,
+      "netMargin": 0.06028994081529643,
+      "roe": 0.20703465352810185,
+      "roic": 0.24623933323272418
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 46669330000.0,
+      "operatingIncome": 3378360000.0,
+      "netIncome": 2522760000.0,
+      "eps": null,
+      "freeCashFlow": 1054620000.0,
+      "totalDebt": 1481170000.0,
+      "cash": 1135530000.0,
+      "sharesOutstanding": 143643940.0,
+      "grossMargin": 0.261197878778204,
+      "operatingMargin": 0.07238929721082346,
+      "netMargin": 0.05405605780070123,
+      "roe": 0.1843119061622143,
+      "roic": 0.22272032656892982
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:43.915932+00:00"
+  }
+}

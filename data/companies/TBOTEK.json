@@ -1,0 +1,128 @@
+{
+  "ticker": "TBOTEK",
+  "name": "TBO TEK LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 131280232448.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1229.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26774800000.0,
+    "operatingIncome": 2920730000.0,
+    "netIncome": 2443060000.0,
+    "eps": 22.76,
+    "freeCashFlow": -875360000.0,
+    "totalDebt": 7561390000.0,
+    "cash": 10216200000.0,
+    "sharesOutstanding": 108587787.0
+  },
+  "ratios": {
+    "roe": 0.15754958691809492,
+    "roic": 0.1266139240506329,
+    "grossMargin": 0.6252028026353138,
+    "operatingMargin": 0.10908503518233563,
+    "netMargin": 0.09124475252849694,
+    "debtToEquity": 0.51855
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 9827670000.0,
+      "operatingIncome": 1914060000.0,
+      "netIncome": 1442510000.0,
+      "eps": 13.284275,
+      "freeCashFlow": 2303750000.0,
+      "totalDebt": 706240000.0,
+      "cash": 5175090000.0,
+      "sharesOutstanding": 108587787.0,
+      "grossMargin": 0.6622302132651992,
+      "operatingMargin": 0.19476233939479043,
+      "netMargin": 0.1467804678016254,
+      "roe": 0.42391106304696635,
+      "roic": 0.46581003139373583
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 12809090000.0,
+      "operatingIncome": 2559580000.0,
+      "netIncome": 2021470000.0,
+      "eps": 18.615998,
+      "freeCashFlow": 1878020000.0,
+      "totalDebt": 2104610000.0,
+      "cash": 7195460000.0,
+      "sharesOutstanding": 108587787.0,
+      "grossMargin": 0.6325039483679169,
+      "operatingMargin": 0.19982528032826688,
+      "netMargin": 0.15781527024948688,
+      "roe": 0.3710433235989993,
+      "roic": 0.3388969213577167
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 17374730000.0,
+      "operatingIncome": 2520720000.0,
+      "netIncome": 2298910000.0,
+      "eps": 21.48,
+      "freeCashFlow": 2356250000.0,
+      "totalDebt": 2141710000.0,
+      "cash": 9616070000.0,
+      "sharesOutstanding": 108587787.0,
+      "grossMargin": 0.6869148470220833,
+      "operatingMargin": 0.1450796645473052,
+      "netMargin": 0.13231342299995452,
+      "roe": 0.19236823013462956,
+      "roic": 0.17887240389773693
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 26774800000.0,
+      "operatingIncome": 2920730000.0,
+      "netIncome": 2443060000.0,
+      "eps": 22.76,
+      "freeCashFlow": -875360000.0,
+      "totalDebt": 7561390000.0,
+      "cash": 10216200000.0,
+      "sharesOutstanding": 108587787.0,
+      "grossMargin": 0.6252028026353138,
+      "operatingMargin": 0.10908503518233563,
+      "netMargin": 0.09124475252849694,
+      "roe": 0.15754958691809492,
+      "roic": 0.1266139240506329
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:04.217510+00:00"
+  }
+}

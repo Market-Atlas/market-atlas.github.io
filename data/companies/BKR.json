@@ -1,0 +1,128 @@
+{
+  "ticker": "BKR",
+  "name": "Baker Hughes Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 63373348864.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 63.88,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27733000000.0,
+    "operatingIncome": 3557000000.0,
+    "netIncome": 2588000000.0,
+    "eps": 2.6,
+    "freeCashFlow": 2537000000.0,
+    "totalDebt": 6087000000.0,
+    "cash": 3715000000.0,
+    "sharesOutstanding": 986773882.0
+  },
+  "ratios": {
+    "roe": 0.1374110650950409,
+    "roic": 0.14273103005497373,
+    "grossMargin": 0.23596437457180977,
+    "operatingMargin": 0.12825875311001333,
+    "netMargin": 0.09331842930804457,
+    "debtToEquity": 0.82935
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21156000000.0,
+      "operatingIncome": 1890000000.0,
+      "netIncome": -601000000.0,
+      "eps": -0.61,
+      "freeCashFlow": 899000000.0,
+      "totalDebt": 6658000000.0,
+      "cash": 2488000000.0,
+      "sharesOutstanding": 1006000000.0,
+      "grossMargin": 0.20797882397428624,
+      "operatingMargin": 0.08933635847986386,
+      "netMargin": -0.028408016638305916,
+      "roe": -0.04175350840628039,
+      "roic": 0.08977769333079992
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25506000000.0,
+      "operatingIncome": 2640000000.0,
+      "netIncome": 1943000000.0,
+      "eps": 1.91,
+      "freeCashFlow": 1838000000.0,
+      "totalDebt": 6021000000.0,
+      "cash": 2646000000.0,
+      "sharesOutstanding": 998000000.0,
+      "grossMargin": 0.23139653414882771,
+      "operatingMargin": 0.103505057633498,
+      "netMargin": 0.07617815415980554,
+      "roe": 0.12643154606975535,
+      "roic": 0.12342793024451822
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27829000000.0,
+      "operatingIncome": 3382000000.0,
+      "netIncome": 2979000000.0,
+      "eps": 2.98,
+      "freeCashFlow": 2054000000.0,
+      "totalDebt": 6023000000.0,
+      "cash": 3364000000.0,
+      "sharesOutstanding": 989525809.0,
+      "grossMargin": 0.2329584246649179,
+      "operatingMargin": 0.12152790254770204,
+      "netMargin": 0.10704660605842826,
+      "roe": 0.1763243563184374,
+      "roic": 0.14756959595078104
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 27733000000.0,
+      "operatingIncome": 3557000000.0,
+      "netIncome": 2588000000.0,
+      "eps": 2.6,
+      "freeCashFlow": 2537000000.0,
+      "totalDebt": 6087000000.0,
+      "cash": 3715000000.0,
+      "sharesOutstanding": 986773882.0,
+      "grossMargin": 0.23596437457180977,
+      "operatingMargin": 0.12825875311001333,
+      "netMargin": 0.09331842930804457,
+      "roe": 0.1374110650950409,
+      "roic": 0.14273103005497373
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:52.263796+00:00"
+  }
+}

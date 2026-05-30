@@ -1,0 +1,111 @@
+{
+  "ticker": "ODFL",
+  "name": "Old Dominion Freight Line, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "currency": "USD",
+  "marketCap": {
+    "value": 46824058880.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5496389000.0,
+    "operatingIncome": 1361045000.0,
+    "netIncome": 1023703000.0,
+    "eps": 4.84,
+    "freeCashFlow": 955099000.0,
+    "totalDebt": 39995000.0,
+    "cash": 120091000.0,
+    "sharesOutstanding": 208556788.0
+  },
+  "ratios": {
+    "roe": 0.23745986193177218,
+    "roic": 0.3128082587843124,
+    "grossMargin": 0.3302830276386915,
+    "operatingMargin": 0.247625304540854,
+    "netMargin": 0.18625009983827565,
+    "debtToEquity": 0.00909
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6260077000.0,
+      "operatingIncome": 1840632000.0,
+      "netIncome": 1377159000.0,
+      "eps": 6.09,
+      "freeCashFlow": 916434000.0,
+      "totalDebt": 99963000.0,
+      "cash": 186312000.0,
+      "sharesOutstanding": 220445638.0,
+      "grossMargin": 0.3603990813531527,
+      "operatingMargin": 0.29402705429981135,
+      "netMargin": 0.21999074452279102,
+      "roe": 0.37700254344678513,
+      "roic": 0.4904585278506107
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5866152000.0,
+      "operatingIncome": 1640673000.0,
+      "netIncome": 1239502000.0,
+      "eps": 5.63,
+      "freeCashFlow": 811826000.0,
+      "totalDebt": 79977000.0,
+      "cash": 433799000.0,
+      "sharesOutstanding": 217930932.0,
+      "grossMargin": 0.35324672800841167,
+      "operatingMargin": 0.2796847064310642,
+      "netMargin": 0.21129728653468235,
+      "roe": 0.29111249888733903,
+      "roic": 0.3782280277413281
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5814810000.0,
+      "operatingIncome": 1543998000.0,
+      "netIncome": 1186073000.0,
+      "eps": 5.48,
+      "freeCashFlow": 887965000.0,
+      "totalDebt": 59987000.0,
+      "cash": 108676000.0,
+      "sharesOutstanding": 212984747.0,
+      "grossMargin": 0.34786914791712886,
+      "operatingMargin": 0.26552853833573237,
+      "netMargin": 0.203974506475706,
+      "roe": 0.2794318317820245,
+      "roic": 0.35868767532218626
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5496389000.0,
+      "operatingIncome": 1361045000.0,
+      "netIncome": 1023703000.0,
+      "eps": 4.84,
+      "freeCashFlow": 955099000.0,
+      "totalDebt": 39995000.0,
+      "cash": 120091000.0,
+      "sharesOutstanding": 208556788.0,
+      "grossMargin": 0.3302830276386915,
+      "operatingMargin": 0.247625304540854,
+      "netMargin": 0.18625009983827565,
+      "roe": 0.23745986193177218,
+      "roic": 0.3128082587843124
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:03.870706+00:00"
+  }
+}

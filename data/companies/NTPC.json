@@ -1,0 +1,128 @@
+{
+  "ticker": "NTPC",
+  "name": "NTPC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3751640301568.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 386.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1873846300000.0,
+    "operatingIncome": 356564200000.0,
+    "netIncome": 270525200000.0,
+    "eps": 27.9,
+    "freeCashFlow": 68520300000.0,
+    "totalDebt": 2710045800000.0,
+    "cash": 34216300000.0,
+    "sharesOutstanding": 9696666134.0
+  },
+  "ratios": {
+    "roe": 0.1331484227417584,
+    "roic": 0.07519591969509486,
+    "grossMargin": 0.47571756552285,
+    "operatingMargin": 0.1902846567511967,
+    "netMargin": 0.1443689378365771,
+    "debtToEquity": 1.18127
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1740761500000.0,
+      "operatingIncome": 332226800000.0,
+      "netIncome": 169125500000.0,
+      "eps": 17.44,
+      "freeCashFlow": 223332600000.0,
+      "totalDebt": 2229131600000.0,
+      "cash": 4656500000.0,
+      "sharesOutstanding": 9696666134.0,
+      "grossMargin": 0.3601560581389237,
+      "operatingMargin": 0.19085141761234953,
+      "netMargin": 0.09715604349016221,
+      "roe": 0.11503322911619984,
+      "roic": 0.08980648102336962
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1767196100000.0,
+      "operatingIncome": 331496900000.0,
+      "netIncome": 208118900000.0,
+      "eps": 21.46,
+      "freeCashFlow": 92832700000.0,
+      "totalDebt": 2371309800000.0,
+      "cash": 8633400000.0,
+      "sharesOutstanding": 9696666134.0,
+      "grossMargin": 0.3725988870165569,
+      "operatingMargin": 0.18758353982333936,
+      "netMargin": 0.11776785836048416,
+      "roe": 0.12950024600323304,
+      "roic": 0.08332412318763624
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1881380600000.0,
+      "operatingIncome": 367263800000.0,
+      "netIncome": 234224600000.0,
+      "eps": 24.16,
+      "freeCashFlow": 91525900000.0,
+      "totalDebt": 2500961500000.0,
+      "cash": 14265600000.0,
+      "sharesOutstanding": 9696666134.0,
+      "grossMargin": 0.43109634488630316,
+      "operatingMargin": 0.19520973055637972,
+      "netMargin": 0.12449612800302076,
+      "roe": 0.12724676695686604,
+      "roic": 0.08459038521347911
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1873846300000.0,
+      "operatingIncome": 356564200000.0,
+      "netIncome": 270525200000.0,
+      "eps": 27.9,
+      "freeCashFlow": 68520300000.0,
+      "totalDebt": 2710045800000.0,
+      "cash": 34216300000.0,
+      "sharesOutstanding": 9696666134.0,
+      "grossMargin": 0.47571756552285,
+      "operatingMargin": 0.1902846567511967,
+      "netMargin": 0.1443689378365771,
+      "roe": 0.1331484227417584,
+      "roic": 0.07519591969509486
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.294273+00:00"
+  }
+}

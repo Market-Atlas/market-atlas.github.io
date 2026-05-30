@@ -1,0 +1,128 @@
+{
+  "ticker": "IVZ",
+  "name": "Invesco Ltd.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12616221696.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.46,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6377100000.0,
+    "operatingIncome": -695700000.0,
+    "netIncome": -281700000.0,
+    "eps": -1.6,
+    "freeCashFlow": 1441000000.0,
+    "totalDebt": 9784500000.0,
+    "cash": 1979800000.0,
+    "sharesOutstanding": 566070873.0
+  },
+  "ratios": {
+    "roe": -0.023031640912435616,
+    "roic": -0.03160046330994072,
+    "grossMargin": 0.3523858807294852,
+    "operatingMargin": -0.1090934750905584,
+    "netMargin": -0.04417368396292986,
+    "debtToEquity": 0.14829
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6048900000.0,
+      "operatingIncome": 1338900000.0,
+      "netIncome": 920700000.0,
+      "eps": 1.49,
+      "freeCashFlow": 510300000.0,
+      "totalDebt": 8558200000.0,
+      "cash": 1434100000.0,
+      "sharesOutstanding": 566100000.0,
+      "grossMargin": 0.40298236042916896,
+      "operatingMargin": 0.22134602985666815,
+      "netMargin": 0.15220949263502456,
+      "roe": 0.060518220539517276,
+      "roic": 0.056323038221758555
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5716400000.0,
+      "operatingIncome": -393200000.0,
+      "netIncome": -96900000.0,
+      "eps": -0.73,
+      "freeCashFlow": 1136500000.0,
+      "totalDebt": 9045000000.0,
+      "cash": 1931600000.0,
+      "sharesOutstanding": 566100000.0,
+      "grossMargin": 0.35081519837660063,
+      "operatingMargin": -0.06878454971660486,
+      "netMargin": -0.01695122804562312,
+      "roe": -0.006638077492190497,
+      "roic": -0.016630996590899477
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6067000000.0,
+      "operatingIncome": 832100000.0,
+      "netIncome": 774800000.0,
+      "eps": 1.18,
+      "freeCashFlow": 1120900000.0,
+      "totalDebt": 7546400000.0,
+      "cash": 1496000000.0,
+      "sharesOutstanding": 566100000.0,
+      "grossMargin": 0.3341354870611505,
+      "operatingMargin": 0.1371518048458876,
+      "netMargin": 0.1277072688313829,
+      "roe": 0.05321465119952747,
+      "roic": 0.03764085351234716
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6377100000.0,
+      "operatingIncome": -695700000.0,
+      "netIncome": -281700000.0,
+      "eps": -1.6,
+      "freeCashFlow": 1441000000.0,
+      "totalDebt": 9784500000.0,
+      "cash": 1979800000.0,
+      "sharesOutstanding": 566070873.0,
+      "grossMargin": 0.3523858807294852,
+      "operatingMargin": -0.1090934750905584,
+      "netMargin": -0.04417368396292986,
+      "roe": -0.023031640912435616,
+      "roic": -0.03160046330994072
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:42.870945+00:00"
+  }
+}

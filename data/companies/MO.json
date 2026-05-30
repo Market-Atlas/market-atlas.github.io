@@ -1,0 +1,128 @@
+{
+  "ticker": "MO",
+  "name": "Altria Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "currency": "USD",
+  "marketCap": {
+    "value": 116191035392.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 69.58,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20139000000.0,
+    "operatingIncome": 12035000000.0,
+    "netIncome": 6947000000.0,
+    "eps": 4.12,
+    "freeCashFlow": 9074000000.0,
+    "totalDebt": 25709000000.0,
+    "cash": 4474000000.0,
+    "sharesOutstanding": 2805961317.0
+  },
+  "ratios": {
+    "roe": -1.9837235865219873,
+    "roic": 0.5419462331697212,
+    "grossMargin": 0.7220815333432643,
+    "operatingMargin": 0.5975967029147425,
+    "netMargin": 0.3449525795719748,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20688000000.0,
+      "operatingIncome": 11919000000.0,
+      "netIncome": 5764000000.0,
+      "eps": 3.19,
+      "freeCashFlow": 8051000000.0,
+      "totalDebt": 26680000000.0,
+      "cash": 4030000000.0,
+      "sharesOutstanding": 2805961317.0,
+      "grossMargin": 0.6886117556071152,
+      "operatingMargin": 0.576131090487239,
+      "netMargin": 0.27861562258314,
+      "roe": -1.4507928517493078,
+      "roic": 0.524904214559387
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20502000000.0,
+      "operatingIncome": 11547000000.0,
+      "netIncome": 8130000000.0,
+      "eps": 4.57,
+      "freeCashFlow": 9091000000.0,
+      "totalDebt": 26233000000.0,
+      "cash": 3686000000.0,
+      "sharesOutstanding": 2805961317.0,
+      "grossMargin": 0.696712515852112,
+      "operatingMargin": 0.5632133450395084,
+      "netMargin": 0.3965466783728417,
+      "roe": -2.2966101694915255,
+      "roic": 0.5088353236680915
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20444000000.0,
+      "operatingIncome": 11630000000.0,
+      "netIncome": 11264000000.0,
+      "eps": 6.54,
+      "freeCashFlow": 8611000000.0,
+      "totalDebt": 24926000000.0,
+      "cash": 3127000000.0,
+      "sharesOutstanding": 2805961317.0,
+      "grossMargin": 0.7027489728037566,
+      "operatingMargin": 0.5688710624144003,
+      "netMargin": 0.5509684993152025,
+      "roe": -5.033065236818588,
+      "roic": 0.5126057827926658
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20139000000.0,
+      "operatingIncome": 12035000000.0,
+      "netIncome": 6947000000.0,
+      "eps": 4.12,
+      "freeCashFlow": 9074000000.0,
+      "totalDebt": 25709000000.0,
+      "cash": 4474000000.0,
+      "sharesOutstanding": 2805961317.0,
+      "grossMargin": 0.7220815333432643,
+      "operatingMargin": 0.5975967029147425,
+      "netMargin": 0.3449525795719748,
+      "roe": -1.9837235865219873,
+      "roic": 0.5419462331697212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:56.148748+00:00"
+  }
+}

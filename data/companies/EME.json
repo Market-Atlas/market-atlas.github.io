@@ -1,0 +1,128 @@
+{
+  "ticker": "EME",
+  "name": "EMCOR Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 36820418560.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 826.82,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16986422000.0,
+    "operatingIncome": 1568542000.0,
+    "netIncome": 1272817000.0,
+    "eps": 28.19,
+    "freeCashFlow": 1189313000.0,
+    "totalDebt": 468209000.0,
+    "cash": 1111968000.0,
+    "sharesOutstanding": 61252599.0
+  },
+  "ratios": {
+    "roe": 0.34644431161716127,
+    "roic": 0.3786779484002643,
+    "grossMargin": 0.19327130810714582,
+    "operatingMargin": 0.09234092971433301,
+    "netMargin": 0.07493143641433139,
+    "debtToEquity": 0.13355
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11076120000.0,
+      "operatingIncome": 564877000.0,
+      "netIncome": 406122000.0,
+      "eps": 8.1,
+      "freeCashFlow": 448644000.0,
+      "totalDebt": 535174000.0,
+      "cash": 456439000.0,
+      "sharesOutstanding": 60947947.0,
+      "grossMargin": 0.1447793992842259,
+      "operatingMargin": 0.05099953774426424,
+      "netMargin": 0.03666644998429053,
+      "roe": 0.20577840675034165,
+      "roic": 0.22516156368696444
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12582873000.0,
+      "operatingIncome": 878106000.0,
+      "netIncome": 632994000.0,
+      "eps": 13.31,
+      "freeCashFlow": 821251000.0,
+      "totalDebt": 339969000.0,
+      "cash": 789750000.0,
+      "sharesOutstanding": 61094042.0,
+      "grossMargin": 0.16604625986449995,
+      "operatingMargin": 0.06978581123722698,
+      "netMargin": 0.05030599927377476,
+      "roe": 0.25629590999676893,
+      "roic": 0.31252137647980405
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14566116000.0,
+      "operatingIncome": 1344863000.0,
+      "netIncome": 1007145000.0,
+      "eps": 21.52,
+      "freeCashFlow": 1332944000.0,
+      "totalDebt": 342822000.0,
+      "cash": 1339550000.0,
+      "sharesOutstanding": 61186088.0,
+      "grossMargin": 0.18982761087444314,
+      "operatingMargin": 0.09232818137655913,
+      "netMargin": 0.06914300284303654,
+      "roe": 0.34283954866071836,
+      "roic": 0.40995933825517555
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16986422000.0,
+      "operatingIncome": 1568542000.0,
+      "netIncome": 1272817000.0,
+      "eps": 28.19,
+      "freeCashFlow": 1189313000.0,
+      "totalDebt": 468209000.0,
+      "cash": 1111968000.0,
+      "sharesOutstanding": 61252599.0,
+      "grossMargin": 0.19327130810714582,
+      "operatingMargin": 0.09234092971433301,
+      "netMargin": 0.07493143641433139,
+      "roe": 0.34644431161716127,
+      "roic": 0.3786779484002643
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:17.824307+00:00"
+  }
+}

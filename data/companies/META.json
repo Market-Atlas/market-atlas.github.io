@@ -1,0 +1,128 @@
+{
+  "ticker": "META",
+  "name": "Meta Platforms, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "USD",
+  "marketCap": {
+    "value": 1605578129408.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 632.51,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 200966000000.0,
+    "operatingIncome": 83276000000.0,
+    "netIncome": 60458000000.0,
+    "eps": 23.49,
+    "freeCashFlow": 46109000000.0,
+    "totalDebt": 83897000000.0,
+    "cash": 35873000000.0,
+    "sharesOutstanding": 2529638328.0
+  },
+  "ratios": {
+    "roe": 0.2782966539773433,
+    "roic": 0.2765358305107259,
+    "grossMargin": 0.8199944269179861,
+    "operatingMargin": 0.41437855159579234,
+    "netMargin": 0.3008369574952977,
+    "debtToEquity": 0.35607999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 116609000000.0,
+      "operatingIncome": 28944000000.0,
+      "netIncome": 23200000000.0,
+      "eps": 8.59,
+      "freeCashFlow": 19289000000.0,
+      "totalDebt": 26591000000.0,
+      "cash": 14681000000.0,
+      "sharesOutstanding": 2614000000.0,
+      "grossMargin": 0.7834729737841848,
+      "operatingMargin": 0.24821411726367604,
+      "netMargin": 0.19895548371051977,
+      "roe": 0.18454734196145187,
+      "roic": 0.19004097069019854
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 134902000000.0,
+      "operatingIncome": 46751000000.0,
+      "netIncome": 39098000000.0,
+      "eps": 14.87,
+      "freeCashFlow": 44068000000.0,
+      "totalDebt": 37234000000.0,
+      "cash": 41862000000.0,
+      "sharesOutstanding": 2561000000.0,
+      "grossMargin": 0.8075714222176098,
+      "operatingMargin": 0.3465552771641636,
+      "netMargin": 0.28982520644616094,
+      "roe": 0.25526219575890524,
+      "roic": 0.24553838720181512
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 164501000000.0,
+      "operatingIncome": 69380000000.0,
+      "netIncome": 62360000000.0,
+      "eps": 23.86,
+      "freeCashFlow": 54072000000.0,
+      "totalDebt": 49060000000.0,
+      "cash": 43889000000.0,
+      "sharesOutstanding": 2534487662.0,
+      "grossMargin": 0.8166515705071702,
+      "operatingMargin": 0.42176035404040096,
+      "netMargin": 0.3790858414234564,
+      "roe": 0.34144231453648494,
+      "roic": 0.2994428067691856
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 200966000000.0,
+      "operatingIncome": 83276000000.0,
+      "netIncome": 60458000000.0,
+      "eps": 23.49,
+      "freeCashFlow": 46109000000.0,
+      "totalDebt": 83897000000.0,
+      "cash": 35873000000.0,
+      "sharesOutstanding": 2529638328.0,
+      "grossMargin": 0.8199944269179861,
+      "operatingMargin": 0.41437855159579234,
+      "netMargin": 0.3008369574952977,
+      "roe": 0.2782966539773433,
+      "roic": 0.2765358305107259
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:19.949590+00:00"
+  }
+}

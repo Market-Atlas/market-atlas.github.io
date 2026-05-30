@@ -1,0 +1,128 @@
+{
+  "ticker": "PLTR",
+  "name": "Palantir Technologies Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 375275192320.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 156.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4475446000.0,
+    "operatingIncome": 1414015000.0,
+    "netIncome": 1625033000.0,
+    "eps": 0.63,
+    "freeCashFlow": 2100591000.0,
+    "totalDebt": 229338000.0,
+    "cash": 1423796000.0,
+    "sharesOutstanding": 2391192000.0
+  },
+  "ratios": {
+    "roe": 0.21997753431985953,
+    "roic": 0.18564896228057484,
+    "grossMargin": 0.8236651721415028,
+    "operatingMargin": 0.3159495165398041,
+    "netMargin": 0.3630996776634105,
+    "debtToEquity": 0.02477
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1905871000.0,
+      "operatingIncome": -161201000.0,
+      "netIncome": -373705000.0,
+      "eps": -0.180263,
+      "freeCashFlow": 183710000.0,
+      "totalDebt": 249404000.0,
+      "cash": 2598540000.0,
+      "sharesOutstanding": 2099075000.0,
+      "grossMargin": 0.7856365934525474,
+      "operatingMargin": -0.08458127543784442,
+      "netMargin": -0.19608095196369535,
+      "roe": -0.145675442419404,
+      "roic": -0.05727050196644083
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2225012000.0,
+      "operatingIncome": 119966000.0,
+      "netIncome": 209825000.0,
+      "eps": 0.090131,
+      "freeCashFlow": 697069000.0,
+      "totalDebt": 229392000.0,
+      "cash": 831047000.0,
+      "sharesOutstanding": 2200127714.0,
+      "grossMargin": 0.8062459887856784,
+      "operatingMargin": 0.05391701258240405,
+      "netMargin": 0.09430286218681068,
+      "roe": 0.060371548650707034,
+      "roic": 0.032379897936626996
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2865507000.0,
+      "operatingIncome": 310403000.0,
+      "netIncome": 462190000.0,
+      "eps": 0.190277,
+      "freeCashFlow": 1141231000.0,
+      "totalDebt": 239219000.0,
+      "cash": 2098524000.0,
+      "sharesOutstanding": 2338795190.0,
+      "grossMargin": 0.8024817248745161,
+      "operatingMargin": 0.10832393709036481,
+      "netMargin": 0.16129431894600152,
+      "roe": 0.09237749274225382,
+      "roic": 0.059209032952636666
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4475446000.0,
+      "operatingIncome": 1414015000.0,
+      "netIncome": 1625033000.0,
+      "eps": 0.63,
+      "freeCashFlow": 2100591000.0,
+      "totalDebt": 229338000.0,
+      "cash": 1423796000.0,
+      "sharesOutstanding": 2391192000.0,
+      "grossMargin": 0.8236651721415028,
+      "operatingMargin": 0.3159495165398041,
+      "netMargin": 0.3630996776634105,
+      "roe": 0.21997753431985953,
+      "roic": 0.18564896228057484
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:09.272467+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "PIRAMALFIN",
+  "name": "PIRAMAL FINANCE LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 435466305536.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1926.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 110681900000.0,
+    "operatingIncome": 13060600000.0,
+    "netIncome": 15043100000.0,
+    "eps": 66.11,
+    "freeCashFlow": -160087500000.0,
+    "totalDebt": 798613200000.0,
+    "cash": 41231200000.0,
+    "sharesOutstanding": 226677700.0
+  },
+  "ratios": {
+    "roe": 0.05344162031158854,
+    "roic": 0.012092030754935795,
+    "grossMargin": 0.26005426361491807,
+    "operatingMargin": 0.11800122693954476,
+    "netMargin": 0.13591291801098462,
+    "debtToEquity": 2.83736
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 64985700000.0,
+      "operatingIncome": 14265100000.0,
+      "netIncome": -74013600000.0,
+      "eps": -328.135829,
+      "freeCashFlow": 53578000000.0,
+      "totalDebt": 4079016000.0,
+      "cash": 192802000.0,
+      "sharesOutstanding": 225557813.0,
+      "grossMargin": 0.38313505894373684,
+      "operatingMargin": 0.2195113694243503,
+      "netMargin": -1.1389213319237925,
+      "roe": -50.07333719413519,
+      "roic": 2.5669951341702175
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 65688400000.0,
+      "operatingIncome": 8895200000.0,
+      "netIncome": -19752800000.0,
+      "eps": -87.573114,
+      "freeCashFlow": -66835700000.0,
+      "totalDebt": 4555298000.0,
+      "cash": 195706000.0,
+      "sharesOutstanding": 225557813.0,
+      "grossMargin": 0.301056198659124,
+      "operatingMargin": 0.13541508089708382,
+      "netMargin": -0.3007045383964292,
+      "roe": -13.26162997576319,
+      "roic": 1.4715535815435763
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 89161300000.0,
+      "operatingIncome": 17865000000.0,
+      "netIncome": 4854500000.0,
+      "eps": 21.522198,
+      "freeCashFlow": -83928400000.0,
+      "totalDebt": 5668286000.0,
+      "cash": 380923000.0,
+      "sharesOutstanding": 225557813.0,
+      "grossMargin": 0.22572685683138313,
+      "operatingMargin": 0.20036719967070915,
+      "netMargin": 0.05444626760713449,
+      "roe": 2.9144760817242026,
+      "roic": 2.4359358418268386
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 110681900000.0,
+      "operatingIncome": 13060600000.0,
+      "netIncome": 15043100000.0,
+      "eps": 66.11,
+      "freeCashFlow": -160087500000.0,
+      "totalDebt": 798613200000.0,
+      "cash": 41231200000.0,
+      "sharesOutstanding": 226677700.0,
+      "grossMargin": 0.26005426361491807,
+      "operatingMargin": 0.11800122693954476,
+      "netMargin": 0.13591291801098462,
+      "roe": 0.05344162031158854,
+      "roic": 0.012092030754935795
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:42.840047+00:00"
+  }
+}

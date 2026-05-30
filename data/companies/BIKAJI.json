@@ -1,0 +1,128 @@
+{
+  "ticker": "BIKAJI",
+  "name": "Bikaji Foods International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 162991194112.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 650.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29347432000.0,
+    "operatingIncome": 3155381000.0,
+    "netIncome": 2582632000.0,
+    "eps": 10.3,
+    "freeCashFlow": 1256773000.0,
+    "totalDebt": 2993338000.0,
+    "cash": 398642000.0,
+    "sharesOutstanding": 250736400.0
+  },
+  "ratios": {
+    "roe": 0.16071212773475124,
+    "roic": 0.16552154971992206,
+    "grossMargin": 0.3374203916717483,
+    "operatingMargin": 0.10751812969530009,
+    "netMargin": 0.08800197577764214,
+    "debtToEquity": 0.17531
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 19634250000.0,
+      "operatingIncome": 1760123000.0,
+      "netIncome": 1371670000.0,
+      "eps": 5.49,
+      "freeCashFlow": 799852000.0,
+      "totalDebt": 1695140000.0,
+      "cash": 168124000.0,
+      "sharesOutstanding": 249509880.0,
+      "grossMargin": 0.28047014782841206,
+      "operatingMargin": 0.08964554286514637,
+      "netMargin": 0.06986108458433604,
+      "roe": 0.1435356479943811,
+      "roic": 0.15643532624529372
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 22344092000.0,
+      "operatingIncome": 3327948000.0,
+      "netIncome": 2656996000.0,
+      "eps": 10.63,
+      "freeCashFlow": 1163810000.0,
+      "totalDebt": 1663448000.0,
+      "cash": 86537000.0,
+      "sharesOutstanding": 250382180.0,
+      "grossMargin": 0.3108651718763063,
+      "operatingMargin": 0.14894084754036996,
+      "netMargin": 0.1189126861812062,
+      "roe": 0.21808084138456674,
+      "roic": 0.24033737308157696
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 25483459000.0,
+      "operatingIncome": 2467502000.0,
+      "netIncome": 2007417000.0,
+      "eps": 8.01,
+      "freeCashFlow": 699965000.0,
+      "totalDebt": 2309453000.0,
+      "cash": 248034000.0,
+      "sharesOutstanding": 250592710.0,
+      "grossMargin": 0.3036229108458157,
+      "operatingMargin": 0.09682759314581274,
+      "netMargin": 0.07877333292941119,
+      "roe": 0.14512961387564433,
+      "roic": 0.1528684352430628
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 29347432000.0,
+      "operatingIncome": 3155381000.0,
+      "netIncome": 2582632000.0,
+      "eps": 10.3,
+      "freeCashFlow": 1256773000.0,
+      "totalDebt": 2993338000.0,
+      "cash": 398642000.0,
+      "sharesOutstanding": 250736400.0,
+      "grossMargin": 0.3374203916717483,
+      "operatingMargin": 0.10751812969530009,
+      "netMargin": 0.08800197577764214,
+      "roe": 0.16071212773475124,
+      "roic": 0.16552154971992206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:02.640983+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "AMAT",
+  "name": "Applied Materials, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 357329371136.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 450.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28368000000.0,
+    "operatingIncome": 8470000000.0,
+    "netIncome": 6998000000.0,
+    "eps": 8.66,
+    "freeCashFlow": 5698000000.0,
+    "totalDebt": 7050000000.0,
+    "cash": 7241000000.0,
+    "sharesOutstanding": 2004000000.0
+  },
+  "ratios": {
+    "roe": 0.34278716629928974,
+    "roic": 0.3083924995448753,
+    "grossMargin": 0.4867456288776086,
+    "operatingMargin": 0.2985758601240835,
+    "netMargin": 0.24668640721940213,
+    "debtToEquity": 0.30399
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 25785000000.0,
+      "operatingIncome": 7784000000.0,
+      "netIncome": 6525000000.0,
+      "eps": 7.44,
+      "freeCashFlow": 4612000000.0,
+      "totalDebt": 5829000000.0,
+      "cash": 1995000000.0,
+      "sharesOutstanding": 2017000000.0,
+      "grossMargin": 0.465115377157262,
+      "operatingMargin": 0.3018809385301532,
+      "netMargin": 0.2530541012216405,
+      "roe": 0.5350992291290799,
+      "roic": 0.43189258170115963
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 26517000000.0,
+      "operatingIncome": 7654000000.0,
+      "netIncome": 6856000000.0,
+      "eps": 8.11,
+      "freeCashFlow": 7594000000.0,
+      "totalDebt": 5999000000.0,
+      "cash": 6132000000.0,
+      "sharesOutstanding": 2024000000.0,
+      "grossMargin": 0.4670211562393936,
+      "operatingMargin": 0.28864502017573634,
+      "netMargin": 0.2585511181506204,
+      "roe": 0.4193528656186923,
+      "roic": 0.34249149812063717
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 27176000000.0,
+      "operatingIncome": 7867000000.0,
+      "netIncome": 7177000000.0,
+      "eps": 8.61,
+      "freeCashFlow": 7487000000.0,
+      "totalDebt": 6606000000.0,
+      "cash": 8022000000.0,
+      "sharesOutstanding": 2029000000.0,
+      "grossMargin": 0.47457315278186635,
+      "operatingMargin": 0.2894833676773624,
+      "netMargin": 0.26409331763320576,
+      "roe": 0.37771696226514395,
+      "roic": 0.30722068184480805
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 28368000000.0,
+      "operatingIncome": 8470000000.0,
+      "netIncome": 6998000000.0,
+      "eps": 8.66,
+      "freeCashFlow": 5698000000.0,
+      "totalDebt": 7050000000.0,
+      "cash": 7241000000.0,
+      "sharesOutstanding": 2004000000.0,
+      "grossMargin": 0.4867456288776086,
+      "operatingMargin": 0.2985758601240835,
+      "netMargin": 0.24668640721940213,
+      "roe": 0.34278716629928974,
+      "roic": 0.3083924995448753
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:42.421022+00:00"
+  }
+}

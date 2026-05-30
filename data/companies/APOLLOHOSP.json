@@ -1,0 +1,128 @@
+{
+  "ticker": "APOLLOHOSP",
+  "name": "Apollo Hospitals Enterprise Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1175655284736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 8176.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 252285000000.0,
+    "operatingIncome": 28932000000.0,
+    "netIncome": 19417000000.0,
+    "eps": 135.04,
+    "freeCashFlow": 8937000000.0,
+    "totalDebt": 84929000000.0,
+    "cash": 8113000000.0,
+    "sharesOutstanding": 143784657.0
+  },
+  "ratios": {
+    "roe": 0.2048185145726311,
+    "roic": 0.16097479552662328,
+    "grossMargin": 0.48171314188318765,
+    "operatingMargin": 0.11467982638682442,
+    "netMargin": 0.07696454406722555,
+    "debtToEquity": 0.85146
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 164448000000.0,
+      "operatingIncome": 14492000000.0,
+      "netIncome": 8191000000.0,
+      "eps": 56.97,
+      "freeCashFlow": 2484000000.0,
+      "totalDebt": 43324000000.0,
+      "cash": 4334000000.0,
+      "sharesOutstanding": 143784657.0,
+      "grossMargin": 0.47860113835376533,
+      "operatingMargin": 0.08812512161899203,
+      "netMargin": 0.04980905818252578,
+      "roe": 0.13216832865395164,
+      "roic": 0.13762844498471005
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 188623000000.0,
+      "operatingIncome": 17073000000.0,
+      "netIncome": 8986000000.0,
+      "eps": 62.5,
+      "freeCashFlow": 7834000000.0,
+      "totalDebt": 53326000000.0,
+      "cash": 5055000000.0,
+      "sharesOutstanding": 143784657.0,
+      "grossMargin": 0.48015353376841635,
+      "operatingMargin": 0.09051388218828033,
+      "netMargin": 0.047640001484442515,
+      "roe": 0.12956714825388585,
+      "roic": 0.13916693837626345
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 217940000000.0,
+      "operatingIncome": 22643000000.0,
+      "netIncome": 14459000000.0,
+      "eps": 100.56,
+      "freeCashFlow": 4237000000.0,
+      "totalDebt": 54192000000.0,
+      "cash": 5781000000.0,
+      "sharesOutstanding": 143784657.0,
+      "grossMargin": 0.4810498302285033,
+      "operatingMargin": 0.10389556758740938,
+      "netMargin": 0.06634394787556208,
+      "roe": 0.17606517053687762,
+      "roic": 0.16610791182188314
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 252285000000.0,
+      "operatingIncome": 28932000000.0,
+      "netIncome": 19417000000.0,
+      "eps": 135.04,
+      "freeCashFlow": 8937000000.0,
+      "totalDebt": 84929000000.0,
+      "cash": 8113000000.0,
+      "sharesOutstanding": 143784657.0,
+      "grossMargin": 0.48171314188318765,
+      "operatingMargin": 0.11467982638682442,
+      "netMargin": 0.07696454406722555,
+      "roe": 0.2048185145726311,
+      "roic": 0.16097479552662328
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:31.398729+00:00"
+  }
+}

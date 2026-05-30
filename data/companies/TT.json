@@ -1,0 +1,111 @@
+{
+  "ticker": "TT",
+  "name": "Trane Technologies plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 99762331648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 451.3,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21321900000.0,
+    "operatingIncome": 3967400000.0,
+    "netIncome": 2918600000.0,
+    "eps": 12.98,
+    "freeCashFlow": 2811500000.0,
+    "totalDebt": 4615100000.0,
+    "cash": 1763300000.0,
+    "sharesOutstanding": 244968933.0
+  },
+  "ratios": {
+    "roe": 0.34019488996643044,
+    "roic": 0.30069044966387,
+    "grossMargin": 0.3616094250512384,
+    "operatingMargin": 0.18607159774691748,
+    "netMargin": 0.13688273559110586,
+    "debtToEquity": 0.5359700000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15991700000.0,
+      "operatingIncome": 2418900000.0,
+      "netIncome": 1756500000.0,
+      "eps": 7.48,
+      "freeCashFlow": 1212200000.0,
+      "totalDebt": 4836300000.0,
+      "cash": 1220500000.0,
+      "sharesOutstanding": 253328263.0,
+      "grossMargin": 0.3104610516705541,
+      "operatingMargin": 0.1512597159776634,
+      "netMargin": 0.10983822858107643,
+      "roe": 0.288489964852347,
+      "roic": 0.22141163763512708
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17677600000.0,
+      "operatingIncome": 2894000000.0,
+      "netIncome": 2023900000.0,
+      "eps": 8.77,
+      "freeCashFlow": 2088900000.0,
+      "totalDebt": 4779800000.0,
+      "cash": 1095300000.0,
+      "sharesOutstanding": 251673874.0,
+      "grossMargin": 0.33133457030366115,
+      "operatingMargin": 0.16371000588315157,
+      "netMargin": 0.11448952346472371,
+      "roe": 0.289326967063129,
+      "roic": 0.24577494692144375
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19838200000.0,
+      "operatingIncome": 3500100000.0,
+      "netIncome": 2567900000.0,
+      "eps": 11.24,
+      "freeCashFlow": 2775000000.0,
+      "totalDebt": 4770300000.0,
+      "cash": 1590100000.0,
+      "sharesOutstanding": 248971153.0,
+      "grossMargin": 0.3569124214898529,
+      "operatingMargin": 0.17643233761127522,
+      "netMargin": 0.1294421872952183,
+      "roe": 0.3443425322498458,
+      "roic": 0.28624352903653183
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21321900000.0,
+      "operatingIncome": 3967400000.0,
+      "netIncome": 2918600000.0,
+      "eps": 12.98,
+      "freeCashFlow": 2811500000.0,
+      "totalDebt": 4615100000.0,
+      "cash": 1763300000.0,
+      "sharesOutstanding": 244968933.0,
+      "grossMargin": 0.3616094250512384,
+      "operatingMargin": 0.18607159774691748,
+      "netMargin": 0.13688273559110586,
+      "roe": 0.34019488996643044,
+      "roic": 0.30069044966387
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:29.899129+00:00"
+  }
+}

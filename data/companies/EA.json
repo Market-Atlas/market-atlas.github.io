@@ -1,0 +1,111 @@
+{
+  "ticker": "EA",
+  "name": "Electronic Arts Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "currency": "USD",
+  "marketCap": {
+    "value": 50581590016.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 201.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7531000000.0,
+    "operatingIncome": 1162000000.0,
+    "netIncome": 887000000.0,
+    "eps": 3.51,
+    "freeCashFlow": 2323000000.0,
+    "totalDebt": 1548000000.0,
+    "cash": 2864000000.0,
+    "sharesOutstanding": 250710000.0
+  },
+  "ratios": {
+    "roe": 0.13113542282672974,
+    "roic": 0.13979788257940326,
+    "grossMargin": 0.789669366617979,
+    "operatingMargin": 0.15429557827645732,
+    "netMargin": 0.11777984331430089,
+    "debtToEquity": 0.2741
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7426000000.0,
+      "operatingIncome": 1443000000.0,
+      "netIncome": 802000000.0,
+      "eps": 2.88,
+      "freeCashFlow": 1343000000.0,
+      "totalDebt": 1946000000.0,
+      "cash": 2424000000.0,
+      "sharesOutstanding": 273000000.0,
+      "grossMargin": 0.7586856988957716,
+      "operatingMargin": 0.19431726366819282,
+      "netMargin": 0.10799892270401293,
+      "roe": 0.10996846290963938,
+      "roic": 0.15618573438683842
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7562000000.0,
+      "operatingIncome": 1580000000.0,
+      "netIncome": 1273000000.0,
+      "eps": 4.68,
+      "freeCashFlow": 2116000000.0,
+      "totalDebt": 1948000000.0,
+      "cash": 2900000000.0,
+      "sharesOutstanding": 266378719.0,
+      "grossMargin": 0.7738693467336684,
+      "operatingMargin": 0.20893943401216608,
+      "netMargin": 0.16834170854271358,
+      "roe": 0.16943963796086783,
+      "roic": 0.1670013740619385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7463000000.0,
+      "operatingIncome": 1577000000.0,
+      "netIncome": 1121000000.0,
+      "eps": 4.25,
+      "freeCashFlow": 1858000000.0,
+      "totalDebt": 1951000000.0,
+      "cash": 2136000000.0,
+      "sharesOutstanding": 252315000.0,
+      "grossMargin": 0.7932466836392872,
+      "operatingMargin": 0.21130912501674928,
+      "netMargin": 0.15020769127696637,
+      "roe": 0.17554024428437207,
+      "roic": 0.18915677102075087
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 7531000000.0,
+      "operatingIncome": 1162000000.0,
+      "netIncome": 887000000.0,
+      "eps": 3.51,
+      "freeCashFlow": 2323000000.0,
+      "totalDebt": 1548000000.0,
+      "cash": 2864000000.0,
+      "sharesOutstanding": 250710000.0,
+      "grossMargin": 0.789669366617979,
+      "operatingMargin": 0.15429557827645732,
+      "netMargin": 0.11777984331430089,
+      "roe": 0.13113542282672974,
+      "roic": 0.13979788257940326
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:15.412033+00:00"
+  }
+}

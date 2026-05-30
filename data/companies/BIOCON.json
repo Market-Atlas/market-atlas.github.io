@@ -1,0 +1,128 @@
+{
+  "ticker": "BIOCON",
+  "name": "Biocon Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "INR",
+  "marketCap": {
+    "value": 694126379008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 428.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 167799000000.0,
+    "operatingIncome": 14986000000.0,
+    "netIncome": 3856000000.0,
+    "eps": 2.82,
+    "freeCashFlow": 823000000.0,
+    "totalDebt": 154341000000.0,
+    "cash": 24165000000.0,
+    "sharesOutstanding": 1619331350.0
+  },
+  "ratios": {
+    "roe": 0.011330579046656363,
+    "roic": 0.030295617789224495,
+    "grossMargin": 0.6608621028730803,
+    "operatingMargin": 0.0893092330705189,
+    "netMargin": 0.02297987473107706,
+    "debtToEquity": 0.42145000000000005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 109341000000.0,
+      "operatingIncome": 16271000000.0,
+      "netIncome": 4627000000.0,
+      "eps": 3.87,
+      "freeCashFlow": 1262000000.0,
+      "totalDebt": 180188000000.0,
+      "cash": 13232000000.0,
+      "sharesOutstanding": 1200600000.0,
+      "grossMargin": 0.6646454669337211,
+      "operatingMargin": 0.1488096871255979,
+      "netMargin": 0.04231715458976962,
+      "roe": 0.02589704985196089,
+      "roic": 0.04534118047021515
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 141958000000.0,
+      "operatingIncome": 14345000000.0,
+      "netIncome": 10225000000.0,
+      "eps": 8.54,
+      "freeCashFlow": 10223000000.0,
+      "totalDebt": 162767000000.0,
+      "cash": 12334000000.0,
+      "sharesOutstanding": 1200600000.0,
+      "grossMargin": 0.6543625579396724,
+      "operatingMargin": 0.10105101508896998,
+      "netMargin": 0.07202834641231913,
+      "roe": 0.05168396204956606,
+      "roic": 0.03978047941786558
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 150522000000.0,
+      "operatingIncome": 14793000000.0,
+      "netIncome": 10133000000.0,
+      "eps": 8.46,
+      "freeCashFlow": 17179000000.0,
+      "totalDebt": 183620000000.0,
+      "cash": 32267000000.0,
+      "sharesOutstanding": 1200600000.0,
+      "grossMargin": 0.6547016382987204,
+      "operatingMargin": 0.09827799258580142,
+      "netMargin": 0.06731906299411382,
+      "roe": 0.04681666974681205,
+      "roic": 0.03697695345698145
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 167799000000.0,
+      "operatingIncome": 14986000000.0,
+      "netIncome": 3856000000.0,
+      "eps": 2.82,
+      "freeCashFlow": 823000000.0,
+      "totalDebt": 154341000000.0,
+      "cash": 24165000000.0,
+      "sharesOutstanding": 1619331350.0,
+      "grossMargin": 0.6608621028730803,
+      "operatingMargin": 0.0893092330705189,
+      "netMargin": 0.02297987473107706,
+      "roe": 0.011330579046656363,
+      "roic": 0.030295617789224495
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:02.945720+00:00"
+  }
+}

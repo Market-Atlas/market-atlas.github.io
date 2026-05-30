@@ -1,0 +1,128 @@
+{
+  "ticker": "WHIRLPOOL",
+  "name": "Whirlpool of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "currency": "INR",
+  "marketCap": {
+    "value": 104391983104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 822.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 80342000000.0,
+    "operatingIncome": 2718400000.0,
+    "netIncome": 2937500000.0,
+    "eps": null,
+    "freeCashFlow": 345900000.0,
+    "totalDebt": 3586900000.0,
+    "cash": 6149700000.0,
+    "sharesOutstanding": 126871830.0
+  },
+  "ratios": {
+    "roe": 0.07060211890478388,
+    "roic": 0.060150509035631385,
+    "grossMargin": 0.3346531079634562,
+    "operatingMargin": 0.03383535386223893,
+    "netMargin": 0.03656244554529387,
+    "debtToEquity": 0.08621000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 44.64,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 66641400000.0,
+      "operatingIncome": 2301400000.0,
+      "netIncome": 2190200000.0,
+      "eps": 17.26,
+      "freeCashFlow": 888500000.0,
+      "totalDebt": 1116700000.0,
+      "cash": 16778000000.0,
+      "sharesOutstanding": 126871830.0,
+      "grossMargin": 0.3003823449087204,
+      "operatingMargin": 0.03453408841951099,
+      "netMargin": 0.03286545600782697,
+      "roe": 0.062215051258816545,
+      "roic": 0.06336383960529068
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 68285900000.0,
+      "operatingIncome": 2273700000.0,
+      "netIncome": 2170400000.0,
+      "eps": 17.11,
+      "freeCashFlow": 5439700000.0,
+      "totalDebt": 2309600000.0,
+      "cash": 22328900000.0,
+      "sharesOutstanding": 126871830.0,
+      "grossMargin": 0.3179895117440057,
+      "operatingMargin": 0.033296771368613434,
+      "netMargin": 0.03178401397653103,
+      "roe": 0.05884075258905818,
+      "roic": 0.05800906224168019
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 79193700000.0,
+      "operatingIncome": 3371500000.0,
+      "netIncome": 3590000000.0,
+      "eps": 28.3,
+      "freeCashFlow": 4512600000.0,
+      "totalDebt": 2843700000.0,
+      "cash": 25576100000.0,
+      "sharesOutstanding": 126871830.0,
+      "grossMargin": 0.34025686386669646,
+      "operatingMargin": 0.04257283091963123,
+      "netMargin": 0.045331888773980755,
+      "roe": 0.09089113824061087,
+      "roic": 0.0796263712905778
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 80342000000.0,
+      "operatingIncome": 2718400000.0,
+      "netIncome": 2937500000.0,
+      "eps": null,
+      "freeCashFlow": 345900000.0,
+      "totalDebt": 3586900000.0,
+      "cash": 6149700000.0,
+      "sharesOutstanding": 126871830.0,
+      "grossMargin": 0.3346531079634562,
+      "operatingMargin": 0.03383535386223893,
+      "netMargin": 0.03656244554529387,
+      "roe": 0.07060211890478388,
+      "roic": 0.060150509035631385
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:16.426902+00:00"
+  }
+}

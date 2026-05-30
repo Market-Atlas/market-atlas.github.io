@@ -1,0 +1,128 @@
+{
+  "ticker": "ICICIGI",
+  "name": "ICICI Lombard General Insurance Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "INR",
+  "marketCap": {
+    "value": 894352556032.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1792.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 281408200000.0,
+    "operatingIncome": null,
+    "netIncome": 27719400000.0,
+    "eps": 55.24,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": 9867800000.0,
+    "sharesOutstanding": 498494992.0
+  },
+  "ratios": {
+    "roe": 0.16664412233097609,
+    "roic": null,
+    "grossMargin": 0.23596,
+    "operatingMargin": 0.11436,
+    "netMargin": 0.09850246012731682,
+    "debtToEquity": 0.00057
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 2550000000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 185704485000.0,
+      "operatingIncome": null,
+      "netIncome": 17290519000.0,
+      "eps": 35.16,
+      "freeCashFlow": null,
+      "totalDebt": 350000000.0,
+      "cash": 2031293000.0,
+      "sharesOutstanding": 491125103.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09310770819563136,
+      "roe": 0.16555546283834263,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 217681400000.0,
+      "operatingIncome": null,
+      "netIncome": 19185900000.0,
+      "eps": 38.78,
+      "freeCashFlow": null,
+      "totalDebt": 350000000.0,
+      "cash": 3345800000.0,
+      "sharesOutstanding": 492685295.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08813752576012467,
+      "roe": 0.15719705038918477,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 249005800000.0,
+      "operatingIncome": null,
+      "netIncome": 25082900000.0,
+      "eps": 50.25,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 875700000.0,
+      "sharesOutstanding": 495726477.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10073219178027179,
+      "roe": 0.1731626208045884,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 281408200000.0,
+      "operatingIncome": null,
+      "netIncome": 27719400000.0,
+      "eps": 55.24,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 9867800000.0,
+      "sharesOutstanding": 498494992.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09850246012731682,
+      "roe": 0.16664412233097609,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:56.258239+00:00"
+  }
+}

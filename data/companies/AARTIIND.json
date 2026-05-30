@@ -1,0 +1,128 @@
+{
+  "ticker": "AARTIIND",
+  "name": "Aarti Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 172455641088.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 475.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 82860000000.0,
+    "operatingIncome": 6770000000.0,
+    "netIncome": 4190000000.0,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": 49660000000.0,
+    "cash": 5830000000.0,
+    "sharesOutstanding": 362594369.0
+  },
+  "ratios": {
+    "roe": 0.07036104114189756,
+    "roic": 0.06199066019595275,
+    "grossMargin": 0.35445329471397535,
+    "operatingMargin": 0.08170407916968381,
+    "netMargin": 0.050567221819937246,
+    "debtToEquity": 0.83392
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 32.71,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 64921600000.0,
+      "operatingIncome": 7956800000.0,
+      "netIncome": 5452300000.0,
+      "eps": 15.04,
+      "freeCashFlow": -75600000.0,
+      "totalDebt": 29073100000.0,
+      "cash": 1674500000.0,
+      "sharesOutstanding": 362504035.0,
+      "grossMargin": 0.2768785735410095,
+      "operatingMargin": 0.12256013406940063,
+      "netMargin": 0.08398283468059937,
+      "roe": 0.11081730378367831,
+      "roic": 0.10165329694828033
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 61916900000.0,
+      "operatingIncome": 6196000000.0,
+      "netIncome": 4164600000.0,
+      "eps": 11.49,
+      "freeCashFlow": -1184900000.0,
+      "totalDebt": 36226700000.0,
+      "cash": 4282900000.0,
+      "sharesOutstanding": 362504035.0,
+      "grossMargin": 0.24782248465281692,
+      "operatingMargin": 0.1000696094281206,
+      "netMargin": 0.067261119338985,
+      "roe": 0.07872932093455859,
+      "roic": 0.06952080462813776
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 72690000000.0,
+      "operatingIncome": 5660000000.0,
+      "netIncome": 3310000000.0,
+      "eps": 9.12,
+      "freeCashFlow": -1439700000.0,
+      "totalDebt": 38477900000.0,
+      "cash": 1993900000.0,
+      "sharesOutstanding": 362519910.0,
+      "grossMargin": 0.35960929976613015,
+      "operatingMargin": 0.07786490576420416,
+      "netMargin": 0.04553583711652222,
+      "roe": 0.05905315140443024,
+      "roic": 0.05987574196728838
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 82860000000.0,
+      "operatingIncome": 6770000000.0,
+      "netIncome": 4190000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 49660000000.0,
+      "cash": 5830000000.0,
+      "sharesOutstanding": 362594369.0,
+      "grossMargin": 0.35445329471397535,
+      "operatingMargin": 0.08170407916968381,
+      "netMargin": 0.050567221819937246,
+      "roe": 0.07036104114189756,
+      "roic": 0.06199066019595275
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:44.567716+00:00"
+  }
+}

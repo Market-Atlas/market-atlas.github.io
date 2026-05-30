@@ -1,0 +1,128 @@
+{
+  "ticker": "HONASA",
+  "name": "Honasa Consumer Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 132276477952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 406.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23919420000.0,
+    "operatingIncome": 1917540000.0,
+    "netIncome": 1999450000.0,
+    "eps": null,
+    "freeCashFlow": 1339060000.0,
+    "totalDebt": 1353460000.0,
+    "cash": 1192240000.0,
+    "sharesOutstanding": 325369794.0
+  },
+  "ratios": {
+    "roe": 0.14161895156149512,
+    "roic": 0.12393630291662734,
+    "grossMargin": 0.701320516969057,
+    "operatingMargin": 0.08016665955947093,
+    "netMargin": 0.08359107369660301,
+    "debtToEquity": 0.09586
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.488426,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14927480000.0,
+      "operatingIncome": -21550000.0,
+      "netIncome": -1428090000.0,
+      "eps": -4.438538,
+      "freeCashFlow": -632730000.0,
+      "totalDebt": 921900000.0,
+      "cash": 82550000.0,
+      "sharesOutstanding": 321746757.0,
+      "grossMargin": 0.7007311347930126,
+      "operatingMargin": -0.0014436462149003046,
+      "netMargin": -0.09566852543095017,
+      "roe": -0.2356969207840885,
+      "roic": -0.003086990091549669
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 19199040000.0,
+      "operatingIncome": 1077830000.0,
+      "netIncome": 1118200000.0,
+      "eps": 3.55,
+      "freeCashFlow": 2235830000.0,
+      "totalDebt": 1309690000.0,
+      "cash": 1070210000.0,
+      "sharesOutstanding": 324244157.0,
+      "grossMargin": 0.6975458147907395,
+      "operatingMargin": 0.056139786155974467,
+      "netMargin": 0.05824249545810624,
+      "roe": 0.1020934544966497,
+      "roic": 0.08789714900835073
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 20669490000.0,
+      "operatingIncome": 235280000.0,
+      "netIncome": 726870000.0,
+      "eps": 2.23,
+      "freeCashFlow": 817860000.0,
+      "totalDebt": 1364000000.0,
+      "cash": 329670000.0,
+      "sharesOutstanding": 325183610.0,
+      "grossMargin": 0.7034638977546132,
+      "operatingMargin": 0.011382961069673224,
+      "netMargin": 0.03516632485852336,
+      "roe": 0.06160802827526,
+      "roic": 0.017875295351116448
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 23919420000.0,
+      "operatingIncome": 1917540000.0,
+      "netIncome": 1999450000.0,
+      "eps": null,
+      "freeCashFlow": 1339060000.0,
+      "totalDebt": 1353460000.0,
+      "cash": 1192240000.0,
+      "sharesOutstanding": 325369794.0,
+      "grossMargin": 0.701320516969057,
+      "operatingMargin": 0.08016665955947093,
+      "netMargin": 0.08359107369660301,
+      "roe": 0.14161895156149512,
+      "roic": 0.12393630291662734
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:54.352696+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MOS",
+  "name": "The Mosaic Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7596534784.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23.9,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12052400000.0,
+    "operatingIncome": 1078700000.0,
+    "netIncome": 540700000.0,
+    "eps": 1.7,
+    "freeCashFlow": -534600000.0,
+    "totalDebt": 5279500000.0,
+    "cash": 276600000.0,
+    "sharesOutstanding": 395125254.0
+  },
+  "ratios": {
+    "roe": 0.04474178520302195,
+    "roic": 0.06212135173112805,
+    "grossMargin": 0.15780259533370947,
+    "operatingMargin": 0.08950084630447049,
+    "netMargin": 0.044862434038033916,
+    "debtToEquity": 0.4819
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19125200000.0,
+      "operatingIncome": 4785300000.0,
+      "netIncome": 3582800000.0,
+      "eps": 10.06,
+      "freeCashFlow": 2688500000.0,
+      "totalDebt": 3808000000.0,
+      "cash": 735400000.0,
+      "sharesOutstanding": 391964464.0,
+      "grossMargin": 0.30095371551670047,
+      "operatingMargin": 0.2502091481396273,
+      "netMargin": 0.18733398866417084,
+      "roe": 0.29721434141323644,
+      "roic": 0.30167185707261107
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13696100000.0,
+      "operatingIncome": 1281600000.0,
+      "netIncome": 1164900000.0,
+      "eps": 3.5,
+      "freeCashFlow": 1004800000.0,
+      "totalDebt": 3994800000.0,
+      "cash": 348800000.0,
+      "sharesOutstanding": 393875241.0,
+      "grossMargin": 0.1614036112469973,
+      "operatingMargin": 0.0935740831331547,
+      "netMargin": 0.08505340936470966,
+      "roe": 0.09478283510439212,
+      "roic": 0.07869818851704022
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11122800000.0,
+      "operatingIncome": 621500000.0,
+      "netIncome": 174900000.0,
+      "eps": 0.55,
+      "freeCashFlow": 47400000.0,
+      "totalDebt": 4449800000.0,
+      "cash": 272800000.0,
+      "sharesOutstanding": 394648654.0,
+      "grossMargin": 0.13592800374006545,
+      "operatingMargin": 0.05587621821843421,
+      "netMargin": 0.015724457870320424,
+      "roe": 0.015232007245871943,
+      "roic": 0.039009050852989544
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12052400000.0,
+      "operatingIncome": 1078700000.0,
+      "netIncome": 540700000.0,
+      "eps": 1.7,
+      "freeCashFlow": -534600000.0,
+      "totalDebt": 5279500000.0,
+      "cash": 276600000.0,
+      "sharesOutstanding": 395125254.0,
+      "grossMargin": 0.15780259533370947,
+      "operatingMargin": 0.08950084630447049,
+      "netMargin": 0.044862434038033916,
+      "roe": 0.04474178520302195,
+      "roic": 0.06212135173112805
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:56.046766+00:00"
+  }
+}

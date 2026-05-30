@@ -1,0 +1,111 @@
+{
+  "ticker": "JKHY",
+  "name": "Jack Henry & Associates, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 9685643264.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 136.32,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2375288000.0,
+    "operatingIncome": 568715000.0,
+    "netIncome": 455748000.0,
+    "eps": 6.24,
+    "freeCashFlow": 410338000.0,
+    "totalDebt": null,
+    "cash": 101953000.0,
+    "sharesOutstanding": 104415989.0
+  },
+  "ratios": {
+    "roe": 0.21388265240995066,
+    "roic": 0.26689809426552635,
+    "grossMargin": 0.4271233635668601,
+    "operatingMargin": 0.23942991334103486,
+    "netMargin": 0.19187062789859588,
+    "debtToEquity": 0.06398
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 1942884000.0,
+      "operatingIncome": 474619000.0,
+      "netIncome": 362916000.0,
+      "eps": 4.94,
+      "freeCashFlow": 313242000.0,
+      "totalDebt": 115067000.0,
+      "cash": 48787000.0,
+      "sharesOutstanding": 103921724.0,
+      "grossMargin": 0.4191037653303028,
+      "operatingMargin": 0.24428581428433196,
+      "netMargin": 0.1867924178695177,
+      "roe": 0.2626736816048951,
+      "roic": 0.3171124280913215
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 2077702000.0,
+      "operatingIncome": 480688000.0,
+      "netIncome": 366646000.0,
+      "eps": 5.02,
+      "freeCashFlow": 174575000.0,
+      "totalDebt": 275000000.0,
+      "cash": 12243000.0,
+      "sharesOutstanding": 104088784.0,
+      "grossMargin": 0.4132642698519807,
+      "operatingMargin": 0.23135560345035044,
+      "netMargin": 0.17646707756935306,
+      "roe": 0.22794138674922754,
+      "roic": 0.2552086264474306
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 2215543000.0,
+      "operatingIncome": 489391000.0,
+      "netIncome": 381816000.0,
+      "eps": 5.23,
+      "freeCashFlow": 335618000.0,
+      "totalDebt": 150000000.0,
+      "cash": 38284000.0,
+      "sharesOutstanding": 104245089.0,
+      "grossMargin": 0.41347245347980155,
+      "operatingMargin": 0.22088986763064405,
+      "netMargin": 0.17233517923145703,
+      "roe": 0.2072424341769596,
+      "roic": 0.24563332804648147
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 2375288000.0,
+      "operatingIncome": 568715000.0,
+      "netIncome": 455748000.0,
+      "eps": 6.24,
+      "freeCashFlow": 410338000.0,
+      "totalDebt": null,
+      "cash": 101953000.0,
+      "sharesOutstanding": 104415989.0,
+      "grossMargin": 0.4271233635668601,
+      "operatingMargin": 0.23942991334103486,
+      "netMargin": 0.19187062789859588,
+      "roe": 0.21388265240995066,
+      "roic": 0.26689809426552635
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:43.778370+00:00"
+  }
+}

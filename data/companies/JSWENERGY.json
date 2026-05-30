@@ -1,0 +1,128 @@
+{
+  "ticker": "JSWENERGY",
+  "name": "JSW Energy Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1090320269312.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 595.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 189011300000.0,
+    "operatingIncome": 68791400000.0,
+    "netIncome": 22393100000.0,
+    "eps": 12.74,
+    "freeCashFlow": -4121600000.0,
+    "totalDebt": 769457800000.0,
+    "cash": 41424500000.0,
+    "sharesOutstanding": 1756126626.0
+  },
+  "ratios": {
+    "roe": 0.07281951357835761,
+    "roic": 0.06387477345065971,
+    "grossMargin": 0.7001718944846155,
+    "operatingMargin": 0.36395390116887194,
+    "netMargin": 0.11847492716043961,
+    "debtToEquity": 2.2916
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 99104700000.0,
+      "operatingIncome": 21767700000.0,
+      "netIncome": 14777600000.0,
+      "eps": 8.99,
+      "freeCashFlow": -21523100000.0,
+      "totalDebt": 250514800000.0,
+      "cash": 34222900000.0,
+      "sharesOutstanding": 1644675668.0,
+      "grossMargin": 0.36707744435934925,
+      "operatingMargin": 0.219643467968724,
+      "netMargin": 0.1491109906997347,
+      "roe": 0.07932659144625985,
+      "roic": 0.04983414716340024
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 112651100000.0,
+      "operatingIncome": 37739800000.0,
+      "netIncome": 17227100000.0,
+      "eps": 10.47,
+      "freeCashFlow": -17991400000.0,
+      "totalDebt": 315733900000.0,
+      "cash": 30917400000.0,
+      "sharesOutstanding": 1644675668.0,
+      "grossMargin": 0.5356814092361282,
+      "operatingMargin": 0.3350149266185594,
+      "netMargin": 0.15292438333935487,
+      "roe": 0.08269640462102541,
+      "roic": 0.07201546871460866
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 117453900000.0,
+      "operatingIncome": 35661800000.0,
+      "netIncome": 19508900000.0,
+      "eps": 11.18,
+      "freeCashFlow": -28700900000.0,
+      "totalDebt": 501856500000.0,
+      "cash": 32335300000.0,
+      "sharesOutstanding": 1747768451.0,
+      "grossMargin": 0.6086617813457025,
+      "operatingMargin": 0.3036238047438186,
+      "netMargin": 0.16609835859005107,
+      "roe": 0.07130073245440753,
+      "roic": 0.04598728926995059
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 189011300000.0,
+      "operatingIncome": 68791400000.0,
+      "netIncome": 22393100000.0,
+      "eps": 12.74,
+      "freeCashFlow": -4121600000.0,
+      "totalDebt": 769457800000.0,
+      "cash": 41424500000.0,
+      "sharesOutstanding": 1756126626.0,
+      "grossMargin": 0.7001718944846155,
+      "operatingMargin": 0.36395390116887194,
+      "netMargin": 0.11847492716043961,
+      "roe": 0.07281951357835761,
+      "roic": 0.06387477345065971
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:10.577041+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "IRFC",
+  "name": "Indian Railway Finance Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1274310033408.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 97.51,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 272658300000.0,
+    "operatingIncome": 70792900000.0,
+    "netIncome": 70091700000.0,
+    "eps": null,
+    "freeCashFlow": -270398100000.0,
+    "totalDebt": 4364711500000.0,
+    "cash": 2113100000.0,
+    "sharesOutstanding": 13068506000.0
+  },
+  "ratios": {
+    "roe": 0.12351230229523957,
+    "roic": 0.014353212140199287,
+    "grossMargin": 0.2655077802509588,
+    "operatingMargin": 0.25963962952897457,
+    "netMargin": 0.25706791247506494,
+    "debtToEquity": 7.73347
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 4.66,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 236506980000.0,
+      "operatingIncome": 111857130000.0,
+      "netIncome": 61671560000.0,
+      "eps": 4.72,
+      "freeCashFlow": -285891360000.0,
+      "totalDebt": 4189348970000.0,
+      "cash": 1626380000.0,
+      "sharesOutstanding": 13068506000.0,
+      "grossMargin": 0.47890751469576076,
+      "operatingMargin": 0.47295487854100543,
+      "netMargin": 0.2607599995568841,
+      "roe": 0.13802889473522947,
+      "roic": 0.024127155329490814
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 265304200000.0,
+      "operatingIncome": 120636000000.0,
+      "netIncome": 64121100000.0,
+      "eps": 4.91,
+      "freeCashFlow": 79057700000.0,
+      "totalDebt": 4120385100000.0,
+      "cash": 227700000.0,
+      "sharesOutstanding": 13068506000.0,
+      "grossMargin": 0.4598721015347665,
+      "operatingMargin": 0.45470821796262556,
+      "netMargin": 0.24168897439241444,
+      "roe": 0.13038423036700741,
+      "roic": 0.02615601312943571
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 271471300000.0,
+      "operatingIncome": 64984100000.0,
+      "netIncome": 65020000000.0,
+      "eps": 4.98,
+      "freeCashFlow": 82287500000.0,
+      "totalDebt": 4121326900000.0,
+      "cash": 56802900000.0,
+      "sharesOutstanding": 13068506000.0,
+      "grossMargin": 0.2445389254775735,
+      "operatingMargin": 0.2393774222173762,
+      "netMargin": 0.23950966455754255,
+      "roe": 0.12345292241851528,
+      "roic": 0.013981072397205046
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 272658300000.0,
+      "operatingIncome": 70792900000.0,
+      "netIncome": 70091700000.0,
+      "eps": null,
+      "freeCashFlow": -270398100000.0,
+      "totalDebt": 4364711500000.0,
+      "cash": 2113100000.0,
+      "sharesOutstanding": 13068506000.0,
+      "grossMargin": 0.2655077802509588,
+      "operatingMargin": 0.25963962952897457,
+      "netMargin": 0.25706791247506494,
+      "roe": 0.12351230229523957,
+      "roic": 0.014353212140199287
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:05.610408+00:00"
+  }
+}

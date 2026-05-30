@@ -1,0 +1,128 @@
+{
+  "ticker": "CCI",
+  "name": "Crown Castle Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 39935356928.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 91.5,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4264000000.0,
+    "operatingIncome": 2086000000.0,
+    "netIncome": 444000000.0,
+    "eps": 1.01,
+    "freeCashFlow": 2875000000.0,
+    "totalDebt": 29566000000.0,
+    "cash": 99000000.0,
+    "sharesOutstanding": 435479010.0
+  },
+  "ratios": {
+    "roe": -0.27155963302752295,
+    "roic": 0.07468404281980595,
+    "grossMargin": 0.7408536585365854,
+    "operatingMargin": 0.4892120075046904,
+    "netMargin": 0.10412757973733583,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6986000000.0,
+      "operatingIncome": 2433000000.0,
+      "netIncome": 1675000000.0,
+      "eps": 3.86,
+      "freeCashFlow": 1568000000.0,
+      "totalDebt": 27960000000.0,
+      "cash": 156000000.0,
+      "sharesOutstanding": 433000000.0,
+      "grossMargin": 0.7039793873461209,
+      "operatingMargin": 0.3482679645004294,
+      "netMargin": 0.2397652447752648,
+      "roe": 0.22486239763726676,
+      "roic": 0.06871134457341353
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4734000000.0,
+      "operatingIncome": 2180000000.0,
+      "netIncome": 1502000000.0,
+      "eps": 3.46,
+      "freeCashFlow": 2883000000.0,
+      "totalDebt": 28814000000.0,
+      "cash": 105000000.0,
+      "sharesOutstanding": 433688863.0,
+      "grossMargin": 0.7327841149133925,
+      "operatingMargin": 0.4604985213350232,
+      "netMargin": 0.31727925644275456,
+      "roe": 0.2353863030872904,
+      "roic": 0.06194061656485296
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4460000000.0,
+      "operatingIncome": 2199000000.0,
+      "netIncome": -3903000000.0,
+      "eps": -8.98,
+      "freeCashFlow": 2767000000.0,
+      "totalDebt": 29380000000.0,
+      "cash": 100000000.0,
+      "sharesOutstanding": 434598208.0,
+      "grossMargin": 0.7556053811659192,
+      "operatingMargin": 0.4930493273542601,
+      "netMargin": -0.8751121076233184,
+      "roe": 29.345864661654137,
+      "roic": 0.07518719868704482
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4264000000.0,
+      "operatingIncome": 2086000000.0,
+      "netIncome": 444000000.0,
+      "eps": 1.01,
+      "freeCashFlow": 2875000000.0,
+      "totalDebt": 29566000000.0,
+      "cash": 99000000.0,
+      "sharesOutstanding": 435479010.0,
+      "grossMargin": 0.7408536585365854,
+      "operatingMargin": 0.4892120075046904,
+      "netMargin": 0.10412757973733583,
+      "roe": -0.27155963302752295,
+      "roic": 0.07468404281980595
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:57.323451+00:00"
+  }
+}

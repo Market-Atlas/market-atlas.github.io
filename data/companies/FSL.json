@@ -1,0 +1,128 @@
+{
+  "ticker": "FSL",
+  "name": "Firstsource Solutions Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 181377761280.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 262.73,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 96161200000.0,
+    "operatingIncome": 11220900000.0,
+    "netIncome": 6744250000.0,
+    "eps": 9.56,
+    "freeCashFlow": 10182510000.0,
+    "totalDebt": 29218950000.0,
+    "cash": 2585840000.0,
+    "sharesOutstanding": 696990826.0
+  },
+  "ratios": {
+    "roe": 0.15381922349715932,
+    "roic": 0.15357579117010028,
+    "grossMargin": 0.41865419732698844,
+    "operatingMargin": 0.11668843566844007,
+    "netMargin": 0.070134836087736,
+    "debtToEquity": 0.66635
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 59859270000.0,
+      "operatingIncome": 5946170000.0,
+      "netIncome": 5137200000.0,
+      "eps": 7.32,
+      "freeCashFlow": 7414010000.0,
+      "totalDebt": 13931600000.0,
+      "cash": 1382270000.0,
+      "sharesOutstanding": 696990826.0,
+      "grossMargin": 0.37495378744177804,
+      "operatingMargin": 0.0993358255120719,
+      "netMargin": 0.08582129384471278,
+      "roe": 0.15258201669515525,
+      "roic": 0.12491940659726197
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 63325280000.0,
+      "operatingIncome": 7344180000.0,
+      "netIncome": 5147290000.0,
+      "eps": 7.34,
+      "freeCashFlow": 5589500000.0,
+      "totalDebt": 15257950000.0,
+      "cash": 689410000.0,
+      "sharesOutstanding": 696990826.0,
+      "grossMargin": 0.40163470260218354,
+      "operatingMargin": 0.11597548404049694,
+      "netMargin": 0.08128333581785979,
+      "roe": 0.13910079523770788,
+      "roic": 0.14052624871847566
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 79721000000.0,
+      "operatingIncome": 8805850000.0,
+      "netIncome": 5944550000.0,
+      "eps": 8.42,
+      "freeCashFlow": 4599010000.0,
+      "totalDebt": 25692620000.0,
+      "cash": 126990000.0,
+      "sharesOutstanding": 696099216.0,
+      "grossMargin": 0.37334203033077856,
+      "operatingMargin": 0.11045834849036013,
+      "netMargin": 0.07456692715846515,
+      "roe": 0.14507288359368709,
+      "roic": 0.13208328558494722
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 96161200000.0,
+      "operatingIncome": 11220900000.0,
+      "netIncome": 6744250000.0,
+      "eps": 9.56,
+      "freeCashFlow": 10182510000.0,
+      "totalDebt": 29218950000.0,
+      "cash": 2585840000.0,
+      "sharesOutstanding": 696990826.0,
+      "grossMargin": 0.41865419732698844,
+      "operatingMargin": 0.11668843566844007,
+      "netMargin": 0.070134836087736,
+      "roe": 0.15381922349715932,
+      "roic": 0.15357579117010028
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:43.759684+00:00"
+  }
+}

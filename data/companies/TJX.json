@@ -1,0 +1,128 @@
+{
+  "ticker": "TJX",
+  "name": "The TJX Companies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 171124752384.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 154.75,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 60372000000.0,
+    "operatingIncome": 7178000000.0,
+    "netIncome": 5494000000.0,
+    "eps": 4.87,
+    "freeCashFlow": 4917000000.0,
+    "totalDebt": 13489000000.0,
+    "cash": 6230000000.0,
+    "sharesOutstanding": 1107087991.0
+  },
+  "ratios": {
+    "roe": 0.5391560353287537,
+    "roic": 0.30313780142742514,
+    "grossMargin": 0.30963029218843174,
+    "operatingMargin": 0.11889617703571193,
+    "netMargin": 0.09100245146756775,
+    "debtToEquity": 1.3630699999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 49936000000.0,
+      "operatingIncome": 4860000000.0,
+      "netIncome": 3498000000.0,
+      "eps": 2.97,
+      "freeCashFlow": 2627000000.0,
+      "totalDebt": 12744000000.0,
+      "cash": 5477000000.0,
+      "sharesOutstanding": 1155437908.0,
+      "grossMargin": 0.2760933995514258,
+      "operatingMargin": 0.09732457545658443,
+      "netMargin": 0.07004966356936879,
+      "roe": 0.549654305468259,
+      "roic": 0.25434373037471214
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 54217000000.0,
+      "operatingIncome": 5797000000.0,
+      "netIncome": 4474000000.0,
+      "eps": 3.86,
+      "freeCashFlow": 4335000000.0,
+      "totalDebt": 12542000000.0,
+      "cash": 5600000000.0,
+      "sharesOutstanding": 1133586545.0,
+      "grossMargin": 0.3000165999594223,
+      "operatingMargin": 0.10692218307910803,
+      "netMargin": 0.08252024272829556,
+      "roe": 0.6127088468912627,
+      "roic": 0.29212860310421285
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 56360000000.0,
+      "operatingIncome": 6302000000.0,
+      "netIncome": 4864000000.0,
+      "eps": 4.26,
+      "freeCashFlow": 4198000000.0,
+      "totalDebt": 12778000000.0,
+      "cash": 5335000000.0,
+      "sharesOutstanding": 1119333622.0,
+      "grossMargin": 0.3060326472675656,
+      "operatingMargin": 0.11181689141234918,
+      "netMargin": 0.08630234208658623,
+      "roe": 0.5795305611819374,
+      "roic": 0.29767134287468705
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 60372000000.0,
+      "operatingIncome": 7178000000.0,
+      "netIncome": 5494000000.0,
+      "eps": 4.87,
+      "freeCashFlow": 4917000000.0,
+      "totalDebt": 13489000000.0,
+      "cash": 6230000000.0,
+      "sharesOutstanding": 1107087991.0,
+      "grossMargin": 0.30963029218843174,
+      "operatingMargin": 0.11889617703571193,
+      "netMargin": 0.09100245146756775,
+      "roe": 0.5391560353287537,
+      "roic": 0.30313780142742514
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:27.059125+00:00"
+  }
+}

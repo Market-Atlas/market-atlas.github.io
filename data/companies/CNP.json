@@ -1,0 +1,128 @@
+{
+  "ticker": "CNP",
+  "name": "CenterPoint Energy, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27645200384.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9357000000.0,
+    "operatingIncome": 2110000000.0,
+    "netIncome": 1052000000.0,
+    "eps": 1.6,
+    "freeCashFlow": -2384000000.0,
+    "totalDebt": 22980000000.0,
+    "cash": 38000000.0,
+    "sharesOutstanding": 652869741.0
+  },
+  "ratios": {
+    "roe": 0.09432439702322246,
+    "roic": 0.06181700993173762,
+    "grossMargin": 0.45057176445441915,
+    "operatingMargin": 0.22549962594848777,
+    "netMargin": 0.1124291973923266,
+    "debtToEquity": 2.15591
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9321000000.0,
+      "operatingIncome": 1566000000.0,
+      "netIncome": 1057000000.0,
+      "eps": 1.59,
+      "freeCashFlow": -2609000000.0,
+      "totalDebt": 16856000000.0,
+      "cash": 74000000.0,
+      "sharesOutstanding": 629535631.0,
+      "grossMargin": 0.36444587490612596,
+      "operatingMargin": 0.16800772449308013,
+      "netMargin": 0.11339984980152344,
+      "roe": 0.10522648083623694,
+      "roic": 0.05821344931415189
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8696000000.0,
+      "operatingIncome": 1760000000.0,
+      "netIncome": 917000000.0,
+      "eps": 1.37,
+      "freeCashFlow": -524000000.0,
+      "totalDebt": 18618000000.0,
+      "cash": 90000000.0,
+      "sharesOutstanding": 631225995.0,
+      "grossMargin": 0.4238730450781969,
+      "operatingMargin": 0.20239190432382706,
+      "netMargin": 0.10545078196872125,
+      "roe": 0.09485879797248371,
+      "roic": 0.06222379353013965
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8643000000.0,
+      "operatingIncome": 1990000000.0,
+      "netIncome": 1019000000.0,
+      "eps": 1.58,
+      "freeCashFlow": -2374000000.0,
+      "totalDebt": 20963000000.0,
+      "cash": 24000000.0,
+      "sharesOutstanding": 651727442.0,
+      "grossMargin": 0.46002545412472523,
+      "operatingMargin": 0.23024412819622816,
+      "netMargin": 0.11789887770450075,
+      "roe": 0.09553722107631726,
+      "roic": 0.06291694331151791
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9357000000.0,
+      "operatingIncome": 2110000000.0,
+      "netIncome": 1052000000.0,
+      "eps": 1.6,
+      "freeCashFlow": -2384000000.0,
+      "totalDebt": 22980000000.0,
+      "cash": 38000000.0,
+      "sharesOutstanding": 652869741.0,
+      "grossMargin": 0.45057176445441915,
+      "operatingMargin": 0.22549962594848777,
+      "netMargin": 0.1124291973923266,
+      "roe": 0.09432439702322246,
+      "roic": 0.06181700993173762
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:02.653858+00:00"
+  }
+}

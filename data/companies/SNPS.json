@@ -1,0 +1,111 @@
+{
+  "ticker": "SNPS",
+  "name": "Synopsys, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 91071397888.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 475.62,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7054178000.0,
+    "operatingIncome": 914927000.0,
+    "netIncome": 1332220000.0,
+    "eps": 8.04,
+    "freeCashFlow": 1349154000.0,
+    "totalDebt": 14293418000.0,
+    "cash": 2888030000.0,
+    "sharesOutstanding": 187216000.0
+  },
+  "ratios": {
+    "roe": 0.047029042557149736,
+    "roic": 0.02146656743550483,
+    "grossMargin": 0.7698457566565516,
+    "operatingMargin": 0.1297000160755796,
+    "netMargin": 0.18885545558958108,
+    "debtToEquity": 0.35574
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 4615714000.0,
+      "operatingIncome": 1159935000.0,
+      "netIncome": 984594000.0,
+      "eps": 6.29,
+      "freeCashFlow": 1599818000.0,
+      "totalDebt": 656371000.0,
+      "cash": 1417608000.0,
+      "sharesOutstanding": 157261000.0,
+      "grossMargin": 0.8054444014512164,
+      "operatingMargin": 0.25130131546278645,
+      "netMargin": 0.2133134765282251,
+      "roe": 0.17850672395741268,
+      "roic": 0.18793210604630906
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 5318014000.0,
+      "operatingIncome": 1326330000.0,
+      "netIncome": 1229888000.0,
+      "eps": 7.92,
+      "freeCashFlow": 1511452000.0,
+      "totalDebt": 677596000.0,
+      "cash": 1433966000.0,
+      "sharesOutstanding": 157260000.0,
+      "grossMargin": 0.8061601567803319,
+      "operatingMargin": 0.24940325467364322,
+      "netMargin": 0.2312682892523412,
+      "roe": 0.20006936369545825,
+      "roic": 0.19433679946267376
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 6127436000.0,
+      "operatingIncome": 1355711000.0,
+      "netIncome": 2263380000.0,
+      "eps": 14.51,
+      "freeCashFlow": 1267529000.0,
+      "totalDebt": 684457000.0,
+      "cash": 3896532000.0,
+      "sharesOutstanding": 157260000.0,
+      "grossMargin": 0.7967683383392336,
+      "operatingMargin": 0.2212525761182981,
+      "netMargin": 0.36938451907127223,
+      "roe": 0.25174674903027594,
+      "roic": 0.1401228651642831
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 7054178000.0,
+      "operatingIncome": 914927000.0,
+      "netIncome": 1332220000.0,
+      "eps": 8.04,
+      "freeCashFlow": 1349154000.0,
+      "totalDebt": 14293418000.0,
+      "cash": 2888030000.0,
+      "sharesOutstanding": 187216000.0,
+      "grossMargin": 0.7698457566565516,
+      "operatingMargin": 0.1297000160755796,
+      "netMargin": 0.18885545558958108,
+      "roe": 0.047029042557149736,
+      "roic": 0.02146656743550483
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:19.675925+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TCS",
+  "name": "Tata Consultancy Services Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 8172897566720.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2258.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2670210000000.0,
+    "operatingIncome": 670220000000.0,
+    "netIncome": 492100000000.0,
+    "eps": null,
+    "freeCashFlow": 479480000000.0,
+    "totalDebt": 112830000000.0,
+    "cash": 64050000000.0,
+    "sharesOutstanding": 3618087518.0
+  },
+  "ratios": {
+    "roe": 0.45887728459530025,
+    "roic": 0.5654767429106586,
+    "grossMargin": 0.4509682759033934,
+    "operatingMargin": 0.2509989850985503,
+    "netMargin": 0.1842926211796076,
+    "debtToEquity": 0.10389
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 103.62,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2254580000000.0,
+      "operatingIncome": 543770000000.0,
+      "netIncome": 421470000000.0,
+      "eps": 115.19,
+      "freeCashFlow": 388650000000.0,
+      "totalDebt": 76880000000.0,
+      "cash": 71150000000.0,
+      "sharesOutstanding": 3659051373.0,
+      "grossMargin": 0.46881902616008303,
+      "operatingMargin": 0.2411846108809623,
+      "netMargin": 0.18693947431450647,
+      "roe": 0.4661041316464655,
+      "roic": 0.5542339367253751
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2408930000000.0,
+      "operatingIncome": 594250000000.0,
+      "netIncome": 459080000000.0,
+      "eps": 125.88,
+      "freeCashFlow": 416640000000.0,
+      "totalDebt": 80210000000.0,
+      "cash": 90070000000.0,
+      "sharesOutstanding": 3618087518.0,
+      "grossMargin": 0.4484231588298539,
+      "operatingMargin": 0.24668628810301668,
+      "netMargin": 0.19057423835478823,
+      "roe": 0.507332382941573,
+      "roic": 0.6032382499238655
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2553240000000.0,
+      "operatingIncome": 622930000000.0,
+      "netIncome": 485530000000.0,
+      "eps": 134.19,
+      "freeCashFlow": 449710000000.0,
+      "totalDebt": 93920000000.0,
+      "cash": 83310000000.0,
+      "sharesOutstanding": 3618087518.0,
+      "grossMargin": 0.4294190910372703,
+      "operatingMargin": 0.24397628111732544,
+      "netMargin": 0.1901623035828986,
+      "roe": 0.5124002701675884,
+      "roic": 0.5981199831009717
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 2670210000000.0,
+      "operatingIncome": 670220000000.0,
+      "netIncome": 492100000000.0,
+      "eps": null,
+      "freeCashFlow": 479480000000.0,
+      "totalDebt": 112830000000.0,
+      "cash": 64050000000.0,
+      "sharesOutstanding": 3618087518.0,
+      "grossMargin": 0.4509682759033934,
+      "operatingMargin": 0.2509989850985503,
+      "netMargin": 0.1842926211796076,
+      "roe": 0.45887728459530025,
+      "roic": 0.5654767429106586
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.856170+00:00"
+  }
+}

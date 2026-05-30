@@ -1,0 +1,128 @@
+{
+  "ticker": "DTE",
+  "name": "DTE Energy Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 29721006080.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 142.87,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15814000000.0,
+    "operatingIncome": 2528000000.0,
+    "netIncome": 1462000000.0,
+    "eps": 7.03,
+    "freeCashFlow": -1020000000.0,
+    "totalDebt": 26290000000.0,
+    "cash": 208000000.0,
+    "sharesOutstanding": 207745154.0
+  },
+  "ratios": {
+    "roe": 0.11883280500690889,
+    "roic": 0.06550410696240251,
+    "grossMargin": 0.3030858732768433,
+    "operatingMargin": 0.15985835335778426,
+    "netMargin": 0.09244972808903504,
+    "debtToEquity": 2.18787
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19228000000.0,
+      "operatingIncome": 1772000000.0,
+      "netIncome": 1083000000.0,
+      "eps": 5.52,
+      "freeCashFlow": -1401000000.0,
+      "totalDebt": 19240000000.0,
+      "cash": 33000000.0,
+      "sharesOutstanding": 205632393.0,
+      "grossMargin": 0.1907634699396713,
+      "operatingMargin": 0.09215727064697317,
+      "netMargin": 0.05632411067193676,
+      "roe": 0.10416466288352409,
+      "roic": 0.059790127205857545
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12745000000.0,
+      "operatingIncome": 2301000000.0,
+      "netIncome": 1397000000.0,
+      "eps": 6.76,
+      "freeCashFlow": -714000000.0,
+      "totalDebt": 20970000000.0,
+      "cash": 26000000.0,
+      "sharesOutstanding": 206357070.0,
+      "grossMargin": 0.3395056885052962,
+      "operatingMargin": 0.1805413887799137,
+      "netMargin": 0.10961161239701844,
+      "roe": 0.12642533936651584,
+      "roic": 0.07186133666458464
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12457000000.0,
+      "operatingIncome": 2205000000.0,
+      "netIncome": 1404000000.0,
+      "eps": 6.77,
+      "freeCashFlow": -824000000.0,
+      "totalDebt": 23241000000.0,
+      "cash": 24000000.0,
+      "sharesOutstanding": 207171582.0,
+      "grossMargin": 0.3482379385084691,
+      "operatingMargin": 0.1770089106526451,
+      "netMargin": 0.11270771453801076,
+      "roe": 0.1200102572869476,
+      "roic": 0.06310818546078993
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15814000000.0,
+      "operatingIncome": 2528000000.0,
+      "netIncome": 1462000000.0,
+      "eps": 7.03,
+      "freeCashFlow": -1020000000.0,
+      "totalDebt": 26290000000.0,
+      "cash": 208000000.0,
+      "sharesOutstanding": 207745154.0,
+      "grossMargin": 0.3030858732768433,
+      "operatingMargin": 0.15985835335778426,
+      "netMargin": 0.09244972808903504,
+      "roe": 0.11883280500690889,
+      "roic": 0.06550410696240251
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:13.650654+00:00"
+  }
+}

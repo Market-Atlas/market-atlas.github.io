@@ -1,0 +1,128 @@
+{
+  "ticker": "SUZLON",
+  "name": "Suzlon Energy Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 781656653824.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.99,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 166791100000.0,
+    "operatingIncome": 27437400000.0,
+    "netIncome": 31633900000.0,
+    "eps": null,
+    "freeCashFlow": 6250800000.0,
+    "totalDebt": 5557800000.0,
+    "cash": 6309700000.0,
+    "sharesOutstanding": 13714828318.0
+  },
+  "ratios": {
+    "roe": 0.33427202563105485,
+    "roic": 0.2738454782270218,
+    "grossMargin": 0.35232035762100017,
+    "operatingMargin": 0.16450158311804408,
+    "netMargin": 0.189661798501239,
+    "debtToEquity": 0.058730000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -0.21,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 58542900000.0,
+      "operatingIncome": 5857800000.0,
+      "netIncome": 28490100000.0,
+      "eps": 2.64,
+      "freeCashFlow": 3904000000.0,
+      "totalDebt": 19379200000.0,
+      "cash": 3673100000.0,
+      "sharesOutstanding": 12473087083.0,
+      "grossMargin": 0.3166617984418264,
+      "operatingMargin": 0.10005995603224302,
+      "netMargin": 0.4866533772669273,
+      "roe": 2.592035591462416,
+      "roic": 0.19287732214707645
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 64025700000.0,
+      "operatingIncome": 8363700000.0,
+      "netIncome": 6603500000.0,
+      "eps": 0.5,
+      "freeCashFlow": -1478300000.0,
+      "totalDebt": 1502400000.0,
+      "cash": 2495700000.0,
+      "sharesOutstanding": 13612688222.0,
+      "grossMargin": 0.3435792189698824,
+      "operatingMargin": 0.13063035624756933,
+      "netMargin": 0.10313827103803629,
+      "roe": 0.1684433118809482,
+      "roic": 0.20546854847625015
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 108513200000.0,
+      "operatingIncome": 15676600000.0,
+      "netIncome": 20716300000.0,
+      "eps": 1.51,
+      "freeCashFlow": 7213500000.0,
+      "totalDebt": 7401200000.0,
+      "cash": 9010700000.0,
+      "sharesOutstanding": 13648872068.0,
+      "grossMargin": 0.3653675313233782,
+      "operatingMargin": 0.14446721689158554,
+      "netMargin": 0.19091041458550664,
+      "roe": 0.33929331839652,
+      "roic": 0.22899454267116964
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 166791100000.0,
+      "operatingIncome": 27437400000.0,
+      "netIncome": 31633900000.0,
+      "eps": null,
+      "freeCashFlow": 6250800000.0,
+      "totalDebt": 5557800000.0,
+      "cash": 6309700000.0,
+      "sharesOutstanding": 13714828318.0,
+      "grossMargin": 0.35232035762100017,
+      "operatingMargin": 0.16450158311804408,
+      "netMargin": 0.189661798501239,
+      "roe": 0.33427202563105485,
+      "roic": 0.2738454782270218
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:59.666498+00:00"
+  }
+}

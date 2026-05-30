@@ -1,0 +1,111 @@
+{
+  "ticker": "HAVELLS",
+  "name": "Havells India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 738155888640.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1176.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 222881200000.0,
+    "operatingIncome": 18611100000.0,
+    "netIncome": 16905600000.0,
+    "eps": 26.94,
+    "freeCashFlow": 875400000.0,
+    "totalDebt": 2652000000.0,
+    "cash": 7886200000.0,
+    "sharesOutstanding": 627256842.0
+  },
+  "ratios": {
+    "roe": 0.17879174699935593,
+    "roic": 0.19145902494375389,
+    "grossMargin": 0.2980744899076279,
+    "operatingMargin": 0.08350233218414115,
+    "netMargin": 0.0758502735986705,
+    "debtToEquity": 0.02801
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 168057200000.0,
+      "operatingIncome": 13453400000.0,
+      "netIncome": 10717300000.0,
+      "eps": 17.11,
+      "freeCashFlow": -228500000.0,
+      "totalDebt": 2231000000.0,
+      "cash": 4651600000.0,
+      "sharesOutstanding": 626509738.0,
+      "grossMargin": 0.280477123265174,
+      "operatingMargin": 0.08005250593250393,
+      "netMargin": 0.06377173962198585,
+      "roe": 0.1617595785946615,
+      "roic": 0.196441582524768
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 184733100000.0,
+      "operatingIncome": 15692900000.0,
+      "netIncome": 12707600000.0,
+      "eps": 20.28,
+      "freeCashFlow": 11668200000.0,
+      "totalDebt": 3031600000.0,
+      "cash": 2655700000.0,
+      "sharesOutstanding": 626683030.0,
+      "grossMargin": 0.2959372196969574,
+      "operatingMargin": 0.08494904269998176,
+      "netMargin": 0.06878897176521154,
+      "roe": 0.17064602592268316,
+      "roic": 0.20249112248900633
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 216000800000.0,
+      "operatingIncome": 18228600000.0,
+      "netIncome": 14722600000.0,
+      "eps": 23.48,
+      "freeCashFlow": 7570600000.0,
+      "totalDebt": 3185400000.0,
+      "cash": 8063000000.0,
+      "sharesOutstanding": 626941732.0,
+      "grossMargin": 0.2991016699938148,
+      "operatingMargin": 0.0843913541060959,
+      "netMargin": 0.06815993274098985,
+      "roe": 0.17687375582517098,
+      "roic": 0.21092228600389015
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 222881200000.0,
+      "operatingIncome": 18611100000.0,
+      "netIncome": 16905600000.0,
+      "eps": 26.94,
+      "freeCashFlow": 875400000.0,
+      "totalDebt": 2652000000.0,
+      "cash": 7886200000.0,
+      "sharesOutstanding": 627256842.0,
+      "grossMargin": 0.2980744899076279,
+      "operatingMargin": 0.08350233218414115,
+      "netMargin": 0.0758502735986705,
+      "roe": 0.17879174699935593,
+      "roic": 0.19145902494375389
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:51.275471+00:00"
+  }
+}

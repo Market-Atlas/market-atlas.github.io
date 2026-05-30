@@ -1,0 +1,128 @@
+{
+  "ticker": "UNOMINDA",
+  "name": "Uno Minda Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 636195569664.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1101.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 196575900000.0,
+    "operatingIncome": 15476700000.0,
+    "netIncome": 11971300000.0,
+    "eps": 20.75,
+    "freeCashFlow": 1479900000.0,
+    "totalDebt": 27401200000.0,
+    "cash": 2769900000.0,
+    "sharesOutstanding": 577421816.0
+  },
+  "ratios": {
+    "roe": 0.18333979113479143,
+    "roic": 0.1669602759099819,
+    "grossMargin": 0.3576893200031133,
+    "operatingMargin": 0.0787314212983382,
+    "netMargin": 0.06089912344290424,
+    "debtToEquity": 0.3774
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 110844100000.0,
+      "operatingIncome": 8204900000.0,
+      "netIncome": 6535500000.0,
+      "eps": 11.37,
+      "freeCashFlow": -1718700000.0,
+      "totalDebt": 13953000000.0,
+      "cash": 1213600000.0,
+      "sharesOutstanding": 573013714.0,
+      "grossMargin": 0.31765966794804595,
+      "operatingMargin": 0.07402198222548606,
+      "netMargin": 0.058961189634811416,
+      "roe": 0.1572598691967487,
+      "roic": 0.1478051434294814
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 139103600000.0,
+      "operatingIncome": 10610600000.0,
+      "netIncome": 8754200000.0,
+      "eps": 15.24,
+      "freeCashFlow": -700000000.0,
+      "totalDebt": 17063300000.0,
+      "cash": 2406300000.0,
+      "sharesOutstanding": 574094575.0,
+      "grossMargin": 0.32094855920335635,
+      "operatingMargin": 0.07627839969634143,
+      "netMargin": 0.06293295069286489,
+      "roe": 0.17676753399375653,
+      "roic": 0.15934918325020914
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 167746100000.0,
+      "operatingIncome": 12588500000.0,
+      "netIncome": 9429500000.0,
+      "eps": 16.37,
+      "freeCashFlow": -5842400000.0,
+      "totalDebt": 24728800000.0,
+      "cash": 1979000000.0,
+      "sharesOutstanding": 574163845.0,
+      "grossMargin": 0.352109527434617,
+      "operatingMargin": 0.07504496378753366,
+      "netMargin": 0.05621293132895489,
+      "roe": 0.16464587909497586,
+      "roic": 0.15351791824897987
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 196575900000.0,
+      "operatingIncome": 15476700000.0,
+      "netIncome": 11971300000.0,
+      "eps": 20.75,
+      "freeCashFlow": 1479900000.0,
+      "totalDebt": 27401200000.0,
+      "cash": 2769900000.0,
+      "sharesOutstanding": 577421816.0,
+      "grossMargin": 0.3576893200031133,
+      "operatingMargin": 0.0787314212983382,
+      "netMargin": 0.06089912344290424,
+      "roe": 0.18333979113479143,
+      "roic": 0.1669602759099819
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:12.090673+00:00"
+  }
+}

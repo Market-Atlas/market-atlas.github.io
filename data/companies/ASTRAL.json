@@ -1,0 +1,128 @@
+{
+  "ticker": "ASTRAL",
+  "name": "Astral Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 423983710208.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1578.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65686000000.0,
+    "operatingIncome": 7703000000.0,
+    "netIncome": 5366000000.0,
+    "eps": null,
+    "freeCashFlow": 6579000000.0,
+    "totalDebt": 2503000000.0,
+    "cash": 8904000000.0,
+    "sharesOutstanding": 268650163.0
+  },
+  "ratios": {
+    "roe": 0.13223588555656868,
+    "roic": 0.17879857016851586,
+    "grossMargin": 0.39848673994458483,
+    "operatingMargin": 0.11727004232256492,
+    "netMargin": 0.08169168468166732,
+    "debtToEquity": 0.06168
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.01,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 51451000000.0,
+      "operatingIncome": 6335000000.0,
+      "netIncome": 4566000000.0,
+      "eps": 17.0,
+      "freeCashFlow": 2459000000.0,
+      "totalDebt": 871000000.0,
+      "cash": 5295000000.0,
+      "sharesOutstanding": 268611572.0,
+      "grossMargin": 0.31507648053487786,
+      "operatingMargin": 0.12312685856445939,
+      "netMargin": 0.08874463081378399,
+      "roe": 0.168412511065211,
+      "roic": 0.22638744952292464
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 56288000000.0,
+      "operatingIncome": 7271000000.0,
+      "netIncome": 5461000000.0,
+      "eps": 20.33,
+      "freeCashFlow": 2695000000.0,
+      "totalDebt": 1194000000.0,
+      "cash": 6094000000.0,
+      "sharesOutstanding": 268627009.0,
+      "grossMargin": 0.36665008527572485,
+      "operatingMargin": 0.12917495736213758,
+      "netMargin": 0.09701890278567368,
+      "roe": 0.17129324676139393,
+      "roic": 0.21983371126228268
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 58324000000.0,
+      "operatingIncome": 7025000000.0,
+      "netIncome": 5238000000.0,
+      "eps": 19.5,
+      "freeCashFlow": 848000000.0,
+      "totalDebt": 2332000000.0,
+      "cash": 6081000000.0,
+      "sharesOutstanding": 268634727.0,
+      "grossMargin": 0.39661202935326795,
+      "operatingMargin": 0.12044784308346479,
+      "netMargin": 0.08980865509910158,
+      "roe": 0.14481614597732928,
+      "roic": 0.18245805412705834
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 65686000000.0,
+      "operatingIncome": 7703000000.0,
+      "netIncome": 5366000000.0,
+      "eps": null,
+      "freeCashFlow": 6579000000.0,
+      "totalDebt": 2503000000.0,
+      "cash": 8904000000.0,
+      "sharesOutstanding": 268650163.0,
+      "grossMargin": 0.39848673994458483,
+      "operatingMargin": 0.11727004232256492,
+      "netMargin": 0.08169168468166732,
+      "roe": 0.13223588555656868,
+      "roic": 0.17879857016851586
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:55.558476+00:00"
+  }
+}

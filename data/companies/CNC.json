@@ -1,0 +1,128 @@
+{
+  "ticker": "CNC",
+  "name": "Centene Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "currency": "USD",
+  "marketCap": {
+    "value": 29430300672.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 59.6,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 194777000000.0,
+    "operatingIncome": -312000000.0,
+    "netIncome": -6674000000.0,
+    "eps": -13.53,
+    "freeCashFlow": 4321000000.0,
+    "totalDebt": 18162000000.0,
+    "cash": 17888000000.0,
+    "sharesOutstanding": 623463000.0
+  },
+  "ratios": {
+    "roe": -0.33448604219916805,
+    "roic": -0.008185753640299095,
+    "grossMargin": 0.07119423751264266,
+    "operatingMargin": -0.00160183183846142,
+    "netMargin": -0.03426482592913948,
+    "debtToEquity": 0.7604900000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 144547000000.0,
+      "operatingIncome": 3636000000.0,
+      "netIncome": 1202000000.0,
+      "eps": 2.07,
+      "freeCashFlow": 5257000000.0,
+      "totalDebt": 21333000000.0,
+      "cash": 12074000000.0,
+      "sharesOutstanding": 607847000.0,
+      "grossMargin": 0.11522895667153245,
+      "operatingMargin": 0.025154448034203407,
+      "netMargin": 0.00831563436114205,
+      "roe": 0.04996466724861787,
+      "roic": 0.08010575016523463
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 153999000000.0,
+      "operatingIncome": 3459000000.0,
+      "netIncome": 2702000000.0,
+      "eps": 4.95,
+      "freeCashFlow": 7254000000.0,
+      "totalDebt": 18877000000.0,
+      "cash": 17193000000.0,
+      "sharesOutstanding": 615291000.0,
+      "grossMargin": 0.11243579503763011,
+      "operatingMargin": 0.022461184812888394,
+      "netMargin": 0.017545568477717387,
+      "roe": 0.10456656346749225,
+      "roic": 0.07735313191850973
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 163071000000.0,
+      "operatingIncome": 3188000000.0,
+      "netIncome": 3305000000.0,
+      "eps": 6.31,
+      "freeCashFlow": -490000000.0,
+      "totalDebt": 19429000000.0,
+      "cash": 14063000000.0,
+      "sharesOutstanding": 620195000.0,
+      "grossMargin": 0.10320044643130906,
+      "operatingMargin": 0.019549766666053438,
+      "netMargin": 0.02026724555561688,
+      "roe": 0.12514199166982204,
+      "roic": 0.06954776500359955
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 194777000000.0,
+      "operatingIncome": -312000000.0,
+      "netIncome": -6674000000.0,
+      "eps": -13.53,
+      "freeCashFlow": 4321000000.0,
+      "totalDebt": 18162000000.0,
+      "cash": 17888000000.0,
+      "sharesOutstanding": 623463000.0,
+      "grossMargin": 0.07119423751264266,
+      "operatingMargin": -0.00160183183846142,
+      "netMargin": -0.03426482592913948,
+      "roe": -0.33448604219916805,
+      "roic": -0.008185753640299095
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:02.158452+00:00"
+  }
+}

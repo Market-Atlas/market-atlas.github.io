@@ -1,0 +1,128 @@
+{
+  "ticker": "SUMICHEM",
+  "name": "Sumitomo Chemical India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 250346536960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 501.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32383150000.0,
+    "operatingIncome": 6047430000.0,
+    "netIncome": 5429640000.0,
+    "eps": null,
+    "freeCashFlow": 4012980000.0,
+    "totalDebt": 633000000.0,
+    "cash": 689150000.0,
+    "sharesOutstanding": 499145736.0
+  },
+  "ratios": {
+    "roe": 0.16018201187195563,
+    "roic": 0.17513710664648308,
+    "grossMargin": 0.420254051875744,
+    "operatingMargin": 0.1867461936223005,
+    "netMargin": 0.16766867954476325,
+    "debtToEquity": 0.01865
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 8.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 34733410000.0,
+      "operatingIncome": 6157920000.0,
+      "netIncome": 5022090000.0,
+      "eps": 10.06,
+      "freeCashFlow": 2695010000.0,
+      "totalDebt": 339720000.0,
+      "cash": 468910000.0,
+      "sharesOutstanding": 499145736.0,
+      "grossMargin": 0.34199204742638284,
+      "operatingMargin": 0.17729097143067726,
+      "netMargin": 0.1445896040728509,
+      "roe": 0.21085448698032563,
+      "roic": 0.25490696064827845
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 28177670000.0,
+      "operatingIncome": 4274660000.0,
+      "netIncome": 3695410000.0,
+      "eps": 7.4,
+      "freeCashFlow": 6934290000.0,
+      "totalDebt": 302490000.0,
+      "cash": 466360000.0,
+      "sharesOutstanding": 499145736.0,
+      "grossMargin": 0.3616892383224021,
+      "operatingMargin": 0.15170381369360916,
+      "netMargin": 0.1311467555692149,
+      "roe": 0.1513540279664658,
+      "roic": 0.17293601141832562
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 31485240000.0,
+      "operatingIncome": 5659950000.0,
+      "netIncome": 5054960000.0,
+      "eps": 10.13,
+      "freeCashFlow": 4220490000.0,
+      "totalDebt": 518930000.0,
+      "cash": 382330000.0,
+      "sharesOutstanding": 499145736.0,
+      "grossMargin": 0.40958874698112513,
+      "operatingMargin": 0.17976518521059393,
+      "netMargin": 0.16055014984799226,
+      "roe": 0.17424017069122708,
+      "roic": 0.19166532906112282
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 32383150000.0,
+      "operatingIncome": 6047430000.0,
+      "netIncome": 5429640000.0,
+      "eps": null,
+      "freeCashFlow": 4012980000.0,
+      "totalDebt": 633000000.0,
+      "cash": 689150000.0,
+      "sharesOutstanding": 499145736.0,
+      "grossMargin": 0.420254051875744,
+      "operatingMargin": 0.1867461936223005,
+      "netMargin": 0.16766867954476325,
+      "roe": 0.16018201187195563,
+      "roic": 0.17513710664648308
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:58.556032+00:00"
+  }
+}

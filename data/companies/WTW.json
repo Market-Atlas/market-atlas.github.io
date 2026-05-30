@@ -1,0 +1,128 @@
+{
+  "ticker": "WTW",
+  "name": "Willis Towers Watson Public Limited Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23580825600.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 249.67,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9708000000.0,
+    "operatingIncome": 2257000000.0,
+    "netIncome": 1605000000.0,
+    "eps": 16.26,
+    "freeCashFlow": 1546000000.0,
+    "totalDebt": 6903000000.0,
+    "cash": 3132000000.0,
+    "sharesOutstanding": 95079835.0
+  },
+  "ratios": {
+    "roe": 0.2012286860581745,
+    "roic": 0.1516903017675919,
+    "grossMargin": 0.42058096415327567,
+    "operatingMargin": 0.23248866913885455,
+    "netMargin": 0.16532756489493203,
+    "debtToEquity": 0.85693
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8866000000.0,
+      "operatingIncome": 1539000000.0,
+      "netIncome": 1009000000.0,
+      "eps": 8.98,
+      "freeCashFlow": 608000000.0,
+      "totalDebt": 5479000000.0,
+      "cash": 1262000000.0,
+      "sharesOutstanding": 106773883.0,
+      "grossMargin": 0.4287164448454771,
+      "operatingMargin": 0.17358448003609295,
+      "netMargin": 0.11380554928942026,
+      "roe": 0.1007388178913738,
+      "roic": 0.09932236205227493
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9483000000.0,
+      "operatingIncome": 1819000000.0,
+      "netIncome": 1055000000.0,
+      "eps": 9.95,
+      "freeCashFlow": 1103000000.0,
+      "totalDebt": 5941000000.0,
+      "cash": 1424000000.0,
+      "sharesOutstanding": 102538072.0,
+      "grossMargin": 0.4364652536117262,
+      "operatingMargin": 0.1918169355689128,
+      "netMargin": 0.11125171359274491,
+      "roe": 0.11081932773109243,
+      "roic": 0.11765086346290667
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9930000000.0,
+      "operatingIncome": 2139000000.0,
+      "netIncome": -98000000.0,
+      "eps": -0.96,
+      "freeCashFlow": 1267000000.0,
+      "totalDebt": 5931000000.0,
+      "cash": 1890000000.0,
+      "sharesOutstanding": 99805780.0,
+      "grossMargin": 0.4459214501510574,
+      "operatingMargin": 0.21540785498489426,
+      "netMargin": -0.00986908358509567,
+      "roe": -0.01234256926952141,
+      "roic": 0.1542066181241439
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9708000000.0,
+      "operatingIncome": 2257000000.0,
+      "netIncome": 1605000000.0,
+      "eps": 16.26,
+      "freeCashFlow": 1546000000.0,
+      "totalDebt": 6903000000.0,
+      "cash": 3132000000.0,
+      "sharesOutstanding": 95079835.0,
+      "grossMargin": 0.42058096415327567,
+      "operatingMargin": 0.23248866913885455,
+      "netMargin": 0.16532756489493203,
+      "roe": 0.2012286860581745,
+      "roic": 0.1516903017675919
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:40.451516+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HST",
+  "name": "Host Hotels & Resorts, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Real Estate",
+  "industry": "REIT - Hotel & Motel",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15942748160.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 22.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6114000000.0,
+    "operatingIncome": 831000000.0,
+    "netIncome": 765000000.0,
+    "eps": 1.1,
+    "freeCashFlow": 866000000.0,
+    "totalDebt": 5640000000.0,
+    "cash": 768000000.0,
+    "sharesOutstanding": 687800000.0
+  },
+  "ratios": {
+    "roe": 0.11665141811527904,
+    "roic": 0.06812592228234136,
+    "grossMargin": 0.5260058881256133,
+    "operatingMargin": 0.13591756624141316,
+    "netMargin": 0.12512266928361138,
+    "debtToEquity": 0.80482
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4907000000.0,
+      "operatingIncome": 758000000.0,
+      "netIncome": 633000000.0,
+      "eps": 0.88,
+      "freeCashFlow": 912000000.0,
+      "totalDebt": 4783000000.0,
+      "cash": 667000000.0,
+      "sharesOutstanding": 713400000.0,
+      "grossMargin": 0.5522722641124923,
+      "operatingMargin": 0.15447320154880784,
+      "netMargin": 0.12899938862848992,
+      "roe": 0.09433681073025335,
+      "roic": 0.06595318889758983
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5311000000.0,
+      "operatingIncome": 741000000.0,
+      "netIncome": 740000000.0,
+      "eps": 1.04,
+      "freeCashFlow": 795000000.0,
+      "totalDebt": 4772000000.0,
+      "cash": 1144000000.0,
+      "sharesOutstanding": 703600000.0,
+      "grossMargin": 0.5366221050649596,
+      "operatingMargin": 0.1395217473168895,
+      "netMargin": 0.13933345885897194,
+      "roe": 0.1115633951454847,
+      "roic": 0.06497150372643577
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5684000000.0,
+      "operatingIncome": 771000000.0,
+      "netIncome": 697000000.0,
+      "eps": 0.99,
+      "freeCashFlow": 950000000.0,
+      "totalDebt": 5643000000.0,
+      "cash": 554000000.0,
+      "sharesOutstanding": 699100000.0,
+      "grossMargin": 0.5336030964109781,
+      "operatingMargin": 0.1356439127375088,
+      "netMargin": 0.12262491203377902,
+      "roe": 0.10546224844908458,
+      "roic": 0.0629285014691479
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6114000000.0,
+      "operatingIncome": 831000000.0,
+      "netIncome": 765000000.0,
+      "eps": 1.1,
+      "freeCashFlow": 866000000.0,
+      "totalDebt": 5640000000.0,
+      "cash": 768000000.0,
+      "sharesOutstanding": 687800000.0,
+      "grossMargin": 0.5260058881256133,
+      "operatingMargin": 0.13591756624141316,
+      "netMargin": 0.12512266928361138,
+      "roe": 0.11665141811527904,
+      "roic": 0.06812592228234136
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.497252+00:00"
+  }
+}

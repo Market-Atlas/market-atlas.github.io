@@ -1,0 +1,111 @@
+{
+  "ticker": "VTRS",
+  "name": "Viatris Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18935627776.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14299900000.0,
+    "operatingIncome": 253500000.0,
+    "netIncome": -3514900000.0,
+    "eps": -3.0,
+    "freeCashFlow": 1850800000.0,
+    "totalDebt": 14698000000.0,
+    "cash": 1322400000.0,
+    "sharesOutstanding": 1245391929.0
+  },
+  "ratios": {
+    "roe": -0.23892517996370138,
+    "roic": 0.008619722332731483,
+    "grossMargin": 0.3505968573206806,
+    "operatingMargin": 0.017727396695081783,
+    "netMargin": -0.2457989216707809,
+    "debtToEquity": 0.99675
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16262700000.0,
+      "operatingIncome": 1655700000.0,
+      "netIncome": 2078600000.0,
+      "eps": 1.71,
+      "freeCashFlow": 2509600000.0,
+      "totalDebt": 19527700000.0,
+      "cash": 1259900000.0,
+      "sharesOutstanding": 1213793231.0,
+      "grossMargin": 0.3995031575322671,
+      "operatingMargin": 0.10180966260215094,
+      "netMargin": 0.12781395463237963,
+      "roe": 0.09864134432406524,
+      "roic": 0.0407807881773399
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15426900000.0,
+      "operatingIncome": 1563400000.0,
+      "netIncome": 54700000.0,
+      "eps": 0.05,
+      "freeCashFlow": 2325100000.0,
+      "totalDebt": 18371200000.0,
+      "cash": 991900000.0,
+      "sharesOutstanding": 1221994491.0,
+      "grossMargin": 0.41736188087042764,
+      "operatingMargin": 0.10134246024800835,
+      "netMargin": 0.0035457544937738624,
+      "roe": 0.0026725426776239287,
+      "roic": 0.04025376815848151
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14739300000.0,
+      "operatingIncome": 710300000.0,
+      "netIncome": -634200000.0,
+      "eps": -0.53,
+      "freeCashFlow": 1943800000.0,
+      "totalDebt": 14305900000.0,
+      "cash": 734800000.0,
+      "sharesOutstanding": 1234131491.0,
+      "grossMargin": 0.38153779351800965,
+      "operatingMargin": 0.04819089101924786,
+      "netMargin": -0.0430278235737111,
+      "roe": -0.034031820986826215,
+      "roic": 0.02156253225424542
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14299900000.0,
+      "operatingIncome": 253500000.0,
+      "netIncome": -3514900000.0,
+      "eps": -3.0,
+      "freeCashFlow": 1850800000.0,
+      "totalDebt": 14698000000.0,
+      "cash": 1322400000.0,
+      "sharesOutstanding": 1245391929.0,
+      "grossMargin": 0.3505968573206806,
+      "operatingMargin": 0.017727396695081783,
+      "netMargin": -0.2457989216707809,
+      "roe": -0.23892517996370138,
+      "roic": 0.008619722332731483
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:37.019215+00:00"
+  }
+}

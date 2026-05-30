@@ -1,0 +1,111 @@
+{
+  "ticker": "GOOG",
+  "name": "Alphabet Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "USD",
+  "marketCap": {
+    "value": 4560616161280.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 376.43,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 402836000000.0,
+    "operatingIncome": 129039000000.0,
+    "netIncome": 132170000000.0,
+    "eps": 10.81,
+    "freeCashFlow": 73266000000.0,
+    "totalDebt": 59291000000.0,
+    "cash": 30708000000.0,
+    "sharesOutstanding": 12088000000.0
+  },
+  "ratios": {
+    "roe": 0.3182786895115167,
+    "roic": 0.27191522180733146,
+    "grossMargin": 0.5965231508603998,
+    "operatingMargin": 0.32032638592380025,
+    "netMargin": 0.3280987796522654,
+    "debtToEquity": 0.20026
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 282836000000.0,
+      "operatingIncome": 74842000000.0,
+      "netIncome": 59972000000.0,
+      "eps": 4.56,
+      "freeCashFlow": 60010000000.0,
+      "totalDebt": 29679000000.0,
+      "cash": 21879000000.0,
+      "sharesOutstanding": 12849000000.0,
+      "grossMargin": 0.5537944250378312,
+      "operatingMargin": 0.2646127084246701,
+      "netMargin": 0.2120380715326196,
+      "roe": 0.2341339246673746,
+      "roic": 0.26184736707682726
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 307394000000.0,
+      "operatingIncome": 84293000000.0,
+      "netIncome": 73795000000.0,
+      "eps": 5.8,
+      "freeCashFlow": 69495000000.0,
+      "totalDebt": 27121000000.0,
+      "cash": 24048000000.0,
+      "sharesOutstanding": 12460000000.0,
+      "grossMargin": 0.566250479840205,
+      "operatingMargin": 0.27421810445226646,
+      "netMargin": 0.24006649446638517,
+      "roe": 0.26041096905557576,
+      "roic": 0.27147504025764896
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 350018000000.0,
+      "operatingIncome": 112390000000.0,
+      "netIncome": 100118000000.0,
+      "eps": 8.04,
+      "freeCashFlow": 72764000000.0,
+      "totalDebt": 22574000000.0,
+      "cash": 23466000000.0,
+      "sharesOutstanding": 12211000000.0,
+      "grossMargin": 0.5820043540617911,
+      "operatingMargin": 0.32109777211457696,
+      "netMargin": 0.28603671811164,
+      "roe": 0.30797578472025694,
+      "roic": 0.32327747383923283
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 402836000000.0,
+      "operatingIncome": 129039000000.0,
+      "netIncome": 132170000000.0,
+      "eps": 10.81,
+      "freeCashFlow": 73266000000.0,
+      "totalDebt": 59291000000.0,
+      "cash": 30708000000.0,
+      "sharesOutstanding": 12088000000.0,
+      "grossMargin": 0.5965231508603998,
+      "operatingMargin": 0.32032638592380025,
+      "netMargin": 0.3280987796522654,
+      "roe": 0.3182786895115167,
+      "roic": 0.27191522180733146
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:31.664734+00:00"
+  }
+}

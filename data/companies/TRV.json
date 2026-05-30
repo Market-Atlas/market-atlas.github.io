@@ -1,0 +1,111 @@
+{
+  "ticker": "TRV",
+  "name": "The Travelers Companies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 62068862976.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 291.89,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 48828000000.0,
+    "operatingIncome": null,
+    "netIncome": 6288000000.0,
+    "eps": 27.43,
+    "freeCashFlow": null,
+    "totalDebt": 9267000000.0,
+    "cash": 710000000.0,
+    "sharesOutstanding": 793400000.0
+  },
+  "ratios": {
+    "roe": 0.19115948197239618,
+    "roic": null,
+    "grossMargin": 0.32878,
+    "operatingMargin": 0.18744,
+    "netMargin": 0.12877856967313836,
+    "debtToEquity": 0.28975
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 36896000000.0,
+      "operatingIncome": null,
+      "netIncome": 2842000000.0,
+      "eps": 11.77,
+      "freeCashFlow": null,
+      "totalDebt": 7292000000.0,
+      "cash": 799000000.0,
+      "sharesOutstanding": 785600000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0770273200346921,
+      "roe": 0.1318181818181818,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41373000000.0,
+      "operatingIncome": null,
+      "netIncome": 2991000000.0,
+      "eps": 12.79,
+      "freeCashFlow": null,
+      "totalDebt": 8031000000.0,
+      "cash": 500000000.0,
+      "sharesOutstanding": 787400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07229352476252629,
+      "roe": 0.12001926086433129,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 46428000000.0,
+      "operatingIncome": null,
+      "netIncome": 4999000000.0,
+      "eps": 21.47,
+      "freeCashFlow": null,
+      "totalDebt": 8033000000.0,
+      "cash": 568000000.0,
+      "sharesOutstanding": 790900000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10767209442577755,
+      "roe": 0.17940712029859315,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 48828000000.0,
+      "operatingIncome": null,
+      "netIncome": 6288000000.0,
+      "eps": 27.43,
+      "freeCashFlow": null,
+      "totalDebt": 9267000000.0,
+      "cash": 710000000.0,
+      "sharesOutstanding": 793400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12877856967313836,
+      "roe": 0.19115948197239618,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:29.209009+00:00"
+  }
+}

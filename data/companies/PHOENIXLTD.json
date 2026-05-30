@@ -1,0 +1,128 @@
+{
+  "ticker": "PHOENIXLTD",
+  "name": "The Phoenix Mills Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "currency": "INR",
+  "marketCap": {
+    "value": 633452822528.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1771.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44228043000.0,
+    "operatingIncome": 22767898000.0,
+    "netIncome": 12238164000.0,
+    "eps": 35.02,
+    "freeCashFlow": 10289001000.0,
+    "totalDebt": 53230045000.0,
+    "cash": 1814118000.0,
+    "sharesOutstanding": 357634631.0
+  },
+  "ratios": {
+    "roe": 0.11137204148204406,
+    "roic": 0.13958147648154695,
+    "grossMargin": 0.9341561416135912,
+    "operatingMargin": 0.514784206029645,
+    "netMargin": 0.2767059804115683,
+    "debtToEquity": 0.37211
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26011990000.0,
+      "operatingIncome": 13228525000.0,
+      "netIncome": 13349608000.0,
+      "eps": 37.355,
+      "freeCashFlow": -4696826000.0,
+      "totalDebt": 42592792000.0,
+      "cash": 2635617000.0,
+      "sharesOutstanding": 357217908.0,
+      "grossMargin": 0.9245910443606967,
+      "operatingMargin": 0.5085549010283335,
+      "netMargin": 0.5132097928685964,
+      "roe": 0.15930765414249773,
+      "roic": 0.10466396163102452
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 38991356000.0,
+      "operatingIncome": 19516834000.0,
+      "netIncome": 10992088000.0,
+      "eps": 30.66,
+      "freeCashFlow": 4872921000.0,
+      "totalDebt": 46392399000.0,
+      "cash": 4544405000.0,
+      "sharesOutstanding": 357394444.0,
+      "grossMargin": 0.8254049435982683,
+      "operatingMargin": 0.5005425817968475,
+      "netMargin": 0.2819108932759353,
+      "roe": 0.11622355557280192,
+      "roic": 0.1384472013731707
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 38135729000.0,
+      "operatingIncome": 18346586000.0,
+      "netIncome": 9842257000.0,
+      "eps": 27.16,
+      "freeCashFlow": -5337286000.0,
+      "totalDebt": 46872181000.0,
+      "cash": 2226683000.0,
+      "sharesOutstanding": 357523346.0,
+      "grossMargin": 0.9427618389044038,
+      "operatingMargin": 0.48108654222920455,
+      "netMargin": 0.2580849313251623,
+      "roe": 0.09420099030009726,
+      "roic": 0.12121668087257974
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 44228043000.0,
+      "operatingIncome": 22767898000.0,
+      "netIncome": 12238164000.0,
+      "eps": 35.02,
+      "freeCashFlow": 10289001000.0,
+      "totalDebt": 53230045000.0,
+      "cash": 1814118000.0,
+      "sharesOutstanding": 357634631.0,
+      "grossMargin": 0.9341561416135912,
+      "operatingMargin": 0.514784206029645,
+      "netMargin": 0.2767059804115683,
+      "roe": 0.11137204148204406,
+      "roic": 0.13958147648154695
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:41.738806+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ECL",
+  "name": "Ecolab Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 72048001024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16081200000.0,
+    "operatingIncome": 2892500000.0,
+    "netIncome": 2075600000.0,
+    "eps": 7.28,
+    "freeCashFlow": 1904300000.0,
+    "totalDebt": 8997500000.0,
+    "cash": 646200000.0,
+    "sharesOutstanding": 369415523.0
+  },
+  "ratios": {
+    "roe": 0.2124288696933721,
+    "roic": 0.15411624920744021,
+    "grossMargin": 0.44464343456955946,
+    "operatingMargin": 0.17986841777976767,
+    "netMargin": 0.12906996990274358,
+    "debtToEquity": 0.92369
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14187800000.0,
+      "operatingIncome": 1703000000.0,
+      "netIncome": 1091700000.0,
+      "eps": 3.81,
+      "freeCashFlow": 1075600000.0,
+      "totalDebt": 9026500000.0,
+      "cash": 598600000.0,
+      "sharesOutstanding": 364761501.0,
+      "grossMargin": 0.3775638224389969,
+      "operatingMargin": 0.12003270415427339,
+      "netMargin": 0.07694639056090444,
+      "roe": 0.15086856179433672,
+      "roic": 0.10471880265148255
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15320200000.0,
+      "operatingIncome": 2103700000.0,
+      "netIncome": 1372300000.0,
+      "eps": 4.79,
+      "freeCashFlow": 1637000000.0,
+      "totalDebt": 8733400000.0,
+      "cash": 919500000.0,
+      "sharesOutstanding": 365748640.0,
+      "grossMargin": 0.40242947220010183,
+      "operatingMargin": 0.1373154397462174,
+      "netMargin": 0.08957454863513531,
+      "roe": 0.17058435988911955,
+      "roic": 0.12538368468420144
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15741400000.0,
+      "operatingIncome": 2613500000.0,
+      "netIncome": 2112400000.0,
+      "eps": 7.37,
+      "freeCashFlow": 1819400000.0,
+      "totalDebt": 8282700000.0,
+      "cash": 1256800000.0,
+      "sharesOutstanding": 367818175.0,
+      "grossMargin": 0.4346309731027736,
+      "operatingMargin": 0.16602716403877674,
+      "netMargin": 0.13419390905510312,
+      "roe": 0.24121589987781622,
+      "roic": 0.1533744131455399
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16081200000.0,
+      "operatingIncome": 2892500000.0,
+      "netIncome": 2075600000.0,
+      "eps": 7.28,
+      "freeCashFlow": 1904300000.0,
+      "totalDebt": 8997500000.0,
+      "cash": 646200000.0,
+      "sharesOutstanding": 369415523.0,
+      "grossMargin": 0.44464343456955946,
+      "operatingMargin": 0.17986841777976767,
+      "netMargin": 0.12906996990274358,
+      "roe": 0.2124288696933721,
+      "roic": 0.15411624920744021
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:15.666930+00:00"
+  }
+}

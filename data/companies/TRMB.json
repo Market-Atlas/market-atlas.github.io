@@ -1,0 +1,128 @@
+{
+  "ticker": "TRMB",
+  "name": "Trimble Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "currency": "USD",
+  "marketCap": {
+    "value": 13149820928.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.41,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3587300000.0,
+    "operatingIncome": 611300000.0,
+    "netIncome": 424000000.0,
+    "eps": 1.76,
+    "freeCashFlow": 360900000.0,
+    "totalDebt": 1392200000.0,
+    "cash": 253400000.0,
+    "sharesOutstanding": 236000000.0
+  },
+  "ratios": {
+    "roe": 0.07265001199410576,
+    "roic": 0.0845691992695479,
+    "grossMargin": 0.6907423410364341,
+    "operatingMargin": 0.17040671256934184,
+    "netMargin": 0.11819474256404539,
+    "debtToEquity": 0.25062
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3676300000.0,
+      "operatingIncome": 541100000.0,
+      "netIncome": 449700000.0,
+      "eps": 1.8,
+      "freeCashFlow": 348000000.0,
+      "totalDebt": 1625100000.0,
+      "cash": 271000000.0,
+      "sharesOutstanding": 246900000.0,
+      "grossMargin": 0.5727497755895874,
+      "operatingMargin": 0.14718602943176565,
+      "netMargin": 0.12232407583711884,
+      "roe": 0.11103155399733347,
+      "roic": 0.09534297746374641
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3798700000.0,
+      "operatingIncome": 494400000.0,
+      "netIncome": 311300000.0,
+      "eps": 1.25,
+      "freeCashFlow": 555100000.0,
+      "totalDebt": 3188500000.0,
+      "cash": 229800000.0,
+      "sharesOutstanding": 246500000.0,
+      "grossMargin": 0.614104825334983,
+      "operatingMargin": 0.13014978808539765,
+      "netMargin": 0.081949087845842,
+      "roe": 0.06917624052798826,
+      "roic": 0.0643029940431288
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3683300000.0,
+      "operatingIncome": 476600000.0,
+      "netIncome": 1504400000.0,
+      "eps": 6.09,
+      "freeCashFlow": 497800000.0,
+      "totalDebt": 1390600000.0,
+      "cash": 738800000.0,
+      "sharesOutstanding": 245800000.0,
+      "grossMargin": 0.650585073168083,
+      "operatingMargin": 0.12939483615236336,
+      "netMargin": 0.4084380854125377,
+      "roe": 0.2618488155535829,
+      "roic": 0.0667890525371712
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3587300000.0,
+      "operatingIncome": 611300000.0,
+      "netIncome": 424000000.0,
+      "eps": 1.76,
+      "freeCashFlow": 360900000.0,
+      "totalDebt": 1392200000.0,
+      "cash": 253400000.0,
+      "sharesOutstanding": 236000000.0,
+      "grossMargin": 0.6907423410364341,
+      "operatingMargin": 0.17040671256934184,
+      "netMargin": 0.11819474256404539,
+      "roe": 0.07265001199410576,
+      "roic": 0.0845691992695479
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:28.192589+00:00"
+  }
+}

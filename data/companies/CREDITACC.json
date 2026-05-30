@@ -1,0 +1,128 @@
+{
+  "ticker": "CREDITACC",
+  "name": "CreditAccess Grameen Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 207383642112.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1295.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 58985200000.0,
+    "operatingIncome": 26445800000.0,
+    "netIncome": 7776400000.0,
+    "eps": null,
+    "freeCashFlow": -27878100000.0,
+    "totalDebt": 236411300000.0,
+    "cash": 11515800000.0,
+    "sharesOutstanding": 160080005.0
+  },
+  "ratios": {
+    "roe": 0.09916031751091842,
+    "roic": 0.08399924023405365,
+    "grossMargin": 0.5284630720926605,
+    "operatingMargin": 0.44834636485084395,
+    "netMargin": 0.13183646067149046,
+    "debtToEquity": 3.02873
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 22.2,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 32969800000.0,
+      "operatingIncome": 14148900000.0,
+      "netIncome": 8260600000.0,
+      "eps": 51.82,
+      "freeCashFlow": -33071000000.0,
+      "totalDebt": 163122600000.0,
+      "cash": 13414100000.0,
+      "sharesOutstanding": 158906443.0,
+      "grossMargin": 0.5419292807357036,
+      "operatingMargin": 0.4291472802382787,
+      "netMargin": 0.25055050379438154,
+      "roe": 0.16175148865178374,
+      "roic": 0.06605699644665097
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 49049700000.0,
+      "operatingIncome": 23531200000.0,
+      "netIncome": 14459300000.0,
+      "eps": 90.41,
+      "freeCashFlow": -47540900000.0,
+      "totalDebt": 218410100000.0,
+      "cash": 11072900000.0,
+      "sharesOutstanding": 159376967.0,
+      "grossMargin": 0.5715366250965858,
+      "operatingMargin": 0.4797419759957757,
+      "netMargin": 0.29478875507903207,
+      "roe": 0.22008133966922275,
+      "roic": 0.08282428736203842
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 56483900000.0,
+      "operatingIncome": 25306300000.0,
+      "netIncome": 5314000000.0,
+      "eps": 33.24,
+      "freeCashFlow": 10915900000.0,
+      "totalDebt": 204457700000.0,
+      "cash": 12714900000.0,
+      "sharesOutstanding": 159719622.0,
+      "grossMargin": 0.5257020142022771,
+      "operatingMargin": 0.448026782853167,
+      "netMargin": 0.09407990595550236,
+      "roe": 0.07639480906329384,
+      "roic": 0.09235289437824021
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 58985200000.0,
+      "operatingIncome": 26445800000.0,
+      "netIncome": 7776400000.0,
+      "eps": null,
+      "freeCashFlow": -27878100000.0,
+      "totalDebt": 236411300000.0,
+      "cash": 11515800000.0,
+      "sharesOutstanding": 160080005.0,
+      "grossMargin": 0.5284630720926605,
+      "operatingMargin": 0.44834636485084395,
+      "netMargin": 0.13183646067149046,
+      "roe": 0.09916031751091842,
+      "roic": 0.08399924023405365
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:29.271069+00:00"
+  }
+}

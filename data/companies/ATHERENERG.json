@@ -1,0 +1,128 @@
+{
+  "ticker": "ATHERENERG",
+  "name": "Ather Energy Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 369233461248.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 964.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 36717600000.0,
+    "operatingIncome": -5812500000.0,
+    "netIncome": -5171700000.0,
+    "eps": -8.93,
+    "freeCashFlow": -4741800000.0,
+    "totalDebt": 6642200000.0,
+    "cash": 1119400000.0,
+    "sharesOutstanding": 382673164.0
+  },
+  "ratios": {
+    "roe": -0.2010277420383032,
+    "roic": -0.1795727327494323,
+    "grossMargin": 0.2108389437218119,
+    "operatingMargin": -0.15830283025034317,
+    "netMargin": -0.14085070919667952,
+    "debtToEquity": 0.25819
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 3649000000.0,
+      "cash": 574000000.0,
+      "sharesOutstanding": 372459668.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 17796000000.0,
+      "operatingIncome": -8078000000.0,
+      "netIncome": -8645000000.0,
+      "eps": -23.210567,
+      "freeCashFlow": -10031000000.0,
+      "totalDebt": 6716000000.0,
+      "cash": 826000000.0,
+      "sharesOutstanding": 372459668.0,
+      "grossMargin": 0.08794111036187907,
+      "operatingMargin": -0.4539222297145426,
+      "netMargin": -0.48578332209485275,
+      "roe": -1.4086687306501549,
+      "roic": -0.628491402785342
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 17511000000.0,
+      "operatingIncome": -8257000000.0,
+      "netIncome": -10597000000.0,
+      "eps": -28.451403,
+      "freeCashFlow": -3835000000.0,
+      "totalDebt": 4777000000.0,
+      "cash": 2279000000.0,
+      "sharesOutstanding": 372459668.0,
+      "grossMargin": 0.04774141967905888,
+      "operatingMargin": -0.4715321797727143,
+      "netMargin": -0.6051624693050083,
+      "roe": -1.9411980216156806,
+      "roic": -0.8066627588901915
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22550100000.0,
+      "operatingIncome": -7518700000.0,
+      "netIncome": -8122800000.0,
+      "eps": -21.808536,
+      "freeCashFlow": -10597000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.16774204992439057,
+      "operatingMargin": -0.3334220247360322,
+      "netMargin": -0.36021126292122874,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 36717600000.0,
+      "operatingIncome": -5812500000.0,
+      "netIncome": -5171700000.0,
+      "eps": -8.93,
+      "freeCashFlow": -4741800000.0,
+      "totalDebt": 6642200000.0,
+      "cash": 1119400000.0,
+      "sharesOutstanding": 382673164.0,
+      "grossMargin": 0.2108389437218119,
+      "operatingMargin": -0.15830283025034317,
+      "netMargin": -0.14085070919667952,
+      "roe": -0.2010277420383032,
+      "roic": -0.1795727327494323
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:56.095474+00:00"
+  }
+}

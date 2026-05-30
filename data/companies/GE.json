@@ -1,0 +1,128 @@
+{
+  "ticker": "GE",
+  "name": "GE Aerospace",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 338274058240.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 323.76,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 45855000000.0,
+    "operatingIncome": 8680000000.0,
+    "netIncome": 8704000000.0,
+    "eps": 8.14,
+    "freeCashFlow": 7264000000.0,
+    "totalDebt": 20495000000.0,
+    "cash": 12392000000.0,
+    "sharesOutstanding": 1048766702.0
+  },
+  "ratios": {
+    "roe": 0.4660277346468919,
+    "roic": 0.2215868477483917,
+    "grossMargin": 0.3148620652055392,
+    "operatingMargin": 0.18929233453276634,
+    "netMargin": 0.1898157234761749,
+    "debtToEquity": 1.16527
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29139000000.0,
+      "operatingIncome": 3596000000.0,
+      "netIncome": 336000000.0,
+      "eps": 0.05,
+      "freeCashFlow": 5255000000.0,
+      "totalDebt": 26148000000.0,
+      "cash": 15810000000.0,
+      "sharesOutstanding": 1462000000.0,
+      "grossMargin": 0.2594461031607124,
+      "operatingMargin": 0.12340849033940766,
+      "netMargin": 0.011530937918253886,
+      "roe": 0.009971509971509971,
+      "roic": 0.06008956620546755
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 35348000000.0,
+      "operatingIncome": 4717000000.0,
+      "netIncome": 9482000000.0,
+      "eps": 8.36,
+      "freeCashFlow": 4327000000.0,
+      "totalDebt": 20525000000.0,
+      "cash": 15204000000.0,
+      "sharesOutstanding": 1462000000.0,
+      "grossMargin": 0.269407038587756,
+      "operatingMargin": 0.13344460789860813,
+      "netMargin": 0.2682471426954849,
+      "roe": 0.34602050870342665,
+      "roic": 0.09841846102487065
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 38702000000.0,
+      "operatingIncome": 6761000000.0,
+      "netIncome": 6556000000.0,
+      "eps": 5.99,
+      "freeCashFlow": 3678000000.0,
+      "totalDebt": 19273000000.0,
+      "cash": 13619000000.0,
+      "sharesOutstanding": 1462000000.0,
+      "grossMargin": 0.3091571495013178,
+      "operatingMargin": 0.1746938142731642,
+      "netMargin": 0.16939693039119424,
+      "roe": 0.33895150449798367,
+      "roic": 0.17508740126893693
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 45855000000.0,
+      "operatingIncome": 8680000000.0,
+      "netIncome": 8704000000.0,
+      "eps": 8.14,
+      "freeCashFlow": 7264000000.0,
+      "totalDebt": 20495000000.0,
+      "cash": 12392000000.0,
+      "sharesOutstanding": 1048766702.0,
+      "grossMargin": 0.3148620652055392,
+      "operatingMargin": 0.18929233453276634,
+      "netMargin": 0.1898157234761749,
+      "roe": 0.4660277346468919,
+      "roic": 0.2215868477483917
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:29.263089+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "SPLPETRO",
+  "name": "Supreme Petrochem Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 125169721344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 665.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 53893925000.0,
+    "operatingIncome": 4292001000.0,
+    "netIncome": 3292324000.0,
+    "eps": null,
+    "freeCashFlow": 356810000.0,
+    "totalDebt": 1333891000.0,
+    "cash": 2964881000.0,
+    "sharesOutstanding": 188041342.0
+  },
+  "ratios": {
+    "roe": 0.13853652001053987,
+    "roic": 0.17100343413223765,
+    "grossMargin": 0.17022187565667188,
+    "operatingMargin": 0.07963793692888392,
+    "netMargin": 0.061088963180915105,
+    "debtToEquity": 0.056100000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 35.27,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 52776018000.0,
+      "operatingIncome": 6337844000.0,
+      "netIncome": 4981378000.0,
+      "eps": 26.49,
+      "freeCashFlow": 978543000.0,
+      "totalDebt": 166560000.0,
+      "cash": 818145000.0,
+      "sharesOutstanding": 193003916.0,
+      "grossMargin": 0.18315019522693055,
+      "operatingMargin": 0.12008946942529844,
+      "netMargin": 0.09438715137621789,
+      "roe": 0.27015956861486234,
+      "roic": 0.34064886444985765
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 52364888000.0,
+      "operatingIncome": 4143354000.0,
+      "netIncome": 3464884000.0,
+      "eps": 18.43,
+      "freeCashFlow": 2439350000.0,
+      "totalDebt": 1141436000.0,
+      "cash": 2159145000.0,
+      "sharesOutstanding": 188041342.0,
+      "grossMargin": 0.1492413771609709,
+      "operatingMargin": 0.07912466078414987,
+      "netMargin": 0.0661680781213549,
+      "roe": 0.17160429784847067,
+      "roic": 0.1942267412606137
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 60015964000.0,
+      "operatingIncome": 4763993000.0,
+      "netIncome": 3905248000.0,
+      "eps": 20.77,
+      "freeCashFlow": -362322000.0,
+      "totalDebt": 1295289000.0,
+      "cash": 3054084000.0,
+      "sharesOutstanding": 188041342.0,
+      "grossMargin": 0.14391397595479763,
+      "operatingMargin": 0.07937876329038054,
+      "netMargin": 0.0650701536677808,
+      "roe": 0.17502210830298764,
+      "roic": 0.2017942260928027
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 53893925000.0,
+      "operatingIncome": 4292001000.0,
+      "netIncome": 3292324000.0,
+      "eps": null,
+      "freeCashFlow": 356810000.0,
+      "totalDebt": 1333891000.0,
+      "cash": 2964881000.0,
+      "sharesOutstanding": 188041342.0,
+      "grossMargin": 0.17022187565667188,
+      "operatingMargin": 0.07963793692888392,
+      "netMargin": 0.061088963180915105,
+      "roe": 0.13853652001053987,
+      "roic": 0.17100343413223765
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:57.664513+00:00"
+  }
+}

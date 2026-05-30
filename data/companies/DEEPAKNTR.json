@@ -1,0 +1,128 @@
+{
+  "ticker": "DEEPAKNTR",
+  "name": "Deepak Nitrite Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 229413093376.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1682.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 78870700000.0,
+    "operatingIncome": 7560800000.0,
+    "netIncome": 5505300000.0,
+    "eps": null,
+    "freeCashFlow": -6594300000.0,
+    "totalDebt": 16377200000.0,
+    "cash": 2431400000.0,
+    "sharesOutstanding": 136393041.0
+  },
+  "ratios": {
+    "roe": 0.09432003330574987,
+    "roic": 0.10115391562033835,
+    "grossMargin": 0.24051897599488783,
+    "operatingMargin": 0.09586322931075798,
+    "netMargin": 0.06980158664751296,
+    "debtToEquity": 0.27903
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 78.2,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 78825800000.0,
+      "operatingIncome": 11301000000.0,
+      "netIncome": 8520000000.0,
+      "eps": 62.46,
+      "freeCashFlow": 2890700000.0,
+      "totalDebt": 728600000.0,
+      "cash": 376400000.0,
+      "sharesOutstanding": 136393041.0,
+      "grossMargin": 0.2479074110253242,
+      "operatingMargin": 0.1433667657036148,
+      "netMargin": 0.10808643870407912,
+      "roe": 0.20831499574567966,
+      "roic": 0.2714746253741454
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 76099200000.0,
+      "operatingIncome": 9902700000.0,
+      "netIncome": 8108900000.0,
+      "eps": 59.45,
+      "freeCashFlow": 1063500000.0,
+      "totalDebt": 2860800000.0,
+      "cash": 2379700000.0,
+      "sharesOutstanding": 136393041.0,
+      "grossMargin": 0.24696843067995458,
+      "operatingMargin": 0.13012883184054497,
+      "netMargin": 0.10655696774736134,
+      "roe": 0.16905445918167375,
+      "roic": 0.19483148720168414
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 82819300000.0,
+      "operatingIncome": 8963900000.0,
+      "netIncome": 6972400000.0,
+      "eps": 51.12,
+      "freeCashFlow": -5116000000.0,
+      "totalDebt": 12670100000.0,
+      "cash": 1794100000.0,
+      "sharesOutstanding": 136393041.0,
+      "grossMargin": 0.2451747358405589,
+      "operatingMargin": 0.10823443327823346,
+      "netMargin": 0.08418810591251073,
+      "roe": 0.12938999790300762,
+      "roic": 0.13468045338718207
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 78870700000.0,
+      "operatingIncome": 7560800000.0,
+      "netIncome": 5505300000.0,
+      "eps": null,
+      "freeCashFlow": -6594300000.0,
+      "totalDebt": 16377200000.0,
+      "cash": 2431400000.0,
+      "sharesOutstanding": 136393041.0,
+      "grossMargin": 0.24051897599488783,
+      "operatingMargin": 0.09586322931075798,
+      "netMargin": 0.06980158664751296,
+      "roe": 0.09432003330574987,
+      "roic": 0.10115391562033835
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:32.506018+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CANFINHOME",
+  "name": "Can Fin Homes Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 110471323648.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 829.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16448091000.0,
+    "operatingIncome": null,
+    "netIncome": 10857523000.0,
+    "eps": null,
+    "freeCashFlow": -30160322000.0,
+    "totalDebt": 380422297000.0,
+    "cash": 3044978000.0,
+    "sharesOutstanding": 133154125.0
+  },
+  "ratios": {
+    "roe": 0.18155164922372727,
+    "roic": null,
+    "grossMargin": 0.99367994,
+    "operatingMargin": 0.80419,
+    "netMargin": 0.6601083979897728,
+    "debtToEquity": 6.370900000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 35.38,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 10120918000.0,
+      "operatingIncome": null,
+      "netIncome": 6212123000.0,
+      "eps": 46.65,
+      "freeCashFlow": -40532284000.0,
+      "totalDebt": 286717097000.0,
+      "cash": 51281000.0,
+      "sharesOutstanding": 133154125.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6137904684140312,
+      "roe": 0.17032201492108656,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 12682736000.0,
+      "operatingIncome": null,
+      "netIncome": 7506987000.0,
+      "eps": 56.38,
+      "freeCashFlow": 2048785000.0,
+      "totalDebt": 316920748000.0,
+      "cash": 43757000.0,
+      "sharesOutstanding": 133154125.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5919059578311809,
+      "roe": 0.17281862836561523,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 13611104000.0,
+      "operatingIncome": null,
+      "netIncome": 8571655000.0,
+      "eps": 64.37,
+      "freeCashFlow": -22721230000.0,
+      "totalDebt": 348982859000.0,
+      "cash": 56145000.0,
+      "sharesOutstanding": 133154125.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6297545739125937,
+      "roe": 0.16914979095089946,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 16448091000.0,
+      "operatingIncome": null,
+      "netIncome": 10857523000.0,
+      "eps": null,
+      "freeCashFlow": -30160322000.0,
+      "totalDebt": 380422297000.0,
+      "cash": 3044978000.0,
+      "sharesOutstanding": 133154125.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6601083979897728,
+      "roe": 0.18155164922372727,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:06.172031+00:00"
+  }
+}

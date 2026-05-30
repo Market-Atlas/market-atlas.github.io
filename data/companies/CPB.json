@@ -1,0 +1,128 @@
+{
+  "ticker": "CPB",
+  "name": "The Campbell's Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 6293872640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 21.11,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10253000000.0,
+    "operatingIncome": 1353000000.0,
+    "netIncome": 602000000.0,
+    "eps": 2.01,
+    "freeCashFlow": 705000000.0,
+    "totalDebt": 7212000000.0,
+    "cash": 132000000.0,
+    "sharesOutstanding": 323129972.0
+  },
+  "ratios": {
+    "roe": 0.15427985648385442,
+    "roic": 0.12173834802951233,
+    "grossMargin": 0.3042036477128645,
+    "operatingMargin": 0.131961377157905,
+    "netMargin": 0.058714522578757436,
+    "debtToEquity": 1.8500100000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-07-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 8562000000.0,
+      "operatingIncome": 1148000000.0,
+      "netIncome": 757000000.0,
+      "eps": 2.51,
+      "freeCashFlow": 939000000.0,
+      "totalDebt": 5048000000.0,
+      "cash": 109000000.0,
+      "sharesOutstanding": 323000000.0,
+      "grossMargin": 0.3068208362532119,
+      "operatingMargin": 0.1340808222377949,
+      "netMargin": 0.08841392198084559,
+      "roe": 0.22725908135694986,
+      "roic": 0.13700918964076858
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 9357000000.0,
+      "operatingIncome": 1312000000.0,
+      "netIncome": 858000000.0,
+      "eps": 2.85,
+      "freeCashFlow": 773000000.0,
+      "totalDebt": 4967000000.0,
+      "cash": 189000000.0,
+      "sharesOutstanding": 323000000.0,
+      "grossMargin": 0.3117452174842364,
+      "operatingMargin": 0.14021588115849096,
+      "netMargin": 0.09169605642834242,
+      "roe": 0.23436219612127834,
+      "roic": 0.1520630505331479
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 9636000000.0,
+      "operatingIncome": 1226000000.0,
+      "netIncome": 567000000.0,
+      "eps": 1.89,
+      "freeCashFlow": 668000000.0,
+      "totalDebt": 7542000000.0,
+      "cash": 108000000.0,
+      "sharesOutstanding": 323553885.0,
+      "grossMargin": 0.30832295558322953,
+      "operatingMargin": 0.12723121627231215,
+      "netMargin": 0.05884184308841843,
+      "roe": 0.14944649446494465,
+      "roic": 0.10815102328863797
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": 10253000000.0,
+      "operatingIncome": 1353000000.0,
+      "netIncome": 602000000.0,
+      "eps": 2.01,
+      "freeCashFlow": 705000000.0,
+      "totalDebt": 7212000000.0,
+      "cash": 132000000.0,
+      "sharesOutstanding": 323129972.0,
+      "grossMargin": 0.3042036477128645,
+      "operatingMargin": 0.131961377157905,
+      "netMargin": 0.058714522578757436,
+      "roe": 0.15427985648385442,
+      "roic": 0.12173834802951233
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:04.810282+00:00"
+  }
+}

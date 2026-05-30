@@ -1,0 +1,128 @@
+{
+  "ticker": "VBL",
+  "name": "Varun Beverages Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1785852329984.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 528.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 208346040000.0,
+    "operatingIncome": 38602580000.0,
+    "netIncome": 30364890000.0,
+    "eps": 8.98,
+    "freeCashFlow": 7702100000.0,
+    "totalDebt": 25081830000.0,
+    "cash": 17841770000.0,
+    "sharesOutstanding": 3381988769.0
+  },
+  "ratios": {
+    "roe": 0.1550914197385077,
+    "roic": 0.17477601076149843,
+    "grossMargin": 0.5250446804748484,
+    "operatingMargin": 0.18528108333616516,
+    "netMargin": 0.14574258286838568,
+    "debtToEquity": 0.12705
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 129210520000.0,
+      "operatingIncome": 23085960000.0,
+      "netIncome": 14974330000.0,
+      "eps": 4.608,
+      "freeCashFlow": -109630000.0,
+      "totalDebt": 38838140000.0,
+      "cash": 1543320000.0,
+      "sharesOutstanding": 3247748100.0,
+      "grossMargin": 0.5049552466780569,
+      "operatingMargin": 0.1786693529288482,
+      "netMargin": 0.11589095067491409,
+      "roe": 0.29347735762526506,
+      "roic": 0.2569047585663074
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 156217420000.0,
+      "operatingIncome": 31264910000.0,
+      "netIncome": 20559220000.0,
+      "eps": 6.33,
+      "freeCashFlow": -8732710000.0,
+      "totalDebt": 54313100000.0,
+      "cash": 2422120000.0,
+      "sharesOutstanding": 3248037440.0,
+      "grossMargin": 0.5166282351865752,
+      "operatingMargin": 0.20013715499846305,
+      "netMargin": 0.13160644952400316,
+      "roe": 0.29639192572390277,
+      "roic": 0.25279265331415235
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 194450460000.0,
+      "operatingIncome": 40032430000.0,
+      "netIncome": 25946330000.0,
+      "eps": 7.94,
+      "freeCashFlow": -3979130000.0,
+      "totalDebt": 28262540000.0,
+      "cash": 2607810000.0,
+      "sharesOutstanding": 3381510017.0,
+      "grossMargin": 0.5333648477869376,
+      "operatingMargin": 0.20587469939644268,
+      "netMargin": 0.1334341405003619,
+      "roe": 0.15621069909870836,
+      "roic": 0.20596963904712692
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 208346040000.0,
+      "operatingIncome": 38602580000.0,
+      "netIncome": 30364890000.0,
+      "eps": 8.98,
+      "freeCashFlow": 7702100000.0,
+      "totalDebt": 25081830000.0,
+      "cash": 17841770000.0,
+      "sharesOutstanding": 3381988769.0,
+      "grossMargin": 0.5250446804748484,
+      "operatingMargin": 0.18528108333616516,
+      "netMargin": 0.14574258286838568,
+      "roe": 0.1550914197385077,
+      "roic": 0.17477601076149843
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:13.652977+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "GILD",
+  "name": "Gilead Sciences, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 166904233984.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 134.43,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29442000000.0,
+    "operatingIncome": 11701000000.0,
+    "netIncome": 8510000000.0,
+    "eps": 6.78,
+    "freeCashFlow": 9456000000.0,
+    "totalDebt": 24936000000.0,
+    "cash": 7564000000.0,
+    "sharesOutstanding": 1240679623.0
+  },
+  "ratios": {
+    "roe": 0.37485684080697734,
+    "roic": 0.24562324194970403,
+    "grossMargin": 0.7882616670063175,
+    "operatingMargin": 0.3974254466408532,
+    "netMargin": 0.2890428639358739,
+    "debtToEquity": 0.94635
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27281000000.0,
+      "operatingIncome": 10974000000.0,
+      "netIncome": 4592000000.0,
+      "eps": 3.64,
+      "freeCashFlow": 8344000000.0,
+      "totalDebt": 25230000000.0,
+      "cash": 5412000000.0,
+      "sharesOutstanding": 1247000000.0,
+      "grossMargin": 0.7926395659983139,
+      "operatingMargin": 0.4022579817455372,
+      "netMargin": 0.1683222755764085,
+      "roe": 0.21619585687382298,
+      "roic": 0.23615235635894125
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27116000000.0,
+      "operatingIncome": 8838000000.0,
+      "netIncome": 5665000000.0,
+      "eps": 4.5,
+      "freeCashFlow": 7421000000.0,
+      "totalDebt": 24987000000.0,
+      "cash": 6085000000.0,
+      "sharesOutstanding": 1246041895.0,
+      "grossMargin": 0.7603628853813247,
+      "operatingMargin": 0.32593302847027583,
+      "netMargin": 0.20891724443133206,
+      "roe": 0.24810581176367538,
+      "roic": 0.1848180677540778
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 28754000000.0,
+      "operatingIncome": 10596000000.0,
+      "netIncome": 480000000.0,
+      "eps": 0.38,
+      "freeCashFlow": 10305000000.0,
+      "totalDebt": 26711000000.0,
+      "cash": 9991000000.0,
+      "sharesOutstanding": 1246265857.0,
+      "grossMargin": 0.7826041594212979,
+      "operatingMargin": 0.36850525144327745,
+      "netMargin": 0.01669332962370453,
+      "roe": 0.024831867563372995,
+      "roic": 0.2301426988988076
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 29442000000.0,
+      "operatingIncome": 11701000000.0,
+      "netIncome": 8510000000.0,
+      "eps": 6.78,
+      "freeCashFlow": 9456000000.0,
+      "totalDebt": 24936000000.0,
+      "cash": 7564000000.0,
+      "sharesOutstanding": 1240679623.0,
+      "grossMargin": 0.7882616670063175,
+      "operatingMargin": 0.3974254466408532,
+      "netMargin": 0.2890428639358739,
+      "roe": 0.37485684080697734,
+      "roic": 0.24562324194970403
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:30.321432+00:00"
+  }
+}

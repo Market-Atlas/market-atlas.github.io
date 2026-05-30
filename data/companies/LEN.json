@@ -1,0 +1,128 @@
+{
+  "ticker": "LEN",
+  "name": "Lennar Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22112661504.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 89.78,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34186934000.0,
+    "operatingIncome": 2750407000.0,
+    "netIncome": 2078179000.0,
+    "eps": 7.98,
+    "freeCashFlow": 28183000.0,
+    "totalDebt": 5874995000.0,
+    "cash": 3756305000.0,
+    "sharesOutstanding": 298180468.0
+  },
+  "ratios": {
+    "roe": 0.09463725744631563,
+    "roic": 0.09881318850924532,
+    "grossMargin": 0.09907659458435202,
+    "operatingMargin": 0.0804519937353844,
+    "netMargin": 0.060788691960501635,
+    "debtToEquity": 0.24992
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-11-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-11-30",
+      "revenue": 33671010000.0,
+      "operatingIncome": 6787646000.0,
+      "netIncome": 4614125000.0,
+      "eps": 15.72,
+      "freeCashFlow": 3208454000.0,
+      "totalDebt": 6199136000.0,
+      "cash": 4778720000.0,
+      "sharesOutstanding": 292685362.0,
+      "grossMargin": 0.2138974744149344,
+      "operatingMargin": 0.20158724077477924,
+      "netMargin": 0.1370355388804791,
+      "roe": 0.19145349681541876,
+      "roic": 0.2240174106382004
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-11-30",
+      "revenue": 34233366000.0,
+      "operatingIncome": 5439646000.0,
+      "netIncome": 3938511000.0,
+      "eps": 13.73,
+      "freeCashFlow": 5079939000.0,
+      "totalDebt": 4984028000.0,
+      "cash": 6474497000.0,
+      "sharesOutstanding": 295076227.0,
+      "grossMargin": 0.1735436708151924,
+      "operatingMargin": 0.15889895255990896,
+      "netMargin": 0.1150488970322112,
+      "roe": 0.14817203212079277,
+      "roic": 0.1723332513429879
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-11-30",
+      "revenue": 35441452000.0,
+      "operatingIncome": 4849973000.0,
+      "netIncome": 3932533000.0,
+      "eps": 14.31,
+      "freeCashFlow": 2231876000.0,
+      "totalDebt": 4189239000.0,
+      "cash": 4909664000.0,
+      "sharesOutstanding": 296580668.0,
+      "grossMargin": 0.1551561431512456,
+      "operatingMargin": 0.136844647335555,
+      "netMargin": 0.11095857472205145,
+      "roe": 0.1411020434597823,
+      "roic": 0.15128096387658724
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-11-30",
+      "revenue": 34186934000.0,
+      "operatingIncome": 2750407000.0,
+      "netIncome": 2078179000.0,
+      "eps": 7.98,
+      "freeCashFlow": 28183000.0,
+      "totalDebt": 5874995000.0,
+      "cash": 3756305000.0,
+      "sharesOutstanding": 298180468.0,
+      "grossMargin": 0.09907659458435202,
+      "operatingMargin": 0.0804519937353844,
+      "netMargin": 0.060788691960501635,
+      "roe": 0.09463725744631563,
+      "roic": 0.09881318850924532
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.662247+00:00"
+  }
+}

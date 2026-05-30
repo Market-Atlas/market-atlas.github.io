@@ -1,0 +1,128 @@
+{
+  "ticker": "POLYCAB",
+  "name": "Polycab India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1426842451968.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9477.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 282695080000.0,
+    "operatingIncome": 37157340000.0,
+    "netIncome": 26720330000.0,
+    "eps": 176.95,
+    "freeCashFlow": 23301530000.0,
+    "totalDebt": 45011360000.0,
+    "cash": 3903430000.0,
+    "sharesOutstanding": 150550508.0
+  },
+  "ratios": {
+    "roe": 0.22251039590372748,
+    "roic": 0.22506352624443116,
+    "grossMargin": 0.21611041126007569,
+    "operatingMargin": 0.13143964160960991,
+    "netMargin": 0.09451996829941292,
+    "debtToEquity": 0.02558
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 139418900000.0,
+      "operatingIncome": 16433270000.0,
+      "netIncome": 12707830000.0,
+      "eps": 84.66,
+      "freeCashFlow": 9480680000.0,
+      "totalDebt": 13351030000.0,
+      "cash": 1527520000.0,
+      "sharesOutstanding": 149765278.0,
+      "grossMargin": 0.22389166748554176,
+      "operatingMargin": 0.11786974362873326,
+      "netMargin": 0.09114854585712553,
+      "roe": 0.19146351771159165,
+      "roic": 0.2061293401786935
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 177604140000.0,
+      "operatingIncome": 22613810000.0,
+      "netIncome": 17840450000.0,
+      "eps": 118.49,
+      "freeCashFlow": 4377210000.0,
+      "totalDebt": 20230590000.0,
+      "cash": 3070310000.0,
+      "sharesOutstanding": 150236395.0,
+      "grossMargin": 0.22647079060206593,
+      "operatingMargin": 0.12732704316464696,
+      "netMargin": 0.10045064264830764,
+      "roe": 0.21790836695722826,
+      "roic": 0.22148268891685005
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 220314190000.0,
+      "operatingIncome": 26700440000.0,
+      "netIncome": 20199900000.0,
+      "eps": 133.8,
+      "freeCashFlow": 8388000000.0,
+      "totalDebt": 15086740000.0,
+      "cash": 2173870000.0,
+      "sharesOutstanding": 150425898.0,
+      "grossMargin": 0.2127963704925225,
+      "operatingMargin": 0.12119255686617371,
+      "netMargin": 0.09168678603951928,
+      "roe": 0.20553303781877494,
+      "roic": 0.23552155123404644
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 282695080000.0,
+      "operatingIncome": 37157340000.0,
+      "netIncome": 26720330000.0,
+      "eps": 176.95,
+      "freeCashFlow": 23301530000.0,
+      "totalDebt": 45011360000.0,
+      "cash": 3903430000.0,
+      "sharesOutstanding": 150550508.0,
+      "grossMargin": 0.21611041126007569,
+      "operatingMargin": 0.13143964160960991,
+      "netMargin": 0.09451996829941292,
+      "roe": 0.22251039590372748,
+      "roic": 0.22506352624443116
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:43.730853+00:00"
+  }
+}

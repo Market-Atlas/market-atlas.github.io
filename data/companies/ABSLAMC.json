@@ -1,0 +1,128 @@
+{
+  "ticker": "ABSLAMC",
+  "name": "Aditya Birla Sun Life AMC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 307682246656.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1064.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18450300000.0,
+    "operatingIncome": 10589100000.0,
+    "netIncome": 9750700000.0,
+    "eps": null,
+    "freeCashFlow": 7644400000.0,
+    "totalDebt": 637300000.0,
+    "cash": 584000000.0,
+    "sharesOutstanding": 288806197.0
+  },
+  "ratios": {
+    "roe": 0.2412548309358036,
+    "roic": 0.25793164595811846,
+    "grossMargin": 0.7524701495368639,
+    "operatingMargin": 0.5739256272255736,
+    "netMargin": 0.5284846316862056,
+    "debtToEquity": 0.01577
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 23.29,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12266100000.0,
+      "operatingIncome": 6713600000.0,
+      "netIncome": 5963800000.0,
+      "eps": 20.65,
+      "freeCashFlow": 4183700000.0,
+      "totalDebt": 480300000.0,
+      "cash": 336100000.0,
+      "sharesOutstanding": 288000000.0,
+      "grossMargin": 0.7949470491843373,
+      "operatingMargin": 0.5473296320753948,
+      "netMargin": 0.4862018082357065,
+      "roe": 0.23694174390839853,
+      "roic": 0.26173675059063867
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13531900000.0,
+      "operatingIncome": 7278800000.0,
+      "netIncome": 7803600000.0,
+      "eps": 27.02,
+      "freeCashFlow": 6542300000.0,
+      "totalDebt": 790900000.0,
+      "cash": 391000000.0,
+      "sharesOutstanding": 288091213.0,
+      "grossMargin": 0.7631670349322711,
+      "operatingMargin": 0.5378993341659338,
+      "netMargin": 0.5766817667881081,
+      "roe": 0.2462573527555477,
+      "roic": 0.2241030551390561
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 16847800000.0,
+      "operatingIncome": 9491600000.0,
+      "netIncome": 9306000000.0,
+      "eps": 32.18,
+      "freeCashFlow": 6772000000.0,
+      "totalDebt": 680600000.0,
+      "cash": 436800000.0,
+      "sharesOutstanding": 288489286.0,
+      "grossMargin": 0.75530929854343,
+      "operatingMargin": 0.5633732594166597,
+      "netMargin": 0.5523569842946854,
+      "roe": 0.24970015052845954,
+      "roic": 0.250112650299215
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 18450300000.0,
+      "operatingIncome": 10589100000.0,
+      "netIncome": 9750700000.0,
+      "eps": null,
+      "freeCashFlow": 7644400000.0,
+      "totalDebt": 637300000.0,
+      "cash": 584000000.0,
+      "sharesOutstanding": 288806197.0,
+      "grossMargin": 0.7524701495368639,
+      "operatingMargin": 0.5739256272255736,
+      "netMargin": 0.5284846316862056,
+      "roe": 0.2412548309358036,
+      "roic": 0.25793164595811846
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:47.068864+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BKNG",
+  "name": "Booking Holdings Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 129737891840.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 167.43,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26917000000.0,
+    "operatingIncome": 9282000000.0,
+    "netIncome": 5404000000.0,
+    "eps": 6.6228,
+    "freeCashFlow": 9087000000.0,
+    "totalDebt": 19293000000.0,
+    "cash": 17203000000.0,
+    "sharesOutstanding": 1613028850.0
+  },
+  "ratios": {
+    "roe": -0.9688060236643958,
+    "roic": 0.6767772511848341,
+    "grossMargin": 0.86987,
+    "operatingMargin": 0.3448378348255749,
+    "netMargin": 0.20076531559980682,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17090000000.0,
+      "operatingIncome": 5102000000.0,
+      "netIncome": 3058000000.0,
+      "eps": 3.054,
+      "freeCashFlow": 6186000000.0,
+      "totalDebt": 13037000000.0,
+      "cash": 12221000000.0,
+      "sharesOutstanding": 1594513200.0,
+      "grossMargin": null,
+      "operatingMargin": 0.29853715623171445,
+      "netMargin": 0.1789350497366881,
+      "roe": 1.0992092020129403,
+      "roic": 0.3225235476325937
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21365000000.0,
+      "operatingIncome": 5835000000.0,
+      "netIncome": 4289000000.0,
+      "eps": 4.696,
+      "freeCashFlow": 6999000000.0,
+      "totalDebt": 14783000000.0,
+      "cash": 12107000000.0,
+      "sharesOutstanding": 1601200000.0,
+      "grossMargin": null,
+      "operatingMargin": 0.2731102270067868,
+      "netMargin": 0.2007488883688275,
+      "roe": -1.5630466472303206,
+      "roic": 0.48467480687764763
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23739000000.0,
+      "operatingIncome": 7555000000.0,
+      "netIncome": 5882000000.0,
+      "eps": 6.9076,
+      "freeCashFlow": 7894000000.0,
+      "totalDebt": 17081000000.0,
+      "cash": 16164000000.0,
+      "sharesOutstanding": 1606903250.0,
+      "grossMargin": null,
+      "operatingMargin": 0.3182526643919289,
+      "netMargin": 0.24777791819368972,
+      "roe": -1.4631840796019902,
+      "roic": 0.5784396294311308
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26917000000.0,
+      "operatingIncome": 9282000000.0,
+      "netIncome": 5404000000.0,
+      "eps": 6.6228,
+      "freeCashFlow": 9087000000.0,
+      "totalDebt": 19293000000.0,
+      "cash": 17203000000.0,
+      "sharesOutstanding": 1613028850.0,
+      "grossMargin": null,
+      "operatingMargin": 0.3448378348255749,
+      "netMargin": 0.20076531559980682,
+      "roe": -0.9688060236643958,
+      "roic": 0.6767772511848341
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:51.307690+00:00"
+  }
+}

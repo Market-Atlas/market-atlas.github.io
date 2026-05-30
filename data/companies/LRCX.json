@@ -1,0 +1,111 @@
+{
+  "ticker": "LRCX",
+  "name": "Lam Research Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 397906673664.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 318.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18435591000.0,
+    "operatingIncome": 5900968000.0,
+    "netIncome": 5358217000.0,
+    "eps": 4.15,
+    "freeCashFlow": 5414078000.0,
+    "totalDebt": 4484505000.0,
+    "cash": 6390659000.0,
+    "sharesOutstanding": 2956322000.0
+  },
+  "ratios": {
+    "roe": 0.5433405001754783,
+    "roic": 0.4113283838896137,
+    "grossMargin": 0.48705023885591736,
+    "operatingMargin": 0.32008564303688447,
+    "netMargin": 0.29064525243589967,
+    "debtToEquity": 0.35281999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 17227039000.0,
+      "operatingIncome": 5381822000.0,
+      "netIncome": 4605286000.0,
+      "eps": 3.275,
+      "freeCashFlow": 2553640000.0,
+      "totalDebt": 5005830000.0,
+      "cash": 3522001000.0,
+      "sharesOutstanding": 2940620000.0,
+      "grossMargin": 0.45694486440763266,
+      "operatingMargin": 0.3124055155386831,
+      "netMargin": 0.2673289356342666,
+      "roe": 0.7335166506699354,
+      "roic": 0.4769344665760857
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 17428516000.0,
+      "operatingIncome": 5217010000.0,
+      "netIncome": 4510931000.0,
+      "eps": 3.321,
+      "freeCashFlow": 4677370000.0,
+      "totalDebt": 5011541000.0,
+      "cash": 5337056000.0,
+      "sharesOutstanding": 2946770000.0,
+      "grossMargin": 0.4462184273176213,
+      "operatingMargin": 0.29933759133594623,
+      "netMargin": 0.25882473298357705,
+      "roe": 0.5494319729233443,
+      "roic": 0.39457897777693407
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 14905386000.0,
+      "operatingIncome": 4282100000.0,
+      "netIncome": 3827772000.0,
+      "eps": 2.9,
+      "freeCashFlow": 4255599000.0,
+      "totalDebt": 4983334000.0,
+      "cash": 5847856000.0,
+      "sharesOutstanding": 2952010000.0,
+      "grossMargin": 0.4731706377815375,
+      "operatingMargin": 0.28728541481582565,
+      "netMargin": 0.2568046208263241,
+      "roe": 0.44824552014683844,
+      "roic": 0.31665807376407884
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 18435591000.0,
+      "operatingIncome": 5900968000.0,
+      "netIncome": 5358217000.0,
+      "eps": 4.15,
+      "freeCashFlow": 5414078000.0,
+      "totalDebt": 4484505000.0,
+      "cash": 6390659000.0,
+      "sharesOutstanding": 2956322000.0,
+      "grossMargin": 0.48705023885591736,
+      "operatingMargin": 0.32008564303688447,
+      "netMargin": 0.29064525243589967,
+      "roe": 0.5433405001754783,
+      "roic": 0.4113283838896137
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:50.071948+00:00"
+  }
+}

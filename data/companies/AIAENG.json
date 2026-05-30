@@ -1,0 +1,128 @@
+{
+  "ticker": "AIAENG",
+  "name": "AIA Engineering Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 420277616640.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4503.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 43554828000.0,
+    "operatingIncome": 11435968000.0,
+    "netIncome": 12701582000.0,
+    "eps": 136.11,
+    "freeCashFlow": 4873522000.0,
+    "totalDebt": 102667000.0,
+    "cash": 2150640000.0,
+    "sharesOutstanding": 93320370.0
+  },
+  "ratios": {
+    "roe": 0.15826829596916062,
+    "roic": 0.1423160268380205,
+    "grossMargin": 0.54162048349726,
+    "operatingMargin": 0.2625648757010359,
+    "netMargin": 0.2916228253731136,
+    "debtToEquity": 0.00128
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 48517916000.0,
+      "operatingIncome": 11559051000.0,
+      "netIncome": 10559289000.0,
+      "eps": 111.95,
+      "freeCashFlow": 6729355000.0,
+      "totalDebt": 5025514000.0,
+      "cash": 3074767000.0,
+      "sharesOutstanding": 94320370.0,
+      "grossMargin": 0.5077746538000519,
+      "operatingMargin": 0.2382429410199729,
+      "netMargin": 0.21763690344820252,
+      "roe": 0.18553301989729634,
+      "roic": 0.18662059730145772
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 47834889000.0,
+      "operatingIncome": 12450711000.0,
+      "netIncome": 11355733000.0,
+      "eps": 120.4,
+      "freeCashFlow": 6919584000.0,
+      "totalDebt": 4610602000.0,
+      "cash": 1803270000.0,
+      "sharesOutstanding": 94320370.0,
+      "grossMargin": 0.503757268047596,
+      "operatingMargin": 0.26028514459393853,
+      "netMargin": 0.23739436293037075,
+      "roe": 0.1705643320297532,
+      "roic": 0.17489896228467988
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 42266227000.0,
+      "operatingIncome": 10461423000.0,
+      "netIncome": 10607360000.0,
+      "eps": 113.14,
+      "freeCashFlow": 10252412000.0,
+      "totalDebt": 4905682000.0,
+      "cash": 3971087000.0,
+      "sharesOutstanding": 93320370.0,
+      "grossMargin": 0.5176515992307522,
+      "operatingMargin": 0.24751258256385175,
+      "netMargin": 0.2509653866194397,
+      "roe": 0.15313068355840823,
+      "roic": 0.14103578119541252
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 43554828000.0,
+      "operatingIncome": 11435968000.0,
+      "netIncome": 12701582000.0,
+      "eps": 136.11,
+      "freeCashFlow": 4873522000.0,
+      "totalDebt": 102667000.0,
+      "cash": 2150640000.0,
+      "sharesOutstanding": 93320370.0,
+      "grossMargin": 0.54162048349726,
+      "operatingMargin": 0.2625648757010359,
+      "netMargin": 0.2916228253731136,
+      "roe": 0.15826829596916062,
+      "roic": 0.1423160268380205
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:50.128896+00:00"
+  }
+}

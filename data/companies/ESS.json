@@ -1,0 +1,128 @@
+{
+  "ticker": "ESS",
+  "name": "Essex Property Trust, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18792038400.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 272.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1887345000.0,
+    "operatingIncome": 601913000.0,
+    "netIncome": 669666000.0,
+    "eps": 10.4,
+    "freeCashFlow": 934075000.0,
+    "totalDebt": 6851756000.0,
+    "cash": 76241000.0,
+    "sharesOutstanding": 64442290.0
+  },
+  "ratios": {
+    "roe": 0.12084841082677719,
+    "roic": 0.04856828719916392,
+    "grossMargin": 0.6778342062526989,
+    "operatingMargin": 0.31892049413329304,
+    "netMargin": 0.35481907123498885,
+    "debtToEquity": 1.2185599999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1606814000.0,
+      "operatingIncome": 513181000.0,
+      "netIncome": 408315000.0,
+      "eps": 6.27,
+      "freeCashFlow": 812456000.0,
+      "totalDebt": 6026880000.0,
+      "cash": 33295000.0,
+      "sharesOutstanding": 64604603.0,
+      "grossMargin": 0.6838632225011732,
+      "operatingMargin": 0.3193779740530018,
+      "netMargin": 0.2541146641739492,
+      "roe": 0.07142904625521222,
+      "roic": 0.04370007558383317
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1669395000.0,
+      "operatingIncome": 525435000.0,
+      "netIncome": 405825000.0,
+      "eps": 6.32,
+      "freeCashFlow": 839693000.0,
+      "totalDebt": 6270826000.0,
+      "cash": 391749000.0,
+      "sharesOutstanding": 64203497.0,
+      "grossMargin": 0.6817104400097042,
+      "operatingMargin": 0.3147457611889337,
+      "netMargin": 0.24309705012893892,
+      "roe": 0.07483754540596221,
+      "roic": 0.044933660989131465
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1774450000.0,
+      "operatingIncome": 528513000.0,
+      "netIncome": 741522000.0,
+      "eps": 11.54,
+      "freeCashFlow": 931910000.0,
+      "totalDebt": 6654090000.0,
+      "cash": 66795000.0,
+      "sharesOutstanding": 64280466.0,
+      "grossMargin": 0.6805686268984756,
+      "operatingMargin": 0.2978460931556257,
+      "netMargin": 0.4178883597734509,
+      "roe": 0.1339201444235789,
+      "roic": 0.04335223559149861
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1887345000.0,
+      "operatingIncome": 601913000.0,
+      "netIncome": 669666000.0,
+      "eps": 10.4,
+      "freeCashFlow": 934075000.0,
+      "totalDebt": 6851756000.0,
+      "cash": 76241000.0,
+      "sharesOutstanding": 64442290.0,
+      "grossMargin": 0.6778342062526989,
+      "operatingMargin": 0.31892049413329304,
+      "netMargin": 0.35481907123498885,
+      "roe": 0.12084841082677719,
+      "roic": 0.04856828719916392
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:20.125826+00:00"
+  }
+}

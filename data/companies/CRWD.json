@@ -1,0 +1,128 @@
+{
+  "ticker": "CRWD",
+  "name": "CrowdStrike Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 186066206720.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 731.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4812005000.0,
+    "operatingIncome": -293292000.0,
+    "netIncome": -162502000.0,
+    "eps": null,
+    "freeCashFlow": 1241490000.0,
+    "totalDebt": 820077000.0,
+    "cash": 5230125000.0,
+    "sharesOutstanding": 253363000.0
+  },
+  "ratios": {
+    "roe": -0.0366955033319107,
+    "roic": -0.05588146024353397,
+    "grossMargin": 0.7466899972049074,
+    "operatingMargin": -0.06095006135696035,
+    "netMargin": -0.03377012284899953,
+    "debtToEquity": 0.18336
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.03,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 2241236000.0,
+      "operatingIncome": -190112000.0,
+      "netIncome": -183245000.0,
+      "eps": -0.79,
+      "freeCashFlow": 674570000.0,
+      "totalDebt": 783618000.0,
+      "cash": 2455369000.0,
+      "sharesOutstanding": 235777000.0,
+      "grossMargin": 0.7317413248760951,
+      "operatingMargin": -0.08482462355593075,
+      "netMargin": -0.08176068919114274,
+      "roe": -0.12519805061487072,
+      "roic": -0.08459728050927819
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 3055555000.0,
+      "operatingIncome": -19141000.0,
+      "netIncome": 72181000.0,
+      "eps": 0.37,
+      "freeCashFlow": 929095000.0,
+      "totalDebt": 792874000.0,
+      "cash": 3375069000.0,
+      "sharesOutstanding": 241865193.0,
+      "grossMargin": 0.7516231912042166,
+      "operatingMargin": -0.006264328411696075,
+      "netMargin": 0.023622877022341275,
+      "roe": 0.03132923891577508,
+      "roic": -0.006180848508019829
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 3953624000.0,
+      "operatingIncome": -116400000.0,
+      "netIncome": -15241000.0,
+      "eps": -0.08,
+      "freeCashFlow": 1067906000.0,
+      "totalDebt": 788901000.0,
+      "cash": 4323295000.0,
+      "sharesOutstanding": 247872000.0,
+      "grossMargin": 0.7495533212060631,
+      "operatingMargin": -0.029441342929929604,
+      "netMargin": -0.0038549442233252328,
+      "roe": -0.004647363282262447,
+      "roic": -0.028610791233397936
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 4812005000.0,
+      "operatingIncome": -293292000.0,
+      "netIncome": -162502000.0,
+      "eps": null,
+      "freeCashFlow": 1241490000.0,
+      "totalDebt": 820077000.0,
+      "cash": 5230125000.0,
+      "sharesOutstanding": 253363000.0,
+      "grossMargin": 0.7466899972049074,
+      "operatingMargin": -0.06095006135696035,
+      "netMargin": -0.03377012284899953,
+      "roe": -0.0366955033319107,
+      "roic": -0.05588146024353397
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:06.481505+00:00"
+  }
+}

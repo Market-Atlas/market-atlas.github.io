@@ -1,0 +1,128 @@
+{
+  "ticker": "CMCSA",
+  "name": "Comcast Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 88841330688.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.87,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 123707000000.0,
+    "operatingIncome": 20670000000.0,
+    "netIncome": 19998000000.0,
+    "eps": 5.39,
+    "freeCashFlow": 19235000000.0,
+    "totalDebt": 98937000000.0,
+    "cash": 9481000000.0,
+    "sharesOutstanding": 4523238982.0
+  },
+  "ratios": {
+    "roe": 0.20637131977338163,
+    "roic": 0.1055453431372549,
+    "grossMargin": 0.7174695045551182,
+    "operatingMargin": 0.16708836201670074,
+    "netMargin": 0.16165617143734792,
+    "debtToEquity": 1.06858
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 121427000000.0,
+      "operatingIncome": 22624000000.0,
+      "netIncome": 5370000000.0,
+      "eps": 1.21,
+      "freeCashFlow": 12646000000.0,
+      "totalDebt": 99983000000.0,
+      "cash": 4749000000.0,
+      "sharesOutstanding": 5092910420.0,
+      "grossMargin": 0.6853006333023133,
+      "operatingMargin": 0.18631770528795077,
+      "netMargin": 0.04422410172366936,
+      "roe": 0.06634298209851378,
+      "roic": 0.12504559875308138
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 121572000000.0,
+      "operatingIncome": 23313000000.0,
+      "netIncome": 15388000000.0,
+      "eps": 3.71,
+      "freeCashFlow": 12961000000.0,
+      "totalDebt": 97090000000.0,
+      "cash": 6215000000.0,
+      "sharesOutstanding": 4851553334.0,
+      "grossMargin": 0.6976112920738328,
+      "operatingMargin": 0.19176290593228704,
+      "netMargin": 0.126575198236436,
+      "roe": 0.1860633834322818,
+      "roic": 0.12966578231633044
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 123731000000.0,
+      "operatingIncome": 23298000000.0,
+      "netIncome": 16192000000.0,
+      "eps": 4.14,
+      "freeCashFlow": 12543000000.0,
+      "totalDebt": 99093000000.0,
+      "cash": 7322000000.0,
+      "sharesOutstanding": 4660537420.0,
+      "grossMargin": 0.7007540551680662,
+      "operatingMargin": 0.18829557669460362,
+      "netMargin": 0.1308645367773638,
+      "roe": 0.18924731182795698,
+      "roic": 0.12617179249727867
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 123707000000.0,
+      "operatingIncome": 20670000000.0,
+      "netIncome": 19998000000.0,
+      "eps": 5.39,
+      "freeCashFlow": 19235000000.0,
+      "totalDebt": 98937000000.0,
+      "cash": 9481000000.0,
+      "sharesOutstanding": 4523238982.0,
+      "grossMargin": 0.7174695045551182,
+      "operatingMargin": 0.16708836201670074,
+      "netMargin": 0.16165617143734792,
+      "roe": 0.20637131977338163,
+      "roic": 0.1055453431372549
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:01.056152+00:00"
+  }
+}

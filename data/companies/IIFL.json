@@ -1,0 +1,128 @@
+{
+  "ticker": "IIFL",
+  "name": "IIFL Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 198538919936.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 466.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 76564600000.0,
+    "operatingIncome": null,
+    "netIncome": 16608000000.0,
+    "eps": 38.75,
+    "freeCashFlow": -140571300000.0,
+    "totalDebt": 696980700000.0,
+    "cash": 63735000000.0,
+    "sharesOutstanding": 425227927.0
+  },
+  "ratios": {
+    "roe": 0.11931068767438986,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.39839,
+    "netMargin": 0.21691486666161647,
+    "debtToEquity": 4.4624
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 52051400000.0,
+      "operatingIncome": null,
+      "netIncome": 15003000000.0,
+      "eps": 38.054587,
+      "freeCashFlow": -54865400000.0,
+      "totalDebt": 400174200000.0,
+      "cash": 39511400000.0,
+      "sharesOutstanding": 391681100.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2882343222276442,
+      "roe": 0.16684719630429512,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 62699000000.0,
+      "operatingIncome": null,
+      "netIncome": 17635400000.0,
+      "eps": 45.71,
+      "freeCashFlow": -88462600000.0,
+      "totalDebt": 471357000000.0,
+      "cash": 26285500000.0,
+      "sharesOutstanding": 392832211.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2812708336656087,
+      "roe": 0.16579314260895234,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 57549900000.0,
+      "operatingIncome": null,
+      "netIncome": 3787700000.0,
+      "eps": 8.73,
+      "freeCashFlow": -48415300000.0,
+      "totalDebt": 515333600000.0,
+      "cash": 22909000000.0,
+      "sharesOutstanding": 424516570.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06581592670013328,
+      "roe": 0.030515968576053057,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 76564600000.0,
+      "operatingIncome": null,
+      "netIncome": 16608000000.0,
+      "eps": 38.75,
+      "freeCashFlow": -140571300000.0,
+      "totalDebt": 696980700000.0,
+      "cash": 63735000000.0,
+      "sharesOutstanding": 425227927.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21691486666161647,
+      "roe": 0.11931068767438986,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:59.548381+00:00"
+  }
+}

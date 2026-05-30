@@ -1,0 +1,128 @@
+{
+  "ticker": "CMS",
+  "name": "CMS Energy Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22418296832.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 72.57,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8539000000.0,
+    "operatingIncome": 1727000000.0,
+    "netIncome": 1071000000.0,
+    "eps": 3.462692,
+    "freeCashFlow": -1803000000.0,
+    "totalDebt": 18898000000.0,
+    "cash": 509000000.0,
+    "sharesOutstanding": 306409000.0
+  },
+  "ratios": {
+    "roe": 0.1171259842519685,
+    "roic": 0.06158619214036089,
+    "grossMargin": 0.4152711090291603,
+    "operatingMargin": 0.2022485068509193,
+    "netMargin": 0.12542452277784283,
+    "debtToEquity": 1.8984200000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8596000000.0,
+      "operatingIncome": 1224000000.0,
+      "netIncome": 837000000.0,
+      "eps": 2.838998,
+      "freeCashFlow": -1626000000.0,
+      "totalDebt": 14309000000.0,
+      "cash": 164000000.0,
+      "sharesOutstanding": 291300000.0,
+      "grossMargin": 0.321312238250349,
+      "operatingMargin": 0.14239181014425314,
+      "netMargin": 0.09737087017217311,
+      "roe": 0.11931575196008554,
+      "roic": 0.057400112549240295
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7462000000.0,
+      "operatingIncome": 1235000000.0,
+      "netIncome": 887000000.0,
+      "eps": 2.97894,
+      "freeCashFlow": -1077000000.0,
+      "totalDebt": 15643000000.0,
+      "cash": 227000000.0,
+      "sharesOutstanding": 294400000.0,
+      "grossMargin": 0.38354328598231036,
+      "operatingMargin": 0.16550522648083624,
+      "netMargin": 0.11886893594210668,
+      "roe": 0.11757688229056204,
+      "roic": 0.05326260404537025
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7515000000.0,
+      "operatingIncome": 1487000000.0,
+      "netIncome": 1003000000.0,
+      "eps": 3.323462,
+      "freeCashFlow": -808000000.0,
+      "totalDebt": 16566000000.0,
+      "cash": 103000000.0,
+      "sharesOutstanding": 298784865.0,
+      "grossMargin": 0.4270126413838989,
+      "operatingMargin": 0.1978709248170326,
+      "netMargin": 0.1334664005322688,
+      "roe": 0.1218712029161604,
+      "roic": 0.05996934989514438
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8539000000.0,
+      "operatingIncome": 1727000000.0,
+      "netIncome": 1071000000.0,
+      "eps": 3.462692,
+      "freeCashFlow": -1803000000.0,
+      "totalDebt": 18898000000.0,
+      "cash": 509000000.0,
+      "sharesOutstanding": 306409000.0,
+      "grossMargin": 0.4152711090291603,
+      "operatingMargin": 0.2022485068509193,
+      "netMargin": 0.12542452277784283,
+      "roe": 0.1171259842519685,
+      "roic": 0.06158619214036089
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:02.219781+00:00"
+  }
+}

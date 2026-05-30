@@ -1,0 +1,128 @@
+{
+  "ticker": "STX",
+  "name": "Seagate Technology Holdings plc",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 197276663808.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 879.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9097000000.0,
+    "operatingIncome": 1915000000.0,
+    "netIncome": 1469000000.0,
+    "eps": null,
+    "freeCashFlow": 818000000.0,
+    "totalDebt": 4995000000.0,
+    "cash": 891000000.0,
+    "sharesOutstanding": 212668547.0
+  },
+  "ratios": {
+    "roe": -3.2428256070640176,
+    "roic": 0.42162043152796125,
+    "grossMargin": 0.3517643179070023,
+    "operatingMargin": 0.21050895899747168,
+    "netMargin": 0.16148180718918326,
+    "debtToEquity": 3.81553
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.36,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 11661000000.0,
+      "operatingIncome": 1958000000.0,
+      "netIncome": 1649000000.0,
+      "eps": 7.36,
+      "freeCashFlow": 1276000000.0,
+      "totalDebt": 5696000000.0,
+      "cash": 615000000.0,
+      "sharesOutstanding": 209850169.0,
+      "grossMargin": 0.2974873509990567,
+      "operatingMargin": 0.1679101277763485,
+      "netMargin": 0.1414115427493354,
+      "roe": 15.128440366972477,
+      "roic": 0.3372954349698536
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 7384000000.0,
+      "operatingIncome": 60000000.0,
+      "netIncome": -529000000.0,
+      "eps": -2.56,
+      "freeCashFlow": 626000000.0,
+      "totalDebt": 5451000000.0,
+      "cash": 786000000.0,
+      "sharesOutstanding": 207389381.0,
+      "grossMargin": 0.1829631635969664,
+      "operatingMargin": 0.008125677139761646,
+      "netMargin": -0.07164138678223185,
+      "roe": 0.44120100083402836,
+      "roic": 0.014111006585136407
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 6551000000.0,
+      "operatingIncome": 422000000.0,
+      "netIncome": 335000000.0,
+      "eps": 1.58,
+      "freeCashFlow": 664000000.0,
+      "totalDebt": 5674000000.0,
+      "cash": 1358000000.0,
+      "sharesOutstanding": 210182269.0,
+      "grossMargin": 0.23446802014959547,
+      "operatingMargin": 0.06441764616089146,
+      "netMargin": 0.05113723095710578,
+      "roe": -0.22468142186452045,
+      "roic": 0.10088453263208223
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 9097000000.0,
+      "operatingIncome": 1915000000.0,
+      "netIncome": 1469000000.0,
+      "eps": null,
+      "freeCashFlow": 818000000.0,
+      "totalDebt": 4995000000.0,
+      "cash": 891000000.0,
+      "sharesOutstanding": 212668547.0,
+      "grossMargin": 0.3517643179070023,
+      "operatingMargin": 0.21050895899747168,
+      "netMargin": 0.16148180718918326,
+      "roe": -3.2428256070640176,
+      "roic": 0.42162043152796125
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:22.896491+00:00"
+  }
+}

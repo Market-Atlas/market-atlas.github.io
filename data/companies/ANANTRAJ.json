@@ -1,0 +1,128 @@
+{
+  "ticker": "ANANTRAJ",
+  "name": "Anant Raj Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 185030737920.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 514.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25116000000.0,
+    "operatingIncome": 6068100000.0,
+    "netIncome": 5548500000.0,
+    "eps": 15.81,
+    "freeCashFlow": -6374800000.0,
+    "totalDebt": 6805400000.0,
+    "cash": 8994600000.0,
+    "sharesOutstanding": 359876930.0
+  },
+  "ratios": {
+    "roe": 0.09585037080800386,
+    "roic": 0.09379912663755459,
+    "grossMargin": 0.3011904761904762,
+    "operatingMargin": 0.24160296225513617,
+    "netMargin": 0.22091495461060678,
+    "debtToEquity": 0.11696
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 9569427000.0,
+      "operatingIncome": 1805512000.0,
+      "netIncome": 1511163000.0,
+      "eps": 4.662697,
+      "freeCashFlow": -89257000.0,
+      "totalDebt": 10794581000.0,
+      "cash": 340633000.0,
+      "sharesOutstanding": 324096335.0,
+      "grossMargin": 0.25847148423829347,
+      "operatingMargin": 0.1886750377007944,
+      "netMargin": 0.15791572473461576,
+      "roe": 0.05349098646668269,
+      "roic": 0.0462413758678428
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14832966000.0,
+      "operatingIncome": 3157494000.0,
+      "netIncome": 2659262000.0,
+      "eps": 8.117701,
+      "freeCashFlow": -694776000.0,
+      "totalDebt": 6267441000.0,
+      "cash": 3050094000.0,
+      "sharesOutstanding": 341890753.0,
+      "grossMargin": 0.27191392469988807,
+      "operatingMargin": 0.21287003556807182,
+      "netMargin": 0.17928052959873297,
+      "roe": 0.07272983364723871,
+      "roic": 0.07371981876867427
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 20599700000.0,
+      "operatingIncome": 4612100000.0,
+      "netIncome": 4255400000.0,
+      "eps": 12.43,
+      "freeCashFlow": 1763300000.0,
+      "totalDebt": 4815963000.0,
+      "cash": 3300197000.0,
+      "sharesOutstanding": 343260616.0,
+      "grossMargin": 0.28021767307290885,
+      "operatingMargin": 0.22389161007199135,
+      "netMargin": 0.2065758239197658,
+      "roe": 0.10227395272964912,
+      "roic": 0.09934770555288212
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 25116000000.0,
+      "operatingIncome": 6068100000.0,
+      "netIncome": 5548500000.0,
+      "eps": 15.81,
+      "freeCashFlow": -6374800000.0,
+      "totalDebt": 6805400000.0,
+      "cash": 8994600000.0,
+      "sharesOutstanding": 359876930.0,
+      "grossMargin": 0.3011904761904762,
+      "operatingMargin": 0.24160296225513617,
+      "netMargin": 0.22091495461060678,
+      "roe": 0.09585037080800386,
+      "roic": 0.09379912663755459
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:52.601744+00:00"
+  }
+}

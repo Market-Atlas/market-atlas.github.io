@@ -1,0 +1,128 @@
+{
+  "ticker": "INDHOTEL",
+  "name": "The Indian Hotels Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "INR",
+  "marketCap": {
+    "value": 931280519168.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 654.25,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 96892200000.0,
+    "operatingIncome": 25894900000.0,
+    "netIncome": 20843800000.0,
+    "eps": null,
+    "freeCashFlow": 14348300000.0,
+    "totalDebt": 28365500000.0,
+    "cash": 4063300000.0,
+    "sharesOutstanding": 1423432227.0
+  },
+  "ratios": {
+    "roe": 0.15969458232999725,
+    "roic": 0.16297539656765378,
+    "grossMargin": 0.6452201518801307,
+    "operatingMargin": 0.26725474289984125,
+    "netMargin": 0.21512361160134666,
+    "debtToEquity": 0.18986999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.97,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 55820500000.0,
+      "operatingIncome": 13887800000.0,
+      "netIncome": 10025900000.0,
+      "eps": 7.06,
+      "freeCashFlow": 11296500000.0,
+      "totalDebt": 31390100000.0,
+      "cash": 7363900000.0,
+      "sharesOutstanding": 1420400342.0,
+      "grossMargin": 0.5954532832919806,
+      "operatingMargin": 0.2487939018819251,
+      "netMargin": 0.17960964161911844,
+      "roe": 0.1256069937709535,
+      "roic": 0.12487939451324839
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 65042100000.0,
+      "operatingIncome": 17055200000.0,
+      "netIncome": 12590700000.0,
+      "eps": 8.86,
+      "freeCashFlow": 12841800000.0,
+      "totalDebt": 27357900000.0,
+      "cash": 4793400000.0,
+      "sharesOutstanding": 1423432227.0,
+      "grossMargin": 0.6057584241591215,
+      "operatingMargin": 0.26221785581953844,
+      "netMargin": 0.19357769813705278,
+      "roe": 0.1331412286591975,
+      "roic": 0.1398834031580225
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 83345400000.0,
+      "operatingIncome": 22511700000.0,
+      "netIncome": 19075900000.0,
+      "eps": 13.4,
+      "freeCashFlow": 11202500000.0,
+      "totalDebt": 30842700000.0,
+      "cash": 2569100000.0,
+      "sharesOutstanding": 1423432227.0,
+      "grossMargin": 0.6491192075387484,
+      "operatingMargin": 0.2701012893333045,
+      "netMargin": 0.22887765851504702,
+      "roe": 0.17092012963332978,
+      "roic": 0.15803251391016343
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 96892200000.0,
+      "operatingIncome": 25894900000.0,
+      "netIncome": 20843800000.0,
+      "eps": null,
+      "freeCashFlow": 14348300000.0,
+      "totalDebt": 28365500000.0,
+      "cash": 4063300000.0,
+      "sharesOutstanding": 1423432227.0,
+      "grossMargin": 0.6452201518801307,
+      "operatingMargin": 0.26725474289984125,
+      "netMargin": 0.21512361160134666,
+      "roe": 0.15969458232999725,
+      "roic": 0.16297539656765378
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:00.367471+00:00"
+  }
+}

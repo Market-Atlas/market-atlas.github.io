@@ -1,0 +1,128 @@
+{
+  "ticker": "HEROMOTOCO",
+  "name": "Hero MotoCorp Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 981055700992.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4903.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 474112400000.0,
+    "operatingIncome": 60711400000.0,
+    "netIncome": 57417300000.0,
+    "eps": 286.72,
+    "freeCashFlow": 72145200000.0,
+    "totalDebt": 7786100000.0,
+    "cash": 6867100000.0,
+    "sharesOutstanding": 200089777.0
+  },
+  "ratios": {
+    "roe": 0.2656831946783125,
+    "roic": 0.2711565087673852,
+    "grossMargin": 0.3318173074570503,
+    "operatingMargin": 0.1280527571099174,
+    "netMargin": 0.121104826619173,
+    "debtToEquity": 0.035699999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 337377200000.0,
+      "operatingIncome": 34485600000.0,
+      "netIncome": 28099600000.0,
+      "eps": 140.49,
+      "freeCashFlow": 20095900000.0,
+      "totalDebt": 5675400000.0,
+      "cash": 2263000000.0,
+      "sharesOutstanding": 199839718.0,
+      "grossMargin": 0.2876104253636582,
+      "operatingMargin": 0.10221674730835398,
+      "netMargin": 0.08328837870490359,
+      "roe": 0.16870992706944282,
+      "roic": 0.20022864627816928
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 375990300000.0,
+      "operatingIncome": 45856300000.0,
+      "netIncome": 37448300000.0,
+      "eps": 187.04,
+      "freeCashFlow": 41351800000.0,
+      "totalDebt": 6064100000.0,
+      "cash": 6049100000.0,
+      "sharesOutstanding": 199921741.0,
+      "grossMargin": 0.3182603380991478,
+      "operatingMargin": 0.1219613910252472,
+      "netMargin": 0.09959911199836805,
+      "roe": 0.2115852266691979,
+      "roic": 0.2505079121763989
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 409234200000.0,
+      "operatingIncome": 51212500000.0,
+      "netIncome": 43784800000.0,
+      "eps": 218.69,
+      "freeCashFlow": 34409600000.0,
+      "totalDebt": 6999300000.0,
+      "cash": 3835500000.0,
+      "sharesOutstanding": 200010836.0,
+      "grossMargin": 0.34241468577161926,
+      "operatingMargin": 0.1251422779425571,
+      "netMargin": 0.10699203536752305,
+      "roe": 0.22719338482070398,
+      "roic": 0.25642187525817434
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 474112400000.0,
+      "operatingIncome": 60711400000.0,
+      "netIncome": 57417300000.0,
+      "eps": 286.72,
+      "freeCashFlow": 72145200000.0,
+      "totalDebt": 7786100000.0,
+      "cash": 6867100000.0,
+      "sharesOutstanding": 200089777.0,
+      "grossMargin": 0.3318173074570503,
+      "operatingMargin": 0.1280527571099174,
+      "netMargin": 0.121104826619173,
+      "roe": 0.2656831946783125,
+      "roic": 0.2711565087673852
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:30.673166+00:00"
+  }
+}

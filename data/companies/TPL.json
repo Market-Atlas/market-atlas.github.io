@@ -1,0 +1,128 @@
+{
+  "ticker": "TPL",
+  "name": "Texas Pacific Land Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27106951168.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 393.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 798190000.0,
+    "operatingIncome": 592161000.0,
+    "netIncome": 481376000.0,
+    "eps": 6.97,
+    "freeCashFlow": 32135000.0,
+    "totalDebt": 16175000.0,
+    "cash": 144809000.0,
+    "sharesOutstanding": 69258228.0
+  },
+  "ratios": {
+    "roe": 0.3299566044991216,
+    "roic": 0.4014427672495495,
+    "grossMargin": 0.8545947706686378,
+    "operatingMargin": 0.741879752941029,
+    "netMargin": 0.6030844786329069,
+    "debtToEquity": 0.011559999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 667422000.0,
+      "operatingIncome": 562307000.0,
+      "netIncome": 446362000.0,
+      "eps": 6.418889,
+      "freeCashFlow": 426275000.0,
+      "totalDebt": 1955000.0,
+      "cash": 510834000.0,
+      "sharesOutstanding": 69805404.0,
+      "grossMargin": 0.9507972467194669,
+      "operatingMargin": 0.8425059407691086,
+      "netMargin": 0.6687852662932897,
+      "roe": 0.5775255632453385,
+      "roic": 0.7257053696108368
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 631595000.0,
+      "operatingIncome": 486053000.0,
+      "netIncome": 405645000.0,
+      "eps": 5.863333,
+      "freeCashFlow": 378291000.0,
+      "totalDebt": 1170000.0,
+      "cash": 725169000.0,
+      "sharesOutstanding": 69805404.0,
+      "grossMargin": 0.9234905279490813,
+      "operatingMargin": 0.7695643569059286,
+      "netMargin": 0.6422549260206303,
+      "roe": 0.38884830846744045,
+      "roic": 0.46540484849181224
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 705823000.0,
+      "operatingIncome": 539138000.0,
+      "netIncome": 453960000.0,
+      "eps": 6.573333,
+      "freeCashFlow": 65399000.0,
+      "totalDebt": 453000.0,
+      "cash": 369835000.0,
+      "sharesOutstanding": 69258228.0,
+      "grossMargin": 0.8990030078362422,
+      "operatingMargin": 0.7638430598039452,
+      "netMargin": 0.6431640793796745,
+      "roe": 0.40086007073066277,
+      "roic": 0.47588439763513335
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 798190000.0,
+      "operatingIncome": 592161000.0,
+      "netIncome": 481376000.0,
+      "eps": 6.97,
+      "freeCashFlow": 32135000.0,
+      "totalDebt": 16175000.0,
+      "cash": 144809000.0,
+      "sharesOutstanding": 69258228.0,
+      "grossMargin": 0.8545947706686378,
+      "operatingMargin": 0.741879752941029,
+      "netMargin": 0.6030844786329069,
+      "roe": 0.3299566044991216,
+      "roic": 0.4014427672495495
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:27.757651+00:00"
+  }
+}

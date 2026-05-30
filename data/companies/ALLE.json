@@ -1,0 +1,128 @@
+{
+  "ticker": "ALLE",
+  "name": "Allegion plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Security & Protection Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11177678848.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 130.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4067300000.0,
+    "operatingIncome": 859500000.0,
+    "netIncome": 643800000.0,
+    "eps": 7.44,
+    "freeCashFlow": 685700000.0,
+    "totalDebt": 1980100000.0,
+    "cash": 356200000.0,
+    "sharesOutstanding": 86066997.0
+  },
+  "ratios": {
+    "roe": 0.3113755078351712,
+    "roic": 0.21234281196729007,
+    "grossMargin": 0.4519705947434416,
+    "operatingMargin": 0.21131954859489097,
+    "netMargin": 0.158286824183119,
+    "debtToEquity": 1.05863
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3271900000.0,
+      "operatingIncome": 586400000.0,
+      "netIncome": 458000000.0,
+      "eps": 5.19,
+      "freeCashFlow": 395500000.0,
+      "totalDebt": 2094500000.0,
+      "cash": 288000000.0,
+      "sharesOutstanding": 87852777.0,
+      "grossMargin": 0.4041688315657569,
+      "operatingMargin": 0.17922308139001802,
+      "netMargin": 0.13997982823435923,
+      "roe": 0.48630282437884903,
+      "roic": 0.1931297961334519
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3650800000.0,
+      "operatingIncome": 715900000.0,
+      "netIncome": 540400000.0,
+      "eps": 6.12,
+      "freeCashFlow": 516400000.0,
+      "totalDebt": 2015000000.0,
+      "cash": 468100000.0,
+      "sharesOutstanding": 87504673.0,
+      "grossMargin": 0.4331927248822176,
+      "operatingMargin": 0.19609400679303166,
+      "netMargin": 0.14802235126547605,
+      "roe": 0.4099218690738072,
+      "roic": 0.2147721477214772
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3772200000.0,
+      "operatingIncome": 780700000.0,
+      "netIncome": 597500000.0,
+      "eps": 6.82,
+      "freeCashFlow": 582900000.0,
+      "totalDebt": 1999500000.0,
+      "cash": 503800000.0,
+      "sharesOutstanding": 86254744.0,
+      "grossMargin": 0.44231482954244206,
+      "operatingMargin": 0.2069614548539314,
+      "netMargin": 0.15839563119664918,
+      "roe": 0.39814753115212903,
+      "roic": 0.22304439746300211
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4067300000.0,
+      "operatingIncome": 859500000.0,
+      "netIncome": 643800000.0,
+      "eps": 7.44,
+      "freeCashFlow": 685700000.0,
+      "totalDebt": 1980100000.0,
+      "cash": 356200000.0,
+      "sharesOutstanding": 86066997.0,
+      "grossMargin": 0.4519705947434416,
+      "operatingMargin": 0.21131954859489097,
+      "netMargin": 0.158286824183119,
+      "roe": 0.3113755078351712,
+      "roic": 0.21234281196729007
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:42.218641+00:00"
+  }
+}

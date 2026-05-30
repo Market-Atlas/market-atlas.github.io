@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://project-atlas.dev/schemas/company.schema.json",
+  "title": "Company",
+  "type": "object",
+  "required": [
+    "ticker", "name", "country", "exchange", "currency",
+    "fundamentals", "ratios", "historicalFinancials"
+  ],
+  "properties": {
+    "ticker":   { "type": "string", "description": "Exchange ticker, e.g. MSFT, 7203, RELIANCE" },
+    "name":     { "type": "string" },
+    "country":  { "type": "string", "description": "ISO 3166-1 alpha-2, e.g. US, IN, JP" },
+    "exchange": { "type": "string", "description": "MIC or common code, e.g. XNAS, XTKS, XNSE" },
+    "sector":   { "type": "string" },
+    "industry": { "type": "string" },
+    "currency": { "type": "string", "description": "ISO 4217 reporting currency, e.g. USD, JPY, INR" },
+    "marketCap": {
+      "type": "object",
+      "required": ["value", "currency", "asOf"],
+      "properties": {
+        "value":    { "type": "number" },
+        "currency": { "type": "string" },
+        "asOf":     { "type": "string", "format": "date" }
+      }
+    },
+
+    "price": {
+      "type": "object",
+      "description": "Latest reference price. NOT real-time — refreshed by the nightly pipeline.",
+      "properties": {
+        "value":    { "type": ["number", "null"] },
+        "currency": { "type": "string" },
+        "asOf":     { "type": "string", "format": "date" }
+      }
+    },
+
+    "fundamentals": {
+      "type": "object",
+      "description": "Latest reported annual figures, in reporting currency.",
+      "properties": {
+        "revenue":            { "type": ["number", "null"] },
+        "operatingIncome":    { "type": ["number", "null"] },
+        "netIncome":          { "type": ["number", "null"] },
+        "eps":                { "type": ["number", "null"] },
+        "freeCashFlow":       { "type": ["number", "null"] },
+        "totalDebt":          { "type": ["number", "null"] },
+        "cash":               { "type": ["number", "null"] },
+        "sharesOutstanding":  { "type": ["number", "null"] }
+      }
+    },
+
+    "ratios": {
+      "type": "object",
+      "properties": {
+        "roe":             { "type": ["number", "null"] },
+        "roic":            { "type": ["number", "null"] },
+        "grossMargin":     { "type": ["number", "null"] },
+        "operatingMargin": { "type": ["number", "null"] },
+        "netMargin":       { "type": ["number", "null"] },
+        "debtToEquity":    { "type": ["number", "null"] }
+      }
+    },
+
+    "historicalFinancials": {
+      "type": "array",
+      "description": "One entry per fiscal year, oldest first. Stored in reporting currency.",
+      "items": {
+        "type": "object",
+        "required": ["fiscalYear"],
+        "properties": {
+          "fiscalYear":         { "type": "integer" },
+          "periodEnd":          { "type": "string", "format": "date" },
+          "revenue":            { "type": ["number", "null"] },
+          "operatingIncome":    { "type": ["number", "null"] },
+          "netIncome":          { "type": ["number", "null"] },
+          "eps":                { "type": ["number", "null"] },
+          "freeCashFlow":       { "type": ["number", "null"] },
+          "totalDebt":          { "type": ["number", "null"] },
+          "cash":               { "type": ["number", "null"] },
+          "sharesOutstanding":  { "type": ["number", "null"] },
+          "roe":                { "type": ["number", "null"] },
+          "roic":               { "type": ["number", "null"] },
+          "grossMargin":        { "type": ["number", "null"] },
+          "operatingMargin":    { "type": ["number", "null"] },
+          "netMargin":          { "type": ["number", "null"] }
+        }
+      }
+    },
+
+    "meta": {
+      "type": "object",
+      "properties": {
+        "source":      { "type": "string" },
+        "lastUpdated": { "type": "string", "format": "date-time" }
+      }
+    }
+  }
+}

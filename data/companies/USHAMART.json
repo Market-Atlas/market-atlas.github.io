@@ -1,0 +1,111 @@
+{
+  "ticker": "USHAMART",
+  "name": "Usha Martin Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 154041761792.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 506.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33832700000.0,
+    "operatingIncome": 5060000000.0,
+    "netIncome": 4073900000.0,
+    "eps": 13.37,
+    "freeCashFlow": 1771100000.0,
+    "totalDebt": 4167100000.0,
+    "cash": 2607200000.0,
+    "sharesOutstanding": 304741780.0
+  },
+  "ratios": {
+    "roe": 0.14804061223599865,
+    "roic": 0.15969248151385948,
+    "grossMargin": 0.46204411708199467,
+    "operatingMargin": 0.14955944988132783,
+    "netMargin": 0.12041309147658921,
+    "debtToEquity": 0.06922
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 26237800000.0,
+      "operatingIncome": 3286700000.0,
+      "netIncome": 2912700000.0,
+      "eps": 9.56,
+      "freeCashFlow": 1074500000.0,
+      "totalDebt": 4113900000.0,
+      "cash": 1543800000.0,
+      "sharesOutstanding": 304741780.0,
+      "grossMargin": 0.4167803703054372,
+      "operatingMargin": 0.12526583783701378,
+      "netMargin": 0.11101159395985943,
+      "roe": 0.17197565051043,
+      "roic": 0.15613331686507748
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 31873600000.0,
+      "operatingIncome": 4541500000.0,
+      "netIncome": 3501400000.0,
+      "eps": 11.51,
+      "freeCashFlow": 692600000.0,
+      "totalDebt": 4165400000.0,
+      "cash": 1501600000.0,
+      "sharesOutstanding": 304742010.0,
+      "grossMargin": 0.4174238241052156,
+      "operatingMargin": 0.14248468952361829,
+      "netMargin": 0.10985266803875307,
+      "roe": 0.17241820796155133,
+      "roic": 0.18557185469701304
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 31379900000.0,
+      "operatingIncome": 5280700000.0,
+      "netIncome": 4239600000.0,
+      "eps": 13.92,
+      "freeCashFlow": 1662200000.0,
+      "totalDebt": 3638300000.0,
+      "cash": 1497800000.0,
+      "sharesOutstanding": 304742010.0,
+      "grossMargin": 0.45945334433825474,
+      "operatingMargin": 0.16828288171727762,
+      "netMargin": 0.13510559307072362,
+      "roe": 0.17815915652170258,
+      "roic": 0.19248040823765264
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 33832700000.0,
+      "operatingIncome": 5060000000.0,
+      "netIncome": 4073900000.0,
+      "eps": 13.37,
+      "freeCashFlow": 1771100000.0,
+      "totalDebt": 4167100000.0,
+      "cash": 2607200000.0,
+      "sharesOutstanding": 304741780.0,
+      "grossMargin": 0.46204411708199467,
+      "operatingMargin": 0.14955944988132783,
+      "netMargin": 0.12041309147658921,
+      "roe": 0.14804061223599865,
+      "roic": 0.15969248151385948
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:12.996173+00:00"
+  }
+}

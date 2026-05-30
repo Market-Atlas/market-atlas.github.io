@@ -1,0 +1,128 @@
+{
+  "ticker": "LT",
+  "name": "Larsen & Toubro Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 5607911325696.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4076.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2842251900000.0,
+    "operatingIncome": 270705700000.0,
+    "netIncome": 160839900000.0,
+    "eps": 116.88,
+    "freeCashFlow": 119317800000.0,
+    "totalDebt": 1254970400000.0,
+    "cash": 153912400000.0,
+    "sharesOutstanding": 1375632190.0
+  },
+  "ratios": {
+    "roe": 0.14716826272900124,
+    "roic": 0.11529849799077324,
+    "grossMargin": 0.3207891249892383,
+    "operatingMargin": 0.09524338782217016,
+    "netMargin": 0.05658889699396454,
+    "debtToEquity": 0.9764
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1816614200000.0,
+      "operatingIncome": 195014800000.0,
+      "netIncome": 104707200000.0,
+      "eps": 74.45,
+      "freeCashFlow": 186331700000.0,
+      "totalDebt": 1206504400000.0,
+      "cash": 169266900000.0,
+      "sharesOutstanding": 1405482190.0,
+      "grossMargin": 0.3580625429439008,
+      "operatingMargin": 0.10735069669718535,
+      "netMargin": 0.057638655472361716,
+      "roe": 0.1172192403215415,
+      "roic": 0.092874632238415
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2191156900000.0,
+      "operatingIncome": 217310800000.0,
+      "netIncome": 130591100000.0,
+      "eps": 93.88,
+      "freeCashFlow": 137497500000.0,
+      "totalDebt": 1163222200000.0,
+      "cash": 119585000000.0,
+      "sharesOutstanding": 1374668619.0,
+      "grossMargin": 0.3327160642854923,
+      "operatingMargin": 0.09917628445502921,
+      "netMargin": 0.059599155131245966,
+      "roe": 0.15121844518316743,
+      "roic": 0.10721789748307517
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2542086500000.0,
+      "operatingIncome": 264779500000.0,
+      "netIncome": 150371100000.0,
+      "eps": 109.28,
+      "freeCashFlow": 47325200000.0,
+      "totalDebt": 1324089200000.0,
+      "cash": 121870000000.0,
+      "sharesOutstanding": 1375192165.0,
+      "grossMargin": 0.32665985205460163,
+      "operatingMargin": 0.10415833607550333,
+      "netMargin": 0.05915262914932281,
+      "roe": 0.15398103129774432,
+      "roic": 0.1150892367062944
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 2842251900000.0,
+      "operatingIncome": 270705700000.0,
+      "netIncome": 160839900000.0,
+      "eps": 116.88,
+      "freeCashFlow": 119317800000.0,
+      "totalDebt": 1254970400000.0,
+      "cash": 153912400000.0,
+      "sharesOutstanding": 1375632190.0,
+      "grossMargin": 0.3207891249892383,
+      "operatingMargin": 0.09524338782217016,
+      "netMargin": 0.05658889699396454,
+      "roe": 0.14716826272900124,
+      "roic": 0.11529849799077324
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:25.751870+00:00"
+  }
+}

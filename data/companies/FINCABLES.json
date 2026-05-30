@@ -1,0 +1,128 @@
+{
+  "ticker": "FINCABLES",
+  "name": "Finolex Cables Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 173784989696.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1136.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 63210100000.0,
+    "operatingIncome": 5601000000.0,
+    "netIncome": 7137200000.0,
+    "eps": 46.67,
+    "freeCashFlow": -1052000000.0,
+    "totalDebt": 191400000.0,
+    "cash": 1631300000.0,
+    "sharesOutstanding": 152939345.0
+  },
+  "ratios": {
+    "roe": 0.11727474087560057,
+    "roic": 0.09174417119026637,
+    "grossMargin": 0.18525995054587796,
+    "operatingMargin": 0.08860925706493109,
+    "netMargin": 0.11291233521225247,
+    "debtToEquity": 0.00377
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 44102800000.0,
+      "operatingIncome": 4651600000.0,
+      "netIncome": 5042800000.0,
+      "eps": 32.97,
+      "freeCashFlow": 3252900000.0,
+      "totalDebt": 136100000.0,
+      "cash": 674100000.0,
+      "sharesOutstanding": 152939345.0,
+      "grossMargin": 0.18874085092102996,
+      "operatingMargin": 0.10547176143011328,
+      "netMargin": 0.11434194654307663,
+      "roe": 0.11538637549309438,
+      "roic": 0.10610474068025101
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 49368100000.0,
+      "operatingIncome": 5451600000.0,
+      "netIncome": 6516900000.0,
+      "eps": 42.61,
+      "freeCashFlow": 3582700000.0,
+      "totalDebt": 180600000.0,
+      "cash": 930800000.0,
+      "sharesOutstanding": 152939345.0,
+      "grossMargin": 0.19285530534900067,
+      "operatingMargin": 0.11042758380411642,
+      "netMargin": 0.13200629556332935,
+      "roe": 0.1317647486989118,
+      "roic": 0.10982449354542378
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 53188900000.0,
+      "operatingIncome": 4946700000.0,
+      "netIncome": 7007700000.0,
+      "eps": 45.82,
+      "freeCashFlow": -291800000.0,
+      "totalDebt": 199900000.0,
+      "cash": 901300000.0,
+      "sharesOutstanding": 152939345.0,
+      "grossMargin": 0.19304779756678556,
+      "operatingMargin": 0.09300248736108474,
+      "netMargin": 0.13175117364713315,
+      "roe": 0.12752309271296614,
+      "roic": 0.08969163570694241
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 63210100000.0,
+      "operatingIncome": 5601000000.0,
+      "netIncome": 7137200000.0,
+      "eps": 46.67,
+      "freeCashFlow": -1052000000.0,
+      "totalDebt": 191400000.0,
+      "cash": 1631300000.0,
+      "sharesOutstanding": 152939345.0,
+      "grossMargin": 0.18525995054587796,
+      "operatingMargin": 0.08860925706493109,
+      "netMargin": 0.11291233521225247,
+      "roe": 0.11727474087560057,
+      "roic": 0.09174417119026637
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:41.896704+00:00"
+  }
+}

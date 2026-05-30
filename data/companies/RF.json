@@ -1,0 +1,128 @@
+{
+  "ticker": "RF",
+  "name": "Regions Financial Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23894626304.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7526000000.0,
+    "operatingIncome": null,
+    "netIncome": 2156000000.0,
+    "eps": 2.3,
+    "freeCashFlow": 2151000000.0,
+    "totalDebt": 4884000000.0,
+    "cash": 10907000000.0,
+    "sharesOutstanding": 908045826.0
+  },
+  "ratios": {
+    "roe": 0.11321745523289398,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.40067002,
+    "netMargin": 0.28647355833111876,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7165000000.0,
+      "operatingIncome": null,
+      "netIncome": 2245000000.0,
+      "eps": 2.28,
+      "freeCashFlow": 2814000000.0,
+      "totalDebt": 2284000000.0,
+      "cash": 11227000000.0,
+      "sharesOutstanding": 975524168.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.31332868108862527,
+      "roe": 0.14077882987395748,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7576000000.0,
+      "operatingIncome": null,
+      "netIncome": 2074000000.0,
+      "eps": 2.11,
+      "freeCashFlow": 2151000000.0,
+      "totalDebt": 2330000000.0,
+      "cash": 6801000000.0,
+      "sharesOutstanding": 963375681.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.27375923970432947,
+      "roe": 0.1189970738424465,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7083000000.0,
+      "operatingIncome": null,
+      "netIncome": 1893000000.0,
+      "eps": 1.93,
+      "freeCashFlow": 1452000000.0,
+      "totalDebt": 6493000000.0,
+      "cash": 10712000000.0,
+      "sharesOutstanding": 949510334.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2672596357475646,
+      "roe": 0.10587840483248503,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7526000000.0,
+      "operatingIncome": null,
+      "netIncome": 2156000000.0,
+      "eps": 2.3,
+      "freeCashFlow": 2151000000.0,
+      "totalDebt": 4884000000.0,
+      "cash": 10907000000.0,
+      "sharesOutstanding": 908045826.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28647355833111876,
+      "roe": 0.11321745523289398,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:14.836987+00:00"
+  }
+}

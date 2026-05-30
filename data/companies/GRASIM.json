@@ -1,0 +1,128 @@
+{
+  "ticker": "GRASIM",
+  "name": "Grasim Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2117526749184.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3122.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1754307400000.0,
+    "operatingIncome": 169660300000.0,
+    "netIncome": 49664800000.0,
+    "eps": null,
+    "freeCashFlow": -334359000000.0,
+    "totalDebt": 2278530600000.0,
+    "cash": 27978900000.0,
+    "sharesOutstanding": 678406301.0
+  },
+  "ratios": {
+    "roe": 0.0479992639406699,
+    "roic": 0.05120692201911259,
+    "grossMargin": 0.45206752248779203,
+    "operatingMargin": 0.09671070189865243,
+    "netMargin": 0.028310203787546014,
+    "debtToEquity": 1.34138
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 114.345339,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1164666500000.0,
+      "operatingIncome": 122595600000.0,
+      "netIncome": 68272600000.0,
+      "eps": 103.47,
+      "freeCashFlow": -247213000000.0,
+      "totalDebt": 1030273700000.0,
+      "cash": 23125600000.0,
+      "sharesOutstanding": 661050191.0,
+      "grossMargin": 0.4221945939030615,
+      "operatingMargin": 0.10526240773646361,
+      "netMargin": 0.058619871010284916,
+      "roe": 0.08670418413352265,
+      "roic": 0.06744569051681758
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1295790000000.0,
+      "operatingIncome": 145177700000.0,
+      "netIncome": 56244900000.0,
+      "eps": 85.15,
+      "freeCashFlow": -302043600000.0,
+      "totalDebt": 1371439100000.0,
+      "cash": 23876500000.0,
+      "sharesOutstanding": 680550136.0,
+      "grossMargin": 0.42870094691269417,
+      "operatingMargin": 0.11203798454996566,
+      "netMargin": 0.04340587595212187,
+      "roe": 0.06344430607631604,
+      "roic": 0.06429586913975698
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1484778900000.0,
+      "operatingIncome": 121103600000.0,
+      "netIncome": 37056800000.0,
+      "eps": 55.5,
+      "freeCashFlow": -343510000000.0,
+      "totalDebt": 1863145600000.0,
+      "cash": 48827000000.0,
+      "sharesOutstanding": 680580576.0,
+      "grossMargin": 0.4520772756132243,
+      "operatingMargin": 0.08156338967370833,
+      "netMargin": 0.02495779001169804,
+      "roe": 0.03800337670597952,
+      "roic": 0.04266858673122503
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1754307400000.0,
+      "operatingIncome": 169660300000.0,
+      "netIncome": 49664800000.0,
+      "eps": null,
+      "freeCashFlow": -334359000000.0,
+      "totalDebt": 2278530600000.0,
+      "cash": 27978900000.0,
+      "sharesOutstanding": 678406301.0,
+      "grossMargin": 0.45206752248779203,
+      "operatingMargin": 0.09671070189865243,
+      "netMargin": 0.028310203787546014,
+      "roe": 0.0479992639406699,
+      "roic": 0.05120692201911259
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.859887+00:00"
+  }
+}

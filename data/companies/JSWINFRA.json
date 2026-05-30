@@ -1,0 +1,128 @@
+{
+  "ticker": "JSWINFRA",
+  "name": "JSW Infrastructure Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "INR",
+  "marketCap": {
+    "value": 573810278400.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 275.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 53614400000.0,
+    "operatingIncome": 19896100000.0,
+    "netIncome": 15233100000.0,
+    "eps": null,
+    "freeCashFlow": -4701400000.0,
+    "totalDebt": 68989200000.0,
+    "cash": 7977500000.0,
+    "sharesOutstanding": 2084309264.0
+  },
+  "ratios": {
+    "roe": 0.14004228912893588,
+    "roic": 0.11192411070395501,
+    "grossMargin": 0.8409363902235221,
+    "operatingMargin": 0.37109619803634847,
+    "netMargin": 0.2841232952341162,
+    "debtToEquity": 0.59002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.561646,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 31552300000.0,
+      "operatingIncome": 12482900000.0,
+      "netIncome": 7398400000.0,
+      "eps": 4.01,
+      "freeCashFlow": 15178700000.0,
+      "totalDebt": 45676100000.0,
+      "cash": 6186900000.0,
+      "sharesOutstanding": 2100001567.0,
+      "grossMargin": 0.6279605607198208,
+      "operatingMargin": 0.3956256754658139,
+      "netMargin": 0.23448052915318376,
+      "roe": 0.18520910624790343,
+      "roic": 0.14579029061354343
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 37629000000.0,
+      "operatingIncome": 15471500000.0,
+      "netIncome": 11559100000.0,
+      "eps": 5.88,
+      "freeCashFlow": 15545000000.0,
+      "totalDebt": 47584800000.0,
+      "cash": 7233900000.0,
+      "sharesOutstanding": 2100001567.0,
+      "grossMargin": 0.6649153578357119,
+      "operatingMargin": 0.41115894655717666,
+      "netMargin": 0.30718594700895585,
+      "roe": 0.14401422313477094,
+      "roic": 0.12101442020392902
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 44761400000.0,
+      "operatingIncome": 17156300000.0,
+      "netIncome": 15030800000.0,
+      "eps": 7.19,
+      "freeCashFlow": 248700000.0,
+      "totalDebt": 50421300000.0,
+      "cash": 6112500000.0,
+      "sharesOutstanding": 2100001567.0,
+      "grossMargin": 0.824134187045088,
+      "operatingMargin": 0.3832833646847507,
+      "netMargin": 0.33579825474627695,
+      "roe": 0.1550062391073436,
+      "roic": 0.11640046868755949
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 53614400000.0,
+      "operatingIncome": 19896100000.0,
+      "netIncome": 15233100000.0,
+      "eps": null,
+      "freeCashFlow": -4701400000.0,
+      "totalDebt": 68989200000.0,
+      "cash": 7977500000.0,
+      "sharesOutstanding": 2084309264.0,
+      "grossMargin": 0.8409363902235221,
+      "operatingMargin": 0.37109619803634847,
+      "netMargin": 0.2841232952341162,
+      "roe": 0.14004228912893588,
+      "roic": 0.11192411070395501
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:11.295739+00:00"
+  }
+}

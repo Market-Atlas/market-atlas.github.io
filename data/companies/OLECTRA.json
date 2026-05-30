@@ -1,0 +1,111 @@
+{
+  "ticker": "OLECTRA",
+  "name": "Olectra Greentech Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 96855269376.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1180.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17982229000.0,
+    "operatingIncome": 2233275000.0,
+    "netIncome": 1388865000.0,
+    "eps": 16.92,
+    "freeCashFlow": -363049000.0,
+    "totalDebt": 2548479000.0,
+    "cash": 56653000.0,
+    "sharesOutstanding": 82080737.0
+  },
+  "ratios": {
+    "roe": 0.13236576530383706,
+    "roic": 0.17124885621307206,
+    "grossMargin": 0.25404286643218704,
+    "operatingMargin": 0.12419344676346854,
+    "netMargin": 0.07723541947997659,
+    "debtToEquity": 0.32542000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5924791000.0,
+      "operatingIncome": 553242000.0,
+      "netIncome": 353514000.0,
+      "eps": 4.31,
+      "freeCashFlow": 535412000.0,
+      "totalDebt": 671036000.0,
+      "cash": 193009000.0,
+      "sharesOutstanding": 82080737.0,
+      "grossMargin": 0.25542538124973524,
+      "operatingMargin": 0.09337747103653107,
+      "netMargin": 0.05966691483294516,
+      "roe": 0.045480714689225925,
+      "roic": 0.06551996484076197
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 10896329000.0,
+      "operatingIncome": 1196905000.0,
+      "netIncome": 655945000.0,
+      "eps": 7.99,
+      "freeCashFlow": -747804000.0,
+      "totalDebt": 1336992000.0,
+      "cash": 63633000.0,
+      "sharesOutstanding": 82080737.0,
+      "grossMargin": 0.2176243026435784,
+      "operatingMargin": 0.10984479268201244,
+      "netMargin": 0.06019871463132216,
+      "roe": 0.07811211481157267,
+      "roic": 0.1229552950632253
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 11541354000.0,
+      "operatingIncome": 1349334000.0,
+      "netIncome": 768334000.0,
+      "eps": 9.36,
+      "freeCashFlow": 639626000.0,
+      "totalDebt": 1207487000.0,
+      "cash": 68710000.0,
+      "sharesOutstanding": 82080737.0,
+      "grossMargin": 0.2858512094854728,
+      "operatingMargin": 0.11691297225611484,
+      "netMargin": 0.06657225833294776,
+      "roe": 0.08411087474941914,
+      "roic": 0.13046796431303284
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 17982229000.0,
+      "operatingIncome": 2233275000.0,
+      "netIncome": 1388865000.0,
+      "eps": 16.92,
+      "freeCashFlow": -363049000.0,
+      "totalDebt": 2548479000.0,
+      "cash": 56653000.0,
+      "sharesOutstanding": 82080737.0,
+      "grossMargin": 0.25404286643218704,
+      "operatingMargin": 0.12419344676346854,
+      "netMargin": 0.07723541947997659,
+      "roe": 0.13236576530383706,
+      "roic": 0.17124885621307206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:37.902488+00:00"
+  }
+}

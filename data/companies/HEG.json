@@ -1,0 +1,111 @@
+{
+  "ticker": "HEG",
+  "name": "HEG Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 109389307904.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 566.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21443207000.0,
+    "operatingIncome": 1943672000.0,
+    "netIncome": 1150554000.0,
+    "eps": 5.96,
+    "freeCashFlow": 974754000.0,
+    "totalDebt": 5876712000.0,
+    "cash": 507634000.0,
+    "sharesOutstanding": 192977530.0
+  },
+  "ratios": {
+    "roe": 0.025833270221982584,
+    "roic": 0.03855390905712545,
+    "grossMargin": 0.343654379683039,
+    "operatingMargin": 0.09064278491552126,
+    "netMargin": 0.05365587339617624,
+    "debtToEquity": 0.1673
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 21732274000.0,
+      "operatingIncome": 4538578000.0,
+      "netIncome": 4310435000.0,
+      "eps": 22.336,
+      "freeCashFlow": -5001397000.0,
+      "totalDebt": 6646799000.0,
+      "cash": 410352000.0,
+      "sharesOutstanding": 192977530.0,
+      "grossMargin": 0.418458556154777,
+      "operatingMargin": 0.2088404554442853,
+      "netMargin": 0.19834256645208873,
+      "roe": 0.11013906656212602,
+      "roic": 0.09913218184860988
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 24353158000.0,
+      "operatingIncome": 5232820000.0,
+      "netIncome": 5324084000.0,
+      "eps": 27.59,
+      "freeCashFlow": -3664222000.0,
+      "totalDebt": 7425698000.0,
+      "cash": 332883000.0,
+      "sharesOutstanding": 192977530.0,
+      "grossMargin": 0.41704767816970595,
+      "operatingMargin": 0.21487233811729878,
+      "netMargin": 0.21861986030723407,
+      "roe": 0.12436721527300613,
+      "roic": 0.10416664385724216
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 23798198000.0,
+      "operatingIncome": 2627795000.0,
+      "netIncome": 3116791000.0,
+      "eps": 16.15,
+      "freeCashFlow": 2407036000.0,
+      "totalDebt": 6226755000.0,
+      "cash": 1370517000.0,
+      "sharesOutstanding": 192977530.0,
+      "grossMargin": 0.31707976377034935,
+      "operatingMargin": 0.1104199149868406,
+      "netMargin": 0.13096752115433277,
+      "roe": 0.07042097622083185,
+      "roic": 0.05204980207746807
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 21443207000.0,
+      "operatingIncome": 1943672000.0,
+      "netIncome": 1150554000.0,
+      "eps": 5.96,
+      "freeCashFlow": 974754000.0,
+      "totalDebt": 5876712000.0,
+      "cash": 507634000.0,
+      "sharesOutstanding": 192977530.0,
+      "grossMargin": 0.343654379683039,
+      "operatingMargin": 0.09064278491552126,
+      "netMargin": 0.05365587339617624,
+      "roe": 0.025833270221982584,
+      "roic": 0.03855390905712545
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:52.228935+00:00"
+  }
+}

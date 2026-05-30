@@ -1,0 +1,128 @@
+{
+  "ticker": "APO",
+  "name": "Apollo Global Management, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 74203570176.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 128.71,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32049000000.0,
+    "operatingIncome": 8258000000.0,
+    "netIncome": 3492000000.0,
+    "eps": 5.54,
+    "freeCashFlow": null,
+    "totalDebt": 13364000000.0,
+    "cash": 19240000000.0,
+    "sharesOutstanding": 578981398.0
+  },
+  "ratios": {
+    "roe": 0.1496079859474744,
+    "roic": 0.22498297234709166,
+    "grossMargin": 0.9549751942338295,
+    "operatingMargin": 0.25766794595775216,
+    "netMargin": 0.10895815782083684,
+    "debtToEquity": 1.01267
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10968000000.0,
+      "operatingIncome": -4375000000.0,
+      "netIncome": -1961000000.0,
+      "eps": -3.43,
+      "freeCashFlow": 3586475000.0,
+      "totalDebt": 6522000000.0,
+      "cash": 9452000000.0,
+      "sharesOutstanding": 570276188.0,
+      "grossMargin": 0.9154814004376368,
+      "operatingMargin": -0.3988876732312181,
+      "netMargin": -0.1787928519328957,
+      "roe": -0.2953313253012048,
+      "roic": -0.3323962923567847
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 32644000000.0,
+      "operatingIncome": 6146000000.0,
+      "netIncome": 5047000000.0,
+      "eps": 8.49,
+      "freeCashFlow": null,
+      "totalDebt": 8092000000.0,
+      "cash": 15928000000.0,
+      "sharesOutstanding": 567762932.0,
+      "grossMargin": 0.9685393946820242,
+      "operatingMargin": 0.1882734958951109,
+      "netMargin": 0.15460727851978925,
+      "roe": 0.3593705497009399,
+      "roic": 0.27764727141308276
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 26114000000.0,
+      "operatingIncome": 8299000000.0,
+      "netIncome": 4577000000.0,
+      "eps": 7.33,
+      "freeCashFlow": null,
+      "totalDebt": 10588000000.0,
+      "cash": 16166000000.0,
+      "sharesOutstanding": 565738933.0,
+      "grossMargin": 0.9563452554185494,
+      "operatingMargin": 0.31779888182584054,
+      "netMargin": 0.17526997013096424,
+      "roe": 0.26528719642960646,
+      "roic": 0.2980855572716497
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32049000000.0,
+      "operatingIncome": 8258000000.0,
+      "netIncome": 3492000000.0,
+      "eps": 5.54,
+      "freeCashFlow": null,
+      "totalDebt": 13364000000.0,
+      "cash": 19240000000.0,
+      "sharesOutstanding": 578981398.0,
+      "grossMargin": 0.9549751942338295,
+      "operatingMargin": 0.25766794595775216,
+      "netMargin": 0.10895815782083684,
+      "roe": 0.1496079859474744,
+      "roic": 0.22498297234709166
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.517830+00:00"
+  }
+}

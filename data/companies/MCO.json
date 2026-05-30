@@ -1,0 +1,128 @@
+{
+  "ticker": "MCO",
+  "name": "Moody's Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "USD",
+  "marketCap": {
+    "value": 79172091904.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 453.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7718000000.0,
+    "operatingIncome": 3462000000.0,
+    "netIncome": 2459000000.0,
+    "eps": 13.67,
+    "freeCashFlow": 2575000000.0,
+    "totalDebt": 7351000000.0,
+    "cash": 2384000000.0,
+    "sharesOutstanding": 342902272.0
+  },
+  "ratios": {
+    "roe": 0.6065614208189443,
+    "roic": 0.3035510740903113,
+    "grossMargin": 0.7443638248250842,
+    "operatingMargin": 0.44856180357605596,
+    "netMargin": 0.3186058564394921,
+    "debtToEquity": 2.35539
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5468000000.0,
+      "operatingIncome": 1997000000.0,
+      "netIncome": 1374000000.0,
+      "eps": 7.44,
+      "freeCashFlow": 1191000000.0,
+      "totalDebt": 7863000000.0,
+      "cash": 1769000000.0,
+      "sharesOutstanding": 342902272.0,
+      "grossMargin": 0.7050109729334308,
+      "operatingMargin": 0.3652158010241405,
+      "netMargin": 0.2512801755669349,
+      "roe": 0.5454545454545454,
+      "roic": 0.1923521479483722
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5916000000.0,
+      "operatingIncome": 2224000000.0,
+      "netIncome": 1607000000.0,
+      "eps": 8.73,
+      "freeCashFlow": 1880000000.0,
+      "totalDebt": 7415000000.0,
+      "cash": 2130000000.0,
+      "sharesOutstanding": 342902272.0,
+      "grossMargin": 0.714841108857336,
+      "operatingMargin": 0.37592968221771467,
+      "netMargin": 0.2716362407031778,
+      "roe": 0.4843279083785413,
+      "roic": 0.20721140408087207
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7088000000.0,
+      "operatingIncome": 2977000000.0,
+      "netIncome": 2058000000.0,
+      "eps": 11.26,
+      "freeCashFlow": 2521000000.0,
+      "totalDebt": 7746000000.0,
+      "cash": 2408000000.0,
+      "sharesOutstanding": 342902272.0,
+      "grossMargin": 0.7255925507900677,
+      "operatingMargin": 0.42000564334085777,
+      "netMargin": 0.2903498871331828,
+      "roe": 0.5772791023842917,
+      "roic": 0.2631951197948899
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7718000000.0,
+      "operatingIncome": 3462000000.0,
+      "netIncome": 2459000000.0,
+      "eps": 13.67,
+      "freeCashFlow": 2575000000.0,
+      "totalDebt": 7351000000.0,
+      "cash": 2384000000.0,
+      "sharesOutstanding": 342902272.0,
+      "grossMargin": 0.7443638248250842,
+      "operatingMargin": 0.44856180357605596,
+      "netMargin": 0.3186058564394921,
+      "roe": 0.6065614208189443,
+      "roic": 0.3035510740903113
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:53.744536+00:00"
+  }
+}

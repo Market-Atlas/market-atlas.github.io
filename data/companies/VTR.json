@@ -1,0 +1,111 @@
+{
+  "ticker": "VTR",
+  "name": "Ventas, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "currency": "USD",
+  "marketCap": {
+    "value": 41042448384.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 84.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5833980000.0,
+    "operatingIncome": 857524000.0,
+    "netIncome": 251381000.0,
+    "eps": 0.54,
+    "freeCashFlow": 1002111000.0,
+    "totalDebt": 13219618000.0,
+    "cash": 741067000.0,
+    "sharesOutstanding": 474926000.0
+  },
+  "ratios": {
+    "roe": 0.02006672971321007,
+    "roic": 0.033305950070593046,
+    "grossMargin": 0.4137936708730575,
+    "operatingMargin": 0.14698781963599464,
+    "netMargin": 0.04308910897877607,
+    "debtToEquity": 0.9373600000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4129193000.0,
+      "operatingIncome": 483846000.0,
+      "netIncome": -47447000.0,
+      "eps": -0.12,
+      "freeCashFlow": 666094000.0,
+      "totalDebt": 12487220000.0,
+      "cash": 122564000.0,
+      "sharesOutstanding": 399707000.0,
+      "grossMargin": 0.4471273200356583,
+      "operatingMargin": 0.11717689146523304,
+      "netMargin": -0.011490622986137969,
+      "roe": -0.004673214768331782,
+      "roic": 0.021371112289350246
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4497827000.0,
+      "operatingIncome": 415514000.0,
+      "netIncome": -40973000.0,
+      "eps": -0.1,
+      "freeCashFlow": 476868000.0,
+      "totalDebt": 13685630000.0,
+      "cash": 508794000.0,
+      "sharesOutstanding": 402380000.0,
+      "grossMargin": 0.43055924560904635,
+      "operatingMargin": 0.09238105422907551,
+      "netMargin": -0.0091095099922696,
+      "roe": -0.0043183757940771445,
+      "roic": 0.01793042177835483
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4924266000.0,
+      "operatingIncome": 681230000.0,
+      "netIncome": 81153000.0,
+      "eps": 0.19,
+      "freeCashFlow": 725779000.0,
+      "totalDebt": 13740554000.0,
+      "cash": 897850000.0,
+      "sharesOutstanding": 437085000.0,
+      "grossMargin": 0.4258902748145612,
+      "operatingMargin": 0.1383414299714922,
+      "netMargin": 0.016480222636226394,
+      "roe": 0.0075342111564034205,
+      "roic": 0.02779189681582613
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5833980000.0,
+      "operatingIncome": 857524000.0,
+      "netIncome": 251381000.0,
+      "eps": 0.54,
+      "freeCashFlow": 1002111000.0,
+      "totalDebt": 13219618000.0,
+      "cash": 741067000.0,
+      "sharesOutstanding": 474926000.0,
+      "grossMargin": 0.4137936708730575,
+      "operatingMargin": 0.14698781963599464,
+      "netMargin": 0.04308910897877607,
+      "roe": 0.02006672971321007,
+      "roic": 0.033305950070593046
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:36.242356+00:00"
+  }
+}

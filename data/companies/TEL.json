@@ -1,0 +1,128 @@
+{
+  "ticker": "TEL",
+  "name": "TE Connectivity plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "USD",
+  "marketCap": {
+    "value": 62293483520.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 213.41,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17262000000.0,
+    "operatingIncome": 3384000000.0,
+    "netIncome": 1842000000.0,
+    "eps": 6.16,
+    "freeCashFlow": 3203000000.0,
+    "totalDebt": 5820000000.0,
+    "cash": 1255000000.0,
+    "sharesOutstanding": 302889075.0
+  },
+  "ratios": {
+    "roe": 0.1463647199046484,
+    "roic": 0.18386308068459659,
+    "grossMargin": 0.3521608156644653,
+    "operatingMargin": 0.19603753910323254,
+    "netMargin": 0.10670837678136948,
+    "debtToEquity": 0.43798000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 16281000000.0,
+      "operatingIncome": 2942000000.0,
+      "netIncome": 2428000000.0,
+      "eps": 7.47,
+      "freeCashFlow": 1700000000.0,
+      "totalDebt": 4332000000.0,
+      "cash": 1088000000.0,
+      "sharesOutstanding": 330830781.0,
+      "grossMargin": 0.32209323751612307,
+      "operatingMargin": 0.18070143111602482,
+      "netMargin": 0.1491308887660463,
+      "roe": 0.22477319014997224,
+      "roic": 0.1943967226113387
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 16034000000.0,
+      "operatingIncome": 2677000000.0,
+      "netIncome": 1910000000.0,
+      "eps": 6.03,
+      "freeCashFlow": 2400000000.0,
+      "totalDebt": 4329000000.0,
+      "cash": 1661000000.0,
+      "sharesOutstanding": 322470281.0,
+      "grossMargin": 0.31526755644255955,
+      "operatingMargin": 0.16695771485593114,
+      "netMargin": 0.11912186603467631,
+      "roe": 0.1653536490347156,
+      "roic": 0.16857682619647354
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 15845000000.0,
+      "operatingIncome": 2983000000.0,
+      "netIncome": 3193000000.0,
+      "eps": 10.33,
+      "freeCashFlow": 2797000000.0,
+      "totalDebt": 4331000000.0,
+      "cash": 1319000000.0,
+      "sharesOutstanding": 316574781.0,
+      "grossMargin": 0.3443357526033449,
+      "operatingMargin": 0.1882612811612496,
+      "netMargin": 0.20151467339854845,
+      "roe": 0.25843787940105223,
+      "roic": 0.17877262375644254
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 17262000000.0,
+      "operatingIncome": 3384000000.0,
+      "netIncome": 1842000000.0,
+      "eps": 6.16,
+      "freeCashFlow": 3203000000.0,
+      "totalDebt": 5820000000.0,
+      "cash": 1255000000.0,
+      "sharesOutstanding": 302889075.0,
+      "grossMargin": 0.3521608156644653,
+      "operatingMargin": 0.19603753910323254,
+      "netMargin": 0.10670837678136948,
+      "roe": 0.1463647199046484,
+      "roic": 0.18386308068459659
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:25.863972+00:00"
+  }
+}

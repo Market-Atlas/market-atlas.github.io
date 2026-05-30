@@ -1,0 +1,128 @@
+{
+  "ticker": "EXPE",
+  "name": "Expedia Group, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27099785216.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14733000000.0,
+    "operatingIncome": 2163000000.0,
+    "netIncome": 1294000000.0,
+    "eps": 9.81,
+    "freeCashFlow": 3110000000.0,
+    "totalDebt": 6415000000.0,
+    "cash": 5413000000.0,
+    "sharesOutstanding": 296971029.0
+  },
+  "ratios": {
+    "roe": 1.0077881619937694,
+    "roic": 0.2809455773477075,
+    "grossMargin": 0.9011742347111925,
+    "operatingMargin": 0.14681327631846874,
+    "netMargin": 0.08783004140365167,
+    "debtToEquity": 2.56536
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11667000000.0,
+      "operatingIncome": 1189000000.0,
+      "netIncome": 352000000.0,
+      "eps": 2.17,
+      "freeCashFlow": 2778000000.0,
+      "totalDebt": 6552000000.0,
+      "cash": 4096000000.0,
+      "sharesOutstanding": 291063000.0,
+      "grossMargin": 0.8579754864146739,
+      "operatingMargin": 0.10191137396074398,
+      "netMargin": 0.03017056655524128,
+      "roe": 0.15418309242225142,
+      "roic": 0.13457838143746462
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12839000000.0,
+      "operatingIncome": 1534000000.0,
+      "netIncome": 797000000.0,
+      "eps": 5.31,
+      "freeCashFlow": 1844000000.0,
+      "totalDebt": 6567000000.0,
+      "cash": 4225000000.0,
+      "sharesOutstanding": 287645452.0,
+      "grossMargin": 0.8774826699898746,
+      "operatingMargin": 0.11947971025780824,
+      "netMargin": 0.062076485707609624,
+      "roe": 0.5195567144719687,
+      "roic": 0.18935933835328972
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13691000000.0,
+      "operatingIncome": 1670000000.0,
+      "netIncome": 1234000000.0,
+      "eps": 8.95,
+      "freeCashFlow": 2329000000.0,
+      "totalDebt": 6531000000.0,
+      "cash": 4183000000.0,
+      "sharesOutstanding": 293032452.0,
+      "grossMargin": 0.894602293477467,
+      "operatingMargin": 0.12197794171353443,
+      "netMargin": 0.09013220363742605,
+      "roe": 0.7925497752087347,
+      "roic": 0.20647873392680513
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14733000000.0,
+      "operatingIncome": 2163000000.0,
+      "netIncome": 1294000000.0,
+      "eps": 9.81,
+      "freeCashFlow": 3110000000.0,
+      "totalDebt": 6415000000.0,
+      "cash": 5413000000.0,
+      "sharesOutstanding": 296971029.0,
+      "grossMargin": 0.9011742347111925,
+      "operatingMargin": 0.14681327631846874,
+      "netMargin": 0.08783004140365167,
+      "roe": 1.0077881619937694,
+      "roic": 0.2809455773477075
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:22.463471+00:00"
+  }
+}

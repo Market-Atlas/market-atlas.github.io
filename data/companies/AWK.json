@@ -1,0 +1,128 @@
+{
+  "ticker": "AWK",
+  "name": "American Water Works Company, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24072230912.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 123.27,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5140000000.0,
+    "operatingIncome": 1879000000.0,
+    "netIncome": 1111000000.0,
+    "eps": 5.69,
+    "freeCashFlow": -1242000000.0,
+    "totalDebt": 15918000000.0,
+    "cash": 98000000.0,
+    "sharesOutstanding": 200605170.0
+  },
+  "ratios": {
+    "roe": 0.10251914736550706,
+    "roic": 0.07022986357690152,
+    "grossMargin": 0.6071984435797665,
+    "operatingMargin": 0.36556420233463033,
+    "netMargin": 0.216147859922179,
+    "debtToEquity": 1.4233000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3792000000.0,
+      "operatingIncome": 1273000000.0,
+      "netIncome": 820000000.0,
+      "eps": 4.51,
+      "freeCashFlow": -1312000000.0,
+      "totalDebt": 12452000000.0,
+      "cash": 85000000.0,
+      "sharesOutstanding": 187200539.0,
+      "grossMargin": 0.5809599156118144,
+      "operatingMargin": 0.3357067510548523,
+      "netMargin": 0.21624472573839662,
+      "roe": 0.1065904068633823,
+      "roic": 0.06319185902208985
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4234000000.0,
+      "operatingIncome": 1504000000.0,
+      "netIncome": 944000000.0,
+      "eps": 4.9,
+      "freeCashFlow": -860000000.0,
+      "totalDebt": 12442000000.0,
+      "cash": 330000000.0,
+      "sharesOutstanding": 200144968.0,
+      "grossMargin": 0.593764761454889,
+      "operatingMargin": 0.3552196504487482,
+      "netMargin": 0.22295701464336326,
+      "roe": 0.09635602735531285,
+      "roic": 0.06762894015018661
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4684000000.0,
+      "operatingIncome": 1718000000.0,
+      "netIncome": 1051000000.0,
+      "eps": 5.39,
+      "freeCashFlow": -963000000.0,
+      "totalDebt": 14110000000.0,
+      "cash": 96000000.0,
+      "sharesOutstanding": 200371701.0,
+      "grossMargin": 0.60333048676345,
+      "operatingMargin": 0.3667805294619983,
+      "netMargin": 0.2243808710503843,
+      "roe": 0.10172280294231514,
+      "roic": 0.07028884706652483
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5140000000.0,
+      "operatingIncome": 1879000000.0,
+      "netIncome": 1111000000.0,
+      "eps": 5.69,
+      "freeCashFlow": -1242000000.0,
+      "totalDebt": 15918000000.0,
+      "cash": 98000000.0,
+      "sharesOutstanding": 200605170.0,
+      "grossMargin": 0.6071984435797665,
+      "operatingMargin": 0.36556420233463033,
+      "netMargin": 0.216147859922179,
+      "roe": 0.10251914736550706,
+      "roic": 0.07022986357690152
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:48.526608+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MRK",
+  "name": "Merck & Co., Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 293217566720.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 118.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65011000000.0,
+    "operatingIncome": 22107000000.0,
+    "netIncome": 18254000000.0,
+    "eps": 7.28,
+    "freeCashFlow": 12360000000.0,
+    "totalDebt": 49339000000.0,
+    "cash": 14565000000.0,
+    "sharesOutstanding": 3577103522.0
+  },
+  "ratios": {
+    "roe": 0.34699463939474584,
+    "roic": 0.21685222423856002,
+    "grossMargin": 0.7480118749134762,
+    "operatingMargin": 0.340050145360016,
+    "netMargin": 0.2807832520650351,
+    "debtToEquity": 1.06936
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 59283000000.0,
+      "operatingIncome": 18282000000.0,
+      "netIncome": 14519000000.0,
+      "eps": 5.71,
+      "freeCashFlow": 14707000000.0,
+      "totalDebt": 30691000000.0,
+      "cash": 12694000000.0,
+      "sharesOutstanding": 3577103522.0,
+      "grossMargin": 0.7063070357438052,
+      "operatingMargin": 0.3083852031779768,
+      "netMargin": 0.24491000792807383,
+      "roe": 0.31569220064795284,
+      "roic": 0.23841318692783184
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 60115000000.0,
+      "operatingIncome": 2954000000.0,
+      "netIncome": 365000000.0,
+      "eps": 0.14,
+      "freeCashFlow": 9143000000.0,
+      "totalDebt": 35055000000.0,
+      "cash": 6841000000.0,
+      "sharesOutstanding": 3577103522.0,
+      "grossMargin": 0.731747483989021,
+      "operatingMargin": 0.04913914996257174,
+      "netMargin": 0.006071695916160692,
+      "roe": 0.009712354647295175,
+      "roic": 0.040668539016465666
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 64168000000.0,
+      "operatingIncome": 20221000000.0,
+      "netIncome": 17117000000.0,
+      "eps": 6.74,
+      "freeCashFlow": 18096000000.0,
+      "totalDebt": 37111000000.0,
+      "cash": 13242000000.0,
+      "sharesOutstanding": 3577103522.0,
+      "grossMargin": 0.7632308939035033,
+      "operatingMargin": 0.3151259194614138,
+      "netMargin": 0.2667528986410672,
+      "roe": 0.3695938505387256,
+      "roic": 0.24238828154967396
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 65011000000.0,
+      "operatingIncome": 22107000000.0,
+      "netIncome": 18254000000.0,
+      "eps": 7.28,
+      "freeCashFlow": 12360000000.0,
+      "totalDebt": 49339000000.0,
+      "cash": 14565000000.0,
+      "sharesOutstanding": 3577103522.0,
+      "grossMargin": 0.7480118749134762,
+      "operatingMargin": 0.340050145360016,
+      "netMargin": 0.2807832520650351,
+      "roe": 0.34699463939474584,
+      "roic": 0.21685222423856002
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.350808+00:00"
+  }
+}

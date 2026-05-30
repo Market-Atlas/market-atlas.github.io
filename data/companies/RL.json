@@ -1,0 +1,128 @@
+{
+  "ticker": "RL",
+  "name": "Ralph Lauren Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21657997312.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 363.9,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8114500000.0,
+    "operatingIncome": 1297300000.0,
+    "netIncome": 941100000.0,
+    "eps": 15.11,
+    "freeCashFlow": 704900000.0,
+    "totalDebt": 3009400000.0,
+    "cash": 1988000000.0,
+    "sharesOutstanding": 135336413.0
+  },
+  "ratios": {
+    "roe": 0.3312099669177166,
+    "roic": 0.22173036165994395,
+    "grossMargin": 0.6986505638055333,
+    "operatingMargin": 0.15987429909421405,
+    "netMargin": 0.11597757101484996,
+    "debtToEquity": 1.05913
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6443600000.0,
+      "operatingIncome": 756900000.0,
+      "netIncome": 522700000.0,
+      "eps": 7.58,
+      "freeCashFlow": 193500000.0,
+      "totalDebt": 2881900000.0,
+      "cash": 1529300000.0,
+      "sharesOutstanding": 132600000.0,
+      "grossMargin": 0.6465019554286424,
+      "operatingMargin": 0.11746539201688497,
+      "netMargin": 0.08111925010863492,
+      "roe": 0.21505862991154084,
+      "roic": 0.1424779760560199
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 6631400000.0,
+      "operatingIncome": 831300000.0,
+      "netIncome": 646300000.0,
+      "eps": 9.71,
+      "freeCashFlow": 904900000.0,
+      "totalDebt": 2675300000.0,
+      "cash": 1662200000.0,
+      "sharesOutstanding": 133600000.0,
+      "grossMargin": 0.6683053352233315,
+      "operatingMargin": 0.12535814458485386,
+      "netMargin": 0.09746056639623608,
+      "roe": 0.26376362078112886,
+      "roic": 0.16218589043233964
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7079000000.0,
+      "operatingIncome": 989900000.0,
+      "netIncome": 742900000.0,
+      "eps": 11.61,
+      "freeCashFlow": 1018900000.0,
+      "totalDebt": 2668100000.0,
+      "cash": 1922500000.0,
+      "sharesOutstanding": 134381276.0,
+      "grossMargin": 0.6855346800395536,
+      "operatingMargin": 0.13983613504732306,
+      "netMargin": 0.1049442011583557,
+      "roe": 0.287000193162063,
+      "roic": 0.18831564128904615
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 8114500000.0,
+      "operatingIncome": 1297300000.0,
+      "netIncome": 941100000.0,
+      "eps": 15.11,
+      "freeCashFlow": 704900000.0,
+      "totalDebt": 3009400000.0,
+      "cash": 1988000000.0,
+      "sharesOutstanding": 135336413.0,
+      "grossMargin": 0.6986505638055333,
+      "operatingMargin": 0.15987429909421405,
+      "netMargin": 0.11597757101484996,
+      "roe": 0.3312099669177166,
+      "roic": 0.22173036165994395
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:15.090615+00:00"
+  }
+}

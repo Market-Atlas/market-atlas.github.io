@@ -1,0 +1,77 @@
+{
+  "ticker": "LGEINDIA",
+  "name": "LG ELECTRONICS INDIA LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1034381295616.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1523.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 246049120000.0,
+    "operatingIncome": 20121980000.0,
+    "netIncome": 16850930000.0,
+    "eps": 24.83,
+    "freeCashFlow": 5490110000.0,
+    "totalDebt": 4591560000.0,
+    "cash": 44762650000.0,
+    "sharesOutstanding": 678772392.0
+  },
+  "ratios": {
+    "roe": 0.2198265853122722,
+    "roic": 0.24766391719484948,
+    "grossMargin": 0.30229809397408125,
+    "operatingMargin": 0.08178033719445939,
+    "netMargin": 0.06848604051093538,
+    "debtToEquity": 0.0599
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 243666380000.0,
+      "operatingIncome": 27297670000.0,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.3195578314907457,
+      "operatingMargin": 0.1120288732487428,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 246049120000.0,
+      "operatingIncome": 20121980000.0,
+      "netIncome": 16850930000.0,
+      "eps": 24.83,
+      "freeCashFlow": 5490110000.0,
+      "totalDebt": 4591560000.0,
+      "cash": 44762650000.0,
+      "sharesOutstanding": 678772392.0,
+      "grossMargin": 0.30229809397408125,
+      "operatingMargin": 0.08178033719445939,
+      "netMargin": 0.06848604051093538,
+      "roe": 0.2198265853122722,
+      "roic": 0.24766391719484948
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:18.215631+00:00"
+  }
+}

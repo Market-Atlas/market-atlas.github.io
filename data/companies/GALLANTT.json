@@ -1,0 +1,128 @@
+{
+  "ticker": "GALLANTT",
+  "name": "Gallantt Ispat Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 161525530624.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 669.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44189219000.0,
+    "operatingIncome": 5861266000.0,
+    "netIncome": 4842683000.0,
+    "eps": 20.07,
+    "freeCashFlow": 2541139000.0,
+    "totalDebt": 5476870000.0,
+    "cash": 1016548000.0,
+    "sharesOutstanding": 241280945.0
+  },
+  "ratios": {
+    "roe": 0.14602955737633536,
+    "roic": 0.1516921486350992,
+    "grossMargin": 0.27787852507644456,
+    "operatingMargin": 0.13264018085497278,
+    "netMargin": 0.1095896942645671,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 40345827000.0,
+      "operatingIncome": 2659391000.0,
+      "netIncome": 1409109000.0,
+      "eps": 5.84,
+      "freeCashFlow": -1317768000.0,
+      "totalDebt": 5377446000.0,
+      "cash": 56163000.0,
+      "sharesOutstanding": 241280945.0,
+      "grossMargin": 0.14897273019090673,
+      "operatingMargin": 0.06591489622954066,
+      "netMargin": 0.03492576815936875,
+      "roe": 0.06332984214696097,
+      "roic": 0.09625792346119096
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 41483001000.0,
+      "operatingIncome": 3326698000.0,
+      "netIncome": 2253486000.0,
+      "eps": 9.34,
+      "freeCashFlow": 1449567000.0,
+      "totalDebt": 4619108000.0,
+      "cash": 3172000.0,
+      "sharesOutstanding": 241280945.0,
+      "grossMargin": 0.16145329022844804,
+      "operatingMargin": 0.08019424631308618,
+      "netMargin": 0.054323119004818385,
+      "roe": 0.09195174264222353,
+      "roic": 0.11421599446494819
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 42927289000.0,
+      "operatingIncome": 5744699000.0,
+      "netIncome": 4007424000.0,
+      "eps": 16.61,
+      "freeCashFlow": 3365786000.0,
+      "totalDebt": 3776652000.0,
+      "cash": 53254000.0,
+      "sharesOutstanding": 241280945.0,
+      "grossMargin": 0.2750087712270859,
+      "operatingMargin": 0.13382394122302949,
+      "netMargin": 0.09335376384937796,
+      "roe": 0.140979413730519,
+      "roic": 0.17839434133932694
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 44189219000.0,
+      "operatingIncome": 5861266000.0,
+      "netIncome": 4842683000.0,
+      "eps": 20.07,
+      "freeCashFlow": 2541139000.0,
+      "totalDebt": 5476870000.0,
+      "cash": 1016548000.0,
+      "sharesOutstanding": 241280945.0,
+      "grossMargin": 0.27787852507644456,
+      "operatingMargin": 0.13264018085497278,
+      "netMargin": 0.1095896942645671,
+      "roe": 0.14602955737633536,
+      "roic": 0.1516921486350992
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:44.685402+00:00"
+  }
+}

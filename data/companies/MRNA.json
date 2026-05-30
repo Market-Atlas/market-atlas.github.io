@@ -1,0 +1,128 @@
+{
+  "ticker": "MRNA",
+  "name": "Moderna, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18724343808.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.19,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1922000000.0,
+    "operatingIncome": -3074000000.0,
+    "netIncome": -2822000000.0,
+    "eps": null,
+    "freeCashFlow": -2075000000.0,
+    "totalDebt": 1305000000.0,
+    "cash": 2595000000.0,
+    "sharesOutstanding": 394000000.0
+  },
+  "ratios": {
+    "roe": -0.326242774566474,
+    "roic": -0.308789552988448,
+    "grossMargin": 0.5483870967741935,
+    "operatingMargin": -1.599375650364204,
+    "netMargin": -1.4682622268470344,
+    "debtToEquity": 0.17522
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 28.29,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 18875000000.0,
+      "operatingIncome": 9420000000.0,
+      "netIncome": 8362000000.0,
+      "eps": 20.12,
+      "freeCashFlow": 4581000000.0,
+      "totalDebt": 1200000000.0,
+      "cash": 3205000000.0,
+      "sharesOutstanding": 385000000.0,
+      "grossMargin": 0.7130596026490066,
+      "operatingMargin": 0.4990728476821192,
+      "netMargin": 0.4430198675496689,
+      "roe": 0.43727448622078124,
+      "roic": 0.46351424494415194
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6754000000.0,
+      "operatingIncome": -4239000000.0,
+      "netIncome": -4714000000.0,
+      "eps": -12.33,
+      "freeCashFlow": -3825000000.0,
+      "totalDebt": 1243000000.0,
+      "cash": 2907000000.0,
+      "sharesOutstanding": 382000000.0,
+      "grossMargin": 0.3051525022209061,
+      "operatingMargin": -0.6276280722534794,
+      "netMargin": -0.6979567663606752,
+      "roe": -0.34026274000288725,
+      "roic": -0.28078426177386234
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3199000000.0,
+      "operatingIncome": -3945000000.0,
+      "netIncome": -3561000000.0,
+      "eps": -9.28,
+      "freeCashFlow": -4055000000.0,
+      "totalDebt": 747000000.0,
+      "cash": 1927000000.0,
+      "sharesOutstanding": 386000000.0,
+      "grossMargin": 0.5423569865582994,
+      "operatingMargin": -1.23319787433573,
+      "netMargin": -1.1131603626133166,
+      "roe": -0.32666727823135494,
+      "roic": -0.33868475274725274
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1922000000.0,
+      "operatingIncome": -3074000000.0,
+      "netIncome": -2822000000.0,
+      "eps": null,
+      "freeCashFlow": -2075000000.0,
+      "totalDebt": 1305000000.0,
+      "cash": 2595000000.0,
+      "sharesOutstanding": 394000000.0,
+      "grossMargin": 0.5483870967741935,
+      "operatingMargin": -1.599375650364204,
+      "netMargin": -1.4682622268470344,
+      "roe": -0.326242774566474,
+      "roic": -0.308789552988448
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:56.744407+00:00"
+  }
+}

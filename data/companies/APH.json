@@ -1,0 +1,128 @@
+{
+  "ticker": "APH",
+  "name": "Amphenol Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "USD",
+  "marketCap": {
+    "value": 183009673216.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 148.76,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23094700000.0,
+    "operatingIncome": 5972000000.0,
+    "netIncome": 4270300000.0,
+    "eps": 3.34,
+    "freeCashFlow": 4378100000.0,
+    "totalDebt": 15502000000.0,
+    "cash": 11130600000.0,
+    "sharesOutstanding": 1229000000.0
+  },
+  "ratios": {
+    "roe": 0.3183678642521117,
+    "roic": 0.20653568550688048,
+    "grossMargin": 0.3688162219037268,
+    "operatingMargin": 0.25858746812039124,
+    "netMargin": 0.1849038956990132,
+    "debtToEquity": 1.3305099999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12623000000.0,
+      "operatingIncome": 2607300000.0,
+      "netIncome": 1902300000.0,
+      "eps": 1.53,
+      "freeCashFlow": 1790800000.0,
+      "totalDebt": 4577700000.0,
+      "cash": 1373100000.0,
+      "sharesOutstanding": 1192000000.0,
+      "grossMargin": 0.3191158995484433,
+      "operatingMargin": 0.20655153291610553,
+      "netMargin": 0.1507011011645409,
+      "roe": 0.27115285934203776,
+      "roic": 0.2248971388646891
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12554700000.0,
+      "operatingIncome": 2594200000.0,
+      "netIncome": 1928000000.0,
+      "eps": 1.555,
+      "freeCashFlow": 2155900000.0,
+      "totalDebt": 4337300000.0,
+      "cash": 1475000000.0,
+      "sharesOutstanding": 1201200000.0,
+      "grossMargin": 0.3253044676495655,
+      "operatingMargin": 0.206631779333636,
+      "netMargin": 0.1535679864911149,
+      "roe": 0.23099502785598755,
+      "roic": 0.20452861129945285
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15222700000.0,
+      "operatingIncome": 3284300000.0,
+      "netIncome": 2424000000.0,
+      "eps": 1.92,
+      "freeCashFlow": 2149300000.0,
+      "totalDebt": 6886100000.0,
+      "cash": 3317000000.0,
+      "sharesOutstanding": 1212900000.0,
+      "grossMargin": 0.3376339282781635,
+      "operatingMargin": 0.2157501625861378,
+      "netMargin": 0.15923587799798986,
+      "roe": 0.24754901960784315,
+      "roic": 0.19692291088313418
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23094700000.0,
+      "operatingIncome": 5972000000.0,
+      "netIncome": 4270300000.0,
+      "eps": 3.34,
+      "freeCashFlow": 4378100000.0,
+      "totalDebt": 15502000000.0,
+      "cash": 11130600000.0,
+      "sharesOutstanding": 1229000000.0,
+      "grossMargin": 0.3688162219037268,
+      "operatingMargin": 0.25858746812039124,
+      "netMargin": 0.1849038956990132,
+      "roe": 0.3183678642521117,
+      "roic": 0.20653568550688048
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.389766+00:00"
+  }
+}

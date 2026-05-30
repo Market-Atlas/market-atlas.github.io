@@ -1,0 +1,128 @@
+{
+  "ticker": "CSGP",
+  "name": "CoStar Group, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 13149053952.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.2,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3247000000.0,
+    "operatingIncome": -72000000.0,
+    "netIncome": 7000000.0,
+    "eps": 0.02,
+    "freeCashFlow": 41000000.0,
+    "totalDebt": 1184000000.0,
+    "cash": 1633000000.0,
+    "sharesOutstanding": 425000000.0
+  },
+  "ratios": {
+    "roe": 0.00083993280537557,
+    "roic": -0.007564614414793024,
+    "grossMargin": 0.7887280566676933,
+    "operatingMargin": -0.02217431475207884,
+    "netMargin": 0.0021558361564521095,
+    "debtToEquity": 0.14526
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2182400000.0,
+      "operatingIncome": 451000000.0,
+      "netIncome": 369500000.0,
+      "eps": 0.93,
+      "freeCashFlow": 384900000.0,
+      "totalDebt": 1105600000.0,
+      "cash": 4968000000.0,
+      "sharesOutstanding": 406671000.0,
+      "grossMargin": 0.8103005865102639,
+      "operatingMargin": 0.20665322580645162,
+      "netMargin": 0.16930901759530792,
+      "roe": 0.05378457059679767,
+      "roic": 0.05654746978283765
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2455000000.0,
+      "operatingIncome": 282000000.0,
+      "netIncome": 375000000.0,
+      "eps": 0.92,
+      "freeCashFlow": 347000000.0,
+      "totalDebt": 1110400000.0,
+      "cash": 5215900000.0,
+      "sharesOutstanding": 408100000.0,
+      "grossMargin": 0.8,
+      "operatingMargin": 0.11486761710794298,
+      "netMargin": 0.15274949083503056,
+      "roe": 0.051099664786199005,
+      "roic": 0.033376730974079775
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2736000000.0,
+      "operatingIncome": 5000000.0,
+      "netIncome": 139000000.0,
+      "eps": 0.34,
+      "freeCashFlow": -245000000.0,
+      "totalDebt": 1151000000.0,
+      "cash": 4681000000.0,
+      "sharesOutstanding": 409500000.0,
+      "grossMargin": 0.7960526315789473,
+      "operatingMargin": 0.001827485380116959,
+      "netMargin": 0.05080409356725146,
+      "roe": 0.018403283463524427,
+      "roic": 0.0005744485294117647
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3247000000.0,
+      "operatingIncome": -72000000.0,
+      "netIncome": 7000000.0,
+      "eps": 0.02,
+      "freeCashFlow": 41000000.0,
+      "totalDebt": 1184000000.0,
+      "cash": 1633000000.0,
+      "sharesOutstanding": 425000000.0,
+      "grossMargin": 0.7887280566676933,
+      "operatingMargin": -0.02217431475207884,
+      "netMargin": 0.0021558361564521095,
+      "roe": 0.00083993280537557,
+      "roic": -0.007564614414793024
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:06.561004+00:00"
+  }
+}

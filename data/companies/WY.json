@@ -1,0 +1,128 @@
+{
+  "ticker": "WY",
+  "name": "Weyerhaeuser Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17672755200.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.51,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6905000000.0,
+    "operatingIncome": 447000000.0,
+    "netIncome": 324000000.0,
+    "eps": 0.45,
+    "freeCashFlow": -381000000.0,
+    "totalDebt": 5597000000.0,
+    "cash": 464000000.0,
+    "sharesOutstanding": 720531000.0
+  },
+  "ratios": {
+    "roe": 0.03437301082113304,
+    "roic": 0.02975437662251215,
+    "grossMargin": 0.14844315713251266,
+    "operatingMargin": 0.06473569876900796,
+    "netMargin": 0.04692251991310645,
+    "debtToEquity": 0.57729
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10184000000.0,
+      "operatingIncome": 3099000000.0,
+      "netIncome": 1880000000.0,
+      "eps": 2.53,
+      "freeCashFlow": 2364000000.0,
+      "totalDebt": 5075000000.0,
+      "cash": 1581000000.0,
+      "sharesOutstanding": 732794000.0,
+      "grossMargin": 0.3554595443833464,
+      "operatingMargin": 0.3043008641005499,
+      "netMargin": 0.18460329929300864,
+      "roe": 0.174899990696809,
+      "roic": 0.1958417593528817
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7674000000.0,
+      "operatingIncome": 1128000000.0,
+      "netIncome": 839000000.0,
+      "eps": 1.15,
+      "freeCashFlow": 753000000.0,
+      "totalDebt": 5088000000.0,
+      "cash": 1164000000.0,
+      "sharesOutstanding": 729753000.0,
+      "grossMargin": 0.21918165233255146,
+      "operatingMargin": 0.14698983580922595,
+      "netMargin": 0.10933020589001824,
+      "roe": 0.08196561156701837,
+      "roic": 0.07361002349256068
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7124000000.0,
+      "operatingIncome": 724000000.0,
+      "netIncome": 396000000.0,
+      "eps": 0.54,
+      "freeCashFlow": 341000000.0,
+      "totalDebt": 5105000000.0,
+      "cash": 684000000.0,
+      "sharesOutstanding": 725845000.0,
+      "grossMargin": 0.1843065693430657,
+      "operatingMargin": 0.10162829870859068,
+      "netMargin": 0.05558674901740595,
+      "roe": 0.04073654973768131,
+      "roic": 0.04883313098610549
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6905000000.0,
+      "operatingIncome": 447000000.0,
+      "netIncome": 324000000.0,
+      "eps": 0.45,
+      "freeCashFlow": -381000000.0,
+      "totalDebt": 5597000000.0,
+      "cash": 464000000.0,
+      "sharesOutstanding": 720531000.0,
+      "grossMargin": 0.14844315713251266,
+      "operatingMargin": 0.06473569876900796,
+      "netMargin": 0.04692251991310645,
+      "roe": 0.03437301082113304,
+      "roic": 0.02975437662251215
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:41.153945+00:00"
+  }
+}

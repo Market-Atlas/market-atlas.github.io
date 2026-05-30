@@ -1,0 +1,128 @@
+{
+  "ticker": "KMI",
+  "name": "Kinder Morgan, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "USD",
+  "marketCap": {
+    "value": 69147590656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.08,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16937000000.0,
+    "operatingIncome": 4724000000.0,
+    "netIncome": 3056000000.0,
+    "eps": 1.37,
+    "freeCashFlow": 2891000000.0,
+    "totalDebt": 31782000000.0,
+    "cash": 63000000.0,
+    "sharesOutstanding": 2224777750.0
+  },
+  "ratios": {
+    "roe": 0.0980681599383865,
+    "roic": 0.07505083884087443,
+    "grossMargin": 0.5287240951762414,
+    "operatingMargin": 0.27891598275963864,
+    "netMargin": 0.18043337072681112,
+    "debtToEquity": 0.9884000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19200000000.0,
+      "operatingIncome": 4065000000.0,
+      "netIncome": 2548000000.0,
+      "eps": 1.12,
+      "freeCashFlow": 3346000000.0,
+      "totalDebt": 31568000000.0,
+      "cash": 745000000.0,
+      "sharesOutstanding": 2247681626.0,
+      "grossMargin": 0.40411458333333333,
+      "operatingMargin": 0.21171875,
+      "netMargin": 0.13270833333333334,
+      "roe": 0.08288335176631319,
+      "roic": 0.06523832450649976
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15334000000.0,
+      "operatingIncome": 4263000000.0,
+      "netIncome": 2391000000.0,
+      "eps": 1.06,
+      "freeCashFlow": 4174000000.0,
+      "totalDebt": 31895000000.0,
+      "cash": 83000000.0,
+      "sharesOutstanding": 2219729644.0,
+      "grossMargin": 0.5312377722707708,
+      "operatingMargin": 0.27800965175427156,
+      "netMargin": 0.15592800313029867,
+      "roe": 0.07889526826371016,
+      "roic": 0.06853587562900917
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15100000000.0,
+      "operatingIncome": 4384000000.0,
+      "netIncome": 2613000000.0,
+      "eps": 1.17,
+      "freeCashFlow": 3006000000.0,
+      "totalDebt": 31669000000.0,
+      "cash": 88000000.0,
+      "sharesOutstanding": 2221647775.0,
+      "grossMargin": 0.5568874172185431,
+      "operatingMargin": 0.29033112582781456,
+      "netMargin": 0.17304635761589404,
+      "roe": 0.08558514296944089,
+      "roic": 0.07048231511254019
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16937000000.0,
+      "operatingIncome": 4724000000.0,
+      "netIncome": 3056000000.0,
+      "eps": 1.37,
+      "freeCashFlow": 2891000000.0,
+      "totalDebt": 31782000000.0,
+      "cash": 63000000.0,
+      "sharesOutstanding": 2224777750.0,
+      "grossMargin": 0.5287240951762414,
+      "operatingMargin": 0.27891598275963864,
+      "netMargin": 0.18043337072681112,
+      "roe": 0.0980681599383865,
+      "roic": 0.07505083884087443
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.171296+00:00"
+  }
+}

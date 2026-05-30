@@ -1,0 +1,128 @@
+{
+  "ticker": "ADM",
+  "name": "Archer-Daniels-Midland Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38450491392.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 79.78,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 80269000000.0,
+    "operatingIncome": 1424000000.0,
+    "netIncome": 1078000000.0,
+    "eps": 2.23,
+    "freeCashFlow": 4204000000.0,
+    "totalDebt": 9758000000.0,
+    "cash": 1015000000.0,
+    "sharesOutstanding": 480000000.0
+  },
+  "ratios": {
+    "roe": 0.04742005014736286,
+    "roic": 0.0438275214674833,
+    "grossMargin": 0.06270166564925438,
+    "operatingMargin": 0.017740348079582403,
+    "netMargin": 0.013429842155751286,
+    "debtToEquity": 0.46128
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 101556000000.0,
+      "operatingIncome": 4212000000.0,
+      "netIncome": 4340000000.0,
+      "eps": 7.71,
+      "freeCashFlow": 2159000000.0,
+      "totalDebt": 10288000000.0,
+      "cash": 1037000000.0,
+      "sharesOutstanding": 547000000.0,
+      "grossMargin": 0.07454015518531648,
+      "operatingMargin": 0.041474654377880185,
+      "netMargin": 0.042735042735042736,
+      "roe": 0.17871849777631363,
+      "roic": 0.1218326969802152
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 93935000000.0,
+      "operatingIncome": 4057000000.0,
+      "netIncome": 3483000000.0,
+      "eps": 6.43,
+      "freeCashFlow": 2966000000.0,
+      "totalDebt": 9596000000.0,
+      "cash": 1368000000.0,
+      "sharesOutstanding": 513000000.0,
+      "grossMargin": 0.0799808378133816,
+      "operatingMargin": 0.04318943950604141,
+      "netMargin": 0.03707883110661628,
+      "roe": 0.14433117851815017,
+      "roic": 0.12028581593927894
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 85530000000.0,
+      "operatingIncome": 2072000000.0,
+      "netIncome": 1800000000.0,
+      "eps": 3.65,
+      "freeCashFlow": 1227000000.0,
+      "totalDebt": 11538000000.0,
+      "cash": 611000000.0,
+      "sharesOutstanding": 478000000.0,
+      "grossMargin": 0.06755524377411434,
+      "operatingMargin": 0.02422541798199462,
+      "netMargin": 0.02104524728165556,
+      "roe": 0.0811981234211476,
+      "roic": 0.0614727348246603
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 80269000000.0,
+      "operatingIncome": 1424000000.0,
+      "netIncome": 1078000000.0,
+      "eps": 2.23,
+      "freeCashFlow": 4204000000.0,
+      "totalDebt": 9758000000.0,
+      "cash": 1015000000.0,
+      "sharesOutstanding": 480000000.0,
+      "grossMargin": 0.06270166564925438,
+      "operatingMargin": 0.017740348079582403,
+      "netMargin": 0.013429842155751286,
+      "roe": 0.04742005014736286,
+      "roic": 0.0438275214674833
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:37.748142+00:00"
+  }
+}

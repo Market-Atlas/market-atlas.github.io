@@ -1,0 +1,128 @@
+{
+  "ticker": "YESBANK",
+  "name": "Yes Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 726583279616.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 168424700000.0,
+    "operatingIncome": null,
+    "netIncome": 35117100000.0,
+    "eps": null,
+    "freeCashFlow": 204777800000.0,
+    "totalDebt": 654508200000.0,
+    "cash": 383473500000.0,
+    "sharesOutstanding": 31379757057.0
+  },
+  "ratios": {
+    "roe": 0.06864379198353351,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.54693,
+    "netMargin": 0.20850326585114892,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.42,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 93697163000.0,
+      "operatingIncome": null,
+      "netIncome": 7358186000.0,
+      "eps": 0.28,
+      "freeCashFlow": -266078499000.0,
+      "totalDebt": 710169839000.0,
+      "cash": 502655747000.0,
+      "sharesOutstanding": 28754775334.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.078531577311471,
+      "roe": 0.01807101097606394,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 139782765000.0,
+      "operatingIncome": null,
+      "netIncome": 12852015000.0,
+      "eps": 0.44,
+      "freeCashFlow": 86638955000.0,
+      "totalDebt": 788626097000.0,
+      "cash": 634057001000.0,
+      "sharesOutstanding": 28767882106.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.091942772773167,
+      "roe": 0.030487388009507423,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 150772500000.0,
+      "operatingIncome": null,
+      "netIncome": 24464900000.0,
+      "eps": 0.78,
+      "freeCashFlow": 56446600000.0,
+      "totalDebt": 708674469000.0,
+      "cash": 655842846000.0,
+      "sharesOutstanding": 31354115322.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1622636754049976,
+      "roe": 0.0511471131812637,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 168424700000.0,
+      "operatingIncome": null,
+      "netIncome": 35117100000.0,
+      "eps": null,
+      "freeCashFlow": 204777800000.0,
+      "totalDebt": 654508200000.0,
+      "cash": 383473500000.0,
+      "sharesOutstanding": 31379757057.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20850326585114892,
+      "roe": 0.06864379198353351,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:16.770631+00:00"
+  }
+}

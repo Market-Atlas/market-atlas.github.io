@@ -1,0 +1,128 @@
+{
+  "ticker": "DG",
+  "name": "Dollar General Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24359233536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 110.61,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42724369000.0,
+    "operatingIncome": 2203668000.0,
+    "netIncome": 1512311000.0,
+    "eps": null,
+    "freeCashFlow": 2393338000.0,
+    "totalDebt": 15718656000.0,
+    "cash": 1138501000.0,
+    "sharesOutstanding": 220222000.0
+  },
+  "ratios": {
+    "roe": 0.17766890876627503,
+    "roic": 0.09094559618743525,
+    "grossMargin": 0.30660930299520633,
+    "operatingMargin": 0.05157871377807827,
+    "netMargin": 0.03539691832546433,
+    "debtToEquity": 1.84665
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.17,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 37844863000.0,
+      "operatingIncome": 3328302000.0,
+      "netIncome": 2415989000.0,
+      "eps": 10.68,
+      "freeCashFlow": 423973000.0,
+      "totalDebt": 17661099000.0,
+      "cash": 381576000.0,
+      "sharesOutstanding": 219105000.0,
+      "grossMargin": 0.31233031547769113,
+      "operatingMargin": 0.0879459386601558,
+      "netMargin": 0.06383928513626803,
+      "roe": 0.4359596533383185,
+      "roic": 0.1434435419651301
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 38691609000.0,
+      "operatingIncome": 2446300000.0,
+      "netIncome": 1661274000.0,
+      "eps": 7.55,
+      "freeCashFlow": 691576000.0,
+      "totalDebt": 18090766000.0,
+      "cash": 537283000.0,
+      "sharesOutstanding": 219663000.0,
+      "grossMargin": 0.3028828291943093,
+      "operatingMargin": 0.06322559498624107,
+      "netMargin": 0.042936286262998266,
+      "roe": 0.2461467933814769,
+      "roic": 0.09848274257308356
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 40612308000.0,
+      "operatingIncome": 1714074000.0,
+      "netIncome": 1125253000.0,
+      "eps": 5.11,
+      "freeCashFlow": 1686176000.0,
+      "totalDebt": 17463385000.0,
+      "cash": 932576000.0,
+      "sharesOutstanding": 219939000.0,
+      "grossMargin": 0.29590775781568485,
+      "operatingMargin": 0.0422057766330345,
+      "netMargin": 0.02770719162279573,
+      "roe": 0.15178007439463145,
+      "roic": 0.06890170281960609
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 42724369000.0,
+      "operatingIncome": 2203668000.0,
+      "netIncome": 1512311000.0,
+      "eps": null,
+      "freeCashFlow": 2393338000.0,
+      "totalDebt": 15718656000.0,
+      "cash": 1138501000.0,
+      "sharesOutstanding": 220222000.0,
+      "grossMargin": 0.30660930299520633,
+      "operatingMargin": 0.05157871377807827,
+      "netMargin": 0.03539691832546433,
+      "roe": 0.17766890876627503,
+      "roic": 0.09094559618743525
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:11.093234+00:00"
+  }
+}

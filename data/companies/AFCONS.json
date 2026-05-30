@@ -1,0 +1,128 @@
+{
+  "ticker": "AFCONS",
+  "name": "AFCONS INFRASTRUCTURE LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 124697378816.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 339.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 119483800000.0,
+    "operatingIncome": 7631900000.0,
+    "netIncome": 2515000000.0,
+    "eps": null,
+    "freeCashFlow": -4992800000.0,
+    "totalDebt": 36269100000.0,
+    "cash": 3857000000.0,
+    "sharesOutstanding": 367784631.0
+  },
+  "ratios": {
+    "roe": 0.046148482513119746,
+    "roic": 0.08408222803196312,
+    "grossMargin": 0.33954728590821515,
+    "operatingMargin": 0.0638739310266329,
+    "netMargin": 0.021048878592746463,
+    "debtToEquity": 0.66542
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 9.68923,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 125393150000.0,
+      "operatingIncome": 9060800000.0,
+      "netIncome": 4108700000.0,
+      "eps": 11.171484,
+      "freeCashFlow": 2965200000.0,
+      "totalDebt": 16122450000.0,
+      "cash": 3193210000.0,
+      "sharesOutstanding": 367784631.0,
+      "grossMargin": 0.2780813784485038,
+      "operatingMargin": 0.07225913058249195,
+      "netMargin": 0.032766542669994334,
+      "roe": 0.12937861611138016,
+      "roic": 0.18924122847231695
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 131943700000.0,
+      "operatingIncome": 9066600000.0,
+      "netIncome": 4497600000.0,
+      "eps": 12.228896,
+      "freeCashFlow": -89500000.0,
+      "totalDebt": 25232400000.0,
+      "cash": 4132600000.0,
+      "sharesOutstanding": 367784631.0,
+      "grossMargin": 0.29466507305767536,
+      "operatingMargin": 0.06871567191158047,
+      "netMargin": 0.034087266008153476,
+      "roe": 0.12507404163016728,
+      "roic": 0.1481666691179715
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 125484200000.0,
+      "operatingIncome": 8648600000.0,
+      "netIncome": 4868100000.0,
+      "eps": 13.24,
+      "freeCashFlow": -4766900000.0,
+      "totalDebt": 23433000000.0,
+      "cash": 4401700000.0,
+      "sharesOutstanding": 367784631.0,
+      "grossMargin": 0.3197390587819024,
+      "operatingMargin": 0.06892182442092311,
+      "netMargin": 0.03879452552592279,
+      "roe": 0.09254028118893189,
+      "roic": 0.11374019900523684
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 119483800000.0,
+      "operatingIncome": 7631900000.0,
+      "netIncome": 2515000000.0,
+      "eps": null,
+      "freeCashFlow": -4992800000.0,
+      "totalDebt": 36269100000.0,
+      "cash": 3857000000.0,
+      "sharesOutstanding": 367784631.0,
+      "grossMargin": 0.33954728590821515,
+      "operatingMargin": 0.0638739310266329,
+      "netMargin": 0.021048878592746463,
+      "roe": 0.046148482513119746,
+      "roic": 0.08408222803196312
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:50.166447+00:00"
+  }
+}

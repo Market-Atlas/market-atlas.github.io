@@ -1,0 +1,128 @@
+{
+  "ticker": "NVR",
+  "name": "NVR, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16478637056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6104.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10341845000.0,
+    "operatingIncome": 1689318000.0,
+    "netIncome": 1339816000.0,
+    "eps": 436.55,
+    "freeCashFlow": 1096812000.0,
+    "totalDebt": 1052893000.0,
+    "cash": 1916486000.0,
+    "sharesOutstanding": 20555330.0
+  },
+  "ratios": {
+    "roe": 0.3466653074140417,
+    "roic": 0.3435135738573766,
+    "grossMargin": 0.23094950659190888,
+    "operatingMargin": 0.16334783590355492,
+    "netMargin": 0.1295528989266422,
+    "debtToEquity": 0.3122
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10538287000.0,
+      "operatingIncome": 2250717000.0,
+      "netIncome": 1725575000.0,
+      "eps": 491.82,
+      "freeCashFlow": 1851673000.0,
+      "totalDebt": 1007674000.0,
+      "cash": 2522839000.0,
+      "sharesOutstanding": 20555330.0,
+      "grossMargin": 0.27291114770360686,
+      "operatingMargin": 0.21357522337359003,
+      "netMargin": 0.16374340535610768,
+      "roe": 0.4920585403021345,
+      "roic": 0.4985503451859698
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9534889000.0,
+      "operatingIncome": 1803654000.0,
+      "netIncome": 1591611000.0,
+      "eps": 463.31,
+      "freeCashFlow": 1473116000.0,
+      "totalDebt": 1014299000.0,
+      "cash": 3162894000.0,
+      "sharesOutstanding": 20555330.0,
+      "grossMargin": 0.2604845216341795,
+      "operatingMargin": 0.18916360746307587,
+      "netMargin": 0.16692496367812987,
+      "roe": 0.364653214120019,
+      "roic": 0.33531250278860997
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10543571000.0,
+      "operatingIncome": 1993919000.0,
+      "netIncome": 1681928000.0,
+      "eps": 506.69,
+      "freeCashFlow": 1345250000.0,
+      "totalDebt": 1020485000.0,
+      "cash": 2610975000.0,
+      "sharesOutstanding": 20555330.0,
+      "grossMargin": 0.2554183966703501,
+      "operatingMargin": 0.18911230360188214,
+      "netMargin": 0.15952166490840722,
+      "roe": 0.3995010061585645,
+      "roic": 0.38120586392615546
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10341845000.0,
+      "operatingIncome": 1689318000.0,
+      "netIncome": 1339816000.0,
+      "eps": 436.55,
+      "freeCashFlow": 1096812000.0,
+      "totalDebt": 1052893000.0,
+      "cash": 1916486000.0,
+      "sharesOutstanding": 20555330.0,
+      "grossMargin": 0.23094950659190888,
+      "operatingMargin": 0.16334783590355492,
+      "netMargin": 0.1295528989266422,
+      "roe": 0.3466653074140417,
+      "roic": 0.3435135738573766
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:02.759938+00:00"
+  }
+}

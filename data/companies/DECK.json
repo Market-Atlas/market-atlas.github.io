@@ -1,0 +1,111 @@
+{
+  "ticker": "DECK",
+  "name": "Deckers Outdoor Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15811597312.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 113.85,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5472296000.0,
+    "operatingIncome": 1262903000.0,
+    "netIncome": 1024071000.0,
+    "eps": 7.02,
+    "freeCashFlow": 1097332000.0,
+    "totalDebt": 375194000.0,
+    "cash": 1907249000.0,
+    "sharesOutstanding": 139978000.0
+  },
+  "ratios": {
+    "roe": 0.40968772278225885,
+    "roic": 0.4392962788782092,
+    "grossMargin": 0.5770385958654284,
+    "operatingMargin": 0.23078119312259424,
+    "netMargin": 0.18713735514306976,
+    "debtToEquity": 0.1501
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3627286000.0,
+      "operatingIncome": 652751000.0,
+      "netIncome": 516822000.0,
+      "eps": 3.228333,
+      "freeCashFlow": 456397000.0,
+      "totalDebt": 246488000.0,
+      "cash": 981795000.0,
+      "sharesOutstanding": 157056000.0,
+      "grossMargin": 0.5032329956887877,
+      "operatingMargin": 0.17995575755537335,
+      "netMargin": 0.1424817342773633,
+      "roe": 0.2926954414965343,
+      "roic": 0.3243932947722939
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4287763000.0,
+      "operatingIncome": 927514000.0,
+      "netIncome": 759563000.0,
+      "eps": 4.86,
+      "freeCashFlow": 943819000.0,
+      "totalDebt": 266879000.0,
+      "cash": 1502051000.0,
+      "sharesOutstanding": 153558000.0,
+      "grossMargin": 0.5563479138189308,
+      "operatingMargin": 0.21631652682296107,
+      "netMargin": 0.17714668464651614,
+      "roe": 0.36041496240986814,
+      "roic": 0.3906396158606977
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4985612000.0,
+      "operatingIncome": 1179092000.0,
+      "netIncome": 966091000.0,
+      "eps": 6.33,
+      "freeCashFlow": 958352000.0,
+      "totalDebt": 276975000.0,
+      "cash": 1889188000.0,
+      "sharesOutstanding": 150201000.0,
+      "grossMargin": 0.57879814955516,
+      "operatingMargin": 0.23649894937672647,
+      "netMargin": 0.19377580926875176,
+      "roe": 0.3844353371828956,
+      "roic": 0.4226154377724922
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 5472296000.0,
+      "operatingIncome": 1262903000.0,
+      "netIncome": 1024071000.0,
+      "eps": 7.02,
+      "freeCashFlow": 1097332000.0,
+      "totalDebt": 375194000.0,
+      "cash": 1907249000.0,
+      "sharesOutstanding": 139978000.0,
+      "grossMargin": 0.5770385958654284,
+      "operatingMargin": 0.23078119312259424,
+      "netMargin": 0.18713735514306976,
+      "roe": 0.40968772278225885,
+      "roic": 0.4392962788782092
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:10.973164+00:00"
+  }
+}

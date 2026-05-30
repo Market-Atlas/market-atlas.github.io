@@ -1,0 +1,128 @@
+{
+  "ticker": "TVSMOTOR",
+  "name": "TVS Motor Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1594716717056.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3355.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 560695200000.0,
+    "operatingIncome": 71206900000.0,
+    "netIncome": 30183300000.0,
+    "eps": 63.53,
+    "freeCashFlow": -13684900000.0,
+    "totalDebt": 327910100000.0,
+    "cash": 39264500000.0,
+    "sharesOutstanding": 475087114.0
+  },
+  "ratios": {
+    "roe": 0.3155845988969339,
+    "roic": 0.1681181983064205,
+    "grossMargin": 0.3779194114734708,
+    "operatingMargin": 0.12699752022132524,
+    "netMargin": 0.05383192151457691,
+    "debtToEquity": 3.0608999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 274336800000.0,
+      "operatingIncome": -5469900000.0,
+      "netIncome": 13286700000.0,
+      "eps": 27.97,
+      "freeCashFlow": -57455800000.0,
+      "totalDebt": 223755800000.0,
+      "cash": 18511900000.0,
+      "sharesOutstanding": 475087114.0,
+      "grossMargin": 0.23795640978534416,
+      "operatingMargin": -0.019938630180128952,
+      "netMargin": 0.04843207327635228,
+      "roe": 0.24135694822888284,
+      "roic": -0.019619032315683533
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 326684600000.0,
+      "operatingIncome": -5813500000.0,
+      "netIncome": 16863700000.0,
+      "eps": 35.5,
+      "freeCashFlow": -23978400000.0,
+      "totalDebt": 260057000000.0,
+      "cash": 23558000000.0,
+      "sharesOutstanding": 475087114.0,
+      "grossMargin": 0.25538363302096273,
+      "operatingMargin": -0.017795451637450922,
+      "netMargin": 0.05162073755542808,
+      "roe": 0.24859843945096272,
+      "roic": -0.017729917860174124
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 440890100000.0,
+      "operatingIncome": 56031600000.0,
+      "netIncome": 22355600000.0,
+      "eps": 47.05,
+      "freeCashFlow": 10248600000.0,
+      "totalDebt": 286087100000.0,
+      "cash": 41150000000.0,
+      "sharesOutstanding": 475087114.0,
+      "grossMargin": 0.3938661811639681,
+      "operatingMargin": 0.1270874533131953,
+      "netMargin": 0.050705606680667134,
+      "roe": 0.2629025164111212,
+      "roic": 0.15097937087348084
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 560695200000.0,
+      "operatingIncome": 71206900000.0,
+      "netIncome": 30183300000.0,
+      "eps": 63.53,
+      "freeCashFlow": -13684900000.0,
+      "totalDebt": 327910100000.0,
+      "cash": 39264500000.0,
+      "sharesOutstanding": 475087114.0,
+      "grossMargin": 0.3779194114734708,
+      "operatingMargin": 0.12699752022132524,
+      "netMargin": 0.05383192151457691,
+      "roe": 0.3155845988969339,
+      "roic": 0.1681181983064205
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:10.403716+00:00"
+  }
+}

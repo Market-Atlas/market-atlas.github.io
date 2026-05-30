@@ -1,0 +1,111 @@
+{
+  "ticker": "TPR",
+  "name": "Tapestry, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 29389426688.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 145.46,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7010700000.0,
+    "operatingIncome": 1269800000.0,
+    "netIncome": 183200000.0,
+    "eps": 0.82,
+    "freeCashFlow": 1093900000.0,
+    "totalDebt": 3899200000.0,
+    "cash": 1100000000.0,
+    "sharesOutstanding": 208100000.0
+  },
+  "ratios": {
+    "roe": 0.21356959664257402,
+    "roic": 0.26693294092915704,
+    "grossMargin": 0.7544039824839175,
+    "operatingMargin": 0.18112314034261914,
+    "netMargin": 0.026131484730483403,
+    "debtToEquity": 5.7491200000000005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 6684500000.0,
+      "operatingIncome": 1175800000.0,
+      "netIncome": 856300000.0,
+      "eps": 3.17,
+      "freeCashFlow": 759300000.0,
+      "totalDebt": 3261400000.0,
+      "cash": 789800000.0,
+      "sharesOutstanding": 241200000.0,
+      "grossMargin": 0.6956990051611938,
+      "operatingMargin": 0.1758994689206373,
+      "netMargin": 0.12810232627720847,
+      "roe": 0.3746663749726537,
+      "roic": 0.21197425589067767
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 6660900000.0,
+      "operatingIncome": 1172400000.0,
+      "netIncome": 936000000.0,
+      "eps": 3.88,
+      "freeCashFlow": 791000000.0,
+      "totalDebt": 3292000000.0,
+      "cash": 726100000.0,
+      "sharesOutstanding": 227400000.0,
+      "grossMargin": 0.707847287904037,
+      "operatingMargin": 0.1760122505967662,
+      "netMargin": 0.14052155114173762,
+      "roe": 0.41092282026516813,
+      "roic": 0.21049229774857267
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 6671200000.0,
+      "operatingIncome": 1140100000.0,
+      "netIncome": 816000000.0,
+      "eps": 3.5,
+      "freeCashFlow": 1146700000.0,
+      "totalDebt": 8764500000.0,
+      "cash": 6142000000.0,
+      "sharesOutstanding": 230200000.0,
+      "grossMargin": 0.7329266099052644,
+      "operatingMargin": 0.17089878882359996,
+      "netMargin": 0.12231682455929968,
+      "roe": 0.2816804169974801,
+      "roic": 0.09776699195636887
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 7010700000.0,
+      "operatingIncome": 1269800000.0,
+      "netIncome": 183200000.0,
+      "eps": 0.82,
+      "freeCashFlow": 1093900000.0,
+      "totalDebt": 3899200000.0,
+      "cash": 1100000000.0,
+      "sharesOutstanding": 208100000.0,
+      "grossMargin": 0.7544039824839175,
+      "operatingMargin": 0.18112314034261914,
+      "netMargin": 0.026131484730483403,
+      "roe": 0.21356959664257402,
+      "roic": 0.26693294092915704
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:27.934076+00:00"
+  }
+}

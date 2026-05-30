@@ -1,0 +1,111 @@
+{
+  "ticker": "GRSE",
+  "name": "Garden Reach Shipbuilders & Engineers Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "INR",
+  "marketCap": {
+    "value": 304112664576.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2654.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 50709831000.0,
+    "operatingIncome": 4170631000.0,
+    "netIncome": 5274038000.0,
+    "eps": 46.04,
+    "freeCashFlow": -514693000.0,
+    "totalDebt": 96688000.0,
+    "cash": 38827000.0,
+    "sharesOutstanding": 114552000.0
+  },
+  "ratios": {
+    "roe": 0.25364946723414994,
+    "roic": 0.19965382296937303,
+    "grossMargin": 0.20717751948335225,
+    "operatingMargin": 0.08224501872230652,
+    "netMargin": 0.10400425116778637,
+    "debtToEquity": 0.01424
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 17452802000.0,
+      "operatingIncome": 1122624000.0,
+      "netIncome": 1895268000.0,
+      "eps": 16.55,
+      "freeCashFlow": -4105261000.0,
+      "totalDebt": 112042000.0,
+      "cash": 97126000.0,
+      "sharesOutstanding": 114552000.0,
+      "grossMargin": 0.3128540047609547,
+      "operatingMargin": 0.06432342497210476,
+      "netMargin": 0.10859390944789267,
+      "roe": 0.1506703245361461,
+      "roic": 0.08845863299899795
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 25478372000.0,
+      "operatingIncome": 1265419000.0,
+      "netIncome": 2281240000.0,
+      "eps": 19.91,
+      "freeCashFlow": 14079748000.0,
+      "totalDebt": 3121075000.0,
+      "cash": 139855000.0,
+      "sharesOutstanding": 114552000.0,
+      "grossMargin": 0.24213411280752162,
+      "operatingMargin": 0.04966639940730907,
+      "netMargin": 0.08953633301217205,
+      "roe": 0.16135321567316857,
+      "roic": 0.07331830757419934
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 35884631000.0,
+      "operatingIncome": 2113623000.0,
+      "netIncome": 3572677000.0,
+      "eps": 31.19,
+      "freeCashFlow": -7549625000.0,
+      "totalDebt": 656706000.0,
+      "cash": 52700000.0,
+      "sharesOutstanding": 114552000.0,
+      "grossMargin": 0.22587513857952168,
+      "operatingMargin": 0.05890050813118296,
+      "netMargin": 0.09956008743687514,
+      "roe": 0.2134931248460879,
+      "roic": 0.12153478547498016
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 50709831000.0,
+      "operatingIncome": 4170631000.0,
+      "netIncome": 5274038000.0,
+      "eps": 46.04,
+      "freeCashFlow": -514693000.0,
+      "totalDebt": 96688000.0,
+      "cash": 38827000.0,
+      "sharesOutstanding": 114552000.0,
+      "grossMargin": 0.20717751948335225,
+      "operatingMargin": 0.08224501872230652,
+      "netMargin": 0.10400425116778637,
+      "roe": 0.25364946723414994,
+      "roic": 0.19965382296937303
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:50.400232+00:00"
+  }
+}

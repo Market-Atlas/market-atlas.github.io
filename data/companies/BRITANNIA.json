@@ -1,0 +1,128 @@
+{
+  "ticker": "BRITANNIA",
+  "name": "Britannia Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1253598953472.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5204.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 188582100000.0,
+    "operatingIncome": 32076000000.0,
+    "netIncome": 25334900000.0,
+    "eps": 105.18,
+    "freeCashFlow": 24060300000.0,
+    "totalDebt": 13802800000.0,
+    "cash": 2200000000.0,
+    "sharesOutstanding": 240868296.0
+  },
+  "ratios": {
+    "roe": 0.49612459268078707,
+    "roic": 0.49447805094622344,
+    "grossMargin": 0.40965340825030583,
+    "operatingMargin": 0.17009037443108332,
+    "netMargin": 0.13434413976724197,
+    "debtToEquity": 0.26875
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 159849000000.0,
+      "operatingIncome": 26105900000.0,
+      "netIncome": 23217700000.0,
+      "eps": 96.39,
+      "freeCashFlow": 18147500000.0,
+      "totalDebt": 30076200000.0,
+      "cash": 1023800000.0,
+      "sharesOutstanding": 240868296.0,
+      "grossMargin": 0.39682888225763063,
+      "operatingMargin": 0.16331600447922728,
+      "netMargin": 0.14524770251925254,
+      "roe": 0.6569305684059226,
+      "roic": 0.39905745893006456
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 165462100000.0,
+      "operatingIncome": 28693800000.0,
+      "netIncome": 21398100000.0,
+      "eps": 88.84,
+      "freeCashFlow": 20201100000.0,
+      "totalDebt": 20746300000.0,
+      "cash": 3228000000.0,
+      "sharesOutstanding": 240868296.0,
+      "grossMargin": 0.4229421722557613,
+      "operatingMargin": 0.17341614786709464,
+      "netMargin": 0.12932327100888966,
+      "roe": 0.5428895451500944,
+      "roic": 0.4769462197584834
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 175350200000.0,
+      "operatingIncome": 28738100000.0,
+      "netIncome": 21787300000.0,
+      "eps": 90.45,
+      "freeCashFlow": 21157700000.0,
+      "totalDebt": 12641400000.0,
+      "cash": 1327800000.0,
+      "sharesOutstanding": 240868296.0,
+      "grossMargin": 0.3952644479447414,
+      "operatingMargin": 0.1638897474881694,
+      "netMargin": 0.12425021471318538,
+      "roe": 0.5001997373568549,
+      "roic": 0.5113668312022007
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 188582100000.0,
+      "operatingIncome": 32076000000.0,
+      "netIncome": 25334900000.0,
+      "eps": 105.18,
+      "freeCashFlow": 24060300000.0,
+      "totalDebt": 13802800000.0,
+      "cash": 2200000000.0,
+      "sharesOutstanding": 240868296.0,
+      "grossMargin": 0.40965340825030583,
+      "operatingMargin": 0.17009037443108332,
+      "netMargin": 0.13434413976724197,
+      "roe": 0.49612459268078707,
+      "roic": 0.49447805094622344
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.830488+00:00"
+  }
+}

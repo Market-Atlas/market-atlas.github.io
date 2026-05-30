@@ -1,0 +1,128 @@
+{
+  "ticker": "SBAC",
+  "name": "SBA Communications Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21547763712.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 203.16,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2815139000.0,
+    "operatingIncome": 1554271000.0,
+    "netIncome": 1053632000.0,
+    "eps": 9.8,
+    "freeCashFlow": 1066509000.0,
+    "totalDebt": 15319130000.0,
+    "cash": 264568000.0,
+    "sharesOutstanding": 105666000.0
+  },
+  "ratios": {
+    "roe": -0.21708620075454532,
+    "roic": 0.14851220822176556,
+    "grossMargin": 0.7545513738397998,
+    "operatingMargin": 0.5521116364058756,
+    "netMargin": 0.37427352610297393,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2633454000.0,
+      "operatingIncome": 995375000.0,
+      "netIncome": 461429000.0,
+      "eps": 4.22,
+      "freeCashFlow": 1071257000.0,
+      "totalDebt": 15171155000.0,
+      "cash": 143708000.0,
+      "sharesOutstanding": 107997000.0,
+      "grossMargin": 0.7460939131649916,
+      "operatingMargin": 0.37797318654512285,
+      "netMargin": 0.1752181735469843,
+      "roe": -0.08745289089070686,
+      "roic": 0.10059536081432342
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2711584000.0,
+      "operatingIncome": 1114717000.0,
+      "netIncome": 501812000.0,
+      "eps": 4.61,
+      "freeCashFlow": 1307695000.0,
+      "totalDebt": 14463465000.0,
+      "cash": 208547000.0,
+      "sharesOutstanding": 108050000.0,
+      "grossMargin": 0.7740722765733977,
+      "operatingMargin": 0.4110944009110542,
+      "netMargin": 0.1850623104428998,
+      "roe": -0.09704572643506465,
+      "roic": 0.11995771251115002
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2679634000.0,
+      "operatingIncome": 1569634000.0,
+      "netIncome": 749536000.0,
+      "eps": 6.94,
+      "freeCashFlow": 1106717000.0,
+      "totalDebt": 15756194000.0,
+      "cash": 189841000.0,
+      "sharesOutstanding": 107561000.0,
+      "grossMargin": 0.7829080389336752,
+      "operatingMargin": 0.5857643245308874,
+      "netMargin": 0.2797158119355106,
+      "roe": -0.14668201453716267,
+      "roic": 0.14743530495603338
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2815139000.0,
+      "operatingIncome": 1554271000.0,
+      "netIncome": 1053632000.0,
+      "eps": 9.8,
+      "freeCashFlow": 1066509000.0,
+      "totalDebt": 15319130000.0,
+      "cash": 264568000.0,
+      "sharesOutstanding": 105666000.0,
+      "grossMargin": 0.7545513738397998,
+      "operatingMargin": 0.5521116364058756,
+      "netMargin": 0.37427352610297393,
+      "roe": -0.21708620075454532,
+      "roic": 0.14851220822176556
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:17.907894+00:00"
+  }
+}

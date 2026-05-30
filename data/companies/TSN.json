@@ -1,0 +1,111 @@
+{
+  "ticker": "TSN",
+  "name": "Tyson Foods, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21486936064.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 61.02,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 54441000000.0,
+    "operatingIncome": 1441000000.0,
+    "netIncome": 474000000.0,
+    "eps": 1.33,
+    "freeCashFlow": 1177000000.0,
+    "totalDebt": 8830000000.0,
+    "cash": 1229000000.0,
+    "sharesOutstanding": 448009005.0
+  },
+  "ratios": {
+    "roe": 0.02620956593862317,
+    "roic": 0.053538918818502694,
+    "grossMargin": 0.06542862915817123,
+    "operatingMargin": 0.02646902150952407,
+    "netMargin": 0.008706673279329917,
+    "debtToEquity": 0.44409999999999994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 53282000000.0,
+      "operatingIncome": 4410000000.0,
+      "netIncome": 3238000000.0,
+      "eps": 8.92,
+      "freeCashFlow": 800000000.0,
+      "totalDebt": 8321000000.0,
+      "cash": 1031000000.0,
+      "sharesOutstanding": 448000000.0,
+      "grossMargin": 0.12514545249802936,
+      "operatingMargin": 0.08276716339476746,
+      "netMargin": 0.06077099207987688,
+      "roe": 0.16434879707643893,
+      "roic": 0.15737073118509795
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 52881000000.0,
+      "operatingIncome": 386000000.0,
+      "netIncome": -648000000.0,
+      "eps": -1.87,
+      "freeCashFlow": -187000000.0,
+      "totalDebt": 9506000000.0,
+      "cash": 573000000.0,
+      "sharesOutstanding": 448000000.0,
+      "grossMargin": 0.04975321949282351,
+      "operatingMargin": 0.007299408104990451,
+      "netMargin": -0.012253928632211947,
+      "roe": -0.035735951028511556,
+      "roic": 0.01396577300191758
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 53309000000.0,
+      "operatingIncome": 1409000000.0,
+      "netIncome": 800000000.0,
+      "eps": 2.25,
+      "freeCashFlow": 1458000000.0,
+      "totalDebt": 9787000000.0,
+      "cash": 1717000000.0,
+      "sharesOutstanding": 447829698.0,
+      "grossMargin": 0.06803729201448161,
+      "operatingMargin": 0.026430809056632087,
+      "netMargin": 0.01500684687388621,
+      "roe": 0.043501903208265365,
+      "roic": 0.050005323490790364
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 54441000000.0,
+      "operatingIncome": 1441000000.0,
+      "netIncome": 474000000.0,
+      "eps": 1.33,
+      "freeCashFlow": 1177000000.0,
+      "totalDebt": 8830000000.0,
+      "cash": 1229000000.0,
+      "sharesOutstanding": 448009005.0,
+      "grossMargin": 0.06542862915817123,
+      "operatingMargin": 0.02646902150952407,
+      "netMargin": 0.008706673279329917,
+      "roe": 0.02620956593862317,
+      "roic": 0.053538918818502694
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:29.595004+00:00"
+  }
+}

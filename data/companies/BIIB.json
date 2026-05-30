@@ -1,0 +1,128 @@
+{
+  "ticker": "BIIB",
+  "name": "Biogen Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28936876032.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 196.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9890600000.0,
+    "operatingIncome": 2469000000.0,
+    "netIncome": 1292900000.0,
+    "eps": 8.79,
+    "freeCashFlow": 1969200000.0,
+    "totalDebt": 6577200000.0,
+    "cash": 3008500000.0,
+    "sharesOutstanding": 170600000.0
+  },
+  "ratios": {
+    "roe": 0.0708174488409798,
+    "roic": 0.09942014979463638,
+    "grossMargin": 0.7569207125957981,
+    "operatingMargin": 0.24963096273229127,
+    "netMargin": 0.13072007764948537,
+    "debtToEquity": 0.35180999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10173400000.0,
+      "operatingIncome": 2901900000.0,
+      "netIncome": 3046900000.0,
+      "eps": 20.87,
+      "freeCashFlow": 1141100000.0,
+      "totalDebt": 6614000000.0,
+      "cash": 3419300000.0,
+      "sharesOutstanding": 167800000.0,
+      "grossMargin": 0.7760532368726286,
+      "operatingMargin": 0.28524387127214107,
+      "netMargin": 0.29949672675801603,
+      "roe": 0.22741623687294277,
+      "roic": 0.14500871981171204
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9835600000.0,
+      "operatingIncome": 1847700000.0,
+      "netIncome": 1161100000.0,
+      "eps": 7.97,
+      "freeCashFlow": 1235800000.0,
+      "totalDebt": 7338200000.0,
+      "cash": 1049900000.0,
+      "sharesOutstanding": 168700000.0,
+      "grossMargin": 0.7424254748058075,
+      "operatingMargin": 0.1878583919638863,
+      "netMargin": 0.11805075440237504,
+      "roe": 0.07845588334662217,
+      "roic": 0.08346433217692975
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9675900000.0,
+      "operatingIncome": 2280400000.0,
+      "netIncome": 1632200000.0,
+      "eps": 11.18,
+      "freeCashFlow": 2515700000.0,
+      "totalDebt": 6630300000.0,
+      "cash": 2375000000.0,
+      "sharesOutstanding": 169519340.0,
+      "grossMargin": 0.7612211783916741,
+      "operatingMargin": 0.23567833483190195,
+      "netMargin": 0.16868715054930292,
+      "roe": 0.09764297678870543,
+      "roic": 0.09767714798490554
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9890600000.0,
+      "operatingIncome": 2469000000.0,
+      "netIncome": 1292900000.0,
+      "eps": 8.79,
+      "freeCashFlow": 1969200000.0,
+      "totalDebt": 6577200000.0,
+      "cash": 3008500000.0,
+      "sharesOutstanding": 170600000.0,
+      "grossMargin": 0.7569207125957981,
+      "operatingMargin": 0.24963096273229127,
+      "netMargin": 0.13072007764948537,
+      "roe": 0.0708174488409798,
+      "roic": 0.09942014979463638
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:50.925792+00:00"
+  }
+}

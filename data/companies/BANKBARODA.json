@@ -1,0 +1,128 @@
+{
+  "ticker": "BANKBARODA",
+  "name": "Bank of Baroda Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1388510838784.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 268.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 749655100000.0,
+    "operatingIncome": null,
+    "netIncome": 198464200000.0,
+    "eps": 38.38,
+    "freeCashFlow": 316100900000.0,
+    "totalDebt": 1702965900000.0,
+    "cash": 1608231200000.0,
+    "sharesOutstanding": 5171362179.0
+  },
+  "ratios": {
+    "roe": 0.11965183415639706,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.38452998,
+    "netMargin": 0.2647406787467997,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 557910573000.0,
+      "operatingIncome": null,
+      "netIncome": 149052030000.0,
+      "eps": 28.82,
+      "freeCashFlow": -223366100000.0,
+      "totalDebt": 1054811554000.0,
+      "cash": 1023733888000.0,
+      "sharesOutstanding": 5171362179.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.26716114949841613,
+      "roe": 0.14188037866377837,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 679012730000.0,
+      "operatingIncome": null,
+      "netIncome": 187673789000.0,
+      "eps": 36.29,
+      "freeCashFlow": -76294200000.0,
+      "totalDebt": 930891013000.0,
+      "cash": 1002898458000.0,
+      "sharesOutstanding": 5171362179.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2763921509984062,
+      "roe": 0.156770758747794,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 746192200000.0,
+      "operatingIncome": null,
+      "netIncome": 207163300000.0,
+      "eps": 40.06,
+      "freeCashFlow": 285590900000.0,
+      "totalDebt": 1058127678000.0,
+      "cash": 1324777325000.0,
+      "sharesOutstanding": 5171362179.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2776272654686018,
+      "roe": 0.1414057750232019,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 749655100000.0,
+      "operatingIncome": null,
+      "netIncome": 198464200000.0,
+      "eps": 38.38,
+      "freeCashFlow": 316100900000.0,
+      "totalDebt": 1702965900000.0,
+      "cash": 1608231200000.0,
+      "sharesOutstanding": 5171362179.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2647406787467997,
+      "roe": 0.11965183415639706,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:59.502460+00:00"
+  }
+}

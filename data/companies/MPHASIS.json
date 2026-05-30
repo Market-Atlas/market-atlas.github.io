@@ -1,0 +1,111 @@
+{
+  "ticker": "MPHASIS",
+  "name": "Mphasis Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 433421844480.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2271.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 142299870000.0,
+    "operatingIncome": 21706430000.0,
+    "netIncome": 17021390000.0,
+    "eps": 89.36,
+    "freeCashFlow": 18433630000.0,
+    "totalDebt": 18882230000.0,
+    "cash": 9863450000.0,
+    "sharesOutstanding": 190076841.0
+  },
+  "ratios": {
+    "roe": 0.17678323575390958,
+    "roic": 0.18847918820619142,
+    "grossMargin": 0.3045956401787296,
+    "operatingMargin": 0.15254005502605167,
+    "netMargin": 0.1196163425869609,
+    "debtToEquity": 0.24383
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 119614440000.0,
+      "operatingIncome": 18268530000.0,
+      "netIncome": 14308890000.0,
+      "eps": 75.61,
+      "freeCashFlow": 15957070000.0,
+      "totalDebt": 12519320000.0,
+      "cash": 8268470000.0,
+      "sharesOutstanding": 187817716.0,
+      "grossMargin": 0.2820118540871821,
+      "operatingMargin": 0.15272846656306713,
+      "netMargin": 0.11962510546385537,
+      "roe": 0.20608699446978604,
+      "roic": 0.22292116607279286
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 137984970000.0,
+      "operatingIncome": 21087160000.0,
+      "netIncome": 16379220000.0,
+      "eps": 86.37,
+      "freeCashFlow": 13486200000.0,
+      "totalDebt": 10527660000.0,
+      "cash": 10441130000.0,
+      "sharesOutstanding": 188400043.0,
+      "grossMargin": 0.28361799114787645,
+      "operatingMargin": 0.15282215157201542,
+      "netMargin": 0.11870292829719063,
+      "roe": 0.20642157956828108,
+      "roic": 0.23462490841553452
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 132785150000.0,
+      "operatingIncome": 18484870000.0,
+      "netIncome": 15548200000.0,
+      "eps": 81.83,
+      "freeCashFlow": 20860050000.0,
+      "totalDebt": 23885850000.0,
+      "cash": 8049140000.0,
+      "sharesOutstanding": 188997999.0,
+      "grossMargin": 0.29147378302468313,
+      "operatingMargin": 0.13920886484670913,
+      "netMargin": 0.1170929128746701,
+      "roe": 0.17679257726332068,
+      "roic": 0.16529164097705618
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 142299870000.0,
+      "operatingIncome": 21706430000.0,
+      "netIncome": 17021390000.0,
+      "eps": 89.36,
+      "freeCashFlow": 18433630000.0,
+      "totalDebt": 18882230000.0,
+      "cash": 9863450000.0,
+      "sharesOutstanding": 190076841.0,
+      "grossMargin": 0.3045956401787296,
+      "operatingMargin": 0.15254005502605167,
+      "netMargin": 0.1196163425869609,
+      "roe": 0.17678323575390958,
+      "roic": 0.18847918820619142
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:27.635024+00:00"
+  }
+}

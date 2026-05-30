@@ -1,0 +1,128 @@
+{
+  "ticker": "TFC",
+  "name": "Truist Financial Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 60063825920.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 48.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20319000000.0,
+    "operatingIncome": null,
+    "netIncome": 5307000000.0,
+    "eps": 3.82,
+    "freeCashFlow": null,
+    "totalDebt": 64305000000.0,
+    "cash": 36377000000.0,
+    "sharesOutstanding": 1262470000.0
+  },
+  "ratios": {
+    "roe": 0.08140944024298578,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.38990003,
+    "netMargin": 0.26118411339140707,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19973000000.0,
+      "operatingIncome": null,
+      "netIncome": 6260000000.0,
+      "eps": 4.43,
+      "freeCashFlow": 10517000000.0,
+      "totalDebt": 62946000000.0,
+      "cash": 21421000000.0,
+      "sharesOutstanding": 1326829000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3134231212136384,
+      "roe": 0.10344713619988763,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20022000000.0,
+      "operatingIncome": null,
+      "netIncome": -1091000000.0,
+      "eps": -1.09,
+      "freeCashFlow": null,
+      "totalDebt": 59694000000.0,
+      "cash": 30230000000.0,
+      "sharesOutstanding": 1333743000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.054490060932973726,
+      "roe": -0.01845992453596386,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13278000000.0,
+      "operatingIncome": null,
+      "netIncome": 4818000000.0,
+      "eps": 3.36,
+      "freeCashFlow": null,
+      "totalDebt": 52590000000.0,
+      "cash": 39768000000.0,
+      "sharesOutstanding": 1315936000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.36285585178490737,
+      "roe": 0.07566073587839005,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20319000000.0,
+      "operatingIncome": null,
+      "netIncome": 5307000000.0,
+      "eps": 3.82,
+      "freeCashFlow": null,
+      "totalDebt": 64305000000.0,
+      "cash": 36377000000.0,
+      "sharesOutstanding": 1262470000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.26118411339140707,
+      "roe": 0.08140944024298578,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:25.914644+00:00"
+  }
+}

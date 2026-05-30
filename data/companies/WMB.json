@@ -1,0 +1,128 @@
+{
+  "ticker": "WMB",
+  "name": "The Williams Companies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "USD",
+  "marketCap": {
+    "value": 87309844480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 71.39,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11950000000.0,
+    "operatingIncome": 4408000000.0,
+    "netIncome": 2618000000.0,
+    "eps": 2.14,
+    "freeCashFlow": 899000000.0,
+    "totalDebt": 29393000000.0,
+    "cash": 63000000.0,
+    "sharesOutstanding": 1261000000.0
+  },
+  "ratios": {
+    "roe": 0.20441945810884674,
+    "roic": 0.10445497630331753,
+    "grossMargin": 0.619581589958159,
+    "operatingMargin": 0.36887029288702927,
+    "netMargin": 0.21907949790794978,
+    "debtToEquity": 1.9985499999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10965000000.0,
+      "operatingIncome": 3018000000.0,
+      "netIncome": 2049000000.0,
+      "eps": 1.67,
+      "freeCashFlow": 2606000000.0,
+      "totalDebt": 22929000000.0,
+      "cash": 152000000.0,
+      "sharesOutstanding": 1253000000.0,
+      "grossMargin": 0.5015047879616963,
+      "operatingMargin": 0.27523939808481535,
+      "netMargin": 0.18686730506155952,
+      "roe": 0.17840661732694818,
+      "roic": 0.08769686755390248
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10907000000.0,
+      "operatingIncome": 4192000000.0,
+      "netIncome": 3179000000.0,
+      "eps": 2.6,
+      "freeCashFlow": 3371000000.0,
+      "totalDebt": 26462000000.0,
+      "cash": 2150000000.0,
+      "sharesOutstanding": 1255498672.0,
+      "grossMargin": 0.6235445126982672,
+      "operatingMargin": 0.38434033189694694,
+      "netMargin": 0.29146419730448336,
+      "roe": 0.25632962425415257,
+      "roic": 0.10786331823795801
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10503000000.0,
+      "operatingIncome": 3339000000.0,
+      "netIncome": 2225000000.0,
+      "eps": 1.82,
+      "freeCashFlow": 2296000000.0,
+      "totalDebt": 26937000000.0,
+      "cash": 60000000.0,
+      "sharesOutstanding": 1258011798.0,
+      "grossMargin": 0.5870703608492811,
+      "operatingMargin": 0.31790916880891174,
+      "netMargin": 0.21184423498048177,
+      "roe": 0.17891605017690576,
+      "roic": 0.08480430752038198
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11950000000.0,
+      "operatingIncome": 4408000000.0,
+      "netIncome": 2618000000.0,
+      "eps": 2.14,
+      "freeCashFlow": 899000000.0,
+      "totalDebt": 29393000000.0,
+      "cash": 63000000.0,
+      "sharesOutstanding": 1261000000.0,
+      "grossMargin": 0.619581589958159,
+      "operatingMargin": 0.36887029288702927,
+      "netMargin": 0.21907949790794978,
+      "roe": 0.20441945810884674,
+      "roic": 0.10445497630331753
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:39.359113+00:00"
+  }
+}

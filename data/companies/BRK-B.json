@@ -1,0 +1,128 @@
+{
+  "ticker": "BRK-B",
+  "name": "Berkshire Hathaway Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 1023384027136.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 474.48,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 410522000000.0,
+    "operatingIncome": null,
+    "netIncome": 66968000000.0,
+    "eps": null,
+    "freeCashFlow": 25042000000.0,
+    "totalDebt": 129081000000.0,
+    "cash": 51877000000.0,
+    "sharesOutstanding": 1658095.0
+  },
+  "ratios": {
+    "roe": 0.09334572962243821,
+    "roic": null,
+    "grossMargin": 0.2778,
+    "operatingMargin": 0.14352,
+    "netMargin": 0.1631288944319671,
+    "debtToEquity": 0.17669
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 39.702687,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 234121000000.0,
+      "operatingIncome": null,
+      "netIncome": -22759000000.0,
+      "eps": -10.329338,
+      "freeCashFlow": 21886000000.0,
+      "totalDebt": 122744000000.0,
+      "cash": 35811000000.0,
+      "sharesOutstanding": 1658095.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.09721041683573879,
+      "roe": -0.04807318598127683,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 439337000000.0,
+      "operatingIncome": null,
+      "netIncome": 96223000000.0,
+      "eps": 44.274689,
+      "freeCashFlow": 29787000000.0,
+      "totalDebt": 128271000000.0,
+      "cash": 38022000000.0,
+      "sharesOutstanding": 1658096.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2190186576591546,
+      "roe": 0.1714370725119505,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 424232000000.0,
+      "operatingIncome": null,
+      "netIncome": 88995000000.0,
+      "eps": 41.266687,
+      "freeCashFlow": 11616000000.0,
+      "totalDebt": 124762000000.0,
+      "cash": 47729000000.0,
+      "sharesOutstanding": 1658095.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2097790831431858,
+      "roe": 0.13704863806039103,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 410522000000.0,
+      "operatingIncome": null,
+      "netIncome": 66968000000.0,
+      "eps": null,
+      "freeCashFlow": 25042000000.0,
+      "totalDebt": 129081000000.0,
+      "cash": 51877000000.0,
+      "sharesOutstanding": 1658095.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1631288944319671,
+      "roe": 0.09334572962243821,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.783607+00:00"
+  }
+}

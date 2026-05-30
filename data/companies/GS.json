@@ -1,0 +1,111 @@
+{
+  "ticker": "GS",
+  "name": "The Goldman Sachs Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "USD",
+  "marketCap": {
+    "value": 302547828736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1025.56,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 58283000000.0,
+    "operatingIncome": null,
+    "netIncome": 17176000000.0,
+    "eps": 51.32,
+    "freeCashFlow": -47218000000.0,
+    "totalDebt": 386150000000.0,
+    "cash": 164259000000.0,
+    "sharesOutstanding": 931995448.0
+  },
+  "ratios": {
+    "roe": 0.13743878628812853,
+    "roic": null,
+    "grossMargin": 0.82271004,
+    "operatingMargin": 0.38599998,
+    "netMargin": 0.2946999982842338,
+    "debtToEquity": 6.78596
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 47365000000.0,
+      "operatingIncome": null,
+      "netIncome": 11261000000.0,
+      "eps": 30.06,
+      "freeCashFlow": 4960000000.0,
+      "totalDebt": 324199000000.0,
+      "cash": 241825000000.0,
+      "sharesOutstanding": 917815032.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23774939301171752,
+      "roe": 0.09609263668091715,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 46254000000.0,
+      "operatingIncome": null,
+      "netIncome": 8516000000.0,
+      "eps": 22.87,
+      "freeCashFlow": -14903000000.0,
+      "totalDebt": 333248000000.0,
+      "cash": 241577000000.0,
+      "sharesOutstanding": 922895032.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18411380637350283,
+      "roe": 0.07284547281981096,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53512000000.0,
+      "operatingIncome": null,
+      "netIncome": 14276000000.0,
+      "eps": 40.54,
+      "freeCashFlow": -15303000000.0,
+      "totalDebt": 342555000000.0,
+      "cash": 182092000000.0,
+      "sharesOutstanding": 927499669.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.26678128270294516,
+      "roe": 0.11702023017148103,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 58283000000.0,
+      "operatingIncome": null,
+      "netIncome": 17176000000.0,
+      "eps": 51.32,
+      "freeCashFlow": -47218000000.0,
+      "totalDebt": 386150000000.0,
+      "cash": 164259000000.0,
+      "sharesOutstanding": 931995448.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2946999982842338,
+      "roe": 0.13743878628812853,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.797812+00:00"
+  }
+}

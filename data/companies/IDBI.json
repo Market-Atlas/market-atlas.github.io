@@ -1,0 +1,111 @@
+{
+  "ticker": "IDBI",
+  "name": "IDBI Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 793849888768.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 73.83,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 179937321000.0,
+    "operatingIncome": null,
+    "netIncome": 76306827000.0,
+    "eps": 7.1,
+    "freeCashFlow": 254460294000.0,
+    "totalDebt": 199319942000.0,
+    "cash": 487264203000.0,
+    "sharesOutstanding": 10752402175.0
+  },
+  "ratios": {
+    "roe": 0.12383440964829444,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.15577,
+    "netMargin": 0.4240744864707639,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 129618353000.0,
+      "operatingIncome": null,
+      "netIncome": 25336670000.0,
+      "eps": 2.36,
+      "freeCashFlow": 48731273000.0,
+      "totalDebt": 119449800000.0,
+      "cash": 506025190000.0,
+      "sharesOutstanding": 10752402175.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1954713157017201,
+      "roe": 0.059515277560735484,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 149981096000.0,
+      "operatingIncome": null,
+      "netIncome": 37060593000.0,
+      "eps": 3.45,
+      "freeCashFlow": -29958500000.0,
+      "totalDebt": 102377501000.0,
+      "cash": 382462708000.0,
+      "sharesOutstanding": 10752402175.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24710176141131812,
+      "roe": 0.08001122168574254,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 172190776000.0,
+      "operatingIncome": null,
+      "netIncome": 57881117000.0,
+      "eps": 5.38,
+      "freeCashFlow": -15645082000.0,
+      "totalDebt": 146826958000.0,
+      "cash": 326694187000.0,
+      "sharesOutstanding": 10752402175.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3361452822536789,
+      "roe": 0.11333003744042425,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 179937321000.0,
+      "operatingIncome": null,
+      "netIncome": 76306827000.0,
+      "eps": 7.1,
+      "freeCashFlow": 254460294000.0,
+      "totalDebt": 199319942000.0,
+      "cash": 487264203000.0,
+      "sharesOutstanding": 10752402175.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4240744864707639,
+      "roe": 0.12383440964829444,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:57.221857+00:00"
+  }
+}

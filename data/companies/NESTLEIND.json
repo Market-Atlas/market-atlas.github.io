@@ -1,0 +1,94 @@
+{
+  "ticker": "NESTLEIND",
+  "name": "Nestlé India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2741098774528.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1421.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 200775000000.0,
+    "operatingIncome": 42296600000.0,
+    "netIncome": 32075900000.0,
+    "eps": 16.63,
+    "freeCashFlow": 9258900000.0,
+    "totalDebt": 11668500000.0,
+    "cash": 497800000.0,
+    "sharesOutstanding": 1928314320.0
+  },
+  "ratios": {
+    "roe": 0.7998558678971924,
+    "roic": 0.8170003824564521,
+    "grossMargin": 0.564198729921554,
+    "operatingMargin": 0.21066666666666667,
+    "netMargin": 0.1597604283401818,
+    "debtToEquity": 0.08613
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": 146649000000.0,
+      "operatingIncome": 31728300000.0,
+      "netIncome": 21184100000.0,
+      "eps": 10.986,
+      "freeCashFlow": 15011600000.0,
+      "totalDebt": 2664600000.0,
+      "cash": 7185300000.0,
+      "sharesOutstanding": 1928314320.0,
+      "grossMargin": 0.5578278747212733,
+      "operatingMargin": 0.21635537917067282,
+      "netMargin": 0.144454445649135,
+      "roe": 1.088384590881534,
+      "roic": 1.433827118092587
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 167895300000.0,
+      "operatingIncome": 33453400000.0,
+      "netIncome": 23905200000.0,
+      "eps": 12.395,
+      "freeCashFlow": 21875100000.0,
+      "totalDebt": 2705200000.0,
+      "cash": 9265500000.0,
+      "sharesOutstanding": 1928314320.0,
+      "grossMargin": 0.5295329887137996,
+      "operatingMargin": 0.19925155736938438,
+      "netMargin": 0.14238159138463077,
+      "roe": 0.9720840771479808,
+      "roic": 1.2255384311038982
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 200775000000.0,
+      "operatingIncome": 42296600000.0,
+      "netIncome": 32075900000.0,
+      "eps": 16.63,
+      "freeCashFlow": 9258900000.0,
+      "totalDebt": 11668500000.0,
+      "cash": 497800000.0,
+      "sharesOutstanding": 1928314320.0,
+      "grossMargin": 0.564198729921554,
+      "operatingMargin": 0.21066666666666667,
+      "netMargin": 0.1597604283401818,
+      "roe": 0.7998558678971924,
+      "roic": 0.8170003824564521
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.464368+00:00"
+  }
+}

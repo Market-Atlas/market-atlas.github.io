@@ -1,0 +1,111 @@
+{
+  "ticker": "EMMVEE",
+  "name": "EMMVEE PHOTOVOLTAIC PWR L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Solar",
+  "currency": "INR",
+  "marketCap": {
+    "value": 225219821568.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 325.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 50498773000.0,
+    "operatingIncome": 14387420000.0,
+    "netIncome": 10815515000.0,
+    "eps": 17.17,
+    "freeCashFlow": -4531806000.0,
+    "totalDebt": 3600599000.0,
+    "cash": 2426232000.0,
+    "sharesOutstanding": 692345033.0
+  },
+  "ratios": {
+    "roe": 0.2927114476986628,
+    "roic": 0.35480683505660465,
+    "grossMargin": 0.45037880425332316,
+    "operatingMargin": 0.28490632831811574,
+    "netMargin": 0.21417381764899515,
+    "debtToEquity": 0.09745
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6045770000.0,
+      "operatingIncome": 169730000.0,
+      "netIncome": 89390000.0,
+      "eps": 0.129112,
+      "freeCashFlow": -3850900000.0,
+      "totalDebt": 5243470000.0,
+      "cash": 534620000.0,
+      "sharesOutstanding": 692345033.0,
+      "grossMargin": 0.16219604781524935,
+      "operatingMargin": 0.028074174174670886,
+      "netMargin": 0.014785544273103343,
+      "roe": 0.063625040037012,
+      "roic": 0.02552937389635432
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 9415390000.0,
+      "operatingIncome": 1113510000.0,
+      "netIncome": 288990000.0,
+      "eps": 0.417407,
+      "freeCashFlow": -4401270000.0,
+      "totalDebt": 14468650000.0,
+      "cash": 1823490000.0,
+      "sharesOutstanding": 692345033.0,
+      "grossMargin": 0.19286933414335466,
+      "operatingMargin": 0.11826488334524646,
+      "netMargin": 0.030693364799546274,
+      "roe": 0.17124217088071297,
+      "roic": 0.06892127262126259
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 23356134000.0,
+      "operatingIncome": 5659855000.0,
+      "netIncome": 3690144000.0,
+      "eps": 5.329921,
+      "freeCashFlow": -3635683000.0,
+      "totalDebt": 20652520000.0,
+      "cash": 2186370000.0,
+      "sharesOutstanding": 692345033.0,
+      "grossMargin": 0.39959378551261954,
+      "operatingMargin": 0.2423284178794316,
+      "netMargin": 0.157994640722647,
+      "roe": 0.6874375229369761,
+      "roic": 0.2175153119714502
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 50498773000.0,
+      "operatingIncome": 14387420000.0,
+      "netIncome": 10815515000.0,
+      "eps": 17.17,
+      "freeCashFlow": -4531806000.0,
+      "totalDebt": 3600599000.0,
+      "cash": 2426232000.0,
+      "sharesOutstanding": 692345033.0,
+      "grossMargin": 0.45037880425332316,
+      "operatingMargin": 0.28490632831811574,
+      "netMargin": 0.21417381764899515,
+      "roe": 0.2927114476986628,
+      "roic": 0.35480683505660465
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:38.436348+00:00"
+  }
+}

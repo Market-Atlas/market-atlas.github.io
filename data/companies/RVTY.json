@@ -1,0 +1,128 @@
+{
+  "ticker": "RVTY",
+  "name": "Revvity, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11663575040.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 104.55,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2856051000.0,
+    "operatingIncome": 356635000.0,
+    "netIncome": 241201000.0,
+    "eps": 2.07,
+    "freeCashFlow": 509411000.0,
+    "totalDebt": 3398207000.0,
+    "cash": 919860000.0,
+    "sharesOutstanding": 112281000.0
+  },
+  "ratios": {
+    "roe": 0.03326745154723352,
+    "roic": 0.03349136085634809,
+    "grossMargin": 0.5477370677204294,
+    "operatingMargin": 0.12486996905867577,
+    "netMargin": 0.08445262357009731,
+    "debtToEquity": 0.46642000000000006
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3311822000.0,
+      "operatingIncome": 742699000.0,
+      "netIncome": 569179000.0,
+      "eps": 4.58,
+      "freeCashFlow": 594178000.0,
+      "totalDebt": 4595461000.0,
+      "cash": 454358000.0,
+      "sharesOutstanding": 126300000.0,
+      "grossMargin": 0.6008263729149694,
+      "operatingMargin": 0.22425691960497876,
+      "netMargin": 0.1718627993895807,
+      "roe": 0.07709448187941935,
+      "roic": 0.06200351517911042
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2750571000.0,
+      "operatingIncome": 300562000.0,
+      "netIncome": 693094000.0,
+      "eps": 5.55,
+      "freeCashFlow": 9904000.0,
+      "totalDebt": 4065295000.0,
+      "cash": 913163000.0,
+      "sharesOutstanding": 123426000.0,
+      "grossMargin": 0.5597714074641229,
+      "operatingMargin": 0.10927258376533454,
+      "netMargin": 0.2519818612208156,
+      "roe": 0.08803721296997144,
+      "roic": 0.025176842351093992
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2755026000.0,
+      "operatingIncome": 346741000.0,
+      "netIncome": 270385000.0,
+      "eps": 2.2,
+      "freeCashFlow": 541651000.0,
+      "totalDebt": 3325805000.0,
+      "cash": 1163396000.0,
+      "sharesOutstanding": 120646000.0,
+      "grossMargin": 0.5581286710179868,
+      "operatingMargin": 0.1258576144108985,
+      "netMargin": 0.09814244947234618,
+      "roe": 0.03526665496263536,
+      "roic": 0.031542902326175445
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2856051000.0,
+      "operatingIncome": 356635000.0,
+      "netIncome": 241201000.0,
+      "eps": 2.07,
+      "freeCashFlow": 509411000.0,
+      "totalDebt": 3398207000.0,
+      "cash": 919860000.0,
+      "sharesOutstanding": 112281000.0,
+      "grossMargin": 0.5477370677204294,
+      "operatingMargin": 0.12486996905867577,
+      "netMargin": 0.08445262357009731,
+      "roe": 0.03326745154723352,
+      "roic": 0.03349136085634809
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:17.201572+00:00"
+  }
+}

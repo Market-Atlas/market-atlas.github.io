@@ -1,0 +1,128 @@
+{
+  "ticker": "ULTA",
+  "name": "Ulta Beauty, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22255384576.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 508.85,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12392820000.0,
+    "operatingIncome": 1548813000.0,
+    "netIncome": 1153479000.0,
+    "eps": null,
+    "freeCashFlow": 1067951000.0,
+    "totalDebt": 2182061000.0,
+    "cash": 424243000.0,
+    "sharesOutstanding": 45048000.0
+  },
+  "ratios": {
+    "roe": 0.41144967399109167,
+    "roic": 0.3106627764610736,
+    "grossMargin": 0.39097025535753765,
+    "operatingMargin": 0.12497663969943887,
+    "netMargin": 0.09307639423472623,
+    "debtToEquity": 0.77835
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 17.98,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 10208580000.0,
+      "operatingIncome": 1649211000.0,
+      "netIncome": 1242408000.0,
+      "eps": 24.01,
+      "freeCashFlow": 1169789000.0,
+      "totalDebt": 1903176000.0,
+      "cash": 737877000.0,
+      "sharesOutstanding": 51120000.0,
+      "grossMargin": 0.3961873247797441,
+      "operatingMargin": 0.1615514596545259,
+      "netMargin": 0.12170233274363329,
+      "roe": 0.6339427628480502,
+      "roic": 0.42692636553009367
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 11207303000.0,
+      "operatingIncome": 1686539000.0,
+      "netIncome": 1291005000.0,
+      "eps": 26.03,
+      "freeCashFlow": 1040999000.0,
+      "totalDebt": 1911092000.0,
+      "cash": 766594000.0,
+      "sharesOutstanding": 49123000.0,
+      "grossMargin": 0.3909147455012147,
+      "operatingMargin": 0.15048571453810072,
+      "netMargin": 0.11519319143954616,
+      "roe": 0.5663972012803774,
+      "roic": 0.40247493091384634
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 11295654000.0,
+      "operatingIncome": 1578661000.0,
+      "netIncome": 1201118000.0,
+      "eps": 25.34,
+      "freeCashFlow": 964147000.0,
+      "totalDebt": 1923234000.0,
+      "cash": 703201000.0,
+      "sharesOutstanding": 46809000.0,
+      "grossMargin": 0.3884018579180984,
+      "operatingMargin": 0.13975826455024207,
+      "netMargin": 0.10633452476501139,
+      "roe": 0.48269598405049446,
+      "roic": 0.35784424063267933
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 12392820000.0,
+      "operatingIncome": 1548813000.0,
+      "netIncome": 1153479000.0,
+      "eps": null,
+      "freeCashFlow": 1067951000.0,
+      "totalDebt": 2182061000.0,
+      "cash": 424243000.0,
+      "sharesOutstanding": 45048000.0,
+      "grossMargin": 0.39097025535753765,
+      "operatingMargin": 0.12497663969943887,
+      "netMargin": 0.09307639423472623,
+      "roe": 0.41144967399109167,
+      "roic": 0.3106627764610736
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:32.338118+00:00"
+  }
+}

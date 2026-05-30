@@ -1,0 +1,128 @@
+{
+  "ticker": "AXISBANK",
+  "name": "Axis Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 4001237565440.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1286.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 881369600000.0,
+    "operatingIncome": null,
+    "netIncome": 263848500000.0,
+    "eps": 84.48,
+    "freeCashFlow": -108467100000.0,
+    "totalDebt": 2805108200000.0,
+    "cash": 1093515700000.0,
+    "sharesOutstanding": 3108172638.0
+  },
+  "ratios": {
+    "roe": 0.12270005838574913,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.39193,
+    "netMargin": 0.2993619248950724,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 624158400000.0,
+      "operatingIncome": null,
+      "netIncome": 108184500000.0,
+      "eps": 35.04,
+      "freeCashFlow": 206853600000.0,
+      "totalDebt": 1984445700000.0,
+      "cash": 1392721300000.0,
+      "sharesOutstanding": 3076852012.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17332859735605577,
+      "roe": 0.08335881843443117,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 766030400000.0,
+      "operatingIncome": null,
+      "netIncome": 263862000000.0,
+      "eps": 85.01,
+      "freeCashFlow": -79400800000.0,
+      "totalDebt": 2281995500000.0,
+      "cash": 1380502800000.0,
+      "sharesOutstanding": 3086570375.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.344453692699402,
+      "roe": 0.1680397942932371,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 848805500000.0,
+      "operatingIncome": null,
+      "netIncome": 280551100000.0,
+      "eps": 90.18,
+      "freeCashFlow": 419381400000.0,
+      "totalDebt": 2206867500000.0,
+      "cash": 1171491700000.0,
+      "sharesOutstanding": 3097369066.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3305246019258829,
+      "roe": 0.14983863369065342,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 881369600000.0,
+      "operatingIncome": null,
+      "netIncome": 263848500000.0,
+      "eps": 84.48,
+      "freeCashFlow": -108467100000.0,
+      "totalDebt": 2805108200000.0,
+      "cash": 1093515700000.0,
+      "sharesOutstanding": 3108172638.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2993619248950724,
+      "roe": 0.12270005838574913,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.118548+00:00"
+  }
+}

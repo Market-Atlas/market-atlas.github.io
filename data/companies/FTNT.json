@@ -1,0 +1,128 @@
+{
+  "ticker": "FTNT",
+  "name": "Fortinet, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 101083496448.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 137.97,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6799600000.0,
+    "operatingIncome": 2084700000.0,
+    "netIncome": 1853400000.0,
+    "eps": 2.42,
+    "freeCashFlow": 2225800000.0,
+    "totalDebt": 996300000.0,
+    "cash": 2495300000.0,
+    "sharesOutstanding": 743000000.0
+  },
+  "ratios": {
+    "roe": 1.4976969696969697,
+    "roic": 0.9332527531560569,
+    "grossMargin": 0.8045620330607682,
+    "operatingMargin": 0.3065915642096594,
+    "netMargin": 0.27257485734454967,
+    "debtToEquity": 0.5731
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4417400000.0,
+      "operatingIncome": 969600000.0,
+      "netIncome": 857300000.0,
+      "eps": 1.06,
+      "freeCashFlow": 1449400000.0,
+      "totalDebt": 990400000.0,
+      "cash": 1682900000.0,
+      "sharesOutstanding": 781500000.0,
+      "grossMargin": 0.7544030425136958,
+      "operatingMargin": 0.21949563091411237,
+      "netMargin": 0.19407343686331327,
+      "roe": -3.0443892045454546,
+      "roic": 1.3679458239277653
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5304800000.0,
+      "operatingIncome": 1241100000.0,
+      "netIncome": 1147800000.0,
+      "eps": 1.46,
+      "freeCashFlow": 1731400000.0,
+      "totalDebt": 992300000.0,
+      "cash": 1397900000.0,
+      "sharesOutstanding": 761000000.0,
+      "grossMargin": 0.7667772583320767,
+      "operatingMargin": 0.2339579248982054,
+      "netMargin": 0.21637007992761273,
+      "roe": -2.476909797151489,
+      "roic": 2.3465683494044245
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5955800000.0,
+      "operatingIncome": 1803400000.0,
+      "netIncome": 1745200000.0,
+      "eps": 2.26,
+      "freeCashFlow": 1879200000.0,
+      "totalDebt": 994300000.0,
+      "cash": 2875900000.0,
+      "sharesOutstanding": 767000000.0,
+      "grossMargin": 0.8056348433459821,
+      "operatingMargin": 0.30279727324624733,
+      "netMargin": 0.2930252862755633,
+      "roe": 1.1682956219038694,
+      "roic": 0.7248100960572325
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6799600000.0,
+      "operatingIncome": 2084700000.0,
+      "netIncome": 1853400000.0,
+      "eps": 2.42,
+      "freeCashFlow": 2225800000.0,
+      "totalDebt": 996300000.0,
+      "cash": 2495300000.0,
+      "sharesOutstanding": 743000000.0,
+      "grossMargin": 0.8045620330607682,
+      "operatingMargin": 0.3065915642096594,
+      "netMargin": 0.27257485734454967,
+      "roe": 1.4976969696969697,
+      "roic": 0.9332527531560569
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:28.134992+00:00"
+  }
+}

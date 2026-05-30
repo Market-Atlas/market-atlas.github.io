@@ -1,0 +1,128 @@
+{
+  "ticker": "RECLTD",
+  "name": "REC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 889108037632.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 337.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 218383900000.0,
+    "operatingIncome": null,
+    "netIncome": 163081700000.0,
+    "eps": null,
+    "freeCashFlow": 59019300000.0,
+    "totalDebt": 5147251900000.0,
+    "cash": 16110900000.0,
+    "sharesOutstanding": 2633224000.0
+  },
+  "ratios": {
+    "roe": 0.1917380885952886,
+    "roic": null,
+    "grossMargin": 0.9863,
+    "operatingMargin": 0.90234,
+    "netMargin": 0.7467661306534044,
+    "debtToEquity": 6.07463
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 37.98,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 146008700000.0,
+      "operatingIncome": null,
+      "netIncome": 111669800000.0,
+      "eps": 42.28,
+      "freeCashFlow": -373774500000.0,
+      "totalDebt": 3807897600000.0,
+      "cash": 3331900000.0,
+      "sharesOutstanding": 2633224000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7648160691794393,
+      "roe": 0.1921349279281961,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 172407000000.0,
+      "operatingIncome": null,
+      "netIncome": 141454600000.0,
+      "eps": 53.59,
+      "freeCashFlow": -577562700000.0,
+      "totalDebt": 4455675000000.0,
+      "cash": 4980600000.0,
+      "sharesOutstanding": 2633224000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8204690064788552,
+      "roe": 0.2039713200704136,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 219183100000.0,
+      "operatingIncome": null,
+      "netIncome": 158842300000.0,
+      "eps": 60.2,
+      "freeCashFlow": -391469600000.0,
+      "totalDebt": 4962425900000.0,
+      "cash": 6317300000.0,
+      "sharesOutstanding": 2633224000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7247014026172638,
+      "roe": 0.20266686026319772,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 218383900000.0,
+      "operatingIncome": null,
+      "netIncome": 163081700000.0,
+      "eps": null,
+      "freeCashFlow": 59019300000.0,
+      "totalDebt": 5147251900000.0,
+      "cash": 16110900000.0,
+      "sharesOutstanding": 2633224000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7467661306534044,
+      "roe": 0.1917380885952886,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:48.457194+00:00"
+  }
+}

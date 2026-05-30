@@ -1,0 +1,128 @@
+{
+  "ticker": "PNBHOUSING",
+  "name": "PNB Housing Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 268537905152.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1030.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34935400000.0,
+    "operatingIncome": null,
+    "netIncome": 22912400000.0,
+    "eps": 87.8,
+    "freeCashFlow": -90166100000.0,
+    "totalDebt": 531432100000.0,
+    "cash": 33392100000.0,
+    "sharesOutstanding": 260549578.0
+  },
+  "ratios": {
+    "roe": 0.11921663467597128,
+    "roic": null,
+    "grossMargin": 0.99711,
+    "operatingMargin": 0.77546996,
+    "netMargin": 0.6558505126605105,
+    "debtToEquity": 2.77418
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 25410700000.0,
+      "operatingIncome": null,
+      "netIncome": 10460000000.0,
+      "eps": 53.16,
+      "freeCashFlow": -18798800000.0,
+      "totalDebt": 364818900000.0,
+      "cash": 37884600000.0,
+      "sharesOutstanding": 203872978.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4116376172242402,
+      "roe": 0.09497124532180362,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 27836300000.0,
+      "operatingIncome": null,
+      "netIncome": 15080100000.0,
+      "eps": 58.2,
+      "freeCashFlow": -47008000000.0,
+      "totalDebt": 373913400000.0,
+      "cash": 26073200000.0,
+      "sharesOutstanding": 259723886.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5417422574120843,
+      "roe": 0.10070560234639826,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 31264100000.0,
+      "operatingIncome": null,
+      "netIncome": 19361400000.0,
+      "eps": 74.25,
+      "freeCashFlow": -81063800000.0,
+      "totalDebt": 448137500000.0,
+      "cash": 36214600000.0,
+      "sharesOutstanding": 259925043.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6192853784372491,
+      "roe": 0.11481498393240164,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 34935400000.0,
+      "operatingIncome": null,
+      "netIncome": 22912400000.0,
+      "eps": 87.8,
+      "freeCashFlow": -90166100000.0,
+      "totalDebt": 531432100000.0,
+      "cash": 33392100000.0,
+      "sharesOutstanding": 260549578.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6558505126605105,
+      "roe": 0.11921663467597128,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:42.935256+00:00"
+  }
+}

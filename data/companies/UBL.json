@@ -1,0 +1,128 @@
+{
+  "ticker": "UBL",
+  "name": "United Breweries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 349014786048.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1320.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 92399400000.0,
+    "operatingIncome": 5335300000.0,
+    "netIncome": 4131700000.0,
+    "eps": null,
+    "freeCashFlow": -767700000.0,
+    "totalDebt": 13165300000.0,
+    "cash": 4600800000.0,
+    "sharesOutstanding": 264405149.0
+  },
+  "ratios": {
+    "roe": 0.09136684283850423,
+    "roic": 0.09137931329781131,
+    "grossMargin": 0.4405201765379429,
+    "operatingMargin": 0.05774171693755587,
+    "netMargin": 0.04471565832678567,
+    "debtToEquity": 0.29076
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 13.82,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 73306000000.0,
+      "operatingIncome": 4056800000.0,
+      "netIncome": 3039800000.0,
+      "eps": 11.5,
+      "freeCashFlow": -2758500000.0,
+      "totalDebt": 156200000.0,
+      "cash": 3298600000.0,
+      "sharesOutstanding": 264405149.0,
+      "grossMargin": 0.3957902490928437,
+      "operatingMargin": 0.05534062696095818,
+      "netMargin": 0.04146727416582544,
+      "roe": 0.07666795295708077,
+      "roic": 0.10191658857784555
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 78764900000.0,
+      "operatingIncome": 4848500000.0,
+      "netIncome": 4100300000.0,
+      "eps": 15.51,
+      "freeCashFlow": -1220000000.0,
+      "totalDebt": 1020300000.0,
+      "cash": 1291500000.0,
+      "sharesOutstanding": 264405149.0,
+      "grossMargin": 0.3861897875830478,
+      "operatingMargin": 0.06155660706736122,
+      "netMargin": 0.052057451986862166,
+      "roe": 0.09813227262501376,
+      "roic": 0.11327291799540694
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 89150900000.0,
+      "operatingIncome": 6078300000.0,
+      "netIncome": 4416900000.0,
+      "eps": 16.71,
+      "freeCashFlow": -447600000.0,
+      "totalDebt": 6199800000.0,
+      "cash": 3419200000.0,
+      "sharesOutstanding": 264405149.0,
+      "grossMargin": 0.43146844283119967,
+      "operatingMargin": 0.0681799062039755,
+      "netMargin": 0.04954408760876222,
+      "roe": 0.10121404608700435,
+      "roic": 0.12195870703665804
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 92399400000.0,
+      "operatingIncome": 5335300000.0,
+      "netIncome": 4131700000.0,
+      "eps": null,
+      "freeCashFlow": -767700000.0,
+      "totalDebt": 13165300000.0,
+      "cash": 4600800000.0,
+      "sharesOutstanding": 264405149.0,
+      "grossMargin": 0.4405201765379429,
+      "operatingMargin": 0.05774171693755587,
+      "netMargin": 0.04471565832678567,
+      "roe": 0.09136684283850423,
+      "roic": 0.09137931329781131
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:10.679407+00:00"
+  }
+}

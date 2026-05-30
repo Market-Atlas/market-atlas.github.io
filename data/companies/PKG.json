@@ -1,0 +1,128 @@
+{
+  "ticker": "PKG",
+  "name": "Packaging Corporation of America",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 19504584704.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 218.91,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8989300000.0,
+    "operatingIncome": 1255400000.0,
+    "netIncome": 774100000.0,
+    "eps": 8.58,
+    "freeCashFlow": 728600000.0,
+    "totalDebt": 4364900000.0,
+    "cash": 529000000.0,
+    "sharesOutstanding": 89214000.0
+  },
+  "ratios": {
+    "roe": 0.16835580687255328,
+    "roic": 0.14006627319282822,
+    "grossMargin": 0.21020546649906,
+    "operatingMargin": 0.13965492307521163,
+    "netMargin": 0.08611349048312994,
+    "debtToEquity": 0.95185
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8478000000.0,
+      "operatingIncome": 1482000000.0,
+      "netIncome": 1029800000.0,
+      "eps": 11.03,
+      "freeCashFlow": 670800000.0,
+      "totalDebt": 2793100000.0,
+      "cash": 320000000.0,
+      "sharesOutstanding": 89700000.0,
+      "grossMargin": 0.24659117716442558,
+      "operatingMargin": 0.17480537862703469,
+      "netMargin": 0.12146732719981128,
+      "roe": 0.2808213574759347,
+      "roic": 0.22940466239435311
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7802400000.0,
+      "operatingIncome": 1118000000.0,
+      "netIncome": 765200000.0,
+      "eps": 8.48,
+      "freeCashFlow": 845400000.0,
+      "totalDebt": 3173200000.0,
+      "cash": 648000000.0,
+      "sharesOutstanding": 89625000.0,
+      "grossMargin": 0.2177406951707167,
+      "operatingMargin": 0.1432892443350764,
+      "netMargin": 0.09807238798318466,
+      "roe": 0.19142921471993596,
+      "roic": 0.15591660274736768
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8383300000.0,
+      "operatingIncome": 1172800000.0,
+      "netIncome": 805100000.0,
+      "eps": 8.93,
+      "freeCashFlow": 521500000.0,
+      "totalDebt": 2771500000.0,
+      "cash": 685000000.0,
+      "sharesOutstanding": 89802000.0,
+      "grossMargin": 0.21269667076211038,
+      "operatingMargin": 0.13989717652952893,
+      "netMargin": 0.09603616714181766,
+      "roe": 0.182811080835604,
+      "roic": 0.163445056093652
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8989300000.0,
+      "operatingIncome": 1255400000.0,
+      "netIncome": 774100000.0,
+      "eps": 8.58,
+      "freeCashFlow": 728600000.0,
+      "totalDebt": 4364900000.0,
+      "cash": 529000000.0,
+      "sharesOutstanding": 89214000.0,
+      "grossMargin": 0.21020546649906,
+      "operatingMargin": 0.13965492307521163,
+      "netMargin": 0.08611349048312994,
+      "roe": 0.16835580687255328,
+      "roic": 0.14006627319282822
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:08.536283+00:00"
+  }
+}

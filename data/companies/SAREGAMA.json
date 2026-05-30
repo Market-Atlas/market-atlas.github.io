@@ -1,0 +1,128 @@
+{
+  "ticker": "SAREGAMA",
+  "name": "Saregama India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 81419616256.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 424.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9846200000.0,
+    "operatingIncome": 2552000000.0,
+    "netIncome": 2070700000.0,
+    "eps": null,
+    "freeCashFlow": -1139500000.0,
+    "totalDebt": 725800000.0,
+    "cash": 281700000.0,
+    "sharesOutstanding": 192809490.0
+  },
+  "ratios": {
+    "roe": 0.12233263227544486,
+    "roic": 0.14456793900048717,
+    "grossMargin": 0.612896345798379,
+    "operatingMargin": 0.25918628506428876,
+    "netMargin": 0.21030448294773618,
+    "debtToEquity": 0.042809999999999994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 8.42,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7062538000.0,
+      "operatingIncome": 2002170000.0,
+      "netIncome": 1853382000.0,
+      "eps": 9.63,
+      "freeCashFlow": -97147000.0,
+      "totalDebt": 7125000.0,
+      "cash": 166982000.0,
+      "sharesOutstanding": 192809490.0,
+      "grossMargin": 0.5885365855730617,
+      "operatingMargin": 0.28349157200994884,
+      "netMargin": 0.2624243579291184,
+      "roe": 0.1380946317295429,
+      "roic": 0.14910160135821365
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7579723000.0,
+      "operatingIncome": 2212752000.0,
+      "netIncome": 1975939000.0,
+      "eps": 10.27,
+      "freeCashFlow": 9705000.0,
+      "totalDebt": 54334000.0,
+      "cash": 567493000.0,
+      "sharesOutstanding": 192809490.0,
+      "grossMargin": 0.6130312413791374,
+      "operatingMargin": 0.291930457089263,
+      "netMargin": 0.2606874947804821,
+      "roe": 0.1344978877530107,
+      "roic": 0.1500622458514803
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 11713600000.0,
+      "operatingIncome": 2187800000.0,
+      "netIncome": 2042600000.0,
+      "eps": 10.61,
+      "freeCashFlow": 1695300000.0,
+      "totalDebt": 27055000.0,
+      "cash": 693910000.0,
+      "sharesOutstanding": 192809490.0,
+      "grossMargin": 0.4780426171288075,
+      "operatingMargin": 0.18677434776669855,
+      "netMargin": 0.17437850020489004,
+      "roe": 0.12900260323034493,
+      "roic": 0.13793717408733103
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 9846200000.0,
+      "operatingIncome": 2552000000.0,
+      "netIncome": 2070700000.0,
+      "eps": null,
+      "freeCashFlow": -1139500000.0,
+      "totalDebt": 725800000.0,
+      "cash": 281700000.0,
+      "sharesOutstanding": 192809490.0,
+      "grossMargin": 0.612896345798379,
+      "operatingMargin": 0.25918628506428876,
+      "netMargin": 0.21030448294773618,
+      "roe": 0.12233263227544486,
+      "roic": 0.14456793900048717
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:52.347960+00:00"
+  }
+}

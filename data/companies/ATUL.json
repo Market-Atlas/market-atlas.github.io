@@ -1,0 +1,128 @@
+{
+  "ticker": "ATUL",
+  "name": "Atul Ltd",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 201837953024.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6855.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 62735400000.0,
+    "operatingIncome": 7086600000.0,
+    "netIncome": 6779000000.0,
+    "eps": null,
+    "freeCashFlow": 8479000000.0,
+    "totalDebt": 1830200000.0,
+    "cash": 850600000.0,
+    "sharesOutstanding": 29441755.0
+  },
+  "ratios": {
+    "roe": 0.10895280586824731,
+    "roic": 0.11064203166910748,
+    "grossMargin": 0.4729881374789991,
+    "operatingMargin": 0.11296014690270564,
+    "netMargin": 0.108057014062236,
+    "debtToEquity": 0.02907
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 204.23,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 53663700000.0,
+      "operatingIncome": 6147000000.0,
+      "netIncome": 5140900000.0,
+      "eps": 174.15,
+      "freeCashFlow": -1679900000.0,
+      "totalDebt": 522400000.0,
+      "cash": 380500000.0,
+      "sharesOutstanding": 29513755.0,
+      "grossMargin": 0.45510652452216305,
+      "operatingMargin": 0.11454670475572873,
+      "netMargin": 0.09579846339331802,
+      "roe": 0.11005099135587343,
+      "roic": 0.13013324526528383
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 46680200000.0,
+      "operatingIncome": 3980900000.0,
+      "netIncome": 3230200000.0,
+      "eps": 109.54,
+      "freeCashFlow": -532600000.0,
+      "totalDebt": 2365500000.0,
+      "cash": 602600000.0,
+      "sharesOutstanding": 29441755.0,
+      "grossMargin": 0.45069644088928495,
+      "operatingMargin": 0.0852802687220706,
+      "netMargin": 0.06919850386245131,
+      "roe": 0.06315966478568105,
+      "roic": 0.07439696947610584
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 55833500000.0,
+      "operatingIncome": 5961400000.0,
+      "netIncome": 4839300000.0,
+      "eps": 164.37,
+      "freeCashFlow": 3329500000.0,
+      "totalDebt": 2017300000.0,
+      "cash": 513700000.0,
+      "sharesOutstanding": 29441755.0,
+      "grossMargin": 0.5082504231330652,
+      "operatingMargin": 0.10677102456410578,
+      "netMargin": 0.08667377112307127,
+      "roe": 0.08643845281367497,
+      "roic": 0.10277779693394112
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 62735400000.0,
+      "operatingIncome": 7086600000.0,
+      "netIncome": 6779000000.0,
+      "eps": null,
+      "freeCashFlow": 8479000000.0,
+      "totalDebt": 1830200000.0,
+      "cash": 850600000.0,
+      "sharesOutstanding": 29441755.0,
+      "grossMargin": 0.4729881374789991,
+      "operatingMargin": 0.11296014690270564,
+      "netMargin": 0.108057014062236,
+      "roe": 0.10895280586824731,
+      "roic": 0.11064203166910748
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:56.780755+00:00"
+  }
+}

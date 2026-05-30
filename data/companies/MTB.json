@@ -1,0 +1,128 @@
+{
+  "ticker": "MTB",
+  "name": "M&T Bank Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 31648241664.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 216.11,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9632000000.0,
+    "operatingIncome": null,
+    "netIncome": 2851000000.0,
+    "eps": 17.0,
+    "freeCashFlow": 2860000000.0,
+    "totalDebt": 13011000000.0,
+    "cash": 18769000000.0,
+    "sharesOutstanding": 179436779.0
+  },
+  "ratios": {
+    "roe": 0.09771395277101827,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.38896,
+    "netMargin": 0.2959925249169435,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8013000000.0,
+      "operatingIncome": null,
+      "netIncome": 1992000000.0,
+      "eps": 11.53,
+      "freeCashFlow": 4360000000.0,
+      "totalDebt": 7165000000.0,
+      "cash": 26476000000.0,
+      "sharesOutstanding": 179450810.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24859603144889555,
+      "roe": 0.0786792005687653,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9398000000.0,
+      "operatingIncome": null,
+      "netIncome": 2741000000.0,
+      "eps": 15.79,
+      "freeCashFlow": 3649000000.0,
+      "totalDebt": 13201000000.0,
+      "cash": 29800000000.0,
+      "sharesOutstanding": 179436779.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.29165779953181525,
+      "roe": 0.10168045405646028,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9231000000.0,
+      "operatingIncome": null,
+      "netIncome": 2588000000.0,
+      "eps": 14.64,
+      "freeCashFlow": 3394000000.0,
+      "totalDebt": 13605000000.0,
+      "cash": 20782000000.0,
+      "sharesOutstanding": 179436779.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2803596576752248,
+      "roe": 0.0891583697936404,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9632000000.0,
+      "operatingIncome": null,
+      "netIncome": 2851000000.0,
+      "eps": 17.0,
+      "freeCashFlow": 2860000000.0,
+      "totalDebt": 13011000000.0,
+      "cash": 18769000000.0,
+      "sharesOutstanding": 179436779.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2959925249169435,
+      "roe": 0.09771395277101827,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:58.192936+00:00"
+  }
+}

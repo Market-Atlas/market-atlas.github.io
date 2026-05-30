@@ -1,0 +1,128 @@
+{
+  "ticker": "IGL",
+  "name": "Indraprastha Gas Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "INR",
+  "marketCap": {
+    "value": 224658243584.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 160.47,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 161675900000.0,
+    "operatingIncome": 13259400000.0,
+    "netIncome": 15496200000.0,
+    "eps": null,
+    "freeCashFlow": 5882500000.0,
+    "totalDebt": 977500000.0,
+    "cash": 1694500000.0,
+    "sharesOutstanding": 1400001600.0
+  },
+  "ratios": {
+    "roe": 0.13469756024630491,
+    "roic": 0.11428359645894438,
+    "grossMargin": 0.23390437288427032,
+    "operatingMargin": 0.08201222321941613,
+    "netMargin": 0.0958473093392398,
+    "debtToEquity": 0.00848
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.73,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 140865000000.0,
+      "operatingIncome": 16803700000.0,
+      "netIncome": 16396500000.0,
+      "eps": 11.71,
+      "freeCashFlow": 11085400000.0,
+      "totalDebt": 827700000.0,
+      "cash": 1056100000.0,
+      "sharesOutstanding": 1400001600.0,
+      "grossMargin": 0.198794590565435,
+      "operatingMargin": 0.119289390551237,
+      "netMargin": 0.11639867958683846,
+      "roe": 0.20673312117651213,
+      "roic": 0.20967904956445024
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 139466200000.0,
+      "operatingIncome": 19739800000.0,
+      "netIncome": 19850700000.0,
+      "eps": 14.18,
+      "freeCashFlow": 3027100000.0,
+      "totalDebt": 811700000.0,
+      "cash": 2190400000.0,
+      "sharesOutstanding": 1400001600.0,
+      "grossMargin": 0.23186334753510168,
+      "operatingMargin": 0.14153823650461544,
+      "netMargin": 0.14233341124946403,
+      "roe": 0.2060618454393426,
+      "roic": 0.2031985045097349
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 149126200000.0,
+      "operatingIncome": 14822400000.0,
+      "netIncome": 17177600000.0,
+      "eps": 12.27,
+      "freeCashFlow": 10345800000.0,
+      "totalDebt": 934900000.0,
+      "cash": 1446200000.0,
+      "sharesOutstanding": 1400001600.0,
+      "grossMargin": 0.2574624713832982,
+      "operatingMargin": 0.09939500905944093,
+      "netMargin": 0.11518834383227092,
+      "roe": 0.1618120965318578,
+      "roic": 0.13840732226129537
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 161675900000.0,
+      "operatingIncome": 13259400000.0,
+      "netIncome": 15496200000.0,
+      "eps": null,
+      "freeCashFlow": 5882500000.0,
+      "totalDebt": 977500000.0,
+      "cash": 1694500000.0,
+      "sharesOutstanding": 1400001600.0,
+      "grossMargin": 0.23390437288427032,
+      "operatingMargin": 0.08201222321941613,
+      "netMargin": 0.0958473093392398,
+      "roe": 0.13469756024630491,
+      "roic": 0.11428359645894438
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:59.126723+00:00"
+  }
+}

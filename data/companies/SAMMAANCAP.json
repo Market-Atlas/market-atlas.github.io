@@ -1,0 +1,128 @@
+{
+  "ticker": "SAMMAANCAP",
+  "name": "Sammaan Capital Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 202853318656.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 177.01,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57801700000.0,
+    "operatingIncome": 45509900000.0,
+    "netIncome": -71445600000.0,
+    "eps": null,
+    "freeCashFlow": -75187100000.0,
+    "totalDebt": 479105400000.0,
+    "cash": 90274300000.0,
+    "sharesOutstanding": 1161683871.0
+  },
+  "ratios": {
+    "roe": -0.3761983669510575,
+    "roic": 0.06802471256095295,
+    "grossMargin": 0.8835587880633269,
+    "operatingMargin": 0.7873453548944063,
+    "netMargin": -1.2360466906682674,
+    "debtToEquity": 2.7303300000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 23.493769,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 30836000000.0,
+      "operatingIncome": null,
+      "netIncome": 11296900000.0,
+      "eps": 22.461575,
+      "freeCashFlow": 39516000000.0,
+      "totalDebt": 524034700000.0,
+      "cash": 37321100000.0,
+      "sharesOutstanding": 528729778.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3663542612530808,
+      "roe": 0.06506962344301245,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 67383000000.0,
+      "operatingIncome": null,
+      "netIncome": 12143900000.0,
+      "eps": 23.53,
+      "freeCashFlow": 817900000.0,
+      "totalDebt": 484934200000.0,
+      "cash": 25288200000.0,
+      "sharesOutstanding": 738679544.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18022201445468441,
+      "roe": 0.06135792925388669,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 73059500000.0,
+      "operatingIncome": 61069900000.0,
+      "netIncome": -18074600000.0,
+      "eps": -26.7,
+      "freeCashFlow": 87164200000.0,
+      "totalDebt": 427256400000.0,
+      "cash": 33496300000.0,
+      "sharesOutstanding": 831383143.0,
+      "grossMargin": 0.8989248489245067,
+      "operatingMargin": 0.8358926628296115,
+      "netMargin": -0.24739561590210718,
+      "roe": -0.08282571388638764,
+      "roic": 0.09461147494836795
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 57801700000.0,
+      "operatingIncome": 45509900000.0,
+      "netIncome": -71445600000.0,
+      "eps": null,
+      "freeCashFlow": -75187100000.0,
+      "totalDebt": 479105400000.0,
+      "cash": 90274300000.0,
+      "sharesOutstanding": 1161683871.0,
+      "grossMargin": 0.8835587880633269,
+      "operatingMargin": 0.7873453548944063,
+      "netMargin": -1.2360466906682674,
+      "roe": -0.3761983669510575,
+      "roic": 0.06802471256095295
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:51.479704+00:00"
+  }
+}

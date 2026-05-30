@@ -1,0 +1,128 @@
+{
+  "ticker": "NAVA",
+  "name": "Nava Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 167706558464.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 592.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42909172000.0,
+    "operatingIncome": 13262042000.0,
+    "netIncome": 7866694000.0,
+    "eps": 27.8,
+    "freeCashFlow": 5051401000.0,
+    "totalDebt": 22264099000.0,
+    "cash": 20985175000.0,
+    "sharesOutstanding": 283001276.0
+  },
+  "ratios": {
+    "roe": 0.08995341987973353,
+    "roic": 0.12087491725991376,
+    "grossMargin": 0.5468012526552598,
+    "operatingMargin": 0.30907242861735945,
+    "netMargin": 0.18333362386950744,
+    "debtToEquity": 0.20684000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 35083230000.0,
+      "operatingIncome": 12624693000.0,
+      "netIncome": 9276744000.0,
+      "eps": 31.965,
+      "freeCashFlow": 11229808000.0,
+      "totalDebt": 30744528000.0,
+      "cash": 3947395000.0,
+      "sharesOutstanding": 290201276.0,
+      "grossMargin": 0.5961309149699158,
+      "operatingMargin": 0.3598497914815711,
+      "netMargin": 0.2644210353493678,
+      "roe": 0.15395995619563196,
+      "roic": 0.13873473025076277
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 38019590000.0,
+      "operatingIncome": 14165291000.0,
+      "netIncome": 9437314000.0,
+      "eps": 32.52,
+      "freeCashFlow": 30193694000.0,
+      "totalDebt": 4136558000.0,
+      "cash": 2658346000.0,
+      "sharesOutstanding": 290201276.0,
+      "grossMargin": 0.5407549897302943,
+      "operatingMargin": 0.3725787416434528,
+      "netMargin": 0.2482224032400139,
+      "roe": 0.13659881596779935,
+      "roic": 0.1934504869450917
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 39835474000.0,
+      "operatingIncome": 14827445000.0,
+      "netIncome": 10914795000.0,
+      "eps": 37.63,
+      "freeCashFlow": 13051437000.0,
+      "totalDebt": 8931762000.0,
+      "cash": 9894155000.0,
+      "sharesOutstanding": 290201276.0,
+      "grossMargin": 0.5754642708657113,
+      "operatingMargin": 0.37221710980519523,
+      "netMargin": 0.27399686520612254,
+      "roe": 0.143403565656378,
+      "roic": 0.17434986748067474
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 42909172000.0,
+      "operatingIncome": 13262042000.0,
+      "netIncome": 7866694000.0,
+      "eps": 27.8,
+      "freeCashFlow": 5051401000.0,
+      "totalDebt": 22264099000.0,
+      "cash": 20985175000.0,
+      "sharesOutstanding": 283001276.0,
+      "grossMargin": 0.5468012526552598,
+      "operatingMargin": 0.30907242861735945,
+      "netMargin": 0.18333362386950744,
+      "roe": 0.08995341987973353,
+      "roic": 0.12087491725991376
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:30.299940+00:00"
+  }
+}

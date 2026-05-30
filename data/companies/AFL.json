@@ -1,0 +1,111 @@
+{
+  "ticker": "AFL",
+  "name": "Aflac Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "USD",
+  "marketCap": {
+    "value": 57220079616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 112.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17355000000.0,
+    "operatingIncome": null,
+    "netIncome": 3646000000.0,
+    "eps": 6.82,
+    "freeCashFlow": null,
+    "totalDebt": 8409000000.0,
+    "cash": 6245000000.0,
+    "sharesOutstanding": 1357909000.0
+  },
+  "ratios": {
+    "roe": 0.12363513055272973,
+    "roic": null,
+    "grossMargin": 0.50049996,
+    "operatingMargin": 0.29567,
+    "netMargin": 0.2100835494093921,
+    "debtToEquity": 0.48276
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19151000000.0,
+      "operatingIncome": null,
+      "netIncome": 4418000000.0,
+      "eps": 6.93,
+      "freeCashFlow": null,
+      "totalDebt": 7442000000.0,
+      "cash": 3943000000.0,
+      "sharesOutstanding": 1354079000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23069291420813534,
+      "roe": 0.21936444885799405,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18841000000.0,
+      "operatingIncome": null,
+      "netIncome": 4659000000.0,
+      "eps": 7.78,
+      "freeCashFlow": null,
+      "totalDebt": 7364000000.0,
+      "cash": 4306000000.0,
+      "sharesOutstanding": 1355398000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2472798683721671,
+      "roe": 0.2119172162838299,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19128000000.0,
+      "operatingIncome": null,
+      "netIncome": 5443000000.0,
+      "eps": 9.63,
+      "freeCashFlow": null,
+      "totalDebt": 7498000000.0,
+      "cash": 6229000000.0,
+      "sharesOutstanding": 1356763000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28455667084901715,
+      "roe": 0.20856004291516592,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17355000000.0,
+      "operatingIncome": null,
+      "netIncome": 3646000000.0,
+      "eps": 6.82,
+      "freeCashFlow": null,
+      "totalDebt": 8409000000.0,
+      "cash": 6245000000.0,
+      "sharesOutstanding": 1357909000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2100835494093921,
+      "roe": 0.12363513055272973,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:40.061680+00:00"
+  }
+}

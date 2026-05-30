@@ -1,0 +1,128 @@
+{
+  "ticker": "AMBER",
+  "name": "Amber Enterprises India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "currency": "INR",
+  "marketCap": {
+    "value": 268564054016.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7615.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 121864766000.0,
+    "operatingIncome": 6297645000.0,
+    "netIncome": 1776471000.0,
+    "eps": 50.28,
+    "freeCashFlow": -10546603000.0,
+    "totalDebt": 27015865000.0,
+    "cash": 2313766000.0,
+    "sharesOutstanding": 35219767.0
+  },
+  "ratios": {
+    "roe": 0.04063182664141879,
+    "roic": 0.08902896481312794,
+    "grossMargin": 0.18370144821022347,
+    "operatingMargin": 0.0516773240265361,
+    "netMargin": 0.014577396390356176,
+    "debtToEquity": 0.46566
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 67461944000.0,
+      "operatingIncome": 3144353000.0,
+      "netIncome": 1572036000.0,
+      "eps": 46.66,
+      "freeCashFlow": -3416285000.0,
+      "totalDebt": 14551130000.0,
+      "cash": 3231799000.0,
+      "sharesOutstanding": 33693731.0,
+      "grossMargin": 0.12706400811693183,
+      "operatingMargin": 0.046609285377249135,
+      "netMargin": 0.023302560032957248,
+      "roe": 0.08235842729811292,
+      "roic": 0.09347380813985204
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 65307471000.0,
+      "operatingIncome": 3153995000.0,
+      "netIncome": 1328805000.0,
+      "eps": 39.41,
+      "freeCashFlow": 5527986000.0,
+      "totalDebt": 15389481000.0,
+      "cash": 1318720000.0,
+      "sharesOutstanding": 33693731.0,
+      "grossMargin": 0.15393373600395582,
+      "operatingMargin": 0.04829455117011038,
+      "netMargin": 0.02034690640524114,
+      "roe": 0.06436893491708995,
+      "roic": 0.08753059725129622
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 99730157000.0,
+      "operatingIncome": 5351024000.0,
+      "netIncome": 2435580000.0,
+      "eps": 71.67,
+      "freeCashFlow": 1361029000.0,
+      "totalDebt": 20588112000.0,
+      "cash": 2128007000.0,
+      "sharesOutstanding": 33823506.0,
+      "grossMargin": 0.17922949825497617,
+      "operatingMargin": 0.053655024327295506,
+      "netMargin": 0.024421700248601835,
+      "roe": 0.10655293693647029,
+      "roic": 0.12316480998063667
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 121864766000.0,
+      "operatingIncome": 6297645000.0,
+      "netIncome": 1776471000.0,
+      "eps": 50.28,
+      "freeCashFlow": -10546603000.0,
+      "totalDebt": 27015865000.0,
+      "cash": 2313766000.0,
+      "sharesOutstanding": 35219767.0,
+      "grossMargin": 0.18370144821022347,
+      "operatingMargin": 0.0516773240265361,
+      "netMargin": 0.014577396390356176,
+      "roe": 0.04063182664141879,
+      "roic": 0.08902896481312794
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:51.573448+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "BSE",
+  "name": "BSE Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1683851837440.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4146.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29573400000.0,
+    "operatingIncome": 14228700000.0,
+    "netIncome": 13258900000.0,
+    "eps": 32.183333,
+    "freeCashFlow": 2609400000.0,
+    "totalDebt": 32600000.0,
+    "cash": 240100000.0,
+    "sharesOutstanding": 406129077.0
+  },
+  "ratios": {
+    "roe": 0.29972218015113944,
+    "roic": 0.32140799956629673,
+    "grossMargin": 0.6153435181615912,
+    "operatingMargin": 0.481131692669764,
+    "netMargin": 0.4483387097864973,
+    "debtToEquity": 0.0
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 7431500000.0,
+      "operatingIncome": 1715600000.0,
+      "netIncome": 2543300000.0,
+      "eps": 6.17,
+      "freeCashFlow": 14097900000.0,
+      "totalDebt": 200000.0,
+      "cash": 794000000.0,
+      "sharesOutstanding": 405803673.0,
+      "grossMargin": 0.586059341990177,
+      "operatingMargin": 0.2308551436452937,
+      "netMargin": 0.34223238915427573,
+      "roe": 0.09581016530295496,
+      "roic": 0.0646288999223971
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8155300000.0,
+      "operatingIncome": 1487400000.0,
+      "netIncome": 2206700000.0,
+      "eps": 5.353333,
+      "freeCashFlow": -2805300000.0,
+      "totalDebt": 200000.0,
+      "cash": 138300000.0,
+      "sharesOutstanding": 406388673.0,
+      "grossMargin": 0.6125709661201918,
+      "operatingMargin": 0.1823844616384437,
+      "netMargin": 0.27058477309234485,
+      "roe": 0.08169483368195028,
+      "roic": 0.05506502737702551
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13710400000.0,
+      "operatingIncome": 3335900000.0,
+      "netIncome": 7783900000.0,
+      "eps": 18.886667,
+      "freeCashFlow": 25125400000.0,
+      "totalDebt": 200000.0,
+      "cash": 555900000.0,
+      "sharesOutstanding": 406129077.0,
+      "grossMargin": 0.49857042828801496,
+      "operatingMargin": 0.24331164663321275,
+      "netMargin": 0.5677369004551289,
+      "roe": 0.23571218760314813,
+      "roic": 0.10101716677113899
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 29573400000.0,
+      "operatingIncome": 14228700000.0,
+      "netIncome": 13258900000.0,
+      "eps": 32.183333,
+      "freeCashFlow": 2609400000.0,
+      "totalDebt": 32600000.0,
+      "cash": 240100000.0,
+      "sharesOutstanding": 406129077.0,
+      "grossMargin": 0.6153435181615912,
+      "operatingMargin": 0.481131692669764,
+      "netMargin": 0.4483387097864973,
+      "roe": 0.29972218015113944,
+      "roic": 0.32140799956629673
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:05.294910+00:00"
+  }
+}

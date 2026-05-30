@@ -1,0 +1,111 @@
+{
+  "ticker": "AOS",
+  "name": "A. O. Smith Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7817639936.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3830200000.0,
+    "operatingIncome": 728000000.0,
+    "netIncome": 546200000.0,
+    "eps": 3.848783,
+    "freeCashFlow": 546000000.0,
+    "totalDebt": 192100000.0,
+    "cash": 174500000.0,
+    "sharesOutstanding": 190577212.0
+  },
+  "ratios": {
+    "roe": 0.29397201291711517,
+    "roic": 0.35510462904248574,
+    "grossMargin": 0.38833481280350896,
+    "operatingMargin": 0.19006840373870817,
+    "netMargin": 0.14260351939846483,
+    "debtToEquity": 0.34981
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3753900000.0,
+      "operatingIncome": 658700000.0,
+      "netIncome": 235700000.0,
+      "eps": 1.51,
+      "freeCashFlow": 321100000.0,
+      "totalDebt": 366900000.0,
+      "cash": 391200000.0,
+      "sharesOutstanding": 190577214.0,
+      "grossMargin": 0.3541916406936786,
+      "operatingMargin": 0.17547084365593116,
+      "netMargin": 0.062788033778204,
+      "roe": 0.13486296275104423,
+      "roic": 0.3115009930956209
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3852800000.0,
+      "operatingIncome": 757400000.0,
+      "netIncome": 556600000.0,
+      "eps": 3.685702,
+      "freeCashFlow": 597700000.0,
+      "totalDebt": 155200000.0,
+      "cash": 339900000.0,
+      "sharesOutstanding": 190577212.0,
+      "grossMargin": 0.3853820598006645,
+      "operatingMargin": 0.19658430232558138,
+      "netMargin": 0.14446636212624583,
+      "roe": 0.3017783561049664,
+      "roic": 0.3787757551510302
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3818100000.0,
+      "operatingIncome": 716800000.0,
+      "netIncome": 533600000.0,
+      "eps": 3.627859,
+      "freeCashFlow": 473800000.0,
+      "totalDebt": 216700000.0,
+      "cash": 239600000.0,
+      "sharesOutstanding": 190577214.0,
+      "grossMargin": 0.38136769597443754,
+      "operatingMargin": 0.18773735627668212,
+      "netMargin": 0.1397553757104319,
+      "roe": 0.28330236262277675,
+      "roic": 0.3413008284925245
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3830200000.0,
+      "operatingIncome": 728000000.0,
+      "netIncome": 546200000.0,
+      "eps": 3.848783,
+      "freeCashFlow": 546000000.0,
+      "totalDebt": 192100000.0,
+      "cash": 174500000.0,
+      "sharesOutstanding": 190577212.0,
+      "grossMargin": 0.38833481280350896,
+      "operatingMargin": 0.19006840373870817,
+      "netMargin": 0.14260351939846483,
+      "roe": 0.29397201291711517,
+      "roic": 0.35510462904248574
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.501229+00:00"
+  }
+}

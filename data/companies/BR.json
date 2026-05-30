@@ -1,0 +1,111 @@
+{
+  "ticker": "BR",
+  "name": "Broadridge Financial Solutions, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17778993152.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 153.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6889100000.0,
+    "operatingIncome": 1188600000.0,
+    "netIncome": 839500000.0,
+    "eps": 7.1,
+    "freeCashFlow": 1056400000.0,
+    "totalDebt": 3459000000.0,
+    "cash": 561500000.0,
+    "sharesOutstanding": 154500000.0
+  },
+  "ratios": {
+    "roe": 0.3161720397710154,
+    "roic": 0.19439992149422655,
+    "grossMargin": 0.31017113991668,
+    "operatingMargin": 0.17253342236286306,
+    "netMargin": 0.1218591688319229,
+    "debtToEquity": 1.20878
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 5709100000.0,
+      "operatingIncome": 759900000.0,
+      "netIncome": 539100000.0,
+      "eps": 4.55,
+      "freeCashFlow": 370400000.0,
+      "totalDebt": 4066200000.0,
+      "cash": 224700000.0,
+      "sharesOutstanding": 154500000.0,
+      "grossMargin": 0.27888809094253036,
+      "operatingMargin": 0.1331032912367974,
+      "netMargin": 0.094428193585679,
+      "roe": 0.2808982909545644,
+      "roic": 0.1269589334046179
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 6060900000.0,
+      "operatingIncome": 936400000.0,
+      "netIncome": 630600000.0,
+      "eps": 5.3,
+      "freeCashFlow": 748100000.0,
+      "totalDebt": 3652600000.0,
+      "cash": 252300000.0,
+      "sharesOutstanding": 154500000.0,
+      "grossMargin": 0.29457671302941807,
+      "operatingMargin": 0.1544985068224191,
+      "netMargin": 0.1040439538682374,
+      "roe": 0.2814424707667589,
+      "roic": 0.15889499762438064
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 6506800000.0,
+      "operatingIncome": 1017100000.0,
+      "netIncome": 698100000.0,
+      "eps": 5.86,
+      "freeCashFlow": 943200000.0,
+      "totalDebt": 3576900000.0,
+      "cash": 304400000.0,
+      "sharesOutstanding": 154500000.0,
+      "grossMargin": 0.2972121472920637,
+      "operatingMargin": 0.1563133952173111,
+      "netMargin": 0.10728776049671113,
+      "roe": 0.3219572937324171,
+      "roic": 0.17703474204553366
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 6889100000.0,
+      "operatingIncome": 1188600000.0,
+      "netIncome": 839500000.0,
+      "eps": 7.1,
+      "freeCashFlow": 1056400000.0,
+      "totalDebt": 3459000000.0,
+      "cash": 561500000.0,
+      "sharesOutstanding": 154500000.0,
+      "grossMargin": 0.31017113991668,
+      "operatingMargin": 0.17253342236286306,
+      "netMargin": 0.1218591688319229,
+      "roe": 0.3161720397710154,
+      "roic": 0.19439992149422655
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:53.331173+00:00"
+  }
+}

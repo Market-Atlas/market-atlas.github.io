@@ -1,0 +1,128 @@
+{
+  "ticker": "UNH",
+  "name": "UnitedHealth Group Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "currency": "USD",
+  "marketCap": {
+    "value": 345376391168.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 380.31,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 447567000000.0,
+    "operatingIncome": 18964000000.0,
+    "netIncome": 12056000000.0,
+    "eps": 13.23,
+    "freeCashFlow": 16075000000.0,
+    "totalDebt": 78389000000.0,
+    "cash": 24365000000.0,
+    "sharesOutstanding": 905838620.0
+  },
+  "ratios": {
+    "roe": 0.12810540856444586,
+    "roic": 0.10993686919924174,
+    "grossMargin": 0.1852616479767275,
+    "operatingMargin": 0.04237130977038075,
+    "netMargin": 0.026936749134766416,
+    "debtToEquity": 0.73982
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 324162000000.0,
+      "operatingIncome": 28435000000.0,
+      "netIncome": 20120000000.0,
+      "eps": 21.18,
+      "freeCashFlow": 23404000000.0,
+      "totalDebt": 57623000000.0,
+      "cash": 23365000000.0,
+      "sharesOutstanding": 934000000.0,
+      "grossMargin": 0.24560867714291001,
+      "operatingMargin": 0.08771848643579445,
+      "netMargin": 0.062067731566315607,
+      "roe": 0.25870493236640435,
+      "roic": 0.2100151408840799
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 371622000000.0,
+      "operatingIncome": 32358000000.0,
+      "netIncome": 22381000000.0,
+      "eps": 23.86,
+      "freeCashFlow": 25682000000.0,
+      "totalDebt": 62537000000.0,
+      "cash": 25427000000.0,
+      "sharesOutstanding": 924000000.0,
+      "grossMargin": 0.2447594598812772,
+      "operatingMargin": 0.08707234770815506,
+      "netMargin": 0.06022517504345814,
+      "roe": 0.25216323403488217,
+      "roic": 0.21387638555650296
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 400278000000.0,
+      "operatingIncome": 32287000000.0,
+      "netIncome": 14405000000.0,
+      "eps": 15.51,
+      "freeCashFlow": 20705000000.0,
+      "totalDebt": 76904000000.0,
+      "cash": 25312000000.0,
+      "sharesOutstanding": 915000000.0,
+      "grossMargin": 0.2233422771174034,
+      "operatingMargin": 0.0806614402989922,
+      "netMargin": 0.03598748869535673,
+      "roe": 0.15546418010317511,
+      "roic": 0.19041412580648967
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 447567000000.0,
+      "operatingIncome": 18964000000.0,
+      "netIncome": 12056000000.0,
+      "eps": 13.23,
+      "freeCashFlow": 16075000000.0,
+      "totalDebt": 78389000000.0,
+      "cash": 24365000000.0,
+      "sharesOutstanding": 905838620.0,
+      "grossMargin": 0.1852616479767275,
+      "operatingMargin": 0.04237130977038075,
+      "netMargin": 0.026936749134766416,
+      "roe": 0.12810540856444586,
+      "roic": 0.10993686919924174
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.881080+00:00"
+  }
+}

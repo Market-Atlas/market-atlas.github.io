@@ -1,0 +1,128 @@
+{
+  "ticker": "POLICYBZR",
+  "name": "PB Fintech Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 788590231552.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1702.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 67940200000.0,
+    "operatingIncome": 3732700000.0,
+    "netIncome": 6699400000.0,
+    "eps": 14.46,
+    "freeCashFlow": -384100000.0,
+    "totalDebt": 3601500000.0,
+    "cash": 7462600000.0,
+    "sharesOutstanding": 462022382.0
+  },
+  "ratios": {
+    "roe": 0.09162462269840901,
+    "roic": 0.04865392586490509,
+    "grossMargin": 0.6370469913247238,
+    "operatingMargin": 0.054940962787863444,
+    "netMargin": 0.09860730465909727,
+    "debtToEquity": 0.04922
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 25578500000.0,
+      "operatingIncome": -7251300000.0,
+      "netIncome": -4872200000.0,
+      "eps": -10.97,
+      "freeCashFlow": -3646700000.0,
+      "totalDebt": 2265900000.0,
+      "cash": 723400000.0,
+      "sharesOutstanding": 450116349.0,
+      "grossMargin": 0.6158336102586156,
+      "operatingMargin": -0.2834919952303693,
+      "netMargin": -0.19048028617784468,
+      "roe": -0.08896882931906579,
+      "roic": -0.12715132152294714
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 34376800000.0,
+      "operatingIncome": -2746200000.0,
+      "netIncome": 669800000.0,
+      "eps": 1.45,
+      "freeCashFlow": -547000000.0,
+      "totalDebt": 2533300000.0,
+      "cash": 3248600000.0,
+      "sharesOutstanding": 451203464.0,
+      "grossMargin": 0.4334609387726606,
+      "operatingMargin": -0.0798852714621489,
+      "netMargin": 0.01948407065230039,
+      "roe": 0.01140856033779422,
+      "roic": -0.04484060375288194
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 49772100000.0,
+      "operatingIncome": -286100000.0,
+      "netIncome": 3520700000.0,
+      "eps": 7.63,
+      "freeCashFlow": -2803600000.0,
+      "totalDebt": 3222200000.0,
+      "cash": 5605100000.0,
+      "sharesOutstanding": 459257282.0,
+      "grossMargin": 0.6064723007468039,
+      "operatingMargin": -0.005748200296953514,
+      "netMargin": 0.07073641658680264,
+      "roe": 0.05473486850696798,
+      "roic": -0.00423569472203716
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 67940200000.0,
+      "operatingIncome": 3732700000.0,
+      "netIncome": 6699400000.0,
+      "eps": 14.46,
+      "freeCashFlow": -384100000.0,
+      "totalDebt": 3601500000.0,
+      "cash": 7462600000.0,
+      "sharesOutstanding": 462022382.0,
+      "grossMargin": 0.6370469913247238,
+      "operatingMargin": 0.054940962787863444,
+      "netMargin": 0.09860730465909727,
+      "roe": 0.09162462269840901,
+      "roic": 0.04865392586490509
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:43.513113+00:00"
+  }
+}

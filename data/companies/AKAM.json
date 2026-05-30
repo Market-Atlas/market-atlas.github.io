@@ -1,0 +1,111 @@
+{
+  "ticker": "AKAM",
+  "name": "Akamai Technologies, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 21740939264.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 149.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4208175000.0,
+    "operatingIncome": 628242000.0,
+    "netIncome": 452031000.0,
+    "eps": 3.07,
+    "freeCashFlow": 699265000.0,
+    "totalDebt": 5675388000.0,
+    "cash": 930231000.0,
+    "sharesOutstanding": 149711094.0
+  },
+  "ratios": {
+    "roe": 0.09081722057688688,
+    "roic": 0.05897458113902699,
+    "grossMargin": 0.589486416320614,
+    "operatingMargin": 0.14929084460603467,
+    "netMargin": 0.10741734837548343,
+    "debtToEquity": 1.19534
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3616654000.0,
+      "operatingIncome": 711040000.0,
+      "netIncome": 523672000.0,
+      "eps": 3.26,
+      "freeCashFlow": 816374000.0,
+      "totalDebt": 3174617000.0,
+      "cash": 542337000.0,
+      "sharesOutstanding": 156494816.0,
+      "grossMargin": 0.6173758949570515,
+      "operatingMargin": 0.19660161021762104,
+      "netMargin": 0.14479460849724635,
+      "roe": 0.12010310566955042,
+      "roic": 0.0943674181836714
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3811920000.0,
+      "operatingIncome": 703418000.0,
+      "netIncome": 547629000.0,
+      "eps": 3.52,
+      "freeCashFlow": 618399000.0,
+      "totalDebt": 4535979000.0,
+      "cash": 489468000.0,
+      "sharesOutstanding": 151232908.0,
+      "grossMargin": 0.603595301055636,
+      "operatingMargin": 0.18453115490356567,
+      "netMargin": 0.14366224894541332,
+      "roe": 0.11912345787775265,
+      "roic": 0.07701825025232302
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3991168000.0,
+      "operatingIncome": 636354000.0,
+      "netIncome": 504918000.0,
+      "eps": 3.27,
+      "freeCashFlow": 833904000.0,
+      "totalDebt": 4634605000.0,
+      "cash": 517707000.0,
+      "sharesOutstanding": 155647988.0,
+      "grossMargin": 0.5939050924441166,
+      "operatingMargin": 0.15944054472274782,
+      "netMargin": 0.1265088314999519,
+      "roe": 0.10350165024822906,
+      "roic": 0.0668933608690963
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4208175000.0,
+      "operatingIncome": 628242000.0,
+      "netIncome": 452031000.0,
+      "eps": 3.07,
+      "freeCashFlow": 699265000.0,
+      "totalDebt": 5675388000.0,
+      "cash": 930231000.0,
+      "sharesOutstanding": 149711094.0,
+      "grossMargin": 0.589486416320614,
+      "operatingMargin": 0.14929084460603467,
+      "netMargin": 0.10741734837548343,
+      "roe": 0.09081722057688688,
+      "roic": 0.05897458113902699
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:41.873381+00:00"
+  }
+}

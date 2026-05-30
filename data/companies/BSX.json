@@ -1,0 +1,128 @@
+{
+  "ticker": "BSX",
+  "name": "Boston Scientific Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 71805820928.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 48.31,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20074000000.0,
+    "operatingIncome": 3971000000.0,
+    "netIncome": 2898000000.0,
+    "eps": 1.94,
+    "freeCashFlow": 3404000000.0,
+    "totalDebt": 11436000000.0,
+    "cash": 1965000000.0,
+    "sharesOutstanding": 1746290165.0
+  },
+  "ratios": {
+    "roe": 0.1195939253879168,
+    "roic": 0.11133228664348996,
+    "grossMargin": 0.6900966424230348,
+    "operatingMargin": 0.19781807312942115,
+    "netMargin": 0.14436584636843677,
+    "debtToEquity": 0.4225
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12682000000.0,
+      "operatingIncome": 2034000000.0,
+      "netIncome": 698000000.0,
+      "eps": 0.45,
+      "freeCashFlow": 914000000.0,
+      "totalDebt": 9282000000.0,
+      "cash": 928000000.0,
+      "sharesOutstanding": 1696633993.0,
+      "grossMargin": 0.6880618199022236,
+      "operatingMargin": 0.16038479735057562,
+      "netMargin": 0.055038637438889766,
+      "roe": 0.03971776487993627,
+      "roic": 0.07573726541554959
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14240000000.0,
+      "operatingIncome": 2417000000.0,
+      "netIncome": 1593000000.0,
+      "eps": 1.07,
+      "freeCashFlow": 1703000000.0,
+      "totalDebt": 9492000000.0,
+      "cash": 865000000.0,
+      "sharesOutstanding": 1729000224.0,
+      "grossMargin": 0.694873595505618,
+      "operatingMargin": 0.16973314606741574,
+      "netMargin": 0.11186797752808988,
+      "roe": 0.08262019604792283,
+      "roic": 0.08400236332672992
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16747000000.0,
+      "operatingIncome": 3002000000.0,
+      "netIncome": 1854000000.0,
+      "eps": 1.25,
+      "freeCashFlow": 2365000000.0,
+      "totalDebt": 10746000000.0,
+      "cash": 414000000.0,
+      "sharesOutstanding": 1737846196.0,
+      "grossMargin": 0.686093031587747,
+      "operatingMargin": 0.17925598614677254,
+      "netMargin": 0.11070639517525527,
+      "roe": 0.08516306844281121,
+      "roic": 0.09232377906261532
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20074000000.0,
+      "operatingIncome": 3971000000.0,
+      "netIncome": 2898000000.0,
+      "eps": 1.94,
+      "freeCashFlow": 3404000000.0,
+      "totalDebt": 11436000000.0,
+      "cash": 1965000000.0,
+      "sharesOutstanding": 1746290165.0,
+      "grossMargin": 0.6900966424230348,
+      "operatingMargin": 0.19781807312942115,
+      "netMargin": 0.14436584636843677,
+      "roe": 0.1195939253879168,
+      "roic": 0.11133228664348996
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:53.508915+00:00"
+  }
+}

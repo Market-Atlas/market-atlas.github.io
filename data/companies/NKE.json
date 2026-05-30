@@ -1,0 +1,128 @@
+{
+  "ticker": "NKE",
+  "name": "NIKE, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "currency": "USD",
+  "marketCap": {
+    "value": 68461408256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 46.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46309000000.0,
+    "operatingIncome": 3702000000.0,
+    "netIncome": 3219000000.0,
+    "eps": 2.16,
+    "freeCashFlow": 3268000000.0,
+    "totalDebt": 11018000000.0,
+    "cash": 7464000000.0,
+    "sharesOutstanding": 1476000000.0
+  },
+  "ratios": {
+    "roe": 0.24362370392794974,
+    "roic": 0.1527794973381206,
+    "grossMargin": 0.42734673605562634,
+    "operatingMargin": 0.07994126411712627,
+    "netMargin": 0.06951132609212032,
+    "debtToEquity": 0.79333
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 46710000000.0,
+      "operatingIncome": 6675000000.0,
+      "netIncome": 6046000000.0,
+      "eps": 3.75,
+      "freeCashFlow": 4430000000.0,
+      "totalDebt": 12627000000.0,
+      "cash": 8574000000.0,
+      "sharesOutstanding": 1571000000.0,
+      "grossMargin": 0.4598372939413402,
+      "operatingMargin": 0.14290301862556198,
+      "netMargin": 0.12943695140226932,
+      "roe": 0.3956547346377855,
+      "roic": 0.23917873011322918
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 51217000000.0,
+      "operatingIncome": 5915000000.0,
+      "netIncome": 5070000000.0,
+      "eps": 3.23,
+      "freeCashFlow": 4872000000.0,
+      "totalDebt": 12144000000.0,
+      "cash": 7441000000.0,
+      "sharesOutstanding": 1532000000.0,
+      "grossMargin": 0.43524610969014194,
+      "operatingMargin": 0.11548899779370131,
+      "netMargin": 0.09899056953745826,
+      "roe": 0.3620394173093402,
+      "roic": 0.2262123298148998
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 51362000000.0,
+      "operatingIncome": 6311000000.0,
+      "netIncome": 5700000000.0,
+      "eps": 3.73,
+      "freeCashFlow": 6617000000.0,
+      "totalDebt": 11952000000.0,
+      "cash": 9860000000.0,
+      "sharesOutstanding": 1503000000.0,
+      "grossMargin": 0.445601806783225,
+      "operatingMargin": 0.12287294108484872,
+      "netMargin": 0.11097698687745804,
+      "roe": 0.39501039501039503,
+      "roic": 0.23921613221135624
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 46309000000.0,
+      "operatingIncome": 3702000000.0,
+      "netIncome": 3219000000.0,
+      "eps": 2.16,
+      "freeCashFlow": 3268000000.0,
+      "totalDebt": 11018000000.0,
+      "cash": 7464000000.0,
+      "sharesOutstanding": 1476000000.0,
+      "grossMargin": 0.42734673605562634,
+      "operatingMargin": 0.07994126411712627,
+      "netMargin": 0.06951132609212032,
+      "roe": 0.24362370392794974,
+      "roic": 0.1527794973381206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.511336+00:00"
+  }
+}

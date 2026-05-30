@@ -1,0 +1,128 @@
+{
+  "ticker": "KOTAKBANK",
+  "name": "Kotak Mahindra Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3821432209408.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 384.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 780153800000.0,
+    "operatingIncome": null,
+    "netIncome": 192878900000.0,
+    "eps": 19.39,
+    "freeCashFlow": 406685600000.0,
+    "totalDebt": 953935300000.0,
+    "cash": 1020911100000.0,
+    "sharesOutstanding": 9946464950.0
+  },
+  "ratios": {
+    "roe": 0.10643011397876032,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.35119998,
+    "netMargin": 0.24723189196796835,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 518572514000.0,
+      "operatingIncome": null,
+      "netIncome": 149250096000.0,
+      "eps": 14.988,
+      "freeCashFlow": -22291948000.0,
+      "totalDebt": 523339234000.0,
+      "cash": 474698271000.0,
+      "sharesOutstanding": 9932782910.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2878095000615478,
+      "roe": 0.132885986355322,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 696695998000.0,
+      "operatingIncome": null,
+      "netIncome": 182132075000.0,
+      "eps": 18.29,
+      "freeCashFlow": 145583088000.0,
+      "totalDebt": 751056062000.0,
+      "cash": 684602374000.0,
+      "sharesOutstanding": 9939604490.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2614225939618502,
+      "roe": 0.14013211261621666,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 747582900000.0,
+      "operatingIncome": null,
+      "netIncome": 221259900000.0,
+      "eps": 22.26,
+      "freeCashFlow": 157028800000.0,
+      "totalDebt": 867510344000.0,
+      "cash": 811127235000.0,
+      "sharesOutstanding": 9941114965.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2959670425848424,
+      "roe": 0.1404919763025144,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 780153800000.0,
+      "operatingIncome": null,
+      "netIncome": 192878900000.0,
+      "eps": 19.39,
+      "freeCashFlow": 406685600000.0,
+      "totalDebt": 953935300000.0,
+      "cash": 1020911100000.0,
+      "sharesOutstanding": 9946464950.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24723189196796835,
+      "roe": 0.10643011397876032,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:26.773412+00:00"
+  }
+}

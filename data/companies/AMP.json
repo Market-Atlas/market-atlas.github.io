@@ -1,0 +1,128 @@
+{
+  "ticker": "AMP",
+  "name": "Ameriprise Financial, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40068030464.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 445.71,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18480000000.0,
+    "operatingIncome": null,
+    "netIncome": 3563000000.0,
+    "eps": 36.28,
+    "freeCashFlow": 8161000000.0,
+    "totalDebt": 5862000000.0,
+    "cash": 10103000000.0,
+    "sharesOutstanding": 338058287.0
+  },
+  "ratios": {
+    "roe": 0.5440525271033746,
+    "roic": null,
+    "grossMargin": 0.56601,
+    "operatingMargin": 0.37188,
+    "netMargin": 0.1928030303030303,
+    "debtToEquity": 0.5624600000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14258000000.0,
+      "operatingIncome": null,
+      "netIncome": 3149000000.0,
+      "eps": 27.7,
+      "freeCashFlow": 4225000000.0,
+      "totalDebt": 5385000000.0,
+      "cash": 7097000000.0,
+      "sharesOutstanding": 335864062.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22085846542292045,
+      "roe": 0.8280305022350776,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15535000000.0,
+      "operatingIncome": null,
+      "netIncome": 2556000000.0,
+      "eps": 23.71,
+      "freeCashFlow": 4501000000.0,
+      "totalDebt": 5755000000.0,
+      "cash": 7564000000.0,
+      "sharesOutstanding": 336780893.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1645317026070164,
+      "roe": 0.5404948192006767,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17264000000.0,
+      "operatingIncome": null,
+      "netIncome": 3401000000.0,
+      "eps": 33.05,
+      "freeCashFlow": 6419000000.0,
+      "totalDebt": 5472000000.0,
+      "cash": 8522000000.0,
+      "sharesOutstanding": 337729050.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19699953660797034,
+      "roe": 0.6505355776587605,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 18480000000.0,
+      "operatingIncome": null,
+      "netIncome": 3563000000.0,
+      "eps": 36.28,
+      "freeCashFlow": 8161000000.0,
+      "totalDebt": 5862000000.0,
+      "cash": 10103000000.0,
+      "sharesOutstanding": 338058287.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1928030303030303,
+      "roe": 0.5440525271033746,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.321791+00:00"
+  }
+}

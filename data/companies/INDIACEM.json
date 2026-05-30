@@ -1,0 +1,128 @@
+{
+  "ticker": "INDIACEM",
+  "name": "The India Cements Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 177547640832.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 381.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44846900000.0,
+    "operatingIncome": 973900000.0,
+    "netIncome": -672500000.0,
+    "eps": -2.17,
+    "freeCashFlow": -2494100000.0,
+    "totalDebt": 13048100000.0,
+    "cash": 137600000.0,
+    "sharesOutstanding": 309897201.0
+  },
+  "ratios": {
+    "roe": -0.006642454221390777,
+    "roic": 0.008521245804561697,
+    "grossMargin": 0.778129592011934,
+    "operatingMargin": 0.02171610523804321,
+    "netMargin": -0.014995462339648895,
+    "debtToEquity": 0.12888
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 56000460000.0,
+      "operatingIncome": -3604286000.0,
+      "netIncome": -1268948000.0,
+      "eps": -4.04,
+      "freeCashFlow": -771355000.0,
+      "totalDebt": 29452875000.0,
+      "cash": 642474000.0,
+      "sharesOutstanding": 309897201.0,
+      "grossMargin": 0.33911078587568744,
+      "operatingMargin": -0.06436172131443206,
+      "netMargin": -0.022659599581860576,
+      "roe": -0.02196817081515381,
+      "roic": -0.041326019682190976
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 49978546000.0,
+      "operatingIncome": -1229074000.0,
+      "netIncome": -2273375000.0,
+      "eps": -7.32,
+      "freeCashFlow": 2165815000.0,
+      "totalDebt": 26327478000.0,
+      "cash": 690425000.0,
+      "sharesOutstanding": 309897201.0,
+      "grossMargin": 0.3924954719571074,
+      "operatingMargin": -0.024592031949068706,
+      "netMargin": -0.045487017569498724,
+      "roe": -0.0407800889519418,
+      "roic": -0.01497507287846301
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 41405300000.0,
+      "operatingIncome": -6134900000.0,
+      "netIncome": -1436900000.0,
+      "eps": -4.64,
+      "freeCashFlow": -3186500000.0,
+      "totalDebt": 11651562000.0,
+      "cash": 1031039000.0,
+      "sharesOutstanding": 464845219.0,
+      "grossMargin": 0.7810594295899317,
+      "operatingMargin": -0.14816702209620508,
+      "netMargin": -0.03470328677729663,
+      "roe": -0.014095364988043316,
+      "roic": -0.0540077892562169
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 44846900000.0,
+      "operatingIncome": 973900000.0,
+      "netIncome": -672500000.0,
+      "eps": -2.17,
+      "freeCashFlow": -2494100000.0,
+      "totalDebt": 13048100000.0,
+      "cash": 137600000.0,
+      "sharesOutstanding": 309897201.0,
+      "grossMargin": 0.778129592011934,
+      "operatingMargin": 0.02171610523804321,
+      "netMargin": -0.014995462339648895,
+      "roe": -0.006642454221390777,
+      "roic": 0.008521245804561697
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:00.495207+00:00"
+  }
+}

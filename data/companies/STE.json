@@ -1,0 +1,128 @@
+{
+  "ticker": "STE",
+  "name": "STERIS plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20878813184.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 212.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 7.93,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 98075025.0
+  },
+  "ratios": {
+    "roe": 0.11368,
+    "roic": null,
+    "grossMargin": 0.44278,
+    "operatingMargin": 0.20001,
+    "netMargin": 0.13179,
+    "debtToEquity": 0.26839999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 4223403000.0,
+      "operatingIncome": 477863000.0,
+      "netIncome": 243888000.0,
+      "eps": null,
+      "freeCashFlow": 397248000.0,
+      "totalDebt": 3279884000.0,
+      "cash": 348320000.0,
+      "sharesOutstanding": 100067000.0,
+      "grossMargin": 0.4458506564493135,
+      "operatingMargin": 0.11314643665309704,
+      "netMargin": 0.05774679802045886,
+      "roe": 0.03733538098658432,
+      "roic": 0.04870070442630837
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4536266000.0,
+      "operatingIncome": 791586000.0,
+      "netIncome": 107030000.0,
+      "eps": 1.07,
+      "freeCashFlow": 394978000.0,
+      "totalDebt": 3248277000.0,
+      "cash": 208357000.0,
+      "sharesOutstanding": 98629000.0,
+      "grossMargin": 0.4366423838460972,
+      "operatingMargin": 0.17450167163918517,
+      "netMargin": 0.023594295396257625,
+      "roe": 0.017611734881766233,
+      "roic": 0.08488425522560512
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 5138701000.0,
+      "operatingIncome": 862163000.0,
+      "netIncome": 378239000.0,
+      "eps": 3.81,
+      "freeCashFlow": 612948000.0,
+      "totalDebt": 3383167000.0,
+      "cash": 207020000.0,
+      "sharesOutstanding": 98883000.0,
+      "grossMargin": 0.43165772828580606,
+      "operatingMargin": 0.1677783938003009,
+      "netMargin": 0.07360595605776635,
+      "roe": 0.060017321034489104,
+      "roic": 0.08901740167682447
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 5459515000.0,
+      "operatingIncome": 960840000.0,
+      "netIncome": 614641000.0,
+      "eps": 6.2,
+      "freeCashFlow": 777996000.0,
+      "totalDebt": 2202540000.0,
+      "cash": 171701000.0,
+      "sharesOutstanding": 98301000.0,
+      "grossMargin": 0.4401057603102107,
+      "operatingMargin": 0.17599365511405318,
+      "netMargin": 0.11258161210290658,
+      "roe": 0.09307940373186258,
+      "roic": 0.1091126506013835
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.93,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:21.442411+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HPQ",
+  "name": "HP Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24728694784.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 27.04,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 55295000000.0,
+    "operatingIncome": 3624000000.0,
+    "netIncome": 2529000000.0,
+    "eps": 2.65,
+    "freeCashFlow": 2800000000.0,
+    "totalDebt": 10882000000.0,
+    "cash": 3690000000.0,
+    "sharesOutstanding": 921149000.0
+  },
+  "ratios": {
+    "roe": -7.309248554913295,
+    "roic": 0.3439635535307517,
+    "grossMargin": 0.20602224432588842,
+    "operatingMargin": 0.06553937969074962,
+    "netMargin": 0.04573650420472014,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 62910000000.0,
+      "operatingIncome": 5117000000.0,
+      "netIncome": 3132000000.0,
+      "eps": 3.05,
+      "freeCashFlow": 3698000000.0,
+      "totalDebt": 12294000000.0,
+      "cash": 3145000000.0,
+      "sharesOutstanding": 980000000.0,
+      "grossMargin": 0.19492926402797647,
+      "operatingMargin": 0.08133841996502941,
+      "netMargin": 0.04978540772532189,
+      "roe": -1.0353719008264464,
+      "roic": 0.55205523788974
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 53718000000.0,
+      "operatingIncome": 4223000000.0,
+      "netIncome": 3263000000.0,
+      "eps": 3.26,
+      "freeCashFlow": 2978000000.0,
+      "totalDebt": 10739000000.0,
+      "cash": 3107000000.0,
+      "sharesOutstanding": 988268771.0,
+      "grossMargin": 0.2142298670836591,
+      "operatingMargin": 0.07861424475967087,
+      "netMargin": 0.060743140102014224,
+      "roe": -3.0523854069223573,
+      "roic": 0.43671147880041367
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 53559000000.0,
+      "operatingIncome": 4202000000.0,
+      "netIncome": 2775000000.0,
+      "eps": 2.81,
+      "freeCashFlow": 3157000000.0,
+      "totalDebt": 10899000000.0,
+      "cash": 3238000000.0,
+      "sharesOutstanding": 938989000.0,
+      "grossMargin": 0.2206538583618066,
+      "operatingMargin": 0.07845553501745739,
+      "netMargin": 0.05181202038873019,
+      "roe": -2.0975056689342404,
+      "roic": 0.43880534670008353
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 55295000000.0,
+      "operatingIncome": 3624000000.0,
+      "netIncome": 2529000000.0,
+      "eps": 2.65,
+      "freeCashFlow": 2800000000.0,
+      "totalDebt": 10882000000.0,
+      "cash": 3690000000.0,
+      "sharesOutstanding": 921149000.0,
+      "grossMargin": 0.20602224432588842,
+      "operatingMargin": 0.06553937969074962,
+      "netMargin": 0.04573650420472014,
+      "roe": -7.309248554913295,
+      "roic": 0.3439635535307517
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.062921+00:00"
+  }
+}

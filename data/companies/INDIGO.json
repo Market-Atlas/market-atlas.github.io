@@ -1,0 +1,111 @@
+{
+  "ticker": "INDIGO",
+  "name": "InterGlobe Aviation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1703180107776.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4405.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 776186000000.0,
+    "operatingIncome": 110908000000.0,
+    "netIncome": 72584000000.0,
+    "eps": 187.67,
+    "freeCashFlow": 225465000000.0,
+    "totalDebt": 668098000000.0,
+    "cash": 10731000000.0,
+    "sharesOutstanding": 386423369.0
+  },
+  "ratios": {
+    "roe": 0.7747913153006981,
+    "roic": 0.14559059045918768,
+    "grossMargin": 0.17081859245077854,
+    "operatingMargin": 0.14288843138113802,
+    "netMargin": 0.09351366811563208,
+    "debtToEquity": 8.66462
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 259309270000.0,
+      "operatingIncome": -35804290000.0,
+      "netIncome": -61618450000.0,
+      "eps": -160.01,
+      "freeCashFlow": 17436970000.0,
+      "totalDebt": 368778370000.0,
+      "cash": 10152780000.0,
+      "sharesOutstanding": 385254729.0,
+      "grossMargin": -0.043350629154137066,
+      "operatingMargin": -0.1380756268374054,
+      "netMargin": -0.23762532669965866,
+      "roe": 1.0290215765969024,
+      "roic": -0.11590984395321753
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 536076670000.0,
+      "operatingIncome": 44237600000.0,
+      "netIncome": -3057890000.0,
+      "eps": -7.93,
+      "freeCashFlow": 121581350000.0,
+      "totalDebt": 448542130000.0,
+      "cash": 12679180000.0,
+      "sharesOutstanding": 385547099.0,
+      "grossMargin": 0.12741280085925022,
+      "operatingMargin": 0.08252103192627279,
+      "netMargin": -0.005704202721599505,
+      "roe": 0.04895352865501345,
+      "roic": 0.11458233315496648
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 673868000000.0,
+      "operatingIncome": 107186000000.0,
+      "netIncome": 81725000000.0,
+      "eps": 211.61,
+      "freeCashFlow": 201150000000.0,
+      "totalDebt": 512801000000.0,
+      "cash": 6952000000.0,
+      "sharesOutstanding": 385978689.0,
+      "grossMargin": 0.19905678856986828,
+      "operatingMargin": 0.15906082496868823,
+      "netMargin": 0.12127746086770703,
+      "roe": 4.093413473578763,
+      "roic": 0.20118776348340547
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 776186000000.0,
+      "operatingIncome": 110908000000.0,
+      "netIncome": 72584000000.0,
+      "eps": 187.67,
+      "freeCashFlow": 225465000000.0,
+      "totalDebt": 668098000000.0,
+      "cash": 10731000000.0,
+      "sharesOutstanding": 386423369.0,
+      "grossMargin": 0.17081859245077854,
+      "operatingMargin": 0.14288843138113802,
+      "netMargin": 0.09351366811563208,
+      "roe": 0.7747913153006981,
+      "roic": 0.14559059045918768
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:01.452538+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GODREJCP",
+  "name": "Godrej Consumer Products Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1053225713664.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1029.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 151001000000.0,
+    "operatingIncome": 28887100000.0,
+    "netIncome": 18614700000.0,
+    "eps": 18.19,
+    "freeCashFlow": 19189400000.0,
+    "totalDebt": 44158100000.0,
+    "cash": 9768700000.0,
+    "sharesOutstanding": 1023244581.0
+  },
+  "ratios": {
+    "roe": 0.1471174706293789,
+    "roic": 0.16923959326863813,
+    "grossMargin": 0.5103058920139601,
+    "operatingMargin": 0.1913040310991318,
+    "netMargin": 0.12327534254740034,
+    "debtToEquity": 0.34899
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 131986800000.0,
+      "operatingIncome": 23210100000.0,
+      "netIncome": 17024600000.0,
+      "eps": 16.65,
+      "freeCashFlow": 19232500000.0,
+      "totalDebt": 11295800000.0,
+      "cash": 3576200000.0,
+      "sharesOutstanding": 1022695318.0,
+      "grossMargin": 0.46631481329951174,
+      "operatingMargin": 0.17585167607669858,
+      "netMargin": 0.12898714113835627,
+      "roe": 0.12341826981281304,
+      "roic": 0.15552395802412386
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 139740600000.0,
+      "operatingIncome": 28481400000.0,
+      "netIncome": -5605500000.0,
+      "eps": -5.48,
+      "freeCashFlow": 17627600000.0,
+      "totalDebt": 32222100000.0,
+      "cash": 4027800000.0,
+      "sharesOutstanding": 1022820329.0,
+      "grossMargin": 0.5253219178964452,
+      "operatingMargin": 0.20381621375605943,
+      "netMargin": -0.040113610504033906,
+      "roe": -0.0444931448569163,
+      "roic": 0.18002525792027954
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 139170600000.0,
+      "operatingIncome": 27690600000.0,
+      "netIncome": 18523000000.0,
+      "eps": 18.11,
+      "freeCashFlow": 19774100000.0,
+      "totalDebt": 40044900000.0,
+      "cash": 4549200000.0,
+      "sharesOutstanding": 1023007964.0,
+      "grossMargin": 0.530352675062118,
+      "operatingMargin": 0.19896874770964557,
+      "netMargin": 0.13309563945258554,
+      "roe": 0.15430792607748137,
+      "roic": 0.17297532984225167
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 151001000000.0,
+      "operatingIncome": 28887100000.0,
+      "netIncome": 18614700000.0,
+      "eps": 18.19,
+      "freeCashFlow": 19189400000.0,
+      "totalDebt": 44158100000.0,
+      "cash": 9768700000.0,
+      "sharesOutstanding": 1023244581.0,
+      "grossMargin": 0.5103058920139601,
+      "operatingMargin": 0.1913040310991318,
+      "netMargin": 0.12327534254740034,
+      "roe": 0.1471174706293789,
+      "roic": 0.16923959326863813
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:30.274984+00:00"
+  }
+}

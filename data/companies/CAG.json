@@ -1,0 +1,128 @@
+{
+  "ticker": "CAG",
+  "name": "Conagra Brands, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 6353645056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13.28,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11612800000.0,
+    "operatingIncome": 1466200000.0,
+    "netIncome": 1152400000.0,
+    "eps": 2.4,
+    "freeCashFlow": 1302600000.0,
+    "totalDebt": 8067600000.0,
+    "cash": 68000000.0,
+    "sharesOutstanding": 584219229.0
+  },
+  "ratios": {
+    "roe": 0.1290091461708106,
+    "roic": 0.08624553684346747,
+    "grossMargin": 0.2586370212179664,
+    "operatingMargin": 0.1262572333976302,
+    "netMargin": 0.09923532653623587,
+    "debtToEquity": 0.89813
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-05-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 11535900000.0,
+      "operatingIncome": 1346000000.0,
+      "netIncome": 888200000.0,
+      "eps": 1.84,
+      "freeCashFlow": 712900000.0,
+      "totalDebt": 9179200000.0,
+      "cash": 83300000.0,
+      "sharesOutstanding": 584219229.0,
+      "grossMargin": 0.2460839639733354,
+      "operatingMargin": 0.1166792361237528,
+      "netMargin": 0.07699442609592663,
+      "roe": 0.1010730907973645,
+      "roic": 0.07491553913028959
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 12277000000.0,
+      "operatingIncome": 1832900000.0,
+      "netIncome": 683600000.0,
+      "eps": 1.42,
+      "freeCashFlow": 633200000.0,
+      "totalDebt": 9419200000.0,
+      "cash": 93300000.0,
+      "sharesOutstanding": 584219229.0,
+      "grossMargin": 0.26592815834487255,
+      "operatingMargin": 0.1492954304797589,
+      "netMargin": 0.05568135537997882,
+      "roe": 0.07824375057229191,
+      "roic": 0.10095285305133289
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 12050900000.0,
+      "operatingIncome": 1845900000.0,
+      "netIncome": 347200000.0,
+      "eps": 0.72,
+      "freeCashFlow": 1627500000.0,
+      "totalDebt": 8441300000.0,
+      "cash": 77700000.0,
+      "sharesOutstanding": 584219229.0,
+      "grossMargin": 0.27661004572272613,
+      "operatingMargin": 0.15317528151424376,
+      "netMargin": 0.02881112613995635,
+      "roe": 0.041135491208947446,
+      "roic": 0.10934325334533844
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 11612800000.0,
+      "operatingIncome": 1466200000.0,
+      "netIncome": 1152400000.0,
+      "eps": 2.4,
+      "freeCashFlow": 1302600000.0,
+      "totalDebt": 8067600000.0,
+      "cash": 68000000.0,
+      "sharesOutstanding": 584219229.0,
+      "grossMargin": 0.2586370212179664,
+      "operatingMargin": 0.1262572333976302,
+      "netMargin": 0.09923532653623587,
+      "roe": 0.1290091461708106,
+      "roic": 0.08624553684346747
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.301936+00:00"
+  }
+}

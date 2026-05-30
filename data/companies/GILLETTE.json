@@ -1,0 +1,111 @@
+{
+  "ticker": "GILLETTE",
+  "name": "Gillette India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "INR",
+  "marketCap": {
+    "value": 261219385344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 8016.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26330800000.0,
+    "operatingIncome": 5629100000.0,
+    "netIncome": 4117000000.0,
+    "eps": 126.35,
+    "freeCashFlow": 4418000000.0,
+    "totalDebt": 500000.0,
+    "cash": 4734300000.0,
+    "sharesOutstanding": 32585217.0
+  },
+  "ratios": {
+    "roe": 0.42387801538192266,
+    "roic": 0.5795309475764938,
+    "grossMargin": 0.5628921263311407,
+    "operatingMargin": 0.21378385768757502,
+    "netMargin": 0.1563568140732526,
+    "debtToEquity": 2e-05
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": 20094200000.0,
+      "operatingIncome": 4217200000.0,
+      "netIncome": 3103800000.0,
+      "eps": 95.25,
+      "freeCashFlow": 3513300000.0,
+      "totalDebt": 1600000.0,
+      "cash": 1643500000.0,
+      "sharesOutstanding": 32585217.0,
+      "grossMargin": 0.5429775756188353,
+      "operatingMargin": 0.20987150521045875,
+      "netMargin": 0.15446248171114052,
+      "roe": 0.3933790446255434,
+      "roic": 0.5343842264657805
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 22561600000.0,
+      "operatingIncome": 4362200000.0,
+      "netIncome": 2893300000.0,
+      "eps": 88.79,
+      "freeCashFlow": 3451200000.0,
+      "totalDebt": 1200000.0,
+      "cash": 2889500000.0,
+      "sharesOutstanding": 32585217.0,
+      "grossMargin": 0.5202689525565563,
+      "operatingMargin": 0.19334621658038437,
+      "netMargin": 0.12824001843840863,
+      "roe": 0.33596144914073384,
+      "roic": 0.5064552082849579
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 24770500000.0,
+      "operatingIncome": 4718400000.0,
+      "netIncome": 3556800000.0,
+      "eps": 109.15,
+      "freeCashFlow": 3838700000.0,
+      "totalDebt": 500000.0,
+      "cash": 4534400000.0,
+      "sharesOutstanding": 32585217.0,
+      "grossMargin": 0.5049110837488141,
+      "operatingMargin": 0.190484649078541,
+      "netMargin": 0.14359015764720132,
+      "roe": 0.3596869122019295,
+      "roic": 0.47713138708274766
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 26330800000.0,
+      "operatingIncome": 5629100000.0,
+      "netIncome": 4117000000.0,
+      "eps": 126.35,
+      "freeCashFlow": 4418000000.0,
+      "totalDebt": 500000.0,
+      "cash": 4734300000.0,
+      "sharesOutstanding": 32585217.0,
+      "grossMargin": 0.5628921263311407,
+      "operatingMargin": 0.21378385768757502,
+      "netMargin": 0.1563568140732526,
+      "roe": 0.42387801538192266,
+      "roic": 0.5795309475764938
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:45.683284+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ABREL",
+  "name": "Aditya Birla Real Estate Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 137536716800.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1243.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4037700000.0,
+    "operatingIncome": -4266900000.0,
+    "netIncome": -1032200000.0,
+    "eps": null,
+    "freeCashFlow": 5348400000.0,
+    "totalDebt": 56364900000.0,
+    "cash": 13624600000.0,
+    "sharesOutstanding": 111695680.0
+  },
+  "ratios": {
+    "roe": -0.027891116022935456,
+    "roic": -0.04569731539383398,
+    "grossMargin": 0.581296282537088,
+    "operatingMargin": -1.056764989969537,
+    "netMargin": -0.2556405874631597,
+    "debtToEquity": 1.5237100000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 14.91,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 37919500000.0,
+      "operatingIncome": 3778700000.0,
+      "netIncome": 2718800000.0,
+      "eps": 24.34,
+      "freeCashFlow": 1496800000.0,
+      "totalDebt": 10593100000.0,
+      "cash": 434900000.0,
+      "sharesOutstanding": 111695680.0,
+      "grossMargin": 0.4392331122509527,
+      "operatingMargin": 0.09965057556138662,
+      "netMargin": 0.0716992576378908,
+      "roe": 0.06994885305286556,
+      "roic": 0.07639679346562478
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 10903200000.0,
+      "operatingIncome": 1911300000.0,
+      "netIncome": 505300000.0,
+      "eps": 4.56,
+      "freeCashFlow": -4962200000.0,
+      "totalDebt": 25016900000.0,
+      "cash": 3367200000.0,
+      "sharesOutstanding": 111695680.0,
+      "grossMargin": 0.5320823244552058,
+      "operatingMargin": 0.175297160466652,
+      "netMargin": 0.04634419253063321,
+      "roe": 0.012698723844850898,
+      "roic": 0.02949159289782327
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 12033700000.0,
+      "operatingIncome": -342000000.0,
+      "netIncome": -1612800000.0,
+      "eps": -14.24,
+      "freeCashFlow": -15795100000.0,
+      "totalDebt": 49965400000.0,
+      "cash": 7429000000.0,
+      "sharesOutstanding": 111695680.0,
+      "grossMargin": 0.38339828980280377,
+      "operatingMargin": -0.02842018664251228,
+      "netMargin": -0.1340236170089,
+      "roe": -0.04199715644253254,
+      "roic": -0.003870179250407387
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 4037700000.0,
+      "operatingIncome": -4266900000.0,
+      "netIncome": -1032200000.0,
+      "eps": null,
+      "freeCashFlow": 5348400000.0,
+      "totalDebt": 56364900000.0,
+      "cash": 13624600000.0,
+      "sharesOutstanding": 111695680.0,
+      "grossMargin": 0.581296282537088,
+      "operatingMargin": -1.056764989969537,
+      "netMargin": -0.2556405874631597,
+      "roe": -0.027891116022935456,
+      "roic": -0.04569731539383398
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:46.783953+00:00"
+  }
+}

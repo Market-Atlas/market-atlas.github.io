@@ -1,0 +1,111 @@
+{
+  "ticker": "GM",
+  "name": "General Motors Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 75054612480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 83.24,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 185019000000.0,
+    "operatingIncome": 2909000000.0,
+    "netIncome": 2697000000.0,
+    "eps": 3.27,
+    "freeCashFlow": 1771000000.0,
+    "totalDebt": 131312000000.0,
+    "cash": 20945000000.0,
+    "sharesOutstanding": 904000000.0
+  },
+  "ratios": {
+    "roe": 0.04412703087419624,
+    "roic": 0.015117106911048636,
+    "grossMargin": 0.06267464422572817,
+    "operatingMargin": 0.015722709559558748,
+    "netMargin": 0.014576881293272583,
+    "debtToEquity": 1.99048
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 156735000000.0,
+      "operatingIncome": 10314000000.0,
+      "netIncome": 9934000000.0,
+      "eps": 6.13,
+      "freeCashFlow": -5144000000.0,
+      "totalDebt": 115666000000.0,
+      "cash": 19153000000.0,
+      "sharesOutstanding": 1400000000.0,
+      "grossMargin": 0.13386288959071044,
+      "operatingMargin": 0.06580534022394488,
+      "netMargin": 0.06338086579257983,
+      "roe": 0.1465364644795846,
+      "roic": 0.05621995225065138
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 171842000000.0,
+      "operatingIncome": 9298000000.0,
+      "netIncome": 10127000000.0,
+      "eps": 7.32,
+      "freeCashFlow": -3680000000.0,
+      "totalDebt": 122648000000.0,
+      "cash": 18853000000.0,
+      "sharesOutstanding": 1200000000.0,
+      "grossMargin": 0.11136974662771616,
+      "operatingMargin": 0.054107843251358805,
+      "netMargin": 0.05893204222483444,
+      "roe": 0.15753041097595122,
+      "roic": 0.04973948024436432
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 187442000000.0,
+      "operatingIncome": 12784000000.0,
+      "netIncome": 6008000000.0,
+      "eps": 6.37,
+      "freeCashFlow": -5980000000.0,
+      "totalDebt": 130693000000.0,
+      "cash": 19872000000.0,
+      "sharesOutstanding": 1000000000.0,
+      "grossMargin": 0.12486529166355459,
+      "operatingMargin": 0.068202430618538,
+      "netMargin": 0.03205258159857449,
+      "roe": 0.09525621511922881,
+      "roic": 0.06597682760044384
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 185019000000.0,
+      "operatingIncome": 2909000000.0,
+      "netIncome": 2697000000.0,
+      "eps": 3.27,
+      "freeCashFlow": 1771000000.0,
+      "totalDebt": 131312000000.0,
+      "cash": 20945000000.0,
+      "sharesOutstanding": 904000000.0,
+      "grossMargin": 0.06267464422572817,
+      "operatingMargin": 0.015722709559558748,
+      "netMargin": 0.014576881293272583,
+      "roe": 0.04412703087419624,
+      "roic": 0.015117106911048636
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:31.584461+00:00"
+  }
+}

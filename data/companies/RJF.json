@@ -1,0 +1,128 @@
+{
+  "ticker": "RJF",
+  "name": "Raymond James Financial, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 27948177408.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 143.41,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13842000000.0,
+    "operatingIncome": null,
+    "netIncome": 2135000000.0,
+    "eps": 10.3,
+    "freeCashFlow": 2246000000.0,
+    "totalDebt": 4220000000.0,
+    "cash": 11389000000.0,
+    "sharesOutstanding": 250084168.0
+  },
+  "ratios": {
+    "roe": 0.17075901783571942,
+    "roic": null,
+    "grossMargin": 0.93031,
+    "operatingMargin": 0.19323999,
+    "netMargin": 0.15424071665944228,
+    "debtToEquity": 0.48477
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 10851000000.0,
+      "operatingIncome": null,
+      "netIncome": 1509000000.0,
+      "eps": 6.98,
+      "freeCashFlow": -19000000.0,
+      "totalDebt": 3329000000.0,
+      "cash": 6178000000.0,
+      "sharesOutstanding": 248018564.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.13906552391484656,
+      "roe": 0.1595474730386974,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 11468000000.0,
+      "operatingIncome": null,
+      "netIncome": 1739000000.0,
+      "eps": 7.97,
+      "freeCashFlow": -3687000000.0,
+      "totalDebt": 3139000000.0,
+      "cash": 9313000000.0,
+      "sharesOutstanding": 248728805.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15163934426229508,
+      "roe": 0.17025651067162717,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 12639000000.0,
+      "operatingIncome": null,
+      "netIncome": 2068000000.0,
+      "eps": 9.7,
+      "freeCashFlow": 1950000000.0,
+      "totalDebt": 3089000000.0,
+      "cash": 10998000000.0,
+      "sharesOutstanding": 249972182.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16362053959965187,
+      "roe": 0.17716096975927353,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 13842000000.0,
+      "operatingIncome": null,
+      "netIncome": 2135000000.0,
+      "eps": 10.3,
+      "freeCashFlow": 2246000000.0,
+      "totalDebt": 4220000000.0,
+      "cash": 11389000000.0,
+      "sharesOutstanding": 250084168.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15424071665944228,
+      "roe": 0.17075901783571942,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:15.008475+00:00"
+  }
+}

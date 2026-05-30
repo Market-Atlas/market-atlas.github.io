@@ -1,0 +1,128 @@
+{
+  "ticker": "DALBHARAT",
+  "name": "Dalmia Bharat Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 328187478016.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1748.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 148040000000.0,
+    "operatingIncome": 17340000000.0,
+    "netIncome": 11390000000.0,
+    "eps": 60.73,
+    "freeCashFlow": 2220000000.0,
+    "totalDebt": 74060000000.0,
+    "cash": 2120000000.0,
+    "sharesOutstanding": 187565161.0
+  },
+  "ratios": {
+    "roe": 0.06335168808053841,
+    "roic": 0.06830805593854639,
+    "grossMargin": 0.6526614428532829,
+    "operatingMargin": 0.11713050526884626,
+    "netMargin": 0.0769386652256147,
+    "debtToEquity": 0.40865
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 132370000000.0,
+      "operatingIncome": 10250000000.0,
+      "netIncome": 10350000000.0,
+      "eps": 55.19,
+      "freeCashFlow": -4570000000.0,
+      "totalDebt": 38550000000.0,
+      "cash": 2340000000.0,
+      "sharesOutstanding": 187480361.0,
+      "grossMargin": 0.3776535468761804,
+      "operatingMargin": 0.07743446400241746,
+      "netMargin": 0.0781899221878069,
+      "roe": 0.06622728436140261,
+      "roic": 0.052609967664117435
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 143340000000.0,
+      "operatingIncome": 11440000000.0,
+      "netIncome": 8260000000.0,
+      "eps": 44.03,
+      "freeCashFlow": -1920000000.0,
+      "totalDebt": 48050000000.0,
+      "cash": 3410000000.0,
+      "sharesOutstanding": 187547629.0,
+      "grossMargin": 0.39340030696246686,
+      "operatingMargin": 0.07981024138412167,
+      "netMargin": 0.057625226733640296,
+      "roe": 0.05037506861011161,
+      "roic": 0.05395717385152344
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 139800000000.0,
+      "operatingIncome": 10760000000.0,
+      "netIncome": 6830000000.0,
+      "eps": 36.42,
+      "freeCashFlow": -5470000000.0,
+      "totalDebt": 57020000000.0,
+      "cash": 1490000000.0,
+      "sharesOutstanding": 187565161.0,
+      "grossMargin": 0.6342632331902718,
+      "operatingMargin": 0.07696709585121603,
+      "netMargin": 0.048855507868383406,
+      "roe": 0.0393116150569817,
+      "roic": 0.04662853180793899
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 148040000000.0,
+      "operatingIncome": 17340000000.0,
+      "netIncome": 11390000000.0,
+      "eps": 60.73,
+      "freeCashFlow": 2220000000.0,
+      "totalDebt": 74060000000.0,
+      "cash": 2120000000.0,
+      "sharesOutstanding": 187565161.0,
+      "grossMargin": 0.6526614428532829,
+      "operatingMargin": 0.11713050526884626,
+      "netMargin": 0.0769386652256147,
+      "roe": 0.06335168808053841,
+      "roic": 0.06830805593854639
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:31.016042+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ANANDRATHI",
+  "name": "Anand Rathi Wealth Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 286479286272.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3450.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11488250000.0,
+    "operatingIncome": 4473487000.0,
+    "netIncome": 3959114000.0,
+    "eps": 47.17,
+    "freeCashFlow": 2676276000.0,
+    "totalDebt": 834770000.0,
+    "cash": 2409376000.0,
+    "sharesOutstanding": 83020634.0
+  },
+  "ratios": {
+    "roe": 0.39664352461773944,
+    "roic": 0.4135870895735996,
+    "grossMargin": 0.5928126564098101,
+    "operatingMargin": 0.3893967314429961,
+    "netMargin": 0.3446228973081192,
+    "debtToEquity": 0.0825
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5486316000.0,
+      "operatingIncome": 2220434000.0,
+      "netIncome": 1684067000.0,
+      "eps": 20.14,
+      "freeCashFlow": 669626000.0,
+      "totalDebt": 367159000.0,
+      "cash": 647617000.0,
+      "sharesOutstanding": 83232454.0,
+      "grossMargin": 0.5891131681077065,
+      "operatingMargin": 0.40472222161465,
+      "netMargin": 0.3069577107844317,
+      "roe": 0.3596651573718066,
+      "roic": 0.43973535482281534
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7243224000.0,
+      "operatingIncome": 2844328000.0,
+      "netIncome": 2249744000.0,
+      "eps": 27.02,
+      "freeCashFlow": 2730697000.0,
+      "totalDebt": 516679000.0,
+      "cash": 331134000.0,
+      "sharesOutstanding": 83656594.0,
+      "grossMargin": 0.5864976700982877,
+      "operatingMargin": 0.3926881178878356,
+      "netMargin": 0.31059981025024214,
+      "roe": 0.3467257657346645,
+      "roic": 0.4060298471753703
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9390946000.0,
+      "operatingIncome": 3752429000.0,
+      "netIncome": 2998253000.0,
+      "eps": 36.17,
+      "freeCashFlow": 2033950000.0,
+      "totalDebt": 793013000.0,
+      "cash": 440651000.0,
+      "sharesOutstanding": 83020634.0,
+      "grossMargin": 0.572665948670134,
+      "operatingMargin": 0.39957944598978634,
+      "netMargin": 0.31927060383480005,
+      "roe": 0.44486109353298064,
+      "roic": 0.49814769186981034
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 11488250000.0,
+      "operatingIncome": 4473487000.0,
+      "netIncome": 3959114000.0,
+      "eps": 47.17,
+      "freeCashFlow": 2676276000.0,
+      "totalDebt": 834770000.0,
+      "cash": 2409376000.0,
+      "sharesOutstanding": 83020634.0,
+      "grossMargin": 0.5928126564098101,
+      "operatingMargin": 0.3893967314429961,
+      "netMargin": 0.3446228973081192,
+      "roe": 0.39664352461773944,
+      "roic": 0.4135870895735996
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:52.314441+00:00"
+  }
+}

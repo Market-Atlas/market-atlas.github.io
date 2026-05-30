@@ -1,0 +1,128 @@
+{
+  "ticker": "YUM",
+  "name": "Yum! Brands, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40778158080.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 147.95,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8214000000.0,
+    "operatingIncome": 2530000000.0,
+    "netIncome": 1559000000.0,
+    "eps": 5.55,
+    "freeCashFlow": 1639000000.0,
+    "totalDebt": 13189000000.0,
+    "cash": 709000000.0,
+    "sharesOutstanding": 276569492.0
+  },
+  "ratios": {
+    "roe": -0.21283276450511945,
+    "roic": 0.43144611186903137,
+    "grossMargin": 0.4616508400292184,
+    "operatingMargin": 0.3080107134161188,
+    "netMargin": 0.18979790601412222,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6842000000.0,
+      "operatingIncome": 2167000000.0,
+      "netIncome": 1325000000.0,
+      "eps": 4.57,
+      "freeCashFlow": 1148000000.0,
+      "totalDebt": 12661000000.0,
+      "cash": 367000000.0,
+      "sharesOutstanding": 280000000.0,
+      "grossMargin": 0.48333820520315696,
+      "operatingMargin": 0.3167202572347267,
+      "netMargin": 0.19365682548962293,
+      "roe": -0.1492789544840018,
+      "roic": 0.5725231175693527
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7076000000.0,
+      "operatingIncome": 2303000000.0,
+      "netIncome": 1597000000.0,
+      "eps": 5.59,
+      "freeCashFlow": 1318000000.0,
+      "totalDebt": 12031000000.0,
+      "cash": 512000000.0,
+      "sharesOutstanding": 281000000.0,
+      "grossMargin": 0.49406444318824194,
+      "operatingMargin": 0.3254663651780667,
+      "netMargin": 0.22569248162803843,
+      "roe": -0.20323237465003818,
+      "roic": 0.5518811406661874
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7549000000.0,
+      "operatingIncome": 2403000000.0,
+      "netIncome": 1486000000.0,
+      "eps": 5.22,
+      "freeCashFlow": 1432000000.0,
+      "totalDebt": 12286000000.0,
+      "cash": 616000000.0,
+      "sharesOutstanding": 279071854.0,
+      "grossMargin": 0.4747648695191416,
+      "operatingMargin": 0.31832030732547356,
+      "netMargin": 0.19684726453834944,
+      "roe": -0.19429916317991633,
+      "roic": 0.518111254851229
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8214000000.0,
+      "operatingIncome": 2530000000.0,
+      "netIncome": 1559000000.0,
+      "eps": 5.55,
+      "freeCashFlow": 1639000000.0,
+      "totalDebt": 13189000000.0,
+      "cash": 709000000.0,
+      "sharesOutstanding": 276569492.0,
+      "grossMargin": 0.4616508400292184,
+      "operatingMargin": 0.3080107134161188,
+      "netMargin": 0.18979790601412222,
+      "roe": -0.21283276450511945,
+      "roic": 0.43144611186903137
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:42.662365+00:00"
+  }
+}

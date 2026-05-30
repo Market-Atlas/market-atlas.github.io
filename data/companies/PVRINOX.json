@@ -1,0 +1,128 @@
+{
+  "ticker": "PVRINOX",
+  "name": "PVR INOX Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 94527275008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 962.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 66462000000.0,
+    "operatingIncome": 8250000000.0,
+    "netIncome": 3341000000.0,
+    "eps": 33.87,
+    "freeCashFlow": 19016000000.0,
+    "totalDebt": 67791000000.0,
+    "cash": 5883000000.0,
+    "sharesOutstanding": 98199962.0
+  },
+  "ratios": {
+    "roe": 0.04527897868188163,
+    "roic": 0.058271765387277685,
+    "grossMargin": 0.6621076705485841,
+    "operatingMargin": 0.12413108242303873,
+    "netMargin": 0.05026932683337847,
+    "debtToEquity": 0.91874
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 37373000000.0,
+      "operatingIncome": 2756000000.0,
+      "netIncome": -3351000000.0,
+      "eps": -51.6,
+      "freeCashFlow": 2279000000.0,
+      "totalDebt": 80519000000.0,
+      "cash": 3331000000.0,
+      "sharesOutstanding": 97967314.0,
+      "grossMargin": 0.6561956492655125,
+      "operatingMargin": 0.07374307655259145,
+      "netMargin": -0.08966366093168865,
+      "roe": -0.045714987312760906,
+      "roic": 0.017916929417959835
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 60888000000.0,
+      "operatingIncome": 6049000000.0,
+      "netIncome": -320000000.0,
+      "eps": -3.26,
+      "freeCashFlow": 13446000000.0,
+      "totalDebt": 83035000000.0,
+      "cash": 3930000000.0,
+      "sharesOutstanding": 98134446.0,
+      "grossMargin": 0.6552686900538695,
+      "operatingMargin": 0.09934634082249376,
+      "netMargin": -0.005255551175929575,
+      "roe": -0.004369495459821124,
+      "roic": 0.03870864529340244
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 56999000000.0,
+      "operatingIncome": 2799000000.0,
+      "netIncome": -2796000000.0,
+      "eps": -28.48,
+      "freeCashFlow": 16368000000.0,
+      "totalDebt": 77746000000.0,
+      "cash": 5225000000.0,
+      "sharesOutstanding": 98199962.0,
+      "grossMargin": 0.6594677099598238,
+      "operatingMargin": 0.04910612466885384,
+      "netMargin": -0.04905349216652924,
+      "roe": -0.039651138055732824,
+      "roic": 0.018878869021522856
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 66462000000.0,
+      "operatingIncome": 8250000000.0,
+      "netIncome": 3341000000.0,
+      "eps": 33.87,
+      "freeCashFlow": 19016000000.0,
+      "totalDebt": 67791000000.0,
+      "cash": 5883000000.0,
+      "sharesOutstanding": 98199962.0,
+      "grossMargin": 0.6621076705485841,
+      "operatingMargin": 0.12413108242303873,
+      "netMargin": 0.05026932683337847,
+      "roe": 0.04527897868188163,
+      "roic": 0.058271765387277685
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:46.273844+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HINDALCO",
+  "name": "Hindalco Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2519473586176.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1126.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2749440000000.0,
+    "operatingIncome": 349120000000.0,
+    "netIncome": 133910000000.0,
+    "eps": 60.2,
+    "freeCashFlow": -198460000000.0,
+    "totalDebt": 991610000000.0,
+    "cash": 143500000000.0,
+    "sharesOutstanding": 2247226523.0
+  },
+  "ratios": {
+    "roe": 0.09804294824392494,
+    "roic": 0.14809284647753496,
+    "grossMargin": 0.35307553538175046,
+    "operatingMargin": 0.1269785847299814,
+    "netMargin": 0.048704463454376165,
+    "debtToEquity": 0.72598
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2219370000000.0,
+      "operatingIncome": 155420000000.0,
+      "netIncome": 100970000000.0,
+      "eps": 45.36,
+      "freeCashFlow": 94710000000.0,
+      "totalDebt": 602910000000.0,
+      "cash": 128400000000.0,
+      "sharesOutstanding": 2247194585.0,
+      "grossMargin": 0.3121606582048059,
+      "operatingMargin": 0.07002888207013702,
+      "netMargin": 0.04549489269477374,
+      "roe": 0.10650169820475497,
+      "roic": 0.10020825676834497
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2148070000000.0,
+      "operatingIncome": 167040000000.0,
+      "netIncome": 101550000000.0,
+      "eps": 45.65,
+      "freeCashFlow": 83280000000.0,
+      "totalDebt": 563560000000.0,
+      "cash": 118160000000.0,
+      "sharesOutstanding": 2247216523.0,
+      "grossMargin": 0.3192819600850996,
+      "operatingMargin": 0.07776282895808796,
+      "netMargin": 0.04727499569380886,
+      "roe": 0.09567011474761178,
+      "roic": 0.10279258101438751
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2384960000000.0,
+      "operatingIncome": 249430000000.0,
+      "netIncome": 160010000000.0,
+      "eps": 71.91,
+      "freeCashFlow": 37610000000.0,
+      "totalDebt": 639290000000.0,
+      "cash": 98080000000.0,
+      "sharesOutstanding": 2247226523.0,
+      "grossMargin": 0.3501190795652757,
+      "operatingMargin": 0.10458456326311552,
+      "netMargin": 0.06709127197101838,
+      "roe": 0.12934386342141638,
+      "roic": 0.13293149575245952
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 2749440000000.0,
+      "operatingIncome": 349120000000.0,
+      "netIncome": 133910000000.0,
+      "eps": 60.2,
+      "freeCashFlow": -198460000000.0,
+      "totalDebt": 991610000000.0,
+      "cash": 143500000000.0,
+      "sharesOutstanding": 2247226523.0,
+      "grossMargin": 0.35307553538175046,
+      "operatingMargin": 0.1269785847299814,
+      "netMargin": 0.048704463454376165,
+      "roe": 0.09804294824392494,
+      "roic": 0.14809284647753496
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:30.801253+00:00"
+  }
+}

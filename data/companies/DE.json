@@ -1,0 +1,128 @@
+{
+  "ticker": "DE",
+  "name": "Deere & Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 146446778368.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 542.18,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44665000000.0,
+    "operatingIncome": 8416000000.0,
+    "netIncome": 5027000000.0,
+    "eps": 18.5,
+    "freeCashFlow": 3231000000.0,
+    "totalDebt": 64250000000.0,
+    "cash": 8276000000.0,
+    "sharesOutstanding": 536431204.0
+  },
+  "ratios": {
+    "roe": 0.19371868978805395,
+    "roic": 0.09330376940133038,
+    "grossMargin": 0.3648270457852905,
+    "operatingMargin": 0.18842494122915035,
+    "netMargin": 0.11254897570804881,
+    "debtToEquity": 3.76022
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 51282000000.0,
+      "operatingIncome": 9026000000.0,
+      "netIncome": 7131000000.0,
+      "eps": 23.28,
+      "freeCashFlow": 911000000.0,
+      "totalDebt": 52201000000.0,
+      "cash": 4774000000.0,
+      "sharesOutstanding": 536431204.0,
+      "grossMargin": 0.30673530673530675,
+      "operatingMargin": 0.176007176007176,
+      "netMargin": 0.13905463905463905,
+      "roe": 0.35193959135327213,
+      "roic": 0.12456012033727558
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 60248000000.0,
+      "operatingIncome": 14591000000.0,
+      "netIncome": 10166000000.0,
+      "eps": 34.63,
+      "freeCashFlow": 4121000000.0,
+      "totalDebt": 63692000000.0,
+      "cash": 7458000000.0,
+      "sharesOutstanding": 536431204.0,
+      "grossMargin": 0.3702363563935732,
+      "operatingMargin": 0.24218231310582924,
+      "netMargin": 0.16873589164785552,
+      "roe": 0.46665136561854487,
+      "roic": 0.1707008902979749
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 50518000000.0,
+      "operatingIncome": 11427000000.0,
+      "netIncome": 7100000000.0,
+      "eps": 25.62,
+      "freeCashFlow": 4429000000.0,
+      "totalDebt": 65463000000.0,
+      "cash": 7324000000.0,
+      "sharesOutstanding": 536431204.0,
+      "grossMargin": 0.3859020547131715,
+      "operatingMargin": 0.22619660319094184,
+      "netMargin": 0.14054396452749515,
+      "roe": 0.3109125941495884,
+      "roic": 0.1294125641286991
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 44665000000.0,
+      "operatingIncome": 8416000000.0,
+      "netIncome": 5027000000.0,
+      "eps": 18.5,
+      "freeCashFlow": 3231000000.0,
+      "totalDebt": 64250000000.0,
+      "cash": 8276000000.0,
+      "sharesOutstanding": 536431204.0,
+      "grossMargin": 0.3648270457852905,
+      "operatingMargin": 0.18842494122915035,
+      "netMargin": 0.11254897570804881,
+      "roe": 0.19371868978805395,
+      "roic": 0.09330376940133038
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:10.096535+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "EPAM",
+  "name": "EPAM Systems, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 5352966656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 102.46,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5457056000.0,
+    "operatingIncome": 520003000.0,
+    "netIncome": 377678000.0,
+    "eps": 6.72,
+    "freeCashFlow": 612691000.0,
+    "totalDebt": 143704000.0,
+    "cash": 1296077000.0,
+    "sharesOutstanding": 54274000.0
+  },
+  "ratios": {
+    "roe": 0.10270731252308125,
+    "roic": 0.13609330712679898,
+    "grossMargin": 0.28834613388611,
+    "operatingMargin": 0.0952900245113849,
+    "netMargin": 0.06920911201937455,
+    "debtToEquity": 0.08391
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4824698000.0,
+      "operatingIncome": 572966000.0,
+      "netIncome": 419416000.0,
+      "eps": 7.09,
+      "freeCashFlow": 382475000.0,
+      "totalDebt": 190362000.0,
+      "cash": 1681344000.0,
+      "sharesOutstanding": 57669000.0,
+      "grossMargin": 0.3187795381182408,
+      "operatingMargin": 0.11875686312386806,
+      "netMargin": 0.08693103692707813,
+      "roe": 0.1397339758496661,
+      "roic": 0.179506587624777
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4690540000.0,
+      "operatingIncome": 527161000.0,
+      "netIncome": 417083000.0,
+      "eps": 7.06,
+      "freeCashFlow": 534219000.0,
+      "totalDebt": 171945000.0,
+      "cash": 2036235000.0,
+      "sharesOutstanding": 57787000.0,
+      "grossMargin": 0.3057272723396453,
+      "operatingMargin": 0.11238812588742447,
+      "netMargin": 0.08892003905733668,
+      "roe": 0.12016597467336197,
+      "roic": 0.14471170264047023
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4727940000.0,
+      "operatingIncome": 544584000.0,
+      "netIncome": 454533000.0,
+      "eps": 7.84,
+      "freeCashFlow": 527022000.0,
+      "totalDebt": 163254000.0,
+      "cash": 1286267000.0,
+      "sharesOutstanding": 56869000.0,
+      "grossMargin": 0.30678117742610944,
+      "operatingMargin": 0.11518420284521377,
+      "netMargin": 0.09613764134062615,
+      "roe": 0.12524292470181536,
+      "roic": 0.1435963153252568
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5457056000.0,
+      "operatingIncome": 520003000.0,
+      "netIncome": 377678000.0,
+      "eps": 6.72,
+      "freeCashFlow": 612691000.0,
+      "totalDebt": 143704000.0,
+      "cash": 1296077000.0,
+      "sharesOutstanding": 54274000.0,
+      "grossMargin": 0.28834613388611,
+      "operatingMargin": 0.0952900245113849,
+      "netMargin": 0.06920911201937455,
+      "roe": 0.10270731252308125,
+      "roic": 0.13609330712679898
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:18.674565+00:00"
+  }
+}

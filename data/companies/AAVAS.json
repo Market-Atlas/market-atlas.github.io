@@ -1,0 +1,128 @@
+{
+  "ticker": "AAVAS",
+  "name": "Aavas Financiers Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 106491420672.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1343.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23927492000.0,
+    "operatingIncome": 5820797000.0,
+    "netIncome": 6548813000.0,
+    "eps": null,
+    "freeCashFlow": -14192192000.0,
+    "totalDebt": 156855708000.0,
+    "cash": 2285674000.0,
+    "sharesOutstanding": 79282743.0
+  },
+  "ratios": {
+    "roe": 0.12965775730023815,
+    "roic": 0.028070409639683016,
+    "grossMargin": 0.3415543509532884,
+    "operatingMargin": 0.24326816199541515,
+    "netMargin": 0.27369408377610155,
+    "debtToEquity": 3.10553
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 44.81,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13555177000.0,
+      "operatingIncome": 3115500000.0,
+      "netIncome": 4296438000.0,
+      "eps": 54.26,
+      "freeCashFlow": -19630691000.0,
+      "totalDebt": 98872786000.0,
+      "cash": 1776477000.0,
+      "sharesOutstanding": 79056874.0,
+      "grossMargin": 0.36568308919905657,
+      "operatingMargin": 0.22983838573262452,
+      "netMargin": 0.31695919573754,
+      "roe": 0.13140320400286268,
+      "roic": 0.023679520705523396
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16799835000.0,
+      "operatingIncome": 3158674000.0,
+      "netIncome": 4906942000.0,
+      "eps": 61.93,
+      "freeCashFlow": -20332556000.0,
+      "totalDebt": 124119192000.0,
+      "cash": 205580000.0,
+      "sharesOutstanding": 79139705.0,
+      "grossMargin": 0.31194633756819634,
+      "operatingMargin": 0.18801815613070008,
+      "netMargin": 0.2920827496222433,
+      "roe": 0.1300432574516966,
+      "roic": 0.01951577544036063
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 21252141000.0,
+      "operatingIncome": 5265125000.0,
+      "netIncome": 5741082000.0,
+      "eps": 71.97,
+      "freeCashFlow": -16901968000.0,
+      "totalDebt": 139184758000.0,
+      "cash": 113130000.0,
+      "sharesOutstanding": 79153665.0,
+      "grossMargin": 0.3442777365348743,
+      "operatingMargin": 0.2477456271346967,
+      "netMargin": 0.27014134717062155,
+      "roe": 0.13165106119765257,
+      "roic": 0.028803743397705518
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 23927492000.0,
+      "operatingIncome": 5820797000.0,
+      "netIncome": 6548813000.0,
+      "eps": null,
+      "freeCashFlow": -14192192000.0,
+      "totalDebt": 156855708000.0,
+      "cash": 2285674000.0,
+      "sharesOutstanding": 79282743.0,
+      "grossMargin": 0.3415543509532884,
+      "operatingMargin": 0.24326816199541515,
+      "netMargin": 0.27369408377610155,
+      "roe": 0.12965775730023815,
+      "roic": 0.028070409639683016
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:44.868541+00:00"
+  }
+}

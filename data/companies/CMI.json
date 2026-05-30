@@ -1,0 +1,128 @@
+{
+  "ticker": "CMI",
+  "name": "Cummins Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 89227870208.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 646.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33670000000.0,
+    "operatingIncome": 3865000000.0,
+    "netIncome": 2843000000.0,
+    "eps": 20.5,
+    "freeCashFlow": 2386000000.0,
+    "totalDebt": 8114000000.0,
+    "cash": 2845000000.0,
+    "sharesOutstanding": 222536253.0
+  },
+  "ratios": {
+    "roe": 0.2302210705320269,
+    "roic": 0.18887748619459513,
+    "grossMargin": 0.25292545292545293,
+    "operatingMargin": 0.1147906147906148,
+    "netMargin": 0.08443718443718444,
+    "debtToEquity": 0.61621
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28074000000.0,
+      "operatingIncome": 2580000000.0,
+      "netIncome": 2151000000.0,
+      "eps": 15.12,
+      "freeCashFlow": 1046000000.0,
+      "totalDebt": 8355000000.0,
+      "cash": 2101000000.0,
+      "sharesOutstanding": 222500000.0,
+      "grossMargin": 0.23933176604687612,
+      "operatingMargin": 0.09189997862791195,
+      "netMargin": 0.07661893567001496,
+      "roe": 0.2396657381615599,
+      "roic": 0.1488747836122331
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34065000000.0,
+      "operatingIncome": 1278000000.0,
+      "netIncome": 735000000.0,
+      "eps": 5.15,
+      "freeCashFlow": 2753000000.0,
+      "totalDebt": 7208000000.0,
+      "cash": 2179000000.0,
+      "sharesOutstanding": 222500000.0,
+      "grossMargin": 0.2421547042418905,
+      "operatingMargin": 0.037516512549537646,
+      "netMargin": 0.02157639806252752,
+      "roe": 0.08305084745762711,
+      "roic": 0.07958649894133765
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 34102000000.0,
+      "operatingIncome": 3372000000.0,
+      "netIncome": 3946000000.0,
+      "eps": 28.37,
+      "freeCashFlow": 279000000.0,
+      "totalDebt": 7598000000.0,
+      "cash": 1671000000.0,
+      "sharesOutstanding": 222500000.0,
+      "grossMargin": 0.24746349187730926,
+      "operatingMargin": 0.09887983109495044,
+      "netMargin": 0.1157116884640197,
+      "roe": 0.38418849187031445,
+      "roic": 0.18870669875202864
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33670000000.0,
+      "operatingIncome": 3865000000.0,
+      "netIncome": 2843000000.0,
+      "eps": 20.5,
+      "freeCashFlow": 2386000000.0,
+      "totalDebt": 8114000000.0,
+      "cash": 2845000000.0,
+      "sharesOutstanding": 222536253.0,
+      "grossMargin": 0.25292545292545293,
+      "operatingMargin": 0.1147906147906148,
+      "netMargin": 0.08443718443718444,
+      "roe": 0.2302210705320269,
+      "roic": 0.18887748619459513
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:02.114077+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "XYZ",
+  "name": "Block, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 45067104256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.72,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24193683000.0,
+    "operatingIncome": 3045652000.0,
+    "netIncome": 1305636000.0,
+    "eps": 2.1,
+    "freeCashFlow": 2424676000.0,
+    "totalDebt": 8966376000.0,
+    "cash": 11335916000.0,
+    "sharesOutstanding": 602078000.0
+  },
+  "ratios": {
+    "roe": 0.05880110130128978,
+    "roic": 0.09770895406942696,
+    "grossMargin": 0.428208016117265,
+    "operatingMargin": 0.12588624890224445,
+    "netMargin": 0.05396598773324425,
+    "debtToEquity": 0.37514000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17531587000.0,
+      "operatingIncome": -27278000.0,
+      "netIncome": -540747000.0,
+      "eps": -0.93,
+      "freeCashFlow": 5088000.0,
+      "totalDebt": 6332764000.0,
+      "cash": 7724526000.0,
+      "sharesOutstanding": 600059542.0,
+      "grossMargin": 0.3417769309760719,
+      "operatingMargin": -0.001555934439934046,
+      "netMargin": -0.0308441557515586,
+      "roe": -0.031397015562845215,
+      "roic": -0.0011580240029958001
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21915623000.0,
+      "operatingIncome": 381824000.0,
+      "netIncome": 9772000.0,
+      "eps": 0.02,
+      "freeCashFlow": -50190000.0,
+      "totalDebt": 6071517000.0,
+      "cash": 8166895000.0,
+      "sharesOutstanding": 615821000.0,
+      "grossMargin": 0.34244456568722687,
+      "operatingMargin": 0.017422457029854913,
+      "netMargin": 0.00044589195570666644,
+      "roe": 0.0005226994484590101,
+      "roic": 0.015416784415151704
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24121053000.0,
+      "operatingIncome": 1686548000.0,
+      "netIncome": 2897047000.0,
+      "eps": 4.56,
+      "freeCashFlow": 1553403000.0,
+      "totalDebt": 7918613000.0,
+      "cash": 12258119000.0,
+      "sharesOutstanding": 619676000.0,
+      "grossMargin": 0.36851774257118874,
+      "operatingMargin": 0.06992016476229292,
+      "netMargin": 0.12010449958382828,
+      "roe": 0.1362166758855539,
+      "roic": 0.05778511982147938
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24193683000.0,
+      "operatingIncome": 3045652000.0,
+      "netIncome": 1305636000.0,
+      "eps": 2.1,
+      "freeCashFlow": 2424676000.0,
+      "totalDebt": 8966376000.0,
+      "cash": 11335916000.0,
+      "sharesOutstanding": 602078000.0,
+      "grossMargin": 0.428208016117265,
+      "operatingMargin": 0.12588624890224445,
+      "netMargin": 0.05396598773324425,
+      "roe": 0.05880110130128978,
+      "roic": 0.09770895406942696
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:42.266447+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "BX",
+  "name": "Blackstone Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 142967996416.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 116.97,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12410012000.0,
+    "operatingIncome": null,
+    "netIncome": 3019214000.0,
+    "eps": 3.87,
+    "freeCashFlow": 4547458000.0,
+    "totalDebt": 13306165000.0,
+    "cash": 2631241000.0,
+    "sharesOutstanding": 783183010.0
+  },
+  "ratios": {
+    "roe": 0.34841670315223794,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.38032,
+    "netMargin": 0.2432885641045311,
+    "debtToEquity": 0.7202200000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7132632000.0,
+      "operatingIncome": null,
+      "netIncome": 1747631000.0,
+      "eps": 2.36,
+      "freeCashFlow": 6100756000.0,
+      "totalDebt": 13371038000.0,
+      "cash": 4252003000.0,
+      "sharesOutstanding": 742653758.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24501908972732647,
+      "roe": 0.2282721154935056,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7006649000.0,
+      "operatingIncome": null,
+      "netIncome": 1390880000.0,
+      "eps": 1.84,
+      "freeCashFlow": 3832675000.0,
+      "totalDebt": 12293882000.0,
+      "cash": 2955866000.0,
+      "sharesOutstanding": 758039099.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19850858805685856,
+      "roe": 0.20403714471222412,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10930540000.0,
+      "operatingIncome": null,
+      "netIncome": 2776508000.0,
+      "eps": 3.62,
+      "freeCashFlow": 3420253000.0,
+      "totalDebt": 12286698000.0,
+      "cash": 1972140000.0,
+      "sharesOutstanding": 768722241.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25401379986716116,
+      "roe": 0.33809053494133995,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12410012000.0,
+      "operatingIncome": null,
+      "netIncome": 3019214000.0,
+      "eps": 3.87,
+      "freeCashFlow": 4547458000.0,
+      "totalDebt": 13306165000.0,
+      "cash": 2631241000.0,
+      "sharesOutstanding": 783183010.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2432885641045311,
+      "roe": 0.34841670315223794,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:53.591525+00:00"
+  }
+}

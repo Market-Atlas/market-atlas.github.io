@@ -1,0 +1,128 @@
+{
+  "ticker": "KPIL",
+  "name": "Kalpataru Projects International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 222858166272.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1305.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 271430600000.0,
+    "operatingIncome": 17297800000.0,
+    "netIncome": 10400500000.0,
+    "eps": null,
+    "freeCashFlow": 7240500000.0,
+    "totalDebt": 35426200000.0,
+    "cash": 15117800000.0,
+    "sharesOutstanding": 170772546.0
+  },
+  "ratios": {
+    "roe": 0.13374182638830845,
+    "roic": 0.1528186253939114,
+    "grossMargin": 0.2516547507908099,
+    "operatingMargin": 0.06372826055721058,
+    "netMargin": 0.0383173452072095,
+    "debtToEquity": 0.45814
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 36.28,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 162138600000.0,
+      "operatingIncome": 11028500000.0,
+      "netIncome": 4407500000.0,
+      "eps": 29.06,
+      "freeCashFlow": -1150900000.0,
+      "totalDebt": 37861300000.0,
+      "cash": 9564300000.0,
+      "sharesOutstanding": 162446152.0,
+      "grossMargin": 0.23264046932685986,
+      "operatingMargin": 0.06801896648916421,
+      "netMargin": 0.027183533100692863,
+      "roe": 0.09336697298236249,
+      "roic": 0.12964410615099772
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 194592200000.0,
+      "operatingIncome": 14386300000.0,
+      "netIncome": 5096100000.0,
+      "eps": 31.37,
+      "freeCashFlow": 4913800000.0,
+      "totalDebt": 40082000000.0,
+      "cash": 10093300000.0,
+      "sharesOutstanding": 162446152.0,
+      "grossMargin": 0.23575508165281034,
+      "operatingMargin": 0.0739305069781831,
+      "netMargin": 0.026188613932110333,
+      "roe": 0.0991847006319592,
+      "roic": 0.15729281810240112
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 223157800000.0,
+      "operatingIncome": 13368500000.0,
+      "netIncome": 5857000000.0,
+      "eps": 35.53,
+      "freeCashFlow": 3393300000.0,
+      "totalDebt": 43135100000.0,
+      "cash": 16016900000.0,
+      "sharesOutstanding": 170772546.0,
+      "grossMargin": 0.24096446550378253,
+      "operatingMargin": 0.05990603958275265,
+      "netMargin": 0.02624600170820827,
+      "roe": 0.0899232804110954,
+      "roic": 0.12347554780526913
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 271430600000.0,
+      "operatingIncome": 17297800000.0,
+      "netIncome": 10400500000.0,
+      "eps": null,
+      "freeCashFlow": 7240500000.0,
+      "totalDebt": 35426200000.0,
+      "cash": 15117800000.0,
+      "sharesOutstanding": 170772546.0,
+      "grossMargin": 0.2516547507908099,
+      "operatingMargin": 0.06372826055721058,
+      "netMargin": 0.0383173452072095,
+      "roe": 0.13374182638830845,
+      "roic": 0.1528186253939114
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:16.370324+00:00"
+  }
+}

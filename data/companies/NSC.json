@@ -1,0 +1,128 @@
+{
+  "ticker": "NSC",
+  "name": "Norfolk Southern Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "USD",
+  "marketCap": {
+    "value": 68492185600.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 304.96,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12180000000.0,
+    "operatingIncome": 4571000000.0,
+    "netIncome": 2873000000.0,
+    "eps": 12.75,
+    "freeCashFlow": 2157000000.0,
+    "totalDebt": 17305000000.0,
+    "cash": 1530000000.0,
+    "sharesOutstanding": 244741476.0
+  },
+  "ratios": {
+    "roe": 0.18479449411462018,
+    "roic": 0.1391391696091562,
+    "grossMargin": 0.3634646962233169,
+    "operatingMargin": 0.37528735632183907,
+    "netMargin": 0.2358784893267652,
+    "debtToEquity": 1.11586
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12745000000.0,
+      "operatingIncome": 5205000000.0,
+      "netIncome": 3270000000.0,
+      "eps": 13.88,
+      "freeCashFlow": 2274000000.0,
+      "totalDebt": 15592000000.0,
+      "cash": 456000000.0,
+      "sharesOutstanding": 248397192.0,
+      "grossMargin": 0.41106316202432325,
+      "operatingMargin": 0.40839544919576304,
+      "netMargin": 0.2565712043938799,
+      "roe": 0.2568130055760622,
+      "roic": 0.18375992939099736
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12156000000.0,
+      "operatingIncome": 4326000000.0,
+      "netIncome": 1827000000.0,
+      "eps": 8.02,
+      "freeCashFlow": 852000000.0,
+      "totalDebt": 17571000000.0,
+      "cash": 1568000000.0,
+      "sharesOutstanding": 246002031.0,
+      "grossMargin": 0.3648404080289569,
+      "operatingMargin": 0.3558736426456071,
+      "netMargin": 0.15029615004935834,
+      "roe": 0.14294656130193256,
+      "roic": 0.14252767527675278
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12123000000.0,
+      "operatingIncome": 4877000000.0,
+      "netIncome": 2622000000.0,
+      "eps": 11.57,
+      "freeCashFlow": 1671000000.0,
+      "totalDebt": 17478000000.0,
+      "cash": 1641000000.0,
+      "sharesOutstanding": 246641671.0,
+      "grossMargin": 0.37474222552173553,
+      "operatingMargin": 0.4022931617586406,
+      "netMargin": 0.21628309824300915,
+      "roe": 0.1832797427652733,
+      "roic": 0.1534419833878681
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12180000000.0,
+      "operatingIncome": 4571000000.0,
+      "netIncome": 2873000000.0,
+      "eps": 12.75,
+      "freeCashFlow": 2157000000.0,
+      "totalDebt": 17305000000.0,
+      "cash": 1530000000.0,
+      "sharesOutstanding": 244741476.0,
+      "grossMargin": 0.3634646962233169,
+      "operatingMargin": 0.37528735632183907,
+      "netMargin": 0.2358784893267652,
+      "roe": 0.18479449411462018,
+      "roic": 0.1391391696091562
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:00.994418+00:00"
+  }
+}

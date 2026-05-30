@@ -1,0 +1,128 @@
+{
+  "ticker": "RAINBOW",
+  "name": "Rainbow Children's Medicare Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 140017762304.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1380.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17030770000.0,
+    "operatingIncome": 3935970000.0,
+    "netIncome": 2783230000.0,
+    "eps": null,
+    "freeCashFlow": 2032000000.0,
+    "totalDebt": 8909830000.0,
+    "cash": 338940000.0,
+    "sharesOutstanding": 101559156.0
+  },
+  "ratios": {
+    "roe": 0.1688777324319175,
+    "roic": 0.15501700040605626,
+    "grossMargin": 0.8666948118024024,
+    "operatingMargin": 0.23110933915495308,
+    "netMargin": 0.16342361502151695,
+    "debtToEquity": 0.53558
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 13.620773,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11608010000.0,
+      "operatingIncome": 3145960000.0,
+      "netIncome": 2108340000.0,
+      "eps": 20.89,
+      "freeCashFlow": 1874860000.0,
+      "totalDebt": 5703220000.0,
+      "cash": 169650000.0,
+      "sharesOutstanding": 101501687.0,
+      "grossMargin": 0.8636476019576137,
+      "operatingMargin": 0.2710163068432918,
+      "netMargin": 0.18162803098894642,
+      "roe": 0.1989168891698352,
+      "roic": 0.19297621442837584
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 12856890000.0,
+      "operatingIncome": 3235670000.0,
+      "netIncome": 2170010000.0,
+      "eps": 21.38,
+      "freeCashFlow": -321750000.0,
+      "totalDebt": 7653060000.0,
+      "cash": 101190000.0,
+      "sharesOutstanding": 101501687.0,
+      "grossMargin": 0.8714463606673154,
+      "operatingMargin": 0.2516681716962656,
+      "netMargin": 0.16878187493242922,
+      "roe": 0.17236966689119632,
+      "roic": 0.15984663828391382
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 15158660000.0,
+      "operatingIncome": 3514480000.0,
+      "netIncome": 2434240000.0,
+      "eps": 23.84,
+      "freeCashFlow": 2499880000.0,
+      "totalDebt": 7635810000.0,
+      "cash": 202550000.0,
+      "sharesOutstanding": 101551673.0,
+      "grossMargin": 0.8714134362799878,
+      "operatingMargin": 0.23184635053494174,
+      "netMargin": 0.16058411495475194,
+      "roe": 0.16579836574619278,
+      "roic": 0.15747472638358542
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 17030770000.0,
+      "operatingIncome": 3935970000.0,
+      "netIncome": 2783230000.0,
+      "eps": null,
+      "freeCashFlow": 2032000000.0,
+      "totalDebt": 8909830000.0,
+      "cash": 338940000.0,
+      "sharesOutstanding": 101559156.0,
+      "grossMargin": 0.8666948118024024,
+      "operatingMargin": 0.23110933915495308,
+      "netMargin": 0.16342361502151695,
+      "roe": 0.1688777324319175,
+      "roic": 0.15501700040605626
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:47.398311+00:00"
+  }
+}

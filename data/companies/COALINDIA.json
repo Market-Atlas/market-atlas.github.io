@@ -1,0 +1,128 @@
+{
+  "ticker": "COALINDIA",
+  "name": "Coal India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2821913313280.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 457.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1684002900000.0,
+    "operatingIncome": 311053200000.0,
+    "netIncome": 310942900000.0,
+    "eps": 50.46,
+    "freeCashFlow": 307149600000.0,
+    "totalDebt": 140721800000.0,
+    "cash": 86196600000.0,
+    "sharesOutstanding": 6162728327.0
+  },
+  "ratios": {
+    "roe": 0.26107374244300413,
+    "roic": 0.23356947097828745,
+    "grossMargin": 0.8902635500212025,
+    "operatingMargin": 0.18471060827745606,
+    "netMargin": 0.18464510957789917,
+    "debtToEquity": 0.11628999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1274290300000.0,
+      "operatingIncome": 376763400000.0,
+      "netIncome": 317632300000.0,
+      "eps": 51.54,
+      "freeCashFlow": 204158600000.0,
+      "totalDebt": 43314200000.0,
+      "cash": 56274300000.0,
+      "sharesOutstanding": 6162728327.0,
+      "grossMargin": 0.81989551360471,
+      "operatingMargin": 0.29566528129422315,
+      "netMargin": 0.2492621186867702,
+      "roe": 0.5220529320333521,
+      "roic": 0.5780853970925679
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1270744100000.0,
+      "operatingIncome": 413412300000.0,
+      "netIncome": 374022900000.0,
+      "eps": 60.69,
+      "freeCashFlow": 12817600000.0,
+      "totalDebt": 65230300000.0,
+      "cash": 60087100000.0,
+      "sharesOutstanding": 6162728327.0,
+      "grossMargin": 0.8452067572062699,
+      "operatingMargin": 0.3253308829055354,
+      "netMargin": 0.2943337686950504,
+      "roe": 0.45210189124158195,
+      "roic": 0.46319247539657293
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1691773700000.0,
+      "operatingIncome": 381128400000.0,
+      "netIncome": 355057800000.0,
+      "eps": 57.61,
+      "freeCashFlow": 159047600000.0,
+      "totalDebt": 91457300000.0,
+      "cash": 111606800000.0,
+      "sharesOutstanding": 6162728327.0,
+      "grossMargin": 0.8933919471617273,
+      "operatingMargin": 0.22528332246801094,
+      "netMargin": 0.20987310536864356,
+      "roe": 0.3582645543732844,
+      "roic": 0.3520795487140262
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1684002900000.0,
+      "operatingIncome": 311053200000.0,
+      "netIncome": 310942900000.0,
+      "eps": 50.46,
+      "freeCashFlow": 307149600000.0,
+      "totalDebt": 140721800000.0,
+      "cash": 86196600000.0,
+      "sharesOutstanding": 6162728327.0,
+      "grossMargin": 0.8902635500212025,
+      "operatingMargin": 0.18471060827745606,
+      "netMargin": 0.18464510957789917,
+      "roe": 0.26107374244300413,
+      "roic": 0.23356947097828745
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:28.733320+00:00"
+  }
+}

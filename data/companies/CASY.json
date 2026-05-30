@@ -1,0 +1,111 @@
+{
+  "ticker": "CASY",
+  "name": "Casey's General Stores, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28435527680.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 767.14,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15940899000.0,
+    "operatingIncome": 796400000.0,
+    "netIncome": 546520000.0,
+    "eps": 14.64,
+    "freeCashFlow": 584630000.0,
+    "totalDebt": 2957899000.0,
+    "cash": 326662000.0,
+    "sharesOutstanding": 37119083.0
+  },
+  "ratios": {
+    "roe": 0.15576272490715856,
+    "roic": 0.12315649921929234,
+    "grossMargin": 0.23539469135335467,
+    "operatingMargin": 0.04995954117769644,
+    "netMargin": 0.0342841391818617,
+    "debtToEquity": 0.75146
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 12952594000.0,
+      "operatingIncome": 497700000.0,
+      "netIncome": 339790000.0,
+      "eps": 9.1,
+      "freeCashFlow": 462266000.0,
+      "totalDebt": 1687869000.0,
+      "cash": 158878000.0,
+      "sharesOutstanding": 37111667.0,
+      "grossMargin": 0.213294263681854,
+      "operatingMargin": 0.038424735616664894,
+      "netMargin": 0.026233355264590242,
+      "roe": 0.15163523646064553,
+      "roic": 0.12668290101552496
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 15094475000.0,
+      "operatingIncome": 639333000.0,
+      "netIncome": 446691000.0,
+      "eps": 11.91,
+      "freeCashFlow": 405383000.0,
+      "totalDebt": 1673374000.0,
+      "cash": 378869000.0,
+      "sharesOutstanding": 37263248.0,
+      "grossMargin": 0.2035450719551359,
+      "operatingMargin": 0.04235543137472486,
+      "netMargin": 0.02959301333766163,
+      "roe": 0.16788691252490917,
+      "roic": 0.14751432843259407
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 14862913000.0,
+      "operatingIncome": 709601000.0,
+      "netIncome": 501972000.0,
+      "eps": 13.43,
+      "freeCashFlow": 370949000.0,
+      "totalDebt": 1751108000.0,
+      "cash": 206482000.0,
+      "sharesOutstanding": 37008488.0,
+      "grossMargin": 0.22525268095157389,
+      "operatingMargin": 0.04774306355692185,
+      "netMargin": 0.033773460155489037,
+      "roe": 0.16647050571718797,
+      "roic": 0.14887289155602793
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 15940899000.0,
+      "operatingIncome": 796400000.0,
+      "netIncome": 546520000.0,
+      "eps": 14.64,
+      "freeCashFlow": 584630000.0,
+      "totalDebt": 2957899000.0,
+      "cash": 326662000.0,
+      "sharesOutstanding": 37119083.0,
+      "grossMargin": 0.23539469135335467,
+      "operatingMargin": 0.04995954117769644,
+      "netMargin": 0.0342841391818617,
+      "roe": 0.15576272490715856,
+      "roic": 0.12315649921929234
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.705312+00:00"
+  }
+}

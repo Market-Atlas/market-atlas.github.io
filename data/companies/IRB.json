@@ -1,0 +1,128 @@
+{
+  "ticker": "IRB",
+  "name": "IRB Infrastructure Developers Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "currency": "INR",
+  "marketCap": {
+    "value": 255570477056.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 21.16,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 63298340000.0,
+    "operatingIncome": 15214690000.0,
+    "netIncome": 8503600000.0,
+    "eps": 0.7,
+    "freeCashFlow": 13659680000.0,
+    "totalDebt": 200270630000.0,
+    "cash": 3463060000.0,
+    "sharesOutstanding": 6039000000.0
+  },
+  "ratios": {
+    "roe": 0.040592347734301995,
+    "roic": 0.037130880956458265,
+    "grossMargin": 0.5577179433141533,
+    "operatingMargin": 0.24036475522106898,
+    "netMargin": 0.13434159568797538,
+    "debtToEquity": 0.956
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 63246440000.0,
+      "operatingIncome": 24053740000.0,
+      "netIncome": 7200110000.0,
+      "eps": 0.595,
+      "freeCashFlow": 13332340000.0,
+      "totalDebt": 167481930000.0,
+      "cash": 2861350000.0,
+      "sharesOutstanding": 12078000000.0,
+      "grossMargin": 0.6054345509407328,
+      "operatingMargin": 0.3803176906083568,
+      "netMargin": 0.1138421387828311,
+      "roe": 0.05381690974720715,
+      "roic": 0.07984089536421238
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 73624540000.0,
+      "operatingIncome": 23488150000.0,
+      "netIncome": 6058160000.0,
+      "eps": 0.5,
+      "freeCashFlow": 38147850000.0,
+      "totalDebt": 186533850000.0,
+      "cash": 2268070000.0,
+      "sharesOutstanding": 12078000000.0,
+      "grossMargin": 0.5519192377976148,
+      "operatingMargin": 0.31902610189483016,
+      "netMargin": 0.08228452089479948,
+      "roe": 0.04407696021064418,
+      "roic": 0.07249901150970017
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 70619990000.0,
+      "operatingIncome": 20167570000.0,
+      "netIncome": 64806840000.0,
+      "eps": 5.37,
+      "freeCashFlow": 17725470000.0,
+      "totalDebt": 205993200000.0,
+      "cash": 18392850000.0,
+      "sharesOutstanding": 12078000000.0,
+      "grossMargin": 0.5619670860899301,
+      "operatingMargin": 0.28557877167640494,
+      "netMargin": 0.9176840721727658,
+      "roe": 0.326868493046632,
+      "roic": 0.049887746466689586
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 63298340000.0,
+      "operatingIncome": 15214690000.0,
+      "netIncome": 8503600000.0,
+      "eps": 0.7,
+      "freeCashFlow": 13659680000.0,
+      "totalDebt": 200270630000.0,
+      "cash": 3463060000.0,
+      "sharesOutstanding": 6039000000.0,
+      "grossMargin": 0.5577179433141533,
+      "operatingMargin": 0.24036475522106898,
+      "netMargin": 0.13434159568797538,
+      "roe": 0.040592347734301995,
+      "roic": 0.037130880956458265
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:03.928164+00:00"
+  }
+}

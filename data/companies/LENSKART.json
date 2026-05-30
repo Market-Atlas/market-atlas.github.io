@@ -1,0 +1,77 @@
+{
+  "ticker": "LENSKART",
+  "name": "LENSKART SOLUTIONS LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "INR",
+  "marketCap": {
+    "value": 905807659008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 523.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 88140400000.0,
+    "operatingIncome": 7045970000.0,
+    "netIncome": 4936140000.0,
+    "eps": 2.9,
+    "freeCashFlow": 8411260000.0,
+    "totalDebt": 30965960000.0,
+    "cash": 9732980000.0,
+    "sharesOutstanding": 1736416007.0
+  },
+  "ratios": {
+    "roe": 0.05648719787615991,
+    "roic": 0.0595344849860673,
+    "grossMargin": 0.6896236005282481,
+    "operatingMargin": 0.0799402997944189,
+    "netMargin": 0.056003149520537684,
+    "debtToEquity": 0.34983
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 66525170000.0,
+      "operatingIncome": 1789290000.0,
+      "netIncome": 2955890000.0,
+      "eps": 1.716877,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": 1727589756.0,
+      "grossMargin": 0.6791584298093488,
+      "operatingMargin": 0.02689643634131262,
+      "netMargin": 0.044432656090920175,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 88140400000.0,
+      "operatingIncome": 7045970000.0,
+      "netIncome": 4936140000.0,
+      "eps": 2.9,
+      "freeCashFlow": 8411260000.0,
+      "totalDebt": 30965960000.0,
+      "cash": 9732980000.0,
+      "sharesOutstanding": 1736416007.0,
+      "grossMargin": 0.6896236005282481,
+      "operatingMargin": 0.0799402997944189,
+      "netMargin": 0.056003149520537684,
+      "roe": 0.05648719787615991,
+      "roic": 0.0595344849860673
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:18.187850+00:00"
+  }
+}

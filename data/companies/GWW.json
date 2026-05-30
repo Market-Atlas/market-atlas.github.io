@@ -1,0 +1,111 @@
+{
+  "ticker": "GWW",
+  "name": "W.W. Grainger, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58272321536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1234.24,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17942000000.0,
+    "operatingIncome": 2495000000.0,
+    "netIncome": 1706000000.0,
+    "eps": 35.4,
+    "freeCashFlow": 1331000000.0,
+    "totalDebt": 2862000000.0,
+    "cash": 585000000.0,
+    "sharesOutstanding": 109659219.0
+  },
+  "ratios": {
+    "roe": 0.45663811563169165,
+    "roic": 0.37814489239163385,
+    "grossMargin": 0.3906476424032995,
+    "operatingMargin": 0.1390591907256716,
+    "netMargin": 0.09508416007134099,
+    "debtToEquity": 0.64034
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15228000000.0,
+      "operatingIncome": 2215000000.0,
+      "netIncome": 1547000000.0,
+      "eps": 30.06,
+      "freeCashFlow": 1077000000.0,
+      "totalDebt": 2705000000.0,
+      "cash": 325000000.0,
+      "sharesOutstanding": 109659219.0,
+      "grossMargin": 0.3840950879957972,
+      "operatingMargin": 0.14545573942737064,
+      "netMargin": 0.10158917783031259,
+      "roe": 0.634016393442623,
+      "roic": 0.4305150631681244
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16478000000.0,
+      "operatingIncome": 2565000000.0,
+      "netIncome": 1829000000.0,
+      "eps": 36.23,
+      "freeCashFlow": 1586000000.0,
+      "totalDebt": 2752000000.0,
+      "cash": 660000000.0,
+      "sharesOutstanding": 109659219.0,
+      "grossMargin": 0.39422259983007646,
+      "operatingMargin": 0.15566209491443136,
+      "netMargin": 0.11099648015535866,
+      "roe": 0.5871589085072231,
+      "roic": 0.43719106868927904
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17168000000.0,
+      "operatingIncome": 2637000000.0,
+      "netIncome": 1909000000.0,
+      "eps": 38.71,
+      "freeCashFlow": 1570000000.0,
+      "totalDebt": 3183000000.0,
+      "cash": 1036000000.0,
+      "sharesOutstanding": 109659219.0,
+      "grossMargin": 0.39363932898415654,
+      "operatingMargin": 0.15359972041006523,
+      "netMargin": 0.11119524697110904,
+      "roe": 0.5684931506849316,
+      "roic": 0.40314936554043723
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17942000000.0,
+      "operatingIncome": 2495000000.0,
+      "netIncome": 1706000000.0,
+      "eps": 35.4,
+      "freeCashFlow": 1331000000.0,
+      "totalDebt": 2862000000.0,
+      "cash": 585000000.0,
+      "sharesOutstanding": 109659219.0,
+      "grossMargin": 0.3906476424032995,
+      "operatingMargin": 0.1390591907256716,
+      "netMargin": 0.09508416007134099,
+      "roe": 0.45663811563169165,
+      "roic": 0.37814489239163385
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:33.465045+00:00"
+  }
+}

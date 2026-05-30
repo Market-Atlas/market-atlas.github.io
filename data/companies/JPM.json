@@ -1,0 +1,111 @@
+{
+  "ticker": "JPM",
+  "name": "JPMorgan Chase & Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 802004533248.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 299.31,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 181847000000.0,
+    "operatingIncome": null,
+    "netIncome": 57048000000.0,
+    "eps": 20.02,
+    "freeCashFlow": null,
+    "totalDebt": 499982000000.0,
+    "cash": 343338000000.0,
+    "sharesOutstanding": 4104933895.0
+  },
+  "ratios": {
+    "roe": 0.1574007140531622,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.43741,
+    "netMargin": 0.3137142762872085,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 127727000000.0,
+      "operatingIncome": null,
+      "netIncome": 37676000000.0,
+      "eps": 12.09,
+      "freeCashFlow": null,
+      "totalDebt": 339892000000.0,
+      "cash": 567234000000.0,
+      "sharesOutstanding": 4104933895.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2949728718281961,
+      "roe": 0.12888086148625535,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 154952000000.0,
+      "operatingIncome": null,
+      "netIncome": 49552000000.0,
+      "eps": 16.23,
+      "freeCashFlow": null,
+      "totalDebt": 436537000000.0,
+      "cash": 624151000000.0,
+      "sharesOutstanding": 4104933895.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.319789354122567,
+      "roe": 0.15112938349020064,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 169439000000.0,
+      "operatingIncome": null,
+      "netIncome": 58471000000.0,
+      "eps": 19.75,
+      "freeCashFlow": null,
+      "totalDebt": 454311000000.0,
+      "cash": 469317000000.0,
+      "sharesOutstanding": 4104933895.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.34508584210246757,
+      "roe": 0.16960012530528662,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 181847000000.0,
+      "operatingIncome": null,
+      "netIncome": 57048000000.0,
+      "eps": 20.02,
+      "freeCashFlow": null,
+      "totalDebt": 499982000000.0,
+      "cash": 343338000000.0,
+      "sharesOutstanding": 4104933895.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3137142762872085,
+      "roe": 0.1574007140531622,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:20.895665+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "THERMAX",
+  "name": "Thermax Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 561294540800.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4982.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 106941500000.0,
+    "operatingIncome": 22575500000.0,
+    "netIncome": 7205000000.0,
+    "eps": null,
+    "freeCashFlow": -4108500000.0,
+    "totalDebt": 23525300000.0,
+    "cash": 6744500000.0,
+    "sharesOutstanding": 119156300.0
+  },
+  "ratios": {
+    "roe": 0.12982052155236876,
+    "roic": 0.28567541917114836,
+    "grossMargin": 0.48012605022372046,
+    "operatingMargin": 0.2111013965579312,
+    "netMargin": 0.06737328352416976,
+    "debtToEquity": 0.42166
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 27.73,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 80339000000.0,
+      "operatingIncome": 5299500000.0,
+      "netIncome": 4502900000.0,
+      "eps": 39.97,
+      "freeCashFlow": -2046600000.0,
+      "totalDebt": 8513300000.0,
+      "cash": 4528200000.0,
+      "sharesOutstanding": 119156300.0,
+      "grossMargin": 0.3957119207358817,
+      "operatingMargin": 0.06596422658982562,
+      "netMargin": 0.056048743449632184,
+      "roe": 0.11641206079517692,
+      "roic": 0.11229181675636733
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 92372400000.0,
+      "operatingIncome": 6791500000.0,
+      "netIncome": 6452800000.0,
+      "eps": 57.28,
+      "freeCashFlow": -5966400000.0,
+      "totalDebt": 12955400000.0,
+      "cash": 4871300000.0,
+      "sharesOutstanding": 119156300.0,
+      "grossMargin": 0.41021127522939754,
+      "operatingMargin": 0.07352304367971385,
+      "netMargin": 0.0698563640221538,
+      "roe": 0.14533988017478264,
+      "roic": 0.1184149501162965
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 103692600000.0,
+      "operatingIncome": 20405600000.0,
+      "netIncome": 6344700000.0,
+      "eps": 56.33,
+      "freeCashFlow": 1771200000.0,
+      "totalDebt": 17337700000.0,
+      "cash": 4176800000.0,
+      "sharesOutstanding": 119156300.0,
+      "grossMargin": 0.44122627844224177,
+      "operatingMargin": 0.1967893562317851,
+      "netMargin": 0.061187587156653414,
+      "roe": 0.12851613060043873,
+      "roic": 0.3059007654415005
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 106941500000.0,
+      "operatingIncome": 22575500000.0,
+      "netIncome": 7205000000.0,
+      "eps": null,
+      "freeCashFlow": -4108500000.0,
+      "totalDebt": 23525300000.0,
+      "cash": 6744500000.0,
+      "sharesOutstanding": 119156300.0,
+      "grossMargin": 0.48012605022372046,
+      "operatingMargin": 0.2111013965579312,
+      "netMargin": 0.06737328352416976,
+      "roe": 0.12982052155236876,
+      "roic": 0.28567541917114836
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:06.662643+00:00"
+  }
+}

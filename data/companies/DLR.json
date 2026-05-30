@@ -1,0 +1,128 @@
+{
+  "ticker": "DLR",
+  "name": "Digital Realty Trust, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 67962822656.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 190.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6112692000.0,
+    "operatingIncome": 922135000.0,
+    "netIncome": 1308589000.0,
+    "eps": 3.58,
+    "freeCashFlow": null,
+    "totalDebt": 19655352000.0,
+    "cash": 3451647000.0,
+    "sharesOutstanding": 343557430.0
+  },
+  "ratios": {
+    "roe": 0.05707965784893549,
+    "roic": 0.02165601266198093,
+    "grossMargin": 0.5539220690327601,
+    "operatingMargin": 0.15085579315954412,
+    "netMargin": 0.21407736558622617,
+    "debtToEquity": 0.7659199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4691834000.0,
+      "operatingIncome": 661734000.0,
+      "netIncome": 377684000.0,
+      "eps": 1.13,
+      "freeCashFlow": null,
+      "totalDebt": 18067847000.0,
+      "cash": 141773000.0,
+      "sharesOutstanding": 291148000.0,
+      "grossMargin": 0.5699843600604796,
+      "operatingMargin": 0.141039516743346,
+      "netMargin": 0.08049815914203273,
+      "roe": 0.021479657953377897,
+      "roic": 0.01856134864087672
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5477061000.0,
+      "operatingIncome": 727546000.0,
+      "netIncome": 948838000.0,
+      "eps": 3.0,
+      "freeCashFlow": null,
+      "totalDebt": 18968001000.0,
+      "cash": 1625495000.0,
+      "sharesOutstanding": 311608000.0,
+      "grossMargin": 0.5256450494161011,
+      "operatingMargin": 0.13283510992483014,
+      "netMargin": 0.17323853066452977,
+      "roe": 0.04963181966879201,
+      "roic": 0.019102948140284758
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5554968000.0,
+      "operatingIncome": 756950000.0,
+      "netIncome": 602490000.0,
+      "eps": 1.61,
+      "freeCashFlow": null,
+      "totalDebt": 18008596000.0,
+      "cash": 3870891000.0,
+      "sharesOutstanding": 336637000.0,
+      "grossMargin": 0.5465113390392168,
+      "operatingMargin": 0.13626541142991283,
+      "netMargin": 0.10845967069477268,
+      "roe": 0.02823237074736707,
+      "roic": 0.019236832820601027
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6112692000.0,
+      "operatingIncome": 922135000.0,
+      "netIncome": 1308589000.0,
+      "eps": 3.58,
+      "freeCashFlow": null,
+      "totalDebt": 19655352000.0,
+      "cash": 3451647000.0,
+      "sharesOutstanding": 343557430.0,
+      "grossMargin": 0.5539220690327601,
+      "operatingMargin": 0.15085579315954412,
+      "netMargin": 0.21407736558622617,
+      "roe": 0.05707965784893549,
+      "roic": 0.02165601266198093
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:11.802224+00:00"
+  }
+}

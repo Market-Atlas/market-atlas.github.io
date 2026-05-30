@@ -1,0 +1,111 @@
+{
+  "ticker": "BLDR",
+  "name": "Builders FirstSource, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8202515968.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 76.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15190638000.0,
+    "operatingIncome": 786276000.0,
+    "netIncome": 435199000.0,
+    "eps": 3.89,
+    "freeCashFlow": 853284000.0,
+    "totalDebt": 5100271000.0,
+    "cash": 181753000.0,
+    "sharesOutstanding": 110585000.0
+  },
+  "ratios": {
+    "roe": 0.09999400310322176,
+    "roic": 0.08318161015652754,
+    "grossMargin": 0.30385669120678144,
+    "operatingMargin": 0.05176056463197925,
+    "netMargin": 0.028649158777926245,
+    "debtToEquity": 1.3215899999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22726418000.0,
+      "operatingIncome": 3770206000.0,
+      "netIncome": 2749369000.0,
+      "eps": 16.82,
+      "freeCashFlow": 3259079000.0,
+      "totalDebt": 3489418000.0,
+      "cash": 80445000.0,
+      "sharesOutstanding": 138864000.0,
+      "grossMargin": 0.34076549150860463,
+      "operatingMargin": 0.16589530299055488,
+      "netMargin": 0.12097678569495642,
+      "roe": 0.5540216492838584,
+      "roic": 0.4460734899640132
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17097330000.0,
+      "operatingIncome": 2176319000.0,
+      "netIncome": 1540555000.0,
+      "eps": 11.94,
+      "freeCashFlow": 1830537000.0,
+      "totalDebt": 3713358000.0,
+      "cash": 66156000.0,
+      "sharesOutstanding": 121857000.0,
+      "grossMargin": 0.35165338681536823,
+      "operatingMargin": 0.12728999206308822,
+      "netMargin": 0.0901050046995642,
+      "roe": 0.3255369265720146,
+      "roic": 0.257683398753142
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16400492000.0,
+      "operatingIncome": 1595249000.0,
+      "netIncome": 1077898000.0,
+      "eps": 9.06,
+      "freeCashFlow": 1492123000.0,
+      "totalDebt": 4332825000.0,
+      "cash": 153624000.0,
+      "sharesOutstanding": 113578000.0,
+      "grossMargin": 0.3282245435075972,
+      "operatingMargin": 0.09726836243693177,
+      "netMargin": 0.06572351609939507,
+      "roe": 0.2508799083899108,
+      "roic": 0.18486434870983087
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15190638000.0,
+      "operatingIncome": 786276000.0,
+      "netIncome": 435199000.0,
+      "eps": 3.89,
+      "freeCashFlow": 853284000.0,
+      "totalDebt": 5100271000.0,
+      "cash": 181753000.0,
+      "sharesOutstanding": 110585000.0,
+      "grossMargin": 0.30385669120678144,
+      "operatingMargin": 0.05176056463197925,
+      "netMargin": 0.028649158777926245,
+      "roe": 0.09999400310322176,
+      "roic": 0.08318161015652754
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:53.113106+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "AADHARHFC",
+  "name": "AADHAR HOUSING FINANCE L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "currency": "INR",
+  "marketCap": {
+    "value": 208269180928.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 477.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34546500000.0,
+    "operatingIncome": 12571800000.0,
+    "netIncome": 10958800000.0,
+    "eps": 24.77,
+    "freeCashFlow": -28266300000.0,
+    "totalDebt": 186834000000.0,
+    "cash": 7146300000.0,
+    "sharesOutstanding": 435703710.0
+  },
+  "ratios": {
+    "roe": 0.14532502131711245,
+    "roic": 0.04793952476883073,
+    "grossMargin": 0.4448612739351309,
+    "operatingMargin": 0.36390951326473014,
+    "netMargin": 0.3172188210093642,
+    "debtToEquity": 2.48556
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 18810100000.0,
+      "operatingIncome": 14067100000.0,
+      "netIncome": 5447600000.0,
+      "eps": 12.772248,
+      "freeCashFlow": -11661300000.0,
+      "totalDebt": 121503300000.0,
+      "cash": 4051400000.0,
+      "sharesOutstanding": 426518505.0,
+      "grossMargin": 0.8469598779379164,
+      "operatingMargin": 0.7478482304719273,
+      "netMargin": 0.28961036889756037,
+      "roe": 0.14732560592374636,
+      "roic": 0.0887626758977006
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 23542300000.0,
+      "operatingIncome": 17550900000.0,
+      "netIncome": 7496400000.0,
+      "eps": 17.575791,
+      "freeCashFlow": -25655400000.0,
+      "totalDebt": 139584400000.0,
+      "cash": 3562600000.0,
+      "sharesOutstanding": 426518505.0,
+      "grossMargin": 0.8497555463994597,
+      "operatingMargin": 0.7455048996911942,
+      "netMargin": 0.3184225840295978,
+      "roe": 0.1684678914545761,
+      "roic": 0.09534288813837753
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 29183400000.0,
+      "operatingIncome": 10397600000.0,
+      "netIncome": 9118300000.0,
+      "eps": 20.85,
+      "freeCashFlow": -30414500000.0,
+      "totalDebt": 163218800000.0,
+      "cash": 8783700000.0,
+      "sharesOutstanding": 431384459.0,
+      "grossMargin": 0.4386329214553479,
+      "operatingMargin": 0.3562847372136214,
+      "netMargin": 0.3124481725912676,
+      "roe": 0.14309298541026852,
+      "roic": 0.04581617217109064
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 34546500000.0,
+      "operatingIncome": 12571800000.0,
+      "netIncome": 10958800000.0,
+      "eps": 24.77,
+      "freeCashFlow": -28266300000.0,
+      "totalDebt": 186834000000.0,
+      "cash": 7146300000.0,
+      "sharesOutstanding": 435703710.0,
+      "grossMargin": 0.4448612739351309,
+      "operatingMargin": 0.36390951326473014,
+      "netMargin": 0.3172188210093642,
+      "roe": 0.14532502131711245,
+      "roic": 0.04793952476883073
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:43.651713+00:00"
+  }
+}

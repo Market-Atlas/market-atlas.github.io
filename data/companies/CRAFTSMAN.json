@@ -1,0 +1,128 @@
+{
+  "ticker": "CRAFTSMAN",
+  "name": "Craftsman Automation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 216465571840.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9074.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 80692700000.0,
+    "operatingIncome": 7937400000.0,
+    "netIncome": 3839900000.0,
+    "eps": 160.96,
+    "freeCashFlow": -6666800000.0,
+    "totalDebt": 36234800000.0,
+    "cash": 1448300000.0,
+    "sharesOutstanding": 23855583.0
+  },
+  "ratios": {
+    "roe": 0.11764183256435237,
+    "roic": 0.11524288788159488,
+    "grossMargin": 0.45447853399378135,
+    "operatingMargin": 0.09836577534275096,
+    "netMargin": 0.047586708587022124,
+    "debtToEquity": 1.11011
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 31647700000.0,
+      "operatingIncome": 4639300000.0,
+      "netIncome": 2483900000.0,
+      "eps": 117.56,
+      "freeCashFlow": 2624100000.0,
+      "totalDebt": 12402300000.0,
+      "cash": 273200000.0,
+      "sharesOutstanding": 21128311.0,
+      "grossMargin": 0.3239413922654727,
+      "operatingMargin": 0.1465920114257908,
+      "netMargin": 0.07848595632542017,
+      "roe": 0.18039799549713123,
+      "roic": 0.17726670054601798
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 44205300000.0,
+      "operatingIncome": 6043700000.0,
+      "netIncome": 3044700000.0,
+      "eps": 144.11,
+      "freeCashFlow": -1176900000.0,
+      "totalDebt": 17548200000.0,
+      "cash": 634900000.0,
+      "sharesOutstanding": 21128311.0,
+      "grossMargin": 0.29518406163966765,
+      "operatingMargin": 0.13671890022237151,
+      "netMargin": 0.06887635645499522,
+      "roe": 0.1836391271306047,
+      "roic": 0.17708919362400374
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 56904800000.0,
+      "operatingIncome": 4856900000.0,
+      "netIncome": 1945700000.0,
+      "eps": 83.68,
+      "freeCashFlow": -7082700000.0,
+      "totalDebt": 23581800000.0,
+      "cash": 974200000.0,
+      "sharesOutstanding": 23855583.0,
+      "grossMargin": 0.4548667247754144,
+      "operatingMargin": 0.08535132361417666,
+      "netMargin": 0.034192194683049584,
+      "roe": 0.06810910338357709,
+      "roic": 0.09313469813535011
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 80692700000.0,
+      "operatingIncome": 7937400000.0,
+      "netIncome": 3839900000.0,
+      "eps": 160.96,
+      "freeCashFlow": -6666800000.0,
+      "totalDebt": 36234800000.0,
+      "cash": 1448300000.0,
+      "sharesOutstanding": 23855583.0,
+      "grossMargin": 0.45447853399378135,
+      "operatingMargin": 0.09836577534275096,
+      "netMargin": 0.047586708587022124,
+      "roe": 0.11764183256435237,
+      "roic": 0.11524288788159488
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:29.135743+00:00"
+  }
+}

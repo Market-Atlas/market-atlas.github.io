@@ -1,0 +1,111 @@
+{
+  "ticker": "ATO",
+  "name": "Atmos Energy Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28231151616.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 169.13,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4702755000.0,
+    "operatingIncome": 1559971000.0,
+    "netIncome": 1198754000.0,
+    "eps": 7.46,
+    "freeCashFlow": -1511943000.0,
+    "totalDebt": 9303506000.0,
+    "cash": 202687000.0,
+    "sharesOutstanding": 161568384.0
+  },
+  "ratios": {
+    "roe": 0.08841092449308166,
+    "roic": 0.06823304958937812,
+    "grossMargin": 0.5813101043962529,
+    "operatingMargin": 0.33171428237277933,
+    "netMargin": 0.25490462505488803,
+    "debtToEquity": 0.6458799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 4201662000.0,
+      "operatingIncome": 920982000.0,
+      "netIncome": 774398000.0,
+      "eps": 5.6,
+      "freeCashFlow": -1466836000.0,
+      "totalDebt": 8370016000.0,
+      "cash": 51554000.0,
+      "sharesOutstanding": 140896598.0,
+      "grossMargin": 0.430507023173211,
+      "operatingMargin": 0.21919469010120282,
+      "netMargin": 0.18430754306272137,
+      "roe": 0.0822157891881499,
+      "roic": 0.05177224466635678
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 4275357000.0,
+      "operatingIncome": 1067147000.0,
+      "netIncome": 885862000.0,
+      "eps": 6.1,
+      "freeCashFlow": 653770000.0,
+      "totalDebt": 7122906000.0,
+      "cash": 15404000.0,
+      "sharesOutstanding": 148492783.0,
+      "grossMargin": 0.48142833452270767,
+      "operatingMargin": 0.24960418510079976,
+      "netMargin": 0.207201878112167,
+      "roe": 0.08149556433154395,
+      "roic": 0.059309107946047816
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 4165187000.0,
+      "operatingIncome": 1355362000.0,
+      "netIncome": 1042895000.0,
+      "eps": 6.83,
+      "freeCashFlow": -1203378000.0,
+      "totalDebt": 8129213000.0,
+      "cash": 307340000.0,
+      "sharesOutstanding": 155258845.0,
+      "grossMargin": 0.5791713553317054,
+      "operatingMargin": 0.3254024369133967,
+      "netMargin": 0.25038371626532013,
+      "roe": 0.08578083512554915,
+      "roic": 0.06680977392188706
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 4702755000.0,
+      "operatingIncome": 1559971000.0,
+      "netIncome": 1198754000.0,
+      "eps": 7.46,
+      "freeCashFlow": -1511943000.0,
+      "totalDebt": 9303506000.0,
+      "cash": 202687000.0,
+      "sharesOutstanding": 161568384.0,
+      "grossMargin": 0.5813101043962529,
+      "operatingMargin": 0.33171428237277933,
+      "netMargin": 0.25490462505488803,
+      "roe": 0.08841092449308166,
+      "roic": 0.06823304958937812
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.649959+00:00"
+  }
+}

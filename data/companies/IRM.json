@@ -1,0 +1,128 @@
+{
+  "ticker": "IRM",
+  "name": "Iron Mountain Incorporated",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38157537280.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 128.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6901737000.0,
+    "operatingIncome": 1403920000.0,
+    "netIncome": 144591000.0,
+    "eps": 0.49,
+    "freeCashFlow": -1007116000.0,
+    "totalDebt": 19051536000.0,
+    "cash": 158535000.0,
+    "sharesOutstanding": 295788645.0
+  },
+  "ratios": {
+    "roe": -0.14739038559357884,
+    "roic": 0.07769114008781923,
+    "grossMargin": 0.5538108739872296,
+    "operatingMargin": 0.20341545903589198,
+    "netMargin": 0.020949943470752363,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5103574000.0,
+      "operatingIncome": 1046282000.0,
+      "netIncome": 556981000.0,
+      "eps": 1.9,
+      "freeCashFlow": 44112000.0,
+      "totalDebt": 13286900000.0,
+      "cash": 141797000.0,
+      "sharesOutstanding": 290830296.0,
+      "grossMargin": 0.571061377771734,
+      "operatingMargin": 0.20500966577539584,
+      "netMargin": 0.10913548035161241,
+      "roe": 0.8748374348954243,
+      "roic": 0.07514467556017251
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5480289000.0,
+      "operatingIncome": 1110043000.0,
+      "netIncome": 184234000.0,
+      "eps": 0.63,
+      "freeCashFlow": -231530000.0,
+      "totalDebt": 14787359000.0,
+      "cash": 222789000.0,
+      "sharesOutstanding": 292142739.0,
+      "grossMargin": 0.5697672148311886,
+      "operatingMargin": 0.20255190921500674,
+      "netMargin": 0.03361757016828857,
+      "roe": 0.8704736165709102,
+      "roic": 0.07400776598077459
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6149909000.0,
+      "operatingIncome": 1212916000.0,
+      "netIncome": 180156000.0,
+      "eps": 0.61,
+      "freeCashFlow": -657242000.0,
+      "totalDebt": 16369312000.0,
+      "cash": 155716000.0,
+      "sharesOutstanding": 293592637.0,
+      "grossMargin": 0.5615302600412462,
+      "operatingMargin": 0.19722503211023124,
+      "netMargin": 0.029294091993881534,
+      "roe": -0.3580761723796614,
+      "roic": 0.0764465823237967
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6901737000.0,
+      "operatingIncome": 1403920000.0,
+      "netIncome": 144591000.0,
+      "eps": 0.49,
+      "freeCashFlow": -1007116000.0,
+      "totalDebt": 19051536000.0,
+      "cash": 158535000.0,
+      "sharesOutstanding": 295788645.0,
+      "grossMargin": 0.5538108739872296,
+      "operatingMargin": 0.20341545903589198,
+      "netMargin": 0.020949943470752363,
+      "roe": -0.14739038559357884,
+      "roic": 0.07769114008781923
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:41.297448+00:00"
+  }
+}

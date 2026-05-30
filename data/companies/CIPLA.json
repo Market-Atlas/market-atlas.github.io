@@ -1,0 +1,128 @@
+{
+  "ticker": "CIPLA",
+  "name": "Cipla Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1131728601088.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1401.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 277116900000.0,
+    "operatingIncome": 47139400000.0,
+    "netIncome": 38792300000.0,
+    "eps": null,
+    "freeCashFlow": 8607100000.0,
+    "totalDebt": 6137700000.0,
+    "cash": 10182200000.0,
+    "sharesOutstanding": 807782631.0
+  },
+  "ratios": {
+    "roe": 0.1126636742908839,
+    "roic": 0.13450829373743783,
+    "grossMargin": 0.6554122105147683,
+    "operatingMargin": 0.17010655070116618,
+    "netMargin": 0.1399853274917553,
+    "debtToEquity": 0.01778
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 31.17,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 224731800000.0,
+      "operatingIncome": 40178700000.0,
+      "netIncome": 28019100000.0,
+      "eps": 34.69,
+      "freeCashFlow": 20547600000.0,
+      "totalDebt": 8031200000.0,
+      "cash": 6276300000.0,
+      "sharesOutstanding": 807150593.0,
+      "grossMargin": 0.6012744969781758,
+      "operatingMargin": 0.17878511185332918,
+      "netMargin": 0.12467794944907663,
+      "roe": 0.11969994591541787,
+      "roic": 0.16595293855247018
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 254466300000.0,
+      "operatingIncome": 53686600000.0,
+      "netIncome": 41215500000.0,
+      "eps": 51.01,
+      "freeCashFlow": 27846100000.0,
+      "totalDebt": 5594100000.0,
+      "cash": 6400700000.0,
+      "sharesOutstanding": 807367062.0,
+      "grossMargin": 0.6230392786785519,
+      "operatingMargin": 0.21097724924675684,
+      "netMargin": 0.16196840210275387,
+      "roe": 0.15432800265703803,
+      "roic": 0.19690059062915355
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 271454000000.0,
+      "operatingIncome": 60209500000.0,
+      "netIncome": 52725200000.0,
+      "eps": 65.24,
+      "freeCashFlow": 34567800000.0,
+      "totalDebt": 4381900000.0,
+      "cash": 5886900000.0,
+      "sharesOutstanding": 807617120.0,
+      "grossMargin": 0.6710680262585926,
+      "operatingMargin": 0.22180369418022944,
+      "netMargin": 0.19423254031990686,
+      "roe": 0.1690265103731713,
+      "roic": 0.19034580565535014
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 277116900000.0,
+      "operatingIncome": 47139400000.0,
+      "netIncome": 38792300000.0,
+      "eps": null,
+      "freeCashFlow": 8607100000.0,
+      "totalDebt": 6137700000.0,
+      "cash": 10182200000.0,
+      "sharesOutstanding": 807782631.0,
+      "grossMargin": 0.6554122105147683,
+      "operatingMargin": 0.17010655070116618,
+      "netMargin": 0.1399853274917553,
+      "roe": 0.1126636742908839,
+      "roic": 0.13450829373743783
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.186436+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "COHR",
+  "name": "Coherent Corp.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "currency": "USD",
+  "marketCap": {
+    "value": 70717751296.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 361.47,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5810115000.0,
+    "operatingIncome": 534947000.0,
+    "netIncome": 49364000.0,
+    "eps": -0.52,
+    "freeCashFlow": 192764000.0,
+    "totalDebt": 3893658000.0,
+    "cash": 909200000.0,
+    "sharesOutstanding": 171849325.0
+  },
+  "ratios": {
+    "roe": 0.006073494898665379,
+    "roic": 0.044499436963962614,
+    "grossMargin": 0.3516835725282546,
+    "operatingMargin": 0.09207167155899668,
+    "netMargin": 0.008496217372633761,
+    "debtToEquity": 0.31093
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 3316616000.0,
+      "operatingIncome": 414294000.0,
+      "netIncome": 234759000.0,
+      "eps": 1.45,
+      "freeCashFlow": 99000000.0,
+      "totalDebt": 2438214000.0,
+      "cash": 2582371000.0,
+      "sharesOutstanding": 120923171.0,
+      "grossMargin": 0.38156241180769795,
+      "operatingMargin": 0.12491467206333202,
+      "netMargin": 0.07078268934359601,
+      "roe": 0.053557862403434145,
+      "roic": 0.060733634225474425
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 5160100000.0,
+      "operatingIncome": 81981000.0,
+      "netIncome": -259458000.0,
+      "eps": -2.93,
+      "freeCashFlow": 197965000.0,
+      "totalDebt": 4488817000.0,
+      "cash": 821310000.0,
+      "sharesOutstanding": 154719413.0,
+      "grossMargin": 0.3136146586306467,
+      "operatingMargin": 0.015887482800720915,
+      "netMargin": -0.05028158369023856,
+      "roe": -0.03589144007593894,
+      "roic": 0.0069962893151375135
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 4707688000.0,
+      "operatingIncome": 123175000.0,
+      "netIncome": -156154000.0,
+      "eps": -1.84,
+      "freeCashFlow": 198915000.0,
+      "totalDebt": 4303153000.0,
+      "cash": 926033000.0,
+      "sharesOutstanding": 168406323.0,
+      "grossMargin": 0.3092736816883362,
+      "operatingMargin": 0.026164648124514623,
+      "netMargin": -0.0331699976718933,
+      "roe": -0.020614696958515685,
+      "roic": 0.010369976864869962
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 5810115000.0,
+      "operatingIncome": 534947000.0,
+      "netIncome": 49364000.0,
+      "eps": -0.52,
+      "freeCashFlow": 192764000.0,
+      "totalDebt": 3893658000.0,
+      "cash": 909200000.0,
+      "sharesOutstanding": 171849325.0,
+      "grossMargin": 0.3516835725282546,
+      "operatingMargin": 0.09207167155899668,
+      "netMargin": 0.008496217372633761,
+      "roe": 0.006073494898665379,
+      "roic": 0.044499436963962614
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:03.534068+00:00"
+  }
+}

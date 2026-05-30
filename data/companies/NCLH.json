@@ -1,0 +1,128 @@
+{
+  "ticker": "NCLH",
+  "name": "Norwegian Cruise Line Holdings Ltd.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8420080128.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18.34,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9827592000.0,
+    "operatingIncome": 1560868000.0,
+    "netIncome": 423246000.0,
+    "eps": 0.92,
+    "freeCashFlow": -1169860000.0,
+    "totalDebt": 14606176000.0,
+    "cash": 209893000.0,
+    "sharesOutstanding": 455257489.0
+  },
+  "ratios": {
+    "roe": 0.1915237333294719,
+    "roic": 0.09282005587038679,
+    "grossMargin": 0.4261907698243883,
+    "operatingMargin": 0.15882507128908077,
+    "netMargin": 0.04306711145517641,
+    "debtToEquity": 6.614439999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4843760000.0,
+      "operatingIncome": -1551757000.0,
+      "netIncome": -2269909000.0,
+      "eps": -5.41,
+      "freeCashFlow": -1573837000.0,
+      "totalDebt": 13621530000.0,
+      "cash": 946987000.0,
+      "sharesOutstanding": 421413565.0,
+      "grossMargin": 0.1190550316283218,
+      "operatingMargin": -0.3203620740912019,
+      "netMargin": -0.4686254067088378,
+      "roe": -33.09339417707862,
+      "roic": -0.11334866945295809
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8549924000.0,
+      "operatingIncome": 930911000.0,
+      "netIncome": 166178000.0,
+      "eps": 0.39,
+      "freeCashFlow": -744648000.0,
+      "totalDebt": 14058925000.0,
+      "cash": 402415000.0,
+      "sharesOutstanding": 425546570.0,
+      "grossMargin": 0.3603934958954021,
+      "operatingMargin": 0.10887944734947351,
+      "netMargin": 0.019436196158000938,
+      "roe": 0.5524406014487695,
+      "roic": 0.06482788118886898
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9479651000.0,
+      "operatingIncome": 1465906000.0,
+      "netIncome": 910257000.0,
+      "eps": 1.89,
+      "freeCashFlow": 838871000.0,
+      "totalDebt": 13100490000.0,
+      "cash": 190765000.0,
+      "sharesOutstanding": 439861281.0,
+      "grossMargin": 0.3999044901547536,
+      "operatingMargin": 0.1546371274638697,
+      "netMargin": 0.09602220588078612,
+      "roe": 0.6385801146173214,
+      "roic": 0.10091650592536973
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9827592000.0,
+      "operatingIncome": 1560868000.0,
+      "netIncome": 423246000.0,
+      "eps": 0.92,
+      "freeCashFlow": -1169860000.0,
+      "totalDebt": 14606176000.0,
+      "cash": 209893000.0,
+      "sharesOutstanding": 455257489.0,
+      "grossMargin": 0.4261907698243883,
+      "operatingMargin": 0.15882507128908077,
+      "netMargin": 0.04306711145517641,
+      "roe": 0.1915237333294719,
+      "roic": 0.09282005587038679
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:58.509343+00:00"
+  }
+}

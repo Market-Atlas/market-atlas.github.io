@@ -1,0 +1,128 @@
+{
+  "ticker": "KVUE",
+  "name": "Kenvue Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "USD",
+  "marketCap": {
+    "value": 33177751552.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 17.28,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15124000000.0,
+    "operatingIncome": 2715000000.0,
+    "netIncome": 1470000000.0,
+    "eps": 0.76,
+    "freeCashFlow": 1722000000.0,
+    "totalDebt": 8674000000.0,
+    "cash": 1062000000.0,
+    "sharesOutstanding": 1936502167.0
+  },
+  "ratios": {
+    "roe": 0.13655364607524384,
+    "roic": 0.1396676783785174,
+    "grossMargin": 0.581327691087014,
+    "operatingMargin": 0.17951600105792118,
+    "netMargin": 0.09719650886008992,
+    "debtToEquity": 0.82975
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14950000000.0,
+      "operatingIncome": 2688000000.0,
+      "netIncome": 2064000000.0,
+      "eps": 1.092657,
+      "freeCashFlow": 2150000000.0,
+      "totalDebt": 116000000.0,
+      "cash": 1231000000.0,
+      "sharesOutstanding": 1888972560.0,
+      "grossMargin": 0.554180602006689,
+      "operatingMargin": 0.17979933110367893,
+      "netMargin": 0.13806020066889632,
+      "roe": 0.10335503254882324,
+      "roic": 0.13382455441601115
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15444000000.0,
+      "operatingIncome": 2493000000.0,
+      "netIncome": 1664000000.0,
+      "eps": 0.9,
+      "freeCashFlow": 2699000000.0,
+      "totalDebt": 8427000000.0,
+      "cash": 1382000000.0,
+      "sharesOutstanding": 1915407047.0,
+      "grossMargin": 0.5596348096348096,
+      "operatingMargin": 0.16142191142191142,
+      "netMargin": 0.10774410774410774,
+      "roe": 0.14842565337614844,
+      "roic": 0.12694775435380384
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15455000000.0,
+      "operatingIncome": 2629000000.0,
+      "netIncome": 1030000000.0,
+      "eps": 0.54,
+      "freeCashFlow": 1335000000.0,
+      "totalDebt": 8720000000.0,
+      "cash": 1070000000.0,
+      "sharesOutstanding": 1924976532.0,
+      "grossMargin": 0.5796829505014558,
+      "operatingMargin": 0.1701067615658363,
+      "netMargin": 0.06664509867356842,
+      "roe": 0.10653702937525858,
+      "roic": 0.14297367848596912
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15124000000.0,
+      "operatingIncome": 2715000000.0,
+      "netIncome": 1470000000.0,
+      "eps": 0.76,
+      "freeCashFlow": 1722000000.0,
+      "totalDebt": 8674000000.0,
+      "cash": 1062000000.0,
+      "sharesOutstanding": 1936502167.0,
+      "grossMargin": 0.581327691087014,
+      "operatingMargin": 0.17951600105792118,
+      "netMargin": 0.09719650886008992,
+      "roe": 0.13655364607524384,
+      "roic": 0.1396676783785174
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:47.155280+00:00"
+  }
+}

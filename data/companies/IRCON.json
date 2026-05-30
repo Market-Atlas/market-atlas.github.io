@@ -1,0 +1,128 @@
+{
+  "ticker": "IRCON",
+  "name": "Ircon International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 128756596736.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 136.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 90710500000.0,
+    "operatingIncome": 6030300000.0,
+    "netIncome": 5954700000.0,
+    "eps": null,
+    "freeCashFlow": -11507500000.0,
+    "totalDebt": 57256300000.0,
+    "cash": 48093500000.0,
+    "sharesOutstanding": 940515740.0
+  },
+  "ratios": {
+    "roe": 0.08969758866273815,
+    "roic": 0.04877198572984899,
+    "grossMargin": 0.1216595653204425,
+    "operatingMargin": 0.06647852233203433,
+    "netMargin": 0.06564510172471764,
+    "debtToEquity": 0.85833
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.3,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 103472800000.0,
+      "operatingIncome": 5965900000.0,
+      "netIncome": 7652300000.0,
+      "eps": 8.14,
+      "freeCashFlow": -3776800000.0,
+      "totalDebt": 15251200000.0,
+      "cash": 23381100000.0,
+      "sharesOutstanding": 940515740.0,
+      "grossMargin": 0.07872213760524505,
+      "operatingMargin": 0.05765669818541684,
+      "netMargin": 0.07395470113885001,
+      "roe": 0.14683516614250436,
+      "roic": 0.088559379272364
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 123011000000.0,
+      "operatingIncome": 10351400000.0,
+      "netIncome": 9295700000.0,
+      "eps": 9.88,
+      "freeCashFlow": -9268500000.0,
+      "totalDebt": 25823300000.0,
+      "cash": 21797800000.0,
+      "sharesOutstanding": 940515740.0,
+      "grossMargin": 0.08972856086041085,
+      "operatingMargin": 0.08415019794977685,
+      "netMargin": 0.07556803863069156,
+      "roe": 0.15833463920475838,
+      "roic": 0.12245467719516162
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 107595800000.0,
+      "operatingIncome": 7269300000.0,
+      "netIncome": 7274100000.0,
+      "eps": 7.73,
+      "freeCashFlow": -21616000000.0,
+      "totalDebt": 43067700000.0,
+      "cash": 22798400000.0,
+      "sharesOutstanding": 940515740.0,
+      "grossMargin": 0.11142070601268823,
+      "operatingMargin": 0.06756118733259105,
+      "netMargin": 0.067605798739356,
+      "roe": 0.11498099219929343,
+      "roic": 0.06836469446408956
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 90710500000.0,
+      "operatingIncome": 6030300000.0,
+      "netIncome": 5954700000.0,
+      "eps": null,
+      "freeCashFlow": -11507500000.0,
+      "totalDebt": 57256300000.0,
+      "cash": 48093500000.0,
+      "sharesOutstanding": 940515740.0,
+      "grossMargin": 0.1216595653204425,
+      "operatingMargin": 0.06647852233203433,
+      "netMargin": 0.06564510172471764,
+      "roe": 0.08969758866273815,
+      "roic": 0.04877198572984899
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:04.617265+00:00"
+  }
+}

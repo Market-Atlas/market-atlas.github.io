@@ -1,0 +1,128 @@
+{
+  "ticker": "KIRLOSENG",
+  "name": "Kirloskar Oil Engines Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 280292524032.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1928.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 77010100000.0,
+    "operatingIncome": 12413700000.0,
+    "netIncome": 5743200000.0,
+    "eps": 39.38,
+    "freeCashFlow": 5923900000.0,
+    "totalDebt": 53743300000.0,
+    "cash": 7642000000.0,
+    "sharesOutstanding": 145359209.0
+  },
+  "ratios": {
+    "roe": 0.15864360710349457,
+    "roic": 0.13801403521255165,
+    "grossMargin": 0.42586491901711593,
+    "operatingMargin": 0.16119573926017497,
+    "netMargin": 0.07457723077881992,
+    "debtToEquity": 1.50325
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 49683400000.0,
+      "operatingIncome": 6306100000.0,
+      "netIncome": 3324000000.0,
+      "eps": 22.88,
+      "freeCashFlow": -10817700000.0,
+      "totalDebt": 32442500000.0,
+      "cash": 2703000000.0,
+      "sharesOutstanding": 144743637.0,
+      "grossMargin": 0.2983813507127129,
+      "operatingMargin": 0.12692569349118618,
+      "netMargin": 0.06690363380928037,
+      "roe": 0.144296511097895,
+      "roic": 0.11366766164849744
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 58411900000.0,
+      "operatingIncome": 9192600000.0,
+      "netIncome": 4418700000.0,
+      "eps": 30.46,
+      "freeCashFlow": -8638500000.0,
+      "totalDebt": 41418400000.0,
+      "cash": 4929000000.0,
+      "sharesOutstanding": 144955806.0,
+      "grossMargin": 0.3296331740621346,
+      "operatingMargin": 0.15737546630053123,
+      "netMargin": 0.07564725680897215,
+      "roe": 0.16511036129451725,
+      "roic": 0.13482740666319548
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 63291400000.0,
+      "operatingIncome": 10474600000.0,
+      "netIncome": 4891500000.0,
+      "eps": 33.6,
+      "freeCashFlow": -10477400000.0,
+      "totalDebt": 58185300000.0,
+      "cash": 7410600000.0,
+      "sharesOutstanding": 145179224.0,
+      "grossMargin": 0.43680974034386977,
+      "operatingMargin": 0.16549799814824762,
+      "netMargin": 0.07728538158422787,
+      "roe": 0.1584804795075328,
+      "roic": 0.11762565651098311
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 77010100000.0,
+      "operatingIncome": 12413700000.0,
+      "netIncome": 5743200000.0,
+      "eps": 39.38,
+      "freeCashFlow": 5923900000.0,
+      "totalDebt": 53743300000.0,
+      "cash": 7642000000.0,
+      "sharesOutstanding": 145359209.0,
+      "grossMargin": 0.42586491901711593,
+      "operatingMargin": 0.16119573926017497,
+      "netMargin": 0.07457723077881992,
+      "roe": 0.15864360710349457,
+      "roic": 0.13801403521255165
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:15.498769+00:00"
+  }
+}

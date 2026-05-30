@@ -1,0 +1,128 @@
+{
+  "ticker": "RELIANCE",
+  "name": "Reliance Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 17879101603840.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1321.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10572190000000.0,
+    "operatingIncome": 1213770000000.0,
+    "netIncome": 807750000000.0,
+    "eps": null,
+    "freeCashFlow": 691970000000.0,
+    "totalDebt": 3980000000000.0,
+    "cash": 1373270000000.0,
+    "sharesOutstanding": 13532472634.0
+  },
+  "ratios": {
+    "roe": 0.08934991095428249,
+    "roic": 0.09322135434667404,
+    "grossMargin": 0.25576063237607344,
+    "operatingMargin": 0.11480781181571652,
+    "netMargin": 0.0764032806826211,
+    "debtToEquity": 0.36652999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 45.43,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8778350000000.0,
+      "operatingIncome": 1020150000000.0,
+      "netIncome": 667020000000.0,
+      "eps": 49.295,
+      "freeCashFlow": -259560000000.0,
+      "totalDebt": 3343920000000.0,
+      "cash": 341560000000.0,
+      "sharesOutstanding": 13532188028.0,
+      "grossMargin": 0.2345964788371391,
+      "operatingMargin": 0.1162120444047002,
+      "netMargin": 0.07598466682235272,
+      "roe": 0.09317587501676278,
+      "roic": 0.097132720915884
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 9010640000000.0,
+      "operatingIncome": 1116660000000.0,
+      "netIncome": 696210000000.0,
+      "eps": 51.45,
+      "freeCashFlow": 59050000000.0,
+      "totalDebt": 3461420000000.0,
+      "cash": 935400000000.0,
+      "sharesOutstanding": 13532218028.0,
+      "grossMargin": 0.25133064909928704,
+      "operatingMargin": 0.12392682428773096,
+      "netMargin": 0.07726532188612574,
+      "roe": 0.08774123135903696,
+      "roic": 0.0979850354020584
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9646930000000.0,
+      "operatingIncome": 1124620000000.0,
+      "netIncome": 696480000000.0,
+      "eps": 51.47,
+      "freeCashFlow": 387360000000.0,
+      "totalDebt": 3695750000000.0,
+      "cash": 1006450000000.0,
+      "sharesOutstanding": 13532871488.0,
+      "grossMargin": 0.25086322799066646,
+      "operatingMargin": 0.1165780201577082,
+      "netMargin": 0.07219706165588431,
+      "roe": 0.08259962049335863,
+      "roic": 0.09273113314505989
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 10572190000000.0,
+      "operatingIncome": 1213770000000.0,
+      "netIncome": 807750000000.0,
+      "eps": null,
+      "freeCashFlow": 691970000000.0,
+      "totalDebt": 3980000000000.0,
+      "cash": 1373270000000.0,
+      "sharesOutstanding": 13532472634.0,
+      "grossMargin": 0.25576063237607344,
+      "operatingMargin": 0.11480781181571652,
+      "netMargin": 0.0764032806826211,
+      "roe": 0.08934991095428249,
+      "roic": 0.09322135434667404
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:25.618956+00:00"
+  }
+}

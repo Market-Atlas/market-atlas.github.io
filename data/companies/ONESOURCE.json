@@ -1,0 +1,111 @@
+{
+  "ticker": "ONESOURCE",
+  "name": "ONESOURCE SPECL PHARMA L",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "INR",
+  "marketCap": {
+    "value": 209182720000.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1824.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14215900000.0,
+    "operatingIncome": 251290000.0,
+    "netIncome": -738030000.0,
+    "eps": null,
+    "freeCashFlow": -5605460000.0,
+    "totalDebt": 15039390000.0,
+    "cash": 356760000.0,
+    "sharesOutstanding": 114621201.0
+  },
+  "ratios": {
+    "roe": -0.0126563783753472,
+    "roic": 0.003425796716884601,
+    "grossMargin": 0.6872171301148714,
+    "operatingMargin": 0.017676685964307572,
+    "netMargin": -0.0519158125760592,
+    "debtToEquity": 0.21928
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 387140000.0,
+      "operatingIncome": -2158820000.0,
+      "netIncome": -7998300000.0,
+      "eps": -69.893203,
+      "freeCashFlow": -2067600000.0,
+      "totalDebt": 8642200000.0,
+      "cash": 49740000.0,
+      "sharesOutstanding": 114436021.0,
+      "grossMargin": 0.4727747068244046,
+      "operatingMargin": -5.576328976597614,
+      "netMargin": -20.659967970243322,
+      "roe": -1.018304086940912,
+      "roic": -0.13086351052602546
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1719190000.0,
+      "operatingIncome": -1565250000.0,
+      "netIncome": -3911650000.0,
+      "eps": -34.181982,
+      "freeCashFlow": -1709780000.0,
+      "totalDebt": 5711730000.0,
+      "cash": 64720000.0,
+      "sharesOutstanding": 114436021.0,
+      "grossMargin": 0.5898708112541371,
+      "operatingMargin": -0.9104578318859463,
+      "netMargin": -2.275286617535002,
+      "roe": -0.9885068218633202,
+      "roic": -0.16188568248997295
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14448530000.0,
+      "operatingIncome": 1926290000.0,
+      "netIncome": -179710000.0,
+      "eps": -1.63,
+      "freeCashFlow": -1960020000.0,
+      "totalDebt": 9424370000.0,
+      "cash": 1564760000.0,
+      "sharesOutstanding": 114436021.0,
+      "grossMargin": 0.6989077781615154,
+      "operatingMargin": 0.13332082917777796,
+      "netMargin": -0.012437943513976854,
+      "roe": -0.0030559915953854203,
+      "roic": 0.028232236301365846
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 14215900000.0,
+      "operatingIncome": 251290000.0,
+      "netIncome": -738030000.0,
+      "eps": null,
+      "freeCashFlow": -5605460000.0,
+      "totalDebt": 15039390000.0,
+      "cash": 356760000.0,
+      "sharesOutstanding": 114621201.0,
+      "grossMargin": 0.6872171301148714,
+      "operatingMargin": 0.017676685964307572,
+      "netMargin": -0.0519158125760592,
+      "roe": -0.0126563783753472,
+      "roic": 0.003425796716884601
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:37.818526+00:00"
+  }
+}

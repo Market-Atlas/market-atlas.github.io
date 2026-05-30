@@ -1,0 +1,128 @@
+{
+  "ticker": "UTIAMC",
+  "name": "UTI Asset Management Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 120901820416.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 940.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15389200000.0,
+    "operatingIncome": 5985800000.0,
+    "netIncome": 4041200000.0,
+    "eps": null,
+    "freeCashFlow": 3383200000.0,
+    "totalDebt": 1409300000.0,
+    "cash": 355700000.0,
+    "sharesOutstanding": 128520036.0
+  },
+  "ratios": {
+    "roe": 0.08971214061976233,
+    "roic": 0.12884991260472364,
+    "grossMargin": 0.6384152522548281,
+    "operatingMargin": 0.3889610895953006,
+    "netMargin": 0.2625997452759078,
+    "debtToEquity": 0.03129
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 41.96,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11313700000.0,
+      "operatingIncome": 4372800000.0,
+      "netIncome": 4373600000.0,
+      "eps": 34.44,
+      "freeCashFlow": 2864900000.0,
+      "totalDebt": null,
+      "cash": 2094500000.0,
+      "sharesOutstanding": 126983695.0,
+      "grossMargin": 0.6627628450462714,
+      "operatingMargin": 0.38650485694335185,
+      "netMargin": 0.3865755676745892,
+      "roe": 0.11307603210060395,
+      "roic": 0.11305534872176719
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 11820600000.0,
+      "operatingIncome": 4378100000.0,
+      "netIncome": 7656800000.0,
+      "eps": 60.22,
+      "freeCashFlow": 1785300000.0,
+      "totalDebt": null,
+      "cash": 1509000000.0,
+      "sharesOutstanding": 127256174.0,
+      "grossMargin": 0.6631304671505677,
+      "operatingMargin": 0.37037883017782514,
+      "netMargin": 0.6477505371977734,
+      "roe": 0.17448731475763246,
+      "roic": 0.09977051937367969
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14453100000.0,
+      "operatingIncome": 6502500000.0,
+      "netIncome": 7314900000.0,
+      "eps": 57.11,
+      "freeCashFlow": 4665300000.0,
+      "totalDebt": null,
+      "cash": 2567900000.0,
+      "sharesOutstanding": 127977071.0,
+      "grossMargin": 0.6813348001466814,
+      "operatingMargin": 0.44990348091412913,
+      "netMargin": 0.5061128754384873,
+      "roe": 0.1590496463461568,
+      "roic": 0.1413854359411454
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 15389200000.0,
+      "operatingIncome": 5985800000.0,
+      "netIncome": 4041200000.0,
+      "eps": null,
+      "freeCashFlow": 3383200000.0,
+      "totalDebt": 1409300000.0,
+      "cash": 355700000.0,
+      "sharesOutstanding": 128520036.0,
+      "grossMargin": 0.6384152522548281,
+      "operatingMargin": 0.3889610895953006,
+      "netMargin": 0.2625997452759078,
+      "roe": 0.08971214061976233,
+      "roic": 0.12884991260472364
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:13.149664+00:00"
+  }
+}

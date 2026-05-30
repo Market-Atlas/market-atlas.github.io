@@ -1,0 +1,128 @@
+{
+  "ticker": "ANET",
+  "name": "Arista Networks, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 200799748096.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 159.47,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9005700000.0,
+    "operatingIncome": 3856100000.0,
+    "netIncome": 3511400000.0,
+    "eps": 2.75,
+    "freeCashFlow": 4252400000.0,
+    "totalDebt": null,
+    "cash": 1963900000.0,
+    "sharesOutstanding": 1256500000.0
+  },
+  "ratios": {
+    "roe": 0.28385271411826524,
+    "roic": 0.31171739218301603,
+    "grossMargin": 0.6405609780472368,
+    "operatingMargin": 0.42818437211987964,
+    "netMargin": 0.3899086134337142,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 56527000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4381310000.0,
+      "operatingIncome": 1527106000.0,
+      "netIncome": 1352446000.0,
+      "eps": 1.0675,
+      "freeCashFlow": 448169000.0,
+      "totalDebt": 43964000.0,
+      "cash": 671707000.0,
+      "sharesOutstanding": 1227560000.0,
+      "grossMargin": 0.6107068433870235,
+      "operatingMargin": 0.3485500911827741,
+      "netMargin": 0.30868530188459614,
+      "roe": 0.2768104432828062,
+      "roic": 0.30977138146417776
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5860200000.0,
+      "operatingIncome": 2257300000.0,
+      "netIncome": 2087300000.0,
+      "eps": 1.645,
+      "freeCashFlow": 1999600000.0,
+      "totalDebt": null,
+      "cash": 1938606000.0,
+      "sharesOutstanding": 1248980000.0,
+      "grossMargin": 0.6194839766560868,
+      "operatingMargin": 0.38519163168492543,
+      "netMargin": 0.35618238285382753,
+      "roe": 0.2891374069667529,
+      "roic": 0.312686182506612
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7003100000.0,
+      "operatingIncome": 2944600000.0,
+      "netIncome": 2852100000.0,
+      "eps": 2.23,
+      "freeCashFlow": 3676200000.0,
+      "totalDebt": null,
+      "cash": 2762400000.0,
+      "sharesOutstanding": 1261334000.0,
+      "grossMargin": 0.6413302680241607,
+      "operatingMargin": 0.42047093430052407,
+      "netMargin": 0.4072624980365838,
+      "roe": 0.28535838636090766,
+      "roic": 0.294613198863409
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9005700000.0,
+      "operatingIncome": 3856100000.0,
+      "netIncome": 3511400000.0,
+      "eps": 2.75,
+      "freeCashFlow": 4252400000.0,
+      "totalDebt": null,
+      "cash": 1963900000.0,
+      "sharesOutstanding": 1256500000.0,
+      "grossMargin": 0.6405609780472368,
+      "operatingMargin": 0.42818437211987964,
+      "netMargin": 0.3899086134337142,
+      "roe": 0.28385271411826524,
+      "roic": 0.31171739218301603
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.367852+00:00"
+  }
+}

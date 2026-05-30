@@ -1,0 +1,128 @@
+{
+  "ticker": "HSY",
+  "name": "The Hershey Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "currency": "USD",
+  "marketCap": {
+    "value": 39357698048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 194.03,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11692576000.0,
+    "operatingIncome": 1462122000.0,
+    "netIncome": 883259000.0,
+    "eps": 4.34,
+    "freeCashFlow": 1749148000.0,
+    "totalDebt": 5738575000.0,
+    "cash": 925859000.0,
+    "sharesOutstanding": 221553025.0
+  },
+  "ratios": {
+    "roe": 0.19049096888984743,
+    "roic": 0.1409230072310988,
+    "grossMargin": 0.33548561069861765,
+    "operatingMargin": 0.12504703839427686,
+    "netMargin": 0.07554015471013402,
+    "debtToEquity": 1.20011
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10419294000.0,
+      "operatingIncome": 2262776000.0,
+      "netIncome": 1644817000.0,
+      "eps": 7.96,
+      "freeCashFlow": 1808356000.0,
+      "totalDebt": 5117981000.0,
+      "cash": 463889000.0,
+      "sharesOutstanding": 221553025.0,
+      "grossMargin": 0.4317744561195797,
+      "operatingMargin": 0.21717172008007452,
+      "netMargin": 0.15786261525972872,
+      "roe": 0.49849827733771696,
+      "roic": 0.26881725922999933
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11164992000.0,
+      "operatingIncome": 2561308000.0,
+      "netIncome": 1861787000.0,
+      "eps": 9.06,
+      "freeCashFlow": 1552081000.0,
+      "totalDebt": 5125612000.0,
+      "cash": 401902000.0,
+      "sharesOutstanding": 221553025.0,
+      "grossMargin": 0.4476327434896505,
+      "operatingMargin": 0.2294052696141654,
+      "netMargin": 0.16675220188245546,
+      "roe": 0.4541956426383833,
+      "roic": 0.2776576533996018
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11202263000.0,
+      "operatingIncome": 2927267000.0,
+      "netIncome": 2221239000.0,
+      "eps": 10.92,
+      "freeCashFlow": 1925654000.0,
+      "totalDebt": 5447554000.0,
+      "cash": 730746000.0,
+      "sharesOutstanding": 221553025.0,
+      "grossMargin": 0.4731979600907424,
+      "operatingMargin": 0.2613103263153168,
+      "netMargin": 0.19828484655287953,
+      "roe": 0.4711351034455551,
+      "roic": 0.2880542299468777
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11692576000.0,
+      "operatingIncome": 1462122000.0,
+      "netIncome": 883259000.0,
+      "eps": 4.34,
+      "freeCashFlow": 1749148000.0,
+      "totalDebt": 5738575000.0,
+      "cash": 925859000.0,
+      "sharesOutstanding": 221553025.0,
+      "grossMargin": 0.33548561069861765,
+      "operatingMargin": 0.12504703839427686,
+      "netMargin": 0.07554015471013402,
+      "roe": 0.19049096888984743,
+      "roic": 0.1409230072310988
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.882005+00:00"
+  }
+}

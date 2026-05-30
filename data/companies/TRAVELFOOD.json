@@ -1,0 +1,128 @@
+{
+  "ticker": "TRAVELFOOD",
+  "name": "TRAVEL FOOD SERVICES LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "INR",
+  "marketCap": {
+    "value": 161254703104.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1224.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16477960000.0,
+    "operatingIncome": 4980830000.0,
+    "netIncome": 4410270000.0,
+    "eps": null,
+    "freeCashFlow": 3535240000.0,
+    "totalDebt": 2447890000.0,
+    "cash": 477200000.0,
+    "sharesOutstanding": 131679484.0
+  },
+  "ratios": {
+    "roe": 0.30569324001827114,
+    "roic": 0.2951602962962963,
+    "grossMargin": 0.6917646359136689,
+    "operatingMargin": 0.3022722472927474,
+    "netMargin": 0.2676466018851848,
+    "debtToEquity": 0.16722
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.384646,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 10660960000.0,
+      "operatingIncome": 3009370000.0,
+      "netIncome": 2438230000.0,
+      "eps": 18.5164,
+      "freeCashFlow": 2842560000.0,
+      "totalDebt": 3829580000.0,
+      "cash": 421930000.0,
+      "sharesOutstanding": 131679484.0,
+      "grossMargin": 0.6639251999819904,
+      "operatingMargin": 0.2822794570095001,
+      "netMargin": 0.2287064204349327,
+      "roe": 0.3719790991265876,
+      "roic": 0.2897991492951399
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13953190000.0,
+      "operatingIncome": 3221570000.0,
+      "netIncome": 2877850000.0,
+      "eps": 21.854961,
+      "freeCashFlow": 2739780000.0,
+      "totalDebt": 4160740000.0,
+      "cash": 680870000.0,
+      "sharesOutstanding": 131679484.0,
+      "grossMargin": 0.6419234597966487,
+      "operatingMargin": 0.23088412040544135,
+      "netMargin": 0.20625032698615872,
+      "roe": 0.32941781123764763,
+      "roic": 0.24979394289019619
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 16877390000.0,
+      "operatingIncome": 4278060000.0,
+      "netIncome": 3631530000.0,
+      "eps": 27.578556,
+      "freeCashFlow": 4528940000.0,
+      "totalDebt": 3330890000.0,
+      "cash": 252960000.0,
+      "sharesOutstanding": 131679484.0,
+      "grossMargin": 0.660543484507972,
+      "operatingMargin": 0.2534787665628394,
+      "netMargin": 0.21517130314580632,
+      "roe": 0.3447427053084147,
+      "roic": 0.30855280809409646
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 16477960000.0,
+      "operatingIncome": 4980830000.0,
+      "netIncome": 4410270000.0,
+      "eps": null,
+      "freeCashFlow": 3535240000.0,
+      "totalDebt": 2447890000.0,
+      "cash": 477200000.0,
+      "sharesOutstanding": 131679484.0,
+      "grossMargin": 0.6917646359136689,
+      "operatingMargin": 0.3022722472927474,
+      "netMargin": 0.2676466018851848,
+      "roe": 0.30569324001827114,
+      "roic": 0.2951602962962963
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:08.775891+00:00"
+  }
+}

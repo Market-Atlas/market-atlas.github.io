@@ -1,0 +1,128 @@
+{
+  "ticker": "PIDILITIND",
+  "name": "Pidilite Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1509157371904.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1482.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 146008300000.0,
+    "operatingIncome": 31242900000.0,
+    "netIncome": 24489200000.0,
+    "eps": 24.01,
+    "freeCashFlow": 22356800000.0,
+    "totalDebt": 4172100000.0,
+    "cash": 2324900000.0,
+    "sharesOutstanding": 1017766288.0
+  },
+  "ratios": {
+    "roe": 0.22607843119153412,
+    "roic": 0.2777299726740496,
+    "grossMargin": 0.5555697861012011,
+    "operatingMargin": 0.21398030111986785,
+    "netMargin": 0.16772471154037133,
+    "debtToEquity": 0.037759999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 117516200000.0,
+      "operatingIncome": 17520100000.0,
+      "netIncome": 12732500000.0,
+      "eps": 12.515,
+      "freeCashFlow": 10522200000.0,
+      "totalDebt": 3906100000.0,
+      "cash": 3101600000.0,
+      "sharesOutstanding": 1016628480.0,
+      "grossMargin": 0.4199676299948433,
+      "operatingMargin": 0.14908667911317758,
+      "netMargin": 0.10834676410571478,
+      "roe": 0.17653918039787694,
+      "roic": 0.23044000373542167
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 123370700000.0,
+      "operatingIncome": 24027300000.0,
+      "netIncome": 17293800000.0,
+      "eps": 16.99,
+      "freeCashFlow": 21653200000.0,
+      "totalDebt": 3824700000.0,
+      "cash": 5151400000.0,
+      "sharesOutstanding": 1017218680.0,
+      "grossMargin": 0.5089968687865108,
+      "operatingMargin": 0.1947569398568704,
+      "netMargin": 0.14017752999699282,
+      "roe": 0.20570323391014325,
+      "roic": 0.2733596294724579
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 131403100000.0,
+      "operatingIncome": 26540300000.0,
+      "netIncome": 20762400000.0,
+      "eps": 20.36,
+      "freeCashFlow": 18342900000.0,
+      "totalDebt": 4541400000.0,
+      "cash": 3239400000.0,
+      "sharesOutstanding": 1017297510.0,
+      "grossMargin": 0.5436728661652579,
+      "operatingMargin": 0.20197620908486938,
+      "netMargin": 0.1580054047431149,
+      "roe": 0.21285032692737477,
+      "roic": 0.2599798209352899
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 146008300000.0,
+      "operatingIncome": 31242900000.0,
+      "netIncome": 24489200000.0,
+      "eps": 24.01,
+      "freeCashFlow": 22356800000.0,
+      "totalDebt": 4172100000.0,
+      "cash": 2324900000.0,
+      "sharesOutstanding": 1017766288.0,
+      "grossMargin": 0.5555697861012011,
+      "operatingMargin": 0.21398030111986785,
+      "netMargin": 0.16772471154037133,
+      "roe": 0.22607843119153412,
+      "roic": 0.2777299726740496
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.963943+00:00"
+  }
+}

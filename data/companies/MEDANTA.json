@@ -1,0 +1,128 @@
+{
+  "ticker": "MEDANTA",
+  "name": "Global Health Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 319501926400.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1189.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44102660000.0,
+    "operatingIncome": 6965580000.0,
+    "netIncome": 5564600000.0,
+    "eps": null,
+    "freeCashFlow": -2641960000.0,
+    "totalDebt": 11900460000.0,
+    "cash": 1273330000.0,
+    "sharesOutstanding": 268698932.0
+  },
+  "ratios": {
+    "roe": 0.14046451280679126,
+    "roic": 0.1352115530350088,
+    "grossMargin": 0.7739816600631345,
+    "operatingMargin": 0.15794013331622175,
+    "netMargin": 0.1261737954127937,
+    "debtToEquity": 0.29869
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.73497,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26828040000.0,
+      "operatingIncome": 4990630000.0,
+      "netIncome": 3260790000.0,
+      "eps": 12.57,
+      "freeCashFlow": 4085310000.0,
+      "totalDebt": 11219520000.0,
+      "cash": 7672430000.0,
+      "sharesOutstanding": 268195172.0,
+      "grossMargin": 0.7669285568382931,
+      "operatingMargin": 0.18602290737601404,
+      "netMargin": 0.12154410087356363,
+      "roe": 0.13428791932157377,
+      "roic": 0.14057479099533543
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 32409420000.0,
+      "operatingIncome": 6582620000.0,
+      "netIncome": 4781940000.0,
+      "eps": 17.8,
+      "freeCashFlow": 3334990000.0,
+      "totalDebt": 8018690000.0,
+      "cash": 4246080000.0,
+      "sharesOutstanding": 268507382.0,
+      "grossMargin": 0.7656977508391078,
+      "operatingMargin": 0.20310823211276227,
+      "netMargin": 0.14754784257169676,
+      "roe": 0.16457515021714764,
+      "roic": 0.1775489440851723
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 36923450000.0,
+      "operatingIncome": 6834650000.0,
+      "netIncome": 4814370000.0,
+      "eps": 17.92,
+      "freeCashFlow": -241560000.0,
+      "totalDebt": 7177320000.0,
+      "cash": 2302000000.0,
+      "sharesOutstanding": 268587382.0,
+      "grossMargin": 0.7617587197296027,
+      "operatingMargin": 0.18510323385274127,
+      "netMargin": 0.1303878700392298,
+      "roe": 0.14216736898367296,
+      "roic": 0.16653054402113768
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 44102660000.0,
+      "operatingIncome": 6965580000.0,
+      "netIncome": 5564600000.0,
+      "eps": null,
+      "freeCashFlow": -2641960000.0,
+      "totalDebt": 11900460000.0,
+      "cash": 1273330000.0,
+      "sharesOutstanding": 268698932.0,
+      "grossMargin": 0.7739816600631345,
+      "operatingMargin": 0.15794013331622175,
+      "netMargin": 0.1261737954127937,
+      "roe": 0.14046451280679126,
+      "roic": 0.1352115530350088
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:24.835763+00:00"
+  }
+}

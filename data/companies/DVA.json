@@ -1,0 +1,128 @@
+{
+  "ticker": "DVA",
+  "name": "DaVita Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12474996736.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 194.36,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13643069000.0,
+    "operatingIncome": 2010615000.0,
+    "netIncome": 746803000.0,
+    "eps": 9.84,
+    "freeCashFlow": 1310636000.0,
+    "totalDebt": 12874331000.0,
+    "cash": 676438000.0,
+    "sharesOutstanding": 68549000.0
+  },
+  "ratios": {
+    "roe": -1.1470183479193097,
+    "roic": 0.16449104489321947,
+    "grossMargin": 0.32247824884562265,
+    "operatingMargin": 0.14737263294644334,
+    "netMargin": 0.054738636885879564,
+    "debtToEquity": 12.613309999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11609894000.0,
+      "operatingIncome": 1312542000.0,
+      "netIncome": 560400000.0,
+      "eps": 5.85,
+      "freeCashFlow": 961141000.0,
+      "totalDebt": 11822490000.0,
+      "cash": 244086000.0,
+      "sharesOutstanding": 90411000.0,
+      "grossMargin": 0.2928830357968815,
+      "operatingMargin": 0.11305374536580609,
+      "netMargin": 0.04826917455060313,
+      "roe": 0.7867184407139428,
+      "roic": 0.10471170857234761
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12140147000.0,
+      "operatingIncome": 1601003000.0,
+      "netIncome": 691535000.0,
+      "eps": 7.42,
+      "freeCashFlow": 1491046000.0,
+      "totalDebt": 11116421000.0,
+      "cash": 380063000.0,
+      "sharesOutstanding": 88824000.0,
+      "grossMargin": 0.31469388303123513,
+      "operatingMargin": 0.13187673921905557,
+      "netMargin": 0.05696265457082192,
+      "roe": 0.6548025418119737,
+      "roic": 0.13152603265815668
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12815550000.0,
+      "operatingIncome": 1954828000.0,
+      "netIncome": 936342000.0,
+      "eps": 10.73,
+      "freeCashFlow": 1466595000.0,
+      "totalDebt": 12066836000.0,
+      "cash": 794933000.0,
+      "sharesOutstanding": 90369000.0,
+      "grossMargin": 0.32905563943802646,
+      "operatingMargin": 0.15253563054258304,
+      "netMargin": 0.07306295867130166,
+      "roe": 7.73056917818398,
+      "roic": 0.1603901162114277
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13643069000.0,
+      "operatingIncome": 2010615000.0,
+      "netIncome": 746803000.0,
+      "eps": 9.84,
+      "freeCashFlow": 1310636000.0,
+      "totalDebt": 12874331000.0,
+      "cash": 676438000.0,
+      "sharesOutstanding": 68549000.0,
+      "grossMargin": 0.32247824884562265,
+      "operatingMargin": 0.14737263294644334,
+      "netMargin": 0.054738636885879564,
+      "roe": -1.1470183479193097,
+      "roic": 0.16449104489321947
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:14.364749+00:00"
+  }
+}

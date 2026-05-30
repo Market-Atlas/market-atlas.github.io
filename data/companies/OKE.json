@@ -1,0 +1,128 @@
+{
+  "ticker": "OKE",
+  "name": "ONEOK, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "USD",
+  "marketCap": {
+    "value": 52884959232.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 83.94,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33629000000.0,
+    "operatingIncome": 5822000000.0,
+    "netIncome": 3393000000.0,
+    "eps": 5.42,
+    "freeCashFlow": 2447000000.0,
+    "totalDebt": 32816000000.0,
+    "cash": 78000000.0,
+    "sharesOutstanding": 655909018.0
+  },
+  "ratios": {
+    "roe": 0.15090060040026684,
+    "roic": 0.10527838556264806,
+    "grossMargin": 0.25995420619108506,
+    "operatingMargin": 0.17312438669005917,
+    "netMargin": 0.1008950608106099,
+    "debtToEquity": 1.49644
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22387000000.0,
+      "operatingIncome": 2807000000.0,
+      "netIncome": 1722000000.0,
+      "eps": 3.84,
+      "freeCashFlow": 1704000000.0,
+      "totalDebt": 13701000000.0,
+      "cash": 220000000.0,
+      "sharesOutstanding": 474916234.0,
+      "grossMargin": 0.1720194755885112,
+      "operatingMargin": 0.12538526823602983,
+      "netMargin": 0.07691964086300085,
+      "roe": 0.2651678472436095,
+      "roic": 0.1389948006932409
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17677000000.0,
+      "operatingIncome": 4230000000.0,
+      "netIncome": 2659000000.0,
+      "eps": 5.48,
+      "freeCashFlow": 2826000000.0,
+      "totalDebt": 21667000000.0,
+      "cash": 338000000.0,
+      "sharesOutstanding": 609713834.0,
+      "grossMargin": 0.2816654409684901,
+      "operatingMargin": 0.23929399785031397,
+      "netMargin": 0.15042145160377893,
+      "roe": 0.16130793496724097,
+      "roic": 0.1108752064166077
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21698000000.0,
+      "operatingIncome": 5062000000.0,
+      "netIncome": 3035000000.0,
+      "eps": 5.17,
+      "freeCashFlow": 2867000000.0,
+      "totalDebt": 32077000000.0,
+      "cash": 733000000.0,
+      "sharesOutstanding": 609713834.0,
+      "grossMargin": 0.33427043967185915,
+      "operatingMargin": 0.23329339109595354,
+      "netMargin": 0.13987464282422343,
+      "roe": 0.17815214839164123,
+      "roic": 0.10306843401950604
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33629000000.0,
+      "operatingIncome": 5822000000.0,
+      "netIncome": 3393000000.0,
+      "eps": 5.42,
+      "freeCashFlow": 2447000000.0,
+      "totalDebt": 32816000000.0,
+      "cash": 78000000.0,
+      "sharesOutstanding": 655909018.0,
+      "grossMargin": 0.25995420619108506,
+      "operatingMargin": 0.17312438669005917,
+      "netMargin": 0.1008950608106099,
+      "roe": 0.15090060040026684,
+      "roic": 0.10527838556264806
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:04.353274+00:00"
+  }
+}

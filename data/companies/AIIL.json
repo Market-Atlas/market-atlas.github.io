@@ -1,0 +1,128 @@
+{
+  "ticker": "AIIL",
+  "name": "Authum Investment & Infrastructure Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 406566699008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 478.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26088000000.0,
+    "operatingIncome": 20723300000.0,
+    "netIncome": 19310900000.0,
+    "eps": null,
+    "freeCashFlow": 11837700000.0,
+    "totalDebt": 15086200000.0,
+    "cash": 503800000.0,
+    "sharesOutstanding": 849225500.0
+  },
+  "ratios": {
+    "roe": 0.13111834457734467,
+    "roic": 0.12763434886668645,
+    "grossMargin": 0.8764796074823674,
+    "operatingMargin": 0.7943613922109782,
+    "netMargin": 0.7402215578043545,
+    "debtToEquity": 0.2459
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.976,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4312400000.0,
+      "operatingIncome": 14644600000.0,
+      "netIncome": 43040300000.0,
+      "eps": 50.682,
+      "freeCashFlow": 2392800000.0,
+      "totalDebt": 15019200000.0,
+      "cash": 3500800000.0,
+      "sharesOutstanding": 849225500.0,
+      "grossMargin": 0.9424914200909007,
+      "operatingMargin": 3.3959280215193397,
+      "netMargin": 9.98059085428068,
+      "roe": 1.2598070494845481,
+      "roic": 0.2977549335751493
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 22393900000.0,
+      "operatingIncome": 60762500000.0,
+      "netIncome": 42848300000.0,
+      "eps": 50.456,
+      "freeCashFlow": 32422000000.0,
+      "totalDebt": 11283400000.0,
+      "cash": 1997800000.0,
+      "sharesOutstanding": 849225500.0,
+      "grossMargin": 0.9749708626009762,
+      "operatingMargin": 2.7133505106301268,
+      "netMargin": 1.9133915932463752,
+      "roe": 0.41418932634773953,
+      "roic": 0.52959269408303
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 45783400000.0,
+      "operatingIncome": 40332900000.0,
+      "netIncome": 42414100000.0,
+      "eps": 249.72,
+      "freeCashFlow": 2532100000.0,
+      "totalDebt": 10542000000.0,
+      "cash": 1084900000.0,
+      "sharesOutstanding": 849225500.0,
+      "grossMargin": 0.9774285002861299,
+      "operatingMargin": 0.8809503007640324,
+      "netMargin": 0.9264078246700769,
+      "roe": 0.28874067861455993,
+      "roic": 0.25618698208916163
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 26088000000.0,
+      "operatingIncome": 20723300000.0,
+      "netIncome": 19310900000.0,
+      "eps": null,
+      "freeCashFlow": 11837700000.0,
+      "totalDebt": 15086200000.0,
+      "cash": 503800000.0,
+      "sharesOutstanding": 849225500.0,
+      "grossMargin": 0.8764796074823674,
+      "operatingMargin": 0.7943613922109782,
+      "netMargin": 0.7402215578043545,
+      "roe": 0.13111834457734467,
+      "roic": 0.12763434886668645
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:50.210757+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TATAINVEST",
+  "name": "Tata Investment Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 349183442944.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 690.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5200100000.0,
+    "operatingIncome": null,
+    "netIncome": 4336800000.0,
+    "eps": null,
+    "freeCashFlow": 2790600000.0,
+    "totalDebt": null,
+    "cash": 19300000.0,
+    "sharesOutstanding": 505952960.0
+  },
+  "ratios": {
+    "roe": 0.01484129993470485,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.73079,
+    "netMargin": 0.8339839618468876,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 42.34,
+      "freeCashFlow": null,
+      "totalDebt": 18812000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3052297000.0,
+      "operatingIncome": null,
+      "netIncome": 2518746000.0,
+      "eps": 49.78,
+      "freeCashFlow": 2294130000.0,
+      "totalDebt": 2416202000.0,
+      "cash": 45398000.0,
+      "sharesOutstanding": 50595296.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8251968927008086,
+      "roe": 0.01286927238231878,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4398700000.0,
+      "operatingIncome": null,
+      "netIncome": 3849636000.0,
+      "eps": 76.09,
+      "freeCashFlow": 2346800000.0,
+      "totalDebt": 4082000.0,
+      "cash": 1104880000.0,
+      "sharesOutstanding": 50595296.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8751758474094619,
+      "roe": 0.012847064133235251,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4090100000.0,
+      "operatingIncome": null,
+      "netIncome": 3120900000.0,
+      "eps": 6.17,
+      "freeCashFlow": 2054700000.0,
+      "totalDebt": 22165000.0,
+      "cash": 80788000.0,
+      "sharesOutstanding": 50595296.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7630375785433119,
+      "roe": 0.010038027330818673,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 5200100000.0,
+      "operatingIncome": null,
+      "netIncome": 4336800000.0,
+      "eps": null,
+      "freeCashFlow": 2790600000.0,
+      "totalDebt": null,
+      "cash": 19300000.0,
+      "sharesOutstanding": 505952960.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8339839618468876,
+      "roe": 0.01484129993470485,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:03.224164+00:00"
+  }
+}

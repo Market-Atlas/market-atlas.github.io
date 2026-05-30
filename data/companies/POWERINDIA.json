@@ -1,0 +1,128 @@
+{
+  "ticker": "POWERINDIA",
+  "name": "Hitachi Energy India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1713584472064.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 38445.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 79182400000.0,
+    "operatingIncome": 11521000000.0,
+    "netIncome": 9878400000.0,
+    "eps": 221.63,
+    "freeCashFlow": 7350000000.0,
+    "totalDebt": 861000000.0,
+    "cash": 46891700000.0,
+    "sharesOutstanding": 44572363.0
+  },
+  "ratios": {
+    "roe": 0.19085155217582825,
+    "roic": 0.21894467185854968,
+    "grossMargin": 0.3844377033280123,
+    "operatingMargin": 0.14549950494049183,
+    "netMargin": 0.12475499605973045,
+    "debtToEquity": 0.01663
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 43345000000.0,
+      "operatingIncome": 2119300000.0,
+      "netIncome": 939000000.0,
+      "eps": 22.16,
+      "freeCashFlow": -66400000.0,
+      "totalDebt": 3343100000.0,
+      "cash": 1631900000.0,
+      "sharesOutstanding": 42381675.0,
+      "grossMargin": 0.28287922482408584,
+      "operatingMargin": 0.04889375937247664,
+      "netMargin": 0.021663398315838044,
+      "roe": 0.07726423710822752,
+      "roic": 0.1367625611440224
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 50960400000.0,
+      "operatingIncome": 2749700000.0,
+      "netIncome": 1637800000.0,
+      "eps": 38.64,
+      "freeCashFlow": 1629500000.0,
+      "totalDebt": 2136800000.0,
+      "cash": 1280400000.0,
+      "sharesOutstanding": 42381675.0,
+      "grossMargin": 0.27379690897245706,
+      "operatingMargin": 0.05395758275052786,
+      "netMargin": 0.03213868023013948,
+      "roe": 0.12043798304249671,
+      "roic": 0.17474500333640494
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 62240900000.0,
+      "operatingIncome": 5044600000.0,
+      "netIncome": 3839800000.0,
+      "eps": 90.36,
+      "freeCashFlow": 13646800000.0,
+      "totalDebt": 884500000.0,
+      "cash": 37620200000.0,
+      "sharesOutstanding": 44572363.0,
+      "grossMargin": 0.3628482235957385,
+      "operatingMargin": 0.0810495992185203,
+      "netMargin": 0.061692552646250294,
+      "roe": 0.09111769744975808,
+      "roic": 0.11724647651630657
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 79182400000.0,
+      "operatingIncome": 11521000000.0,
+      "netIncome": 9878400000.0,
+      "eps": 221.63,
+      "freeCashFlow": 7350000000.0,
+      "totalDebt": 861000000.0,
+      "cash": 46891700000.0,
+      "sharesOutstanding": 44572363.0,
+      "grossMargin": 0.3844377033280123,
+      "operatingMargin": 0.14549950494049183,
+      "netMargin": 0.12475499605973045,
+      "roe": 0.19085155217582825,
+      "roic": 0.21894467185854968
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:44.682760+00:00"
+  }
+}

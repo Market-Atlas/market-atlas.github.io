@@ -1,0 +1,128 @@
+{
+  "ticker": "PEP",
+  "name": "PepsiCo, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "USD",
+  "marketCap": {
+    "value": 197099208704.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 144.19,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 93925000000.0,
+    "operatingIncome": 13491000000.0,
+    "netIncome": 8240000000.0,
+    "eps": 6.0,
+    "freeCashFlow": 7672000000.0,
+    "totalDebt": 49901000000.0,
+    "cash": 9159000000.0,
+    "sharesOutstanding": 1867340122.0
+  },
+  "ratios": {
+    "roe": 0.4038028030971283,
+    "roic": 0.19188700982832435,
+    "grossMargin": 0.541485227575193,
+    "operatingMargin": 0.143635879691243,
+    "netMargin": 0.08772957146659568,
+    "debtToEquity": 2.4483699999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 86392000000.0,
+      "operatingIncome": 11357000000.0,
+      "netIncome": 8910000000.0,
+      "eps": 6.42,
+      "freeCashFlow": 5604000000.0,
+      "totalDebt": 39554000000.0,
+      "cash": 4954000000.0,
+      "sharesOutstanding": 1867000000.0,
+      "grossMargin": 0.5303268821187147,
+      "operatingMargin": 0.13145893138253542,
+      "netMargin": 0.10313454949532364,
+      "roe": 0.5195638229634381,
+      "roic": 0.2002892263195951
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 91471000000.0,
+      "operatingIncome": 12913000000.0,
+      "netIncome": 9074000000.0,
+      "eps": 6.56,
+      "freeCashFlow": 7924000000.0,
+      "totalDebt": 44661000000.0,
+      "cash": 9711000000.0,
+      "sharesOutstanding": 1867000000.0,
+      "grossMargin": 0.5421390386023985,
+      "operatingMargin": 0.1411704255993703,
+      "netMargin": 0.09920083961036831,
+      "roe": 0.49040696103334597,
+      "roic": 0.20443607117978596
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 91854000000.0,
+      "operatingIncome": 12920000000.0,
+      "netIncome": 9578000000.0,
+      "eps": 6.95,
+      "freeCashFlow": 7189000000.0,
+      "totalDebt": 44948000000.0,
+      "cash": 8505000000.0,
+      "sharesOutstanding": 1866989025.0,
+      "grossMargin": 0.5455396607659982,
+      "operatingMargin": 0.14065800074030527,
+      "netMargin": 0.10427417423302197,
+      "roe": 0.5309018347098277,
+      "roic": 0.20511517884074998
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 93925000000.0,
+      "operatingIncome": 13491000000.0,
+      "netIncome": 8240000000.0,
+      "eps": 6.0,
+      "freeCashFlow": 7672000000.0,
+      "totalDebt": 49901000000.0,
+      "cash": 9159000000.0,
+      "sharesOutstanding": 1867340122.0,
+      "grossMargin": 0.541485227575193,
+      "operatingMargin": 0.143635879691243,
+      "netMargin": 0.08772957146659568,
+      "roe": 0.4038028030971283,
+      "roic": 0.19188700982832435
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.100251+00:00"
+  }
+}

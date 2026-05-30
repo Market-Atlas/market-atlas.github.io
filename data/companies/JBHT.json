@@ -1,0 +1,128 @@
+{
+  "ticker": "JBHT",
+  "name": "J.B. Hunt Transport Services, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 26067126272.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 276.43,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11999096000.0,
+    "operatingIncome": 865069000.0,
+    "netIncome": 598282000.0,
+    "eps": 6.12,
+    "freeCashFlow": 947585000.0,
+    "totalDebt": 1466797000.0,
+    "cash": 17284000.0,
+    "sharesOutstanding": 167099432.0
+  },
+  "ratios": {
+    "roe": 0.16781703662044523,
+    "roic": 0.17191758471283708,
+    "grossMargin": 0.13306202400580844,
+    "operatingMargin": 0.07209451445342216,
+    "netMargin": 0.049860589497742164,
+    "debtToEquity": 0.43622
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14813999000.0,
+      "operatingIncome": 1331553000.0,
+      "netIncome": 969351000.0,
+      "eps": 9.21,
+      "freeCashFlow": 236086000.0,
+      "totalDebt": 1261738000.0,
+      "cash": 51927000.0,
+      "sharesOutstanding": 167099432.0,
+      "grossMargin": 0.13298056790742324,
+      "operatingMargin": 0.08988477722997011,
+      "netMargin": 0.0654347958306194,
+      "roe": 0.2643611485646215,
+      "roic": 0.27017376056760406
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12829665000.0,
+      "operatingIncome": 993196000.0,
+      "netIncome": 728287000.0,
+      "eps": 6.97,
+      "freeCashFlow": -117813000.0,
+      "totalDebt": 1576068000.0,
+      "cash": 53344000.0,
+      "sharesOutstanding": 167099432.0,
+      "grossMargin": 0.1325665946850522,
+      "operatingMargin": 0.07741402445036562,
+      "netMargin": 0.05676586255369879,
+      "roe": 0.17746831075321692,
+      "roic": 0.1748638074476225
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12087204000.0,
+      "operatingIncome": 831225000.0,
+      "netIncome": 570886000.0,
+      "eps": 5.56,
+      "freeCashFlow": 617783000.0,
+      "totalDebt": 1477702000.0,
+      "cash": 46983000.0,
+      "sharesOutstanding": 167099432.0,
+      "grossMargin": 0.12970600976040447,
+      "operatingMargin": 0.06876900563604288,
+      "netMargin": 0.04723060850135399,
+      "roe": 0.1422058261230214,
+      "roic": 0.15134626207642937
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11999096000.0,
+      "operatingIncome": 865069000.0,
+      "netIncome": 598282000.0,
+      "eps": 6.12,
+      "freeCashFlow": 947585000.0,
+      "totalDebt": 1466797000.0,
+      "cash": 17284000.0,
+      "sharesOutstanding": 167099432.0,
+      "grossMargin": 0.13306202400580844,
+      "operatingMargin": 0.07209451445342216,
+      "netMargin": 0.049860589497742164,
+      "roe": 0.16781703662044523,
+      "roic": 0.17191758471283708
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:43.177865+00:00"
+  }
+}

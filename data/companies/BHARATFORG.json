@@ -1,0 +1,128 @@
+{
+  "ticker": "BHARATFORG",
+  "name": "Bharat Forge Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 935715078144.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1957.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 168116530000.0,
+    "operatingIncome": 19557490000.0,
+    "netIncome": 10796610000.0,
+    "eps": 22.5,
+    "freeCashFlow": 3461460000.0,
+    "totalDebt": 73086150000.0,
+    "cash": 8478850000.0,
+    "sharesOutstanding": 478088632.0
+  },
+  "ratios": {
+    "roe": 0.11270136035674917,
+    "roic": 0.1158039027252641,
+    "grossMargin": 0.5485523642440158,
+    "operatingMargin": 0.11633293882523034,
+    "netMargin": 0.06422099004779601,
+    "debtToEquity": 0.7647499999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 122889100000.0,
+      "operatingIncome": 10743020000.0,
+      "netIncome": 5283640000.0,
+      "eps": 11.35,
+      "freeCashFlow": 2982840000.0,
+      "totalDebt": 73132370000.0,
+      "cash": 5087130000.0,
+      "sharesOutstanding": 465588632.0,
+      "grossMargin": 0.4348112241036837,
+      "operatingMargin": 0.08742044656523647,
+      "netMargin": 0.042995188344613154,
+      "roe": 0.07879531001743935,
+      "roic": 0.07663315229738886
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 150429410000.0,
+      "operatingIncome": 17623410000.0,
+      "netIncome": 9511280000.0,
+      "eps": 20.43,
+      "freeCashFlow": 1403690000.0,
+      "totalDebt": 79475300000.0,
+      "cash": 13135520000.0,
+      "sharesOutstanding": 465588632.0,
+      "grossMargin": 0.4347574719597717,
+      "operatingMargin": 0.11715401928386211,
+      "netMargin": 0.0632275297762585,
+      "roe": 0.13265043128600326,
+      "roic": 0.1165745694091051
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 151228030000.0,
+      "operatingIncome": 18203260000.0,
+      "netIncome": 9411530000.0,
+      "eps": 20.05,
+      "freeCashFlow": 3458840000.0,
+      "totalDebt": 66982590000.0,
+      "cash": 5943630000.0,
+      "sharesOutstanding": 478088632.0,
+      "grossMargin": 0.5639472391460763,
+      "operatingMargin": 0.12036961666431811,
+      "netMargin": 0.06223403161437731,
+      "roe": 0.10170961082783783,
+      "roic": 0.11411562469027388
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 168116530000.0,
+      "operatingIncome": 19557490000.0,
+      "netIncome": 10796610000.0,
+      "eps": 22.5,
+      "freeCashFlow": 3461460000.0,
+      "totalDebt": 73086150000.0,
+      "cash": 8478850000.0,
+      "sharesOutstanding": 478088632.0,
+      "grossMargin": 0.5485523642440158,
+      "operatingMargin": 0.11633293882523034,
+      "netMargin": 0.06422099004779601,
+      "roe": 0.11270136035674917,
+      "roic": 0.1158039027252641
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:01.685415+00:00"
+  }
+}

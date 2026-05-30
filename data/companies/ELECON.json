@@ -1,0 +1,128 @@
+{
+  "ticker": "ELECON",
+  "name": "Elecon Engineering Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 114443968512.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 510.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23660500000.0,
+    "operatingIncome": 4189000000.0,
+    "netIncome": 3411500000.0,
+    "eps": 15.2,
+    "freeCashFlow": 1947000000.0,
+    "totalDebt": 2726500000.0,
+    "cash": 1692300000.0,
+    "sharesOutstanding": 224399930.0
+  },
+  "ratios": {
+    "roe": 0.14794977990762626,
+    "roic": 0.16245879387240644,
+    "grossMargin": 0.44926354049998946,
+    "operatingMargin": 0.1770461317385516,
+    "netMargin": 0.14418545677394815,
+    "debtToEquity": 0.11824
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 15013800000.0,
+      "operatingIncome": 3075000000.0,
+      "netIncome": 2375100000.0,
+      "eps": 10.585,
+      "freeCashFlow": 2620600000.0,
+      "totalDebt": 515900000.0,
+      "cash": 823500000.0,
+      "sharesOutstanding": 224399930.0,
+      "grossMargin": 0.44336543713117266,
+      "operatingMargin": 0.20481157335251568,
+      "netMargin": 0.15819446109579188,
+      "roe": 0.18568524743960596,
+      "roic": 0.2310831222899398
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 19065300000.0,
+      "operatingIncome": 4324700000.0,
+      "netIncome": 3555800000.0,
+      "eps": 7.925,
+      "freeCashFlow": 3333200000.0,
+      "totalDebt": 704600000.0,
+      "cash": 1096900000.0,
+      "sharesOutstanding": 224399930.0,
+      "grossMargin": 0.4659040245891751,
+      "operatingMargin": 0.22683618930727553,
+      "netMargin": 0.18650637545698207,
+      "roe": 0.22168052767421853,
+      "roic": 0.25827122449954615
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22269600000.0,
+      "operatingIncome": 4870800000.0,
+      "netIncome": 4151000000.0,
+      "eps": 18.5,
+      "freeCashFlow": 3594100000.0,
+      "totalDebt": 1812300000.0,
+      "cash": 1588500000.0,
+      "sharesOutstanding": 224399930.0,
+      "grossMargin": 0.4679159032941768,
+      "operatingMargin": 0.21871968962172647,
+      "netMargin": 0.186397600316126,
+      "roe": 0.2076870734684892,
+      "roic": 0.22344041726493297
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 23660500000.0,
+      "operatingIncome": 4189000000.0,
+      "netIncome": 3411500000.0,
+      "eps": 15.2,
+      "freeCashFlow": 1947000000.0,
+      "totalDebt": 2726500000.0,
+      "cash": 1692300000.0,
+      "sharesOutstanding": 224399930.0,
+      "grossMargin": 0.44926354049998946,
+      "operatingMargin": 0.1770461317385516,
+      "netMargin": 0.14418545677394815,
+      "roe": 0.14794977990762626,
+      "roic": 0.16245879387240644
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:37.243666+00:00"
+  }
+}

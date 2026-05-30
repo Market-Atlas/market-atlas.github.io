@@ -1,0 +1,128 @@
+{
+  "ticker": "CUB",
+  "name": "City Union Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 189822451712.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 255.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38686611000.0,
+    "operatingIncome": null,
+    "netIncome": 13262310000.0,
+    "eps": 17.83,
+    "freeCashFlow": 4499200000.0,
+    "totalDebt": 53267979000.0,
+    "cash": 89270692000.0,
+    "sharesOutstanding": 743047262.0
+  },
+  "ratios": {
+    "roe": 0.1255322454151607,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.48056,
+    "netMargin": 0.34281395183465413,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 29730292000.0,
+      "operatingIncome": null,
+      "netIncome": 9374795000.0,
+      "eps": 12.57,
+      "freeCashFlow": 6251438000.0,
+      "totalDebt": 46880949000.0,
+      "cash": 66492749000.0,
+      "sharesOutstanding": 740416385.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.315328049922954,
+      "roe": 0.1257145064785756,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 28650940000.0,
+      "operatingIncome": null,
+      "netIncome": 10157309000.0,
+      "eps": 13.62,
+      "freeCashFlow": 2679024000.0,
+      "totalDebt": 33721577000.0,
+      "cash": 69435270000.0,
+      "sharesOutstanding": 740671904.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3545192234530525,
+      "roe": 0.12089974190707857,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 32137757000.0,
+      "operatingIncome": null,
+      "netIncome": 11236262000.0,
+      "eps": 15.07,
+      "freeCashFlow": 9305200000.0,
+      "totalDebt": 17904100000.0,
+      "cash": 52905427000.0,
+      "sharesOutstanding": 740985734.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.34962807143012503,
+      "roe": 0.118693528666185,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 38686611000.0,
+      "operatingIncome": null,
+      "netIncome": 13262310000.0,
+      "eps": 17.83,
+      "freeCashFlow": 4499200000.0,
+      "totalDebt": 53267979000.0,
+      "cash": 89270692000.0,
+      "sharesOutstanding": 743047262.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.34281395183465413,
+      "roe": 0.1255322454151607,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:30.165309+00:00"
+  }
+}

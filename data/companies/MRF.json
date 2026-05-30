@@ -1,0 +1,128 @@
+{
+  "ticker": "MRF",
+  "name": "MRF Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 523441864704.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 123420.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 311490100000.0,
+    "operatingIncome": 31469500000.0,
+    "netIncome": 24261000000.0,
+    "eps": 5720.39,
+    "freeCashFlow": 31560500000.0,
+    "totalDebt": 32066600000.0,
+    "cash": 3045900000.0,
+    "sharesOutstanding": 4241143.0
+  },
+  "ratios": {
+    "roe": 0.1156686957914731,
+    "roic": 0.1301402493339873,
+    "grossMargin": 0.3732404336446006,
+    "operatingMargin": 0.10102889305310185,
+    "netMargin": 0.0778869055549438,
+    "debtToEquity": 0.15288000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 228505600000.0,
+      "operatingIncome": 12028700000.0,
+      "netIncome": 7689400000.0,
+      "eps": 1813.04,
+      "freeCashFlow": -5357700000.0,
+      "totalDebt": 30136100000.0,
+      "cash": 2485100000.0,
+      "sharesOutstanding": 4241143.0,
+      "grossMargin": 0.3060441407125252,
+      "operatingMargin": 0.05264072302823213,
+      "netMargin": 0.03365081643513332,
+      "roe": 0.0522816002001678,
+      "roic": 0.06787718938879662
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 250108100000.0,
+      "operatingIncome": 28992500000.0,
+      "netIncome": 20812300000.0,
+      "eps": 4907.24,
+      "freeCashFlow": 11398600000.0,
+      "totalDebt": 28215000000.0,
+      "cash": 3030700000.0,
+      "sharesOutstanding": 4241143.0,
+      "grossMargin": 0.37840237881140193,
+      "operatingMargin": 0.11591987624551144,
+      "netMargin": 0.08321321860427551,
+      "roe": 0.12460224187405967,
+      "roic": 0.14849299520755727
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 281530000000.0,
+      "operatingIncome": 24263800000.0,
+      "netIncome": 18732900000.0,
+      "eps": 4416.94,
+      "freeCashFlow": 5553100000.0,
+      "totalDebt": 37711600000.0,
+      "cash": 3706400000.0,
+      "sharesOutstanding": 4241143.0,
+      "grossMargin": 0.36326075373850036,
+      "operatingMargin": 0.08618548644904628,
+      "netMargin": 0.0665396227755479,
+      "roe": 0.1013221220155708,
+      "roic": 0.10900365774438198
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 311490100000.0,
+      "operatingIncome": 31469500000.0,
+      "netIncome": 24261000000.0,
+      "eps": 5720.39,
+      "freeCashFlow": 31560500000.0,
+      "totalDebt": 32066600000.0,
+      "cash": 3045900000.0,
+      "sharesOutstanding": 4241143.0,
+      "grossMargin": 0.3732404336446006,
+      "operatingMargin": 0.10102889305310185,
+      "netMargin": 0.0778869055549438,
+      "roe": 0.1156686957914731,
+      "roic": 0.1301402493339873
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:27.507107+00:00"
+  }
+}

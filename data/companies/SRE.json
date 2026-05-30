@@ -1,0 +1,128 @@
+{
+  "ticker": "SRE",
+  "name": "Sempra",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 58263392256.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 89.13,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13702000000.0,
+    "operatingIncome": 3080000000.0,
+    "netIncome": 1837000000.0,
+    "eps": 2.75,
+    "freeCashFlow": -6047000000.0,
+    "totalDebt": 35021000000.0,
+    "cash": 29000000.0,
+    "sharesOutstanding": 652731668.0
+  },
+  "ratios": {
+    "roe": 0.058107167710508,
+    "roic": 0.0462219554288287,
+    "grossMargin": 0.4661363304627062,
+    "operatingMargin": 0.2247847029630711,
+    "netMargin": 0.13406801926726025,
+    "debtToEquity": 0.8526699999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14439000000.0,
+      "operatingIncome": 2557000000.0,
+      "netIncome": 2139000000.0,
+      "eps": 3.31,
+      "freeCashFlow": -4215000000.0,
+      "totalDebt": 28919000000.0,
+      "cash": 370000000.0,
+      "sharesOutstanding": 628000000.0,
+      "grossMargin": 0.36089756908373155,
+      "operatingMargin": 0.1770898261652469,
+      "netMargin": 0.1481404529399543,
+      "roe": 0.07882808181315644,
+      "roic": 0.04561672672779819
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16720000000.0,
+      "operatingIncome": 3716000000.0,
+      "netIncome": 3075000000.0,
+      "eps": 4.79,
+      "freeCashFlow": -2179000000.0,
+      "totalDebt": 31076000000.0,
+      "cash": 236000000.0,
+      "sharesOutstanding": 631431732.0,
+      "grossMargin": 0.39593301435406697,
+      "operatingMargin": 0.2222488038277512,
+      "netMargin": 0.18391148325358853,
+      "roe": 0.10716152639832724,
+      "roic": 0.06217061785815864
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13185000000.0,
+      "operatingIncome": 2962000000.0,
+      "netIncome": 2862000000.0,
+      "eps": 4.42,
+      "freeCashFlow": -3308000000.0,
+      "totalDebt": 35848000000.0,
+      "cash": 1565000000.0,
+      "sharesOutstanding": 650629876.0,
+      "grossMargin": 0.4620401971937808,
+      "operatingMargin": 0.22464922260144102,
+      "netMargin": 0.21706484641638224,
+      "roe": 0.09160745150758594,
+      "roic": 0.044149649724251006
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13702000000.0,
+      "operatingIncome": 3080000000.0,
+      "netIncome": 1837000000.0,
+      "eps": 2.75,
+      "freeCashFlow": -6047000000.0,
+      "totalDebt": 35021000000.0,
+      "cash": 29000000.0,
+      "sharesOutstanding": 652731668.0,
+      "grossMargin": 0.4661363304627062,
+      "operatingMargin": 0.2247847029630711,
+      "netMargin": 0.13406801926726025,
+      "roe": 0.058107167710508,
+      "roic": 0.0462219554288287
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:21.362217+00:00"
+  }
+}

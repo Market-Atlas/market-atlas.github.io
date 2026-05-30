@@ -1,0 +1,128 @@
+{
+  "ticker": "CI",
+  "name": "The Cigna Group",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "currency": "USD",
+  "marketCap": {
+    "value": 73381289984.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 277.4,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 274876000000.0,
+    "operatingIncome": null,
+    "netIncome": 5957000000.0,
+    "eps": 110.9,
+    "freeCashFlow": 8389000000.0,
+    "totalDebt": 31463000000.0,
+    "cash": 7676000000.0,
+    "sharesOutstanding": 404600000.0
+  },
+  "ratios": {
+    "roe": 0.14280919617385468,
+    "roic": null,
+    "grossMargin": 0.09149,
+    "operatingMargin": 0.054780003,
+    "netMargin": 0.02167159009880819,
+    "debtToEquity": 0.7280500000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": 15570000000.0,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 179363000000.0,
+      "operatingIncome": 7295000000.0,
+      "netIncome": 6704000000.0,
+      "eps": 21.41,
+      "freeCashFlow": 7361000000.0,
+      "totalDebt": 31093000000.0,
+      "cash": 5924000000.0,
+      "sharesOutstanding": 397819000.0,
+      "grossMargin": 0.12457976282733897,
+      "operatingMargin": 0.04067171044195291,
+      "netMargin": 0.037376716491138086,
+      "roe": 0.15006155567991047,
+      "roic": 0.09628075176855665
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4852475000000.0,
+      "operatingIncome": -88600000000.0,
+      "netIncome": 25820000000.0,
+      "eps": 86.95,
+      "freeCashFlow": 10240000000.0,
+      "totalDebt": 30930000000.0,
+      "cash": 7822000000.0,
+      "sharesOutstanding": 399894000.0,
+      "grossMargin": 0.1237049134719911,
+      "operatingMargin": -0.018258723641028547,
+      "netMargin": 0.005320995986584166,
+      "roe": 0.5585963697726241,
+      "roic": -1.1483675294544606
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 246148000000.0,
+      "operatingIncome": 8444000000.0,
+      "netIncome": 3434000000.0,
+      "eps": 60.6,
+      "freeCashFlow": 8957000000.0,
+      "totalDebt": 31972000000.0,
+      "cash": 7550000000.0,
+      "sharesOutstanding": 402512000.0,
+      "grossMargin": 0.10152834879828396,
+      "operatingMargin": 0.03430456473341242,
+      "netMargin": 0.013950956335212962,
+      "roe": 0.0836887383325616,
+      "roic": 0.11566331073214163
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 274876000000.0,
+      "operatingIncome": null,
+      "netIncome": 5957000000.0,
+      "eps": 110.9,
+      "freeCashFlow": 8389000000.0,
+      "totalDebt": 31463000000.0,
+      "cash": 7676000000.0,
+      "sharesOutstanding": 404600000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02167159009880819,
+      "roe": 0.14280919617385468,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:59.876296+00:00"
+  }
+}

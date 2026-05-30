@@ -1,0 +1,111 @@
+{
+  "ticker": "ROST",
+  "name": "Ross Stores, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 74951892992.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 231.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22750559000.0,
+    "operatingIncome": 2707357000.0,
+    "netIncome": 2145044000.0,
+    "eps": 6.61,
+    "freeCashFlow": 2207608000.0,
+    "totalDebt": 5212338000.0,
+    "cash": 4594392000.0,
+    "sharesOutstanding": 322333000.0
+  },
+  "ratios": {
+    "roe": 0.34667697140805986,
+    "roic": 0.2374920184870218,
+    "grossMargin": 0.2770614559404892,
+    "operatingMargin": 0.11900177925298451,
+    "netMargin": 0.09428533162635697,
+    "debtToEquity": 0.74911
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 18695829000.0,
+      "operatingIncome": 1990331000.0,
+      "netIncome": 1512041000.0,
+      "eps": 4.38,
+      "freeCashFlow": 1035303000.0,
+      "totalDebt": 5706447000.0,
+      "cash": 4551876000.0,
+      "sharesOutstanding": 342753000.0,
+      "grossMargin": 0.25404591580293123,
+      "operatingMargin": 0.10645855821638078,
+      "netMargin": 0.08087584669286395,
+      "roe": 0.3525735656742565,
+      "roic": 0.19913206863811314
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 20376941000.0,
+      "operatingIncome": 2307663000.0,
+      "netIncome": 1874520000.0,
+      "eps": 5.56,
+      "freeCashFlow": 1751678000.0,
+      "totalDebt": 5747704000.0,
+      "cash": 4872446000.0,
+      "sharesOutstanding": 335172000.0,
+      "grossMargin": 0.2736102538648956,
+      "operatingMargin": 0.113248745236098,
+      "netMargin": 0.09199221806648997,
+      "roe": 0.38480692936584415,
+      "roic": 0.21731391661950292
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 21129219000.0,
+      "operatingIncome": 2585586000.0,
+      "netIncome": 2090730000.0,
+      "eps": 6.32,
+      "freeCashFlow": 1636884000.0,
+      "totalDebt": 5682429000.0,
+      "cash": 4730744000.0,
+      "sharesOutstanding": 328813000.0,
+      "grossMargin": 0.2777534276113092,
+      "operatingMargin": 0.12237016427346416,
+      "netMargin": 0.098949705618556,
+      "roe": 0.37949827515635226,
+      "roic": 0.2310286692976819
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 22750559000.0,
+      "operatingIncome": 2707357000.0,
+      "netIncome": 2145044000.0,
+      "eps": 6.61,
+      "freeCashFlow": 2207608000.0,
+      "totalDebt": 5212338000.0,
+      "cash": 4594392000.0,
+      "sharesOutstanding": 322333000.0,
+      "grossMargin": 0.2770614559404892,
+      "operatingMargin": 0.11900177925298451,
+      "netMargin": 0.09428533162635697,
+      "roe": 0.34667697140805986,
+      "roic": 0.2374920184870218
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:16.999730+00:00"
+  }
+}

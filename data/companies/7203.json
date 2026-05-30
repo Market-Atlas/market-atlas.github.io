@@ -1,0 +1,38 @@
+{
+  "ticker": "7203",
+  "name": "Toyota Motor Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "JPY",
+  "marketCap": { "value": 42000000000000, "currency": "JPY", "asOf": "2025-06-30" },
+  "fundamentals": {
+    "revenue": 45095325000000,
+    "operatingIncome": 5352934000000,
+    "netIncome": 4944933000000,
+    "eps": 363.0,
+    "freeCashFlow": 3766000000000,
+    "totalDebt": 30450000000000,
+    "cash": 8982000000000,
+    "sharesOutstanding": 13628000000
+  },
+  "ratios": {
+    "roe": 0.157, "roic": 0.082,
+    "grossMargin": 0.198, "operatingMargin": 0.119, "netMargin": 0.110,
+    "debtToEquity": 0.92
+  },
+  "historicalFinancials": [
+    { "fiscalYear": 2015, "periodEnd": "2015-03-31", "revenue":27234521000000, "operatingIncome":2750564000000, "netIncome":2173338000000, "eps":166.0, "freeCashFlow": 1800000000000, "totalDebt":18900000000000, "cash": 2284000000000, "sharesOutstanding":15600000000, "roe":0.135, "roic":0.072, "grossMargin":0.190, "operatingMargin":0.101, "netMargin":0.080 },
+    { "fiscalYear": 2016, "periodEnd": "2016-03-31", "revenue":28403118000000, "operatingIncome":2853971000000, "netIncome":2312694000000, "eps":175.0, "freeCashFlow": 2000000000000, "totalDebt":19500000000000, "cash": 3081000000000, "sharesOutstanding":15400000000, "roe":0.135, "roic":0.072, "grossMargin":0.195, "operatingMargin":0.100, "netMargin":0.081 },
+    { "fiscalYear": 2017, "periodEnd": "2017-03-31", "revenue":27597193000000, "operatingIncome":1994372000000, "netIncome":1831109000000, "eps":140.0, "freeCashFlow": 1500000000000, "totalDebt":20300000000000, "cash": 3072000000000, "sharesOutstanding":15200000000, "roe":0.103, "roic":0.057, "grossMargin":0.184, "operatingMargin":0.072, "netMargin":0.066 },
+    { "fiscalYear": 2018, "periodEnd": "2018-03-31", "revenue":29379510000000, "operatingIncome":2399862000000, "netIncome":2493983000000, "eps":195.0, "freeCashFlow": 2100000000000, "totalDebt":21100000000000, "cash": 3052000000000, "sharesOutstanding":15000000000, "roe":0.135, "roic":0.065, "grossMargin":0.187, "operatingMargin":0.082, "netMargin":0.085 },
+    { "fiscalYear": 2019, "periodEnd": "2019-03-31", "revenue":30225681000000, "operatingIncome":2467545000000, "netIncome":1882873000000, "eps":150.0, "freeCashFlow": 1900000000000, "totalDebt":21900000000000, "cash": 3574000000000, "sharesOutstanding":14800000000, "roe":0.097, "roic":0.062, "grossMargin":0.183, "operatingMargin":0.082, "netMargin":0.062 },
+    { "fiscalYear": 2020, "periodEnd": "2020-03-31", "revenue":29929992000000, "operatingIncome":2442869000000, "netIncome":2076183000000, "eps":166.0, "freeCashFlow": 2300000000000, "totalDebt":22300000000000, "cash": 4191000000000, "sharesOutstanding":14600000000, "roe":0.103, "roic":0.060, "grossMargin":0.187, "operatingMargin":0.082, "netMargin":0.069 },
+    { "fiscalYear": 2021, "periodEnd": "2021-03-31", "revenue":27214594000000, "operatingIncome":2197748000000, "netIncome":2245261000000, "eps":182.0, "freeCashFlow": 2900000000000, "totalDebt":24400000000000, "cash": 5100000000000, "sharesOutstanding":14400000000, "roe":0.103, "roic":0.054, "grossMargin":0.192, "operatingMargin":0.081, "netMargin":0.083 },
+    { "fiscalYear": 2022, "periodEnd": "2022-03-31", "revenue":31379507000000, "operatingIncome":2995697000000, "netIncome":2850110000000, "eps":206.0, "freeCashFlow": 2500000000000, "totalDebt":26500000000000, "cash": 6113000000000, "sharesOutstanding":14200000000, "roe":0.112, "roic":0.067, "grossMargin":0.190, "operatingMargin":0.095, "netMargin":0.091 },
+    { "fiscalYear": 2023, "periodEnd": "2023-03-31", "revenue":37154298000000, "operatingIncome":2725025000000, "netIncome":2451318000000, "eps":179.5, "freeCashFlow": 1900000000000, "totalDebt":28800000000000, "cash": 7516000000000, "sharesOutstanding":13900000000, "roe":0.090, "roic":0.057, "grossMargin":0.187, "operatingMargin":0.073, "netMargin":0.066 },
+    { "fiscalYear": 2024, "periodEnd": "2024-03-31", "revenue":45095325000000, "operatingIncome":5352934000000, "netIncome":4944933000000, "eps":363.0, "freeCashFlow": 3766000000000, "totalDebt":30450000000000, "cash": 8982000000000, "sharesOutstanding":13628000000, "roe":0.157, "roic":0.082, "grossMargin":0.198, "operatingMargin":0.119, "netMargin":0.110 }
+  ],
+  "meta": { "source": "sample", "lastUpdated": "2025-07-01T00:00:00Z" }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GODIGIT",
+  "name": "GO DIGIT GENERAL INS LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "INR",
+  "marketCap": {
+    "value": 282369720320.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 305.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 100052800000.0,
+    "operatingIncome": null,
+    "netIncome": 5443500000.0,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": 3500000000.0,
+    "cash": 2191500000.0,
+    "sharesOutstanding": 924287149.0
+  },
+  "ratios": {
+    "roe": 0.11616814771184922,
+    "roic": null,
+    "grossMargin": 0.19075,
+    "operatingMargin": 0.054050002,
+    "netMargin": 0.05440627348759855,
+    "debtToEquity": 0.07469
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -3.225581,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 59977400000.0,
+      "operatingIncome": null,
+      "netIncome": 355470000.0,
+      "eps": 0.387559,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 2793010000.0,
+      "sharesOutstanding": 917202340.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.00592673240253829,
+      "roe": 0.010621336375485022,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 86655800000.0,
+      "operatingIncome": null,
+      "netIncome": 1816800000.0,
+      "eps": 1.980806,
+      "freeCashFlow": null,
+      "totalDebt": 3500000000.0,
+      "cash": 3560600000.0,
+      "sharesOutstanding": 917202340.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.02096570570002239,
+      "roe": 0.0707479390496069,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 93695700000.0,
+      "operatingIncome": null,
+      "netIncome": 4249400000.0,
+      "eps": 4.62,
+      "freeCashFlow": null,
+      "totalDebt": 3500000000.0,
+      "cash": 2390500000.0,
+      "sharesOutstanding": 923025934.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04535320190787838,
+      "roe": 0.0921299106755702,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 100052800000.0,
+      "operatingIncome": null,
+      "netIncome": 5443500000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 3500000000.0,
+      "cash": 2191500000.0,
+      "sharesOutstanding": 924287149.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05440627348759855,
+      "roe": 0.11616814771184922,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:47.686297+00:00"
+  }
+}

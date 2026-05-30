@@ -1,0 +1,128 @@
+{
+  "ticker": "ANGELONE",
+  "name": "Angel One Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 308072742912.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 337.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 43054080000.0,
+    "operatingIncome": 8873190000.0,
+    "netIncome": 9150990000.0,
+    "eps": 9.85,
+    "freeCashFlow": -42225840000.0,
+    "totalDebt": 79514090000.0,
+    "cash": 1623600000.0,
+    "sharesOutstanding": 910859230.0
+  },
+  "ratios": {
+    "roe": 0.14957997094049144,
+    "roic": 0.06306819151053365,
+    "grossMargin": 0.6405687916220716,
+    "operatingMargin": 0.20609405659115235,
+    "netMargin": 0.21254640675169462,
+    "debtToEquity": 1.29314
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 24731930000.0,
+      "operatingIncome": 10025560000.0,
+      "netIncome": 8899540000.0,
+      "eps": 10.509,
+      "freeCashFlow": 6900390000.0,
+      "totalDebt": 7878520000.0,
+      "cash": 1330610000.0,
+      "sharesOutstanding": 834197410.0,
+      "grossMargin": 0.601245434545545,
+      "operatingMargin": 0.40536909169644264,
+      "netMargin": 0.3598400933530056,
+      "roe": 0.41171876951717234,
+      "roic": 0.3399174750204278
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 33970390000.0,
+      "operatingIncome": 11407570000.0,
+      "netIncome": 11255280000.0,
+      "eps": 13.181,
+      "freeCashFlow": -5374090000.0,
+      "totalDebt": 25411220000.0,
+      "cash": 10429850000.0,
+      "sharesOutstanding": 840081880.0,
+      "grossMargin": 0.6093824651409654,
+      "operatingMargin": 0.33580921502520283,
+      "netMargin": 0.33132619319354295,
+      "roe": 0.37040969155891706,
+      "roic": 0.20444681413510524
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 42476030000.0,
+      "operatingIncome": 11239540000.0,
+      "netIncome": 11720810000.0,
+      "eps": 12.68,
+      "freeCashFlow": -20237160000.0,
+      "totalDebt": 34137370000.0,
+      "cash": 7592190000.0,
+      "sharesOutstanding": 902940370.0,
+      "grossMargin": 0.6367216992736845,
+      "operatingMargin": 0.26460900418424227,
+      "netMargin": 0.2759393945243941,
+      "roe": 0.20850347191214713,
+      "roic": 0.12439814125632877
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 43054080000.0,
+      "operatingIncome": 8873190000.0,
+      "netIncome": 9150990000.0,
+      "eps": 9.85,
+      "freeCashFlow": -42225840000.0,
+      "totalDebt": 79514090000.0,
+      "cash": 1623600000.0,
+      "sharesOutstanding": 910859230.0,
+      "grossMargin": 0.6405687916220716,
+      "operatingMargin": 0.20609405659115235,
+      "netMargin": 0.21254640675169462,
+      "roe": 0.14957997094049144,
+      "roic": 0.06306819151053365
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:52.388843+00:00"
+  }
+}

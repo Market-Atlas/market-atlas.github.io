@@ -1,0 +1,128 @@
+{
+  "ticker": "SHW",
+  "name": "The Sherwin-Williams Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 74937761792.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 303.84,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23574300000.0,
+    "operatingIncome": 3796700000.0,
+    "netIncome": 2568500000.0,
+    "eps": 10.26,
+    "freeCashFlow": 2654000000.0,
+    "totalDebt": 12942600000.0,
+    "cash": 207200000.0,
+    "sharesOutstanding": 248766747.0
+  },
+  "ratios": {
+    "roe": 0.5585759954765892,
+    "roic": 0.21644841484758479,
+    "grossMargin": 0.48847685827362847,
+    "operatingMargin": 0.16105250208913943,
+    "netMargin": 0.1089533941622869,
+    "debtToEquity": 3.29521
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22148900000.0,
+      "operatingIncome": 3000600000.0,
+      "netIncome": 2020100000.0,
+      "eps": 7.72,
+      "freeCashFlow": 1275400000.0,
+      "totalDebt": 12507900000.0,
+      "cash": 198800000.0,
+      "sharesOutstanding": 273593346.0,
+      "grossMargin": 0.4210186510391035,
+      "operatingMargin": 0.13547399645129105,
+      "netMargin": 0.09120543232395288,
+      "roe": 0.6512040230811386,
+      "roic": 0.192222934016656
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23051900000.0,
+      "operatingIncome": 3606400000.0,
+      "netIncome": 2388800000.0,
+      "eps": 9.25,
+      "freeCashFlow": 2633500000.0,
+      "totalDebt": 11809700000.0,
+      "cash": 276800000.0,
+      "sharesOutstanding": 274977874.0,
+      "grossMargin": 0.46669038127009055,
+      "operatingMargin": 0.156446974002143,
+      "netMargin": 0.10362703291268832,
+      "roe": 0.642876365789332,
+      "roic": 0.2322888151750346
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23098500000.0,
+      "operatingIncome": 3761900000.0,
+      "netIncome": 2681400000.0,
+      "eps": 10.55,
+      "freeCashFlow": 2083200000.0,
+      "totalDebt": 11913300000.0,
+      "cash": 210400000.0,
+      "sharesOutstanding": 276979435.0,
+      "grossMargin": 0.48466783557373855,
+      "operatingMargin": 0.16286338939757994,
+      "netMargin": 0.11608546009481135,
+      "roe": 0.661877962085308,
+      "roic": 0.2356415797550816
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23574300000.0,
+      "operatingIncome": 3796700000.0,
+      "netIncome": 2568500000.0,
+      "eps": 10.26,
+      "freeCashFlow": 2654000000.0,
+      "totalDebt": 12942600000.0,
+      "cash": 207200000.0,
+      "sharesOutstanding": 248766747.0,
+      "grossMargin": 0.48847685827362847,
+      "operatingMargin": 0.16105250208913943,
+      "netMargin": 0.1089533941622869,
+      "roe": 0.5585759954765892,
+      "roic": 0.21644841484758479
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:18.396984+00:00"
+  }
+}

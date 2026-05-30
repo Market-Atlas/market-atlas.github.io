@@ -1,0 +1,128 @@
+{
+  "ticker": "FSLR",
+  "name": "First Solar, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Solar",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32965617664.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 306.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5219376000.0,
+    "operatingIncome": 1596864000.0,
+    "netIncome": 1528229000.0,
+    "eps": 14.21,
+    "freeCashFlow": 1187230000.0,
+    "totalDebt": 655335000.0,
+    "cash": 2803514000.0,
+    "sharesOutstanding": 107309794.0
+  },
+  "ratios": {
+    "roe": 0.1602254268796381,
+    "roic": 0.15665776672741227,
+    "grossMargin": 0.4062437732020073,
+    "operatingMargin": 0.30594921691788446,
+    "netMargin": 0.2927991775262024,
+    "debtToEquity": 0.05943
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2619319000.0,
+      "operatingIncome": -280747000.0,
+      "netIncome": -44166000.0,
+      "eps": -0.41,
+      "freeCashFlow": -30236000.0,
+      "totalDebt": 234131000.0,
+      "cash": 1481269000.0,
+      "sharesOutstanding": 106609094.0,
+      "grossMargin": 0.02667029101839066,
+      "operatingMargin": -0.10718320296229669,
+      "netMargin": -0.01686163464625729,
+      "roe": -0.007567783374214259,
+      "roic": -0.046250147853788996
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3318602000.0,
+      "operatingIncome": 885973000.0,
+      "netIncome": 830777000.0,
+      "eps": 7.74,
+      "freeCashFlow": -784515000.0,
+      "totalDebt": 624389000.0,
+      "cash": 1946994000.0,
+      "sharesOutstanding": 106847475.0,
+      "grossMargin": 0.3919358211680702,
+      "operatingMargin": 0.2669717549739318,
+      "netMargin": 0.2503394501660639,
+      "roe": 0.12422891231346268,
+      "roic": 0.12116933890127517
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4206289000.0,
+      "operatingIncome": 1393735000.0,
+      "netIncome": 1292044000.0,
+      "eps": 12.02,
+      "freeCashFlow": -308077000.0,
+      "totalDebt": 718802000.0,
+      "cash": 1621376000.0,
+      "sharesOutstanding": 107060281.0,
+      "grossMargin": 0.4416871974322259,
+      "operatingMargin": 0.3313455162020489,
+      "netMargin": 0.30716957394035455,
+      "roe": 0.16195945209930282,
+      "roic": 0.16026612915559452
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5219376000.0,
+      "operatingIncome": 1596864000.0,
+      "netIncome": 1528229000.0,
+      "eps": 14.21,
+      "freeCashFlow": 1187230000.0,
+      "totalDebt": 655335000.0,
+      "cash": 2803514000.0,
+      "sharesOutstanding": 107309794.0,
+      "grossMargin": 0.4062437732020073,
+      "operatingMargin": 0.30594921691788446,
+      "netMargin": 0.2927991775262024,
+      "roe": 0.1602254268796381,
+      "roic": 0.15665776672741227
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:27.488857+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CHOLAHLDNG",
+  "name": "Cholamandalam Financial Holdings Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 297063940096.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1582.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 408523100000.0,
+    "operatingIncome": 68228700000.0,
+    "netIncome": 24412900000.0,
+    "eps": null,
+    "freeCashFlow": -303929800000.0,
+    "totalDebt": 2104000300000.0,
+    "cash": 84750100000.0,
+    "sharesOutstanding": 187777462.0
+  },
+  "ratios": {
+    "roe": 0.15796986569950466,
+    "roic": 0.030209181871240994,
+    "grossMargin": 0.3473463312111359,
+    "operatingMargin": 0.1670130771062885,
+    "netMargin": 0.05975892183330637,
+    "debtToEquity": 6.2127099999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 54.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 193813400000.0,
+      "operatingIncome": 35081400000.0,
+      "netIncome": 12902300000.0,
+      "eps": 68.72,
+      "freeCashFlow": -295894900000.0,
+      "totalDebt": 971910300000.0,
+      "cash": 10554400000.0,
+      "sharesOutstanding": 187777462.0,
+      "grossMargin": 0.3694156338003461,
+      "operatingMargin": 0.18100606046847123,
+      "netMargin": 0.06657073246741453,
+      "roe": 0.08039297054527872,
+      "roic": 0.03097967000550247
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 272755900000.0,
+      "operatingIncome": 47748400000.0,
+      "netIncome": 17725200000.0,
+      "eps": 94.39,
+      "freeCashFlow": -368951300000.0,
+      "totalDebt": 1340140000000.0,
+      "cash": 9732200000.0,
+      "sharesOutstanding": 187777462.0,
+      "grossMargin": 0.2989482537316333,
+      "operatingMargin": 0.17505909129738348,
+      "netMargin": 0.06498557868042451,
+      "roe": 0.17306841715218035,
+      "roic": 0.03309982903278781
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 348615600000.0,
+      "operatingIncome": 60649700000.0,
+      "netIncome": 21736600000.0,
+      "eps": 115.76,
+      "freeCashFlow": -345427800000.0,
+      "totalDebt": 1743664400000.0,
+      "cash": 53859100000.0,
+      "sharesOutstanding": 187777462.0,
+      "grossMargin": 0.3459317368471176,
+      "operatingMargin": 0.17397299489753185,
+      "netMargin": 0.0623511971351827,
+      "roe": 0.17368049296539909,
+      "roic": 0.032453521938903385
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 408523100000.0,
+      "operatingIncome": 68228700000.0,
+      "netIncome": 24412900000.0,
+      "eps": null,
+      "freeCashFlow": -303929800000.0,
+      "totalDebt": 2104000300000.0,
+      "cash": 84750100000.0,
+      "sharesOutstanding": 187777462.0,
+      "grossMargin": 0.3473463312111359,
+      "operatingMargin": 0.1670130771062885,
+      "netMargin": 0.05975892183330637,
+      "roe": 0.15796986569950466,
+      "roic": 0.030209181871240994
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:25.753246+00:00"
+  }
+}

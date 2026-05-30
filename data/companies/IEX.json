@@ -1,0 +1,111 @@
+{
+  "ticker": "IEX",
+  "name": "IDEX Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15604594688.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 210.83,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3457500000.0,
+    "operatingIncome": 720000000.0,
+    "netIncome": 483200000.0,
+    "eps": 6.41,
+    "freeCashFlow": 616800000.0,
+    "totalDebt": 1848600000.0,
+    "cash": 580000000.0,
+    "sharesOutstanding": 90100000.0
+  },
+  "ratios": {
+    "roe": 0.11997517070142769,
+    "roic": 0.12253024965538367,
+    "grossMargin": 0.44506146059291396,
+    "operatingMargin": 0.20824295010845986,
+    "netMargin": 0.13975415762834417,
+    "debtToEquity": 0.46915
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3181900000.0,
+      "operatingIncome": 774200000.0,
+      "netIncome": 586900000.0,
+      "eps": 7.71,
+      "freeCashFlow": 489400000.0,
+      "totalDebt": 1586900000.0,
+      "cash": 430200000.0,
+      "sharesOutstanding": 90064988.0,
+      "grossMargin": 0.4484427543291744,
+      "operatingMargin": 0.24331374336088502,
+      "netMargin": 0.1844495427260442,
+      "roe": 0.19310367518836574,
+      "roic": 0.16735117374951364
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3273900000.0,
+      "operatingIncome": 743400000.0,
+      "netIncome": 596100000.0,
+      "eps": 7.85,
+      "freeCashFlow": 626800000.0,
+      "totalDebt": 1347700000.0,
+      "cash": 534300000.0,
+      "sharesOutstanding": 90073413.0,
+      "grossMargin": 0.44194996792815905,
+      "operatingMargin": 0.22706863373957664,
+      "netMargin": 0.18207642261522955,
+      "roe": 0.16832326198678488,
+      "roic": 0.15205252500460206
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3268800000.0,
+      "operatingIncome": 686500000.0,
+      "netIncome": 505000000.0,
+      "eps": 6.64,
+      "freeCashFlow": 603000000.0,
+      "totalDebt": 1986300000.0,
+      "cash": 620800000.0,
+      "sharesOutstanding": 90100000.0,
+      "grossMargin": 0.4421194322075379,
+      "operatingMargin": 0.21001590797846303,
+      "netMargin": 0.15449094468918256,
+      "roe": 0.13308034890768702,
+      "roic": 0.11875108112783256
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3457500000.0,
+      "operatingIncome": 720000000.0,
+      "netIncome": 483200000.0,
+      "eps": 6.41,
+      "freeCashFlow": 616800000.0,
+      "totalDebt": 1848600000.0,
+      "cash": 580000000.0,
+      "sharesOutstanding": 90100000.0,
+      "grossMargin": 0.44506146059291396,
+      "operatingMargin": 0.20824295010845986,
+      "netMargin": 0.13975415762834417,
+      "roe": 0.11997517070142769,
+      "roic": 0.12253024965538367
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:39.265205+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "OBEROIRLTY",
+  "name": "Oberoi Realty Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 620705349632.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1707.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 60090600000.0,
+    "operatingIncome": 32273200000.0,
+    "netIncome": 25074300000.0,
+    "eps": 68.96,
+    "freeCashFlow": 7432600000.0,
+    "totalDebt": 28254000000.0,
+    "cash": 1756800000.0,
+    "sharesOutstanding": 363602237.0
+  },
+  "ratios": {
+    "roe": 0.13991082284368106,
+    "roic": 0.15555575906527344,
+    "grossMargin": 0.6230724938675932,
+    "operatingMargin": 0.5370756823862635,
+    "netMargin": 0.4172749148785334,
+    "debtToEquity": 0.15765
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 41737851000.0,
+      "operatingIncome": 20719259000.0,
+      "netIncome": 19045471000.0,
+      "eps": 52.38,
+      "freeCashFlow": -29848593000.0,
+      "totalDebt": 39440859000.0,
+      "cash": 1881466000.0,
+      "sharesOutstanding": 363602237.0,
+      "grossMargin": 0.5527158789272596,
+      "operatingMargin": 0.496414130186051,
+      "netMargin": 0.4563117300888347,
+      "roe": 0.1559810330444096,
+      "roic": 0.12825922477884505
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 44794837000.0,
+      "operatingIncome": 23823951000.0,
+      "netIncome": 19266037000.0,
+      "eps": 52.99,
+      "freeCashFlow": 21393924000.0,
+      "totalDebt": 24952193000.0,
+      "cash": 2969580000.0,
+      "sharesOutstanding": 363602237.0,
+      "grossMargin": 0.5995888544030197,
+      "operatingMargin": 0.5318459134029219,
+      "netMargin": 0.4300950352827492,
+      "roe": 0.13916110702281903,
+      "roic": 0.14580470368385853
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 52862700000.0,
+      "operatingIncome": 30145900000.0,
+      "netIncome": 22255100000.0,
+      "eps": 61.21,
+      "freeCashFlow": 14702600000.0,
+      "totalDebt": 33003979000.0,
+      "cash": 2676702000.0,
+      "sharesOutstanding": 363602237.0,
+      "grossMargin": 0.650986423319278,
+      "operatingMargin": 0.5702678826469325,
+      "netMargin": 0.4209981707328608,
+      "roe": 0.14170830694501554,
+      "roic": 0.1586186850200098
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 60090600000.0,
+      "operatingIncome": 32273200000.0,
+      "netIncome": 25074300000.0,
+      "eps": 68.96,
+      "freeCashFlow": 7432600000.0,
+      "totalDebt": 28254000000.0,
+      "cash": 1756800000.0,
+      "sharesOutstanding": 363602237.0,
+      "grossMargin": 0.6230724938675932,
+      "operatingMargin": 0.5370756823862635,
+      "netMargin": 0.4172749148785334,
+      "roe": 0.13991082284368106,
+      "roic": 0.15555575906527344
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:35.990049+00:00"
+  }
+}

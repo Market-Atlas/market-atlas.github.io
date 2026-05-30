@@ -1,0 +1,128 @@
+{
+  "ticker": "ROK",
+  "name": "Rockwell Automation, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 50191228928.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 451.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8342000000.0,
+    "operatingIncome": 1423000000.0,
+    "netIncome": 869000000.0,
+    "eps": 7.67,
+    "freeCashFlow": 1358000000.0,
+    "totalDebt": 3647000000.0,
+    "cash": 468000000.0,
+    "sharesOutstanding": 141434397.0
+  },
+  "ratios": {
+    "roe": 0.2378215654077723,
+    "roic": 0.19490480756060813,
+    "grossMargin": 0.48141932390314074,
+    "operatingMargin": 0.17058259410213378,
+    "netMargin": 0.10417166147206905,
+    "debtToEquity": 1.13367
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 7760400000.0,
+      "operatingIncome": 1335300000.0,
+      "netIncome": 932200000.0,
+      "eps": 7.97,
+      "freeCashFlow": 682000000.0,
+      "totalDebt": 4183000000.0,
+      "cash": 490700000.0,
+      "sharesOutstanding": 181400000.0,
+      "grossMargin": 0.3997216638317613,
+      "operatingMargin": 0.17206587289314984,
+      "netMargin": 0.12012267408896449,
+      "roe": 0.342016436747872,
+      "roic": 0.19328083837535825
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 9058000000.0,
+      "operatingIncome": 1693000000.0,
+      "netIncome": 1387000000.0,
+      "eps": 11.95,
+      "freeCashFlow": 1213000000.0,
+      "totalDebt": 3334900000.0,
+      "cash": 1071800000.0,
+      "sharesOutstanding": 181400000.0,
+      "grossMargin": 0.48829763744756016,
+      "operatingMargin": 0.18690660189887393,
+      "netMargin": 0.153124310002208,
+      "roe": 0.3894317160826595,
+      "roic": 0.24548684115130864
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 8264000000.0,
+      "operatingIncome": 1192000000.0,
+      "netIncome": 953000000.0,
+      "eps": 8.28,
+      "freeCashFlow": 639000000.0,
+      "totalDebt": 4085000000.0,
+      "cash": 471000000.0,
+      "sharesOutstanding": 181367383.0,
+      "grossMargin": 0.46599709583736687,
+      "operatingMargin": 0.1442400774443369,
+      "netMargin": 0.11531945788964182,
+      "roe": 0.2724413950829045,
+      "roic": 0.15719372280100224
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 8342000000.0,
+      "operatingIncome": 1423000000.0,
+      "netIncome": 869000000.0,
+      "eps": 7.67,
+      "freeCashFlow": 1358000000.0,
+      "totalDebt": 3647000000.0,
+      "cash": 468000000.0,
+      "sharesOutstanding": 141434397.0,
+      "grossMargin": 0.48141932390314074,
+      "operatingMargin": 0.17058259410213378,
+      "netMargin": 0.10417166147206905,
+      "roe": 0.2378215654077723,
+      "roic": 0.19490480756060813
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:15.779490+00:00"
+  }
+}

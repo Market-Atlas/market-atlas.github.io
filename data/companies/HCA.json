@@ -1,0 +1,128 @@
+{
+  "ticker": "HCA",
+  "name": "HCA Healthcare, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "USD",
+  "marketCap": {
+    "value": 83975241728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 378.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 75600000000.0,
+    "operatingIncome": 11965000000.0,
+    "netIncome": 6784000000.0,
+    "eps": 28.33,
+    "freeCashFlow": 7692000000.0,
+    "totalDebt": 48697000000.0,
+    "cash": 1040000000.0,
+    "sharesOutstanding": 224605100.0
+  },
+  "ratios": {
+    "roe": -1.1256014600962336,
+    "roic": 0.28040778064213734,
+    "grossMargin": 0.415,
+    "operatingMargin": 0.15826719576719578,
+    "netMargin": 0.08973544973544974,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 60233000000.0,
+      "operatingIncome": 9053000000.0,
+      "netIncome": 5643000000.0,
+      "eps": 19.15,
+      "freeCashFlow": 4127000000.0,
+      "totalDebt": 40200000000.0,
+      "cash": 908000000.0,
+      "sharesOutstanding": 277378300.0,
+      "grossMargin": 0.384789069114937,
+      "operatingMargin": 0.15029966961632327,
+      "netMargin": 0.09368618531369848,
+      "roe": -2.039392844235634,
+      "roic": 0.2418454305024978
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 64968000000.0,
+      "operatingIncome": 9627000000.0,
+      "netIncome": 5242000000.0,
+      "eps": 18.97,
+      "freeCashFlow": 4687000000.0,
+      "totalDebt": 41859000000.0,
+      "cash": 935000000.0,
+      "sharesOutstanding": 265537300.0,
+      "grossMargin": 0.3937169067848787,
+      "operatingMargin": 0.148180642777983,
+      "netMargin": 0.0806858761236301,
+      "roe": -2.9549041713641486,
+      "roic": 0.2401646501184982
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 70603000000.0,
+      "operatingIncome": 10547000000.0,
+      "netIncome": 5760000000.0,
+      "eps": 22.0,
+      "freeCashFlow": 5639000000.0,
+      "totalDebt": 45237000000.0,
+      "cash": 1933000000.0,
+      "sharesOutstanding": 249981400.0,
+      "grossMargin": 0.40618670594733935,
+      "operatingMargin": 0.1493845870572072,
+      "netMargin": 0.08158293556931008,
+      "roe": -2.304921968787515,
+      "roic": 0.24678272263559362
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 75600000000.0,
+      "operatingIncome": 11965000000.0,
+      "netIncome": 6784000000.0,
+      "eps": 28.33,
+      "freeCashFlow": 7692000000.0,
+      "totalDebt": 48697000000.0,
+      "cash": 1040000000.0,
+      "sharesOutstanding": 224605100.0,
+      "grossMargin": 0.415,
+      "operatingMargin": 0.15826719576719578,
+      "netMargin": 0.08973544973544974,
+      "roe": -1.1256014600962336,
+      "roic": 0.28040778064213734
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:33.880928+00:00"
+  }
+}

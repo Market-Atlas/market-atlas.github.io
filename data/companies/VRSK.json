@@ -1,0 +1,128 @@
+{
+  "ticker": "VRSK",
+  "name": "Verisk Analytics, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22927511552.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 174.99,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3072700000.0,
+    "operatingIncome": 1343900000.0,
+    "netIncome": 908300000.0,
+    "eps": 6.48,
+    "freeCashFlow": 1191900000.0,
+    "totalDebt": 4900400000.0,
+    "cash": 2178200000.0,
+    "sharesOutstanding": 544003038.0
+  },
+  "ratios": {
+    "roe": 2.9394822006472494,
+    "roic": 0.2579759665220563,
+    "grossMargin": 0.6987991017671754,
+    "operatingMargin": 0.43736778728805287,
+    "netMargin": 0.29560321541315454,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2497000000.0,
+      "operatingIncome": 1406500000.0,
+      "netIncome": 954300000.0,
+      "eps": 6.0,
+      "freeCashFlow": 784300000.0,
+      "totalDebt": 3955500000.0,
+      "cash": 112500000.0,
+      "sharesOutstanding": 544003038.0,
+      "grossMargin": 0.6697637164597517,
+      "operatingMargin": 0.5632759311173408,
+      "netMargin": 0.3821786143372046,
+      "roe": 0.5455324987137712,
+      "roic": 0.24654676763427288
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2681400000.0,
+      "operatingIncome": 1131700000.0,
+      "netIncome": 614400000.0,
+      "eps": 4.17,
+      "freeCashFlow": 830700000.0,
+      "totalDebt": 3095400000.0,
+      "cash": 302700000.0,
+      "sharesOutstanding": 544003038.0,
+      "grossMargin": 0.6731185201760275,
+      "operatingMargin": 0.42205564257477435,
+      "netMargin": 0.22913403445961064,
+      "roe": 1.9819354838709677,
+      "roic": 0.3323251306748106
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2881700000.0,
+      "operatingIncome": 1253900000.0,
+      "netIncome": 957500000.0,
+      "eps": 6.71,
+      "freeCashFlow": 920100000.0,
+      "totalDebt": 3245800000.0,
+      "cash": 291200000.0,
+      "sharesOutstanding": 544003038.0,
+      "grossMargin": 0.6873026338619564,
+      "operatingMargin": 0.43512509976749836,
+      "netMargin": 0.3322691466842489,
+      "roe": 9.565434565434565,
+      "roic": 0.3747571654861173
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3072700000.0,
+      "operatingIncome": 1343900000.0,
+      "netIncome": 908300000.0,
+      "eps": 6.48,
+      "freeCashFlow": 1191900000.0,
+      "totalDebt": 4900400000.0,
+      "cash": 2178200000.0,
+      "sharesOutstanding": 544003038.0,
+      "grossMargin": 0.6987991017671754,
+      "operatingMargin": 0.43736778728805287,
+      "netMargin": 0.29560321541315454,
+      "roe": 2.9394822006472494,
+      "roic": 0.2579759665220563
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:35.387468+00:00"
+  }
+}

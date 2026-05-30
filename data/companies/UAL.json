@@ -1,0 +1,128 @@
+{
+  "ticker": "UAL",
+  "name": "United Airlines Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "USD",
+  "marketCap": {
+    "value": 37260607488.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 114.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 59070000000.0,
+    "operatingIncome": 4972000000.0,
+    "netIncome": 3353000000.0,
+    "eps": 10.2,
+    "freeCashFlow": 2557000000.0,
+    "totalDebt": 31036000000.0,
+    "cash": 5942000000.0,
+    "sharesOutstanding": 323470682.0
+  },
+  "ratios": {
+    "roe": 0.21940845439078654,
+    "roic": 0.10734487672179283,
+    "grossMargin": 0.2877941425427459,
+    "operatingMargin": 0.08417132216014897,
+    "netMargin": 0.05676316234975453,
+    "debtToEquity": 1.95081
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 44955000000.0,
+      "operatingIncome": 2477000000.0,
+      "netIncome": 737000000.0,
+      "eps": 2.23,
+      "freeCashFlow": 1247000000.0,
+      "totalDebt": 36433000000.0,
+      "cash": 7166000000.0,
+      "sharesOutstanding": 326930321.0,
+      "grossMargin": 0.23668112557001447,
+      "operatingMargin": 0.05509954398843288,
+      "netMargin": 0.016394171949727504,
+      "roe": 0.10687354988399073,
+      "roic": 0.05716725518705717
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 53717000000.0,
+      "operatingIncome": 5160000000.0,
+      "netIncome": 2618000000.0,
+      "eps": 7.89,
+      "freeCashFlow": -260000000.0,
+      "totalDebt": 36739000000.0,
+      "cash": 6058000000.0,
+      "sharesOutstanding": 328018739.0,
+      "grossMargin": 0.28294580858945956,
+      "operatingMargin": 0.09605897574324701,
+      "netMargin": 0.048736898933298585,
+      "roe": 0.2807807807807808,
+      "roic": 0.11202049367171048
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 57063000000.0,
+      "operatingIncome": 5208000000.0,
+      "netIncome": 3149000000.0,
+      "eps": 9.45,
+      "freeCashFlow": 3830000000.0,
+      "totalDebt": 33633000000.0,
+      "cash": 8769000000.0,
+      "sharesOutstanding": 327899771.0,
+      "grossMargin": 0.28901389692094703,
+      "operatingMargin": 0.09126754639608853,
+      "netMargin": 0.055184620507158756,
+      "roe": 0.24844181459566075,
+      "roic": 0.1124643690075149
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 59070000000.0,
+      "operatingIncome": 4972000000.0,
+      "netIncome": 3353000000.0,
+      "eps": 10.2,
+      "freeCashFlow": 2557000000.0,
+      "totalDebt": 31036000000.0,
+      "cash": 5942000000.0,
+      "sharesOutstanding": 323470682.0,
+      "grossMargin": 0.2877941425427459,
+      "operatingMargin": 0.08417132216014897,
+      "netMargin": 0.05676316234975453,
+      "roe": 0.21940845439078654,
+      "roic": 0.10734487672179283
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:31.448708+00:00"
+  }
+}

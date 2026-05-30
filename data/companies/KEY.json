@@ -1,0 +1,128 @@
+{
+  "ticker": "KEY",
+  "name": "KeyCorp",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23126534144.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 21.33,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7285000000.0,
+    "operatingIncome": null,
+    "netIncome": 1829000000.0,
+    "eps": 1.52,
+    "freeCashFlow": 2101000000.0,
+    "totalDebt": 10988000000.0,
+    "cash": 1287000000.0,
+    "sharesOutstanding": 1256702081.0
+  },
+  "ratios": {
+    "roe": 0.08974044453167165,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.35779998,
+    "netMargin": 0.251063829787234,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7026000000.0,
+      "operatingIncome": null,
+      "netIncome": 1917000000.0,
+      "eps": 1.93,
+      "freeCashFlow": 4361000000.0,
+      "totalDebt": 24693000000.0,
+      "cash": 887000000.0,
+      "sharesOutstanding": 1256702081.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.27284372331340734,
+      "roe": 0.14248550616916902,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6215000000.0,
+      "operatingIncome": null,
+      "netIncome": 967000000.0,
+      "eps": 0.88,
+      "freeCashFlow": 2761000000.0,
+      "totalDebt": 22607000000.0,
+      "cash": 941000000.0,
+      "sharesOutstanding": 1256702081.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15559131134352372,
+      "roe": 0.0660654505704721,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4396000000.0,
+      "operatingIncome": null,
+      "netIncome": -161000000.0,
+      "eps": -0.32,
+      "freeCashFlow": 599000000.0,
+      "totalDebt": 14235000000.0,
+      "cash": 1743000000.0,
+      "sharesOutstanding": 1256702081.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.03662420382165605,
+      "roe": -0.008857834507042254,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7285000000.0,
+      "operatingIncome": null,
+      "netIncome": 1829000000.0,
+      "eps": 1.52,
+      "freeCashFlow": 2101000000.0,
+      "totalDebt": 10988000000.0,
+      "cash": 1287000000.0,
+      "sharesOutstanding": 1256702081.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.251063829787234,
+      "roe": 0.08974044453167165,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:44.959559+00:00"
+  }
+}

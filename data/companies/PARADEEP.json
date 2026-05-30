@@ -1,0 +1,128 @@
+{
+  "ticker": "PARADEEP",
+  "name": "Paradeep Phosphates Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 130767970304.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 125.96,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 218263400000.0,
+    "operatingIncome": 17490700000.0,
+    "netIncome": 9963500000.0,
+    "eps": 9.59,
+    "freeCashFlow": -18796600000.0,
+    "totalDebt": 69062800000.0,
+    "cash": 3634500000.0,
+    "sharesOutstanding": 1038170594.0
+  },
+  "ratios": {
+    "roe": 0.1468966452689653,
+    "roic": 0.12777249370659818,
+    "grossMargin": 0.26086645768369776,
+    "operatingMargin": 0.08013574424296516,
+    "netMargin": 0.045648972754937386,
+    "debtToEquity": 1.0182200000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 47698791000.0,
+      "operatingIncome": 7962675000.0,
+      "netIncome": 3041926000.0,
+      "eps": 3.9,
+      "freeCashFlow": -28128565000.0,
+      "totalDebt": 46479142000.0,
+      "cash": 430342000.0,
+      "sharesOutstanding": 814497619.0,
+      "grossMargin": -1.2619853404670152,
+      "operatingMargin": 0.16693662109800644,
+      "netMargin": 0.06377364994429313,
+      "roe": 0.08679556035330019,
+      "roic": 0.09767017742095437
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 56433103000.0,
+      "operatingIncome": 5205603000.0,
+      "netIncome": 999092000.0,
+      "eps": 1.22,
+      "freeCashFlow": 10252555000.0,
+      "totalDebt": 40137072000.0,
+      "cash": 907179000.0,
+      "sharesOutstanding": 814739453.0,
+      "grossMargin": -0.6283842127199704,
+      "operatingMargin": 0.09224378464533485,
+      "netMargin": 0.017704006104360414,
+      "roe": 0.02802973773903777,
+      "roic": 0.0686926536392537
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 169586500000.0,
+      "operatingIncome": 12367300000.0,
+      "netIncome": 6621300000.0,
+      "eps": 6.38,
+      "freeCashFlow": 11902200000.0,
+      "totalDebt": 43584726000.0,
+      "cash": 8737267000.0,
+      "sharesOutstanding": 815210093.0,
+      "grossMargin": 0.29747945738605375,
+      "operatingMargin": 0.07292620580057965,
+      "netMargin": 0.03904379181125856,
+      "roe": 0.16241080595893348,
+      "roic": 0.14661265353752387
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 218263400000.0,
+      "operatingIncome": 17490700000.0,
+      "netIncome": 9963500000.0,
+      "eps": 9.59,
+      "freeCashFlow": -18796600000.0,
+      "totalDebt": 69062800000.0,
+      "cash": 3634500000.0,
+      "sharesOutstanding": 1038170594.0,
+      "grossMargin": 0.26086645768369776,
+      "operatingMargin": 0.08013574424296516,
+      "netMargin": 0.045648972754937386,
+      "roe": 0.1468966452689653,
+      "roic": 0.12777249370659818
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:38.680476+00:00"
+  }
+}

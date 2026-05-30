@@ -1,0 +1,128 @@
+{
+  "ticker": "IBKR",
+  "name": "Interactive Brokers Group, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "USD",
+  "marketCap": {
+    "value": 147854065664.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 86.97,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10222000000.0,
+    "operatingIncome": 8789000000.0,
+    "netIncome": 984000000.0,
+    "eps": 2.22,
+    "freeCashFlow": 15744000000.0,
+    "totalDebt": 19000000.0,
+    "cash": 4963000000.0,
+    "sharesOutstanding": 446131005.0
+  },
+  "ratios": {
+    "roe": 0.18347939586052583,
+    "roic": 1.6330360460795244,
+    "grossMargin": 0.8976716885149677,
+    "operatingMargin": 0.8598121698297789,
+    "netMargin": 0.09626296223830953,
+    "debtToEquity": 1.5219200000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4192000000.0,
+      "operatingIncome": 3126000000.0,
+      "netIncome": 380000000.0,
+      "eps": 0.9375,
+      "freeCashFlow": 3899000000.0,
+      "totalDebt": 18000000.0,
+      "cash": 3436000000.0,
+      "sharesOutstanding": 412228992.0,
+      "grossMargin": 0.8144083969465649,
+      "operatingMargin": 0.745706106870229,
+      "netMargin": 0.09064885496183206,
+      "roe": 0.13342696629213482,
+      "roic": 1.090718771807397
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7787000000.0,
+      "operatingIncome": 6523000000.0,
+      "netIncome": 600000000.0,
+      "eps": 1.4175,
+      "freeCashFlow": 4495000000.0,
+      "totalDebt": 17000000.0,
+      "cash": 3753000000.0,
+      "sharesOutstanding": 428716112.0,
+      "grossMargin": 0.8827533067933736,
+      "operatingMargin": 0.8376781815846924,
+      "netMargin": 0.07705149608321561,
+      "roe": 0.16741071428571427,
+      "roic": 1.8114412663149124
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9316000000.0,
+      "operatingIncome": 7841000000.0,
+      "netIncome": 755000000.0,
+      "eps": 1.7325,
+      "freeCashFlow": 8675000000.0,
+      "totalDebt": 14000000.0,
+      "cash": 3633000000.0,
+      "sharesOutstanding": 436244636.0,
+      "grossMargin": 0.8904036066981537,
+      "operatingMargin": 0.8416702447402319,
+      "netMargin": 0.08104336625161013,
+      "roe": 0.1764018691588785,
+      "roic": 1.8260363297624593
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10222000000.0,
+      "operatingIncome": 8789000000.0,
+      "netIncome": 984000000.0,
+      "eps": 2.22,
+      "freeCashFlow": 15744000000.0,
+      "totalDebt": 19000000.0,
+      "cash": 4963000000.0,
+      "sharesOutstanding": 446131005.0,
+      "grossMargin": 0.8976716885149677,
+      "operatingMargin": 0.8598121698297789,
+      "netMargin": 0.09626296223830953,
+      "roe": 0.18347939586052583,
+      "roic": 1.6330360460795244
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.215189+00:00"
+  }
+}

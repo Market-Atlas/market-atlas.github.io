@@ -1,0 +1,128 @@
+{
+  "ticker": "APD",
+  "name": "Air Products and Chemicals, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 62043291648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 278.62,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12037300000.0,
+    "operatingIncome": 2889000000.0,
+    "netIncome": -394500000.0,
+    "eps": -1.77,
+    "freeCashFlow": -3765800000.0,
+    "totalDebt": 18406200000.0,
+    "cash": 1856000000.0,
+    "sharesOutstanding": 249455584.0
+  },
+  "ratios": {
+    "roe": -0.02625641435217539,
+    "roic": 0.08641654028733724,
+    "grossMargin": 0.3141319066568084,
+    "operatingMargin": 0.24000398760519387,
+    "netMargin": -0.03277313018700207,
+    "debtToEquity": 1.01611
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 12698600000.0,
+      "operatingIncome": 2412500000.0,
+      "netIncome": 2256100000.0,
+      "eps": 10.14,
+      "freeCashFlow": 303700000.0,
+      "totalDebt": 8326900000.0,
+      "cash": 2711000000.0,
+      "sharesOutstanding": 249455584.0,
+      "grossMargin": 0.2646039720914117,
+      "operatingMargin": 0.1899815727718016,
+      "netMargin": 0.17766525443749703,
+      "roe": 0.17164485696895923,
+      "roic": 0.11236138214979344
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 12600000000.0,
+      "operatingIncome": 2739200000.0,
+      "netIncome": 2300200000.0,
+      "eps": 10.33,
+      "freeCashFlow": -1420100000.0,
+      "totalDebt": 11031600000.0,
+      "cash": 1617000000.0,
+      "sharesOutstanding": 249455584.0,
+      "grossMargin": 0.298968253968254,
+      "operatingMargin": 0.2173968253968254,
+      "netMargin": 0.18255555555555555,
+      "roe": 0.1607081723480217,
+      "roic": 0.10807867584683067
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 12100600000.0,
+      "operatingIncome": 2947500000.0,
+      "netIncome": 3828200000.0,
+      "eps": 17.18,
+      "freeCashFlow": -3150000000.0,
+      "totalDebt": 15006100000.0,
+      "cash": 2979700000.0,
+      "sharesOutstanding": 249455584.0,
+      "grossMargin": 0.3249343007784738,
+      "operatingMargin": 0.2435829628282895,
+      "netMargin": 0.3163644777944895,
+      "roe": 0.22470577876911338,
+      "roic": 0.0919869174161897
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 12037300000.0,
+      "operatingIncome": 2889000000.0,
+      "netIncome": -394500000.0,
+      "eps": -1.77,
+      "freeCashFlow": -3765800000.0,
+      "totalDebt": 18406200000.0,
+      "cash": 1856000000.0,
+      "sharesOutstanding": 249455584.0,
+      "grossMargin": 0.3141319066568084,
+      "operatingMargin": 0.24000398760519387,
+      "netMargin": -0.03277313018700207,
+      "roe": -0.02625641435217539,
+      "roic": 0.08641654028733724
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:45.583964+00:00"
+  }
+}

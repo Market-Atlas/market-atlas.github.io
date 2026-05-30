@@ -1,0 +1,128 @@
+{
+  "ticker": "SJVN",
+  "name": "SJVN Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "INR",
+  "marketCap": {
+    "value": 295363411968.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.16,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 45282900000.0,
+    "operatingIncome": 23076100000.0,
+    "netIncome": 6420800000.0,
+    "eps": 1.63,
+    "freeCashFlow": -38394500000.0,
+    "totalDebt": 322784900000.0,
+    "cash": 11002600000.0,
+    "sharesOutstanding": 3929795175.0
+  },
+  "ratios": {
+    "roe": 0.04509356099232803,
+    "roic": 0.04960753336444718,
+    "grossMargin": 0.9364572498669476,
+    "operatingMargin": 0.5095985460295167,
+    "netMargin": 0.1417930388733937,
+    "debtToEquity": 2.2652799999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 28206700000.0,
+      "operatingIncome": 17708500000.0,
+      "netIncome": 13593000000.0,
+      "eps": 3.46,
+      "freeCashFlow": -52373800000.0,
+      "totalDebt": 140593400000.0,
+      "cash": 3316500000.0,
+      "sharesOutstanding": 3929795175.0,
+      "grossMargin": 0.9650224946555251,
+      "operatingMargin": 0.6278118319406382,
+      "netMargin": 0.48190678101302176,
+      "roe": 0.09807684814936138,
+      "roic": 0.06342840400474517
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25674600000.0,
+      "operatingIncome": 12906700000.0,
+      "netIncome": 9114400000.0,
+      "eps": 2.32,
+      "freeCashFlow": -43401500000.0,
+      "totalDebt": 203232000000.0,
+      "cash": 3447600000.0,
+      "sharesOutstanding": 3929795175.0,
+      "grossMargin": 0.9417478753320402,
+      "operatingMargin": 0.5027030606124341,
+      "netMargin": 0.3549967672329851,
+      "roe": 0.0647750491263854,
+      "roic": 0.03752596742750563
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 30720100000.0,
+      "operatingIncome": 15448700000.0,
+      "netIncome": 8196600000.0,
+      "eps": 2.08,
+      "freeCashFlow": -41858100000.0,
+      "totalDebt": 270251900000.0,
+      "cash": 3564900000.0,
+      "sharesOutstanding": 3929795175.0,
+      "grossMargin": 0.9755339338088093,
+      "operatingMargin": 0.5028857327938385,
+      "netMargin": 0.2668155377098382,
+      "roe": 0.05780945294509703,
+      "roic": 0.03749335013435641
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 45282900000.0,
+      "operatingIncome": 23076100000.0,
+      "netIncome": 6420800000.0,
+      "eps": 1.63,
+      "freeCashFlow": -38394500000.0,
+      "totalDebt": 322784900000.0,
+      "cash": 11002600000.0,
+      "sharesOutstanding": 3929795175.0,
+      "grossMargin": 0.9364572498669476,
+      "operatingMargin": 0.5095985460295167,
+      "netMargin": 0.1417930388733937,
+      "roe": 0.04509356099232803,
+      "roic": 0.04960753336444718
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:56.044566+00:00"
+  }
+}

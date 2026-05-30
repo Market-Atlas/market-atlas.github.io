@@ -1,0 +1,128 @@
+{
+  "ticker": "CGCL",
+  "name": "Capri Global Capital Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 190852857856.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 198.36,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 43488850000.0,
+    "operatingIncome": 10538330000.0,
+    "netIncome": 9491520000.0,
+    "eps": 10.12,
+    "freeCashFlow": -87874420000.0,
+    "totalDebt": 241120980000.0,
+    "cash": 20818110000.0,
+    "sharesOutstanding": 962153962.0
+  },
+  "ratios": {
+    "roe": 0.1317629812257409,
+    "roic": 0.0336520373342622,
+    "grossMargin": 0.33487871029010885,
+    "operatingMargin": 0.2423225723375072,
+    "netMargin": 0.21825180477294756,
+    "debtToEquity": 3.34728
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13257680000.0,
+      "operatingIncome": 2506150000.0,
+      "netIncome": 2046540000.0,
+      "eps": 2.54,
+      "freeCashFlow": -31380120000.0,
+      "totalDebt": 75113010000.0,
+      "cash": 14765140000.0,
+      "sharesOutstanding": 824611376.0,
+      "grossMargin": 0.32026568751093704,
+      "operatingMargin": 0.18903382793973003,
+      "netMargin": 0.15436637481067578,
+      "roe": 0.05739894869282164,
+      "roic": 0.022625284074315185
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 20821570000.0,
+      "operatingIncome": 3169720000.0,
+      "netIncome": 2794060000.0,
+      "eps": 3.36,
+      "freeCashFlow": -37663730000.0,
+      "totalDebt": 104069130000.0,
+      "cash": 6396490000.0,
+      "sharesOutstanding": 824939972.0,
+      "grossMargin": 0.24586282398493486,
+      "operatingMargin": 0.15223251656815504,
+      "netMargin": 0.1341906494082819,
+      "roe": 0.0728270303943366,
+      "roic": 0.022253826539477738
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 30184320000.0,
+      "operatingIncome": 5017300000.0,
+      "netIncome": 4785330000.0,
+      "eps": 5.77,
+      "freeCashFlow": -43780440000.0,
+      "totalDebt": 155768110000.0,
+      "cash": 15064480000.0,
+      "sharesOutstanding": 825116352.0,
+      "grossMargin": 0.28410644997137585,
+      "operatingMargin": 0.1662220649661811,
+      "netMargin": 0.1585369489854335,
+      "roe": 0.11118081214247727,
+      "roic": 0.02523677489981846
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 43488850000.0,
+      "operatingIncome": 10538330000.0,
+      "netIncome": 9491520000.0,
+      "eps": 10.12,
+      "freeCashFlow": -87874420000.0,
+      "totalDebt": 241120980000.0,
+      "cash": 20818110000.0,
+      "sharesOutstanding": 962153962.0,
+      "grossMargin": 0.33487871029010885,
+      "operatingMargin": 0.2423225723375072,
+      "netMargin": 0.21825180477294756,
+      "roe": 0.1317629812257409,
+      "roic": 0.0336520373342622
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:23.985424+00:00"
+  }
+}

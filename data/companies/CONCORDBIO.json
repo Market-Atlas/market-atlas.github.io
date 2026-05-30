@@ -1,0 +1,111 @@
+{
+  "ticker": "CONCORDBIO",
+  "name": "Concord Biotech Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "INR",
+  "marketCap": {
+    "value": 109972553728.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1051.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11798178000.0,
+    "operatingIncome": 4633469000.0,
+    "netIncome": 3716423000.0,
+    "eps": 35.52,
+    "freeCashFlow": 1333447000.0,
+    "totalDebt": 29693000.0,
+    "cash": 9045000.0,
+    "sharesOutstanding": 104616204.0
+  },
+  "ratios": {
+    "roe": 0.20501942525517627,
+    "roic": 0.2551909833788515,
+    "grossMargin": 0.7307163868861786,
+    "operatingMargin": 0.3927275041959869,
+    "netMargin": 0.31499973979033036,
+    "debtToEquity": 0.0008799999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 7084400000.0,
+      "operatingIncome": 2361270000.0,
+      "netIncome": 1749290000.0,
+      "eps": 16.721023,
+      "freeCashFlow": 519700000.0,
+      "totalDebt": 624930000.0,
+      "cash": 6670000.0,
+      "sharesOutstanding": 104616204.0,
+      "grossMargin": 0.7488524081079555,
+      "operatingMargin": 0.3333055728078595,
+      "netMargin": 0.24692140477669244,
+      "roe": 0.15856177762791385,
+      "roic": 0.2025596285887815
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8306322000.0,
+      "operatingIncome": 3047457000.0,
+      "netIncome": 2400857000.0,
+      "eps": 22.949189,
+      "freeCashFlow": 1009170000.0,
+      "totalDebt": 315463000.0,
+      "cash": 34992000.0,
+      "sharesOutstanding": 104616204.0,
+      "grossMargin": 0.7627509504206555,
+      "operatingMargin": 0.36688404326246926,
+      "netMargin": 0.28903972179262977,
+      "roe": 0.18611258505312975,
+      "roic": 0.2305973869447727
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 9980573000.0,
+      "operatingIncome": 3862827000.0,
+      "netIncome": 3081032000.0,
+      "eps": 29.45,
+      "freeCashFlow": 1797786000.0,
+      "totalDebt": 97376000.0,
+      "cash": 151421000.0,
+      "sharesOutstanding": 104616204.0,
+      "grossMargin": 0.7579197106218251,
+      "operatingMargin": 0.3870345921020767,
+      "netMargin": 0.3087029171571612,
+      "roe": 0.20181712126358084,
+      "roic": 0.25142342427484393
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 11798178000.0,
+      "operatingIncome": 4633469000.0,
+      "netIncome": 3716423000.0,
+      "eps": 35.52,
+      "freeCashFlow": 1333447000.0,
+      "totalDebt": 29693000.0,
+      "cash": 9045000.0,
+      "sharesOutstanding": 104616204.0,
+      "grossMargin": 0.7307163868861786,
+      "operatingMargin": 0.3927275041959869,
+      "netMargin": 0.31499973979033036,
+      "roe": 0.20501942525517627,
+      "roic": 0.2551909833788515
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:28.302873+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "NAUKRI",
+  "name": "Info Edge (India) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "INR",
+  "marketCap": {
+    "value": 644498718720.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 995.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32847320000.0,
+    "operatingIncome": 10496370000.0,
+    "netIncome": 14498140000.0,
+    "eps": null,
+    "freeCashFlow": 10013970000.0,
+    "totalDebt": 2585300000.0,
+    "cash": 3654170000.0,
+    "sharesOutstanding": 648420600.0
+  },
+  "ratios": {
+    "roe": 0.03824041658598882,
+    "roic": 0.02749780642252867,
+    "grossMargin": 0.9717882615689803,
+    "operatingMargin": 0.3195502707679044,
+    "netMargin": 0.4413796924680613,
+    "debtToEquity": 0.0064
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 197.116,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 23456910000.0,
+      "operatingIncome": 5063680000.0,
+      "netIncome": -1074100000.0,
+      "eps": -1.668,
+      "freeCashFlow": 4539480000.0,
+      "totalDebt": 1076490000.0,
+      "cash": 3612950000.0,
+      "sharesOutstanding": 645920600.0,
+      "grossMargin": 0.9729857854252756,
+      "operatingMargin": 0.21587157046686883,
+      "netMargin": -0.045790344934605626,
+      "roe": -0.008016853828594425,
+      "roic": 0.03749298535511707
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25363400000.0,
+      "operatingIncome": 7406260000.0,
+      "netIncome": 5752080000.0,
+      "eps": 8.88,
+      "freeCashFlow": 6726040000.0,
+      "totalDebt": 2463860000.0,
+      "cash": 3318960000.0,
+      "sharesOutstanding": 646920600.0,
+      "grossMargin": 0.9705453527523913,
+      "operatingMargin": 0.29200580363831347,
+      "netMargin": 0.2267866295528202,
+      "roe": 0.01900741751508503,
+      "roic": 0.02427591337375921
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28495510000.0,
+      "operatingIncome": 8716230000.0,
+      "netIncome": 9621400000.0,
+      "eps": 14.83,
+      "freeCashFlow": 7927660000.0,
+      "totalDebt": 2673460000.0,
+      "cash": 2629770000.0,
+      "sharesOutstanding": 647920600.0,
+      "grossMargin": 0.9725216358647379,
+      "operatingMargin": 0.30588082122411564,
+      "netMargin": 0.3376461765379879,
+      "roe": 0.027566062828527766,
+      "roic": 0.024782851538145363
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 32847320000.0,
+      "operatingIncome": 10496370000.0,
+      "netIncome": 14498140000.0,
+      "eps": null,
+      "freeCashFlow": 10013970000.0,
+      "totalDebt": 2585300000.0,
+      "cash": 3654170000.0,
+      "sharesOutstanding": 648420600.0,
+      "grossMargin": 0.9717882615689803,
+      "operatingMargin": 0.3195502707679044,
+      "netMargin": 0.4413796924680613,
+      "roe": 0.03824041658598882,
+      "roic": 0.02749780642252867
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:29.955266+00:00"
+  }
+}

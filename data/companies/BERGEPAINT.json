@@ -1,0 +1,128 @@
+{
+  "ticker": "BERGEPAINT",
+  "name": "Berger Paints India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 583701037056.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 500.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 118802500000.0,
+    "operatingIncome": 14412100000.0,
+    "netIncome": 11268700000.0,
+    "eps": 9.66,
+    "freeCashFlow": 10220700000.0,
+    "totalDebt": 6351300000.0,
+    "cash": 2072400000.0,
+    "sharesOutstanding": 1166002812.0
+  },
+  "ratios": {
+    "roe": 0.16293289918104845,
+    "roic": 0.19085613186621095,
+    "grossMargin": 0.4253269081037857,
+    "operatingMargin": 0.12131142021422107,
+    "netMargin": 0.09485238105258728,
+    "debtToEquity": 0.09165
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 104153800000.0,
+      "operatingIncome": 12721600000.0,
+      "netIncome": 8594200000.0,
+      "eps": 7.37,
+      "freeCashFlow": 2275300000.0,
+      "totalDebt": 11889700000.0,
+      "cash": 1161700000.0,
+      "sharesOutstanding": 1165706982.0,
+      "grossMargin": 0.3523875269073236,
+      "operatingMargin": 0.12214244703505776,
+      "netMargin": 0.08251451219254602,
+      "roe": 0.19123209883136186,
+      "roic": 0.22385005340404604
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 111002100000.0,
+      "operatingIncome": 15609300000.0,
+      "netIncome": 11677400000.0,
+      "eps": 10.02,
+      "freeCashFlow": 13160600000.0,
+      "totalDebt": 7532900000.0,
+      "cash": 2402600000.0,
+      "sharesOutstanding": 1165796049.0,
+      "grossMargin": 0.3996834294125967,
+      "operatingMargin": 0.14062166391446648,
+      "netMargin": 0.10519981153509708,
+      "roe": 0.2170936071404005,
+      "roic": 0.2545440017220405
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 115447100000.0,
+      "operatingIncome": 15019000000.0,
+      "netIncome": 11804000000.0,
+      "eps": 10.12,
+      "freeCashFlow": 8396100000.0,
+      "totalDebt": 6702700000.0,
+      "cash": 2539500000.0,
+      "sharesOutstanding": 1165894779.0,
+      "grossMargin": 0.4142832518097033,
+      "operatingMargin": 0.1300942163120598,
+      "netMargin": 0.10224596373577162,
+      "roe": 0.19180708795762175,
+      "roic": 0.2200789230361191
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 118802500000.0,
+      "operatingIncome": 14412100000.0,
+      "netIncome": 11268700000.0,
+      "eps": 9.66,
+      "freeCashFlow": 10220700000.0,
+      "totalDebt": 6351300000.0,
+      "cash": 2072400000.0,
+      "sharesOutstanding": 1166002812.0,
+      "grossMargin": 0.4253269081037857,
+      "operatingMargin": 0.12131142021422107,
+      "netMargin": 0.09485238105258728,
+      "roe": 0.16293289918104845,
+      "roic": 0.19085613186621095
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:01.674914+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "APA",
+  "name": "APA Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12876920832.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 36.43,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8920000000.0,
+    "operatingIncome": 2750000000.0,
+    "netIncome": 1434000000.0,
+    "eps": null,
+    "freeCashFlow": 1779000000.0,
+    "totalDebt": 4590000000.0,
+    "cash": 516000000.0,
+    "sharesOutstanding": 492038127.0
+  },
+  "ratios": {
+    "roe": 0.23535204332840964,
+    "roic": 0.2574183281849668,
+    "grossMargin": 0.40560538116591927,
+    "operatingMargin": 0.30829596412556054,
+    "netMargin": 0.16076233183856503,
+    "debtToEquity": 0.61314
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.59,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11075000000.0,
+      "operatingIncome": 5082000000.0,
+      "netIncome": 3604000000.0,
+      "eps": 11.02,
+      "freeCashFlow": 2545000000.0,
+      "totalDebt": 5620000000.0,
+      "cash": 245000000.0,
+      "sharesOutstanding": 419869987.0,
+      "grossMargin": 0.5647855530474041,
+      "operatingMargin": 0.4588713318284424,
+      "netMargin": 0.3254176072234763,
+      "roe": 8.520094562647754,
+      "roic": 0.8409730266423961
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8279000000.0,
+      "operatingIncome": 3358000000.0,
+      "netIncome": 2855000000.0,
+      "eps": 9.25,
+      "freeCashFlow": 772000000.0,
+      "totalDebt": 5304000000.0,
+      "cash": 87000000.0,
+      "sharesOutstanding": 420595901.0,
+      "grossMargin": 0.5105689092885615,
+      "operatingMargin": 0.4056045416113057,
+      "netMargin": 0.34484841164391833,
+      "roe": 1.0753295668549905,
+      "roic": 0.4219123005402689
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9737000000.0,
+      "operatingIncome": 3199000000.0,
+      "netIncome": 804000000.0,
+      "eps": 2.27,
+      "freeCashFlow": 709000000.0,
+      "totalDebt": 6162000000.0,
+      "cash": 625000000.0,
+      "sharesOutstanding": 491579646.0,
+      "grossMargin": 0.44181986238061005,
+      "operatingMargin": 0.32854061826024444,
+      "netMargin": 0.08257163397350313,
+      "roe": 0.15227272727272728,
+      "roic": 0.27958398881314456
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8920000000.0,
+      "operatingIncome": 2750000000.0,
+      "netIncome": 1434000000.0,
+      "eps": null,
+      "freeCashFlow": 1779000000.0,
+      "totalDebt": 4590000000.0,
+      "cash": 516000000.0,
+      "sharesOutstanding": 492038127.0,
+      "grossMargin": 0.40560538116591927,
+      "operatingMargin": 0.30829596412556054,
+      "netMargin": 0.16076233183856503,
+      "roe": 0.23535204332840964,
+      "roic": 0.2574183281849668
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:44.513999+00:00"
+  }
+}

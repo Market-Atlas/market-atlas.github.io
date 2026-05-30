@@ -1,0 +1,128 @@
+{
+  "ticker": "SAIL",
+  "name": "Steel Authority of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 844155387904.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 204.37,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1108108400000.0,
+    "operatingIncome": 60123900000.0,
+    "netIncome": 33728000000.0,
+    "eps": null,
+    "freeCashFlow": 102812300000.0,
+    "totalDebt": 319277100000.0,
+    "cash": 286600000.0,
+    "sharesOutstanding": 4130525289.0
+  },
+  "ratios": {
+    "roe": 0.05588187928003038,
+    "roic": 0.06515123653078515,
+    "grossMargin": 0.5029197504504072,
+    "operatingMargin": 0.05425813936614866,
+    "netMargin": 0.030437455396962968,
+    "debtToEquity": 0.57763
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 29.64,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1037490400000.0,
+      "operatingIncome": 41093400000.0,
+      "netIncome": 21765300000.0,
+      "eps": 5.27,
+      "freeCashFlow": -92117900000.0,
+      "totalDebt": 307734300000.0,
+      "cash": 570900000.0,
+      "sharesOutstanding": 4130525289.0,
+      "grossMargin": 0.3538218763277231,
+      "operatingMargin": 0.03960846288312644,
+      "netMargin": 0.020978796526695574,
+      "roe": 0.03975639066266496,
+      "roic": 0.0480511599027597
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1045677400000.0,
+      "operatingIncome": 63385200000.0,
+      "netIncome": 30666700000.0,
+      "eps": 7.42,
+      "freeCashFlow": -17998100000.0,
+      "totalDebt": 363226500000.0,
+      "cash": 693800000.0,
+      "sharesOutstanding": 4130525289.0,
+      "grossMargin": 0.3686439048983941,
+      "operatingMargin": 0.06061640043095509,
+      "netMargin": 0.029327113696824662,
+      "roe": 0.05370585777326649,
+      "roic": 0.06784690036925253
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1024790600000.0,
+      "operatingIncome": 49955300000.0,
+      "netIncome": 23718200000.0,
+      "eps": 5.74,
+      "freeCashFlow": 36931500000.0,
+      "totalDebt": 369339400000.0,
+      "cash": 2915800000.0,
+      "sharesOutstanding": 4130525289.0,
+      "grossMargin": 0.5023647757893174,
+      "operatingMargin": 0.048746836670828166,
+      "netMargin": 0.023144435555907714,
+      "roe": 0.04026475576774436,
+      "roic": 0.0521238883112452
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1108108400000.0,
+      "operatingIncome": 60123900000.0,
+      "netIncome": 33728000000.0,
+      "eps": null,
+      "freeCashFlow": 102812300000.0,
+      "totalDebt": 319277100000.0,
+      "cash": 286600000.0,
+      "sharesOutstanding": 4130525289.0,
+      "grossMargin": 0.5029197504504072,
+      "operatingMargin": 0.05425813936614866,
+      "netMargin": 0.030437455396962968,
+      "roe": 0.05588187928003038,
+      "roic": 0.06515123653078515
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:51.175854+00:00"
+  }
+}

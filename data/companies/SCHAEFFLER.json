@@ -1,0 +1,111 @@
+{
+  "ticker": "SCHAEFFLER",
+  "name": "Schaeffler India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 645330960384.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4128.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 95500100000.0,
+    "operatingIncome": 14225800000.0,
+    "netIncome": 11503500000.0,
+    "eps": 73.6,
+    "freeCashFlow": 8262000000.0,
+    "totalDebt": 546700000.0,
+    "cash": 9638000000.0,
+    "sharesOutstanding": 156303670.0
+  },
+  "ratios": {
+    "roe": 0.19020463098300916,
+    "roic": 0.23310933155049543,
+    "grossMargin": 0.33974728822273487,
+    "operatingMargin": 0.1489611005642926,
+    "netMargin": 0.12045537125092015,
+    "debtToEquity": 0.00904
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 67418300000.0,
+      "operatingIncome": 10933200000.0,
+      "netIncome": 8792100000.0,
+      "eps": 56.3,
+      "freeCashFlow": 2674900000.0,
+      "totalDebt": 573800000.0,
+      "cash": 1660400000.0,
+      "sharesOutstanding": 156303670.0,
+      "grossMargin": 0.3321338568311571,
+      "operatingMargin": 0.16216961863470303,
+      "netMargin": 0.13041117916055434,
+      "roe": 0.20514011059520754,
+      "roic": 0.25172680554788085
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 71319300000.0,
+      "operatingIncome": 11030800000.0,
+      "netIncome": 8990200000.0,
+      "eps": 57.5,
+      "freeCashFlow": 3643600000.0,
+      "totalDebt": 511000000.0,
+      "cash": 697100000.0,
+      "sharesOutstanding": 156303670.0,
+      "grossMargin": 0.33392644066893534,
+      "operatingMargin": 0.15466781081698783,
+      "netMargin": 0.12605563991794647,
+      "roe": 0.18708730893691405,
+      "roic": 0.22713710632251954
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 81145900000.0,
+      "operatingIncome": 11643300000.0,
+      "netIncome": 9388600000.0,
+      "eps": 60.1,
+      "freeCashFlow": 958500000.0,
+      "totalDebt": 555300000.0,
+      "cash": 4639400000.0,
+      "sharesOutstanding": 156303670.0,
+      "grossMargin": 0.3288003460433614,
+      "operatingMargin": 0.14348599251471733,
+      "netMargin": 0.11570023870583726,
+      "roe": 0.17600005998766505,
+      "roic": 0.21601830069239847
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 95500100000.0,
+      "operatingIncome": 14225800000.0,
+      "netIncome": 11503500000.0,
+      "eps": 73.6,
+      "freeCashFlow": 8262000000.0,
+      "totalDebt": 546700000.0,
+      "cash": 9638000000.0,
+      "sharesOutstanding": 156303670.0,
+      "grossMargin": 0.33974728822273487,
+      "operatingMargin": 0.1489611005642926,
+      "netMargin": 0.12045537125092015,
+      "roe": 0.19020463098300916,
+      "roic": 0.23310933155049543
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:53.210630+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MAXHEALTH",
+  "name": "Max Healthcare Institute Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 939277549568.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 965.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 83734500000.0,
+    "operatingIncome": 17963000000.0,
+    "netIncome": 14424100000.0,
+    "eps": null,
+    "freeCashFlow": 1487900000.0,
+    "totalDebt": 34783600000.0,
+    "cash": 6658000000.0,
+    "sharesOutstanding": 973192502.0
+  },
+  "ratios": {
+    "roe": 0.13421975074976994,
+    "roic": 0.12627776891231557,
+    "grossMargin": 0.7862267046438446,
+    "operatingMargin": 0.2145232849064603,
+    "netMargin": 0.17225994064573144,
+    "debtToEquity": 0.32366999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.24,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 44889500000.0,
+      "operatingIncome": 10452400000.0,
+      "netIncome": 11035100000.0,
+      "eps": 11.36,
+      "freeCashFlow": 9485200000.0,
+      "totalDebt": 9082500000.0,
+      "cash": 13743300000.0,
+      "sharesOutstanding": 970922825.0,
+      "grossMargin": 0.7948072489112153,
+      "operatingMargin": 0.23284732509829692,
+      "netMargin": 0.24582808897403624,
+      "roe": 0.14892996778499215,
+      "roic": 0.12566243159281737
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 53094800000.0,
+      "operatingIncome": 12845700000.0,
+      "netIncome": 10576400000.0,
+      "eps": 10.84,
+      "freeCashFlow": 3357200000.0,
+      "totalDebt": 12945600000.0,
+      "cash": 9798400000.0,
+      "sharesOutstanding": 971912408.0,
+      "grossMargin": 0.7894426572847059,
+      "operatingMargin": 0.24193894694019,
+      "netMargin": 0.19919841491068804,
+      "roe": 0.12578762960654793,
+      "roic": 0.13239304523483153
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 70284600000.0,
+      "operatingIncome": 14893800000.0,
+      "netIncome": 10758800000.0,
+      "eps": 11.01,
+      "freeCashFlow": 4934800000.0,
+      "totalDebt": 30102900000.0,
+      "cash": 6615800000.0,
+      "sharesOutstanding": 972142053.0,
+      "grossMargin": 0.7898472780666035,
+      "operatingMargin": 0.21190701803809084,
+      "netMargin": 0.15307478451894155,
+      "roe": 0.11468872290096761,
+      "roic": 0.12019697913673942
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 83734500000.0,
+      "operatingIncome": 17963000000.0,
+      "netIncome": 14424100000.0,
+      "eps": null,
+      "freeCashFlow": 1487900000.0,
+      "totalDebt": 34783600000.0,
+      "cash": 6658000000.0,
+      "sharesOutstanding": 973192502.0,
+      "grossMargin": 0.7862267046438446,
+      "operatingMargin": 0.2145232849064603,
+      "netMargin": 0.17225994064573144,
+      "roe": 0.13421975074976994,
+      "roic": 0.12627776891231557
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:23.824294+00:00"
+  }
+}

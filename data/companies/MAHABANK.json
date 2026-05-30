@@ -1,0 +1,128 @@
+{
+  "ticker": "MAHABANK",
+  "name": "Bank of Maharashtra",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 609709522944.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 79.27,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 172075700000.0,
+    "operatingIncome": null,
+    "netIncome": 70168600000.0,
+    "eps": null,
+    "freeCashFlow": -117576300000.0,
+    "totalDebt": 352335800000.0,
+    "cash": 277456000000.0,
+    "sharesOutstanding": 7691554950.0
+  },
+  "ratios": {
+    "roe": 0.21119446290463945,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.5789,
+    "netMargin": 0.4077775072250178,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.73,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 102356244000.0,
+      "operatingIncome": null,
+      "netIncome": 26050025000.0,
+      "eps": 3.87,
+      "freeCashFlow": -17643699000.0,
+      "totalDebt": 102656577000.0,
+      "cash": 187536143000.0,
+      "sharesOutstanding": 6730496447.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25450352594024456,
+      "roe": 0.1649755527681082,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 119882419000.0,
+      "operatingIncome": null,
+      "netIncome": 40717799000.0,
+      "eps": 5.8,
+      "freeCashFlow": 113019461000.0,
+      "totalDebt": 77188550000.0,
+      "cash": 303117049000.0,
+      "sharesOutstanding": 7081373639.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33964779272597095,
+      "roe": 0.20491457509139172,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 151220300000.0,
+      "operatingIncome": null,
+      "netIncome": 55417800000.0,
+      "eps": 7.51,
+      "freeCashFlow": 71084300000.0,
+      "totalDebt": 238525150000.0,
+      "cash": 428036874000.0,
+      "sharesOutstanding": 7691554950.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.36647063919328293,
+      "roe": 0.19303973290572535,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 172075700000.0,
+      "operatingIncome": null,
+      "netIncome": 70168600000.0,
+      "eps": null,
+      "freeCashFlow": -117576300000.0,
+      "totalDebt": 352335800000.0,
+      "cash": 277456000000.0,
+      "sharesOutstanding": 7691554950.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4077775072250178,
+      "roe": 0.21119446290463945,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:22.514646+00:00"
+  }
+}

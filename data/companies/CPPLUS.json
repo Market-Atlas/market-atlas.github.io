@@ -1,0 +1,128 @@
+{
+  "ticker": "CPPLUS",
+  "name": "ADITYA INFOTECH LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 342178889728.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2903.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42208120000.0,
+    "operatingIncome": 5101110000.0,
+    "netIncome": 3679610000.0,
+    "eps": null,
+    "freeCashFlow": -1228450000.0,
+    "totalDebt": 1802600000.0,
+    "cash": 1652700000.0,
+    "sharesOutstanding": 117798084.0
+  },
+  "ratios": {
+    "roe": 0.1960516970658926,
+    "roic": 0.2479737418921724,
+    "grossMargin": 0.28759868954125417,
+    "operatingMargin": 0.12085612910501581,
+    "netMargin": 0.08717777527167758,
+    "debtToEquity": 0.08041000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 8.269019,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 22835880000.0,
+      "operatingIncome": 1559880000.0,
+      "netIncome": 1083110000.0,
+      "eps": 9.239828,
+      "freeCashFlow": 486460000.0,
+      "totalDebt": 4268680000.0,
+      "cash": 1476450000.0,
+      "sharesOutstanding": 117221884.0,
+      "grossMargin": 0.16839114586343945,
+      "operatingMargin": 0.06830829379029843,
+      "netMargin": 0.04743018442906514,
+      "roe": 0.3476029705321669,
+      "roic": 0.21123361797898876
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 27815920000.0,
+      "operatingIncome": 2086110000.0,
+      "netIncome": 1151720000.0,
+      "eps": 9.825128,
+      "freeCashFlow": -1992800000.0,
+      "totalDebt": 4362760000.0,
+      "cash": 394670000.0,
+      "sharesOutstanding": 117221884.0,
+      "grossMargin": 0.18322313265209275,
+      "operatingMargin": 0.07499698014662107,
+      "netMargin": 0.041405065875944426,
+      "roe": 0.27149824732620004,
+      "roic": 0.24243420861490902
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 31118720000.0,
+      "operatingIncome": 2162100000.0,
+      "netIncome": 3513690000.0,
+      "eps": 29.974693,
+      "freeCashFlow": 7180000.0,
+      "totalDebt": 4573100000.0,
+      "cash": 1359310000.0,
+      "sharesOutstanding": 117221884.0,
+      "grossMargin": 0.21512067334389076,
+      "operatingMargin": 0.0694790788310059,
+      "netMargin": 0.11291242056228534,
+      "roe": 0.3452691302754241,
+      "roic": 0.14658533658490946
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 42208120000.0,
+      "operatingIncome": 5101110000.0,
+      "netIncome": 3679610000.0,
+      "eps": null,
+      "freeCashFlow": -1228450000.0,
+      "totalDebt": 1802600000.0,
+      "cash": 1652700000.0,
+      "sharesOutstanding": 117798084.0,
+      "grossMargin": 0.28759868954125417,
+      "operatingMargin": 0.12085612910501581,
+      "netMargin": 0.08717777527167758,
+      "roe": 0.1960516970658926,
+      "roic": 0.2479737418921724
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:29.066211+00:00"
+  }
+}

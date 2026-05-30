@@ -1,0 +1,111 @@
+{
+  "ticker": "EMR",
+  "name": "Emerson Electric Co.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 80553582592.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 143.82,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18016000000.0,
+    "operatingIncome": 3532000000.0,
+    "netIncome": 2293000000.0,
+    "eps": 4.04,
+    "freeCashFlow": 2667000000.0,
+    "totalDebt": 13759000000.0,
+    "cash": 1544000000.0,
+    "sharesOutstanding": 953400000.0
+  },
+  "ratios": {
+    "roe": 0.1130559116457943,
+    "roic": 0.10375723392379778,
+    "grossMargin": 0.528363676731794,
+    "operatingMargin": 0.19604795737122557,
+    "netMargin": 0.12727575488454707,
+    "debtToEquity": 0.69182
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 13804000000.0,
+      "operatingIncome": 2356000000.0,
+      "netIncome": 3231000000.0,
+      "eps": 5.41,
+      "freeCashFlow": 2623000000.0,
+      "totalDebt": 10686000000.0,
+      "cash": 1804000000.0,
+      "sharesOutstanding": 953400000.0,
+      "grossMargin": 0.4568241089539264,
+      "operatingMargin": 0.17067516661837148,
+      "netMargin": 0.23406259055346276,
+      "roe": 0.3117522192203782,
+      "roic": 0.11192399049881235
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 15165000000.0,
+      "operatingIncome": 2759000000.0,
+      "netIncome": 13219000000.0,
+      "eps": 22.88,
+      "freeCashFlow": 274000000.0,
+      "totalDebt": 8561000000.0,
+      "cash": 8051000000.0,
+      "sharesOutstanding": 953400000.0,
+      "grossMargin": 0.48974612594790634,
+      "operatingMargin": 0.18193208044840092,
+      "netMargin": 0.8716782063963073,
+      "roe": 0.6389385663879357,
+      "roic": 0.09432478632478633
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 17492000000.0,
+      "operatingIncome": 2666000000.0,
+      "netIncome": 1968000000.0,
+      "eps": 3.43,
+      "freeCashFlow": 2913000000.0,
+      "totalDebt": 8356000000.0,
+      "cash": 3588000000.0,
+      "sharesOutstanding": 953400000.0,
+      "grossMargin": 0.5079464898239195,
+      "operatingMargin": 0.15241253144294534,
+      "netMargin": 0.11250857534873085,
+      "roe": 0.09095951192457016,
+      "roic": 0.08889037076553748
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 18016000000.0,
+      "operatingIncome": 3532000000.0,
+      "netIncome": 2293000000.0,
+      "eps": 4.04,
+      "freeCashFlow": 2667000000.0,
+      "totalDebt": 13759000000.0,
+      "cash": 1544000000.0,
+      "sharesOutstanding": 953400000.0,
+      "grossMargin": 0.528363676731794,
+      "operatingMargin": 0.19604795737122557,
+      "netMargin": 0.12727575488454707,
+      "roe": 0.1130559116457943,
+      "roic": 0.10375723392379778
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:17.982219+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ABFRL",
+  "name": "Aditya Birla Fashion and Retail Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 78590803968.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 64.61,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 81769200000.0,
+    "operatingIncome": -6528700000.0,
+    "netIncome": -7758900000.0,
+    "eps": null,
+    "freeCashFlow": -3480700000.0,
+    "totalDebt": 61891100000.0,
+    "cash": 669600000.0,
+    "sharesOutstanding": 1215865084.0
+  },
+  "ratios": {
+    "roe": -0.13287926481317197,
+    "roic": -0.054278414754696684,
+    "grossMargin": 0.5759882694217383,
+    "operatingMargin": -0.0798430215778068,
+    "netMargin": -0.09488780616662508,
+    "debtToEquity": 0.98822
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -1.18,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 123628700000.0,
+      "operatingIncome": 3380100000.0,
+      "netIncome": -360000000.0,
+      "eps": -0.38,
+      "freeCashFlow": -451200000.0,
+      "totalDebt": 65723500000.0,
+      "cash": 6926900000.0,
+      "sharesOutstanding": 948818850.0,
+      "grossMargin": 0.5482270702514869,
+      "operatingMargin": 0.027340738841385537,
+      "netMargin": -0.0029119452036622563,
+      "roe": -0.010767836472456771,
+      "roic": 0.03408857118652956
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 63853200000.0,
+      "operatingIncome": -6163100000.0,
+      "netIncome": -6280200000.0,
+      "eps": -6.52,
+      "freeCashFlow": 5943700000.0,
+      "totalDebt": 94502900000.0,
+      "cash": 4540300000.0,
+      "sharesOutstanding": 1015037645.0,
+      "grossMargin": 0.5124786228411419,
+      "operatingMargin": -0.09651982985974078,
+      "netMargin": -0.09835372385409032,
+      "roe": -0.15613144456764402,
+      "roic": -0.045745201211044285
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 73547300000.0,
+      "operatingIncome": -4899800000.0,
+      "netIncome": -3758200000.0,
+      "eps": -3.53,
+      "freeCashFlow": 10465600000.0,
+      "totalDebt": 50162400000.0,
+      "cash": 7668100000.0,
+      "sharesOutstanding": 1220260946.0,
+      "grossMargin": 0.5680235712255922,
+      "operatingMargin": -0.06662107242550032,
+      "netMargin": -0.05109908861372205,
+      "roe": -0.055168910934401225,
+      "roic": -0.04142399527916263
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 81769200000.0,
+      "operatingIncome": -6528700000.0,
+      "netIncome": -7758900000.0,
+      "eps": null,
+      "freeCashFlow": -3480700000.0,
+      "totalDebt": 61891100000.0,
+      "cash": 669600000.0,
+      "sharesOutstanding": 1215865084.0,
+      "grossMargin": 0.5759882694217383,
+      "operatingMargin": -0.0798430215778068,
+      "netMargin": -0.09488780616662508,
+      "roe": -0.13287926481317197,
+      "roic": -0.054278414754696684
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:45.901365+00:00"
+  }
+}

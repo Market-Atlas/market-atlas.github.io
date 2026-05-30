@@ -1,0 +1,128 @@
+{
+  "ticker": "WST",
+  "name": "West Pharmaceutical Services, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22805749760.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 322.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3074100000.0,
+    "operatingIncome": 636100000.0,
+    "netIncome": 493700000.0,
+    "eps": 6.79,
+    "freeCashFlow": 468900000.0,
+    "totalDebt": 321100000.0,
+    "cash": 791300000.0,
+    "sharesOutstanding": 75343412.0
+  },
+  "ratios": {
+    "roe": 0.15544710327455918,
+    "roic": 0.1818935689571359,
+    "grossMargin": 0.35912950131745874,
+    "operatingMargin": 0.20692235125727856,
+    "netMargin": 0.1605998503627078,
+    "debtToEquity": 0.10734
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2886900000.0,
+      "operatingIncome": 760800000.0,
+      "netIncome": 585900000.0,
+      "eps": 7.73,
+      "freeCashFlow": 439400000.0,
+      "totalDebt": 317900000.0,
+      "cash": 894300000.0,
+      "sharesOutstanding": 75300000.0,
+      "grossMargin": 0.39357095846756035,
+      "operatingMargin": 0.26353528005819393,
+      "netMargin": 0.20295126260002078,
+      "roe": 0.21822041789265895,
+      "roic": 0.2533635273744505
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2949800000.0,
+      "operatingIncome": 707400000.0,
+      "netIncome": 593400000.0,
+      "eps": 7.88,
+      "freeCashFlow": 414500000.0,
+      "totalDebt": 309000000.0,
+      "cash": 853900000.0,
+      "sharesOutstanding": 75300000.0,
+      "grossMargin": 0.3828056139399281,
+      "operatingMargin": 0.23981286866906232,
+      "netMargin": 0.20116618075801748,
+      "roe": 0.20597014925373133,
+      "roic": 0.22175548589341693
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2893200000.0,
+      "operatingIncome": 590900000.0,
+      "netIncome": 492700000.0,
+      "eps": 6.69,
+      "freeCashFlow": 276400000.0,
+      "totalDebt": 302300000.0,
+      "cash": 484600000.0,
+      "sharesOutstanding": 75300000.0,
+      "grossMargin": 0.34511959076455134,
+      "operatingMargin": 0.20423752246647311,
+      "netMargin": 0.17029586616894787,
+      "roe": 0.18368564291839093,
+      "roic": 0.1979829792937077
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3074100000.0,
+      "operatingIncome": 636100000.0,
+      "netIncome": 493700000.0,
+      "eps": 6.79,
+      "freeCashFlow": 468900000.0,
+      "totalDebt": 321100000.0,
+      "cash": 791300000.0,
+      "sharesOutstanding": 75343412.0,
+      "grossMargin": 0.35912950131745874,
+      "operatingMargin": 0.20692235125727856,
+      "netMargin": 0.1605998503627078,
+      "roe": 0.15544710327455918,
+      "roic": 0.1818935689571359
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:40.424099+00:00"
+  }
+}

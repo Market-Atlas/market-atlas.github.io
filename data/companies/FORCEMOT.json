@@ -1,0 +1,111 @@
+{
+  "ticker": "FORCEMOT",
+  "name": "Force Motors Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 256581353472.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 19473.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 80069200000.0,
+    "operatingIncome": 8178900000.0,
+    "netIncome": 8007400000.0,
+    "eps": 607.71,
+    "freeCashFlow": 6045700000.0,
+    "totalDebt": 174300000.0,
+    "cash": 5065500000.0,
+    "sharesOutstanding": 13176262.0
+  },
+  "ratios": {
+    "roe": 0.2639718074918492,
+    "roic": 0.26808506453917913,
+    "grossMargin": 0.2571887817038262,
+    "operatingMargin": 0.10214789207335655,
+    "netMargin": 0.10000599481448547,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 32072600000.0,
+      "operatingIncome": -1241900000.0,
+      "netIncome": -910800000.0,
+      "eps": -69.13,
+      "freeCashFlow": -3809700000.0,
+      "totalDebt": 10688200000.0,
+      "cash": 726000000.0,
+      "sharesOutstanding": 13176262.0,
+      "grossMargin": 0.1903057438436547,
+      "operatingMargin": -0.03872152553893354,
+      "netMargin": -0.028398071874434876,
+      "roe": -0.05210913855149411,
+      "roic": -0.04409075901146381
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 49809600000.0,
+      "operatingIncome": 1458800000.0,
+      "netIncome": 1336400000.0,
+      "eps": 101.43,
+      "freeCashFlow": 2722200000.0,
+      "totalDebt": 9547600000.0,
+      "cash": 1403700000.0,
+      "sharesOutstanding": 13176262.0,
+      "grossMargin": 0.206289550608718,
+      "operatingMargin": 0.02928752690244451,
+      "netMargin": 0.026830169284635892,
+      "roe": 0.07127352629024603,
+      "roic": 0.051551528558656294
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 69322900000.0,
+      "operatingIncome": 6431900000.0,
+      "netIncome": 3880900000.0,
+      "eps": 294.54,
+      "freeCashFlow": 8060700000.0,
+      "totalDebt": 5245000000.0,
+      "cash": 4481600000.0,
+      "sharesOutstanding": 13176262.0,
+      "grossMargin": 0.2533030210796144,
+      "operatingMargin": 0.0927817503306988,
+      "netMargin": 0.05598294358718403,
+      "roe": 0.17209131140417003,
+      "roic": 0.2313932739491445
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 80069200000.0,
+      "operatingIncome": 8178900000.0,
+      "netIncome": 8007400000.0,
+      "eps": 607.71,
+      "freeCashFlow": 6045700000.0,
+      "totalDebt": 174300000.0,
+      "cash": 5065500000.0,
+      "sharesOutstanding": 13176262.0,
+      "grossMargin": 0.2571887817038262,
+      "operatingMargin": 0.10214789207335655,
+      "netMargin": 0.10000599481448547,
+      "roe": 0.2639718074918492,
+      "roic": 0.26808506453917913
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:42.898389+00:00"
+  }
+}

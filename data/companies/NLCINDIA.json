@@ -1,0 +1,128 @@
+{
+  "ticker": "NLCINDIA",
+  "name": "NLC India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "INR",
+  "marketCap": {
+    "value": 481925562368.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 347.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 174895300000.0,
+    "operatingIncome": 32098600000.0,
+    "netIncome": 35222000000.0,
+    "eps": null,
+    "freeCashFlow": -27788700000.0,
+    "totalDebt": 278917800000.0,
+    "cash": 7114800000.0,
+    "sharesOutstanding": 1386636609.0
+  },
+  "ratios": {
+    "roe": 0.1636348094008946,
+    "roic": 0.0649551749272612,
+    "grossMargin": 0.8073853328248386,
+    "operatingMargin": 0.18353037503008943,
+    "netMargin": 0.20138905962595907,
+    "debtToEquity": 0.82
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.879281,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 161652400000.0,
+      "operatingIncome": 58429800000.0,
+      "netIncome": 13956800000.0,
+      "eps": 10.28,
+      "freeCashFlow": 15679500000.0,
+      "totalDebt": 223331400000.0,
+      "cash": 774800000.0,
+      "sharesOutstanding": 1386636609.0,
+      "grossMargin": 0.6715557579101826,
+      "operatingMargin": 0.3614533406246984,
+      "netMargin": 0.08633834078553736,
+      "roe": 0.09200967246012219,
+      "roic": 0.15580457351851823
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 130013300000.0,
+      "operatingIncome": 18948600000.0,
+      "netIncome": 18540800000.0,
+      "eps": 13.371059,
+      "freeCashFlow": 23443300000.0,
+      "totalDebt": 224154900000.0,
+      "cash": 5648700000.0,
+      "sharesOutstanding": 1386636609.0,
+      "grossMargin": 0.6471214868017349,
+      "operatingMargin": 0.14574355085210514,
+      "netMargin": 0.14260694867371262,
+      "roe": 0.11215742496695612,
+      "roic": 0.04865284566998763
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 152829600000.0,
+      "operatingIncome": 29559600000.0,
+      "netIncome": 26213600000.0,
+      "eps": 18.9,
+      "freeCashFlow": 16369400000.0,
+      "totalDebt": 224285800000.0,
+      "cash": 1869600000.0,
+      "sharesOutstanding": 1386636609.0,
+      "grossMargin": 0.8635807461381827,
+      "operatingMargin": 0.1934154116741783,
+      "netMargin": 0.17152174709611226,
+      "roe": 0.14000770176953764,
+      "roic": 0.07183107319165377
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 174895300000.0,
+      "operatingIncome": 32098600000.0,
+      "netIncome": 35222000000.0,
+      "eps": null,
+      "freeCashFlow": -27788700000.0,
+      "totalDebt": 278917800000.0,
+      "cash": 7114800000.0,
+      "sharesOutstanding": 1386636609.0,
+      "grossMargin": 0.8073853328248386,
+      "operatingMargin": 0.18353037503008943,
+      "netMargin": 0.20138905962595907,
+      "roe": 0.1636348094008946,
+      "roic": 0.0649551749272612
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:33.575780+00:00"
+  }
+}

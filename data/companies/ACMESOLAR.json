@@ -1,0 +1,128 @@
+{
+  "ticker": "ACMESOLAR",
+  "name": "ACME Solar Holdings Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "INR",
+  "marketCap": {
+    "value": 187731116032.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 310.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20229590000.0,
+    "operatingIncome": 13134340000.0,
+    "netIncome": 4989150000.0,
+    "eps": 8.16,
+    "freeCashFlow": -40726130000.0,
+    "totalDebt": 198962940000.0,
+    "cash": 22309430000.0,
+    "sharesOutstanding": 605971804.0
+  },
+  "ratios": {
+    "roe": 0.09857093238699653,
+    "roic": 0.05262624362042515,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.6492637764779217,
+    "netMargin": 0.24662635278322498,
+    "debtToEquity": 3.93194
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12943970000.0,
+      "operatingIncome": 6887930000.0,
+      "netIncome": -31410000.0,
+      "eps": -0.051907,
+      "freeCashFlow": 4947000000.0,
+      "totalDebt": 90135510000.0,
+      "cash": 4031150000.0,
+      "sharesOutstanding": 605115540.0,
+      "grossMargin": 0.9561479206147727,
+      "operatingMargin": 0.5321342679255282,
+      "netMargin": -0.002426612546228089,
+      "roe": -0.0016526681830594408,
+      "roic": 0.0631102991960685
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13188540000.0,
+      "operatingIncome": 7932810000.0,
+      "netIncome": 6977980000.0,
+      "eps": 11.531649,
+      "freeCashFlow": -13885230000.0,
+      "totalDebt": 85363480000.0,
+      "cash": 3091590000.0,
+      "sharesOutstanding": 605115540.0,
+      "grossMargin": 0.9530334669341717,
+      "operatingMargin": 0.6014926595362338,
+      "netMargin": 0.5290941984480466,
+      "roe": 0.2693297113825516,
+      "roic": 0.07129195017945637
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14051310000.0,
+      "operatingIncome": 9481170000.0,
+      "netIncome": 2521080000.0,
+      "eps": 4.53,
+      "freeCashFlow": -17229740000.0,
+      "totalDebt": 109757290000.0,
+      "cash": 12517460000.0,
+      "sharesOutstanding": 605087781.0,
+      "grossMargin": 0.9636510759495022,
+      "operatingMargin": 0.6747534571509702,
+      "netMargin": 0.17941957013260684,
+      "roe": 0.05589259030989363,
+      "roic": 0.061222916319182315
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 20229590000.0,
+      "operatingIncome": 13134340000.0,
+      "netIncome": 4989150000.0,
+      "eps": 8.16,
+      "freeCashFlow": -40726130000.0,
+      "totalDebt": 198962940000.0,
+      "cash": 22309430000.0,
+      "sharesOutstanding": 605971804.0,
+      "grossMargin": null,
+      "operatingMargin": 0.6492637764779217,
+      "netMargin": 0.24662635278322498,
+      "roe": 0.09857093238699653,
+      "roic": 0.05262624362042515
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:47.892693+00:00"
+  }
+}

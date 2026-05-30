@@ -1,0 +1,128 @@
+{
+  "ticker": "IGIL",
+  "name": "International Gemological Institute Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "currency": "INR",
+  "marketCap": {
+    "value": 160676970496.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 371.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10531600000.0,
+    "operatingIncome": 5582530000.0,
+    "netIncome": 4272900000.0,
+    "eps": 10.28,
+    "freeCashFlow": 4387440000.0,
+    "totalDebt": 1426030000.0,
+    "cash": 983790000.0,
+    "sharesOutstanding": 432159696.0
+  },
+  "ratios": {
+    "roe": 0.30310252879825156,
+    "roic": 0.35962402178926567,
+    "grossMargin": 0.9570663526909492,
+    "operatingMargin": 0.530074252725132,
+    "netMargin": 0.40572182764252346,
+    "debtToEquity": 0.09594
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4840410000.0,
+      "operatingIncome": 3239560000.0,
+      "netIncome": 2417580000.0,
+      "eps": 5.594182,
+      "freeCashFlow": 1830290000.0,
+      "totalDebt": 267050000.0,
+      "cash": 340330000.0,
+      "sharesOutstanding": 432159696.0,
+      "grossMargin": 0.971983778233662,
+      "operatingMargin": 0.669273883823891,
+      "netMargin": 0.4994576905675346,
+      "roe": 0.712996906270921,
+      "roic": 0.8856628884186584
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8880100000.0,
+      "operatingIncome": 4586490000.0,
+      "netIncome": 3308440000.0,
+      "eps": 7.655596,
+      "freeCashFlow": 2475480000.0,
+      "totalDebt": 1505850000.0,
+      "cash": 1914330000.0,
+      "sharesOutstanding": 432159696.0,
+      "grossMargin": 0.949142464611885,
+      "operatingMargin": 0.5164908052837243,
+      "netMargin": 0.37256787648787737,
+      "roe": -0.5473833986863222,
+      "roic": -1.0106296479920673
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10531600000.0,
+      "operatingIncome": 5582530000.0,
+      "netIncome": 4272900000.0,
+      "eps": 10.28,
+      "freeCashFlow": 3538580000.0,
+      "totalDebt": 1450510000.0,
+      "cash": 1394880000.0,
+      "sharesOutstanding": 432159696.0,
+      "grossMargin": 0.9570663526909492,
+      "operatingMargin": 0.530074252725132,
+      "netMargin": 0.40572182764252346,
+      "roe": 0.402061069923378,
+      "roic": 0.4622064911409174
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10531600000.0,
+      "operatingIncome": 5582530000.0,
+      "netIncome": 4272900000.0,
+      "eps": 10.28,
+      "freeCashFlow": 4387440000.0,
+      "totalDebt": 1426030000.0,
+      "cash": 983790000.0,
+      "sharesOutstanding": 432159696.0,
+      "grossMargin": 0.9570663526909492,
+      "operatingMargin": 0.530074252725132,
+      "netMargin": 0.40572182764252346,
+      "roe": 0.30310252879825156,
+      "roic": 0.35962402178926567
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:58.448730+00:00"
+  }
+}

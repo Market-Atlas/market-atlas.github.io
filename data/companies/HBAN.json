@@ -1,0 +1,128 @@
+{
+  "ticker": "HBAN",
+  "name": "Huntington Bancshares Incorporated",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "USD",
+  "marketCap": {
+    "value": 33163857920.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16.36,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8131000000.0,
+    "operatingIncome": null,
+    "netIncome": 2211000000.0,
+    "eps": 1.39,
+    "freeCashFlow": 2215000000.0,
+    "totalDebt": 18460000000.0,
+    "cash": 14078000000.0,
+    "sharesOutstanding": 1574920047.0
+  },
+  "ratios": {
+    "roe": 0.0908306630515159,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.40698,
+    "netMargin": 0.2719222727831755,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7254000000.0,
+      "operatingIncome": null,
+      "netIncome": 2238000000.0,
+      "eps": 1.45,
+      "freeCashFlow": 3813000000.0,
+      "totalDebt": 11460000000.0,
+      "cash": 6918000000.0,
+      "sharesOutstanding": 1449390088.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30851943755169564,
+      "roe": 0.1262196153629237,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7360000000.0,
+      "operatingIncome": null,
+      "netIncome": 1951000000.0,
+      "eps": 1.24,
+      "freeCashFlow": 2517000000.0,
+      "totalDebt": 12396000000.0,
+      "cash": 10323000000.0,
+      "sharesOutstanding": 1455722961.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2650815217391304,
+      "roe": 0.10081124373482148,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7385000000.0,
+      "operatingIncome": null,
+      "netIncome": 1940000000.0,
+      "eps": 1.22,
+      "freeCashFlow": 1693000000.0,
+      "totalDebt": 16431000000.0,
+      "cash": 13332000000.0,
+      "sharesOutstanding": 1460619911.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2626946513202437,
+      "roe": 0.09827760891590678,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8131000000.0,
+      "operatingIncome": null,
+      "netIncome": 2211000000.0,
+      "eps": 1.39,
+      "freeCashFlow": 2215000000.0,
+      "totalDebt": 18460000000.0,
+      "cash": 14078000000.0,
+      "sharesOutstanding": 1574920047.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2719222727831755,
+      "roe": 0.0908306630515159,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:33.787202+00:00"
+  }
+}

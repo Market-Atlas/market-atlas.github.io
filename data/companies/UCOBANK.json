@@ -1,0 +1,111 @@
+{
+  "ticker": "UCOBANK",
+  "name": "UCO Bank",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 316122267648.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 25.21,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 123288658000.0,
+    "operatingIncome": null,
+    "netIncome": 27678587000.0,
+    "eps": 2.21,
+    "freeCashFlow": -111775507000.0,
+    "totalDebt": 183098185000.0,
+    "cash": 250687859000.0,
+    "sharesOutstanding": 12539558979.0
+  },
+  "ratios": {
+    "roe": 0.08324581174369458,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.41611,
+    "netMargin": 0.22450229768905425,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 98514175000.0,
+      "operatingIncome": null,
+      "netIncome": 18262851000.0,
+      "eps": 1.53,
+      "freeCashFlow": 26945740000.0,
+      "totalDebt": 205010800000.0,
+      "cash": 287281003000.0,
+      "sharesOutstanding": 11955958176.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18538297661224895,
+      "roe": 0.07132907587098979,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 108078302000.0,
+      "operatingIncome": null,
+      "netIncome": 16715468000.0,
+      "eps": 1.4,
+      "freeCashFlow": 6481259000.0,
+      "totalDebt": 211794409000.0,
+      "cash": 290253612000.0,
+      "sharesOutstanding": 11955958176.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15466071996578926,
+      "roe": 0.061422795049538494,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 114120137000.0,
+      "operatingIncome": null,
+      "netIncome": 24449893000.0,
+      "eps": 2.04,
+      "freeCashFlow": 15409768000.0,
+      "totalDebt": 236874853000.0,
+      "cash": 381075615000.0,
+      "sharesOutstanding": 12539558979.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21424696502073073,
+      "roe": 0.07885821640253564,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 123288658000.0,
+      "operatingIncome": null,
+      "netIncome": 27678587000.0,
+      "eps": 2.21,
+      "freeCashFlow": -111775507000.0,
+      "totalDebt": 183098185000.0,
+      "cash": 250687859000.0,
+      "sharesOutstanding": 12539558979.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22450229768905425,
+      "roe": 0.08324581174369458,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:11.074473+00:00"
+  }
+}

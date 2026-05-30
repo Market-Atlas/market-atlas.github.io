@@ -1,0 +1,111 @@
+{
+  "ticker": "URI",
+  "name": "United Rentals, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Rental & Leasing Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 62375297024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 995.67,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16099000000.0,
+    "operatingIncome": 3974000000.0,
+    "netIncome": 2494000000.0,
+    "eps": 38.61,
+    "freeCashFlow": 662000000.0,
+    "totalDebt": 15670000000.0,
+    "cash": 459000000.0,
+    "sharesOutstanding": 115354590.0
+  },
+  "ratios": {
+    "roe": 0.278099910793934,
+    "roic": 0.16129555970452147,
+    "grossMargin": 0.38163861109385677,
+    "operatingMargin": 0.24684763028759552,
+    "netMargin": 0.15491645443816385,
+    "debtToEquity": 1.67473
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11642000000.0,
+      "operatingIncome": 3232000000.0,
+      "netIncome": 2105000000.0,
+      "eps": 29.65,
+      "freeCashFlow": 743000000.0,
+      "totalDebt": 12223000000.0,
+      "cash": 106000000.0,
+      "sharesOutstanding": 114758508.0,
+      "grossMargin": 0.42913588730458685,
+      "operatingMargin": 0.2776155299776671,
+      "netMargin": 0.1808108572410239,
+      "roe": 0.2980741999433588,
+      "roic": 0.16759139227378791
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14332000000.0,
+      "operatingIncome": 3855000000.0,
+      "netIncome": 2424000000.0,
+      "eps": 35.28,
+      "freeCashFlow": 634000000.0,
+      "totalDebt": 12662000000.0,
+      "cash": 363000000.0,
+      "sharesOutstanding": 115010396.0,
+      "grossMargin": 0.4055958693831984,
+      "operatingMargin": 0.26897850962880265,
+      "netMargin": 0.1691320122802121,
+      "roe": 0.2981549815498155,
+      "roic": 0.18540784917275877
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15345000000.0,
+      "operatingIncome": 4068000000.0,
+      "netIncome": 2575000000.0,
+      "eps": 38.69,
+      "freeCashFlow": 419000000.0,
+      "totalDebt": 14789000000.0,
+      "cash": 457000000.0,
+      "sharesOutstanding": 115179350.0,
+      "grossMargin": 0.40078201368523947,
+      "operatingMargin": 0.26510263929618766,
+      "netMargin": 0.16780710329097426,
+      "roe": 0.298654604500116,
+      "roic": 0.17376446969373371
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16099000000.0,
+      "operatingIncome": 3974000000.0,
+      "netIncome": 2494000000.0,
+      "eps": 38.61,
+      "freeCashFlow": 662000000.0,
+      "totalDebt": 15670000000.0,
+      "cash": 459000000.0,
+      "sharesOutstanding": 115354590.0,
+      "grossMargin": 0.38163861109385677,
+      "operatingMargin": 0.24684763028759552,
+      "netMargin": 0.15491645443816385,
+      "roe": 0.278099910793934,
+      "roic": 0.16129555970452147
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:32.948345+00:00"
+  }
+}

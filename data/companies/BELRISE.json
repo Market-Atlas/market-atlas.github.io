@@ -1,0 +1,128 @@
+{
+  "ticker": "BELRISE",
+  "name": "BELRISE INDUSTRIES LTD",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 192623247360.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 216.46,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 95091020000.0,
+    "operatingIncome": 7928180000.0,
+    "netIncome": 4968600000.0,
+    "eps": null,
+    "freeCashFlow": 2578050000.0,
+    "totalDebt": 15208430000.0,
+    "cash": 8060080000.0,
+    "sharesOutstanding": 889879192.0
+  },
+  "ratios": {
+    "roe": 0.09506944225200119,
+    "roic": 0.11750451451343445,
+    "grossMargin": 0.1923648521174765,
+    "operatingMargin": 0.0833746446299556,
+    "netMargin": 0.052250990682400925,
+    "debtToEquity": 0.29100000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.942501,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 63772290000.0,
+      "operatingIncome": 5688510000.0,
+      "netIncome": 3136630000.0,
+      "eps": 3.524782,
+      "freeCashFlow": 5554540000.0,
+      "totalDebt": 23532360000.0,
+      "cash": 1061670000.0,
+      "sharesOutstanding": 889879192.0,
+      "grossMargin": 0.1617912732944042,
+      "operatingMargin": 0.08920034077496668,
+      "netMargin": 0.0491848418803841,
+      "roe": 0.1534175003643912,
+      "roic": 0.1293506986085132
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 73095260000.0,
+      "operatingIncome": 6075910000.0,
+      "netIncome": 3138100000.0,
+      "eps": 3.526434,
+      "freeCashFlow": 1304460000.0,
+      "totalDebt": 25041770000.0,
+      "cash": 1855400000.0,
+      "sharesOutstanding": 889879192.0,
+      "grossMargin": 0.16044884442575347,
+      "operatingMargin": 0.08312317378719222,
+      "netMargin": 0.042931648372274755,
+      "roe": 0.13409606407690322,
+      "roic": 0.12542221735975717
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 82908160000.0,
+      "operatingIncome": 6913830000.0,
+      "netIncome": 3554430000.0,
+      "eps": 3.994284,
+      "freeCashFlow": -1633210000.0,
+      "totalDebt": 29636980000.0,
+      "cash": 773300000.0,
+      "sharesOutstanding": 889879192.0,
+      "grossMargin": 0.19047714965571544,
+      "operatingMargin": 0.08339142974587785,
+      "netMargin": 0.04287189584233928,
+      "roe": 0.13180503965353632,
+      "roic": 0.12214317248986871
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 95091020000.0,
+      "operatingIncome": 7928180000.0,
+      "netIncome": 4968600000.0,
+      "eps": null,
+      "freeCashFlow": 2578050000.0,
+      "totalDebt": 15208430000.0,
+      "cash": 8060080000.0,
+      "sharesOutstanding": 889879192.0,
+      "grossMargin": 0.1923648521174765,
+      "operatingMargin": 0.0833746446299556,
+      "netMargin": 0.052250990682400925,
+      "roe": 0.09506944225200119,
+      "roic": 0.11750451451343445
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:01.174257+00:00"
+  }
+}

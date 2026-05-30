@@ -1,0 +1,128 @@
+{
+  "ticker": "CCL",
+  "name": "Carnival Corporation Ltd.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38867017728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.06,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26621000000.0,
+    "operatingIncome": 4482000000.0,
+    "netIncome": 2760000000.0,
+    "eps": 2.02,
+    "freeCashFlow": 2607000000.0,
+    "totalDebt": 27993000000.0,
+    "cash": 1928000000.0,
+    "sharesOutstanding": 1444148640.0
+  },
+  "ratios": {
+    "roe": 0.22468251383914034,
+    "roic": 0.11127939022270775,
+    "grossMargin": 0.40096164682017954,
+    "operatingMargin": 0.1683633221892491,
+    "netMargin": 0.10367754780060855,
+    "debtToEquity": 2.03901
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-11-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-11-30",
+      "revenue": 12169000000.0,
+      "operatingIncome": -4378000000.0,
+      "netIncome": -6093000000.0,
+      "eps": -5.16,
+      "freeCashFlow": -6610000000.0,
+      "totalDebt": 35881000000.0,
+      "cash": 4029000000.0,
+      "sharesOutstanding": 1389000000.0,
+      "grossMargin": 0.03385652066726929,
+      "operatingMargin": -0.35976662010025473,
+      "netMargin": -0.500698496178815,
+      "roe": -0.8625424688561721,
+      "roic": -0.10194434742112003
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-11-30",
+      "revenue": 21593000000.0,
+      "operatingIncome": 1956000000.0,
+      "netIncome": -74000000.0,
+      "eps": -0.06,
+      "freeCashFlow": 997000000.0,
+      "totalDebt": 31891000000.0,
+      "cash": 2415000000.0,
+      "sharesOutstanding": 1394000000.0,
+      "grossMargin": 0.3369610521928403,
+      "operatingMargin": 0.09058491177696476,
+      "netMargin": -0.003427036539619321,
+      "roe": -0.010751125962516345,
+      "roic": 0.05044617527208954
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-11-30",
+      "revenue": 25021000000.0,
+      "operatingIncome": 3574000000.0,
+      "netIncome": 1916000000.0,
+      "eps": 1.44,
+      "freeCashFlow": 1297000000.0,
+      "totalDebt": 28876000000.0,
+      "cash": 1210000000.0,
+      "sharesOutstanding": 1438000000.0,
+      "grossMargin": 0.37500499580352503,
+      "operatingMargin": 0.14284001438791416,
+      "netMargin": 0.07657567643179729,
+      "roe": 0.20709035884133162,
+      "roic": 0.09373688627780109
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-11-30",
+      "revenue": 26621000000.0,
+      "operatingIncome": 4482000000.0,
+      "netIncome": 2760000000.0,
+      "eps": 2.02,
+      "freeCashFlow": 2607000000.0,
+      "totalDebt": 27993000000.0,
+      "cash": 1928000000.0,
+      "sharesOutstanding": 1444148640.0,
+      "grossMargin": 0.40096164682017954,
+      "operatingMargin": 0.1683633221892491,
+      "netMargin": 0.10367754780060855,
+      "roe": 0.22468251383914034,
+      "roic": 0.11127939022270775
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:57.427889+00:00"
+  }
+}

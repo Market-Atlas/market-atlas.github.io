@@ -1,0 +1,128 @@
+{
+  "ticker": "COST",
+  "name": "Costco Wholesale Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "USD",
+  "marketCap": {
+    "value": 424141291520.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 956.32,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 275235000000.0,
+    "operatingIncome": 10383000000.0,
+    "netIncome": 8099000000.0,
+    "eps": 18.21,
+    "freeCashFlow": 7837000000.0,
+    "totalDebt": 8173000000.0,
+    "cash": 14161000000.0,
+    "sharesOutstanding": 443237000.0
+  },
+  "ratios": {
+    "roe": 0.27770539020710466,
+    "roic": 0.27808875913972736,
+    "grossMargin": 0.12843206714262356,
+    "operatingMargin": 0.03772412665540356,
+    "netMargin": 0.029425763438516175,
+    "debtToEquity": 0.6025699999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-08-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-08-31",
+      "revenue": 226954000000.0,
+      "operatingIncome": 7793000000.0,
+      "netIncome": 5844000000.0,
+      "eps": 13.14,
+      "freeCashFlow": 3501000000.0,
+      "totalDebt": 9039000000.0,
+      "cash": 10203000000.0,
+      "sharesOutstanding": 442664000.0,
+      "grossMargin": 0.12148717361227385,
+      "operatingMargin": 0.03433735470624003,
+      "netMargin": 0.025749711395260715,
+      "roe": 0.2831121015405484,
+      "roic": 0.26255853913277855
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-08-31",
+      "revenue": 242290000000.0,
+      "operatingIncome": 8114000000.0,
+      "netIncome": 6292000000.0,
+      "eps": 14.16,
+      "freeCashFlow": 6745000000.0,
+      "totalDebt": 8884000000.0,
+      "cash": 13700000000.0,
+      "sharesOutstanding": 442793000.0,
+      "grossMargin": 0.12259688802674482,
+      "operatingMargin": 0.033488794419910026,
+      "netMargin": 0.025968880267448098,
+      "roe": 0.2510974539069359,
+      "roic": 0.2390548582876672
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-08-31",
+      "revenue": 254453000000.0,
+      "operatingIncome": 9285000000.0,
+      "netIncome": 7367000000.0,
+      "eps": 16.56,
+      "freeCashFlow": 6629000000.0,
+      "totalDebt": 8169000000.0,
+      "cash": 9906000000.0,
+      "sharesOutstanding": 443126000.0,
+      "grossMargin": 0.1261333134213391,
+      "operatingMargin": 0.036490039417888566,
+      "netMargin": 0.028952301603832536,
+      "roe": 0.3118702904072475,
+      "roic": 0.29206379163914314
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-08-31",
+      "revenue": 275235000000.0,
+      "operatingIncome": 10383000000.0,
+      "netIncome": 8099000000.0,
+      "eps": 18.21,
+      "freeCashFlow": 7837000000.0,
+      "totalDebt": 8173000000.0,
+      "cash": 14161000000.0,
+      "sharesOutstanding": 443237000.0,
+      "grossMargin": 0.12843206714262356,
+      "operatingMargin": 0.03772412665540356,
+      "netMargin": 0.029425763438516175,
+      "roe": 0.27770539020710466,
+      "roic": 0.27808875913972736
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.749896+00:00"
+  }
+}

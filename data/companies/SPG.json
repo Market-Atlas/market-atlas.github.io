@@ -1,0 +1,128 @@
+{
+  "ticker": "SPG",
+  "name": "Simon Property Group, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 77861625856.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 204.91,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6364505000.0,
+    "operatingIncome": 3175396000.0,
+    "netIncome": 4627612000.0,
+    "eps": 14.17,
+    "freeCashFlow": 3202205000.0,
+    "totalDebt": 29186714000.0,
+    "cash": 823147000.0,
+    "sharesOutstanding": 343068687.0
+  },
+  "ratios": {
+    "roe": 0.8885126495026754,
+    "roic": 0.09232149038484742,
+    "grossMargin": 0.818993307413538,
+    "operatingMargin": 0.49892269705185244,
+    "netMargin": 0.727096922698623,
+    "debtToEquity": 4.57473
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5291447000.0,
+      "operatingIncome": 2583553000.0,
+      "netIncome": 2139535000.0,
+      "eps": 6.52,
+      "freeCashFlow": 3116580000.0,
+      "totalDebt": 25458239000.0,
+      "cash": 621628000.0,
+      "sharesOutstanding": 342913419.0,
+      "grossMargin": 0.8108354860211205,
+      "operatingMargin": 0.48825075636210663,
+      "netMargin": 0.4043383596207238,
+      "roe": 0.6817010161464434,
+      "roic": 0.09034424630508005
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5658836000.0,
+      "operatingIncome": 2807022000.0,
+      "netIncome": 2283126000.0,
+      "eps": 6.98,
+      "freeCashFlow": 3137510000.0,
+      "totalDebt": 26518284000.0,
+      "cash": 1168991000.0,
+      "sharesOutstanding": 342903886.0,
+      "grossMargin": 0.8182689867668899,
+      "operatingMargin": 0.49604229562404706,
+      "netMargin": 0.4034621254265011,
+      "roe": 0.7552932116020926,
+      "roic": 0.09502084518263662
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5963798000.0,
+      "operatingIncome": 3092796000.0,
+      "netIncome": 2370896000.0,
+      "eps": 7.26,
+      "freeCashFlow": 3059071000.0,
+      "totalDebt": 24784778000.0,
+      "cash": 1400345000.0,
+      "sharesOutstanding": 342953839.0,
+      "grossMargin": 0.8250420285864813,
+      "operatingMargin": 0.5185950295432541,
+      "netMargin": 0.39754800548241237,
+      "roe": 0.8058995385674346,
+      "roic": 0.1115457542860397
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6364505000.0,
+      "operatingIncome": 3175396000.0,
+      "netIncome": 4627612000.0,
+      "eps": 14.17,
+      "freeCashFlow": 3202205000.0,
+      "totalDebt": 29186714000.0,
+      "cash": 823147000.0,
+      "sharesOutstanding": 343068687.0,
+      "grossMargin": 0.818993307413538,
+      "operatingMargin": 0.49892269705185244,
+      "netMargin": 0.727096922698623,
+      "roe": 0.8885126495026754,
+      "roic": 0.09232149038484742
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:20.792882+00:00"
+  }
+}

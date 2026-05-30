@@ -1,0 +1,128 @@
+{
+  "ticker": "AEGISLOG",
+  "name": "AEGIS LOGISTICS LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 262705954816.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 748.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 83332100000.0,
+    "operatingIncome": 12525300000.0,
+    "netIncome": 8981500000.0,
+    "eps": null,
+    "freeCashFlow": 12068100000.0,
+    "totalDebt": 41499400000.0,
+    "cash": 25116000000.0,
+    "sharesOutstanding": 351000000.0
+  },
+  "ratios": {
+    "roe": 0.14833146711323827,
+    "roic": 0.12273737476678008,
+    "grossMargin": 0.20639945471192975,
+    "operatingMargin": 0.15030582452620297,
+    "netMargin": 0.10777959513800804,
+    "debtToEquity": 0.47243
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.19,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 86221515000.0,
+      "operatingIncome": 5524292000.0,
+      "netIncome": 4629540000.0,
+      "eps": 13.19,
+      "freeCashFlow": -1795904000.0,
+      "totalDebt": 19238966000.0,
+      "cash": 8325126000.0,
+      "sharesOutstanding": 351000000.0,
+      "grossMargin": 0.11643575272366764,
+      "operatingMargin": 0.0640709224373986,
+      "netMargin": 0.05369355896843149,
+      "roe": 0.13106155887990514,
+      "roic": 0.10124729376201733
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 70393191000.0,
+      "operatingIncome": 7871432000.0,
+      "netIncome": 5691992000.0,
+      "eps": 16.22,
+      "freeCashFlow": 391053000.0,
+      "totalDebt": 26654346000.0,
+      "cash": 10322989000.0,
+      "sharesOutstanding": 351000000.0,
+      "grossMargin": 0.17377787291955554,
+      "operatingMargin": 0.11182092881682264,
+      "netMargin": 0.08085997976707719,
+      "roe": 0.14616020526550327,
+      "roic": 0.11999525594280057
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 67637900000.0,
+      "operatingIncome": 9457300000.0,
+      "netIncome": 6633700000.0,
+      "eps": 18.9,
+      "freeCashFlow": -3866800000.0,
+      "totalDebt": 46060387000.0,
+      "cash": 14107939000.0,
+      "sharesOutstanding": 351000000.0,
+      "grossMargin": 0.1943540529791729,
+      "operatingMargin": 0.13982249596749752,
+      "netMargin": 0.09807667003262964,
+      "roe": 0.1432510532527374,
+      "roic": 0.10238652750797408
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 83332100000.0,
+      "operatingIncome": 12525300000.0,
+      "netIncome": 8981500000.0,
+      "eps": null,
+      "freeCashFlow": 12068100000.0,
+      "totalDebt": 41499400000.0,
+      "cash": 25116000000.0,
+      "sharesOutstanding": 351000000.0,
+      "grossMargin": 0.20639945471192975,
+      "operatingMargin": 0.15030582452620297,
+      "netMargin": 0.10777959513800804,
+      "roe": 0.14833146711323827,
+      "roic": 0.12273737476678008
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:49.393556+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ED",
+  "name": "Consolidated Edison, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38927790080.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 105.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16918000000.0,
+    "operatingIncome": 3000000000.0,
+    "netIncome": 2023000000.0,
+    "eps": 5.64,
+    "freeCashFlow": 36000000.0,
+    "totalDebt": 28376000000.0,
+    "cash": 1629000000.0,
+    "sharesOutstanding": 394875410.0
+  },
+  "ratios": {
+    "roe": 0.08362959900785448,
+    "roic": 0.05707111060381235,
+    "grossMargin": 0.5325097529258778,
+    "operatingMargin": 0.17732592505024233,
+    "netMargin": 0.11957678212554676,
+    "debtToEquity": 1.06177
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15670000000.0,
+      "operatingIncome": 2624000000.0,
+      "netIncome": 1660000000.0,
+      "eps": 4.66,
+      "freeCashFlow": -233000000.0,
+      "totalDebt": 24415000000.0,
+      "cash": 1282000000.0,
+      "sharesOutstanding": 378172758.0,
+      "grossMargin": 0.49042756860242503,
+      "operatingMargin": 0.16745373324824506,
+      "netMargin": 0.10593490746649649,
+      "roe": 0.08024363126601247,
+      "roic": 0.05817923817125626
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14663000000.0,
+      "operatingIncome": 2331000000.0,
+      "netIncome": 2519000000.0,
+      "eps": 7.21,
+      "freeCashFlow": -2338000000.0,
+      "totalDebt": 25010000000.0,
+      "cash": 1189000000.0,
+      "sharesOutstanding": 379169735.0,
+      "grossMargin": 0.5050126167905613,
+      "operatingMargin": 0.1589715610720862,
+      "netMargin": 0.17179294823705926,
+      "roe": 0.11905662160884772,
+      "roic": 0.050489516548258534
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15256000000.0,
+      "operatingIncome": 2732000000.0,
+      "netIncome": 1820000000.0,
+      "eps": 5.24,
+      "freeCashFlow": -1157000000.0,
+      "totalDebt": 27825000000.0,
+      "cash": 1324000000.0,
+      "sharesOutstanding": 380351656.0,
+      "grossMargin": 0.5353303618248558,
+      "operatingMargin": 0.1790770844257997,
+      "netMargin": 0.11929732564237021,
+      "roe": 0.0828704125307349,
+      "roic": 0.05487376222708739
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16918000000.0,
+      "operatingIncome": 3000000000.0,
+      "netIncome": 2023000000.0,
+      "eps": 5.64,
+      "freeCashFlow": 36000000.0,
+      "totalDebt": 28376000000.0,
+      "cash": 1629000000.0,
+      "sharesOutstanding": 394875410.0,
+      "grossMargin": 0.5325097529258778,
+      "operatingMargin": 0.17732592505024233,
+      "netMargin": 0.11957678212554676,
+      "roe": 0.08362959900785448,
+      "roic": 0.05707111060381235
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:15.988049+00:00"
+  }
+}

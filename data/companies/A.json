@@ -1,0 +1,111 @@
+{
+  "ticker": "A",
+  "name": "Agilent Technologies, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 38249025536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 135.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6948000000.0,
+    "operatingIncome": 1479000000.0,
+    "netIncome": 1303000000.0,
+    "eps": 4.57,
+    "freeCashFlow": 1152000000.0,
+    "totalDebt": 3354000000.0,
+    "cash": 1789000000.0,
+    "sharesOutstanding": 283054377.0
+  },
+  "ratios": {
+    "roe": 0.19329476338822132,
+    "roic": 0.14650817236255573,
+    "grossMargin": 0.5243235463442717,
+    "operatingMargin": 0.21286701208981001,
+    "netMargin": 0.18753598157743234,
+    "debtToEquity": 0.47107999999999994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 6848000000.0,
+      "operatingIncome": 1618000000.0,
+      "netIncome": 1254000000.0,
+      "eps": 4.18,
+      "freeCashFlow": 1021000000.0,
+      "totalDebt": 2769000000.0,
+      "cash": 1053000000.0,
+      "sharesOutstanding": 295000000.0,
+      "grossMargin": 0.5435163551401869,
+      "operatingMargin": 0.2362733644859813,
+      "netMargin": 0.18311915887850466,
+      "roe": 0.23638077285579642,
+      "roic": 0.20039633391132028
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 6833000000.0,
+      "operatingIncome": 1350000000.0,
+      "netIncome": 1240000000.0,
+      "eps": 4.19,
+      "freeCashFlow": 1474000000.0,
+      "totalDebt": 2735000000.0,
+      "cash": 1590000000.0,
+      "sharesOutstanding": 292123241.0,
+      "grossMargin": 0.507097907214986,
+      "operatingMargin": 0.19757061320064392,
+      "netMargin": 0.18147226693985072,
+      "roe": 0.21214713430282292,
+      "roic": 0.15734265734265734
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 6510000000.0,
+      "operatingIncome": 1488000000.0,
+      "netIncome": 1289000000.0,
+      "eps": 4.43,
+      "freeCashFlow": 1373000000.0,
+      "totalDebt": 3390000000.0,
+      "cash": 1329000000.0,
+      "sharesOutstanding": 285193011.0,
+      "grossMargin": 0.543010752688172,
+      "operatingMargin": 0.22857142857142856,
+      "netMargin": 0.19800307219662058,
+      "roe": 0.21854866056290267,
+      "roic": 0.16020671834625322
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 6948000000.0,
+      "operatingIncome": 1479000000.0,
+      "netIncome": 1303000000.0,
+      "eps": 4.57,
+      "freeCashFlow": 1152000000.0,
+      "totalDebt": 3354000000.0,
+      "cash": 1789000000.0,
+      "sharesOutstanding": 283054377.0,
+      "grossMargin": 0.5243235463442717,
+      "operatingMargin": 0.21286701208981001,
+      "netMargin": 0.18753598157743234,
+      "roe": 0.19329476338822132,
+      "roic": 0.14650817236255573
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:37.368925+00:00"
+  }
+}

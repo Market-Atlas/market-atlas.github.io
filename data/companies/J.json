@@ -1,0 +1,111 @@
+{
+  "ticker": "J",
+  "name": "Jacobs Solutions Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 14153174016.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 119.86,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12029783000.0,
+    "operatingIncome": 863634000.0,
+    "netIncome": 289336000.0,
+    "eps": 2.38,
+    "freeCashFlow": 607472000.0,
+    "totalDebt": 2709857000.0,
+    "cash": 1235448000.0,
+    "sharesOutstanding": 119081294.0
+  },
+  "ratios": {
+    "roe": 0.07947029326190594,
+    "roic": 0.1359911341554206,
+    "grossMargin": 0.24812866533003963,
+    "operatingMargin": 0.07179131992655229,
+    "netMargin": 0.024051639169218597,
+    "debtToEquity": 1.38776
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 9783074000.0,
+      "operatingIncome": 539884000.0,
+      "netIncome": 644039000.0,
+      "eps": 4.98,
+      "freeCashFlow": 347094000.0,
+      "totalDebt": 4165289000.0,
+      "cash": 1140479000.0,
+      "sharesOutstanding": 127393378.0,
+      "grossMargin": 0.26371659868871483,
+      "operatingMargin": 0.05518551735374791,
+      "netMargin": 0.06583196651686372,
+      "roe": 0.1062760806170768,
+      "roic": 0.05279860972906049
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 10851420000.0,
+      "operatingIncome": 676484000.0,
+      "netIncome": 665777000.0,
+      "eps": 5.3,
+      "freeCashFlow": 837277000.0,
+      "totalDebt": 3467256000.0,
+      "cash": 770853000.0,
+      "sharesOutstanding": 125976998.0,
+      "grossMargin": 0.2498161530933279,
+      "operatingMargin": 0.06234059689883904,
+      "netMargin": 0.06135390575611303,
+      "roe": 0.1017040368334703,
+      "roic": 0.0675573597020655
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 11500941000.0,
+      "operatingIncome": 692436000.0,
+      "netIncome": 806093000.0,
+      "eps": 6.32,
+      "freeCashFlow": 933559000.0,
+      "totalDebt": 2752168000.0,
+      "cash": 1144795000.0,
+      "sharesOutstanding": 124253511.0,
+      "grossMargin": 0.2463064544022963,
+      "operatingMargin": 0.060206899591955125,
+      "netMargin": 0.07008930834442155,
+      "roe": 0.1771840525494525,
+      "roic": 0.0948330065800331
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 12029783000.0,
+      "operatingIncome": 863634000.0,
+      "netIncome": 289336000.0,
+      "eps": 2.38,
+      "freeCashFlow": 607472000.0,
+      "totalDebt": 2709857000.0,
+      "cash": 1235448000.0,
+      "sharesOutstanding": 119081294.0,
+      "grossMargin": 0.24812866533003963,
+      "operatingMargin": 0.07179131992655229,
+      "netMargin": 0.024051639169218597,
+      "roe": 0.07947029326190594,
+      "roic": 0.1359911341554206
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:42.834608+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "SYK",
+  "name": "Stryker Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 116959535104.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 305.09,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25116000000.0,
+    "operatingIncome": 5059000000.0,
+    "netIncome": 3246000000.0,
+    "eps": 8.4,
+    "freeCashFlow": 4283000000.0,
+    "totalDebt": 15859000000.0,
+    "cash": 4011000000.0,
+    "sharesOutstanding": 382500000.0
+  },
+  "ratios": {
+    "roe": 0.1447814451382694,
+    "roic": 0.13216123723190262,
+    "grossMargin": 0.6396321070234113,
+    "operatingMargin": 0.2014253862079949,
+    "netMargin": 0.12924032489249881,
+    "debtToEquity": 0.66295
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 18449000000.0,
+      "operatingIncome": 3111000000.0,
+      "netIncome": 2358000000.0,
+      "eps": 6.17,
+      "freeCashFlow": 2036000000.0,
+      "totalDebt": 13048000000.0,
+      "cash": 1844000000.0,
+      "sharesOutstanding": 378700000.0,
+      "grossMargin": 0.627567889858529,
+      "operatingMargin": 0.1686270258550599,
+      "netMargin": 0.12781180551791424,
+      "roe": 0.14191141068849303,
+      "roic": 0.10487459546925566
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20498000000.0,
+      "operatingIncome": 3924000000.0,
+      "netIncome": 3165000000.0,
+      "eps": 8.25,
+      "freeCashFlow": 3136000000.0,
+      "totalDebt": 12995000000.0,
+      "cash": 2971000000.0,
+      "sharesOutstanding": 380100000.0,
+      "grossMargin": 0.6370377597814421,
+      "operatingMargin": 0.19143331056688456,
+      "netMargin": 0.15440530783491072,
+      "roe": 0.17022535362770935,
+      "roic": 0.12422438900848423
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22595000000.0,
+      "operatingIncome": 4666000000.0,
+      "netIncome": 2993000000.0,
+      "eps": 7.76,
+      "freeCashFlow": 3487000000.0,
+      "totalDebt": 13597000000.0,
+      "cash": 3652000000.0,
+      "sharesOutstanding": 381400000.0,
+      "grossMargin": 0.6390794423545032,
+      "operatingMargin": 0.20650586412923214,
+      "netMargin": 0.13246293427749503,
+      "roe": 0.14505185615973637,
+      "roic": 0.13630919342116796
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 25116000000.0,
+      "operatingIncome": 5059000000.0,
+      "netIncome": 3246000000.0,
+      "eps": 8.4,
+      "freeCashFlow": 4283000000.0,
+      "totalDebt": 15859000000.0,
+      "cash": 4011000000.0,
+      "sharesOutstanding": 382500000.0,
+      "grossMargin": 0.6396321070234113,
+      "operatingMargin": 0.2014253862079949,
+      "netMargin": 0.12924032489249881,
+      "roe": 0.1447814451382694,
+      "roic": 0.13216123723190262
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:23.553878+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MGL",
+  "name": "Mahanagar Gas Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "INR",
+  "marketCap": {
+    "value": 108161662976.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1095.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 82457000000.0,
+    "operatingIncome": 10407100000.0,
+    "netIncome": 8411400000.0,
+    "eps": 85.15,
+    "freeCashFlow": 866900000.0,
+    "totalDebt": 2229300000.0,
+    "cash": 572000000.0,
+    "sharesOutstanding": 98777778.0
+  },
+  "ratios": {
+    "roe": 0.13086357137411883,
+    "roic": 0.15648503730524138,
+    "grossMargin": 0.31648616854845557,
+    "operatingMargin": 0.12621245012551996,
+    "netMargin": 0.10200953224104685,
+    "debtToEquity": 0.03461
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 62772700000.0,
+      "operatingIncome": 9624900000.0,
+      "netIncome": 7900500000.0,
+      "eps": 79.98,
+      "freeCashFlow": 2562300000.0,
+      "totalDebt": 1146100000.0,
+      "cash": 1179000000.0,
+      "sharesOutstanding": 98777778.0,
+      "grossMargin": 0.26140503754020455,
+      "operatingMargin": 0.1533293931916263,
+      "netMargin": 0.12585885265409963,
+      "roe": 0.19110013497104653,
+      "roic": 0.22653059783516874
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 62669100000.0,
+      "operatingIncome": 15772200000.0,
+      "netIncome": 12846900000.0,
+      "eps": 130.06,
+      "freeCashFlow": 7845200000.0,
+      "totalDebt": 1414300000.0,
+      "cash": 1293700000.0,
+      "sharesOutstanding": 98777778.0,
+      "grossMargin": 0.3829415134412334,
+      "operatingMargin": 0.2516742700948314,
+      "netMargin": 0.2049957634623762,
+      "roe": 0.25041664961083465,
+      "roic": 0.29918962599874044
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 72638000000.0,
+      "operatingIncome": 12179200000.0,
+      "netIncome": 10402700000.0,
+      "eps": 105.31,
+      "freeCashFlow": 2218300000.0,
+      "totalDebt": 2010300000.0,
+      "cash": 1517500000.0,
+      "sharesOutstanding": 98777778.0,
+      "grossMargin": 0.355753187037088,
+      "operatingMargin": 0.16766981469754122,
+      "netMargin": 0.14321291885789808,
+      "roe": 0.17691125101612537,
+      "roic": 0.2002759319280209
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 82457000000.0,
+      "operatingIncome": 10407100000.0,
+      "netIncome": 8411400000.0,
+      "eps": 85.15,
+      "freeCashFlow": 866900000.0,
+      "totalDebt": 2229300000.0,
+      "cash": 572000000.0,
+      "sharesOutstanding": 98777778.0,
+      "grossMargin": 0.31648616854845557,
+      "operatingMargin": 0.12621245012551996,
+      "netMargin": 0.10200953224104685,
+      "roe": 0.13086357137411883,
+      "roic": 0.15648503730524138
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:25.698499+00:00"
+  }
+}

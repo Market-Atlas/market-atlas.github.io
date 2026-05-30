@@ -1,0 +1,111 @@
+{
+  "ticker": "UHS",
+  "name": "Universal Health Services, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8844966912.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 146.11,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17364829000.0,
+    "operatingIncome": 1994015000.0,
+    "netIncome": 1488796000.0,
+    "eps": 23.1,
+    "freeCashFlow": 824550000.0,
+    "totalDebt": 5166503000.0,
+    "cash": 137797000.0,
+    "sharesOutstanding": 61064008.0
+  },
+  "ratios": {
+    "roe": 0.2046232217743443,
+    "roic": 0.1602610290143418,
+    "grossMargin": 0.9044615411991676,
+    "operatingMargin": 0.11483067296545219,
+    "netMargin": 0.08573628913938629,
+    "debtToEquity": 0.67405
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13399370000.0,
+      "operatingIncome": 1003555000.0,
+      "netIncome": 675609000.0,
+      "eps": 9.14,
+      "freeCashFlow": 262022000.0,
+      "totalDebt": 5271278000.0,
+      "cash": 102818000.0,
+      "sharesOutstanding": 70628950.0,
+      "grossMargin": 0.8899695284181272,
+      "operatingMargin": 0.07489568539416405,
+      "netMargin": 0.050420952626877236,
+      "roe": 0.11411192345617373,
+      "roic": 0.08966829463556548
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14281976000.0,
+      "operatingIncome": 1175381000.0,
+      "netIncome": 717795000.0,
+      "eps": 10.23,
+      "freeCashFlow": 524742000.0,
+      "totalDebt": 5366628000.0,
+      "cash": 119439000.0,
+      "sharesOutstanding": 67181833.0,
+      "grossMargin": 0.8926739549205236,
+      "operatingMargin": 0.0822982057944923,
+      "netMargin": 0.050258801723234936,
+      "roe": 0.1167335962378279,
+      "roic": 0.10206832818250744
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15827935000.0,
+      "operatingIncome": 1681814000.0,
+      "netIncome": 1142097000.0,
+      "eps": 16.82,
+      "freeCashFlow": 1123291000.0,
+      "totalDebt": 4955429000.0,
+      "cash": 125983000.0,
+      "sharesOutstanding": 64977334.0,
+      "grossMargin": 0.8996845766677712,
+      "operatingMargin": 0.10625605930274543,
+      "netMargin": 0.07215704385948009,
+      "roe": 0.1713263629527256,
+      "roic": 0.1447140488654093
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17364829000.0,
+      "operatingIncome": 1994015000.0,
+      "netIncome": 1488796000.0,
+      "eps": 23.1,
+      "freeCashFlow": 824550000.0,
+      "totalDebt": 5166503000.0,
+      "cash": 137797000.0,
+      "sharesOutstanding": 61064008.0,
+      "grossMargin": 0.9044615411991676,
+      "operatingMargin": 0.11483067296545219,
+      "netMargin": 0.08573628913938629,
+      "roe": 0.2046232217743443,
+      "roic": 0.1602610290143418
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:31.959021+00:00"
+  }
+}

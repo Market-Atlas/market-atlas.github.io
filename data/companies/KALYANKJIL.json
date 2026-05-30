@@ -1,0 +1,128 @@
+{
+  "ticker": "KALYANKJIL",
+  "name": "Kalyan Jewellers India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 366674411520.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 355.05,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 357428600000.0,
+    "operatingIncome": 20683370000.0,
+    "netIncome": 13503950000.0,
+    "eps": null,
+    "freeCashFlow": 9114110000.0,
+    "totalDebt": 61173380000.0,
+    "cash": 3065950000.0,
+    "sharesOutstanding": 1032740207.0
+  },
+  "ratios": {
+    "roe": 0.21405237486631584,
+    "roic": 0.1664516747919351,
+    "grossMargin": 0.13161593672134797,
+    "operatingMargin": 0.057867137660500584,
+    "netMargin": 0.03778083231168407,
+    "debtToEquity": 0.96966
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.18,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 140250100000.0,
+      "operatingIncome": 8935580000.0,
+      "netIncome": 4331050000.0,
+      "eps": 4.2,
+      "freeCashFlow": 8262530000.0,
+      "totalDebt": 42954890000.0,
+      "cash": 1409070000.0,
+      "sharesOutstanding": 1030053057.0,
+      "grossMargin": 0.15349621854102063,
+      "operatingMargin": 0.06371175492923,
+      "netMargin": 0.030880904897750517,
+      "roe": 0.11915802934538675,
+      "roic": 0.11267786436659857
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 184725650000.0,
+      "operatingIncome": 10548000000.0,
+      "netIncome": 5973460000.0,
+      "eps": 5.8,
+      "freeCashFlow": 9503510000.0,
+      "totalDebt": 44949490000.0,
+      "cash": 1777080000.0,
+      "sharesOutstanding": 1030053057.0,
+      "grossMargin": 0.14280485682416058,
+      "operatingMargin": 0.05710089530067968,
+      "netMargin": 0.03233692776287429,
+      "roe": 0.1425967705858383,
+      "roic": 0.1214646788590427
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 250450660000.0,
+      "operatingIncome": 11744590000.0,
+      "netIncome": 7148000000.0,
+      "eps": 6.93,
+      "freeCashFlow": 7445790000.0,
+      "totalDebt": 49593560000.0,
+      "cash": 3703300000.0,
+      "sharesOutstanding": 1031435375.0,
+      "grossMargin": 0.13113381294343565,
+      "operatingMargin": 0.04689382731113585,
+      "netMargin": 0.0285405516599557,
+      "roe": 0.14880574438470656,
+      "roic": 0.12029775065569429
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 357428600000.0,
+      "operatingIncome": 20683370000.0,
+      "netIncome": 13503950000.0,
+      "eps": null,
+      "freeCashFlow": 9114110000.0,
+      "totalDebt": 61173380000.0,
+      "cash": 3065950000.0,
+      "sharesOutstanding": 1032740207.0,
+      "grossMargin": 0.13161593672134797,
+      "operatingMargin": 0.057867137660500584,
+      "netMargin": 0.03778083231168407,
+      "roe": 0.21405237486631584,
+      "roic": 0.1664516747919351
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:13.434786+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "PATANJALI",
+  "name": "Patanjali Foods Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "INR",
+  "marketCap": {
+    "value": 496290725888.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 456.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 341381561000.0,
+    "operatingIncome": 17271748000.0,
+    "netIncome": 13007064000.0,
+    "eps": 11.98,
+    "freeCashFlow": 527955000.0,
+    "totalDebt": 7876762000.0,
+    "cash": 1091588000.0,
+    "sharesOutstanding": 1086532572.0
+  },
+  "ratios": {
+    "roe": 0.11438915738592785,
+    "roic": 0.1420541639407762,
+    "grossMargin": 0.13168032528857057,
+    "operatingMargin": 0.05059367573751296,
+    "netMargin": 0.03810124941106588,
+    "debtToEquity": 0.23903
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 239183447000.0,
+      "operatingIncome": 13624378000.0,
+      "netIncome": 8063089000.0,
+      "eps": 9.086667,
+      "freeCashFlow": 6837811000.0,
+      "totalDebt": 36960575000.0,
+      "cash": 3749556000.0,
+      "sharesOutstanding": 887523021.0,
+      "grossMargin": 0.08818208059356214,
+      "operatingMargin": 0.05696204386585331,
+      "netMargin": 0.03371089889845094,
+      "roe": 0.13066435813183566,
+      "roic": 0.1380816761061245
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 312677104000.0,
+      "operatingIncome": 11672175000.0,
+      "netIncome": 8864411000.0,
+      "eps": 8.18,
+      "freeCashFlow": -4378975000.0,
+      "totalDebt": 14543951000.0,
+      "cash": 8030977000.0,
+      "sharesOutstanding": 1085984559.0,
+      "grossMargin": 0.07671359588900376,
+      "operatingMargin": 0.037329803975669415,
+      "netMargin": 0.028350048297748082,
+      "roe": 0.09002539941155327,
+      "roic": 0.10328479298107175
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 316589464000.0,
+      "operatingIncome": 10792777000.0,
+      "netIncome": 7651509000.0,
+      "eps": 7.046667,
+      "freeCashFlow": 16461327000.0,
+      "totalDebt": 10487308000.0,
+      "cash": 5374300000.0,
+      "sharesOutstanding": 1085984559.0,
+      "grossMargin": 0.09642993046666898,
+      "operatingMargin": 0.03409076494093309,
+      "netMargin": 0.024168552242155476,
+      "roe": 0.07497573910813438,
+      "roic": 0.09590132222692571
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 341381561000.0,
+      "operatingIncome": 17271748000.0,
+      "netIncome": 13007064000.0,
+      "eps": 11.98,
+      "freeCashFlow": 527955000.0,
+      "totalDebt": 7876762000.0,
+      "cash": 1091588000.0,
+      "sharesOutstanding": 1086532572.0,
+      "grossMargin": 0.13168032528857057,
+      "operatingMargin": 0.05059367573751296,
+      "netMargin": 0.03810124941106588,
+      "roe": 0.11438915738592785,
+      "roic": 0.1420541639407762
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:38.959220+00:00"
+  }
+}

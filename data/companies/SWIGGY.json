@@ -1,0 +1,128 @@
+{
+  "ticker": "SWIGGY",
+  "name": "SWIGGY LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 672101498880.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 257.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 230530000000.0,
+    "operatingIncome": -44480000000.0,
+    "netIncome": -41540000000.0,
+    "eps": -16.87,
+    "freeCashFlow": -38170000000.0,
+    "totalDebt": 25510000000.0,
+    "cash": 27470000000.0,
+    "sharesOutstanding": 2760313555.0
+  },
+  "ratios": {
+    "roe": -0.2268210112482254,
+    "roic": -0.2131799664509945,
+    "grossMargin": 0.5633106320218627,
+    "operatingMargin": -0.19294668806662907,
+    "netMargin": -0.18019346722769272,
+    "debtToEquity": 0.13929
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 81384980000.0,
+      "operatingIncome": -45268910000.0,
+      "netIncome": -41793050000.0,
+      "eps": -18.670332,
+      "freeCashFlow": -42282080000.0,
+      "totalDebt": 5996000000.0,
+      "cash": 8325210000.0,
+      "sharesOutstanding": 2238473799.0,
+      "grossMargin": 0.5292568727055041,
+      "operatingMargin": -0.5562317518539662,
+      "netMargin": -0.5135228883757175,
+      "roe": -0.46146450791973864,
+      "roic": -0.4688060908356196
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 110726390000.0,
+      "operatingIncome": -26014610000.0,
+      "netIncome": -23502430000.0,
+      "eps": -10.49931,
+      "freeCashFlow": -16644490000.0,
+      "totalDebt": 8641900000.0,
+      "cash": 8870510000.0,
+      "sharesOutstanding": 2238473799.0,
+      "grossMargin": 0.5531568400270251,
+      "operatingMargin": -0.23494498465993519,
+      "netMargin": -0.21225680707191844,
+      "roe": -0.3016434273366702,
+      "roic": -0.30055058828041936
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 152270000000.0,
+      "operatingIncome": -33970000000.0,
+      "netIncome": -31170000000.0,
+      "eps": -13.72,
+      "freeCashFlow": -29190000000.0,
+      "totalDebt": 17029450000.0,
+      "cash": 12305680000.0,
+      "sharesOutstanding": 2286480881.0,
+      "grossMargin": 0.6058974190582518,
+      "operatingMargin": -0.22309056281605044,
+      "netMargin": -0.20470217377027647,
+      "roe": -0.305005525228419,
+      "roic": -0.28492508910933606
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 230530000000.0,
+      "operatingIncome": -44480000000.0,
+      "netIncome": -41540000000.0,
+      "eps": -16.87,
+      "freeCashFlow": -38170000000.0,
+      "totalDebt": 25510000000.0,
+      "cash": 27470000000.0,
+      "sharesOutstanding": 2760313555.0,
+      "grossMargin": 0.5633106320218627,
+      "operatingMargin": -0.19294668806662907,
+      "netMargin": -0.18019346722769272,
+      "roe": -0.2268210112482254,
+      "roic": -0.2131799664509945
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:00.406311+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "NEM",
+  "name": "Newmont Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 117227970560.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 109.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22669000000.0,
+    "operatingIncome": 11023000000.0,
+    "netIncome": 7085000000.0,
+    "eps": 6.39,
+    "freeCashFlow": 7299000000.0,
+    "totalDebt": 5589000000.0,
+    "cash": 7647000000.0,
+    "sharesOutstanding": 1096000000.0
+  },
+  "ratios": {
+    "roe": 0.209200696843535,
+    "roic": 0.27937449310624496,
+    "grossMargin": 0.5321363977237638,
+    "operatingMargin": 0.4862587674798183,
+    "netMargin": 0.31254135603687855,
+    "debtToEquity": 0.15762
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11915000000.0,
+      "operatingIncome": 1605000000.0,
+      "netIncome": -429000000.0,
+      "eps": -0.54,
+      "freeCashFlow": 1089000000.0,
+      "totalDebt": 6132000000.0,
+      "cash": 2877000000.0,
+      "sharesOutstanding": 799000000.0,
+      "grossMargin": 0.2737725556021821,
+      "operatingMargin": 0.1347041544271926,
+      "netMargin": -0.03600503566932438,
+      "roe": -0.02216596052495608,
+      "roic": 0.06297575139292161
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11812000000.0,
+      "operatingIncome": 708000000.0,
+      "netIncome": -2494000000.0,
+      "eps": -2.94,
+      "freeCashFlow": 97000000.0,
+      "totalDebt": 9436000000.0,
+      "cash": 3002000000.0,
+      "sharesOutstanding": 1159491820.0,
+      "grossMargin": 0.25440230274297326,
+      "operatingMargin": 0.05993904503894345,
+      "netMargin": -0.21114121232644767,
+      "roe": -0.08592000551210942,
+      "roic": 0.01840730052258014
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 18682000000.0,
+      "operatingIncome": 5910000000.0,
+      "netIncome": 3348000000.0,
+      "eps": 2.92,
+      "freeCashFlow": 2961000000.0,
+      "totalDebt": 8972000000.0,
+      "cash": 3619000000.0,
+      "sharesOutstanding": 1133980806.0,
+      "grossMargin": 0.3823466438282839,
+      "operatingMargin": 0.31634728615779895,
+      "netMargin": 0.17920993469649932,
+      "roe": 0.11186848436246993,
+      "roic": 0.1519280205655527
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22669000000.0,
+      "operatingIncome": 11023000000.0,
+      "netIncome": 7085000000.0,
+      "eps": 6.39,
+      "freeCashFlow": 7299000000.0,
+      "totalDebt": 5589000000.0,
+      "cash": 7647000000.0,
+      "sharesOutstanding": 1096000000.0,
+      "grossMargin": 0.5321363977237638,
+      "operatingMargin": 0.4862587674798183,
+      "netMargin": 0.31254135603687855,
+      "roe": 0.209200696843535,
+      "roic": 0.27937449310624496
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:00.324588+00:00"
+  }
+}

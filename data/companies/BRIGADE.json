@@ -1,0 +1,128 @@
+{
+  "ticker": "BRIGADE",
+  "name": "Brigade Enterprises Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "INR",
+  "marketCap": {
+    "value": 159579013120.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 652.35,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 56972200000.0,
+    "operatingIncome": 11149600000.0,
+    "netIncome": 6443900000.0,
+    "eps": null,
+    "freeCashFlow": -18756600000.0,
+    "totalDebt": 63439500000.0,
+    "cash": 14862900000.0,
+    "sharesOutstanding": 244593464.0
+  },
+  "ratios": {
+    "roe": 0.09448228942761377,
+    "roic": 0.08469656651349838,
+    "grossMargin": 0.5248735348117152,
+    "operatingMargin": 0.1957024654129558,
+    "netMargin": 0.11310604119201997,
+    "debtToEquity": 0.84316
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 3.66,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33968100000.0,
+      "operatingIncome": 5479900000.0,
+      "netIncome": 2914100000.0,
+      "eps": 12.61,
+      "freeCashFlow": 6437700000.0,
+      "totalDebt": 49881200000.0,
+      "cash": 2295800000.0,
+      "sharesOutstanding": 230731651.0,
+      "grossMargin": 0.4628077519790627,
+      "operatingMargin": 0.1613248901174926,
+      "netMargin": 0.08578931409175079,
+      "roe": 0.08980249675655853,
+      "roic": 0.06655913364662042
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 48660300000.0,
+      "operatingIncome": 8873200000.0,
+      "netIncome": 4516100000.0,
+      "eps": 19.51,
+      "freeCashFlow": 654300000.0,
+      "totalDebt": 58864300000.0,
+      "cash": 4703300000.0,
+      "sharesOutstanding": 231098641.0,
+      "grossMargin": 0.430174084417893,
+      "operatingMargin": 0.18234988275863487,
+      "netMargin": 0.09280871675678119,
+      "roe": 0.12843877536510104,
+      "roic": 0.09436984317070421
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 50742100000.0,
+      "operatingIncome": 11254300000.0,
+      "netIncome": 6857600000.0,
+      "eps": 28.68,
+      "freeCashFlow": 3559300000.0,
+      "totalDebt": 59495000000.0,
+      "cash": 12992200000.0,
+      "sharesOutstanding": 244374604.0,
+      "grossMargin": 0.5434166106645172,
+      "operatingMargin": 0.22179413150027294,
+      "netMargin": 0.13514616068314084,
+      "roe": 0.1216220769892435,
+      "roic": 0.09712071591610251
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 56972200000.0,
+      "operatingIncome": 11149600000.0,
+      "netIncome": 6443900000.0,
+      "eps": null,
+      "freeCashFlow": -18756600000.0,
+      "totalDebt": 63439500000.0,
+      "cash": 14862900000.0,
+      "sharesOutstanding": 244593464.0,
+      "grossMargin": 0.5248735348117152,
+      "operatingMargin": 0.1957024654129558,
+      "netMargin": 0.11310604119201997,
+      "roe": 0.09448228942761377,
+      "roic": 0.08469656651349838
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:04.854261+00:00"
+  }
+}

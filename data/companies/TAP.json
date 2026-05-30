@@ -1,0 +1,128 @@
+{
+  "ticker": "TAP",
+  "name": "Molson Coors Beverage Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7413904896.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 39.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11140800000.0,
+    "operatingIncome": 1630700000.0,
+    "netIncome": -2139600000.0,
+    "eps": -10.75,
+    "freeCashFlow": 1067800000.0,
+    "totalDebt": 6352300000.0,
+    "cash": 896500000.0,
+    "sharesOutstanding": 228435943.0
+  },
+  "ratios": {
+    "roe": -0.20914342687897716,
+    "roic": 0.0983380169575338,
+    "grossMargin": 0.3836887835703002,
+    "operatingMargin": 0.14637189429843458,
+    "netMargin": -0.19205084015510557,
+    "debtToEquity": 0.62567
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10701000000.0,
+      "operatingIncome": 1036400000.0,
+      "netIncome": -175300000.0,
+      "eps": -0.81,
+      "freeCashFlow": 840600000.0,
+      "totalDebt": 6607000000.0,
+      "cash": 600000000.0,
+      "sharesOutstanding": 226800000.0,
+      "grossMargin": 0.34157555368657133,
+      "operatingMargin": 0.09685076161106439,
+      "netMargin": -0.01638164657508644,
+      "roe": -0.013814353373208193,
+      "roic": 0.05370866521218654
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11702100000.0,
+      "operatingIncome": 1588900000.0,
+      "netIncome": 948900000.0,
+      "eps": 4.37,
+      "freeCashFlow": 1407500000.0,
+      "totalDebt": 6270800000.0,
+      "cash": 868900000.0,
+      "sharesOutstanding": 227200000.0,
+      "grossMargin": 0.37333470060929236,
+      "operatingMargin": 0.13577904820502304,
+      "netMargin": 0.08108800984438691,
+      "roe": 0.07190815398605638,
+      "roic": 0.08162101629440895
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11627000000.0,
+      "operatingIncome": 1815900000.0,
+      "netIncome": 1122400000.0,
+      "eps": 5.35,
+      "freeCashFlow": 1236200000.0,
+      "totalDebt": 6192800000.0,
+      "cash": 969300000.0,
+      "sharesOutstanding": 227947943.0,
+      "grossMargin": 0.3899028124193687,
+      "operatingMargin": 0.15617958200739657,
+      "netMargin": 0.09653392964651243,
+      "roe": 0.08572912529406373,
+      "roic": 0.09416028871881028
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11140800000.0,
+      "operatingIncome": 1630700000.0,
+      "netIncome": -2139600000.0,
+      "eps": -10.75,
+      "freeCashFlow": 1067800000.0,
+      "totalDebt": 6352300000.0,
+      "cash": 896500000.0,
+      "sharesOutstanding": 228435943.0,
+      "grossMargin": 0.3836887835703002,
+      "operatingMargin": 0.14637189429843458,
+      "netMargin": -0.19205084015510557,
+      "roe": -0.20914342687897716,
+      "roic": 0.0983380169575338
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:24.919070+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HWM",
+  "name": "Howmet Aerospace Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "USD",
+  "marketCap": {
+    "value": 103327760384.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 258.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8252000000.0,
+    "operatingIncome": 2115000000.0,
+    "netIncome": 1508000000.0,
+    "eps": 3.71,
+    "freeCashFlow": 1431000000.0,
+    "totalDebt": 3213000000.0,
+    "cash": 742000000.0,
+    "sharesOutstanding": 401620565.0
+  },
+  "ratios": {
+    "roe": 0.28171118998692324,
+    "roic": 0.24690637403689003,
+    "grossMargin": 0.34173533688802715,
+    "operatingMargin": 0.25630150266602036,
+    "netMargin": 0.1827435773145904,
+    "debtToEquity": 0.8779399999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5663000000.0,
+      "operatingIncome": 983000000.0,
+      "netIncome": 469000000.0,
+      "eps": 1.11,
+      "freeCashFlow": 540000000.0,
+      "totalDebt": 4277000000.0,
+      "cash": 791000000.0,
+      "sharesOutstanding": 412155057.0,
+      "grossMargin": 0.2754723644711284,
+      "operatingMargin": 0.17358290658661488,
+      "netMargin": 0.08281829419035847,
+      "roe": 0.130241599555679,
+      "roic": 0.12477786240162478
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6640000000.0,
+      "operatingIncome": 1216000000.0,
+      "netIncome": 765000000.0,
+      "eps": 1.83,
+      "freeCashFlow": 682000000.0,
+      "totalDebt": 3835000000.0,
+      "cash": 610000000.0,
+      "sharesOutstanding": 409914461.0,
+      "grossMargin": 0.2811746987951807,
+      "operatingMargin": 0.18313253012048192,
+      "netMargin": 0.11521084337349398,
+      "roe": 0.18949715135001238,
+      "roic": 0.15447154471544716
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7430000000.0,
+      "operatingIncome": 1639000000.0,
+      "netIncome": 1155000000.0,
+      "eps": 2.81,
+      "freeCashFlow": 977000000.0,
+      "totalDebt": 3471000000.0,
+      "cash": 564000000.0,
+      "sharesOutstanding": 405431361.0,
+      "grossMargin": 0.3110363391655451,
+      "operatingMargin": 0.2205921938088829,
+      "netMargin": 0.15545087483176312,
+      "roe": 0.2536231884057971,
+      "roic": 0.2042367601246106
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8252000000.0,
+      "operatingIncome": 2115000000.0,
+      "netIncome": 1508000000.0,
+      "eps": 3.71,
+      "freeCashFlow": 1431000000.0,
+      "totalDebt": 3213000000.0,
+      "cash": 742000000.0,
+      "sharesOutstanding": 401620565.0,
+      "grossMargin": 0.34173533688802715,
+      "operatingMargin": 0.25630150266602036,
+      "netMargin": 0.1827435773145904,
+      "roe": 0.28171118998692324,
+      "roic": 0.24690637403689003
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.241197+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "LUPIN",
+  "name": "Lupin Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1036828409856.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2267.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 274875400000.0,
+    "operatingIncome": 146815400000.0,
+    "netIncome": 53328400000.0,
+    "eps": 116.44,
+    "freeCashFlow": 52796500000.0,
+    "totalDebt": 66161800000.0,
+    "cash": 41677300000.0,
+    "sharesOutstanding": 457179111.0
+  },
+  "ratios": {
+    "roe": 0.23756129091462283,
+    "roic": 0.5051373757287683,
+    "grossMargin": 0.7334625070122681,
+    "operatingMargin": 0.5341161850060063,
+    "netMargin": 0.19400935842203412,
+    "debtToEquity": 0.29388000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 162699800000.0,
+      "operatingIncome": 8894400000.0,
+      "netIncome": 4300800000.0,
+      "eps": 9.41,
+      "freeCashFlow": 3976200000.0,
+      "totalDebt": 45415200000.0,
+      "cash": 12778200000.0,
+      "sharesOutstanding": 454981335.0,
+      "grossMargin": 0.553478861068053,
+      "operatingMargin": 0.05466755337130101,
+      "netMargin": 0.026433959967990125,
+      "roe": 0.03450439247462794,
+      "roic": 0.05230147912327517
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 196563400000.0,
+      "operatingIncome": 27966400000.0,
+      "netIncome": 19144800000.0,
+      "eps": 41.87,
+      "freeCashFlow": 27194600000.0,
+      "totalDebt": 29217700000.0,
+      "cash": 11876000000.0,
+      "sharesOutstanding": 455678908.0,
+      "grossMargin": 0.636413493051097,
+      "operatingMargin": 0.14227674124480957,
+      "netMargin": 0.09739758266289655,
+      "roe": 0.133970689188253,
+      "roic": 0.1624814229092857
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 221921100000.0,
+      "operatingIncome": 41082600000.0,
+      "netIncome": 32816200000.0,
+      "eps": 71.69,
+      "freeCashFlow": 13175100000.0,
+      "totalDebt": 54477700000.0,
+      "cash": 19307800000.0,
+      "sharesOutstanding": 456565045.0,
+      "grossMargin": 0.6916809622879483,
+      "operatingMargin": 0.1851225503118,
+      "netMargin": 0.14787327568221317,
+      "roe": 0.19075304443863167,
+      "roic": 0.18136996292040136
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 274875400000.0,
+      "operatingIncome": 146815400000.0,
+      "netIncome": 53328400000.0,
+      "eps": 116.44,
+      "freeCashFlow": 52796500000.0,
+      "totalDebt": 66161800000.0,
+      "cash": 41677300000.0,
+      "sharesOutstanding": 457179111.0,
+      "grossMargin": 0.7334625070122681,
+      "operatingMargin": 0.5341161850060063,
+      "netMargin": 0.19400935842203412,
+      "roe": 0.23756129091462283,
+      "roic": 0.5051373757287683
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:21.934078+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "WRB",
+  "name": "W. R. Berkley Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23654463488.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 63.54,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14639850000.0,
+    "operatingIncome": null,
+    "netIncome": 1779403000.0,
+    "eps": 4.45,
+    "freeCashFlow": 3412622000.0,
+    "totalDebt": 2839725000.0,
+    "cash": 2539938000.0,
+    "sharesOutstanding": 793521809.0
+  },
+  "ratios": {
+    "roe": 0.18342813977130587,
+    "roic": null,
+    "grossMargin": 0.43651,
+    "operatingMargin": 0.17093,
+    "netMargin": 0.12154516610484398,
+    "debtToEquity": 0.3176
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11217429000.0,
+      "operatingIncome": null,
+      "netIncome": 1381062000.0,
+      "eps": 3.293333,
+      "freeCashFlow": 2515920000.0,
+      "totalDebt": 2837194000.0,
+      "cash": 1449346000.0,
+      "sharesOutstanding": 793521942.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12311751650043874,
+      "roe": 0.20465234964729062,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12111139000.0,
+      "operatingIncome": null,
+      "netIncome": 1381359000.0,
+      "eps": 3.366667,
+      "freeCashFlow": 2876158000.0,
+      "totalDebt": 2837041000.0,
+      "cash": 1363195000.0,
+      "sharesOutstanding": 793521941.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11405690249282087,
+      "roe": 0.18528224592246914,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13691128000.0,
+      "operatingIncome": null,
+      "netIncome": 1756115000.0,
+      "eps": 4.36,
+      "freeCashFlow": 3572745000.0,
+      "totalDebt": 2840966000.0,
+      "cash": 1974747000.0,
+      "sharesOutstanding": 793521809.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12826664099554105,
+      "roe": 0.20918305904472256,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14639850000.0,
+      "operatingIncome": null,
+      "netIncome": 1779403000.0,
+      "eps": 4.45,
+      "freeCashFlow": 3412622000.0,
+      "totalDebt": 2839725000.0,
+      "cash": 2539938000.0,
+      "sharesOutstanding": 793521809.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12154516610484398,
+      "roe": 0.18342813977130587,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:39.864350+00:00"
+  }
+}

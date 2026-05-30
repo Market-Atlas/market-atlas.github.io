@@ -1,0 +1,128 @@
+{
+  "ticker": "CAPLIPOINT",
+  "name": "Caplin Point Laboratories Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 153885671424.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2024.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21871900000.0,
+    "operatingIncome": 6880800000.0,
+    "netIncome": 6412400000.0,
+    "eps": 84.11,
+    "freeCashFlow": null,
+    "totalDebt": 46100000.0,
+    "cash": 941800000.0,
+    "sharesOutstanding": 76011696.0
+  },
+  "ratios": {
+    "roe": 0.17879668304325763,
+    "roic": 0.19161076348568518,
+    "grossMargin": 0.6042044815493853,
+    "operatingMargin": 0.31459543981089894,
+    "netMargin": 0.2931798334849739,
+    "debtToEquity": 0.00127
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14538200000.0,
+      "operatingIncome": 3983600000.0,
+      "netIncome": 3762600000.0,
+      "eps": 49.18,
+      "freeCashFlow": null,
+      "totalDebt": 54800000.0,
+      "cash": 4844700000.0,
+      "sharesOutstanding": 75902746.0,
+      "grossMargin": 0.5396472740779463,
+      "operatingMargin": 0.2740091620695822,
+      "netMargin": 0.2588078304054147,
+      "roe": 0.20008721177571684,
+      "roic": 0.21122399202528155
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16795500000.0,
+      "operatingIncome": 5009300000.0,
+      "netIncome": 4570900000.0,
+      "eps": 59.9,
+      "freeCashFlow": null,
+      "totalDebt": 19700000.0,
+      "cash": 5457700000.0,
+      "sharesOutstanding": 75941746.0,
+      "grossMargin": 0.5657527313863833,
+      "operatingMargin": 0.298252508112292,
+      "netMargin": 0.27215027834836714,
+      "roe": 0.19738654667466998,
+      "roic": 0.21613423768596182
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 19374700000.0,
+      "operatingIncome": 5809700000.0,
+      "netIncome": 5363100000.0,
+      "eps": 70.25,
+      "freeCashFlow": null,
+      "totalDebt": 50200000.0,
+      "cash": 5832000000.0,
+      "sharesOutstanding": 76011696.0,
+      "grossMargin": 0.602140936375789,
+      "operatingMargin": 0.2998601268664805,
+      "netMargin": 0.27680944737208835,
+      "roe": 0.18814659935660186,
+      "roic": 0.20345577497539843
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 21871900000.0,
+      "operatingIncome": 6880800000.0,
+      "netIncome": 6412400000.0,
+      "eps": 84.11,
+      "freeCashFlow": null,
+      "totalDebt": 46100000.0,
+      "cash": 941800000.0,
+      "sharesOutstanding": 76011696.0,
+      "grossMargin": 0.6042044815493853,
+      "operatingMargin": 0.31459543981089894,
+      "netMargin": 0.2931798334849739,
+      "roe": 0.17879668304325763,
+      "roic": 0.19161076348568518
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:07.394797+00:00"
+  }
+}

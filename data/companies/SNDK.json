@@ -1,0 +1,94 @@
+{
+  "ticker": "SNDK",
+  "name": "Sandisk Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 251009171456.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1694.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7355000000.0,
+    "operatingIncome": 507000000.0,
+    "netIncome": -1641000000.0,
+    "eps": -11.32,
+    "freeCashFlow": -120000000.0,
+    "totalDebt": 2042000000.0,
+    "cash": 1481000000.0,
+    "sharesOutstanding": 146000000.0
+  },
+  "ratios": {
+    "roe": -0.17805989583333334,
+    "roic": 0.04503464203233257,
+    "grossMargin": 0.3007477906186268,
+    "operatingMargin": 0.06893269884432358,
+    "netMargin": -0.22311352821210062,
+    "debtToEquity": 0.015029999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 6086000000.0,
+      "operatingIncome": -1295000000.0,
+      "netIncome": -2143000000.0,
+      "eps": -14.78,
+      "freeCashFlow": -932000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.07065395990798554,
+      "operatingMargin": -0.2127834373973053,
+      "netMargin": -0.3521196187972396,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 6663000000.0,
+      "operatingIncome": -444000000.0,
+      "netIncome": -672000000.0,
+      "eps": -4.63,
+      "freeCashFlow": -475000000.0,
+      "totalDebt": 985000000.0,
+      "cash": 328000000.0,
+      "sharesOutstanding": null,
+      "grossMargin": 0.16088848866876782,
+      "operatingMargin": -0.06663665015758667,
+      "netMargin": -0.10085547050877983,
+      "roe": -0.06063887384948565,
+      "roic": -0.03679456368608602
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 7355000000.0,
+      "operatingIncome": 507000000.0,
+      "netIncome": -1641000000.0,
+      "eps": -11.32,
+      "freeCashFlow": -120000000.0,
+      "totalDebt": 2042000000.0,
+      "cash": 1481000000.0,
+      "sharesOutstanding": 146000000.0,
+      "grossMargin": 0.3007477906186268,
+      "operatingMargin": 0.06893269884432358,
+      "netMargin": -0.22311352821210062,
+      "roe": -0.17805989583333334,
+      "roic": 0.04503464203233257
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:19.253392+00:00"
+  }
+}

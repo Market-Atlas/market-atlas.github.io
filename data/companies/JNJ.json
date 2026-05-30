@@ -1,0 +1,128 @@
+{
+  "ticker": "JNJ",
+  "name": "Johnson & Johnson",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 542418173952.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 225.33,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 94193000000.0,
+    "operatingIncome": 25596000000.0,
+    "netIncome": 26804000000.0,
+    "eps": 11.03,
+    "freeCashFlow": 19313000000.0,
+    "totalDebt": 47933000000.0,
+    "cash": 19709000000.0,
+    "sharesOutstanding": 3119843000.0
+  },
+  "ratios": {
+    "roe": 0.3287059746885117,
+    "roic": 0.19768762019509256,
+    "grossMargin": 0.6787871710212011,
+    "operatingMargin": 0.27173993821196907,
+    "netMargin": 0.2845646704107524,
+    "debtToEquity": 0.6773
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 79990000000.0,
+      "operatingIncome": 21013000000.0,
+      "netIncome": 17941000000.0,
+      "eps": 6.73,
+      "freeCashFlow": 17185000000.0,
+      "totalDebt": 39642000000.0,
+      "cash": 12889000000.0,
+      "sharesOutstanding": 3119843000.0,
+      "grossMargin": 0.6925115639454932,
+      "operatingMargin": 0.26269533691711466,
+      "netMargin": 0.22429053631703963,
+      "roe": 0.233594604447685,
+      "roic": 0.18045274204352232
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 85159000000.0,
+      "operatingIncome": 22009000000.0,
+      "netIncome": 35153000000.0,
+      "eps": 13.72,
+      "freeCashFlow": 17778000000.0,
+      "totalDebt": 29332000000.0,
+      "cash": 21859000000.0,
+      "sharesOutstanding": 3119843000.0,
+      "grossMargin": 0.6881950234267664,
+      "operatingMargin": 0.2584459657816555,
+      "netMargin": 0.41279254101151963,
+      "roe": 0.511137930031698,
+      "roic": 0.22433898028662874
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 88821000000.0,
+      "operatingIncome": 21249000000.0,
+      "netIncome": 14066000000.0,
+      "eps": 5.79,
+      "freeCashFlow": 18059000000.0,
+      "totalDebt": 36634000000.0,
+      "cash": 24105000000.0,
+      "sharesOutstanding": 3119843000.0,
+      "grossMargin": 0.6907150336069173,
+      "operatingMargin": 0.23923396494072346,
+      "netMargin": 0.1583634500850024,
+      "roe": 0.19675479087984332,
+      "roic": 0.1965243609189449
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 94193000000.0,
+      "operatingIncome": 25596000000.0,
+      "netIncome": 26804000000.0,
+      "eps": 11.03,
+      "freeCashFlow": 19313000000.0,
+      "totalDebt": 47933000000.0,
+      "cash": 19709000000.0,
+      "sharesOutstanding": 3119843000.0,
+      "grossMargin": 0.6787871710212011,
+      "operatingMargin": 0.27173993821196907,
+      "netMargin": 0.2845646704107524,
+      "roe": 0.3287059746885117,
+      "roic": 0.19768762019509256
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.382957+00:00"
+  }
+}

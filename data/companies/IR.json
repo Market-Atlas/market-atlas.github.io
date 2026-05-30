@@ -1,0 +1,128 @@
+{
+  "ticker": "IR",
+  "name": "Ingersoll Rand Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28035371008.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 71.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7650900000.0,
+    "operatingIncome": 1510000000.0,
+    "netIncome": 581400000.0,
+    "eps": 1.45,
+    "freeCashFlow": 1220100000.0,
+    "totalDebt": 4849500000.0,
+    "cash": 1248800000.0,
+    "sharesOutstanding": 431753302.0
+  },
+  "ratios": {
+    "roe": 0.057622549505441135,
+    "roic": 0.1010756862771348,
+    "grossMargin": 0.4360663451358664,
+    "operatingMargin": 0.19736240180893752,
+    "netMargin": 0.07599105987530878,
+    "debtToEquity": 0.48353
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5916300000.0,
+      "operatingIncome": 879400000.0,
+      "netIncome": 604700000.0,
+      "eps": 1.47,
+      "freeCashFlow": 765700000.0,
+      "totalDebt": 2792200000.0,
+      "cash": 1613000000.0,
+      "sharesOutstanding": 426327805.0,
+      "grossMargin": 0.39308351503473454,
+      "operatingMargin": 0.14864019742068524,
+      "netMargin": 0.1022091509896388,
+      "roe": 0.06575828095434873,
+      "roic": 0.0733566900233567
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6876100000.0,
+      "operatingIncome": 1241500000.0,
+      "netIncome": 778700000.0,
+      "eps": 1.9,
+      "freeCashFlow": 1272000000.0,
+      "totalDebt": 2765200000.0,
+      "cash": 1595500000.0,
+      "sharesOutstanding": 428589061.0,
+      "grossMargin": 0.4191620249850933,
+      "operatingMargin": 0.18055292971306408,
+      "netMargin": 0.11324733497185904,
+      "roe": 0.07959075205952697,
+      "roic": 0.09893218583154036
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7235000000.0,
+      "operatingIncome": 1454300000.0,
+      "netIncome": 838600000.0,
+      "eps": 2.06,
+      "freeCashFlow": 1247600000.0,
+      "totalDebt": 4813800000.0,
+      "cash": 1541200000.0,
+      "sharesOutstanding": 430745964.0,
+      "grossMargin": 0.43814789219073946,
+      "operatingMargin": 0.20100898410504492,
+      "netMargin": 0.11590877677954388,
+      "roe": 0.08238530307495824,
+      "roic": 0.09699989328210874
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7650900000.0,
+      "operatingIncome": 1510000000.0,
+      "netIncome": 581400000.0,
+      "eps": 1.45,
+      "freeCashFlow": 1220100000.0,
+      "totalDebt": 4849500000.0,
+      "cash": 1248800000.0,
+      "sharesOutstanding": 431753302.0,
+      "grossMargin": 0.4360663451358664,
+      "operatingMargin": 0.19736240180893752,
+      "netMargin": 0.07599105987530878,
+      "roe": 0.057622549505441135,
+      "roic": 0.1010756862771348
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:40.718255+00:00"
+  }
+}

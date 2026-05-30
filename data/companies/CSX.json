@@ -1,0 +1,128 @@
+{
+  "ticker": "CSX",
+  "name": "CSX Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "USD",
+  "marketCap": {
+    "value": 84099358720.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 45.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14092000000.0,
+    "operatingIncome": 4718000000.0,
+    "netIncome": 2889000000.0,
+    "eps": 1.54,
+    "freeCashFlow": 1711000000.0,
+    "totalDebt": 19352000000.0,
+    "cash": 670000000.0,
+    "sharesOutstanding": 1859740714.0
+  },
+  "ratios": {
+    "roe": 0.21961231470923603,
+    "roic": 0.1451379702833236,
+    "grossMargin": 0.3324581322736304,
+    "operatingMargin": 0.33479988646040304,
+    "netMargin": 0.20500993471473175,
+    "debtToEquity": 1.4306
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14853000000.0,
+      "operatingIncome": 5795000000.0,
+      "netIncome": 4114000000.0,
+      "eps": 1.95,
+      "freeCashFlow": 3413000000.0,
+      "totalDebt": 18535000000.0,
+      "cash": 1958000000.0,
+      "sharesOutstanding": 2066000000.0,
+      "grossMargin": 0.3848380798491887,
+      "operatingMargin": 0.39015687066585875,
+      "netMargin": 0.2769810812630445,
+      "roe": 0.326119698771304,
+      "roic": 0.18603531300160514
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14657000000.0,
+      "operatingIncome": 5528000000.0,
+      "netIncome": 3668000000.0,
+      "eps": 1.85,
+      "freeCashFlow": 3257000000.0,
+      "totalDebt": 19024000000.0,
+      "cash": 1353000000.0,
+      "sharesOutstanding": 1958427685.0,
+      "grossMargin": 0.3751790953128198,
+      "operatingMargin": 0.3771576721020673,
+      "netMargin": 0.2502558504468855,
+      "roe": 0.3061769616026711,
+      "roic": 0.17829957424848406
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14540000000.0,
+      "operatingIncome": 5403000000.0,
+      "netIncome": 3470000000.0,
+      "eps": 1.79,
+      "freeCashFlow": 2718000000.0,
+      "totalDebt": 18989000000.0,
+      "cash": 933000000.0,
+      "sharesOutstanding": 1900189590.0,
+      "grossMargin": 0.36815680880330126,
+      "operatingMargin": 0.371595598349381,
+      "netMargin": 0.23865199449793673,
+      "roe": 0.2775555911054231,
+      "roic": 0.17157283033247595
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14092000000.0,
+      "operatingIncome": 4718000000.0,
+      "netIncome": 2889000000.0,
+      "eps": 1.54,
+      "freeCashFlow": 1711000000.0,
+      "totalDebt": 19352000000.0,
+      "cash": 670000000.0,
+      "sharesOutstanding": 1859740714.0,
+      "grossMargin": 0.3324581322736304,
+      "operatingMargin": 0.33479988646040304,
+      "netMargin": 0.20500993471473175,
+      "roe": 0.21961231470923603,
+      "roic": 0.1451379702833236
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:06.994435+00:00"
+  }
+}

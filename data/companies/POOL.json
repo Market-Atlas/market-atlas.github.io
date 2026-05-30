@@ -1,0 +1,128 @@
+{
+  "ticker": "POOL",
+  "name": "Pool Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "currency": "USD",
+  "marketCap": {
+    "value": 6610760704.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 181.4,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5289396000.0,
+    "operatingIncome": 580204000.0,
+    "netIncome": 406404000.0,
+    "eps": 10.85,
+    "freeCashFlow": 309516000.0,
+    "totalDebt": 1535031000.0,
+    "cash": 104963000.0,
+    "sharesOutstanding": 36577686.0
+  },
+  "ratios": {
+    "roe": 0.34289069875948025,
+    "roic": 0.21328990611191578,
+    "grossMargin": 0.2972849830112928,
+    "operatingMargin": 0.1096919194554539,
+    "netMargin": 0.0768337254385945,
+    "debtToEquity": 1.40423
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6179727000.0,
+      "operatingIncome": 1025783000.0,
+      "netIncome": 748462000.0,
+      "eps": 18.7,
+      "freeCashFlow": 441235000.0,
+      "totalDebt": 1660825000.0,
+      "cash": 45591000.0,
+      "sharesOutstanding": 39069419.0,
+      "grossMargin": 0.3128636588638948,
+      "operatingMargin": 0.16599163684738824,
+      "netMargin": 0.12111570624398132,
+      "roe": 0.6059469200789511,
+      "roic": 0.3542045131609979
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5541595000.0,
+      "operatingIncome": 746567000.0,
+      "netIncome": 523229000.0,
+      "eps": 13.35,
+      "freeCashFlow": 828133000.0,
+      "totalDebt": 1364484000.0,
+      "cash": 66540000.0,
+      "sharesOutstanding": 38354829.0,
+      "grossMargin": 0.2995606860479699,
+      "operatingMargin": 0.13472059939421774,
+      "netMargin": 0.09441848420896871,
+      "roe": 0.3985635141115809,
+      "roic": 0.2788537282927279
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5310953000.0,
+      "operatingIncome": 617204000.0,
+      "netIncome": 434325000.0,
+      "eps": 11.3,
+      "freeCashFlow": 599710000.0,
+      "totalDebt": 1271923000.0,
+      "cash": 77862000.0,
+      "sharesOutstanding": 37691942.0,
+      "grossMargin": 0.29662228229095605,
+      "operatingMargin": 0.1162134178178568,
+      "netMargin": 0.08177910819395313,
+      "roe": 0.3410576655031744,
+      "roic": 0.24247933910272226
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5289396000.0,
+      "operatingIncome": 580204000.0,
+      "netIncome": 406404000.0,
+      "eps": 10.85,
+      "freeCashFlow": 309516000.0,
+      "totalDebt": 1535031000.0,
+      "cash": 104963000.0,
+      "sharesOutstanding": 36577686.0,
+      "grossMargin": 0.2972849830112928,
+      "operatingMargin": 0.1096919194554539,
+      "netMargin": 0.0768337254385945,
+      "roe": 0.34289069875948025,
+      "roic": 0.21328990611191578
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:10.727873+00:00"
+  }
+}

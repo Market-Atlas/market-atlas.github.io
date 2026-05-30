@@ -1,0 +1,128 @@
+{
+  "ticker": "CONCOR",
+  "name": "Container Corporation of India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "INR",
+  "marketCap": {
+    "value": 353124155392.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 463.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 90789700000.0,
+    "operatingIncome": 13343900000.0,
+    "netIncome": 12418000000.0,
+    "eps": 16.36,
+    "freeCashFlow": 3332100000.0,
+    "totalDebt": 9645700000.0,
+    "cash": 6543600000.0,
+    "sharesOutstanding": 761617935.0
+  },
+  "ratios": {
+    "roe": 0.09594857193631759,
+    "roic": 0.09595151190917903,
+    "grossMargin": 0.32299038327034896,
+    "operatingMargin": 0.1469759234803067,
+    "netMargin": 0.13677763006155985,
+    "debtToEquity": 0.0739
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 74488100000.0,
+      "operatingIncome": 12959100000.0,
+      "netIncome": 11739500000.0,
+      "eps": 15.408,
+      "freeCashFlow": 7513900000.0,
+      "totalDebt": 7735600000.0,
+      "cash": 3437400000.0,
+      "sharesOutstanding": 761617935.0,
+      "grossMargin": 0.10697010663448256,
+      "operatingMargin": 0.17397544037235477,
+      "netMargin": 0.15760235527554065,
+      "roe": 0.10457150135975465,
+      "roic": 0.10799384992312404
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 79647500000.0,
+      "operatingIncome": 13333000000.0,
+      "netIncome": 12469500000.0,
+      "eps": 16.37223,
+      "freeCashFlow": 5888700000.0,
+      "totalDebt": 9144800000.0,
+      "cash": 1934700000.0,
+      "sharesOutstanding": 761617935.0,
+      "grossMargin": 0.10795944631030478,
+      "operatingMargin": 0.16740010672023603,
+      "netMargin": 0.15655858627075553,
+      "roe": 0.1054367641537832,
+      "roic": 0.10464641707872223
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 88870200000.0,
+      "operatingIncome": 13479700000.0,
+      "netIncome": 12900100000.0,
+      "eps": 16.98,
+      "freeCashFlow": 8114100000.0,
+      "totalDebt": 8372100000.0,
+      "cash": 3623200000.0,
+      "sharesOutstanding": 761617935.0,
+      "grossMargin": 0.3144462373213968,
+      "operatingMargin": 0.1516785154078645,
+      "netMargin": 0.14515664418443977,
+      "roe": 0.10419953167116175,
+      "roic": 0.10198450527335179
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 90789700000.0,
+      "operatingIncome": 13343900000.0,
+      "netIncome": 12418000000.0,
+      "eps": 16.36,
+      "freeCashFlow": 3332100000.0,
+      "totalDebt": 9645700000.0,
+      "cash": 6543600000.0,
+      "sharesOutstanding": 761617935.0,
+      "grossMargin": 0.32299038327034896,
+      "operatingMargin": 0.1469759234803067,
+      "netMargin": 0.13677763006155985,
+      "roe": 0.09594857193631759,
+      "roic": 0.09595151190917903
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:28.227106+00:00"
+  }
+}

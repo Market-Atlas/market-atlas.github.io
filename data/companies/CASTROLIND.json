@@ -1,0 +1,128 @@
+{
+  "ticker": "CASTROLIND",
+  "name": "Castrol India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 181226995712.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 183.22,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57003200000.0,
+    "operatingIncome": 12490900000.0,
+    "netIncome": 9499300000.0,
+    "eps": 9.6,
+    "freeCashFlow": 9928100000.0,
+    "totalDebt": 628100000.0,
+    "cash": 4266200000.0,
+    "sharesOutstanding": 989122384.0
+  },
+  "ratios": {
+    "roe": 0.499884228805978,
+    "roic": 0.6362812068605427,
+    "grossMargin": 0.4452714935301878,
+    "operatingMargin": 0.2191262946641592,
+    "netMargin": 0.16664503045443063,
+    "debtToEquity": 0.03305
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 47598000000.0,
+      "operatingIncome": 10396100000.0,
+      "netIncome": 8151500000.0,
+      "eps": 8.24,
+      "freeCashFlow": 8058500000.0,
+      "totalDebt": 499500000.0,
+      "cash": 5545000000.0,
+      "sharesOutstanding": 989122384.0,
+      "grossMargin": 0.4322345476700702,
+      "operatingMargin": 0.2184146392705576,
+      "netMargin": 0.17125719568049078,
+      "roe": 0.43220415369850956,
+      "roic": 0.536994183824213
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 50538600000.0,
+      "operatingIncome": 11092600000.0,
+      "netIncome": 8641300000.0,
+      "eps": 8.74,
+      "freeCashFlow": 7575000000.0,
+      "totalDebt": 769500000.0,
+      "cash": 4932100000.0,
+      "sharesOutstanding": 989122384.0,
+      "grossMargin": 0.4340543663655107,
+      "operatingMargin": 0.2194876787247767,
+      "netMargin": 0.17098415864309657,
+      "roe": 0.4072838162031211,
+      "roic": 0.5045209766037186
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53456800000.0,
+      "operatingIncome": 11816200000.0,
+      "netIncome": 9272300000.0,
+      "eps": 9.37,
+      "freeCashFlow": 9514000000.0,
+      "totalDebt": 820200000.0,
+      "cash": 4528700000.0,
+      "sharesOutstanding": 989122384.0,
+      "grossMargin": 0.4450359916792625,
+      "operatingMargin": 0.2210420376827644,
+      "netMargin": 0.1734540788075605,
+      "roe": 0.40697077296488277,
+      "roic": 0.5006037137930596
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 57003200000.0,
+      "operatingIncome": 12490900000.0,
+      "netIncome": 9499300000.0,
+      "eps": 9.6,
+      "freeCashFlow": 9928100000.0,
+      "totalDebt": 628100000.0,
+      "cash": 4266200000.0,
+      "sharesOutstanding": 989122384.0,
+      "grossMargin": 0.4452714935301878,
+      "operatingMargin": 0.2191262946641592,
+      "netMargin": 0.16664503045443063,
+      "roe": 0.499884228805978,
+      "roic": 0.6362812068605427
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:22.216546+00:00"
+  }
+}

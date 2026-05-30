@@ -1,0 +1,128 @@
+{
+  "ticker": "ROP",
+  "name": "Roper Technologies, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32851628032.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 325.53,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7902500000.0,
+    "operatingIncome": 2235400000.0,
+    "netIncome": 1536300000.0,
+    "eps": 14.2,
+    "freeCashFlow": 2435600000.0,
+    "totalDebt": 9349300000.0,
+    "cash": 297400000.0,
+    "sharesOutstanding": 109300000.0
+  },
+  "ratios": {
+    "roe": 0.07727284158639941,
+    "roic": 0.07647413002723155,
+    "grossMargin": 0.6924391015501423,
+    "operatingMargin": 0.28287250869977854,
+    "netMargin": 0.1944068332806074,
+    "debtToEquity": 0.55606
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5371800000.0,
+      "operatingIncome": 1524500000.0,
+      "netIncome": 4544700000.0,
+      "eps": 42.55,
+      "freeCashFlow": 664300000.0,
+      "totalDebt": 6708100000.0,
+      "cash": 792800000.0,
+      "sharesOutstanding": 107900000.0,
+      "grossMargin": 0.6986112662422279,
+      "operatingMargin": 0.2837968651103913,
+      "netMargin": 0.8460292639338769,
+      "roe": 0.2833742782675928,
+      "roic": 0.06702306789355444
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6177800000.0,
+      "operatingIncome": 1745200000.0,
+      "netIncome": 1384200000.0,
+      "eps": 12.89,
+      "freeCashFlow": 1927100000.0,
+      "totalDebt": 6373400000.0,
+      "cash": 214300000.0,
+      "sharesOutstanding": 108600000.0,
+      "grossMargin": 0.6972061251578232,
+      "operatingMargin": 0.28249538670724206,
+      "netMargin": 0.22406034510667228,
+      "roe": 0.07934742731358342,
+      "roic": 0.07327169979259558
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7039200000.0,
+      "operatingIncome": 1996800000.0,
+      "netIncome": 1549300000.0,
+      "eps": 14.35,
+      "freeCashFlow": 2282200000.0,
+      "totalDebt": 7669200000.0,
+      "cash": 188200000.0,
+      "sharesOutstanding": 108900000.0,
+      "grossMargin": 0.693019093078759,
+      "operatingMargin": 0.2836685987043982,
+      "netMargin": 0.22009603364018637,
+      "roe": 0.0821143123661727,
+      "roic": 0.07524645021253505
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7902500000.0,
+      "operatingIncome": 2235400000.0,
+      "netIncome": 1536300000.0,
+      "eps": 14.2,
+      "freeCashFlow": 2435600000.0,
+      "totalDebt": 9349300000.0,
+      "cash": 297400000.0,
+      "sharesOutstanding": 109300000.0,
+      "grossMargin": 0.6924391015501423,
+      "operatingMargin": 0.28287250869977854,
+      "netMargin": 0.1944068332806074,
+      "roe": 0.07727284158639941,
+      "roic": 0.07647413002723155
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:16.363738+00:00"
+  }
+}

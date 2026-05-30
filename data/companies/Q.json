@@ -1,0 +1,111 @@
+{
+  "ticker": "Q",
+  "name": "Qnity Electronics, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32656914432.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 156.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4754000000.0,
+    "operatingIncome": 1014000000.0,
+    "netIncome": 692000000.0,
+    "eps": 3.3,
+    "freeCashFlow": 988000000.0,
+    "totalDebt": 4027000000.0,
+    "cash": 915000000.0,
+    "sharesOutstanding": 209479173.0
+  },
+  "ratios": {
+    "roe": 0.09753347427766032,
+    "roic": 0.09117065276029492,
+    "grossMargin": 0.4617164493058477,
+    "operatingMargin": 0.2132940681531342,
+    "netMargin": 0.14556163230963398,
+    "debtToEquity": 0.60756
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4755000000.0,
+      "operatingIncome": 1034000000.0,
+      "netIncome": 774000000.0,
+      "eps": null,
+      "freeCashFlow": 951000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": 0.45362776025236595,
+      "operatingMargin": 0.2174553101997897,
+      "netMargin": 0.16277602523659307,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4035000000.0,
+      "operatingIncome": 657000000.0,
+      "netIncome": 507000000.0,
+      "eps": null,
+      "freeCashFlow": 651000000.0,
+      "totalDebt": null,
+      "cash": 139000000.0,
+      "sharesOutstanding": null,
+      "grossMargin": 0.4349442379182156,
+      "operatingMargin": 0.16282527881040892,
+      "netMargin": 0.12565055762081784,
+      "roe": 0.046352166758091055,
+      "roic": 0.06006582556226001
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4335000000.0,
+      "operatingIncome": 847000000.0,
+      "netIncome": 693000000.0,
+      "eps": 3.308924,
+      "freeCashFlow": 861000000.0,
+      "totalDebt": null,
+      "cash": 166000000.0,
+      "sharesOutstanding": null,
+      "grossMargin": 0.46043829296424454,
+      "operatingMargin": 0.19538638985005766,
+      "netMargin": 0.15986159169550174,
+      "roe": 0.06510710259301014,
+      "roic": 0.07957534761367907
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4754000000.0,
+      "operatingIncome": 1014000000.0,
+      "netIncome": 692000000.0,
+      "eps": 3.3,
+      "freeCashFlow": 988000000.0,
+      "totalDebt": 4027000000.0,
+      "cash": 915000000.0,
+      "sharesOutstanding": 209479173.0,
+      "grossMargin": 0.4617164493058477,
+      "operatingMargin": 0.2132940681531342,
+      "netMargin": 0.14556163230963398,
+      "roe": 0.09753347427766032,
+      "roic": 0.09117065276029492
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:13.726678+00:00"
+  }
+}

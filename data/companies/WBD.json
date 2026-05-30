@@ -1,0 +1,128 @@
+{
+  "ticker": "WBD",
+  "name": "Warner Bros. Discovery, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 67717763072.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 27.01,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37296000000.0,
+    "operatingIncome": 1309000000.0,
+    "netIncome": 727000000.0,
+    "eps": 0.29,
+    "freeCashFlow": 3088000000.0,
+    "totalDebt": 32567000000.0,
+    "cash": 4566000000.0,
+    "sharesOutstanding": 2710000000.0
+  },
+  "ratios": {
+    "roe": 0.020239984409365516,
+    "roic": 0.01911339543848378,
+    "grossMargin": 0.44002037752037754,
+    "operatingMargin": 0.0350975975975976,
+    "netMargin": 0.01949270699270699,
+    "debtToEquity": 0.9631799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 33817000000.0,
+      "operatingIncome": -3496000000.0,
+      "netIncome": -7371000000.0,
+      "eps": -3.82,
+      "freeCashFlow": 3317000000.0,
+      "totalDebt": 48999000000.0,
+      "cash": 3731000000.0,
+      "sharesOutstanding": 2660000000.0,
+      "grossMargin": 0.39551113345358846,
+      "operatingMargin": -0.10337995682644824,
+      "netMargin": -0.21796729455599254,
+      "roe": -0.15651343030045653,
+      "roic": -0.036381043561512685
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41321000000.0,
+      "operatingIncome": -886000000.0,
+      "netIncome": -3126000000.0,
+      "eps": -1.28,
+      "freeCashFlow": 6161000000.0,
+      "totalDebt": 43669000000.0,
+      "cash": 3780000000.0,
+      "sharesOutstanding": 2669000000.0,
+      "grossMargin": 0.4064519251712204,
+      "operatingMargin": -0.021441881851842887,
+      "netMargin": -0.07565160572106193,
+      "roe": -0.06911953301198426,
+      "roic": -0.009966814781483773
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 39321000000.0,
+      "operatingIncome": 18000000.0,
+      "netIncome": -11311000000.0,
+      "eps": -4.62,
+      "freeCashFlow": 4427000000.0,
+      "totalDebt": 39505000000.0,
+      "cash": 5312000000.0,
+      "sharesOutstanding": 2684000000.0,
+      "grossMargin": 0.4158337783881387,
+      "operatingMargin": 0.00045777065690089265,
+      "netMargin": -0.2876579944558887,
+      "roe": -0.33231483385727295,
+      "roic": 0.0002447580974137228
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 37296000000.0,
+      "operatingIncome": 1309000000.0,
+      "netIncome": 727000000.0,
+      "eps": 0.29,
+      "freeCashFlow": 3088000000.0,
+      "totalDebt": 32567000000.0,
+      "cash": 4566000000.0,
+      "sharesOutstanding": 2710000000.0,
+      "grossMargin": 0.44002037752037754,
+      "operatingMargin": 0.0350975975975976,
+      "netMargin": 0.01949270699270699,
+      "roe": 0.020239984409365516,
+      "roic": 0.01911339543848378
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:37.605185+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CHENNPETRO",
+  "name": "Chennai Petroleum Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 157578035200.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1058.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 636400600000.0,
+    "operatingIncome": 41471700000.0,
+    "netIncome": 31027000000.0,
+    "eps": 208.36,
+    "freeCashFlow": 20419000000.0,
+    "totalDebt": 19641600000.0,
+    "cash": 9050400000.0,
+    "sharesOutstanding": 148911400.0
+  },
+  "ratios": {
+    "roe": 0.2792907866535964,
+    "roic": 0.31722272069099244,
+    "grossMargin": 0.105924790140047,
+    "operatingMargin": 0.06516602907036857,
+    "netMargin": 0.04875388238163195,
+    "debtToEquity": 0.17679999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 766275700000.0,
+      "operatingIncome": 56455900000.0,
+      "netIncome": 35315300000.0,
+      "eps": 237.16,
+      "freeCashFlow": 53312100000.0,
+      "totalDebt": 42596000000.0,
+      "cash": 12300000.0,
+      "sharesOutstanding": 148911400.0,
+      "grossMargin": 0.0952411775552846,
+      "operatingMargin": 0.07367570183942933,
+      "netMargin": 0.04608693711675837,
+      "roe": 0.5454033000364474,
+      "roic": 0.5259206608860255
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 663204200000.0,
+      "operatingIncome": 39454300000.0,
+      "netIncome": 27450700000.0,
+      "eps": 184.34,
+      "freeCashFlow": 20915700000.0,
+      "totalDebt": 27859000000.0,
+      "cash": 1700000.0,
+      "sharesOutstanding": 148911400.0,
+      "grossMargin": 0.08199706817296995,
+      "operatingMargin": 0.059490425422516924,
+      "netMargin": 0.04139102255383787,
+      "roe": 0.31119996553647467,
+      "roic": 0.3399234243315568
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 593560200000.0,
+      "operatingIncome": 4094300000.0,
+      "netIncome": 2140900000.0,
+      "eps": 14.38,
+      "freeCashFlow": 6668800000.0,
+      "totalDebt": 31174300000.0,
+      "cash": 1839700000.0,
+      "sharesOutstanding": 148911400.0,
+      "grossMargin": 0.03941184061869377,
+      "operatingMargin": 0.006897868152211014,
+      "netMargin": 0.0036068793022173656,
+      "roe": 0.026087380356174566,
+      "roic": 0.03615569653340492
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 636400600000.0,
+      "operatingIncome": 41471700000.0,
+      "netIncome": 31027000000.0,
+      "eps": 208.36,
+      "freeCashFlow": 20419000000.0,
+      "totalDebt": 19641600000.0,
+      "cash": 9050400000.0,
+      "sharesOutstanding": 148911400.0,
+      "grossMargin": 0.105924790140047,
+      "operatingMargin": 0.06516602907036857,
+      "netMargin": 0.04875388238163195,
+      "roe": 0.2792907866535964,
+      "roic": 0.31722272069099244
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:24.931047+00:00"
+  }
+}

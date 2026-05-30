@@ -1,0 +1,111 @@
+{
+  "ticker": "VLTO",
+  "name": "Veralto Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20195629056.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5503000000.0,
+    "operatingIncome": 1277000000.0,
+    "netIncome": 940000000.0,
+    "eps": 3.76,
+    "freeCashFlow": 1014000000.0,
+    "totalDebt": 2879000000.0,
+    "cash": 2031000000.0,
+    "sharesOutstanding": 248400000.0
+  },
+  "ratios": {
+    "roe": 0.3027375201288245,
+    "roic": 0.2134024064171123,
+    "grossMargin": 0.599491186625477,
+    "operatingMargin": 0.2320552425949482,
+    "netMargin": 0.1708159185898601,
+    "debtToEquity": 0.95542
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4870000000.0,
+      "operatingIncome": 1112000000.0,
+      "netIncome": 845000000.0,
+      "eps": 3.425213,
+      "freeCashFlow": 836000000.0,
+      "totalDebt": 123000000.0,
+      "cash": 0.0,
+      "sharesOutstanding": 246061744.0,
+      "grossMargin": 0.5667351129363449,
+      "operatingMargin": 0.22833675564681724,
+      "netMargin": 0.1735112936344969,
+      "roe": 0.26120556414219476,
+      "roic": 0.33114949374627756
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5021000000.0,
+      "operatingIncome": 1140000000.0,
+      "netIncome": 839000000.0,
+      "eps": 3.4,
+      "freeCashFlow": 909000000.0,
+      "totalDebt": 2777000000.0,
+      "cash": 762000000.0,
+      "sharesOutstanding": 246400000.0,
+      "grossMargin": 0.5777733519219279,
+      "operatingMargin": 0.22704640509858595,
+      "netMargin": 0.16709818761202946,
+      "roe": 0.6066522053506869,
+      "roic": 0.27403846153846156
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5193000000.0,
+      "operatingIncome": 1208000000.0,
+      "netIncome": 833000000.0,
+      "eps": 3.34,
+      "freeCashFlow": 820000000.0,
+      "totalDebt": 2767000000.0,
+      "cash": 1101000000.0,
+      "sharesOutstanding": 247400000.0,
+      "grossMargin": 0.5979202772963604,
+      "operatingMargin": 0.2326208357404198,
+      "netMargin": 0.16040824186404776,
+      "roe": 0.40873405299313054,
+      "roic": 0.2514047866805411
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5503000000.0,
+      "operatingIncome": 1277000000.0,
+      "netIncome": 940000000.0,
+      "eps": 3.76,
+      "freeCashFlow": 1014000000.0,
+      "totalDebt": 2879000000.0,
+      "cash": 2031000000.0,
+      "sharesOutstanding": 248400000.0,
+      "grossMargin": 0.599491186625477,
+      "operatingMargin": 0.2320552425949482,
+      "netMargin": 0.1708159185898601,
+      "roe": 0.3027375201288245,
+      "roic": 0.2134024064171123
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:34.827306+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BSOFT",
+  "name": "Birlasoft Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 89253945344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 319.35,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 53099580000.0,
+    "operatingIncome": 7857230000.0,
+    "netIncome": 5183570000.0,
+    "eps": 18.5,
+    "freeCashFlow": 4365820000.0,
+    "totalDebt": 1407410000.0,
+    "cash": 4260340000.0,
+    "sharesOutstanding": 279486288.0
+  },
+  "ratios": {
+    "roe": 0.12602691033890534,
+    "roic": 0.184710542814942,
+    "grossMargin": 0.39708600331678706,
+    "operatingMargin": 0.14797160354187358,
+    "netMargin": 0.09761979284958562,
+    "debtToEquity": 0.03422
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 47947690000.0,
+      "operatingIncome": 4745340000.0,
+      "netIncome": 3315840000.0,
+      "eps": 11.92,
+      "freeCashFlow": 5031860000.0,
+      "totalDebt": 1018310000.0,
+      "cash": 4668820000.0,
+      "sharesOutstanding": 274870547.0,
+      "grossMargin": 0.23800041253290827,
+      "operatingMargin": 0.09896910570665657,
+      "netMargin": 0.06915536494041737,
+      "roe": 0.1354347702664673,
+      "roic": 0.18608271597773285
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 52781450000.0,
+      "operatingIncome": 9237120000.0,
+      "netIncome": 6237600000.0,
+      "eps": 22.25,
+      "freeCashFlow": 6920140000.0,
+      "totalDebt": 931770000.0,
+      "cash": 3925700000.0,
+      "sharesOutstanding": 275937421.0,
+      "grossMargin": 0.26680623590295455,
+      "operatingMargin": 0.17500693899087652,
+      "netMargin": 0.1181778825704864,
+      "roe": 0.2049061717242229,
+      "roic": 0.2944287798879419
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 53752390000.0,
+      "operatingIncome": 6117350000.0,
+      "netIncome": 5167600000.0,
+      "eps": 18.48,
+      "freeCashFlow": 5389330000.0,
+      "totalDebt": 1509970000.0,
+      "cash": 3270840000.0,
+      "sharesOutstanding": 277877193.0,
+      "grossMargin": 0.3786713483809743,
+      "operatingMargin": 0.11380610238912167,
+      "netMargin": 0.09613712060059097,
+      "roe": 0.14856990398559267,
+      "roic": 0.16855802547375817
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 53099580000.0,
+      "operatingIncome": 7857230000.0,
+      "netIncome": 5183570000.0,
+      "eps": 18.5,
+      "freeCashFlow": 4365820000.0,
+      "totalDebt": 1407410000.0,
+      "cash": 4260340000.0,
+      "sharesOutstanding": 279486288.0,
+      "grossMargin": 0.39708600331678706,
+      "operatingMargin": 0.14797160354187358,
+      "netMargin": 0.09761979284958562,
+      "roe": 0.12602691033890534,
+      "roic": 0.184710542814942
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:05.757534+00:00"
+  }
+}

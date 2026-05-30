@@ -1,0 +1,128 @@
+{
+  "ticker": "NATCOPHARM",
+  "name": "NATCO Pharma Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 181957722112.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1015.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40783000000.0,
+    "operatingIncome": 12299000000.0,
+    "netIncome": 14185000000.0,
+    "eps": null,
+    "freeCashFlow": 13772000000.0,
+    "totalDebt": 7139000000.0,
+    "cash": 1989000000.0,
+    "sharesOutstanding": 179109870.0
+  },
+  "ratios": {
+    "roe": 0.1538319723243431,
+    "roic": 0.12379466532460996,
+    "grossMargin": 0.8306892577789765,
+    "operatingMargin": 0.301571733320256,
+    "netMargin": 0.3478164921658534,
+    "debtToEquity": 0.07742
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 9.32,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26969000000.0,
+      "operatingIncome": 7901000000.0,
+      "netIncome": 7153000000.0,
+      "eps": 39.18,
+      "freeCashFlow": 6435000000.0,
+      "totalDebt": 1761000000.0,
+      "cash": 1319000000.0,
+      "sharesOutstanding": 182557165.0,
+      "grossMargin": 0.7235715080277355,
+      "operatingMargin": 0.29296599799770107,
+      "netMargin": 0.26523044977566834,
+      "roe": 0.1467643317329394,
+      "roic": 0.1564585437335393
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 39788000000.0,
+      "operatingIncome": 15768000000.0,
+      "netIncome": 13883000000.0,
+      "eps": 77.34,
+      "freeCashFlow": 8529000000.0,
+      "totalDebt": 3712000000.0,
+      "cash": 704000000.0,
+      "sharesOutstanding": 179109870.0,
+      "grossMargin": 0.7832260983211018,
+      "operatingMargin": 0.3963003920780135,
+      "netMargin": 0.34892429878355286,
+      "roe": 0.23719054859817873,
+      "roic": 0.2533296916922385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 44295000000.0,
+      "operatingIncome": 19608000000.0,
+      "netIncome": 18854000000.0,
+      "eps": 105.26,
+      "freeCashFlow": 11852000000.0,
+      "totalDebt": 2794000000.0,
+      "cash": 1200000000.0,
+      "sharesOutstanding": 179109870.0,
+      "grossMargin": 0.8442713624562592,
+      "operatingMargin": 0.44266847273958687,
+      "netMargin": 0.42564623546675695,
+      "roe": 0.24785066386223215,
+      "roic": 0.2486305538648813
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 40783000000.0,
+      "operatingIncome": 12299000000.0,
+      "netIncome": 14185000000.0,
+      "eps": null,
+      "freeCashFlow": 13772000000.0,
+      "totalDebt": 7139000000.0,
+      "cash": 1989000000.0,
+      "sharesOutstanding": 179109870.0,
+      "grossMargin": 0.8306892577789765,
+      "operatingMargin": 0.301571733320256,
+      "netMargin": 0.3478164921658534,
+      "roe": 0.1538319723243431,
+      "roic": 0.12379466532460996
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:29.460544+00:00"
+  }
+}

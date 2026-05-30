@@ -1,0 +1,111 @@
+{
+  "ticker": "PRU",
+  "name": "Prudential Financial, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "USD",
+  "marketCap": {
+    "value": 34954801152.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 100.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 60967000000.0,
+    "operatingIncome": null,
+    "netIncome": 3576000000.0,
+    "eps": 9.99,
+    "freeCashFlow": null,
+    "totalDebt": 22958000000.0,
+    "cash": 19712000000.0,
+    "sharesOutstanding": 666305189.0
+  },
+  "ratios": {
+    "roe": 0.11024107528207658,
+    "roic": null,
+    "grossMargin": 0.28956,
+    "operatingMargin": 0.04721,
+    "netMargin": 0.0586546820411042,
+    "debtToEquity": 1.58972
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 56986000000.0,
+      "operatingIncome": null,
+      "netIncome": -1647000000.0,
+      "eps": -4.491002,
+      "freeCashFlow": null,
+      "totalDebt": 21057000000.0,
+      "cash": 17251000000.0,
+      "sharesOutstanding": 666305189.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.028901835538553328,
+      "roe": -0.05383584480109829,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 54265000000.0,
+      "operatingIncome": null,
+      "netIncome": 2488000000.0,
+      "eps": 6.74,
+      "freeCashFlow": null,
+      "totalDebt": 20874000000.0,
+      "cash": 19419000000.0,
+      "sharesOutstanding": 666305189.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04584907398875887,
+      "roe": 0.08943206326383897,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 70675000000.0,
+      "operatingIncome": null,
+      "netIncome": 2727000000.0,
+      "eps": 7.5,
+      "freeCashFlow": null,
+      "totalDebt": 21570000000.0,
+      "cash": 18497000000.0,
+      "sharesOutstanding": 666305189.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.038585072515033604,
+      "roe": 0.09784012629161883,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 60967000000.0,
+      "operatingIncome": null,
+      "netIncome": 3576000000.0,
+      "eps": 9.99,
+      "freeCashFlow": null,
+      "totalDebt": 22958000000.0,
+      "cash": 19712000000.0,
+      "sharesOutstanding": 666305189.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0586546820411042,
+      "roe": 0.11024107528207658,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:11.954501+00:00"
+  }
+}

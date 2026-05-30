@@ -1,0 +1,128 @@
+{
+  "ticker": "PGR",
+  "name": "The Progressive Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 111098404864.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 190.4,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 87637000000.0,
+    "operatingIncome": null,
+    "netIncome": 11308000000.0,
+    "eps": 19.23,
+    "freeCashFlow": 17200000000.0,
+    "totalDebt": 6897000000.0,
+    "cash": 125000000.0,
+    "sharesOutstanding": 798565686.0
+  },
+  "ratios": {
+    "roe": 0.37291824687530917,
+    "roic": null,
+    "grossMargin": 0.18562001,
+    "operatingMargin": 0.16393,
+    "netMargin": 0.12903225806451613,
+    "debtToEquity": 0.26174
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 49587000000.0,
+      "operatingIncome": null,
+      "netIncome": 722000000.0,
+      "eps": 1.18,
+      "freeCashFlow": 6557000000.0,
+      "totalDebt": 6388300000.0,
+      "cash": 203500000.0,
+      "sharesOutstanding": 797600000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.014560267812128179,
+      "roe": 0.045434522685796994,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 62083000000.0,
+      "operatingIncome": null,
+      "netIncome": 3903000000.0,
+      "eps": 6.58,
+      "freeCashFlow": 10391000000.0,
+      "totalDebt": 6889000000.0,
+      "cash": 85000000.0,
+      "sharesOutstanding": 797600000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06286745163732423,
+      "roe": 0.19248409528036692,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 75343000000.0,
+      "operatingIncome": null,
+      "netIncome": 8480000000.0,
+      "eps": 14.4,
+      "freeCashFlow": 14834000000.0,
+      "totalDebt": 6893000000.0,
+      "cash": 143000000.0,
+      "sharesOutstanding": 798000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11255192917722948,
+      "roe": 0.3313664960337619,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 87637000000.0,
+      "operatingIncome": null,
+      "netIncome": 11308000000.0,
+      "eps": 19.23,
+      "freeCashFlow": 17200000000.0,
+      "totalDebt": 6897000000.0,
+      "cash": 125000000.0,
+      "sharesOutstanding": 798565686.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12903225806451613,
+      "roe": 0.37291824687530917,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:07.480085+00:00"
+  }
+}

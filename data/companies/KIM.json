@@ -1,0 +1,128 @@
+{
+  "ticker": "KIM",
+  "name": "Kimco Realty Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 16239305728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.08,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2140116000.0,
+    "operatingIncome": 717677000.0,
+    "netIncome": 584741000.0,
+    "eps": 0.82,
+    "freeCashFlow": null,
+    "totalDebt": 8305981000.0,
+    "cash": 211648000.0,
+    "sharesOutstanding": 674093047.0
+  },
+  "ratios": {
+    "roe": 0.056269267528856304,
+    "roic": 0.038382929943105125,
+    "grossMargin": 0.6905149066686105,
+    "operatingMargin": 0.33534490653777643,
+    "netMargin": 0.27322864741911185,
+    "debtToEquity": 0.7878799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1727684000.0,
+      "operatingIncome": 572243000.0,
+      "netIncome": 125976000.0,
+      "eps": 0.16,
+      "freeCashFlow": null,
+      "totalDebt": 7271565000.0,
+      "cash": 146970000.0,
+      "sharesOutstanding": 618483565.0,
+      "grossMargin": 0.6927059578024685,
+      "operatingMargin": 0.33121971379025333,
+      "netMargin": 0.07291611197418046,
+      "roe": 0.013239019924107047,
+      "roic": 0.034088313072803106
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1783400000.0,
+      "operatingIncome": 582610000.0,
+      "netIncome": 654273000.0,
+      "eps": 1.02,
+      "freeCashFlow": null,
+      "totalDebt": 7726781000.0,
+      "cash": 780518000.0,
+      "sharesOutstanding": 619871237.0,
+      "grossMargin": 0.6878333520242234,
+      "operatingMargin": 0.3266849837389256,
+      "netMargin": 0.3668683413704161,
+      "roe": 0.06868672552993475,
+      "roic": 0.03377009578926709
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2037014000.0,
+      "operatingIncome": 657536000.0,
+      "netIncome": 410785000.0,
+      "eps": 0.55,
+      "freeCashFlow": null,
+      "totalDebt": 8578337000.0,
+      "cash": 688622000.0,
+      "sharesOutstanding": 679493522.0,
+      "grossMargin": 0.6869668053336894,
+      "operatingMargin": 0.3227940505072621,
+      "netMargin": 0.201660371504565,
+      "roe": 0.038562139176668266,
+      "roic": 0.03419166794412571
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2140116000.0,
+      "operatingIncome": 717677000.0,
+      "netIncome": 584741000.0,
+      "eps": 0.82,
+      "freeCashFlow": null,
+      "totalDebt": 8305981000.0,
+      "cash": 211648000.0,
+      "sharesOutstanding": 674093047.0,
+      "grossMargin": 0.6905149066686105,
+      "operatingMargin": 0.33534490653777643,
+      "netMargin": 0.27322864741911185,
+      "roe": 0.056269267528856304,
+      "roic": 0.038382929943105125
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:45.000924+00:00"
+  }
+}

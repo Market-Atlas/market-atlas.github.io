@@ -1,0 +1,111 @@
+{
+  "ticker": "FIX",
+  "name": "Comfort Systems USA, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "USD",
+  "marketCap": {
+    "value": 64323682304.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1828.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9101641000.0,
+    "operatingIncome": 1312615000.0,
+    "netIncome": 1022558000.0,
+    "eps": 28.88,
+    "freeCashFlow": 1031453000.0,
+    "totalDebt": 483358000.0,
+    "cash": 981898000.0,
+    "sharesOutstanding": 41123365.0
+  },
+  "ratios": {
+    "roe": 0.4175795724717757,
+    "roic": 0.44766572582680453,
+    "grossMargin": 0.2412640753464128,
+    "operatingMargin": 0.1442173999172237,
+    "netMargin": 0.11234875117574952,
+    "debtToEquity": 0.45488999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4140364000.0,
+      "operatingIncome": 252264000.0,
+      "netIncome": 245947000.0,
+      "eps": 6.82,
+      "freeCashFlow": 253172000.0,
+      "totalDebt": 389140000.0,
+      "cash": 57214000.0,
+      "sharesOutstanding": 41123365.0,
+      "grossMargin": 0.17911661873207282,
+      "operatingMargin": 0.06092797638082063,
+      "netMargin": 0.059402265114854635,
+      "roe": 0.24596593937733205,
+      "roic": 0.18160731370715366
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5206760000.0,
+      "operatingIncome": 416086000.0,
+      "netIncome": 323398000.0,
+      "eps": 9.01,
+      "freeCashFlow": 544730000.0,
+      "totalDebt": 256774000.0,
+      "cash": 205150000.0,
+      "sharesOutstanding": 41123365.0,
+      "grossMargin": 0.19023519424747828,
+      "operatingMargin": 0.07991265201392037,
+      "netMargin": 0.062111178544814814,
+      "roe": 0.2530839415915588,
+      "roic": 0.2711359224503015
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7027476000.0,
+      "operatingIncome": 746339000.0,
+      "netIncome": 522433000.0,
+      "eps": 14.6,
+      "freeCashFlow": 737986000.0,
+      "totalDebt": 308600000.0,
+      "cash": 549939000.0,
+      "sharesOutstanding": 41123365.0,
+      "grossMargin": 0.21009121909487843,
+      "operatingMargin": 0.10620299521478266,
+      "netMargin": 0.07434148476636562,
+      "roe": 0.3064705551084194,
+      "roic": 0.37070873541431976
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9101641000.0,
+      "operatingIncome": 1312615000.0,
+      "netIncome": 1022558000.0,
+      "eps": 28.88,
+      "freeCashFlow": 1031453000.0,
+      "totalDebt": 483358000.0,
+      "cash": 981898000.0,
+      "sharesOutstanding": 41123365.0,
+      "grossMargin": 0.2412640753464128,
+      "operatingMargin": 0.1442173999172237,
+      "netMargin": 0.11234875117574952,
+      "roe": 0.4175795724717757,
+      "roic": 0.44766572582680453
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:27.014697+00:00"
+  }
+}

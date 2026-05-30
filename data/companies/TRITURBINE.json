@@ -1,0 +1,128 @@
+{
+  "ticker": "TRITURBINE",
+  "name": "Triveni Turbine Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 235719131136.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 741.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21811000000.0,
+    "operatingIncome": 4162000000.0,
+    "netIncome": 3497000000.0,
+    "eps": null,
+    "freeCashFlow": 394000000.0,
+    "totalDebt": 358000000.0,
+    "cash": 1007000000.0,
+    "sharesOutstanding": 317894979.0
+  },
+  "ratios": {
+    "roe": 0.24183955739972338,
+    "roic": 0.28087461195842894,
+    "grossMargin": 0.46847920773921414,
+    "operatingMargin": 0.19082114529365915,
+    "netMargin": 0.16033194259777175,
+    "debtToEquity": 0.02476
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 8.36,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12364900000.0,
+      "operatingIncome": 2157990000.0,
+      "netIncome": 1925500000.0,
+      "eps": 5.97,
+      "freeCashFlow": 1571310000.0,
+      "totalDebt": 37160000.0,
+      "cash": 297130000.0,
+      "sharesOutstanding": 317876913.0,
+      "grossMargin": 0.39538208962466337,
+      "operatingMargin": 0.17452547129374277,
+      "netMargin": 0.15572305477601922,
+      "roe": 0.25323864009995395,
+      "roic": 0.2824350252465101
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16427040000.0,
+      "operatingIncome": 3028660000.0,
+      "netIncome": 2692000000.0,
+      "eps": 8.47,
+      "freeCashFlow": 2393200000.0,
+      "totalDebt": 31180000.0,
+      "cash": 291160000.0,
+      "sharesOutstanding": 317876913.0,
+      "grossMargin": 0.5013100351615385,
+      "operatingMargin": 0.18437040391939144,
+      "netMargin": 0.16387614567201395,
+      "roe": 0.28047451453528954,
+      "roic": 0.31452872512773644
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 20058000000.0,
+      "operatingIncome": 4104000000.0,
+      "netIncome": 3572000000.0,
+      "eps": 11.28,
+      "freeCashFlow": 1439000000.0,
+      "totalDebt": 391550000.0,
+      "cash": 981950000.0,
+      "sharesOutstanding": 317876913.0,
+      "grossMargin": 0.5013460963206701,
+      "operatingMargin": 0.20460664074184864,
+      "netMargin": 0.1780835576827201,
+      "roe": 0.29365895606378617,
+      "roic": 0.3268733891290704
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 21811000000.0,
+      "operatingIncome": 4162000000.0,
+      "netIncome": 3497000000.0,
+      "eps": null,
+      "freeCashFlow": 394000000.0,
+      "totalDebt": 358000000.0,
+      "cash": 1007000000.0,
+      "sharesOutstanding": 317894979.0,
+      "grossMargin": 0.46847920773921414,
+      "operatingMargin": 0.19082114529365915,
+      "netMargin": 0.16033194259777175,
+      "roe": 0.24183955739972338,
+      "roic": 0.28087461195842894
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:09.691606+00:00"
+  }
+}

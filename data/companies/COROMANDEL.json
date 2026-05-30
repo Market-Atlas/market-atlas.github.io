@@ -1,0 +1,128 @@
+{
+  "ticker": "COROMANDEL",
+  "name": "Coromandel International Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 516818075648.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1753.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 314795400000.0,
+    "operatingIncome": 26824400000.0,
+    "netIncome": 19561500000.0,
+    "eps": 66.31,
+    "freeCashFlow": 170700000.0,
+    "totalDebt": 65282900000.0,
+    "cash": 4225300000.0,
+    "sharesOutstanding": 295014639.0
+  },
+  "ratios": {
+    "roe": 0.15577059521941983,
+    "roic": 0.14054357655644031,
+    "grossMargin": 0.24811353660186902,
+    "operatingMargin": 0.085212172731876,
+    "netMargin": 0.06214036164442047,
+    "debtToEquity": 0.11469
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 150988400000.0,
+      "operatingIncome": 29107400000.0,
+      "netIncome": 20129300000.0,
+      "eps": 68.38,
+      "freeCashFlow": -142700000.0,
+      "totalDebt": 3925800000.0,
+      "cash": 13937500000.0,
+      "sharesOutstanding": 294013749.0,
+      "grossMargin": -0.5677369917159198,
+      "operatingMargin": 0.1927790479268606,
+      "netMargin": 0.13331686407697546,
+      "roe": 0.2545502599335592,
+      "roic": 0.3506759337234364
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 138320100000.0,
+      "operatingIncome": 22391700000.0,
+      "netIncome": 16421900000.0,
+      "eps": 55.75,
+      "freeCashFlow": 9008000000.0,
+      "totalDebt": 4921200000.0,
+      "cash": 11266500000.0,
+      "sharesOutstanding": 294442969.0,
+      "grossMargin": -0.20255046085131517,
+      "operatingMargin": 0.16188319701908832,
+      "netMargin": 0.11872388756225595,
+      "roe": 0.17433199927812398,
+      "roic": 0.22590450786015362
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 240852400000.0,
+      "operatingIncome": 23379300000.0,
+      "netIncome": 20664600000.0,
+      "eps": 70.12,
+      "freeCashFlow": 16129700000.0,
+      "totalDebt": 7803800000.0,
+      "cash": 2547500000.0,
+      "sharesOutstanding": 294636339.0,
+      "grossMargin": 0.2587049163720187,
+      "operatingMargin": 0.09706899329215736,
+      "netMargin": 0.08579777490280355,
+      "roe": 0.18637190505265683,
+      "roic": 0.1969909531428918
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 314795400000.0,
+      "operatingIncome": 26824400000.0,
+      "netIncome": 19561500000.0,
+      "eps": 66.31,
+      "freeCashFlow": 170700000.0,
+      "totalDebt": 65282900000.0,
+      "cash": 4225300000.0,
+      "sharesOutstanding": 295014639.0,
+      "grossMargin": 0.24811353660186902,
+      "operatingMargin": 0.085212172731876,
+      "netMargin": 0.06214036164442047,
+      "roe": 0.15577059521941983,
+      "roic": 0.14054357655644031
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:28.431845+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "CANBK",
+  "name": "Canara Bank",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1186441199616.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 130.8,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 641752896000.0,
+    "operatingIncome": null,
+    "netIncome": 197059095000.0,
+    "eps": 21.73,
+    "freeCashFlow": 66521700000.0,
+    "totalDebt": 1205076626000.0,
+    "cash": 2063304304000.0,
+    "sharesOutstanding": 9070651260.0
+  },
+  "ratios": {
+    "roe": 0.16741828570199635,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": -0.32213002,
+    "netMargin": 0.30706381884406797,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 553766487000.0,
+      "operatingIncome": null,
+      "netIncome": 112547457000.0,
+      "eps": 12.408,
+      "freeCashFlow": -405913200000.0,
+      "totalDebt": 594125643000.0,
+      "cash": 1417028205000.0,
+      "sharesOutstanding": 9070651260.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20323992087300147,
+      "roe": 0.1441922421942008,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 661201114000.0,
+      "operatingIncome": null,
+      "netIncome": 152785644000.0,
+      "eps": 16.844,
+      "freeCashFlow": 137933500000.0,
+      "totalDebt": 600612672000.0,
+      "cash": 1511646899000.0,
+      "sharesOutstanding": 9070651260.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23107287747249622,
+      "roe": 0.16583119741657867,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 711938129000.0,
+      "operatingIncome": null,
+      "netIncome": 175396241000.0,
+      "eps": 19.34,
+      "freeCashFlow": null,
+      "totalDebt": 832376594000.0,
+      "cash": 2058901119000.0,
+      "sharesOutstanding": 9070651260.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24636444355967344,
+      "roe": 0.16638363845902338,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 641752896000.0,
+      "operatingIncome": null,
+      "netIncome": 197059095000.0,
+      "eps": 21.73,
+      "freeCashFlow": 66521700000.0,
+      "totalDebt": 1205076626000.0,
+      "cash": 2063304304000.0,
+      "sharesOutstanding": 9070651260.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30706381884406797,
+      "roe": 0.16741828570199635,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:05.959490+00:00"
+  }
+}

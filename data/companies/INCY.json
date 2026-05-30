@@ -1,0 +1,128 @@
+{
+  "ticker": "INCY",
+  "name": "Incyte Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "USD",
+  "marketCap": {
+    "value": 19326924800.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 96.74,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5141242000.0,
+    "operatingIncome": 1342790000.0,
+    "netIncome": 1286650000.0,
+    "eps": 6.41,
+    "freeCashFlow": 1329631000.0,
+    "totalDebt": 40412000.0,
+    "cash": 3097817000.0,
+    "sharesOutstanding": 198460009.0
+  },
+  "ratios": {
+    "roe": 0.24898993280668055,
+    "roic": 0.2578376271388221,
+    "grossMargin": 0.9276244922919403,
+    "operatingMargin": 0.26118008061087183,
+    "netMargin": 0.2502605401574172,
+    "debtToEquity": 0.00701
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3394635000.0,
+      "operatingIncome": 591626000.0,
+      "netIncome": 340660000.0,
+      "eps": 1.52,
+      "freeCashFlow": 892108000.0,
+      "totalDebt": 41457000.0,
+      "cash": 2951422000.0,
+      "sharesOutstanding": 222746719.0,
+      "grossMargin": 0.9390214264567472,
+      "operatingMargin": 0.17428265483623423,
+      "netMargin": 0.10035246793837924,
+      "roe": 0.07795211068623074,
+      "roic": 0.1341076295636752
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3695649000.0,
+      "operatingIncome": 655358000.0,
+      "netIncome": 597599000.0,
+      "eps": 2.65,
+      "freeCashFlow": 449001000.0,
+      "totalDebt": 38287000.0,
+      "cash": 3213376000.0,
+      "sharesOutstanding": 224286862.0,
+      "grossMargin": 0.9310026466258023,
+      "operatingMargin": 0.17733231700304872,
+      "netMargin": 0.16170339769821215,
+      "roe": 0.11514793239171095,
+      "roic": 0.125352420868365
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4241217000.0,
+      "operatingIncome": 101294000.0,
+      "netIncome": 32615000.0,
+      "eps": 0.15,
+      "freeCashFlow": 235174000.0,
+      "totalDebt": 43544000.0,
+      "cash": 1687829000.0,
+      "sharesOutstanding": 193434305.0,
+      "grossMargin": 0.9264126310915004,
+      "operatingMargin": 0.02388323917403896,
+      "netMargin": 0.007690009730697581,
+      "roe": 0.009460127368730037,
+      "roic": 0.02901432527529437
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5141242000.0,
+      "operatingIncome": 1342790000.0,
+      "netIncome": 1286650000.0,
+      "eps": 6.41,
+      "freeCashFlow": 1329631000.0,
+      "totalDebt": 40412000.0,
+      "cash": 3097817000.0,
+      "sharesOutstanding": 198460009.0,
+      "grossMargin": 0.9276244922919403,
+      "operatingMargin": 0.26118008061087183,
+      "netMargin": 0.2502605401574172,
+      "roe": 0.24898993280668055,
+      "roic": 0.2578376271388221
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:40.427411+00:00"
+  }
+}

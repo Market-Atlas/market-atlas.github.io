@@ -1,0 +1,128 @@
+{
+  "ticker": "FIVESTAR",
+  "name": "Five-Star Business Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 131399278592.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 445.15,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31756690000.0,
+    "operatingIncome": 16088315000.0,
+    "netIncome": 10987453000.0,
+    "eps": 37.25,
+    "freeCashFlow": -2899245000.0,
+    "totalDebt": 82004300000.0,
+    "cash": 16178952000.0,
+    "sharesOutstanding": 295175278.0
+  },
+  "ratios": {
+    "roe": 0.1488783783578705,
+    "roic": 0.10325874442854631,
+    "grossMargin": 0.5695158720886843,
+    "operatingMargin": 0.5066118351755173,
+    "netMargin": 0.3459886090143526,
+    "debtToEquity": 1.1111499999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14696193000.0,
+      "operatingIncome": 8540384000.0,
+      "netIncome": 6034961000.0,
+      "eps": 20.49,
+      "freeCashFlow": -11349417000.0,
+      "totalDebt": 42472791000.0,
+      "cash": 13403580000.0,
+      "sharesOutstanding": 291366120.0,
+      "grossMargin": 0.6855346143045346,
+      "operatingMargin": 0.5811290039536089,
+      "netMargin": 0.41064791405502094,
+      "roe": 0.1390693108180469,
+      "roic": 0.09945928954462714
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 20780981000.0,
+      "operatingIncome": 11027925000.0,
+      "netIncome": 8359163000.0,
+      "eps": 28.39,
+      "freeCashFlow": -21447320000.0,
+      "totalDebt": 63158451000.0,
+      "cash": 15343993000.0,
+      "sharesOutstanding": 292449220.0,
+      "grossMargin": 0.611219653201165,
+      "operatingMargin": 0.5306739369041337,
+      "netMargin": 0.40225064447150016,
+      "roe": 0.16087209643700562,
+      "roic": 0.09579504162256848
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 27984424000.0,
+      "operatingIncome": 14519780000.0,
+      "netIncome": 10724899000.0,
+      "eps": 36.5,
+      "freeCashFlow": -11276697000.0,
+      "totalDebt": 79219939000.0,
+      "cash": 14971605000.0,
+      "sharesOutstanding": 294427100.0,
+      "grossMargin": 0.5750902716453982,
+      "operatingMargin": 0.5188522014960893,
+      "netMargin": 0.38324530102888665,
+      "roe": 0.1701121023140111,
+      "roic": 0.10206078323447135
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 31756690000.0,
+      "operatingIncome": 16088315000.0,
+      "netIncome": 10987453000.0,
+      "eps": 37.25,
+      "freeCashFlow": -2899245000.0,
+      "totalDebt": 82004300000.0,
+      "cash": 16178952000.0,
+      "sharesOutstanding": 295175278.0,
+      "grossMargin": 0.5695158720886843,
+      "operatingMargin": 0.5066118351755173,
+      "netMargin": 0.3459886090143526,
+      "roe": 0.1488783783578705,
+      "roic": 0.10325874442854631
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:42.703034+00:00"
+  }
+}

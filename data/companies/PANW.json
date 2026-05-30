@@ -1,0 +1,128 @@
+{
+  "ticker": "PANW",
+  "name": "Palo Alto Networks, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 228450598912.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 281.69,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9221500000.0,
+    "operatingIncome": 1242900000.0,
+    "netIncome": 1133900000.0,
+    "eps": 1.6,
+    "freeCashFlow": 3469800000.0,
+    "totalDebt": 338200000.0,
+    "cash": 2268600000.0,
+    "sharesOutstanding": 667900000.0
+  },
+  "ratios": {
+    "roe": 0.14491846020142118,
+    "roic": 0.15226765981427487,
+    "grossMargin": 0.734143035297945,
+    "operatingMargin": 0.1347828444396248,
+    "netMargin": 0.12296264165265955,
+    "debtToEquity": 0.04887
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-07-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 5501500000.0,
+      "operatingIncome": -188800000.0,
+      "netIncome": -267000000.0,
+      "eps": -0.451667,
+      "freeCashFlow": 1791900000.0,
+      "totalDebt": 3952900000.0,
+      "cash": 2118500000.0,
+      "sharesOutstanding": 597600000.0,
+      "grossMargin": 0.6875942924656911,
+      "operatingMargin": -0.034317913296373716,
+      "netMargin": -0.048532218485867494,
+      "roe": -1.2714285714285714,
+      "roic": -0.04535299911119652
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 6892700000.0,
+      "operatingIncome": 387300000.0,
+      "netIncome": 439700000.0,
+      "eps": 0.64,
+      "freeCashFlow": 2631200000.0,
+      "totalDebt": 2270700000.0,
+      "cash": 1135300000.0,
+      "sharesOutstanding": 616600000.0,
+      "grossMargin": 0.722938761298185,
+      "operatingMargin": 0.05618988204912444,
+      "netMargin": 0.06379212790343407,
+      "roe": 0.2514870738961336,
+      "roic": 0.09636485780398597
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 8027500000.0,
+      "operatingIncome": 683900000.0,
+      "netIncome": 2577600000.0,
+      "eps": 3.64,
+      "freeCashFlow": 3100800000.0,
+      "totalDebt": 1344400000.0,
+      "cash": 1535200000.0,
+      "sharesOutstanding": 650200000.0,
+      "grossMargin": 0.7434817813765182,
+      "operatingMargin": 0.0851946434132669,
+      "netMargin": 0.32109623170351914,
+      "roe": 0.49859759753950905,
+      "roic": 0.10498764219155371
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": 9221500000.0,
+      "operatingIncome": 1242900000.0,
+      "netIncome": 1133900000.0,
+      "eps": 1.6,
+      "freeCashFlow": 3469800000.0,
+      "totalDebt": 338200000.0,
+      "cash": 2268600000.0,
+      "sharesOutstanding": 667900000.0,
+      "grossMargin": 0.734143035297945,
+      "operatingMargin": 0.1347828444396248,
+      "netMargin": 0.12296264165265955,
+      "roe": 0.14491846020142118,
+      "roic": 0.15226765981427487
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:05.356320+00:00"
+  }
+}

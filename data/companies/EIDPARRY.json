@@ -1,0 +1,111 @@
+{
+  "ticker": "EIDPARRY",
+  "name": "E.I.D.- Parry (India) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 134405341184.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 755.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 234192100000.0,
+    "operatingIncome": 22133400000.0,
+    "netIncome": 8783500000.0,
+    "eps": 49.33,
+    "freeCashFlow": 8900000000.0,
+    "totalDebt": 27040600000.0,
+    "cash": 4038900000.0,
+    "sharesOutstanding": 177778294.0
+  },
+  "ratios": {
+    "roe": 0.11068294914267497,
+    "roic": 0.2080247824440144,
+    "grossMargin": -0.04666425554064377,
+    "operatingMargin": 0.09450959276593873,
+    "netMargin": 0.03750553498602216,
+    "debtToEquity": 0.23646999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 166532700000.0,
+      "operatingIncome": 21199500000.0,
+      "netIncome": 9068300000.0,
+      "eps": 51.04,
+      "freeCashFlow": 18289700000.0,
+      "totalDebt": 12593500000.0,
+      "cash": 7781700000.0,
+      "sharesOutstanding": 177386525.0,
+      "grossMargin": -0.07113738022622584,
+      "operatingMargin": 0.12729932319598494,
+      "netMargin": 0.05445356977938867,
+      "roe": 0.17027305125672676,
+      "roic": 0.32193181869951665
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 206814800000.0,
+      "operatingIncome": 28211000000.0,
+      "netIncome": 9474800000.0,
+      "eps": 53.25,
+      "freeCashFlow": -5013900000.0,
+      "totalDebt": 16178400000.0,
+      "cash": 14395900000.0,
+      "sharesOutstanding": 177517591.0,
+      "grossMargin": -0.363845334086342,
+      "operatingMargin": 0.13640706564520527,
+      "netMargin": 0.04581296889777714,
+      "roe": 0.15571157170936295,
+      "roic": 0.3662491496466165
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 211946000000.0,
+      "operatingIncome": 22605900000.0,
+      "netIncome": 8996700000.0,
+      "eps": 50.61,
+      "freeCashFlow": 9994500000.0,
+      "totalDebt": 17402800000.0,
+      "cash": 11763200000.0,
+      "sharesOutstanding": 177517591.0,
+      "grossMargin": -0.08010295075160655,
+      "operatingMargin": 0.10665877157389146,
+      "netMargin": 0.04244807639681806,
+      "roe": 0.12746360641802146,
+      "roic": 0.2569281459516533
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 234192100000.0,
+      "operatingIncome": 22133400000.0,
+      "netIncome": 8783500000.0,
+      "eps": 49.33,
+      "freeCashFlow": 8900000000.0,
+      "totalDebt": 27040600000.0,
+      "cash": 4038900000.0,
+      "sharesOutstanding": 177778294.0,
+      "grossMargin": -0.04666425554064377,
+      "operatingMargin": 0.09450959276593873,
+      "netMargin": 0.03750553498602216,
+      "roe": 0.11068294914267497,
+      "roic": 0.2080247824440144
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:36.476561+00:00"
+  }
+}

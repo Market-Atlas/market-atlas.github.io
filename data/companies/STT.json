@@ -1,0 +1,128 @@
+{
+  "ticker": "STT",
+  "name": "State Street Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 43076022272.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 155.64,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 13965000000.0,
+    "operatingIncome": null,
+    "netIncome": 2945000000.0,
+    "eps": 9.4,
+    "freeCashFlow": 10843000000.0,
+    "totalDebt": 28964000000.0,
+    "cash": 131363000000.0,
+    "sharesOutstanding": 503879642.0
+  },
+  "ratios": {
+    "roe": 0.10577924643511367,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.27818,
+    "netMargin": 0.2108843537414966,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12125000000.0,
+      "operatingIncome": null,
+      "netIncome": 2774000000.0,
+      "eps": 7.19,
+      "freeCashFlow": 11220000000.0,
+      "totalDebt": 17093000000.0,
+      "cash": 105625000000.0,
+      "sharesOutstanding": 503879642.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2287835051546392,
+      "roe": 0.11011869318407368,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11945000000.0,
+      "operatingIncome": null,
+      "netIncome": 1944000000.0,
+      "eps": 5.58,
+      "freeCashFlow": -126000000.0,
+      "totalDebt": 22499000000.0,
+      "cash": 91712000000.0,
+      "sharesOutstanding": 503879642.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16274591879447467,
+      "roe": 0.08168410437413337,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12919000000.0,
+      "operatingIncome": null,
+      "netIncome": 2687000000.0,
+      "eps": 8.21,
+      "freeCashFlow": -14136000000.0,
+      "totalDebt": 33112000000.0,
+      "cash": 116102000000.0,
+      "sharesOutstanding": 503879642.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20798823438346623,
+      "roe": 0.10609650161888969,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13965000000.0,
+      "operatingIncome": null,
+      "netIncome": 2945000000.0,
+      "eps": 9.4,
+      "freeCashFlow": 10843000000.0,
+      "totalDebt": 28964000000.0,
+      "cash": 131363000000.0,
+      "sharesOutstanding": 503879642.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2108843537414966,
+      "roe": 0.10577924643511367,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:21.779066+00:00"
+  }
+}

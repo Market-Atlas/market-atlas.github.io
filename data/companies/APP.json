@@ -1,0 +1,128 @@
+{
+  "ticker": "APP",
+  "name": "AppLovin Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 205961166848.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 613.09,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5480717000.0,
+    "operatingIncome": 4151914000.0,
+    "netIncome": 3333764000.0,
+    "eps": 9.75,
+    "freeCashFlow": 3942776000.0,
+    "totalDebt": 3544741000.0,
+    "cash": 2487096000.0,
+    "sharesOutstanding": 338313000.0
+  },
+  "ratios": {
+    "roe": 1.5617226261095971,
+    "roic": 0.7310464534004577,
+    "grossMargin": 0.8786399662671873,
+    "operatingMargin": 0.757549422821868,
+    "netMargin": 0.6082715090014682,
+    "debtToEquity": 1.62888
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2817058000.0,
+      "operatingIncome": -47791000.0,
+      "netIncome": -192746000.0,
+      "eps": -0.52,
+      "freeCashFlow": 412111000.0,
+      "totalDebt": 3280209000.0,
+      "cash": 1080484000.0,
+      "sharesOutstanding": 373873683.0,
+      "grossMargin": 0.5541217113740647,
+      "operatingMargin": -0.01696486192332568,
+      "netMargin": -0.06842102647513824,
+      "roe": -0.10130253322029961,
+      "roic": -0.009220924403893892
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1841762000.0,
+      "operatingIncome": 772411000.0,
+      "netIncome": 357211000.0,
+      "eps": 0.98,
+      "freeCashFlow": 997611000.0,
+      "totalDebt": 3177416000.0,
+      "cash": 502152000.0,
+      "sharesOutstanding": 339886712.0,
+      "grossMargin": 0.8063740048931404,
+      "operatingMargin": 0.4193869783392208,
+      "netMargin": 0.1939506841817781,
+      "roe": 0.2843291844731754,
+      "roic": 0.17421186829644014
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3224058000.0,
+      "operatingIncome": 1910956000.0,
+      "netIncome": 1579790000.0,
+      "eps": 4.53,
+      "freeCashFlow": 2073458000.0,
+      "totalDebt": 3554610000.0,
+      "cash": 697030000.0,
+      "sharesOutstanding": 340041739.0,
+      "grossMargin": 0.8385224459361463,
+      "operatingMargin": 0.5927176248069979,
+      "netMargin": 0.49000049006562535,
+      "roe": 1.449590665597375,
+      "roic": 0.41145131327259243
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5480717000.0,
+      "operatingIncome": 4151914000.0,
+      "netIncome": 3333764000.0,
+      "eps": 9.75,
+      "freeCashFlow": 3942776000.0,
+      "totalDebt": 3544741000.0,
+      "cash": 2487096000.0,
+      "sharesOutstanding": 338313000.0,
+      "grossMargin": 0.8786399662671873,
+      "operatingMargin": 0.757549422821868,
+      "netMargin": 0.6082715090014682,
+      "roe": 1.5617226261095971,
+      "roic": 0.7310464534004577
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:46.405033+00:00"
+  }
+}

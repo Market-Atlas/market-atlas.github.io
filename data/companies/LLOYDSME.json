@@ -1,0 +1,128 @@
+{
+  "ticker": "LLOYDSME",
+  "name": "Lloyds Metals and Energy Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1013782675456.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1802.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 168224300000.0,
+    "operatingIncome": 56839000000.0,
+    "netIncome": 36808500000.0,
+    "eps": null,
+    "freeCashFlow": -70401900000.0,
+    "totalDebt": 207163600000.0,
+    "cash": 21204400000.0,
+    "sharesOutstanding": 562785088.0
+  },
+  "ratios": {
+    "roe": 0.26536509192993385,
+    "roic": 0.16433512349203824,
+    "grossMargin": 0.7850054956388584,
+    "operatingMargin": 0.33787627590068736,
+    "netMargin": 0.218806082117744,
+    "debtToEquity": 1.45214
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.78,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33430300000.0,
+      "operatingIncome": 8419200000.0,
+      "netIncome": -2885500000.0,
+      "eps": -6.53,
+      "freeCashFlow": -9047900000.0,
+      "totalDebt": 657700000.0,
+      "cash": 272900000.0,
+      "sharesOutstanding": 504859220.0,
+      "grossMargin": 0.7040080406098659,
+      "operatingMargin": 0.2518433875855137,
+      "netMargin": -0.08631391282758456,
+      "roe": -0.18872552225725012,
+      "roic": 0.527945519875087
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 64810100000.0,
+      "operatingIncome": 16835400000.0,
+      "netIncome": 12429300000.0,
+      "eps": 24.43,
+      "freeCashFlow": -196500000.0,
+      "totalDebt": 1616100000.0,
+      "cash": 23000000.0,
+      "sharesOutstanding": 505253535.0,
+      "grossMargin": 0.726601255051296,
+      "operatingMargin": 0.259765067481766,
+      "netMargin": 0.191780293503636,
+      "roe": 0.44220109720433476,
+      "roic": 0.5663927008232432
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 66263100000.0,
+      "operatingIncome": 18754100000.0,
+      "netIncome": 14552400000.0,
+      "eps": 26.12,
+      "freeCashFlow": -24035000000.0,
+      "totalDebt": 10732600000.0,
+      "cash": 406000000.0,
+      "sharesOutstanding": 523241945.0,
+      "grossMargin": 0.7339243108155218,
+      "operatingMargin": 0.28302479056971375,
+      "netMargin": 0.21961544207862294,
+      "roe": 0.22526656016643756,
+      "roic": 0.2489480097805223
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 168224300000.0,
+      "operatingIncome": 56839000000.0,
+      "netIncome": 36808500000.0,
+      "eps": null,
+      "freeCashFlow": -70401900000.0,
+      "totalDebt": 207163600000.0,
+      "cash": 21204400000.0,
+      "sharesOutstanding": 562785088.0,
+      "grossMargin": 0.7850054956388584,
+      "operatingMargin": 0.33787627590068736,
+      "netMargin": 0.218806082117744,
+      "roe": 0.26536509192993385,
+      "roic": 0.16433512349203824
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:19.955615+00:00"
+  }
+}

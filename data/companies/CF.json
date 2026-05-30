@@ -1,0 +1,128 @@
+{
+  "ticker": "CF",
+  "name": "CF Industries Holdings, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17260249088.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 112.35,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7084000000.0,
+    "operatingIncome": 2375000000.0,
+    "netIncome": 1455000000.0,
+    "eps": 8.97,
+    "freeCashFlow": 1801000000.0,
+    "totalDebt": 3636000000.0,
+    "cash": 1982000000.0,
+    "sharesOutstanding": 153552162.0
+  },
+  "ratios": {
+    "roe": 0.30074410913600663,
+    "roic": 0.2802690582959641,
+    "grossMargin": 0.3845285149632976,
+    "operatingMargin": 0.3352625635234331,
+    "netMargin": 0.20539243365330323,
+    "debtToEquity": 0.43847
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11186000000.0,
+      "operatingIncome": 5571000000.0,
+      "netIncome": 3346000000.0,
+      "eps": 16.38,
+      "freeCashFlow": 3393000000.0,
+      "totalDebt": 3225000000.0,
+      "cash": 2323000000.0,
+      "sharesOutstanding": 195604404.0,
+      "grossMargin": 0.523958519578044,
+      "operatingMargin": 0.4980332558555337,
+      "netMargin": 0.29912390488110135,
+      "roe": 0.6624430805781033,
+      "roic": 0.6731512808119865
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6631000000.0,
+      "operatingIncome": 2252000000.0,
+      "netIncome": 1525000000.0,
+      "eps": 7.87,
+      "freeCashFlow": 1033000000.0,
+      "totalDebt": 3232000000.0,
+      "cash": 2032000000.0,
+      "sharesOutstanding": 188188401.0,
+      "grossMargin": 0.3838033479113256,
+      "operatingMargin": 0.33961695068617104,
+      "netMargin": 0.22998039511385915,
+      "roe": 0.266748294560084,
+      "roic": 0.25164822885238575
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5936000000.0,
+      "operatingIncome": 1711000000.0,
+      "netIncome": 1218000000.0,
+      "eps": 6.74,
+      "freeCashFlow": 1750000000.0,
+      "totalDebt": 3246000000.0,
+      "cash": 1614000000.0,
+      "sharesOutstanding": 170237254.0,
+      "grossMargin": 0.3463611859838275,
+      "operatingMargin": 0.2882412398921833,
+      "netMargin": 0.20518867924528303,
+      "roe": 0.24433299899699099,
+      "roic": 0.20787267646701493
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7084000000.0,
+      "operatingIncome": 2375000000.0,
+      "netIncome": 1455000000.0,
+      "eps": 8.97,
+      "freeCashFlow": 1801000000.0,
+      "totalDebt": 3636000000.0,
+      "cash": 1982000000.0,
+      "sharesOutstanding": 153552162.0,
+      "grossMargin": 0.3845285149632976,
+      "operatingMargin": 0.3352625635234331,
+      "netMargin": 0.20539243365330323,
+      "roe": 0.30074410913600663,
+      "roic": 0.2802690582959641
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:58.114107+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "FACT",
+  "name": "The Fertilisers and Chemicals Travancore Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "INR",
+  "marketCap": {
+    "value": 566608592896.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 875.65,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24396208000.0,
+    "operatingIncome": 631013000.0,
+    "netIncome": 412320000.0,
+    "eps": 0.64,
+    "freeCashFlow": -133661000.0,
+    "totalDebt": 18046332000.0,
+    "cash": 2078656000.0,
+    "sharesOutstanding": 647071974.0
+  },
+  "ratios": {
+    "roe": 0.030081050747327927,
+    "roic": 0.019872359723241365,
+    "grossMargin": -0.19687371086522953,
+    "operatingMargin": 0.025865208232361356,
+    "netMargin": 0.016900987235393305,
+    "debtToEquity": 2.7899200000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 27190174000.0,
+      "operatingIncome": 5861520000.0,
+      "netIncome": 3463755000.0,
+      "eps": 5.35,
+      "freeCashFlow": 879629000.0,
+      "totalDebt": 18375788000.0,
+      "cash": 1820592000.0,
+      "sharesOutstanding": 647071974.0,
+      "grossMargin": -0.03399334627281164,
+      "operatingMargin": 0.2155749352688953,
+      "netMargin": 0.12738995344421114,
+      "roe": 0.5232049658442623,
+      "roic": 0.23449783189761328
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 31555366000.0,
+      "operatingIncome": 7517086000.0,
+      "netIncome": 6128321000.0,
+      "eps": 9.47,
+      "freeCashFlow": 5449051000.0,
+      "totalDebt": 18417107000.0,
+      "cash": 443026000.0,
+      "sharesOutstanding": 647071974.0,
+      "grossMargin": -0.19916656964143595,
+      "operatingMargin": 0.2382189450757757,
+      "netMargin": 0.194208522252602,
+      "roe": 0.48112669762370563,
+      "roic": 0.2412837754903426
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 29389987000.0,
+      "operatingIncome": 3258253000.0,
+      "netIncome": 1282749000.0,
+      "eps": 1.98,
+      "freeCashFlow": 1063511000.0,
+      "totalDebt": 18102238000.0,
+      "cash": 4254249000.0,
+      "sharesOutstanding": 647071974.0,
+      "grossMargin": -0.14487379664373448,
+      "operatingMargin": 0.1108626893914584,
+      "netMargin": 0.04364578317098269,
+      "roe": 0.09446947184693393,
+      "roic": 0.10284666166340832
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 24396208000.0,
+      "operatingIncome": 631013000.0,
+      "netIncome": 412320000.0,
+      "eps": 0.64,
+      "freeCashFlow": -133661000.0,
+      "totalDebt": 18046332000.0,
+      "cash": 2078656000.0,
+      "sharesOutstanding": 647071974.0,
+      "grossMargin": -0.19687371086522953,
+      "operatingMargin": 0.025865208232361356,
+      "netMargin": 0.016900987235393305,
+      "roe": 0.030081050747327927,
+      "roic": 0.019872359723241365
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:41.060665+00:00"
+  }
+}

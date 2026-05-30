@@ -1,0 +1,128 @@
+{
+  "ticker": "CVS",
+  "name": "CVS Health Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "currency": "USD",
+  "marketCap": {
+    "value": 116083867648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 90.98,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 402067000000.0,
+    "operatingIncome": 10385000000.0,
+    "netIncome": 1768000000.0,
+    "eps": 1.39,
+    "freeCashFlow": 7807000000.0,
+    "totalDebt": 79950000000.0,
+    "cash": 8453000000.0,
+    "sharesOutstanding": 1787000000.0
+  },
+  "ratios": {
+    "roe": 0.023506262132049885,
+    "roic": 0.06692918460467634,
+    "grossMargin": 0.13769346899894794,
+    "operatingMargin": 0.025829028495250792,
+    "netMargin": 0.004397277070736966,
+    "debtToEquity": 1.00912
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 322467000000.0,
+      "operatingIncome": 16290000000.0,
+      "netIncome": 4311000000.0,
+      "eps": 3.26,
+      "freeCashFlow": 13450000000.0,
+      "totalDebt": 70732000000.0,
+      "cash": 12945000000.0,
+      "sharesOutstanding": 1758000000.0,
+      "grossMargin": 0.1690157442466981,
+      "operatingMargin": 0.050516797067606915,
+      "netMargin": 0.01336880983170371,
+      "roe": 0.060319858959828734,
+      "roic": 0.11455615642646676
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 357776000000.0,
+      "operatingIncome": 14599000000.0,
+      "netIncome": 8344000000.0,
+      "eps": 6.47,
+      "freeCashFlow": 10395000000.0,
+      "totalDebt": 79385000000.0,
+      "cash": 8196000000.0,
+      "sharesOutstanding": 1768000000.0,
+      "grossMargin": 0.15213709136442913,
+      "operatingMargin": 0.040804861142167165,
+      "netMargin": 0.023321855015428647,
+      "roe": 0.10912752906710611,
+      "roic": 0.09367580816960333
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 372809000000.0,
+      "operatingIncome": 9695000000.0,
+      "netIncome": 4614000000.0,
+      "eps": 3.66,
+      "freeCashFlow": 6326000000.0,
+      "totalDebt": 82920000000.0,
+      "cash": 8586000000.0,
+      "sharesOutstanding": 1778000000.0,
+      "grossMargin": 0.13787489035940656,
+      "operatingMargin": 0.02600527347783986,
+      "netMargin": 0.012376310657736266,
+      "roe": 0.061064055055584966,
+      "roic": 0.06117491166077738
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 402067000000.0,
+      "operatingIncome": 10385000000.0,
+      "netIncome": 1768000000.0,
+      "eps": 1.39,
+      "freeCashFlow": 7807000000.0,
+      "totalDebt": 79950000000.0,
+      "cash": 8453000000.0,
+      "sharesOutstanding": 1787000000.0,
+      "grossMargin": 0.13769346899894794,
+      "operatingMargin": 0.025829028495250792,
+      "netMargin": 0.004397277070736966,
+      "roe": 0.023506262132049885,
+      "roic": 0.06692918460467634
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:08.583471+00:00"
+  }
+}

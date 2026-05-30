@@ -1,0 +1,111 @@
+{
+  "ticker": "MCD",
+  "name": "McDonald's Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 198373244928.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 279.2,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26885000000.0,
+    "operatingIncome": 12394000000.0,
+    "netIncome": 8563000000.0,
+    "eps": 11.95,
+    "freeCashFlow": 7186000000.0,
+    "totalDebt": 54814000000.0,
+    "cash": 774000000.0,
+    "sharesOutstanding": 1660600000.0
+  },
+  "ratios": {
+    "roe": -4.783798882681564,
+    "roic": 0.2337432106216053,
+    "grossMargin": 0.5740747628789288,
+    "operatingMargin": 0.4610005579319323,
+    "netMargin": 0.31850474242142457,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23182000000.0,
+      "operatingIncome": 10345000000.0,
+      "netIncome": 6177000000.0,
+      "eps": 8.33,
+      "freeCashFlow": 5488000000.0,
+      "totalDebt": 48699000000.0,
+      "cash": 2583800000.0,
+      "sharesOutstanding": 1660600000.0,
+      "grossMargin": 0.5697092571822966,
+      "operatingMargin": 0.44625140194978863,
+      "netMargin": 0.2664567336726771,
+      "roe": -1.0289169470633308,
+      "roic": 0.242296630097715
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25495000000.0,
+      "operatingIncome": 11747000000.0,
+      "netIncome": 8469000000.0,
+      "eps": 11.56,
+      "freeCashFlow": 7255000000.0,
+      "totalDebt": 53091000000.0,
+      "cash": 4579000000.0,
+      "sharesOutstanding": 1660600000.0,
+      "grossMargin": 0.5712492645616788,
+      "operatingMargin": 0.46075701117866247,
+      "netMargin": 0.3321827809374387,
+      "roe": -1.7996175095622609,
+      "roic": 0.24278185388033482
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25920000000.0,
+      "operatingIncome": 11851000000.0,
+      "netIncome": 8223000000.0,
+      "eps": 11.39,
+      "freeCashFlow": 6672000000.0,
+      "totalDebt": 51948000000.0,
+      "cash": 1085000000.0,
+      "sharesOutstanding": 1660600000.0,
+      "grossMargin": 0.5675154320987654,
+      "operatingMargin": 0.4572145061728395,
+      "netMargin": 0.31724537037037037,
+      "roe": -2.16622760800843,
+      "roic": 0.24611646452899152
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26885000000.0,
+      "operatingIncome": 12394000000.0,
+      "netIncome": 8563000000.0,
+      "eps": 11.95,
+      "freeCashFlow": 7186000000.0,
+      "totalDebt": 54814000000.0,
+      "cash": 774000000.0,
+      "sharesOutstanding": 1660600000.0,
+      "grossMargin": 0.5740747628789288,
+      "operatingMargin": 0.4610005579319323,
+      "netMargin": 0.31850474242142457,
+      "roe": -4.783798882681564,
+      "roic": 0.2337432106216053
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:23.919310+00:00"
+  }
+}

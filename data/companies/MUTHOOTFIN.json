@@ -1,0 +1,128 @@
+{
+  "ticker": "MUTHOOTFIN",
+  "name": "Muthoot Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1342068883456.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3342.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 202637740000.0,
+    "operatingIncome": null,
+    "netIncome": 105903370000.0,
+    "eps": 263.79,
+    "freeCashFlow": -475453870000.0,
+    "totalDebt": 1510264270000.0,
+    "cash": 128678430000.0,
+    "sharesOutstanding": 401468476.0
+  },
+  "ratios": {
+    "roe": 0.2706427740231583,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.78154,
+    "netMargin": 0.5226241173041113,
+    "debtToEquity": 3.7970699999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 77101620000.0,
+      "operatingIncome": null,
+      "netIncome": 36122980000.0,
+      "eps": 89.98,
+      "freeCashFlow": -29452100000.0,
+      "totalDebt": 555061320000.0,
+      "cash": 80737890000.0,
+      "sharesOutstanding": 401448231.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.46851129716859385,
+      "roe": 0.16672848466095247,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 96564040000.0,
+      "operatingIncome": null,
+      "netIncome": 43242880000.0,
+      "eps": 107.71,
+      "freeCashFlow": -138279090000.0,
+      "totalDebt": 677418380000.0,
+      "cash": 63889980000.0,
+      "sharesOutstanding": 401461676.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.44781556364046077,
+      "roe": 0.1722329369411739,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 128527840000.0,
+      "operatingIncome": null,
+      "netIncome": 53329000000.0,
+      "eps": 132.83,
+      "freeCashFlow": -267418900000.0,
+      "totalDebt": 988152640000.0,
+      "cash": 84856590000.0,
+      "sharesOutstanding": 401463891.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.41492177881461323,
+      "roe": 0.1816096625371744,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 202637740000.0,
+      "operatingIncome": null,
+      "netIncome": 105903370000.0,
+      "eps": 263.79,
+      "freeCashFlow": -475453870000.0,
+      "totalDebt": 1510264270000.0,
+      "cash": 128678430000.0,
+      "sharesOutstanding": 401468476.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5226241173041113,
+      "roe": 0.2706427740231583,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:28.583943+00:00"
+  }
+}

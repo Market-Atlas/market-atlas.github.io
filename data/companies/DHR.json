@@ -1,0 +1,128 @@
+{
+  "ticker": "DHR",
+  "name": "Danaher Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 129288462336.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 182.67,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24568000000.0,
+    "operatingIncome": 4690000000.0,
+    "netIncome": 3614000000.0,
+    "eps": 5.05,
+    "freeCashFlow": 5260000000.0,
+    "totalDebt": 19696000000.0,
+    "cash": 4615000000.0,
+    "sharesOutstanding": 886900000.0
+  },
+  "ratios": {
+    "roe": 0.06879354322914684,
+    "roic": 0.06493146891873183,
+    "grossMargin": 0.5911348095083034,
+    "operatingMargin": 0.19089873005535657,
+    "netMargin": 0.14710192119830673,
+    "debtToEquity": 0.37170000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 26643000000.0,
+      "operatingIncome": 7536000000.0,
+      "netIncome": 7209000000.0,
+      "eps": 9.66,
+      "freeCashFlow": 7401000000.0,
+      "totalDebt": 20616000000.0,
+      "cash": 5995000000.0,
+      "sharesOutstanding": 869300000.0,
+      "grossMargin": 0.6075892354464587,
+      "operatingMargin": 0.2828510302893818,
+      "netMargin": 0.2705776376534174,
+      "roe": 0.14394393195159938,
+      "roic": 0.10659424594755156
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23890000000.0,
+      "operatingIncome": 5202000000.0,
+      "netIncome": 4764000000.0,
+      "eps": 6.38,
+      "freeCashFlow": 5781000000.0,
+      "totalDebt": 19536000000.0,
+      "cash": 5864000000.0,
+      "sharesOutstanding": 880500000.0,
+      "grossMargin": 0.5874424445374634,
+      "operatingMargin": 0.2177480117203851,
+      "netMargin": 0.19941398074508163,
+      "roe": 0.08907003701903302,
+      "roic": 0.07123880474377585
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23875000000.0,
+      "operatingIncome": 4863000000.0,
+      "netIncome": 3899000000.0,
+      "eps": 5.29,
+      "freeCashFlow": 5296000000.0,
+      "totalDebt": 17146000000.0,
+      "cash": 2078000000.0,
+      "sharesOutstanding": 884300000.0,
+      "grossMargin": 0.5950157068062827,
+      "operatingMargin": 0.20368586387434556,
+      "netMargin": 0.1633089005235602,
+      "roe": 0.07869931170902045,
+      "roic": 0.07292057160851115
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24568000000.0,
+      "operatingIncome": 4690000000.0,
+      "netIncome": 3614000000.0,
+      "eps": 5.05,
+      "freeCashFlow": 5260000000.0,
+      "totalDebt": 19696000000.0,
+      "cash": 4615000000.0,
+      "sharesOutstanding": 886900000.0,
+      "grossMargin": 0.5911348095083034,
+      "operatingMargin": 0.19089873005535657,
+      "netMargin": 0.14710192119830673,
+      "roe": 0.06879354322914684,
+      "roic": 0.06493146891873183
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:25.112572+00:00"
+  }
+}

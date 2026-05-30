@@ -1,0 +1,128 @@
+{
+  "ticker": "AMD",
+  "name": "Advanced Micro Devices, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "USD",
+  "marketCap": {
+    "value": 841552887808.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 516.1,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34639000000.0,
+    "operatingIncome": 3694000000.0,
+    "netIncome": 4335000000.0,
+    "eps": 2.65,
+    "freeCashFlow": 6735000000.0,
+    "totalDebt": 3847000000.0,
+    "cash": 5539000000.0,
+    "sharesOutstanding": 1695000000.0
+  },
+  "ratios": {
+    "roe": 0.06881061604152447,
+    "roic": 0.05526134697663286,
+    "grossMargin": 0.4951644100580271,
+    "operatingMargin": 0.10664280146655504,
+    "netMargin": 0.12514795461762754,
+    "debtToEquity": 0.06005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23601000000.0,
+      "operatingIncome": 1264000000.0,
+      "netIncome": 1320000000.0,
+      "eps": 0.84,
+      "freeCashFlow": 3115000000.0,
+      "totalDebt": 2863000000.0,
+      "cash": 4835000000.0,
+      "sharesOutstanding": 1645000000.0,
+      "grossMargin": 0.4492606245498072,
+      "operatingMargin": 0.05355705266725986,
+      "netMargin": 0.055929833481632135,
+      "roe": 0.02410958904109589,
+      "roic": 0.02193949282280041
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 22680000000.0,
+      "operatingIncome": 401000000.0,
+      "netIncome": 854000000.0,
+      "eps": 0.53,
+      "freeCashFlow": 1121000000.0,
+      "totalDebt": 3003000000.0,
+      "cash": 3933000000.0,
+      "sharesOutstanding": 1663000000.0,
+      "grossMargin": 0.46119929453262787,
+      "operatingMargin": 0.017680776014109348,
+      "netMargin": 0.037654320987654324,
+      "roe": 0.015279467544550203,
+      "roic": 0.006808727396213601
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25785000000.0,
+      "operatingIncome": 2086000000.0,
+      "netIncome": 1641000000.0,
+      "eps": 1.0,
+      "freeCashFlow": 2405000000.0,
+      "totalDebt": 2212000000.0,
+      "cash": 3787000000.0,
+      "sharesOutstanding": 1680000000.0,
+      "grossMargin": 0.49350397517936784,
+      "operatingMargin": 0.08089974791545472,
+      "netMargin": 0.06364165212332752,
+      "roe": 0.028505419677598665,
+      "roic": 0.034894613583138175
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 34639000000.0,
+      "operatingIncome": 3694000000.0,
+      "netIncome": 4335000000.0,
+      "eps": 2.65,
+      "freeCashFlow": 6735000000.0,
+      "totalDebt": 3847000000.0,
+      "cash": 5539000000.0,
+      "sharesOutstanding": 1695000000.0,
+      "grossMargin": 0.4951644100580271,
+      "operatingMargin": 0.10664280146655504,
+      "netMargin": 0.12514795461762754,
+      "roe": 0.06881061604152447,
+      "roic": 0.05526134697663286
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.841528+00:00"
+  }
+}

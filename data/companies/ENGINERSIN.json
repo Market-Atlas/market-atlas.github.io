@@ -1,0 +1,128 @@
+{
+  "ticker": "ENGINERSIN",
+  "name": "Engineers India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "INR",
+  "marketCap": {
+    "value": 130225217536.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 231.7,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 39281803000.0,
+    "operatingIncome": 6541623000.0,
+    "netIncome": 6915894000.0,
+    "eps": 12.3,
+    "freeCashFlow": 2500714000.0,
+    "totalDebt": 168016000.0,
+    "cash": 877946000.0,
+    "sharesOutstanding": 562042373.0
+  },
+  "ratios": {
+    "roe": 0.21985002095060396,
+    "roic": 0.2068474956935645,
+    "grossMargin": 0.5379865837624612,
+    "operatingMargin": 0.16653061978850614,
+    "netMargin": 0.17605846656274918,
+    "debtToEquity": 0.00731
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 33283474000.0,
+      "operatingIncome": 2865036000.0,
+      "netIncome": 3462666000.0,
+      "eps": 6.16,
+      "freeCashFlow": -1474310000.0,
+      "totalDebt": 188808000.0,
+      "cash": 634803000.0,
+      "sharesOutstanding": 562042373.0,
+      "grossMargin": 0.44908232836512196,
+      "operatingMargin": 0.08607983649783674,
+      "netMargin": 0.10403559436133379,
+      "roe": 0.17652983104062878,
+      "roic": 0.1446695836199127
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 32821643000.0,
+      "operatingIncome": 2636148000.0,
+      "netIncome": 4452578000.0,
+      "eps": 7.92,
+      "freeCashFlow": 1879621000.0,
+      "totalDebt": 330163000.0,
+      "cash": 2506606000.0,
+      "sharesOutstanding": 562042373.0,
+      "grossMargin": 0.4827744607422608,
+      "operatingMargin": 0.0803173686338615,
+      "netMargin": 0.13565981447059186,
+      "roe": 0.19742609653698745,
+      "roic": 0.11519963837385175
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 30875850000.0,
+      "operatingIncome": 4726945000.0,
+      "netIncome": 5797713000.0,
+      "eps": 10.32,
+      "freeCashFlow": 751104000.0,
+      "totalDebt": 221364000.0,
+      "cash": 1386412000.0,
+      "sharesOutstanding": 562042373.0,
+      "grossMargin": 0.5734455569644237,
+      "operatingMargin": 0.15309521843123347,
+      "netMargin": 0.1877750086232444,
+      "roe": 0.21720130691378342,
+      "roic": 0.17563032681702684
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 39281803000.0,
+      "operatingIncome": 6541623000.0,
+      "netIncome": 6915894000.0,
+      "eps": 12.3,
+      "freeCashFlow": 2500714000.0,
+      "totalDebt": 168016000.0,
+      "cash": 877946000.0,
+      "sharesOutstanding": 562042373.0,
+      "grossMargin": 0.5379865837624612,
+      "operatingMargin": 0.16653061978850614,
+      "netMargin": 0.17605846656274918,
+      "roe": 0.21985002095060396,
+      "roic": 0.2068474956935645
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:39.016112+00:00"
+  }
+}

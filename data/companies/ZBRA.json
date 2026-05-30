@@ -1,0 +1,128 @@
+{
+  "ticker": "ZBRA",
+  "name": "Zebra Technologies Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11604923392.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 243.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5396000000.0,
+    "operatingIncome": 800000000.0,
+    "netIncome": 419000000.0,
+    "eps": 8.18,
+    "freeCashFlow": 831000000.0,
+    "totalDebt": 2697000000.0,
+    "cash": 125000000.0,
+    "sharesOutstanding": 72151857.0
+  },
+  "ratios": {
+    "roe": 0.11677814938684504,
+    "roic": 0.12728719172633254,
+    "grossMargin": 0.48054114158636024,
+    "operatingMargin": 0.14825796886582654,
+    "netMargin": 0.07765011119347665,
+    "debtToEquity": 0.82104
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5781000000.0,
+      "operatingIncome": 936000000.0,
+      "netIncome": 463000000.0,
+      "eps": 8.8,
+      "freeCashFlow": 413000000.0,
+      "totalDebt": 2199000000.0,
+      "cash": 105000000.0,
+      "sharesOutstanding": 72151857.0,
+      "grossMargin": 0.45390070921985815,
+      "operatingMargin": 0.16190970420342501,
+      "netMargin": 0.08008994983566857,
+      "roe": 0.16941090376875229,
+      "roic": 0.1897810218978102
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4584000000.0,
+      "operatingIncome": 585000000.0,
+      "netIncome": 296000000.0,
+      "eps": 5.72,
+      "freeCashFlow": -91000000.0,
+      "totalDebt": 2414000000.0,
+      "cash": 137000000.0,
+      "sharesOutstanding": 72151857.0,
+      "grossMargin": 0.4631326352530541,
+      "operatingMargin": 0.12761780104712042,
+      "netMargin": 0.06457242582897033,
+      "roe": 0.09749670619235837,
+      "roic": 0.10733944954128441
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4981000000.0,
+      "operatingIncome": 765000000.0,
+      "netIncome": 528000000.0,
+      "eps": 10.18,
+      "freeCashFlow": 954000000.0,
+      "totalDebt": 2362000000.0,
+      "cash": 901000000.0,
+      "sharesOutstanding": 72151857.0,
+      "grossMargin": 0.4844408753262397,
+      "operatingMargin": 0.15358361774744028,
+      "netMargin": 0.10600281068058623,
+      "roe": 0.147239263803681,
+      "roic": 0.12861466039004707
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5396000000.0,
+      "operatingIncome": 800000000.0,
+      "netIncome": 419000000.0,
+      "eps": 8.18,
+      "freeCashFlow": 831000000.0,
+      "totalDebt": 2697000000.0,
+      "cash": 125000000.0,
+      "sharesOutstanding": 72151857.0,
+      "grossMargin": 0.48054114158636024,
+      "operatingMargin": 0.14825796886582654,
+      "netMargin": 0.07765011119347665,
+      "roe": 0.11677814938684504,
+      "roic": 0.12728719172633254
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:42.996423+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "DOW",
+  "name": "Dow Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24325023744.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 33.75,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 39968000000.0,
+    "operatingIncome": 158000000.0,
+    "netIncome": -2623000000.0,
+    "eps": -3.7,
+    "freeCashFlow": -1447000000.0,
+    "totalDebt": 19598000000.0,
+    "cash": 3816000000.0,
+    "sharesOutstanding": 790287565.0
+  },
+  "ratios": {
+    "roe": -0.16385557221389305,
+    "roic": 0.004437454361624445,
+    "grossMargin": 0.06337570056044836,
+    "operatingMargin": 0.003953162530024019,
+    "netMargin": -0.06562750200160128,
+    "debtToEquity": 1.17133
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 56902000000.0,
+      "operatingIncome": 5702000000.0,
+      "netIncome": 4582000000.0,
+      "eps": 6.28,
+      "freeCashFlow": 5417000000.0,
+      "totalDebt": 16706000000.0,
+      "cash": 3886000000.0,
+      "sharesOutstanding": 771678525.0,
+      "grossMargin": 0.15050437594460653,
+      "operatingMargin": 0.10020737408175459,
+      "netMargin": 0.08052441038979298,
+      "roe": 0.2211603436625157,
+      "roic": 0.15236212056434373
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 44622000000.0,
+      "operatingIncome": 2100000000.0,
+      "netIncome": 589000000.0,
+      "eps": 0.82,
+      "freeCashFlow": 2719000000.0,
+      "totalDebt": 16447000000.0,
+      "cash": 2987000000.0,
+      "sharesOutstanding": 778595514.0,
+      "grossMargin": 0.1093630944377213,
+      "operatingMargin": 0.04706198736049482,
+      "netMargin": 0.013199766931110215,
+      "roe": 0.0316547535873596,
+      "roic": 0.05990757117590004
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 42964000000.0,
+      "operatingIncome": 1905000000.0,
+      "netIncome": 1116000000.0,
+      "eps": 1.57,
+      "freeCashFlow": -151000000.0,
+      "totalDebt": 17645000000.0,
+      "cash": 2189000000.0,
+      "sharesOutstanding": 784471939.0,
+      "grossMargin": 0.10720603295782516,
+      "operatingMargin": 0.04433944697886603,
+      "netMargin": 0.02597523508053254,
+      "roe": 0.06430423509075195,
+      "roic": 0.05442857142857143
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 39968000000.0,
+      "operatingIncome": 158000000.0,
+      "netIncome": -2623000000.0,
+      "eps": -3.7,
+      "freeCashFlow": -1447000000.0,
+      "totalDebt": 19598000000.0,
+      "cash": 3816000000.0,
+      "sharesOutstanding": 790287565.0,
+      "grossMargin": 0.06337570056044836,
+      "operatingMargin": 0.003953162530024019,
+      "netMargin": -0.06562750200160128,
+      "roe": -0.16385557221389305,
+      "roic": 0.004437454361624445
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:13.156511+00:00"
+  }
+}

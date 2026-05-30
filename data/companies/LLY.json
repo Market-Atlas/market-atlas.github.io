@@ -1,0 +1,128 @@
+{
+  "ticker": "LLY",
+  "name": "Eli Lilly and Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 985374195712.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1105.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65179000000.0,
+    "operatingIncome": 29696000000.0,
+    "netIncome": 20640000000.0,
+    "eps": 22.95,
+    "freeCashFlow": 5964000000.0,
+    "totalDebt": 42503000000.0,
+    "cash": 7268000000.0,
+    "sharesOutstanding": 944800000.0
+  },
+  "ratios": {
+    "roe": 0.7778405879027699,
+    "roic": 0.430139922940989,
+    "grossMargin": 0.8304361834333144,
+    "operatingMargin": 0.45560686724251676,
+    "netMargin": 0.31666641096058545,
+    "debtToEquity": 1.3901499999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28541400000.0,
+      "operatingIncome": 8280400000.0,
+      "netIncome": 6244800000.0,
+      "eps": 6.572215,
+      "freeCashFlow": 4600400000.0,
+      "totalDebt": 16238600000.0,
+      "cash": 2067000000.0,
+      "sharesOutstanding": 950632000.0,
+      "grossMargin": 0.7677128662223998,
+      "operatingMargin": 0.2901189149796436,
+      "netMargin": 0.21879795665244173,
+      "roe": 0.5863772089616707,
+      "roic": 0.30795435950075123
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34124000000.0,
+      "operatingIncome": 10325000000.0,
+      "netIncome": 5240000000.0,
+      "eps": 5.8,
+      "freeCashFlow": -3152000000.0,
+      "totalDebt": 25225300000.0,
+      "cash": 2818600000.0,
+      "sharesOutstanding": 949781000.0,
+      "grossMargin": 0.7924627827921698,
+      "operatingMargin": 0.30257296917125776,
+      "netMargin": 0.15355761340991678,
+      "roe": 0.4864508582515619,
+      "roic": 0.2868278643894525
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 45043000000.0,
+      "operatingIncome": 17040000000.0,
+      "netIncome": 10590000000.0,
+      "eps": 11.71,
+      "freeCashFlow": 414000000.0,
+      "totalDebt": 33644000000.0,
+      "cash": 3268000000.0,
+      "sharesOutstanding": 947903000.0,
+      "grossMargin": 0.8131119152809537,
+      "operatingMargin": 0.3783051750549475,
+      "netMargin": 0.23510867393379659,
+      "roe": 0.7420123318385651,
+      "roic": 0.35562233909341345
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 65179000000.0,
+      "operatingIncome": 29696000000.0,
+      "netIncome": 20640000000.0,
+      "eps": 22.95,
+      "freeCashFlow": 5964000000.0,
+      "totalDebt": 42503000000.0,
+      "cash": 7268000000.0,
+      "sharesOutstanding": 944800000.0,
+      "grossMargin": 0.8304361834333144,
+      "operatingMargin": 0.45560686724251676,
+      "netMargin": 0.31666641096058545,
+      "roe": 0.7778405879027699,
+      "roic": 0.430139922940989
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.125628+00:00"
+  }
+}

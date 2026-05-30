@@ -1,0 +1,128 @@
+{
+  "ticker": "CAT",
+  "name": "Caterpillar Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "USD",
+  "marketCap": {
+    "value": 403418677248.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 875.87,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 67589000000.0,
+    "operatingIncome": 11151000000.0,
+    "netIncome": 8884000000.0,
+    "eps": 18.81,
+    "freeCashFlow": 7453000000.0,
+    "totalDebt": 43330000000.0,
+    "cash": 9980000000.0,
+    "sharesOutstanding": 814894624.0
+  },
+  "ratios": {
+    "roe": 0.4167370297401257,
+    "roic": 0.1724879346615518,
+    "grossMargin": 0.3177736022133779,
+    "operatingMargin": 0.16498246756128956,
+    "netMargin": 0.1314415067540576,
+    "debtToEquity": 2.3079300000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 59427000000.0,
+      "operatingIncome": 8829000000.0,
+      "netIncome": 6705000000.0,
+      "eps": 12.64,
+      "freeCashFlow": 5167000000.0,
+      "totalDebt": 36993000000.0,
+      "cash": 7004000000.0,
+      "sharesOutstanding": 814894624.0,
+      "grossMargin": 0.2946808689652851,
+      "operatingMargin": 0.1485688323489323,
+      "netMargin": 0.11282750265031047,
+      "roe": 0.4225218980402042,
+      "roic": 0.16701978737089024
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 67060000000.0,
+      "operatingIncome": 12966000000.0,
+      "netIncome": 10335000000.0,
+      "eps": 20.12,
+      "freeCashFlow": 9793000000.0,
+      "totalDebt": 37878000000.0,
+      "cash": 6978000000.0,
+      "sharesOutstanding": 814894624.0,
+      "grossMargin": 0.346898300029824,
+      "operatingMargin": 0.19334923948702654,
+      "netMargin": 0.1541157172681181,
+      "roe": 0.5301631271160357,
+      "roic": 0.22599874503241998
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 64809000000.0,
+      "operatingIncome": 13072000000.0,
+      "netIncome": 10792000000.0,
+      "eps": 22.05,
+      "freeCashFlow": 8820000000.0,
+      "totalDebt": 38409000000.0,
+      "cash": 6889000000.0,
+      "sharesOutstanding": 814894624.0,
+      "grossMargin": 0.359888287120616,
+      "operatingMargin": 0.20170038111990618,
+      "netMargin": 0.1665200820873644,
+      "roe": 0.5536914473346672,
+      "roic": 0.2257685664939551
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 67589000000.0,
+      "operatingIncome": 11151000000.0,
+      "netIncome": 8884000000.0,
+      "eps": 18.81,
+      "freeCashFlow": 7453000000.0,
+      "totalDebt": 43330000000.0,
+      "cash": 9980000000.0,
+      "sharesOutstanding": 814894624.0,
+      "grossMargin": 0.3177736022133779,
+      "operatingMargin": 0.16498246756128956,
+      "netMargin": 0.1314415067540576,
+      "roe": 0.4167370297401257,
+      "roic": 0.1724879346615518
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.145808+00:00"
+  }
+}

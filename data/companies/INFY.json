@@ -1,0 +1,128 @@
+{
+  "ticker": "INFY",
+  "name": "Infosys Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 4698985725952.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1160.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20158000000.0,
+    "operatingIncome": 4085000000.0,
+    "netIncome": 3313000000.0,
+    "eps": 0.8,
+    "freeCashFlow": 3733000000.0,
+    "totalDebt": 967000000.0,
+    "cash": 2341000000.0,
+    "sharesOutstanding": 4055591723.0
+  },
+  "ratios": {
+    "roe": 0.33854486000408746,
+    "roic": 0.37989398307449085,
+    "grossMargin": 0.30156761583490427,
+    "operatingMargin": 0.20264907232860402,
+    "netMargin": 0.16435162218474056,
+    "debtToEquity": 0.09827
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 18212000000.0,
+      "operatingIncome": 3825000000.0,
+      "netIncome": 2981000000.0,
+      "eps": 0.71,
+      "freeCashFlow": 2534000000.0,
+      "totalDebt": 1010000000.0,
+      "cash": 1481000000.0,
+      "sharesOutstanding": 4148560044.0,
+      "grossMargin": 0.3021634087414891,
+      "operatingMargin": 0.21002635624862728,
+      "netMargin": 0.1636832857456622,
+      "roe": 0.3250109027474924,
+      "roic": 0.37566293459045375
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 18562000000.0,
+      "operatingIncome": 3849000000.0,
+      "netIncome": 3167000000.0,
+      "eps": 0.76,
+      "freeCashFlow": 2882000000.0,
+      "totalDebt": 1002000000.0,
+      "cash": 1773000000.0,
+      "sharesOutstanding": 4150867464.0,
+      "grossMargin": 0.3009912724921883,
+      "operatingMargin": 0.20735912078439822,
+      "netMargin": 0.1706173903674173,
+      "roe": 0.2999337058433564,
+      "roic": 0.3329296773635499
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 19277000000.0,
+      "operatingIncome": 4071000000.0,
+      "netIncome": 3158000000.0,
+      "eps": 0.76,
+      "freeCashFlow": 4088000000.0,
+      "totalDebt": 962000000.0,
+      "cash": 2861000000.0,
+      "sharesOutstanding": 4153263455.0,
+      "grossMargin": 0.3046117134408881,
+      "operatingMargin": 0.21118431291176012,
+      "netMargin": 0.16382217149971467,
+      "roe": 0.2818384649709951,
+      "roic": 0.33459357277882795
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 20158000000.0,
+      "operatingIncome": 4085000000.0,
+      "netIncome": 3313000000.0,
+      "eps": 0.8,
+      "freeCashFlow": 3733000000.0,
+      "totalDebt": 967000000.0,
+      "cash": 2341000000.0,
+      "sharesOutstanding": 4055591723.0,
+      "grossMargin": 0.30156761583490427,
+      "operatingMargin": 0.20264907232860402,
+      "netMargin": 0.16435162218474056,
+      "roe": 0.33854486000408746,
+      "roic": 0.37989398307449085
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:26.120080+00:00"
+  }
+}

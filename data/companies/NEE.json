@@ -1,0 +1,128 @@
+{
+  "ticker": "NEE",
+  "name": "NextEra Energy, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 181468528640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 87.01,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27412000000.0,
+    "operatingIncome": 8020000000.0,
+    "netIncome": 6835000000.0,
+    "eps": 3.281325,
+    "freeCashFlow": 3211000000.0,
+    "totalDebt": 95619000000.0,
+    "cash": 2812000000.0,
+    "sharesOutstanding": 2083000000.0
+  },
+  "ratios": {
+    "roe": 0.12516481101670085,
+    "roic": 0.053385876040924735,
+    "grossMargin": 0.6226834962790019,
+    "operatingMargin": 0.2925725959433825,
+    "netMargin": 0.24934335327593754,
+    "debtToEquity": 1.5668600000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20956000000.0,
+      "operatingIncome": 3559000000.0,
+      "netIncome": 4147000000.0,
+      "eps": 2.087066,
+      "freeCashFlow": -1480000000.0,
+      "totalDebt": 64966000000.0,
+      "cash": 1601000000.0,
+      "sharesOutstanding": 1987000000.0,
+      "grossMargin": 0.48382324871158616,
+      "operatingMargin": 0.16983202901317046,
+      "netMargin": 0.1978908188585608,
+      "roe": 0.10571261056871192,
+      "roic": 0.03415710926627957
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 28114000000.0,
+      "operatingIncome": 9832000000.0,
+      "netIncome": 7310000000.0,
+      "eps": 3.599212,
+      "freeCashFlow": 1753000000.0,
+      "totalDebt": 73211000000.0,
+      "cash": 2690000000.0,
+      "sharesOutstanding": 2052000000.0,
+      "grossMargin": 0.6393967418368073,
+      "operatingMargin": 0.3497190012093619,
+      "netMargin": 0.26001280500818097,
+      "roe": 0.15399848318867448,
+      "roic": 0.0814723357004947
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24753000000.0,
+      "operatingIncome": 7127000000.0,
+      "netIncome": 6946000000.0,
+      "eps": 3.37,
+      "freeCashFlow": 4746000000.0,
+      "totalDebt": 82333000000.0,
+      "cash": 1487000000.0,
+      "sharesOutstanding": 2057000000.0,
+      "grossMargin": 0.60061406698178,
+      "operatingMargin": 0.2879246959964449,
+      "netMargin": 0.28061245101603843,
+      "roe": 0.138639947306441,
+      "roic": 0.0538154854493559
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 27412000000.0,
+      "operatingIncome": 8020000000.0,
+      "netIncome": 6835000000.0,
+      "eps": 3.281325,
+      "freeCashFlow": 3211000000.0,
+      "totalDebt": 95619000000.0,
+      "cash": 2812000000.0,
+      "sharesOutstanding": 2083000000.0,
+      "grossMargin": 0.6226834962790019,
+      "operatingMargin": 0.2925725959433825,
+      "netMargin": 0.24934335327593754,
+      "roe": 0.12516481101670085,
+      "roic": 0.053385876040924735
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:59.987227+00:00"
+  }
+}

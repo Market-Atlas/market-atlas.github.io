@@ -1,0 +1,111 @@
+{
+  "ticker": "INOXWIND",
+  "name": "Inox Wind Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 160760676352.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 93.02,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 35071075000.0,
+    "operatingIncome": 5754058000.0,
+    "netIncome": 4482167000.0,
+    "eps": 2.710918,
+    "freeCashFlow": -4825284000.0,
+    "totalDebt": 14999433000.0,
+    "cash": 210099000.0,
+    "sharesOutstanding": 1322590070.0
+  },
+  "ratios": {
+    "roe": 0.08881304460856346,
+    "roic": 0.0878926659594693,
+    "grossMargin": 0.3519074622035395,
+    "operatingMargin": 0.16406848093478743,
+    "netMargin": 0.12780238415845538,
+    "debtToEquity": 0.15713
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 6246200000.0,
+      "operatingIncome": -3990800000.0,
+      "netIncome": -4802000000.0,
+      "eps": -5.360225,
+      "freeCashFlow": -6542100000.0,
+      "totalDebt": 17540254000.0,
+      "cash": 668192000.0,
+      "sharesOutstanding": 900470000.0,
+      "grossMargin": 0.18744196471454644,
+      "operatingMargin": -0.6389164612084147,
+      "netMargin": -0.7687874227530338,
+      "roe": -0.26262035171001286,
+      "roic": -0.11139643475582163
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7307814000.0,
+      "operatingIncome": -2612003000.0,
+      "netIncome": -6668747000.0,
+      "eps": -5.042187,
+      "freeCashFlow": -14879344000.0,
+      "totalDebt": 24161243000.0,
+      "cash": 214392000.0,
+      "sharesOutstanding": 1322590070.0,
+      "grossMargin": 0.10098437097605385,
+      "operatingMargin": -0.35742603738956685,
+      "netMargin": -0.9125501825853806,
+      "roe": -0.38928896932462836,
+      "roic": -0.06325714440431866
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16594531000.0,
+      "operatingIncome": 1513851000.0,
+      "netIncome": -356518000.0,
+      "eps": -0.276021,
+      "freeCashFlow": -9053965000.0,
+      "totalDebt": 20785020000.0,
+      "cash": 121234000.0,
+      "sharesOutstanding": 1322590070.0,
+      "grossMargin": 0.2588514252074976,
+      "operatingMargin": 0.09122589846016137,
+      "netMargin": -0.021484066045614668,
+      "roe": -0.012694628833668915,
+      "roic": 0.030977621663027255
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 35071075000.0,
+      "operatingIncome": 5754058000.0,
+      "netIncome": 4482167000.0,
+      "eps": 2.710918,
+      "freeCashFlow": -4825284000.0,
+      "totalDebt": 14999433000.0,
+      "cash": 210099000.0,
+      "sharesOutstanding": 1322590070.0,
+      "grossMargin": 0.3519074622035395,
+      "operatingMargin": 0.16406848093478743,
+      "netMargin": 0.12780238415845538,
+      "roe": 0.08881304460856346,
+      "roic": 0.0878926659594693
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:02.173706+00:00"
+  }
+}

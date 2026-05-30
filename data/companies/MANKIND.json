@@ -1,0 +1,128 @@
+{
+  "ticker": "MANKIND",
+  "name": "Mankind Pharma Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 980907065344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2375.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 142776400000.0,
+    "operatingIncome": 27312300000.0,
+    "netIncome": 19129300000.0,
+    "eps": null,
+    "freeCashFlow": 23840500000.0,
+    "totalDebt": 63115400000.0,
+    "cash": 3916900000.0,
+    "sharesOutstanding": 412828328.0
+  },
+  "ratios": {
+    "roe": 0.11735522081134504,
+    "roic": 0.12078739140664112,
+    "grossMargin": 0.7161911912613009,
+    "operatingMargin": 0.19129421949285735,
+    "netMargin": 0.1339808259628342,
+    "debtToEquity": 0.38110999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 35.784233,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 87494330000.0,
+      "operatingIncome": 16416164000.0,
+      "netIncome": 12818591000.0,
+      "eps": 31.999403,
+      "freeCashFlow": 9812327000.0,
+      "totalDebt": 1703709000.0,
+      "cash": 3048207000.0,
+      "sharesOutstanding": 400588440.0,
+      "grossMargin": 0.6614263918587638,
+      "operatingMargin": 0.18762546098701482,
+      "netMargin": 0.1465076765545836,
+      "roe": 0.17240358957367088,
+      "roic": 0.21584329439002245
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 102592900000.0,
+      "operatingIncome": 22392700000.0,
+      "netIncome": 19129000000.0,
+      "eps": 47.68,
+      "freeCashFlow": 17632300000.0,
+      "totalDebt": 2071700000.0,
+      "cash": 3820100000.0,
+      "sharesOutstanding": 400588440.0,
+      "grossMargin": 0.6825014206636132,
+      "operatingMargin": 0.21826754093119505,
+      "netMargin": 0.18645539798563057,
+      "roe": 0.20430221219704178,
+      "roic": 0.23398214886533908
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 122074400000.0,
+      "operatingIncome": 23967100000.0,
+      "netIncome": 19909600000.0,
+      "eps": 49.19,
+      "freeCashFlow": 18932700000.0,
+      "totalDebt": 85114500000.0,
+      "cash": 4073600000.0,
+      "sharesOutstanding": 412578527.0,
+      "grossMargin": 0.7141874135772939,
+      "operatingMargin": 0.19633190906529133,
+      "netMargin": 0.1630939820306305,
+      "roe": 0.13891332848185126,
+      "roic": 0.104917124266323
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 142776400000.0,
+      "operatingIncome": 27312300000.0,
+      "netIncome": 19129300000.0,
+      "eps": null,
+      "freeCashFlow": 23840500000.0,
+      "totalDebt": 63115400000.0,
+      "cash": 3916900000.0,
+      "sharesOutstanding": 412828328.0,
+      "grossMargin": 0.7161911912613009,
+      "operatingMargin": 0.19129421949285735,
+      "netMargin": 0.1339808259628342,
+      "roe": 0.11735522081134504,
+      "roic": 0.12078739140664112
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:22.767274+00:00"
+  }
+}

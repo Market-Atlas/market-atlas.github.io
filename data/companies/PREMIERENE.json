@@ -1,0 +1,128 @@
+{
+  "ticker": "PREMIERENE",
+  "name": "PREMIER ENERGIES LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Solar",
+  "currency": "INR",
+  "marketCap": {
+    "value": 478825611264.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1061.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 78243740000.0,
+    "operatingIncome": 19247310000.0,
+    "netIncome": 15097680000.0,
+    "eps": 33.63,
+    "freeCashFlow": -17366860000.0,
+    "totalDebt": 37071450000.0,
+    "cash": 14665220000.0,
+    "sharesOutstanding": 452994368.0
+  },
+  "ratios": {
+    "roe": 0.35047992950324486,
+    "roic": 0.24014527513328054,
+    "grossMargin": 0.39559637614459636,
+    "operatingMargin": 0.24599169211492192,
+    "netMargin": 0.19295703400681,
+    "debtToEquity": 0.86005
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 14273800000.0,
+      "operatingIncome": 548120000.0,
+      "netIncome": -128050000.0,
+      "eps": -0.286572,
+      "freeCashFlow": -2393570000.0,
+      "totalDebt": 7639860000.0,
+      "cash": 645700000.0,
+      "sharesOutstanding": 446833632.0,
+      "grossMargin": 0.16031890596757695,
+      "operatingMargin": 0.038400425955246675,
+      "netMargin": -0.008970981798820216,
+      "roe": -0.031139428279610422,
+      "roic": 0.04664053213024836
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 31391970000.0,
+      "operatingIncome": 3964830000.0,
+      "netIncome": 2313600000.0,
+      "eps": 5.177766,
+      "freeCashFlow": -3612050000.0,
+      "totalDebt": 14010900000.0,
+      "cash": 2570010000.0,
+      "sharesOutstanding": 446833632.0,
+      "grossMargin": 0.23835044439708625,
+      "operatingMargin": 0.12630077054737246,
+      "netMargin": 0.0737003762427143,
+      "roe": 0.35767124113590304,
+      "roic": 0.19360079221032248
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 65187450000.0,
+      "operatingIncome": 12833560000.0,
+      "netIncome": 9371320000.0,
+      "eps": 21.35,
+      "freeCashFlow": 7278290000.0,
+      "totalDebt": 19535050000.0,
+      "cash": 8025820000.0,
+      "sharesOutstanding": 450774368.0,
+      "grossMargin": 0.3727174479136705,
+      "operatingMargin": 0.19687163710192682,
+      "netMargin": 0.1437595733534599,
+      "roe": 0.3320683206087936,
+      "roic": 0.2687312681037044
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 78243740000.0,
+      "operatingIncome": 19247310000.0,
+      "netIncome": 15097680000.0,
+      "eps": 33.63,
+      "freeCashFlow": -17366860000.0,
+      "totalDebt": 37071450000.0,
+      "cash": 14665220000.0,
+      "sharesOutstanding": 452994368.0,
+      "grossMargin": 0.39559637614459636,
+      "operatingMargin": 0.24599169211492192,
+      "netMargin": 0.19295703400681,
+      "roe": 0.35047992950324486,
+      "roic": 0.24014527513328054
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:45.378085+00:00"
+  }
+}

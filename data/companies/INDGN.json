@@ -1,0 +1,128 @@
+{
+  "ticker": "INDGN",
+  "name": "INDEGENE LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 125337387008.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 521.55,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 35105000000.0,
+    "operatingIncome": 4926000000.0,
+    "netIncome": 4011000000.0,
+    "eps": 16.62,
+    "freeCashFlow": 6064000000.0,
+    "totalDebt": 1444000000.0,
+    "cash": 3008000000.0,
+    "sharesOutstanding": 240317117.0
+  },
+  "ratios": {
+    "roe": 0.12779176092012617,
+    "roic": 0.15004111967347933,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.14032189146845178,
+    "netMargin": 0.11425722831505483,
+    "debtToEquity": 0.04601
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 23061000000.0,
+      "operatingIncome": 3363000000.0,
+      "netIncome": 2661000000.0,
+      "eps": 11.121378,
+      "freeCashFlow": 1114000000.0,
+      "totalDebt": 5025830000.0,
+      "cash": 735850000.0,
+      "sharesOutstanding": 238896201.0,
+      "grossMargin": null,
+      "operatingMargin": 0.14583062312995967,
+      "netMargin": 0.11538961883699753,
+      "roe": 0.2501593461449514,
+      "roic": 0.2147091403015377
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 25896000000.0,
+      "operatingIncome": 4348000000.0,
+      "netIncome": 3367000000.0,
+      "eps": 14.093987,
+      "freeCashFlow": 4970000000.0,
+      "totalDebt": 4896000000.0,
+      "cash": 1886000000.0,
+      "sharesOutstanding": 239268909.0,
+      "grossMargin": null,
+      "operatingMargin": 0.16790237874575223,
+      "netMargin": 0.13002008032128515,
+      "roe": 0.235602826954027,
+      "roic": 0.2266117683848439
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 28393000000.0,
+      "operatingIncome": 4541000000.0,
+      "netIncome": 4067000000.0,
+      "eps": 17.02,
+      "freeCashFlow": 4119000000.0,
+      "totalDebt": 1016000000.0,
+      "cash": 2410000000.0,
+      "sharesOutstanding": 240007962.0,
+      "grossMargin": null,
+      "operatingMargin": 0.15993378649667173,
+      "netMargin": 0.14323953087028493,
+      "roe": 0.1554901361064383,
+      "roic": 0.16712056528779626
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 35105000000.0,
+      "operatingIncome": 4926000000.0,
+      "netIncome": 4011000000.0,
+      "eps": 16.62,
+      "freeCashFlow": 6064000000.0,
+      "totalDebt": 1444000000.0,
+      "cash": 3008000000.0,
+      "sharesOutstanding": 240317117.0,
+      "grossMargin": null,
+      "operatingMargin": 0.14032189146845178,
+      "netMargin": 0.11425722831505483,
+      "roe": 0.12779176092012617,
+      "roic": 0.15004111967347933
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:59.972486+00:00"
+  }
+}

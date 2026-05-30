@@ -1,0 +1,128 @@
+{
+  "ticker": "IQV",
+  "name": "IQVIA Holdings Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 30410850304.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 182.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16310000000.0,
+    "operatingIncome": 2287000000.0,
+    "netIncome": 1360000000.0,
+    "eps": 7.84,
+    "freeCashFlow": 2051000000.0,
+    "totalDebt": null,
+    "cash": 1980000000.0,
+    "sharesOutstanding": 259100000.0
+  },
+  "ratios": {
+    "roe": 0.20913424573273873,
+    "roic": 0.3516838382285099,
+    "grossMargin": 0.33292458614347026,
+    "operatingMargin": 0.14022072348252607,
+    "netMargin": 0.08338442673206621,
+    "debtToEquity": 2.5542599999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 12438000000.0,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14410000000.0,
+      "operatingIncome": 1827000000.0,
+      "netIncome": 1091000000.0,
+      "eps": 5.72,
+      "freeCashFlow": 1586000000.0,
+      "totalDebt": 13011000000.0,
+      "cash": 1216000000.0,
+      "sharesOutstanding": 256400000.0,
+      "grossMargin": 0.34892435808466343,
+      "operatingMargin": 0.12678695350451075,
+      "netMargin": 0.07571131158917419,
+      "roe": 0.18924544666088464,
+      "roic": 0.09730507030251384
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14984000000.0,
+      "operatingIncome": 2061000000.0,
+      "netIncome": 1358000000.0,
+      "eps": 7.29,
+      "freeCashFlow": 1500000000.0,
+      "totalDebt": 13896000000.0,
+      "cash": 1376000000.0,
+      "sharesOutstanding": 257200000.0,
+      "grossMargin": 0.34963961558996265,
+      "operatingMargin": 0.13754671649759745,
+      "netMargin": 0.09063000533902829,
+      "roe": 0.22218586387434555,
+      "roic": 0.10300879648140744
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15405000000.0,
+      "operatingIncome": 2269000000.0,
+      "netIncome": 1373000000.0,
+      "eps": 7.49,
+      "freeCashFlow": 2114000000.0,
+      "totalDebt": 14156000000.0,
+      "cash": 1702000000.0,
+      "sharesOutstanding": 258200000.0,
+      "grossMargin": 0.3489126906848426,
+      "operatingMargin": 0.14728984096072703,
+      "netMargin": 0.08912690684842584,
+      "roe": 0.22630624690951046,
+      "roic": 0.11219898135785986
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16310000000.0,
+      "operatingIncome": 2287000000.0,
+      "netIncome": 1360000000.0,
+      "eps": 7.84,
+      "freeCashFlow": 2051000000.0,
+      "totalDebt": null,
+      "cash": 1980000000.0,
+      "sharesOutstanding": 259100000.0,
+      "grossMargin": 0.33292458614347026,
+      "operatingMargin": 0.14022072348252607,
+      "netMargin": 0.08338442673206621,
+      "roe": 0.20913424573273873,
+      "roic": 0.3516838382285099
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:40.782757+00:00"
+  }
+}

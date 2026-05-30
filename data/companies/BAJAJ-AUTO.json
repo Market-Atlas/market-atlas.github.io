@@ -1,0 +1,128 @@
+{
+  "ticker": "BAJAJ-AUTO",
+  "name": "Bajaj Auto Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2921182527488.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 10460.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 603864300000.0,
+    "operatingIncome": 124163800000.0,
+    "netIncome": 107442100000.0,
+    "eps": 384.4,
+    "freeCashFlow": 18742800000.0,
+    "totalDebt": 226397800000.0,
+    "cash": 29899700000.0,
+    "sharesOutstanding": 279497838.0
+  },
+  "ratios": {
+    "roe": 0.27668450676877493,
+    "roic": 0.20198507379891614,
+    "grossMargin": 0.3000130989694208,
+    "operatingMargin": 0.20561540067859616,
+    "netMargin": 0.17792424556311742,
+    "debtToEquity": 0.56289
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 353915200000.0,
+      "operatingIncome": 60625400000.0,
+      "netIncome": 60602100000.0,
+      "eps": 212.5,
+      "freeCashFlow": 41672200000.0,
+      "totalDebt": 0.0,
+      "cash": 2416200000.0,
+      "sharesOutstanding": 282957358.0,
+      "grossMargin": 0.24677578131710648,
+      "operatingMargin": 0.1712992264813718,
+      "netMargin": 0.17123339150169306,
+      "roe": 0.206399596206466,
+      "roic": 0.2064789517171102
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 437820800000.0,
+      "operatingIncome": 82713000000.0,
+      "netIncome": 77082400000.0,
+      "eps": 272.4,
+      "freeCashFlow": 58286900000.0,
+      "totalDebt": 17859000000.0,
+      "cash": 5604500000.0,
+      "sharesOutstanding": 279179756.0,
+      "grossMargin": 0.2602464295894576,
+      "operatingMargin": 0.1889197589516076,
+      "netMargin": 0.17605924615733196,
+      "roe": 0.26614636005774384,
+      "roic": 0.26900014992693905
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 492669500000.0,
+      "operatingIncome": 100535000000.0,
+      "netIncome": 73247300000.0,
+      "eps": 262.0,
+      "freeCashFlow": -22794100000.0,
+      "totalDebt": 92365200000.0,
+      "cash": 23315300000.0,
+      "sharesOutstanding": 279257608.0,
+      "grossMargin": 0.2862970003217167,
+      "operatingMargin": 0.20406174930658383,
+      "netMargin": 0.1486743141193031,
+      "roe": 0.20815550656261064,
+      "roic": 0.22630143301356032
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 603864300000.0,
+      "operatingIncome": 124163800000.0,
+      "netIncome": 107442100000.0,
+      "eps": 384.4,
+      "freeCashFlow": 18742800000.0,
+      "totalDebt": 226397800000.0,
+      "cash": 29899700000.0,
+      "sharesOutstanding": 279497838.0,
+      "grossMargin": 0.3000130989694208,
+      "operatingMargin": 0.20561540067859616,
+      "netMargin": 0.17792424556311742,
+      "roe": 0.27668450676877493,
+      "roic": 0.20198507379891614
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.650821+00:00"
+  }
+}

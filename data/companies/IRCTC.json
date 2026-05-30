@@ -1,0 +1,128 @@
+{
+  "ticker": "IRCTC",
+  "name": "Indian Railway Catering & Tourism Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 407880007680.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 509.85,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 52148631000.0,
+    "operatingIncome": 16163594000.0,
+    "netIncome": 13934547000.0,
+    "eps": 17.42,
+    "freeCashFlow": 11951452000.0,
+    "totalDebt": 807259000.0,
+    "cash": 4120438000.0,
+    "sharesOutstanding": 800000000.0
+  },
+  "ratios": {
+    "roe": 0.32341756458865695,
+    "roic": 0.3682535167909504,
+    "grossMargin": 0.3567776112857114,
+    "operatingMargin": 0.3099524127488601,
+    "netMargin": 0.26720829929360945,
+    "debtToEquity": 0.01874
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 35407641000.0,
+      "operatingIncome": 12501811000.0,
+      "netIncome": 10058811000.0,
+      "eps": 12.57,
+      "freeCashFlow": 7441762000.0,
+      "totalDebt": 841622000.0,
+      "cash": 4288451000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.39728921788378957,
+      "operatingMargin": 0.3530822909100327,
+      "netMargin": 0.2840858841739838,
+      "roe": 0.4058583908895244,
+      "roic": 0.4878629286586653
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 42597961000.0,
+      "operatingIncome": 14168032000.0,
+      "netIncome": 11110773000.0,
+      "eps": 13.89,
+      "freeCashFlow": 6496783000.0,
+      "totalDebt": 603505000.0,
+      "cash": 7063387000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.37870575542336404,
+      "operatingMargin": 0.3325988302585657,
+      "netMargin": 0.2608287518738279,
+      "roe": 0.34400931652364597,
+      "roic": 0.43062109019166334
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 46747710000.0,
+      "operatingIncome": 14972282000.0,
+      "netIncome": 13149274000.0,
+      "eps": 16.44,
+      "freeCashFlow": 7619908000.0,
+      "totalDebt": 897963000.0,
+      "cash": 3775077000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.36711567261797423,
+      "operatingMargin": 0.32027840508123284,
+      "netMargin": 0.2812816713374837,
+      "roe": 0.35893978238422275,
+      "roic": 0.39892456524382697
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 52148631000.0,
+      "operatingIncome": 16163594000.0,
+      "netIncome": 13934547000.0,
+      "eps": 17.42,
+      "freeCashFlow": 11951452000.0,
+      "totalDebt": 807259000.0,
+      "cash": 4120438000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.3567776112857114,
+      "operatingMargin": 0.3099524127488601,
+      "netMargin": 0.26720829929360945,
+      "roe": 0.32341756458865695,
+      "roic": 0.3682535167909504
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:04.601736+00:00"
+  }
+}

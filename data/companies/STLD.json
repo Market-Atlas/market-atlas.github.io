@@ -1,0 +1,128 @@
+{
+  "ticker": "STLD",
+  "name": "Steel Dynamics, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "USD",
+  "marketCap": {
+    "value": 37516955648.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 260.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18176581000.0,
+    "operatingIncome": 1598972000.0,
+    "netIncome": 1185595000.0,
+    "eps": 7.99,
+    "freeCashFlow": 501509000.0,
+    "totalDebt": 4211163000.0,
+    "cash": 769878000.0,
+    "sharesOutstanding": 268644427.0
+  },
+  "ratios": {
+    "roe": 0.1323624997236854,
+    "roic": 0.12142543349221181,
+    "grossMargin": 0.13160797401887628,
+    "operatingMargin": 0.08796879897270009,
+    "netMargin": 0.06522651317098634,
+    "debtToEquity": 0.45994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22260774000.0,
+      "operatingIncome": 5544373000.0,
+      "netIncome": 3862674000.0,
+      "eps": 20.92,
+      "freeCashFlow": 3551501000.0,
+      "totalDebt": 3070575000.0,
+      "cash": 1628417000.0,
+      "sharesOutstanding": 267762488.0,
+      "grossMargin": 0.27482561927092025,
+      "operatingMargin": 0.2490647000863492,
+      "netMargin": 0.17351930350669748,
+      "roe": 0.47509279112836006,
+      "roic": 0.49499211315629804
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18795316000.0,
+      "operatingIncome": 3423214000.0,
+      "netIncome": 2450882000.0,
+      "eps": 14.64,
+      "freeCashFlow": 1862023000.0,
+      "totalDebt": 3071056000.0,
+      "cash": 1400887000.0,
+      "sharesOutstanding": 268112991.0,
+      "grossMargin": 0.21526017439664222,
+      "operatingMargin": 0.18213122886574507,
+      "netMargin": 0.13039855249041835,
+      "roe": 0.2764152839409988,
+      "roic": 0.2867560494372377
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17540390000.0,
+      "operatingIncome": 2107941000.0,
+      "netIncome": 1537134000.0,
+      "eps": 9.84,
+      "freeCashFlow": -23503000.0,
+      "totalDebt": 3231007000.0,
+      "cash": 589464000.0,
+      "sharesOutstanding": 268377165.0,
+      "grossMargin": 0.1597790014931253,
+      "operatingMargin": 0.12017640428747593,
+      "netMargin": 0.08763396937012233,
+      "roe": 0.17204887194691643,
+      "roic": 0.1732749738723947
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 18176581000.0,
+      "operatingIncome": 1598972000.0,
+      "netIncome": 1185595000.0,
+      "eps": 7.99,
+      "freeCashFlow": 501509000.0,
+      "totalDebt": 4211163000.0,
+      "cash": 769878000.0,
+      "sharesOutstanding": 268644427.0,
+      "grossMargin": 0.13160797401887628,
+      "operatingMargin": 0.08796879897270009,
+      "netMargin": 0.06522651317098634,
+      "roe": 0.1323624997236854,
+      "roic": 0.12142543349221181
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:21.453915+00:00"
+  }
+}

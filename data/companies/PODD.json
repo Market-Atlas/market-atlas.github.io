@@ -1,0 +1,128 @@
+{
+  "ticker": "PODD",
+  "name": "Insulet Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10039221248.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 144.94,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2708100000.0,
+    "operatingIncome": 473800000.0,
+    "netIncome": 247100000.0,
+    "eps": 3.48,
+    "freeCashFlow": 349900000.0,
+    "totalDebt": 949200000.0,
+    "cash": 716100000.0,
+    "sharesOutstanding": 70588190.0
+  },
+  "ratios": {
+    "roe": 0.16307001913812447,
+    "roic": 0.19224994927977276,
+    "grossMargin": 0.7163324840293933,
+    "operatingMargin": 0.17495661164654186,
+    "netMargin": 0.09124478416602046,
+    "debtToEquity": 0.7784399999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1305300000.0,
+      "operatingIncome": 37600000.0,
+      "netIncome": 4600000.0,
+      "eps": 0.07,
+      "freeCashFlow": -38300000.0,
+      "totalDebt": 1401800000.0,
+      "cash": 674200000.0,
+      "sharesOutstanding": 69511286.0,
+      "grossMargin": 0.6171761280931587,
+      "operatingMargin": 0.028805638550524783,
+      "netMargin": 0.003524094077989734,
+      "roe": 0.009655751469353484,
+      "roic": 0.020019167287828772
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1697100000.0,
+      "operatingIncome": 220100000.0,
+      "netIncome": 206300000.0,
+      "eps": 2.94,
+      "freeCashFlow": 36500000.0,
+      "totalDebt": 1415800000.0,
+      "cash": 704200000.0,
+      "sharesOutstanding": 69907289.0,
+      "grossMargin": 0.6834600200341759,
+      "operatingMargin": 0.12969182723469447,
+      "netMargin": 0.12156030876200577,
+      "roe": 0.28156134843728675,
+      "roic": 0.102443565278101
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2071600000.0,
+      "operatingIncome": 308900000.0,
+      "netIncome": 418300000.0,
+      "eps": 5.78,
+      "freeCashFlow": 296200000.0,
+      "totalDebt": 1379900000.0,
+      "cash": 953300000.0,
+      "sharesOutstanding": 70196031.0,
+      "grossMargin": 0.6978663834717127,
+      "operatingMargin": 0.14911179764433288,
+      "netMargin": 0.20192122031280169,
+      "roe": 0.3452459557609772,
+      "roic": 0.11919737603704418
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2708100000.0,
+      "operatingIncome": 473800000.0,
+      "netIncome": 247100000.0,
+      "eps": 3.48,
+      "freeCashFlow": 349900000.0,
+      "totalDebt": 949200000.0,
+      "cash": 716100000.0,
+      "sharesOutstanding": 70588190.0,
+      "grossMargin": 0.7163324840293933,
+      "operatingMargin": 0.17495661164654186,
+      "netMargin": 0.09124478416602046,
+      "roe": 0.16307001913812447,
+      "roic": 0.19224994927977276
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:10.802430+00:00"
+  }
+}

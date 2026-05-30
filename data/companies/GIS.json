@@ -1,0 +1,111 @@
+{
+  "ticker": "GIS",
+  "name": "General Mills, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 18043762688.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 33.81,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19486600000.0,
+    "operatingIncome": 3287200000.0,
+    "netIncome": 2295200000.0,
+    "eps": 4.1,
+    "freeCashFlow": 2292900000.0,
+    "totalDebt": 15296700000.0,
+    "cash": 363900000.0,
+    "sharesOutstanding": 754613328.0
+  },
+  "ratios": {
+    "roe": 0.2494999565179581,
+    "roic": 0.13419388550737063,
+    "grossMargin": 0.345519485184691,
+    "operatingMargin": 0.16869027947410015,
+    "netMargin": 0.11778350250941673,
+    "debtToEquity": 2.17629
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 18992800000.0,
+      "operatingIncome": 3255200000.0,
+      "netIncome": 2707300000.0,
+      "eps": 4.42,
+      "freeCashFlow": 2747400000.0,
+      "totalDebt": 11975400000.0,
+      "cash": 569400000.0,
+      "sharesOutstanding": 754600000.0,
+      "grossMargin": 0.33708563245019163,
+      "operatingMargin": 0.1713912640579588,
+      "netMargin": 0.14254349016469398,
+      "roe": 0.2568011079071179,
+      "roic": 0.14456119159065273
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 20094200000.0,
+      "operatingIncome": 3045400000.0,
+      "netIncome": 2593900000.0,
+      "eps": 4.31,
+      "freeCashFlow": 2089100000.0,
+      "totalDebt": 12064800000.0,
+      "cash": 585500000.0,
+      "sharesOutstanding": 754600000.0,
+      "grossMargin": 0.325755690696818,
+      "operatingMargin": 0.1515561704372406,
+      "netMargin": 0.12908700022892178,
+      "roe": 0.24822959730516,
+      "roic": 0.13526454180435632
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 19857200000.0,
+      "operatingIncome": 3673100000.0,
+      "netIncome": 2496600000.0,
+      "eps": 4.31,
+      "freeCashFlow": 2528500000.0,
+      "totalDebt": 13315100000.0,
+      "cash": 418000000.0,
+      "sharesOutstanding": 754600000.0,
+      "grossMargin": 0.3490975565537941,
+      "operatingMargin": 0.1849757266885563,
+      "netMargin": 0.12572769574763815,
+      "roe": 0.26568901848521287,
+      "roic": 0.1617265034035171
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 19486600000.0,
+      "operatingIncome": 3287200000.0,
+      "netIncome": 2295200000.0,
+      "eps": 4.1,
+      "freeCashFlow": 2292900000.0,
+      "totalDebt": 15296700000.0,
+      "cash": 363900000.0,
+      "sharesOutstanding": 754613328.0,
+      "grossMargin": 0.345519485184691,
+      "operatingMargin": 0.16869027947410015,
+      "netMargin": 0.11778350250941673,
+      "roe": 0.2494999565179581,
+      "roic": 0.13419388550737063
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:30.239172+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "HRL",
+  "name": "Hormel Foods Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12783101952.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23.23,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12106160000.0,
+    "operatingIncome": 895192000.0,
+    "netIncome": 478197000.0,
+    "eps": 0.87,
+    "freeCashFlow": 534349000.0,
+    "totalDebt": 2857424000.0,
+    "cash": 670679000.0,
+    "sharesOutstanding": 550107260.0
+  },
+  "ratios": {
+    "roe": 0.06052229473327435,
+    "roic": 0.0832071474016821,
+    "grossMargin": 0.1562688746885883,
+    "operatingMargin": 0.07394516510602867,
+    "netMargin": 0.03950030397747924,
+    "debtToEquity": 0.04244
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 12458806000.0,
+      "operatingIncome": 1285421000.0,
+      "netIncome": 999987000.0,
+      "eps": 1.82,
+      "freeCashFlow": 856059000.0,
+      "totalDebt": 3299345000.0,
+      "cash": 982107000.0,
+      "sharesOutstanding": 546237051.0,
+      "grossMargin": 0.17374746825658896,
+      "operatingMargin": 0.10317369096203922,
+      "netMargin": 0.08026346987022673,
+      "roe": 0.13270727420492712,
+      "roic": 0.11864005680305251
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 12110010000.0,
+      "operatingIncome": 1057674000.0,
+      "netIncome": 793572000.0,
+      "eps": 1.45,
+      "freeCashFlow": 777636000.0,
+      "totalDebt": 3309248000.0,
+      "cash": 736532000.0,
+      "sharesOutstanding": 546599420.0,
+      "grossMargin": 0.16513950029768762,
+      "operatingMargin": 0.08733882135522597,
+      "netMargin": 0.06553025142010617,
+      "roe": 0.10259648333491707,
+      "roic": 0.09576795208822639
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 11920797000.0,
+      "operatingIncome": 1016844000.0,
+      "netIncome": 805038000.0,
+      "eps": 1.47,
+      "freeCashFlow": 1010297000.0,
+      "totalDebt": 2858757000.0,
+      "cash": 741881000.0,
+      "sharesOutstanding": 548605305.0,
+      "grossMargin": 0.16963110771872048,
+      "operatingMargin": 0.08530000133380343,
+      "netMargin": 0.06753222959840688,
+      "roe": 0.10071258610206896,
+      "roic": 0.09369954065437745
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 12106160000.0,
+      "operatingIncome": 895192000.0,
+      "netIncome": 478197000.0,
+      "eps": 0.87,
+      "freeCashFlow": 534349000.0,
+      "totalDebt": 2857424000.0,
+      "cash": 670679000.0,
+      "sharesOutstanding": 550107260.0,
+      "grossMargin": 0.1562688746885883,
+      "operatingMargin": 0.07394516510602867,
+      "netMargin": 0.03950030397747924,
+      "roe": 0.06052229473327435,
+      "roic": 0.0832071474016821
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.053579+00:00"
+  }
+}

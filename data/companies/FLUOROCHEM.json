@@ -1,0 +1,128 @@
+{
+  "ticker": "FLUOROCHEM",
+  "name": "Gujarat Fluorochemicals Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 398645657600.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3629.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 49960000000.0,
+    "operatingIncome": 8350000000.0,
+    "netIncome": 5780000000.0,
+    "eps": 52.26,
+    "freeCashFlow": -2910000000.0,
+    "totalDebt": 22900000000.0,
+    "cash": 2150000000.0,
+    "sharesOutstanding": 109850000.0
+  },
+  "ratios": {
+    "roe": 0.07348080345792016,
+    "roic": 0.08221740842851516,
+    "grossMargin": 0.6647317854283427,
+    "operatingMargin": 0.16713370696557245,
+    "netMargin": 0.11569255404323459,
+    "debtToEquity": 0.2894
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 55942403000.0,
+      "operatingIncome": 17296516000.0,
+      "netIncome": 13288124000.0,
+      "eps": 120.966081,
+      "freeCashFlow": 75571000.0,
+      "totalDebt": 15151225000.0,
+      "cash": 239911000.0,
+      "sharesOutstanding": 109850000.0,
+      "grossMargin": 0.6905492422268668,
+      "operatingMargin": 0.30918435877700856,
+      "netMargin": 0.23753223471648152,
+      "roe": 0.24069555439205967,
+      "roic": 0.24583437857677568
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 41936700000.0,
+      "operatingIncome": 6293800000.0,
+      "netIncome": 4349500000.0,
+      "eps": 39.59,
+      "freeCashFlow": -3442300000.0,
+      "totalDebt": 20959500000.0,
+      "cash": 314500000.0,
+      "sharesOutstanding": 109850000.0,
+      "grossMargin": 0.6240953627729411,
+      "operatingMargin": 0.15007857079836992,
+      "netMargin": 0.10371583839453272,
+      "roe": 0.07326905130096996,
+      "roic": 0.07835623464790241
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 47370000000.0,
+      "operatingIncome": 7440000000.0,
+      "netIncome": 5460000000.0,
+      "eps": 49.69,
+      "freeCashFlow": -3360000000.0,
+      "totalDebt": 20803100000.0,
+      "cash": 550900000.0,
+      "sharesOutstanding": 109850000.0,
+      "grossMargin": 0.6805995355710365,
+      "operatingMargin": 0.1570614312856238,
+      "netMargin": 0.11526282457251424,
+      "roe": 0.07528334666188677,
+      "roic": 0.07971790149053189
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 49960000000.0,
+      "operatingIncome": 8350000000.0,
+      "netIncome": 5780000000.0,
+      "eps": 52.26,
+      "freeCashFlow": -2910000000.0,
+      "totalDebt": 22900000000.0,
+      "cash": 2150000000.0,
+      "sharesOutstanding": 109850000.0,
+      "grossMargin": 0.6647317854283427,
+      "operatingMargin": 0.16713370696557245,
+      "netMargin": 0.11569255404323459,
+      "roe": 0.07348080345792016,
+      "roic": 0.08221740842851516
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:42.868769+00:00"
+  }
+}

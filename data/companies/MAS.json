@@ -1,0 +1,128 @@
+{
+  "ticker": "MAS",
+  "name": "Masco Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 14171843584.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 70.25,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7562000000.0,
+    "operatingIncome": 1253000000.0,
+    "netIncome": 810000000.0,
+    "eps": 3.86,
+    "freeCashFlow": 866000000.0,
+    "totalDebt": 3215000000.0,
+    "cash": 647000000.0,
+    "sharesOutstanding": 204300000.0
+  },
+  "ratios": {
+    "roe": -4.354838709677419,
+    "roic": 0.4136678771871905,
+    "grossMargin": 0.3542713567839196,
+    "operatingMargin": 0.16569690558053424,
+    "netMargin": 0.10711451996826236,
+    "debtToEquity": 122.29629999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8680000000.0,
+      "operatingIncome": 1323000000.0,
+      "netIncome": 846000000.0,
+      "eps": 3.63,
+      "freeCashFlow": 616000000.0,
+      "totalDebt": 3445000000.0,
+      "cash": 452000000.0,
+      "sharesOutstanding": 225300000.0,
+      "grossMargin": 0.31255760368663593,
+      "operatingMargin": 0.15241935483870966,
+      "netMargin": 0.09746543778801843,
+      "roe": -1.7625,
+      "roic": 0.4462057335581788
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7967000000.0,
+      "operatingIncome": 1363000000.0,
+      "netIncome": 908000000.0,
+      "eps": 4.02,
+      "freeCashFlow": 1170000000.0,
+      "totalDebt": 3251000000.0,
+      "cash": 634000000.0,
+      "sharesOutstanding": 220600000.0,
+      "grossMargin": 0.3559683695242877,
+      "operatingMargin": 0.17108070792017072,
+      "netMargin": 0.11397012677293837,
+      "roe": -7.2063492063492065,
+      "roic": 0.43616
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7828000000.0,
+      "operatingIncome": 1363000000.0,
+      "netIncome": 822000000.0,
+      "eps": 3.76,
+      "freeCashFlow": 907000000.0,
+      "totalDebt": 3214000000.0,
+      "cash": 634000000.0,
+      "sharesOutstanding": 212500000.0,
+      "grossMargin": 0.3616504854368932,
+      "operatingMargin": 0.17411854879918243,
+      "netMargin": 0.10500766479305058,
+      "roe": -2.9357142857142855,
+      "roic": 0.4645535105657805
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7562000000.0,
+      "operatingIncome": 1253000000.0,
+      "netIncome": 810000000.0,
+      "eps": 3.86,
+      "freeCashFlow": 866000000.0,
+      "totalDebt": 3215000000.0,
+      "cash": 647000000.0,
+      "sharesOutstanding": 204300000.0,
+      "grossMargin": 0.3542713567839196,
+      "operatingMargin": 0.16569690558053424,
+      "netMargin": 0.10711451996826236,
+      "roe": -4.354838709677419,
+      "roic": 0.4136678771871905
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:52.299662+00:00"
+  }
+}

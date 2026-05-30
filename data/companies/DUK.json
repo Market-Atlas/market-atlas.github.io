@@ -1,0 +1,111 @@
+{
+  "ticker": "DUK",
+  "name": "Duke Energy Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 95679848448.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 122.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32237000000.0,
+    "operatingIncome": 8577000000.0,
+    "netIncome": 4968000000.0,
+    "eps": 6.31,
+    "freeCashFlow": -1694000000.0,
+    "totalDebt": 90869000000.0,
+    "cash": 245000000.0,
+    "sharesOutstanding": 777661224.0
+  },
+  "ratios": {
+    "roe": 0.09582963620230701,
+    "roic": 0.06010048279389816,
+    "grossMargin": 0.5117721872382666,
+    "operatingMargin": 0.2660607376616931,
+    "netMargin": 0.15410863293730806,
+    "debtToEquity": 1.61495
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28768000000.0,
+      "operatingIncome": 6424000000.0,
+      "netIncome": 2550000000.0,
+      "eps": 3.33,
+      "freeCashFlow": -5440000000.0,
+      "totalDebt": 74579000000.0,
+      "cash": 409000000.0,
+      "sharesOutstanding": 770000000.0,
+      "grossMargin": 0.4510567296996663,
+      "operatingMargin": 0.22330367074527252,
+      "netMargin": 0.08864015572858731,
+      "roe": 0.051701066461214064,
+      "roic": 0.05184784626435622
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 29060000000.0,
+      "operatingIncome": 7103000000.0,
+      "netIncome": 2841000000.0,
+      "eps": 3.54,
+      "freeCashFlow": -2726000000.0,
+      "totalDebt": 80457000000.0,
+      "cash": 253000000.0,
+      "sharesOutstanding": 770711728.0,
+      "grossMargin": 0.4733654507914659,
+      "operatingMargin": 0.2444253269098417,
+      "netMargin": 0.0977632484514797,
+      "roe": 0.057848547168658754,
+      "roic": 0.05482063472462336
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 30357000000.0,
+      "operatingIncome": 7938000000.0,
+      "netIncome": 4524000000.0,
+      "eps": 5.71,
+      "freeCashFlow": 48000000.0,
+      "totalDebt": 85230000000.0,
+      "cash": 314000000.0,
+      "sharesOutstanding": 776000000.0,
+      "grossMargin": 0.5006094146325395,
+      "operatingMargin": 0.2614882893566558,
+      "netMargin": 0.14902658365451132,
+      "roe": 0.09025076306182298,
+      "roic": 0.05864491677563776
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32237000000.0,
+      "operatingIncome": 8577000000.0,
+      "netIncome": 4968000000.0,
+      "eps": 6.31,
+      "freeCashFlow": -1694000000.0,
+      "totalDebt": 90869000000.0,
+      "cash": 245000000.0,
+      "sharesOutstanding": 777661224.0,
+      "grossMargin": 0.5117721872382666,
+      "operatingMargin": 0.2660607376616931,
+      "netMargin": 0.15410863293730806,
+      "roe": 0.09582963620230701,
+      "roic": 0.06010048279389816
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:13.994982+00:00"
+  }
+}

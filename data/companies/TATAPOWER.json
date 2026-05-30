@@ -1,0 +1,128 @@
+{
+  "ticker": "TATAPOWER",
+  "name": "Tata Power Company Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1344439058432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 420.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 624285900000.0,
+    "operatingIncome": 82839700000.0,
+    "netIncome": 37471900000.0,
+    "eps": null,
+    "freeCashFlow": -77015000000.0,
+    "totalDebt": 797892400000.0,
+    "cash": 44096700000.0,
+    "sharesOutstanding": 3195339547.0
+  },
+  "ratios": {
+    "roe": 0.09494438547847694,
+    "roic": 0.06946349652366811,
+    "grossMargin": 0.40427518865955486,
+    "operatingMargin": 0.13269513215018952,
+    "netMargin": 0.060023620587938954,
+    "debtToEquity": 1.67811
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.36,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 541176100000.0,
+      "operatingIncome": 43995200000.0,
+      "netIncome": 33364400000.0,
+      "eps": 10.43,
+      "freeCashFlow": -4904200000.0,
+      "totalDebt": 529230900000.0,
+      "cash": 41897600000.0,
+      "sharesOutstanding": 3196991847.0,
+      "grossMargin": 0.24160102413983175,
+      "operatingMargin": 0.08129553393063736,
+      "netMargin": 0.061651650913630514,
+      "roe": 0.11589919628115465,
+      "roic": 0.053842761005559625
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 603880300000.0,
+      "operatingIncome": 68019600000.0,
+      "netIncome": 36962500000.0,
+      "eps": 11.56,
+      "freeCashFlow": -7366600000.0,
+      "totalDebt": 590067600000.0,
+      "cash": 33243400000.0,
+      "sharesOutstanding": 3195339547.0,
+      "grossMargin": 0.27085980450099134,
+      "operatingMargin": 0.11263755416429382,
+      "netMargin": 0.06120832224531915,
+      "roe": 0.11423943348985591,
+      "roic": 0.07445060613241494
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 654782400000.0,
+      "operatingIncome": 98130100000.0,
+      "netIncome": 39710000000.0,
+      "eps": 12.41,
+      "freeCashFlow": -45926500000.0,
+      "totalDebt": 679958200000.0,
+      "cash": 48624700000.0,
+      "sharesOutstanding": 3195339547.0,
+      "grossMargin": 0.3855603021706142,
+      "operatingMargin": 0.14986673435327522,
+      "netMargin": 0.06064610166675219,
+      "roe": 0.11079591983073978,
+      "roic": 0.09450444636562734
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 624285900000.0,
+      "operatingIncome": 82839700000.0,
+      "netIncome": 37471900000.0,
+      "eps": null,
+      "freeCashFlow": -77015000000.0,
+      "totalDebt": 797892400000.0,
+      "cash": 44096700000.0,
+      "sharesOutstanding": 3195339547.0,
+      "grossMargin": 0.40427518865955486,
+      "operatingMargin": 0.13269513215018952,
+      "netMargin": 0.060023620587938954,
+      "roe": 0.09494438547847694,
+      "roic": 0.06946349652366811
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:03.240611+00:00"
+  }
+}

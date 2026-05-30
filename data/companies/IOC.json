@@ -1,0 +1,128 @@
+{
+  "ticker": "IOC",
+  "name": "Indian Oil Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1980362522624.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 140.24,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7844154300000.0,
+    "operatingIncome": 597770900000.0,
+    "netIncome": 420962600000.0,
+    "eps": null,
+    "freeCashFlow": 477793500000.0,
+    "totalDebt": 1318223900000.0,
+    "cash": 18330800000.0,
+    "sharesOutstanding": 14121238383.0
+  },
+  "ratios": {
+    "roe": 0.1917671730574617,
+    "roic": 0.17014032051124048,
+    "grossMargin": 0.16938904427211485,
+    "operatingMargin": 0.0762059078822557,
+    "netMargin": 0.053665772484868125,
+    "debtToEquity": 0.58446
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 18.23,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8275473300000.0,
+      "operatingIncome": 259135600000.0,
+      "netIncome": 97921200000.0,
+      "eps": 7.11,
+      "freeCashFlow": -32058100000.0,
+      "totalDebt": 1489770800000.0,
+      "cash": 9963500000.0,
+      "sharesOutstanding": 14121238383.0,
+      "grossMargin": 0.06772999920137499,
+      "operatingMargin": 0.031313689333031865,
+      "netMargin": 0.011832700855913583,
+      "roe": 0.07008376166545377,
+      "roic": 0.0897603067461797
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7728420600000.0,
+      "operatingIncome": 613447200000.0,
+      "netIncome": 417296900000.0,
+      "eps": 30.3,
+      "freeCashFlow": 339710600000.0,
+      "totalDebt": 1326275600000.0,
+      "cash": 12465900000.0,
+      "sharesOutstanding": 14121238383.0,
+      "grossMargin": 0.1371487467956907,
+      "operatingMargin": 0.07937549361638004,
+      "netMargin": 0.05399510735738166,
+      "roe": 0.22751356790757984,
+      "roic": 0.1941019383292501
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7581058100000.0,
+      "operatingIncome": 194299900000.0,
+      "netIncome": 135978400000.0,
+      "eps": 9.87,
+      "freeCashFlow": -5149300000.0,
+      "totalDebt": 1522707000000.0,
+      "cash": 6731700000.0,
+      "sharesOutstanding": 14121238383.0,
+      "grossMargin": 0.11151869420444094,
+      "operatingMargin": 0.02562965452012563,
+      "netMargin": 0.017936599114047155,
+      "roe": 0.07291562772203493,
+      "roic": 0.057356546126937455
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 7844154300000.0,
+      "operatingIncome": 597770900000.0,
+      "netIncome": 420962600000.0,
+      "eps": null,
+      "freeCashFlow": 477793500000.0,
+      "totalDebt": 1318223900000.0,
+      "cash": 18330800000.0,
+      "sharesOutstanding": 14121238383.0,
+      "grossMargin": 0.16938904427211485,
+      "operatingMargin": 0.0762059078822557,
+      "netMargin": 0.053665772484868125,
+      "roe": 0.1917671730574617,
+      "roic": 0.17014032051124048
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:03.380234+00:00"
+  }
+}

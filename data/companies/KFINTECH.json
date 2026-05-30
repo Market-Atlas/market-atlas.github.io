@@ -1,0 +1,111 @@
+{
+  "ticker": "KFINTECH",
+  "name": "KFin Technologies Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "INR",
+  "marketCap": {
+    "value": 148060585984.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 857.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10663100000.0,
+    "operatingIncome": 4200450000.0,
+    "netIncome": 3326250000.0,
+    "eps": 19.27,
+    "freeCashFlow": 3127530000.0,
+    "totalDebt": 465230000.0,
+    "cash": 309760000.0,
+    "sharesOutstanding": 172083343.0
+  },
+  "ratios": {
+    "roe": 0.23626787325174203,
+    "roic": 0.2888191518840337,
+    "grossMargin": 0.6572675863491855,
+    "operatingMargin": 0.3939239058060039,
+    "netMargin": 0.31194024251859215,
+    "debtToEquity": 0.03314
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 6165230000.0,
+      "operatingIncome": 2535810000.0,
+      "netIncome": 1485490000.0,
+      "eps": 8.794902,
+      "freeCashFlow": 1845550000.0,
+      "totalDebt": 1596640000.0,
+      "cash": 376130000.0,
+      "sharesOutstanding": 157350374.0,
+      "grossMargin": 0.6642607007362256,
+      "operatingMargin": 0.41130825613967364,
+      "netMargin": 0.2409464042704003,
+      "roe": 0.23054335967023776,
+      "roic": 0.315396507741848
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6934190000.0,
+      "operatingIncome": 2532800000.0,
+      "netIncome": 1957360000.0,
+      "eps": 11.52,
+      "freeCashFlow": 1533250000.0,
+      "totalDebt": 1598390000.0,
+      "cash": 662740000.0,
+      "sharesOutstanding": 169228699.0,
+      "grossMargin": 0.6215390694515149,
+      "operatingMargin": 0.36526256130853063,
+      "netMargin": 0.2822766610087119,
+      "roe": 0.22492651300472752,
+      "roic": 0.24588835030158407
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 8106160000.0,
+      "operatingIncome": 3237660000.0,
+      "netIncome": 2460480000.0,
+      "eps": 14.34,
+      "freeCashFlow": 2041620000.0,
+      "totalDebt": 486610000.0,
+      "cash": 521730000.0,
+      "sharesOutstanding": 170988673.0,
+      "grossMargin": 0.6345137525042683,
+      "operatingMargin": 0.3994073642760567,
+      "netMargin": 0.3035321286527776,
+      "roe": 0.21564430888964847,
+      "roic": 0.27215208493919646
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 10663100000.0,
+      "operatingIncome": 4200450000.0,
+      "netIncome": 3326250000.0,
+      "eps": 19.27,
+      "freeCashFlow": 3127530000.0,
+      "totalDebt": 465230000.0,
+      "cash": 309760000.0,
+      "sharesOutstanding": 172083343.0,
+      "grossMargin": 0.6572675863491855,
+      "operatingMargin": 0.3939239058060039,
+      "netMargin": 0.31194024251859215,
+      "roe": 0.23626787325174203,
+      "roic": 0.2888191518840337
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:15.486366+00:00"
+  }
+}

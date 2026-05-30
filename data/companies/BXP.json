@@ -1,0 +1,128 @@
+{
+  "ticker": "BXP",
+  "name": "BXP, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "currency": "USD",
+  "marketCap": {
+    "value": 10700468224.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 60.01,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3482279000.0,
+    "operatingIncome": 1014351000.0,
+    "netIncome": 276800000.0,
+    "eps": 1.74,
+    "freeCashFlow": null,
+    "totalDebt": 17358735000.0,
+    "cash": 1478206000.0,
+    "sharesOutstanding": 158627198.0
+  },
+  "ratios": {
+    "roe": 0.05369827467133086,
+    "roic": 0.04505530757307306,
+    "grossMargin": 0.6063876559000586,
+    "operatingMargin": 0.2912894113309129,
+    "netMargin": 0.07948817426748403,
+    "debtToEquity": 2.11994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3108581000.0,
+      "operatingIncome": 1061430000.0,
+      "netIncome": 848947000.0,
+      "eps": 5.4,
+      "freeCashFlow": null,
+      "totalDebt": 14694357000.0,
+      "cash": 690333000.0,
+      "sharesOutstanding": 156836767.0,
+      "grossMargin": 0.6347053526995114,
+      "operatingMargin": 0.34145161409659264,
+      "netMargin": 0.27309791831063757,
+      "roe": 0.1382755232809276,
+      "roic": 0.05094728113411759
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3273569000.0,
+      "operatingIncome": 1038655000.0,
+      "netIncome": 190215000.0,
+      "eps": 1.20864,
+      "freeCashFlow": null,
+      "totalDebt": 16624649000.0,
+      "cash": 1531477000.0,
+      "sharesOutstanding": 157019766.0,
+      "grossMargin": 0.6284874398553995,
+      "operatingMargin": 0.31728520156440876,
+      "netMargin": 0.0581063053810688,
+      "roe": 0.03232156572213122,
+      "roic": 0.0461424924307174
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3407719000.0,
+      "operatingIncome": 1021931000.0,
+      "netIncome": 14272000.0,
+      "eps": 0.09,
+      "freeCashFlow": null,
+      "totalDebt": 16984070000.0,
+      "cash": 1254882000.0,
+      "sharesOutstanding": 158253895.0,
+      "grossMargin": 0.6120202399317549,
+      "operatingMargin": 0.299887109236413,
+      "netMargin": 0.004188138752050858,
+      "roe": 0.0026318308060295334,
+      "roic": 0.04560784839998695
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3482279000.0,
+      "operatingIncome": 1014351000.0,
+      "netIncome": 276800000.0,
+      "eps": 1.74,
+      "freeCashFlow": null,
+      "totalDebt": 17358735000.0,
+      "cash": 1478206000.0,
+      "sharesOutstanding": 158627198.0,
+      "grossMargin": 0.6063876559000586,
+      "operatingMargin": 0.2912894113309129,
+      "netMargin": 0.07948817426748403,
+      "roe": 0.05369827467133086,
+      "roic": 0.04505530757307306
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:54.382498+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "360ONE",
+  "name": "360 One Wam Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 448964427776.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1104.5,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31381300000.0,
+    "operatingIncome": 13355700000.0,
+    "netIncome": 12161700000.0,
+    "eps": null,
+    "freeCashFlow": -30187400000.0,
+    "totalDebt": 157996300000.0,
+    "cash": 5692400000.0,
+    "sharesOutstanding": 406138438.0
+  },
+  "ratios": {
+    "roe": 0.12365043134344292,
+    "roic": 0.05209910755454029,
+    "grossMargin": 0.6113290399059312,
+    "operatingMargin": 0.4255942233113351,
+    "netMargin": 0.387546086363535,
+    "debtToEquity": 1.61977
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 16.02,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 16471500000.0,
+      "operatingIncome": 8346500000.0,
+      "netIncome": 6579300000.0,
+      "eps": 18.12,
+      "freeCashFlow": -13955000000.0,
+      "totalDebt": 67812400000.0,
+      "cash": 5094900000.0,
+      "sharesOutstanding": 356089556.0,
+      "grossMargin": 0.6680144492001335,
+      "operatingMargin": 0.5067237349361018,
+      "netMargin": 0.39943538839814224,
+      "roe": 0.21074328544659587,
+      "roic": 0.08428092362158052
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 20061200000.0,
+      "operatingIncome": 7367900000.0,
+      "netIncome": 8042100000.0,
+      "eps": 21.86,
+      "freeCashFlow": -5721700000.0,
+      "totalDebt": 93511600000.0,
+      "cash": 4427400000.0,
+      "sharesOutstanding": 358862640.0,
+      "grossMargin": 0.5578430004187187,
+      "operatingMargin": 0.3672711502801428,
+      "netMargin": 0.40087831236416566,
+      "roe": 0.23312259220286805,
+      "roic": 0.0575577166900114
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 26353100000.0,
+      "operatingIncome": 12833200000.0,
+      "netIncome": 10153000000.0,
+      "eps": 27.14,
+      "freeCashFlow": -25174100000.0,
+      "totalDebt": 110255300000.0,
+      "cash": 7401900000.0,
+      "sharesOutstanding": 393073939.0,
+      "grossMargin": 0.6314247659668123,
+      "operatingMargin": 0.4869711722719528,
+      "netMargin": 0.3852677673594378,
+      "roe": 0.1437143208992301,
+      "roic": 0.07093991013939008
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 31381300000.0,
+      "operatingIncome": 13355700000.0,
+      "netIncome": 12161700000.0,
+      "eps": null,
+      "freeCashFlow": -30187400000.0,
+      "totalDebt": 157996300000.0,
+      "cash": 5692400000.0,
+      "sharesOutstanding": 406138438.0,
+      "grossMargin": 0.6113290399059312,
+      "operatingMargin": 0.4255942233113351,
+      "netMargin": 0.387546086363535,
+      "roe": 0.12365043134344292,
+      "roic": 0.05209910755454029
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:43.790492+00:00"
+  }
+}

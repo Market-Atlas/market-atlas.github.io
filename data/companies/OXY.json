@@ -1,0 +1,128 @@
+{
+  "ticker": "OXY",
+  "name": "Occidental Petroleum Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "USD",
+  "marketCap": {
+    "value": 56326164480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.63,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21593000000.0,
+    "operatingIncome": 3722000000.0,
+    "netIncome": 2326000000.0,
+    "eps": 1.61,
+    "freeCashFlow": 4105000000.0,
+    "totalDebt": 23351000000.0,
+    "cash": 1968000000.0,
+    "sharesOutstanding": 986026416.0
+  },
+  "ratios": {
+    "roe": 0.06455014708331021,
+    "roic": 0.06267575987202155,
+    "grossMargin": 0.3493261705182235,
+    "operatingMargin": 0.17237067568193395,
+    "netMargin": 0.10772009447506137,
+    "debtToEquity": 0.41989
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": 1083423094.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 36634000000.0,
+      "operatingIncome": 13665000000.0,
+      "netIncome": 13304000000.0,
+      "eps": 12.4,
+      "freeCashFlow": 12313000000.0,
+      "totalDebt": 20765000000.0,
+      "cash": 984000000.0,
+      "sharesOutstanding": 1098512626.0,
+      "grossMargin": 0.4816563847791669,
+      "operatingMargin": 0.37301413987006604,
+      "netMargin": 0.3631599060981602,
+      "roe": 0.4422137277713146,
+      "roic": 0.2687315634218289
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23156000000.0,
+      "operatingIncome": 4753000000.0,
+      "netIncome": 4696000000.0,
+      "eps": 3.9,
+      "freeCashFlow": 6612000000.0,
+      "totalDebt": 20911000000.0,
+      "cash": 1426000000.0,
+      "sharesOutstanding": 1107516500.0,
+      "grossMargin": 0.36418206944204523,
+      "operatingMargin": 0.20525997581620314,
+      "netMargin": 0.20279841077906374,
+      "roe": 0.1552396694214876,
+      "roic": 0.0929027970524423
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22019000000.0,
+      "operatingIncome": 4698000000.0,
+      "netIncome": 3056000000.0,
+      "eps": 2.44,
+      "freeCashFlow": 5176000000.0,
+      "totalDebt": 26920000000.0,
+      "cash": 2125000000.0,
+      "sharesOutstanding": 1166769167.0,
+      "grossMargin": 0.37653844407102954,
+      "operatingMargin": 0.21336118806485307,
+      "netMargin": 0.13878922748535355,
+      "roe": 0.08946397728270734,
+      "roic": 0.07691677990798801
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21593000000.0,
+      "operatingIncome": 3722000000.0,
+      "netIncome": 2326000000.0,
+      "eps": 1.61,
+      "freeCashFlow": 4105000000.0,
+      "totalDebt": 23351000000.0,
+      "cash": 1968000000.0,
+      "sharesOutstanding": 986026416.0,
+      "grossMargin": 0.3493261705182235,
+      "operatingMargin": 0.17237067568193395,
+      "netMargin": 0.10772009447506137,
+      "roe": 0.06455014708331021,
+      "roic": 0.06267575987202155
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:06.188430+00:00"
+  }
+}

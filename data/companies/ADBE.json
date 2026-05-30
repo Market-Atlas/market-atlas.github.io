@@ -1,0 +1,111 @@
+{
+  "ticker": "ADBE",
+  "name": "Adobe Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 104772681728.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 259.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23769000000.0,
+    "operatingIncome": 8706000000.0,
+    "netIncome": 7130000000.0,
+    "eps": 16.7,
+    "freeCashFlow": 9852000000.0,
+    "totalDebt": 6648000000.0,
+    "cash": 5431000000.0,
+    "sharesOutstanding": 601000000.0
+  },
+  "ratios": {
+    "roe": 0.6134388712036479,
+    "roic": 0.4764928028022549,
+    "grossMargin": 0.8926753334174765,
+    "operatingMargin": 0.36627540073204595,
+    "netMargin": 0.2999705498758888,
+    "debtToEquity": 0.5834
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-11-30",
+      "revenue": 17606000000.0,
+      "operatingIncome": 6098000000.0,
+      "netIncome": 4756000000.0,
+      "eps": 10.1,
+      "freeCashFlow": 7396000000.0,
+      "totalDebt": 4633000000.0,
+      "cash": 4236000000.0,
+      "sharesOutstanding": 601000000.0,
+      "grossMargin": 0.8770305577643985,
+      "operatingMargin": 0.34635919572872886,
+      "netMargin": 0.27013518118823127,
+      "roe": 0.3384812468863426,
+      "roic": 0.3263755084564333
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-11-30",
+      "revenue": 19409000000.0,
+      "operatingIncome": 6650000000.0,
+      "netIncome": 5428000000.0,
+      "eps": 11.82,
+      "freeCashFlow": 6942000000.0,
+      "totalDebt": 4080000000.0,
+      "cash": 7141000000.0,
+      "sharesOutstanding": 601000000.0,
+      "grossMargin": 0.878716059559998,
+      "operatingMargin": 0.3426245556185275,
+      "netMargin": 0.2796640733680251,
+      "roe": 0.32861121201113935,
+      "roic": 0.3228468783377027
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-11-30",
+      "revenue": 21505000000.0,
+      "operatingIncome": 7741000000.0,
+      "netIncome": 5560000000.0,
+      "eps": 12.36,
+      "freeCashFlow": 7873000000.0,
+      "totalDebt": 6056000000.0,
+      "cash": 7613000000.0,
+      "sharesOutstanding": 601000000.0,
+      "grossMargin": 0.89035108114392,
+      "operatingMargin": 0.3599627993489886,
+      "netMargin": 0.25854452452917925,
+      "roe": 0.3941864587025877,
+      "roic": 0.3839591290114578
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-11-30",
+      "revenue": 23769000000.0,
+      "operatingIncome": 8706000000.0,
+      "netIncome": 7130000000.0,
+      "eps": 16.7,
+      "freeCashFlow": 9852000000.0,
+      "totalDebt": 6648000000.0,
+      "cash": 5431000000.0,
+      "sharesOutstanding": 601000000.0,
+      "grossMargin": 0.8926753334174765,
+      "operatingMargin": 0.36627540073204595,
+      "netMargin": 0.2999705498758888,
+      "roe": 0.6134388712036479,
+      "roic": 0.4764928028022549
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:22.278405+00:00"
+  }
+}

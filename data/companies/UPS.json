@@ -1,0 +1,111 @@
+{
+  "ticker": "UPS",
+  "name": "United Parcel Service, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "USD",
+  "marketCap": {
+    "value": 90687168512.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 106.69,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 88661000000.0,
+    "operatingIncome": 7867000000.0,
+    "netIncome": 5572000000.0,
+    "eps": 6.56,
+    "freeCashFlow": 4765000000.0,
+    "totalDebt": 28590000000.0,
+    "cash": 5887000000.0,
+    "sharesOutstanding": 849000000.0
+  },
+  "ratios": {
+    "roe": 0.3433783200838109,
+    "roic": 0.17553606890242543,
+    "grossMargin": 0.18080102863716854,
+    "operatingMargin": 0.08873123470296974,
+    "netMargin": 0.06284612174462277,
+    "debtToEquity": 1.81508
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 100338000000.0,
+      "operatingIncome": 13094000000.0,
+      "netIncome": 11548000000.0,
+      "eps": 13.2,
+      "freeCashFlow": 9335000000.0,
+      "totalDebt": 23521000000.0,
+      "cash": 5602000000.0,
+      "sharesOutstanding": 859000000.0,
+      "grossMargin": 0.2094321194363053,
+      "operatingMargin": 0.13049891367178934,
+      "netMargin": 0.1150909924455341,
+      "roe": 0.5836450015162236,
+      "roic": 0.3023529683423003
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 90958000000.0,
+      "operatingIncome": 9141000000.0,
+      "netIncome": 6708000000.0,
+      "eps": 7.8,
+      "freeCashFlow": 5080000000.0,
+      "totalDebt": 26729000000.0,
+      "cash": 3169000000.0,
+      "sharesOutstanding": 853816677.0,
+      "grossMargin": 0.1895160403702808,
+      "operatingMargin": 0.10049693265023417,
+      "netMargin": 0.07374832340200972,
+      "roe": 0.3876112330983474,
+      "roic": 0.207584875667083
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 91070000000.0,
+      "operatingIncome": 8468000000.0,
+      "netIncome": 5782000000.0,
+      "eps": 6.75,
+      "freeCashFlow": 6213000000.0,
+      "totalDebt": 25652000000.0,
+      "cash": 6112000000.0,
+      "sharesOutstanding": 854000000.0,
+      "grossMargin": 0.17959811134292303,
+      "operatingMargin": 0.09298341934775448,
+      "netMargin": 0.06348962336664105,
+      "roe": 0.34585476731666465,
+      "roic": 0.1998583903705452
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 88661000000.0,
+      "operatingIncome": 7867000000.0,
+      "netIncome": 5572000000.0,
+      "eps": 6.56,
+      "freeCashFlow": 4765000000.0,
+      "totalDebt": 28590000000.0,
+      "cash": 5887000000.0,
+      "sharesOutstanding": 849000000.0,
+      "grossMargin": 0.18080102863716854,
+      "operatingMargin": 0.08873123470296974,
+      "netMargin": 0.06284612174462277,
+      "roe": 0.3433783200838109,
+      "roic": 0.17553606890242543
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:32.914365+00:00"
+  }
+}

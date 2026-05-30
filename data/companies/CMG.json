@@ -1,0 +1,128 @@
+{
+  "ticker": "CMG",
+  "name": "Chipotle Mexican Grill, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40867905536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.86,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11925601000.0,
+    "operatingIncome": 2012808000.0,
+    "netIncome": 1535761000.0,
+    "eps": 1.14,
+    "freeCashFlow": 1447590000.0,
+    "totalDebt": 5075814000.0,
+    "cash": 350545000.0,
+    "sharesOutstanding": 1304360000.0
+  },
+  "ratios": {
+    "roe": 0.5425553600340846,
+    "roic": 0.2545789049179142,
+    "grossMargin": 0.253757190098847,
+    "operatingMargin": 0.16878042456728176,
+    "netMargin": 0.12877849929743582,
+    "debtToEquity": 2.1788499999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8634652000.0,
+      "operatingIncome": 1211102000.0,
+      "netIncome": 899101000.0,
+      "eps": 0.6408,
+      "freeCashFlow": 844015000.0,
+      "totalDebt": 3731410000.0,
+      "cash": 384000000.0,
+      "sharesOutstanding": 1866000000.0,
+      "grossMargin": 0.23881900509713652,
+      "operatingMargin": 0.1402606613445452,
+      "netMargin": 0.1041270684678433,
+      "roe": 0.37968423448589816,
+      "roic": 0.19855976776857784
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9871649000.0,
+      "operatingIncome": 1633114000.0,
+      "netIncome": 1228737000.0,
+      "eps": 0.8868,
+      "freeCashFlow": 1222746000.0,
+      "totalDebt": 4051625000.0,
+      "cash": 560609000.0,
+      "sharesOutstanding": 1874150000.0,
+      "grossMargin": 0.2619716320951039,
+      "operatingMargin": 0.16543477184004415,
+      "netMargin": 0.12447130160320732,
+      "roe": 0.4012586347036631,
+      "roic": 0.22956881748121125
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11313853000.0,
+      "operatingIncome": 1985179000.0,
+      "netIncome": 1534110000.0,
+      "eps": 1.11,
+      "freeCashFlow": 1511473000.0,
+      "totalDebt": 4540618000.0,
+      "cash": 748537000.0,
+      "sharesOutstanding": 1358751000.0,
+      "grossMargin": 0.2667254029197657,
+      "operatingMargin": 0.1754644505280385,
+      "netMargin": 0.13559571615434635,
+      "roe": 0.41966644654451074,
+      "roic": 0.242208306227157
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11925601000.0,
+      "operatingIncome": 2012808000.0,
+      "netIncome": 1535761000.0,
+      "eps": 1.14,
+      "freeCashFlow": 1447590000.0,
+      "totalDebt": 5075814000.0,
+      "cash": 350545000.0,
+      "sharesOutstanding": 1304360000.0,
+      "grossMargin": 0.253757190098847,
+      "operatingMargin": 0.16878042456728176,
+      "netMargin": 0.12877849929743582,
+      "roe": 0.5425553600340846,
+      "roic": 0.2545789049179142
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:01.800097+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "MTD",
+  "name": "Mettler-Toledo International Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "USD",
+  "marketCap": {
+    "value": 23856687104.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1180.58,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4026399000.0,
+    "operatingIncome": 1118490000.0,
+    "netIncome": 869193000.0,
+    "eps": 42.05,
+    "freeCashFlow": 848648000.0,
+    "totalDebt": 2152172000.0,
+    "cash": 66888000.0,
+    "sharesOutstanding": 44786011.0
+  },
+  "ratios": {
+    "roe": -36.77411575562701,
+    "roic": 0.5254738468130208,
+    "grossMargin": 0.5937429449987446,
+    "operatingMargin": 0.2777891609847906,
+    "netMargin": 0.2158735386135353,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3919709000.0,
+      "operatingIncome": 1126220000.0,
+      "netIncome": 872502000.0,
+      "eps": 38.41,
+      "freeCashFlow": 737826000.0,
+      "totalDebt": 2014534000.0,
+      "cash": 95966000.0,
+      "sharesOutstanding": 44786011.0,
+      "grossMargin": 0.5888299360998482,
+      "operatingMargin": 0.28732234969483705,
+      "netMargin": 0.22259356498148206,
+      "roe": 35.19146533295688,
+      "roic": 0.5522508160780493
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3788309000.0,
+      "operatingIncome": 1079683000.0,
+      "netIncome": 788778000.0,
+      "eps": 35.9,
+      "freeCashFlow": 860551000.0,
+      "totalDebt": 2080839000.0,
+      "cash": 69807000.0,
+      "sharesOutstanding": 44786011.0,
+      "grossMargin": 0.5916323087688993,
+      "operatingMargin": 0.28500394239223886,
+      "netMargin": 0.208213743915821,
+      "roe": -5.260694420360416,
+      "roic": 0.5591602055206352
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3872361000.0,
+      "operatingIncome": 1127054000.0,
+      "netIncome": 863140000.0,
+      "eps": 40.48,
+      "freeCashFlow": 864448000.0,
+      "totalDebt": 2013888000.0,
+      "cash": 59362000.0,
+      "sharesOutstanding": 44786011.0,
+      "grossMargin": 0.6005594519725821,
+      "operatingMargin": 0.2910508601858143,
+      "netMargin": 0.22289760691216548,
+      "roe": -6.8022696824020805,
+      "roic": 0.5972735530191341
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4026399000.0,
+      "operatingIncome": 1118490000.0,
+      "netIncome": 869193000.0,
+      "eps": 42.05,
+      "freeCashFlow": 848648000.0,
+      "totalDebt": 2152172000.0,
+      "cash": 66888000.0,
+      "sharesOutstanding": 44786011.0,
+      "grossMargin": 0.5937429449987446,
+      "operatingMargin": 0.2777891609847906,
+      "netMargin": 0.2158735386135353,
+      "roe": -36.77411575562701,
+      "roic": 0.5254738468130208
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:58.435763+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ACC",
+  "name": "ACC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 262770720768.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1399.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 257617000000.0,
+    "operatingIncome": 18319000000.0,
+    "netIncome": 21370700000.0,
+    "eps": null,
+    "freeCashFlow": -27911100000.0,
+    "totalDebt": 4286100000.0,
+    "cash": 5373500000.0,
+    "sharesOutstanding": 187787263.0
+  },
+  "ratios": {
+    "roe": 0.10399094135725874,
+    "roic": 0.08732002964848433,
+    "grossMargin": 0.5645271857059123,
+    "operatingMargin": 0.071109437653571,
+    "netMargin": 0.08295531738976854,
+    "debtToEquity": 0.02085
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 98.94,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 174192700000.0,
+      "operatingIncome": 7918400000.0,
+      "netIncome": 6494400000.0,
+      "eps": 34.49,
+      "freeCashFlow": -36094300000.0,
+      "totalDebt": 1318100000.0,
+      "cash": 28345000000.0,
+      "sharesOutstanding": 187787263.0,
+      "grossMargin": 0.7774901014795683,
+      "operatingMargin": 0.04545770287733068,
+      "netMargin": 0.037282848247946095,
+      "roe": 0.04676927331334203,
+      "roic": 0.056487977828268955
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 195735800000.0,
+      "operatingIncome": 21766100000.0,
+      "netIncome": 23349200000.0,
+      "eps": 124.01,
+      "freeCashFlow": 16003100000.0,
+      "totalDebt": 3548500000.0,
+      "cash": 16039500000.0,
+      "sharesOutstanding": 187787263.0,
+      "grossMargin": 0.42904721568563337,
+      "operatingMargin": 0.11120142559511341,
+      "netMargin": 0.11928936862852886,
+      "roe": 0.14299905317297293,
+      "roic": 0.13046819320424838
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 209466800000.0,
+      "operatingIncome": 20600500000.0,
+      "netIncome": 24021200000.0,
+      "eps": 127.57,
+      "freeCashFlow": -2569600000.0,
+      "totalDebt": 4297700000.0,
+      "cash": 10506900000.0,
+      "sharesOutstanding": 187787263.0,
+      "grossMargin": 0.6063409571349732,
+      "operatingMargin": 0.09834732759559033,
+      "netMargin": 0.1146778391611463,
+      "roe": 0.12946056123361882,
+      "roic": 0.10851157858918356
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 257617000000.0,
+      "operatingIncome": 18319000000.0,
+      "netIncome": 21370700000.0,
+      "eps": null,
+      "freeCashFlow": -27911100000.0,
+      "totalDebt": 4286100000.0,
+      "cash": 5373500000.0,
+      "sharesOutstanding": 187787263.0,
+      "grossMargin": 0.5645271857059123,
+      "operatingMargin": 0.071109437653571,
+      "netMargin": 0.08295531738976854,
+      "roe": 0.10399094135725874,
+      "roic": 0.08732002964848433
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:47.235464+00:00"
+  }
+}

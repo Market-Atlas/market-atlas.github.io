@@ -1,0 +1,111 @@
+{
+  "ticker": "CSCO",
+  "name": "Cisco Systems, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 474627538944.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 120.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 56654000000.0,
+    "operatingIncome": 12504000000.0,
+    "netIncome": 10180000000.0,
+    "eps": 2.55,
+    "freeCashFlow": 13288000000.0,
+    "totalDebt": 28093000000.0,
+    "cash": 8346000000.0,
+    "sharesOutstanding": 3959998180.0
+  },
+  "ratios": {
+    "roe": 0.21732169160813783,
+    "roic": 0.16686238923881713,
+    "grossMargin": 0.6493804497475907,
+    "operatingMargin": 0.22070815829420695,
+    "netMargin": 0.17968722420305716,
+    "debtToEquity": 0.67541
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 51557000000.0,
+      "operatingIncome": 13975000000.0,
+      "netIncome": 11812000000.0,
+      "eps": 2.82,
+      "freeCashFlow": 12749000000.0,
+      "totalDebt": 9515000000.0,
+      "cash": 7079000000.0,
+      "sharesOutstanding": 4110000000.0,
+      "grossMargin": 0.6254824757064996,
+      "operatingMargin": 0.27105921601334443,
+      "netMargin": 0.22910565005721822,
+      "roe": 0.29698539210016844,
+      "roic": 0.2835375750689823
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 56998000000.0,
+      "operatingIncome": 15562000000.0,
+      "netIncome": 12613000000.0,
+      "eps": 3.07,
+      "freeCashFlow": 19037000000.0,
+      "totalDebt": 8391000000.0,
+      "cash": 10123000000.0,
+      "sharesOutstanding": 4066000000.0,
+      "grossMargin": 0.6272676234253833,
+      "operatingMargin": 0.2730271237587284,
+      "netMargin": 0.2212884662619741,
+      "roe": 0.28437760692625075,
+      "roic": 0.2950477779463067
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 53803000000.0,
+      "operatingIncome": 12970000000.0,
+      "netIncome": 10320000000.0,
+      "eps": 2.54,
+      "freeCashFlow": 10210000000.0,
+      "totalDebt": 30973000000.0,
+      "cash": 7508000000.0,
+      "sharesOutstanding": 4007000000.0,
+      "grossMargin": 0.6473244986339052,
+      "operatingMargin": 0.24106462464918313,
+      "netMargin": 0.1918108655651172,
+      "roe": 0.22702774050201288,
+      "roic": 0.1696977626586419
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": 56654000000.0,
+      "operatingIncome": 12504000000.0,
+      "netIncome": 10180000000.0,
+      "eps": 2.55,
+      "freeCashFlow": 13288000000.0,
+      "totalDebt": 28093000000.0,
+      "cash": 8346000000.0,
+      "sharesOutstanding": 3959998180.0,
+      "grossMargin": 0.6493804497475907,
+      "operatingMargin": 0.22070815829420695,
+      "netMargin": 0.17968722420305716,
+      "roe": 0.21732169160813783,
+      "roic": 0.16686238923881713
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:06.514122+00:00"
+  }
+}

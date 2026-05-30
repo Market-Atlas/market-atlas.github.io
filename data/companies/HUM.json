@@ -1,0 +1,111 @@
+{
+  "ticker": "HUM",
+  "name": "Humana Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "currency": "USD",
+  "marketCap": {
+    "value": 36669186048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 305.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 129664000000.0,
+    "operatingIncome": null,
+    "netIncome": 1188000000.0,
+    "eps": 9.84,
+    "freeCashFlow": 375000000.0,
+    "totalDebt": 12369000000.0,
+    "cash": 4200000000.0,
+    "sharesOutstanding": 198719321.0
+  },
+  "ratios": {
+    "roe": 0.06728209775159993,
+    "roic": null,
+    "grossMargin": 0.14006,
+    "operatingMargin": 0.04671,
+    "netMargin": 0.009162142152023692,
+    "debtToEquity": 0.7707299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 92870000000.0,
+      "operatingIncome": null,
+      "netIncome": 2806000000.0,
+      "eps": 22.08,
+      "freeCashFlow": 3450000000.0,
+      "totalDebt": 11126000000.0,
+      "cash": 5061000000.0,
+      "sharesOutstanding": 198666598.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.030214278023042964,
+      "roe": 0.18326693227091634,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 106374000000.0,
+      "operatingIncome": null,
+      "netIncome": 2489000000.0,
+      "eps": 20.0,
+      "freeCashFlow": 2977000000.0,
+      "totalDebt": 11656000000.0,
+      "cash": 4694000000.0,
+      "sharesOutstanding": 198690082.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.023398574839716472,
+      "roe": 0.15305620464887468,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 117761000000.0,
+      "operatingIncome": null,
+      "netIncome": 1207000000.0,
+      "eps": 9.98,
+      "freeCashFlow": 2391000000.0,
+      "totalDebt": 11721000000.0,
+      "cash": 2221000000.0,
+      "sharesOutstanding": 198718810.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.01024957328827031,
+      "roe": 0.07370992366412214,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 129664000000.0,
+      "operatingIncome": null,
+      "netIncome": 1188000000.0,
+      "eps": 9.84,
+      "freeCashFlow": 375000000.0,
+      "totalDebt": 12369000000.0,
+      "cash": 4200000000.0,
+      "sharesOutstanding": 198719321.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.009162142152023692,
+      "roe": 0.06728209775159993,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:38.254626+00:00"
+  }
+}

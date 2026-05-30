@@ -1,0 +1,111 @@
+{
+  "ticker": "MMTC",
+  "name": "MMTC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 97319993344.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 64.88,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26900000.0,
+    "operatingIncome": -1427500000.0,
+    "netIncome": 866300000.0,
+    "eps": 0.58,
+    "freeCashFlow": -3629500000.0,
+    "totalDebt": 24400000.0,
+    "cash": 297700000.0,
+    "sharesOutstanding": 1500000000.0
+  },
+  "ratios": {
+    "roe": 0.05089356002302929,
+    "roic": -0.08374300430594502,
+    "grossMargin": 1.0,
+    "operatingMargin": -53.066914498141266,
+    "netMargin": 32.204460966542754,
+    "debtToEquity": 0.01796
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 112423000000.0,
+      "operatingIncome": 4550300000.0,
+      "netIncome": -2582200000.0,
+      "eps": -1.72,
+      "freeCashFlow": -17200000.0,
+      "totalDebt": 26259200000.0,
+      "cash": 1524400000.0,
+      "sharesOutstanding": 1500000000.0,
+      "grossMargin": 0.0515001378721436,
+      "operatingMargin": 0.04047481387260614,
+      "netMargin": -0.022968609626144117,
+      "roe": 1.7436693902356675,
+      "roic": 0.18364052416832471
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 35274000000.0,
+      "operatingIncome": -1117100000.0,
+      "netIncome": 15622700000.0,
+      "eps": 10.42,
+      "freeCashFlow": 7535600000.0,
+      "totalDebt": 2025400000.0,
+      "cash": 3187100000.0,
+      "sharesOutstanding": 1500000000.0,
+      "grossMargin": 0.035184555196461985,
+      "operatingMargin": -0.031669218120995636,
+      "netMargin": 0.44289561716845266,
+      "roe": 1.1066116053720179,
+      "roic": -0.06920027256395961
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 51300000.0,
+      "operatingIncome": -1645000000.0,
+      "netIncome": 1921800000.0,
+      "eps": 1.28,
+      "freeCashFlow": -3533000000.0,
+      "totalDebt": 46600000.0,
+      "cash": 1207200000.0,
+      "sharesOutstanding": 1500000000.0,
+      "grossMargin": 0.8440545808966862,
+      "operatingMargin": -32.06627680311891,
+      "netMargin": 37.461988304093566,
+      "roe": 0.12135563680451626,
+      "roic": -0.10357181083820761
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 26900000.0,
+      "operatingIncome": -1427500000.0,
+      "netIncome": 866300000.0,
+      "eps": 0.58,
+      "freeCashFlow": -3629500000.0,
+      "totalDebt": 24400000.0,
+      "cash": 297700000.0,
+      "sharesOutstanding": 1500000000.0,
+      "grossMargin": 1.0,
+      "operatingMargin": -53.066914498141266,
+      "netMargin": 32.204460966542754,
+      "roe": 0.05089356002302929,
+      "roic": -0.08374300430594502
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:26.631888+00:00"
+  }
+}

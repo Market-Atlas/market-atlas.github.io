@@ -1,0 +1,128 @@
+{
+  "ticker": "CB",
+  "name": "Chubb Limited",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 120907628544.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 311.73,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 59783000000.0,
+    "operatingIncome": null,
+    "netIncome": 10310000000.0,
+    "eps": 25.678705,
+    "freeCashFlow": null,
+    "totalDebt": 17227000000.0,
+    "cash": 2272000000.0,
+    "sharesOutstanding": 412107421.0
+  },
+  "ratios": {
+    "roe": 0.1397833425979907,
+    "roic": null,
+    "grossMargin": 0.30998,
+    "operatingMargin": 0.20641,
+    "netMargin": 0.1724570530083803,
+    "debtToEquity": 0.31457999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 43055000000.0,
+      "operatingIncome": null,
+      "netIncome": 5246000000.0,
+      "eps": 12.55,
+      "freeCashFlow": null,
+      "totalDebt": 14877000000.0,
+      "cash": 2012000000.0,
+      "sharesOutstanding": 446376614.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12184415282777843,
+      "roe": 0.10384211880678557,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 49826000000.0,
+      "operatingIncome": null,
+      "netIncome": 9028000000.0,
+      "eps": 21.8,
+      "freeCashFlow": null,
+      "totalDebt": 14495000000.0,
+      "cash": 2449000000.0,
+      "sharesOutstanding": 431451586.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18119054308995303,
+      "roe": 0.15171324382005477,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 56010000000.0,
+      "operatingIncome": null,
+      "netIncome": 9272000000.0,
+      "eps": 22.51,
+      "freeCashFlow": null,
+      "totalDebt": 15179000000.0,
+      "cash": 2288000000.0,
+      "sharesOutstanding": 419625986.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1655418675236565,
+      "roe": 0.14482747848362257,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 59783000000.0,
+      "operatingIncome": null,
+      "netIncome": 10310000000.0,
+      "eps": 25.678705,
+      "freeCashFlow": null,
+      "totalDebt": 17227000000.0,
+      "cash": 2272000000.0,
+      "sharesOutstanding": 412107421.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1724570530083803,
+      "roe": 0.1397833425979907,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:55.723210+00:00"
+  }
+}

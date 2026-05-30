@@ -1,0 +1,128 @@
+{
+  "ticker": "AMCR",
+  "name": "Amcor plc",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 17948260352.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 38.82,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15009000000.0,
+    "operatingIncome": 1316000000.0,
+    "netIncome": 511000000.0,
+    "eps": 1.6,
+    "freeCashFlow": 810000000.0,
+    "totalDebt": 15008000000.0,
+    "cash": 827000000.0,
+    "sharesOutstanding": 461071988.0
+  },
+  "ratios": {
+    "roe": 0.04357094133697135,
+    "roic": 0.04922202274087373,
+    "grossMargin": 0.1888200413085482,
+    "operatingMargin": 0.08768072489839429,
+    "netMargin": 0.034046238923312676,
+    "debtToEquity": 1.4374
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 14544000000.0,
+      "operatingIncome": 1473000000.0,
+      "netIncome": 805000000.0,
+      "eps": 2.645,
+      "freeCashFlow": 999000000.0,
+      "totalDebt": 6983000000.0,
+      "cash": 775000000.0,
+      "sharesOutstanding": 297800000.0,
+      "grossMargin": 0.19389438943894388,
+      "operatingMargin": 0.10127887788778878,
+      "netMargin": 0.05534928492849285,
+      "roe": 0.19720725134737874,
+      "roic": 0.13312245820153637
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 14694000000.0,
+      "operatingIncome": 1404000000.0,
+      "netIncome": 1048000000.0,
+      "eps": 3.525,
+      "freeCashFlow": 735000000.0,
+      "totalDebt": 7209000000.0,
+      "cash": 689000000.0,
+      "sharesOutstanding": 289600000.0,
+      "grossMargin": 0.1854498434735266,
+      "operatingMargin": 0.09554920375663536,
+      "netMargin": 0.07132162787532326,
+      "roe": 0.26030799801291604,
+      "roic": 0.12496662216288384
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 13640000000.0,
+      "operatingIncome": 1311000000.0,
+      "netIncome": 730000000.0,
+      "eps": 2.525,
+      "freeCashFlow": 829000000.0,
+      "totalDebt": 7187000000.0,
+      "cash": 588000000.0,
+      "sharesOutstanding": 289268642.0,
+      "grossMargin": 0.19882697947214076,
+      "operatingMargin": 0.09611436950146628,
+      "netMargin": 0.053519061583577714,
+      "roe": 0.18809585158464312,
+      "roic": 0.1184495843874232
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 15009000000.0,
+      "operatingIncome": 1316000000.0,
+      "netIncome": 511000000.0,
+      "eps": 1.6,
+      "freeCashFlow": 810000000.0,
+      "totalDebt": 15008000000.0,
+      "cash": 827000000.0,
+      "sharesOutstanding": 461071988.0,
+      "grossMargin": 0.1888200413085482,
+      "operatingMargin": 0.08768072489839429,
+      "netMargin": 0.034046238923312676,
+      "roe": 0.04357094133697135,
+      "roic": 0.04922202274087373
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:42.270964+00:00"
+  }
+}

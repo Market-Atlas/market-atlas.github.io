@@ -1,0 +1,111 @@
+{
+  "ticker": "APARINDS",
+  "name": "APAR Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "INR",
+  "marketCap": {
+    "value": 527005614080.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13118.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 184924700000.0,
+    "operatingIncome": 14626100000.0,
+    "netIncome": 8213000000.0,
+    "eps": 204.47,
+    "freeCashFlow": 7808700000.0,
+    "totalDebt": 5847000000.0,
+    "cash": 6864200000.0,
+    "sharesOutstanding": 40168315.0
+  },
+  "ratios": {
+    "roe": 0.18236764856090987,
+    "roic": 0.28744909831297266,
+    "grossMargin": 0.1973684423984465,
+    "operatingMargin": 0.07909219266003946,
+    "netMargin": 0.044412671752340274,
+    "debtToEquity": 0.14499
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 92872200000.0,
+      "operatingIncome": 5369800000.0,
+      "netIncome": 2567300000.0,
+      "eps": 67.09,
+      "freeCashFlow": 1132800000.0,
+      "totalDebt": 3592000000.0,
+      "cash": 2531600000.0,
+      "sharesOutstanding": 38268619.0,
+      "grossMargin": 0.21516772511042057,
+      "operatingMargin": 0.05781923977250458,
+      "netMargin": 0.027643363676105443,
+      "roe": 0.14967671974020977,
+      "roic": 0.2588566497784934
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 142578400000.0,
+      "operatingIncome": 12105700000.0,
+      "netIncome": 6377200000.0,
+      "eps": 166.64,
+      "freeCashFlow": 4505100000.0,
+      "totalDebt": 3762300000.0,
+      "cash": 4988100000.0,
+      "sharesOutstanding": 38268619.0,
+      "grossMargin": 0.21815015458161965,
+      "operatingMargin": 0.08490556774378166,
+      "netMargin": 0.04472767263484511,
+      "roe": 0.2851559879985155,
+      "roic": 0.4633547932726535
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 160451500000.0,
+      "operatingIncome": 14730500000.0,
+      "netIncome": 8251100000.0,
+      "eps": 212.1,
+      "freeCashFlow": -6139600000.0,
+      "totalDebt": 4756100000.0,
+      "cash": 5840000000.0,
+      "sharesOutstanding": 40168315.0,
+      "grossMargin": 0.21264057986369714,
+      "operatingMargin": 0.091806558368105,
+      "netMargin": 0.05142426216021664,
+      "roe": 0.21285306325665626,
+      "roic": 0.33847345153077635
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 184924700000.0,
+      "operatingIncome": 14626100000.0,
+      "netIncome": 8213000000.0,
+      "eps": 204.47,
+      "freeCashFlow": 7808700000.0,
+      "totalDebt": 5847000000.0,
+      "cash": 6864200000.0,
+      "sharesOutstanding": 40168315.0,
+      "grossMargin": 0.1973684423984465,
+      "operatingMargin": 0.07909219266003946,
+      "netMargin": 0.044412671752340274,
+      "roe": 0.18236764856090987,
+      "roic": 0.28744909831297266
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:53.335919+00:00"
+  }
+}

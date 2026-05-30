@@ -1,0 +1,128 @@
+{
+  "ticker": "T",
+  "name": "AT&T Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 172318801920.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.8,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 125648000000.0,
+    "operatingIncome": 25000000000.0,
+    "netIncome": 21953000000.0,
+    "eps": 3.04,
+    "freeCashFlow": 19442000000.0,
+    "totalDebt": 155043000000.0,
+    "cash": 18234000000.0,
+    "sharesOutstanding": 7620748598.0
+  },
+  "ratios": {
+    "roe": 0.19861036975382917,
+    "roic": 0.09413501219989757,
+    "grossMargin": 0.5955367375525277,
+    "operatingMargin": 0.198968547052082,
+    "netMargin": 0.17471826053737424,
+    "debtToEquity": 1.25175
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 120741000000.0,
+      "operatingIncome": 22911000000.0,
+      "netIncome": -8524000000.0,
+      "eps": -1.13,
+      "freeCashFlow": 12397000000.0,
+      "totalDebt": 154679000000.0,
+      "cash": 3701000000.0,
+      "sharesOutstanding": 7621156816.0,
+      "grossMargin": 0.5788671619416769,
+      "operatingMargin": 0.18975327353591573,
+      "netMargin": -0.07059739442277271,
+      "roe": -0.08742564102564103,
+      "roic": 0.09085213281042434
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 122428000000.0,
+      "operatingIncome": 24654000000.0,
+      "netIncome": 14400000000.0,
+      "eps": 1.97,
+      "freeCashFlow": 20461000000.0,
+      "totalDebt": 154899000000.0,
+      "cash": 6722000000.0,
+      "sharesOutstanding": 7620748598.0,
+      "grossMargin": 0.5905920214330055,
+      "operatingMargin": 0.2013755023360669,
+      "netMargin": 0.11762015225275264,
+      "roe": 0.139403854903821,
+      "roic": 0.0954856000867558
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 122336000000.0,
+      "operatingIncome": 24124000000.0,
+      "netIncome": 10948000000.0,
+      "eps": 1.49,
+      "freeCashFlow": 18508000000.0,
+      "totalDebt": 140923000000.0,
+      "cash": 3298000000.0,
+      "sharesOutstanding": 7620748598.0,
+      "grossMargin": 0.5976572717760921,
+      "operatingMargin": 0.19719461156160084,
+      "netMargin": 0.08949123724823436,
+      "roe": 0.10489403288238225,
+      "roic": 0.09834688844044925
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 125648000000.0,
+      "operatingIncome": 25000000000.0,
+      "netIncome": 21953000000.0,
+      "eps": 3.04,
+      "freeCashFlow": 19442000000.0,
+      "totalDebt": 155043000000.0,
+      "cash": 18234000000.0,
+      "sharesOutstanding": 7620748598.0,
+      "grossMargin": 0.5955367375525277,
+      "operatingMargin": 0.198968547052082,
+      "netMargin": 0.17471826053737424,
+      "roe": 0.19861036975382917,
+      "roic": 0.09413501219989757
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:24.356973+00:00"
+  }
+}

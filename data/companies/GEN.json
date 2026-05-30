@@ -1,0 +1,128 @@
+{
+  "ticker": "GEN",
+  "name": "Gen Digital Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15536770048.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 25.79,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5000000000.0,
+    "operatingIncome": 2155000000.0,
+    "netIncome": 973000000.0,
+    "eps": null,
+    "freeCashFlow": 1523000000.0,
+    "totalDebt": 8260000000.0,
+    "cash": 402000000.0,
+    "sharesOutstanding": 598000000.0
+  },
+  "ratios": {
+    "roe": 0.3726541554959786,
+    "roic": 0.19823383313402632,
+    "grossMargin": 0.7846,
+    "operatingMargin": 0.431,
+    "netMargin": 0.1946,
+    "debtToEquity": 3.16354
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.41,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3317000000.0,
+      "operatingIncome": 1275000000.0,
+      "netIncome": 1334000000.0,
+      "eps": 2.16,
+      "freeCashFlow": 751000000.0,
+      "totalDebt": 9819000000.0,
+      "cash": 750000000.0,
+      "sharesOutstanding": 640000000.0,
+      "grossMargin": 0.822429906542056,
+      "operatingMargin": 0.38438347904733194,
+      "netMargin": 0.4021706361169732,
+      "roe": 0.6063636363636363,
+      "roic": 0.10608203677510608
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 3800000000.0,
+      "operatingIncome": 1167000000.0,
+      "netIncome": 607000000.0,
+      "eps": 0.96,
+      "freeCashFlow": 2044000000.0,
+      "totalDebt": 8655000000.0,
+      "cash": 846000000.0,
+      "sharesOutstanding": 623000000.0,
+      "grossMargin": 0.8076315789473684,
+      "operatingMargin": 0.3071052631578947,
+      "netMargin": 0.15973684210526315,
+      "roe": 0.2836448598130841,
+      "roic": 0.10810560444650301
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3935000000.0,
+      "operatingIncome": 1620000000.0,
+      "netIncome": 643000000.0,
+      "eps": 1.03,
+      "freeCashFlow": 1206000000.0,
+      "totalDebt": 8315000000.0,
+      "cash": 1006000000.0,
+      "sharesOutstanding": 617000000.0,
+      "grossMargin": 0.8027954256670902,
+      "operatingMargin": 0.41168996188055906,
+      "netMargin": 0.16340533672172808,
+      "roe": 0.28338475099162624,
+      "roic": 0.15306122448979592
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 5000000000.0,
+      "operatingIncome": 2155000000.0,
+      "netIncome": 973000000.0,
+      "eps": null,
+      "freeCashFlow": 1523000000.0,
+      "totalDebt": 8260000000.0,
+      "cash": 402000000.0,
+      "sharesOutstanding": 598000000.0,
+      "grossMargin": 0.7846,
+      "operatingMargin": 0.431,
+      "netMargin": 0.1946,
+      "roe": 0.3726541554959786,
+      "roic": 0.19823383313402632
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:29.293002+00:00"
+  }
+}

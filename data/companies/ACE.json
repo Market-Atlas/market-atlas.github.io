@@ -1,0 +1,128 @@
+{
+  "ticker": "ACE",
+  "name": "Action Construction Equipment Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 105326821376.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 884.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32804400000.0,
+    "operatingIncome": 4796300000.0,
+    "netIncome": 4150900000.0,
+    "eps": 34.87,
+    "freeCashFlow": 3240100000.0,
+    "totalDebt": 79000000.0,
+    "cash": 643100000.0,
+    "sharesOutstanding": 119083196.0
+  },
+  "ratios": {
+    "roe": 0.20641077280344508,
+    "roic": 0.2375711405772479,
+    "grossMargin": 0.3249411664288937,
+    "operatingMargin": 0.14620904512809257,
+    "netMargin": 0.12653485508041604,
+    "debtToEquity": 0.00393
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 21574097000.0,
+      "operatingIncome": 2283259000.0,
+      "netIncome": 1715994000.0,
+      "eps": 14.41,
+      "freeCashFlow": 2003938000.0,
+      "totalDebt": 74482000.0,
+      "cash": 214815000.0,
+      "sharesOutstanding": 119083196.0,
+      "grossMargin": 0.24900745556117598,
+      "operatingMargin": 0.10583335191271273,
+      "netMargin": 0.07953955152792722,
+      "roe": 0.18681371439545139,
+      "roic": 0.2465703556700591
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 29096801000.0,
+      "operatingIncome": 4020464000.0,
+      "netIncome": 3281611000.0,
+      "eps": 27.56,
+      "freeCashFlow": 2583706000.0,
+      "totalDebt": 44625000.0,
+      "cash": 482065000.0,
+      "sharesOutstanding": 119083196.0,
+      "grossMargin": 0.26337946910383725,
+      "operatingMargin": 0.1381754647186129,
+      "netMargin": 0.11278253578460395,
+      "roe": 0.26683213521097443,
+      "roic": 0.3257273433964985
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 33270500000.0,
+      "operatingIncome": 4874700000.0,
+      "netIncome": 4092200000.0,
+      "eps": 34.37,
+      "freeCashFlow": 1909800000.0,
+      "totalDebt": 164367000.0,
+      "cash": 488419000.0,
+      "sharesOutstanding": 119083196.0,
+      "grossMargin": 0.31668294735576563,
+      "operatingMargin": 0.1465171848935243,
+      "netMargin": 0.12299785094903894,
+      "roe": 0.25343007217016145,
+      "roic": 0.2988482690439982
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 32804400000.0,
+      "operatingIncome": 4796300000.0,
+      "netIncome": 4150900000.0,
+      "eps": 34.87,
+      "freeCashFlow": 3240100000.0,
+      "totalDebt": 79000000.0,
+      "cash": 643100000.0,
+      "sharesOutstanding": 119083196.0,
+      "grossMargin": 0.3249411664288937,
+      "operatingMargin": 0.14620904512809257,
+      "netMargin": 0.12653485508041604,
+      "roe": 0.20641077280344508,
+      "roic": 0.2375711405772479
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:47.857961+00:00"
+  }
+}

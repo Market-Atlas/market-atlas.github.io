@@ -1,0 +1,128 @@
+{
+  "ticker": "NUE",
+  "name": "Nucor Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "USD",
+  "marketCap": {
+    "value": 56935235584.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 250.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32494000000.0,
+    "operatingIncome": 2659000000.0,
+    "netIncome": 1744000000.0,
+    "eps": 7.52,
+    "freeCashFlow": -188000000.0,
+    "totalDebt": 7121000000.0,
+    "cash": 2260000000.0,
+    "sharesOutstanding": 380235447.0
+  },
+  "ratios": {
+    "roe": 0.08330149025601834,
+    "roic": 0.09477135830630502,
+    "grossMargin": 0.11934510986643689,
+    "operatingMargin": 0.08183049178309842,
+    "netMargin": 0.05367144703637595,
+    "debtToEquity": 0.31595
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 41512000000.0,
+      "operatingIncome": 10506000000.0,
+      "netIncome": 7607000000.0,
+      "eps": 28.79,
+      "freeCashFlow": 8124000000.0,
+      "totalDebt": 6691350000.0,
+      "cash": 4280852000.0,
+      "sharesOutstanding": 380154000.0,
+      "grossMargin": 0.30119001734438233,
+      "operatingMargin": 0.2530834457506263,
+      "netMargin": 0.18324821738292543,
+      "roe": 0.41309402154605446,
+      "roic": 0.41846497202028327
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34714000000.0,
+      "operatingIncome": 6230000000.0,
+      "netIncome": 4525000000.0,
+      "eps": 18.0,
+      "freeCashFlow": 4898000000.0,
+      "totalDebt": 6842000000.0,
+      "cash": 6383000000.0,
+      "sharesOutstanding": 380154000.0,
+      "grossMargin": 0.22512530967333064,
+      "operatingMargin": 0.17946649766664746,
+      "netMargin": 0.1303508670853258,
+      "roe": 0.21609360076408787,
+      "roic": 0.22424591462097762
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 30734000000.0,
+      "operatingIncome": 2979000000.0,
+      "netIncome": 2027000000.0,
+      "eps": 8.46,
+      "freeCashFlow": 806000000.0,
+      "totalDebt": 6950000000.0,
+      "cash": 3558000000.0,
+      "sharesOutstanding": 380200000.0,
+      "grossMargin": 0.13346782065464957,
+      "operatingMargin": 0.09692848311316457,
+      "netMargin": 0.06595301620355307,
+      "roe": 0.09988173844486055,
+      "roic": 0.10934517691968874
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32494000000.0,
+      "operatingIncome": 2659000000.0,
+      "netIncome": 1744000000.0,
+      "eps": 7.52,
+      "freeCashFlow": -188000000.0,
+      "totalDebt": 7121000000.0,
+      "cash": 2260000000.0,
+      "sharesOutstanding": 380235447.0,
+      "grossMargin": 0.11934510986643689,
+      "operatingMargin": 0.08183049178309842,
+      "netMargin": 0.05367144703637595,
+      "roe": 0.08330149025601834,
+      "roic": 0.09477135830630502
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:03.017649+00:00"
+  }
+}

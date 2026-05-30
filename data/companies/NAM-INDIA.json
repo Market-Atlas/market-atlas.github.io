@@ -1,0 +1,128 @@
+{
+  "ticker": "NAM-INDIA",
+  "name": "Nippon Life India Asset Management Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "INR",
+  "marketCap": {
+    "value": 702458888192.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1100.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27087400000.0,
+    "operatingIncome": 17546300000.0,
+    "netIncome": 15293800000.0,
+    "eps": 23.63,
+    "freeCashFlow": 13870600000.0,
+    "totalDebt": 753400000.0,
+    "cash": 165800000.0,
+    "sharesOutstanding": 638115996.0
+  },
+  "ratios": {
+    "roe": 0.32825371205844855,
+    "roic": 0.3706066980956726,
+    "grossMargin": 0.7845345068186684,
+    "operatingMargin": 0.6477661200410523,
+    "netMargin": 0.5646093755768364,
+    "debtToEquity": 0.01617
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13498200000.0,
+      "operatingIncome": 7655800000.0,
+      "netIncome": 7233300000.0,
+      "eps": 11.53,
+      "freeCashFlow": 5737400000.0,
+      "totalDebt": 560000000.0,
+      "cash": 212600000.0,
+      "sharesOutstanding": 623175443.0,
+      "grossMargin": 0.769880428501578,
+      "operatingMargin": 0.5671719192188588,
+      "netMargin": 0.5358714495266036,
+      "roe": 0.20574690738217616,
+      "roic": 0.21435031064247975
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16432200000.0,
+      "operatingIncome": 9643200000.0,
+      "netIncome": 11073200000.0,
+      "eps": 17.53,
+      "freeCashFlow": 7656100000.0,
+      "totalDebt": 785900000.0,
+      "cash": 242300000.0,
+      "sharesOutstanding": 629998730.0,
+      "grossMargin": 0.7764632855004199,
+      "operatingMargin": 0.5868477744915471,
+      "netMargin": 0.6738720317425543,
+      "roe": 0.27806879648835564,
+      "roic": 0.23747220354760304
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 22306900000.0,
+      "operatingIncome": 14110300000.0,
+      "netIncome": 12863900000.0,
+      "eps": 20.03,
+      "freeCashFlow": 6585300000.0,
+      "totalDebt": 880300000.0,
+      "cash": 265500000.0,
+      "sharesOutstanding": 634702632.0,
+      "grossMargin": 0.7755044403301221,
+      "operatingMargin": 0.6325531561983063,
+      "netMargin": 0.5766780682210437,
+      "roe": 0.30534403691501383,
+      "roic": 0.3280740301561283
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 27087400000.0,
+      "operatingIncome": 17546300000.0,
+      "netIncome": 15293800000.0,
+      "eps": 23.63,
+      "freeCashFlow": 13870600000.0,
+      "totalDebt": 753400000.0,
+      "cash": 165800000.0,
+      "sharesOutstanding": 638115996.0,
+      "grossMargin": 0.7845345068186684,
+      "operatingMargin": 0.6477661200410523,
+      "netMargin": 0.5646093755768364,
+      "roe": 0.32825371205844855,
+      "roic": 0.3706066980956726
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:28.889101+00:00"
+  }
+}

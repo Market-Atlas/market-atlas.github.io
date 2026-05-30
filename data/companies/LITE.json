@@ -1,0 +1,128 @@
+{
+  "ticker": "LITE",
+  "name": "Lumentum Holdings Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 66515890176.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 854.96,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1645000000.0,
+    "operatingIncome": -192200000.0,
+    "netIncome": 25900000.0,
+    "eps": 0.37,
+    "freeCashFlow": -104700000.0,
+    "totalDebt": 2608200000.0,
+    "cash": 520700000.0,
+    "sharesOutstanding": 69800000.0
+  },
+  "ratios": {
+    "roe": 0.02282541640962369,
+    "roic": -0.051350557054690216,
+    "grossMargin": 0.2795744680851064,
+    "operatingMargin": -0.11683890577507598,
+    "netMargin": 0.01574468085106383,
+    "debtToEquity": 1.11445
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 1712600000.0,
+      "operatingIncome": 302200000.0,
+      "netIncome": 198900000.0,
+      "eps": 2.68,
+      "freeCashFlow": 368100000.0,
+      "totalDebt": 1936000000.0,
+      "cash": 1290200000.0,
+      "sharesOutstanding": 68000000.0,
+      "grossMargin": 0.46046946163727664,
+      "operatingMargin": 0.17645684923508118,
+      "netMargin": 0.11613920355015765,
+      "roe": 0.10608,
+      "roic": 0.07929677250065599
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 1767000000.0,
+      "operatingIncome": -87600000.0,
+      "netIncome": -131600000.0,
+      "eps": -1.93,
+      "freeCashFlow": 51300000.0,
+      "totalDebt": 2873700000.0,
+      "cash": 859000000.0,
+      "sharesOutstanding": 66400000.0,
+      "grossMargin": 0.322014714204867,
+      "operatingMargin": -0.04957555178268251,
+      "netMargin": -0.07447651386530843,
+      "roe": -0.09706446378521906,
+      "roic": -0.020711668045868305
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 1359200000.0,
+      "operatingIncome": -361400000.0,
+      "netIncome": -546500000.0,
+      "eps": -8.12,
+      "freeCashFlow": -112300000.0,
+      "totalDebt": 2559600000.0,
+      "cash": 436700000.0,
+      "sharesOutstanding": 67900000.0,
+      "grossMargin": 0.1850353148911124,
+      "operatingMargin": -0.26589170100058857,
+      "netMargin": -0.40207474985285463,
+      "roe": -0.5708764232737908,
+      "roic": -0.10276095424948108
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 1645000000.0,
+      "operatingIncome": -192200000.0,
+      "netIncome": 25900000.0,
+      "eps": 0.37,
+      "freeCashFlow": -104700000.0,
+      "totalDebt": 2608200000.0,
+      "cash": 520700000.0,
+      "sharesOutstanding": 69800000.0,
+      "grossMargin": 0.2795744680851064,
+      "operatingMargin": -0.11683890577507598,
+      "netMargin": 0.01574468085106383,
+      "roe": 0.02282541640962369,
+      "roic": -0.051350557054690216
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:49.545664+00:00"
+  }
+}

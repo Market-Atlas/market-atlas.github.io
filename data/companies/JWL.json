@@ -1,0 +1,111 @@
+{
+  "ticker": "JWL",
+  "name": "Jupiter Wagons Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "INR",
+  "marketCap": {
+    "value": 124257943552.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 290.75,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 39336925000.0,
+    "operatingIncome": 5246148000.0,
+    "netIncome": 3822590000.0,
+    "eps": 9.08,
+    "freeCashFlow": -4039513000.0,
+    "totalDebt": 5016238000.0,
+    "cash": 4407351000.0,
+    "sharesOutstanding": 424498049.0
+  },
+  "ratios": {
+    "roe": 0.138786039771058,
+    "roic": 0.1611260346588724,
+    "grossMargin": 0.21038154354973096,
+    "operatingMargin": 0.1333644660837114,
+    "netMargin": 0.09717561807385809,
+    "debtToEquity": 0.26721
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 11652945000.0,
+      "operatingIncome": 924439000.0,
+      "netIncome": 496758000.0,
+      "eps": 1.28,
+      "freeCashFlow": 228355000.0,
+      "totalDebt": 1392509000.0,
+      "cash": 406186000.0,
+      "sharesOutstanding": 89482657.0,
+      "grossMargin": 0.0971599883119675,
+      "operatingMargin": 0.07933093308172312,
+      "netMargin": 0.04262939540176325,
+      "roe": 0.07276447832334593,
+      "roic": 0.11246984131155423
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 20506957000.0,
+      "operatingIncome": 2271950000.0,
+      "netIncome": 1207873000.0,
+      "eps": 3.12,
+      "freeCashFlow": 49626000.0,
+      "totalDebt": 2880807000.0,
+      "cash": 1171331000.0,
+      "sharesOutstanding": 387447419.0,
+      "grossMargin": 0.13690431983643406,
+      "operatingMargin": 0.11078923118627498,
+      "netMargin": 0.05890064527857546,
+      "roe": 0.15034822717317106,
+      "roic": 0.20815614399847984
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 36237757000.0,
+      "operatingIncome": 4610896000.0,
+      "netIncome": 3315582000.0,
+      "eps": 8.24,
+      "freeCashFlow": -1439210000.0,
+      "totalDebt": 3490009000.0,
+      "cash": 1225023000.0,
+      "sharesOutstanding": 412293625.0,
+      "grossMargin": 0.146900731190399,
+      "operatingMargin": 0.12724010484423745,
+      "netMargin": 0.09149523244498825,
+      "roe": 0.20515238723595752,
+      "roic": 0.2346324969725059
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 39336925000.0,
+      "operatingIncome": 5246148000.0,
+      "netIncome": 3822590000.0,
+      "eps": 9.08,
+      "freeCashFlow": -4039513000.0,
+      "totalDebt": 5016238000.0,
+      "cash": 4407351000.0,
+      "sharesOutstanding": 424498049.0,
+      "grossMargin": 0.21038154354973096,
+      "operatingMargin": 0.1333644660837114,
+      "netMargin": 0.09717561807385809,
+      "roe": 0.138786039771058,
+      "roic": 0.1611260346588724
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:12.396078+00:00"
+  }
+}

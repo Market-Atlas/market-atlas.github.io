@@ -1,0 +1,111 @@
+{
+  "ticker": "VMC",
+  "name": "Vulcan Materials Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "USD",
+  "marketCap": {
+    "value": 36710256640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 282.92,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7941100000.0,
+    "operatingIncome": 1567200000.0,
+    "netIncome": 1076700000.0,
+    "eps": 8.11,
+    "freeCashFlow": 1135300000.0,
+    "totalDebt": 4884700000.0,
+    "cash": 183300000.0,
+    "sharesOutstanding": 130600000.0
+  },
+  "ratios": {
+    "roe": 0.1262976387373755,
+    "roic": 0.11686975197243807,
+    "grossMargin": 0.2738411555074234,
+    "operatingMargin": 0.1973530115475186,
+    "netMargin": 0.13558575008500082,
+    "debtToEquity": 0.61249
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7315200000.0,
+      "operatingIncome": 1008600000.0,
+      "netIncome": 575600000.0,
+      "eps": 4.31,
+      "freeCashFlow": 535600000.0,
+      "totalDebt": 4524100000.0,
+      "cash": 161400000.0,
+      "sharesOutstanding": 132900000.0,
+      "grossMargin": 0.21294017935258092,
+      "operatingMargin": 0.1378772965879265,
+      "netMargin": 0.07868547681539807,
+      "roe": 0.08307594607857287,
+      "roic": 0.08806656945523762
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7781900000.0,
+      "operatingIncome": 1379300000.0,
+      "netIncome": 933200000.0,
+      "eps": 6.98,
+      "freeCashFlow": 664200000.0,
+      "totalDebt": 4385200000.0,
+      "cash": 931100000.0,
+      "sharesOutstanding": 132100000.0,
+      "grossMargin": 0.2503887225484779,
+      "operatingMargin": 0.17724463177373134,
+      "netMargin": 0.11991929991390278,
+      "roe": 0.12470267525456344,
+      "roic": 0.11621421229125592
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7417700000.0,
+      "operatingIncome": 1398800000.0,
+      "netIncome": 911900000.0,
+      "eps": 6.85,
+      "freeCashFlow": 806100000.0,
+      "totalDebt": 5828800000.0,
+      "cash": 559700000.0,
+      "sharesOutstanding": 132061259.0,
+      "grossMargin": 0.26957143049732396,
+      "operatingMargin": 0.1885759736845653,
+      "netMargin": 0.12293568087142914,
+      "roe": 0.11232232158253887,
+      "roic": 0.1002910936805426
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7941100000.0,
+      "operatingIncome": 1567200000.0,
+      "netIncome": 1076700000.0,
+      "eps": 8.11,
+      "freeCashFlow": 1135300000.0,
+      "totalDebt": 4884700000.0,
+      "cash": 183300000.0,
+      "sharesOutstanding": 130600000.0,
+      "grossMargin": 0.2738411555074234,
+      "operatingMargin": 0.1973530115475186,
+      "netMargin": 0.13558575008500082,
+      "roe": 0.1262976387373755,
+      "roic": 0.11686975197243807
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:34.793341+00:00"
+  }
+}

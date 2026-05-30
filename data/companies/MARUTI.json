@@ -1,0 +1,128 @@
+{
+  "ticker": "MARUTI",
+  "name": "Maruti Suzuki India Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "INR",
+  "marketCap": {
+    "value": 4127162368000.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13127.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1803501000000.0,
+    "operatingIncome": 147145000000.0,
+    "netIncome": 146795000000.0,
+    "eps": null,
+    "freeCashFlow": 87023000000.0,
+    "totalDebt": 1025000000.0,
+    "cash": 669000000.0,
+    "sharesOutstanding": 314402574.0
+  },
+  "ratios": {
+    "roe": 0.13699147880245957,
+    "roic": 0.13718687883884587,
+    "grossMargin": 0.2664999908511279,
+    "operatingMargin": 0.08158853252645826,
+    "netMargin": 0.08139446554229801,
+    "debtToEquity": 0.00096
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 128.43,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1137648000000.0,
+      "operatingIncome": 82630000000.0,
+      "netIncome": 82637000000.0,
+      "eps": 262.84,
+      "freeCashFlow": 27498000000.0,
+      "totalDebt": 12476000000.0,
+      "cash": 17852000000.0,
+      "sharesOutstanding": 302080060.0,
+      "grossMargin": 0.204661723134045,
+      "operatingMargin": 0.07263230806013811,
+      "netMargin": 0.07263846110571986,
+      "roe": 0.11077316146605505,
+      "roic": 0.10894185460883506
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1364838000000.0,
+      "operatingIncome": 134056000000.0,
+      "netIncome": 134882000000.0,
+      "eps": 429.01,
+      "freeCashFlow": 76012000000.0,
+      "totalDebt": 1186000000.0,
+      "cash": 26595000000.0,
+      "sharesOutstanding": 314402574.0,
+      "grossMargin": 0.22619900676856888,
+      "operatingMargin": 0.098221180828787,
+      "netMargin": 0.09882638085985296,
+      "roe": 0.1575061889859405,
+      "roic": 0.1563251417416675
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1505556000000.0,
+      "operatingIncome": 145481000000.0,
+      "netIncome": 145002000000.0,
+      "eps": 461.2,
+      "freeCashFlow": 55590000000.0,
+      "totalDebt": 870000000.0,
+      "cash": 1845000000.0,
+      "sharesOutstanding": 314402574.0,
+      "grossMargin": 0.2885292875190295,
+      "operatingMargin": 0.09662941796917551,
+      "netMargin": 0.09631126308154596,
+      "roe": 0.15066723884792066,
+      "roic": 0.151028425081675
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1803501000000.0,
+      "operatingIncome": 147145000000.0,
+      "netIncome": 146795000000.0,
+      "eps": null,
+      "freeCashFlow": 87023000000.0,
+      "totalDebt": 1025000000.0,
+      "cash": 669000000.0,
+      "sharesOutstanding": 314402574.0,
+      "grossMargin": 0.2664999908511279,
+      "operatingMargin": 0.08158853252645826,
+      "netMargin": 0.08139446554229801,
+      "roe": 0.13699147880245957,
+      "roic": 0.13718687883884587
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.037108+00:00"
+  }
+}

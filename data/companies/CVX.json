@@ -1,0 +1,111 @@
+{
+  "ticker": "CVX",
+  "name": "Chevron Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "marketCap": {
+    "value": 363386929152.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 182.46,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 184432000000.0,
+    "operatingIncome": 16674000000.0,
+    "netIncome": 12299000000.0,
+    "eps": 6.63,
+    "freeCashFlow": 16592000000.0,
+    "totalDebt": 40758000000.0,
+    "cash": 6293000000.0,
+    "sharesOutstanding": 2442676580.0
+  },
+  "ratios": {
+    "roe": 0.06596406543309198,
+    "roic": 0.07338650047533538,
+    "grossMargin": 0.30410124056562854,
+    "operatingMargin": 0.0904073045892253,
+    "netMargin": 0.06668582458575519,
+    "debtToEquity": 0.23989000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 235717000000.0,
+      "operatingIncome": 39950000000.0,
+      "netIncome": 35465000000.0,
+      "eps": 18.28,
+      "freeCashFlow": 37628000000.0,
+      "totalDebt": 23339000000.0,
+      "cash": 17678000000.0,
+      "sharesOutstanding": 2442676580.0,
+      "grossMargin": 0.3138594161642987,
+      "operatingMargin": 0.16948289686361187,
+      "netMargin": 0.15045584323574457,
+      "roe": 0.22265541618010823,
+      "roic": 0.21875906932937614
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 196913000000.0,
+      "operatingIncome": 26229000000.0,
+      "netIncome": 21369000000.0,
+      "eps": 11.36,
+      "freeCashFlow": 19780000000.0,
+      "totalDebt": 20836000000.0,
+      "cash": 8178000000.0,
+      "sharesOutstanding": 2442676580.0,
+      "grossMargin": 0.3066887407129037,
+      "operatingMargin": 0.1332009567677096,
+      "netMargin": 0.10852000629719724,
+      "roe": 0.13276216629286083,
+      "roic": 0.1442794827083551
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 193414000000.0,
+      "operatingIncome": 18917000000.0,
+      "netIncome": 17661000000.0,
+      "eps": 9.72,
+      "freeCashFlow": 15044000000.0,
+      "totalDebt": 24541000000.0,
+      "cash": 6781000000.0,
+      "sharesOutstanding": 2442676580.0,
+      "grossMargin": 0.29432202425884374,
+      "operatingMargin": 0.09780574312097366,
+      "netMargin": 0.09131190089652248,
+      "roe": 0.11594821360574588,
+      "roic": 0.10696091236521749
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 184432000000.0,
+      "operatingIncome": 16674000000.0,
+      "netIncome": 12299000000.0,
+      "eps": 6.63,
+      "freeCashFlow": 16592000000.0,
+      "totalDebt": 40758000000.0,
+      "cash": 6293000000.0,
+      "sharesOutstanding": 2442676580.0,
+      "grossMargin": 0.30410124056562854,
+      "operatingMargin": 0.0904073045892253,
+      "netMargin": 0.06668582458575519,
+      "roe": 0.06596406543309198,
+      "roic": 0.07338650047533538
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.287628+00:00"
+  }
+}

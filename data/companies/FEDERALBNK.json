@@ -1,0 +1,128 @@
+{
+  "ticker": "FEDERALBNK",
+  "name": "The Federal Bank Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "INR",
+  "marketCap": {
+    "value": 712070463488.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 288.95,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 165008600000.0,
+    "operatingIncome": null,
+    "netIncome": 43453000000.0,
+    "eps": 17.48,
+    "freeCashFlow": 40409000000.0,
+    "totalDebt": 331932500000.0,
+    "cash": 268973200000.0,
+    "sharesOutstanding": 2463673429.0
+  },
+  "ratios": {
+    "roe": 0.10851581836630163,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.43172002,
+    "netMargin": 0.2633377896667204,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 102786258000.0,
+      "operatingIncome": null,
+      "netIncome": 31647191000.0,
+      "eps": 14.85,
+      "freeCashFlow": 52759000.0,
+      "totalDebt": 258619785000.0,
+      "cash": 313963714000.0,
+      "sharesOutstanding": 2116201143.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30789321078309906,
+      "roe": 0.14305490419239605,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 121300739000.0,
+      "operatingIncome": null,
+      "netIncome": 38804276000.0,
+      "eps": 16.55,
+      "freeCashFlow": 61032494000.0,
+      "totalDebt": 223086197000.0,
+      "cash": 311264775000.0,
+      "sharesOutstanding": 2435351938.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3199013981275085,
+      "roe": 0.1288949308705369,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 143989800000.0,
+      "operatingIncome": null,
+      "netIncome": 41588500000.0,
+      "eps": 16.8,
+      "freeCashFlow": 80462700000.0,
+      "totalDebt": 303458319000.0,
+      "cash": 408405325000.0,
+      "sharesOutstanding": 2455829065.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2888294865330739,
+      "roe": 0.12041261758966648,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 165008600000.0,
+      "operatingIncome": null,
+      "netIncome": 43453000000.0,
+      "eps": 17.48,
+      "freeCashFlow": 40409000000.0,
+      "totalDebt": 331932500000.0,
+      "cash": 268973200000.0,
+      "sharesOutstanding": 2463673429.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2633377896667204,
+      "roe": 0.10851581836630163,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:41.710987+00:00"
+  }
+}

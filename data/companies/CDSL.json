@@ -1,0 +1,128 @@
+{
+  "ticker": "CDSL",
+  "name": "Central Depository Services (India) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "INR",
+  "marketCap": {
+    "value": 260121395200.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1244.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11449187000.0,
+    "operatingIncome": 5196859000.0,
+    "netIncome": 4561318000.0,
+    "eps": null,
+    "freeCashFlow": 3459225000.0,
+    "totalDebt": 21998000.0,
+    "cash": 514025000.0,
+    "sharesOutstanding": 209000000.0
+  },
+  "ratios": {
+    "roe": 0.23274613381842119,
+    "roic": 0.26487797570854743,
+    "grossMargin": 0.7215907120741412,
+    "operatingMargin": 0.4539063778065639,
+    "netMargin": 0.3983966721829244,
+    "debtToEquity": 0.0011
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 14.89,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5550868000.0,
+      "operatingIncome": 3089577000.0,
+      "netIncome": 2759390000.0,
+      "eps": 13.205,
+      "freeCashFlow": 432358000.0,
+      "totalDebt": 23705000.0,
+      "cash": 52724000.0,
+      "sharesOutstanding": 209000000.0,
+      "grossMargin": 0.7597249655369215,
+      "operatingMargin": 0.5565934913242397,
+      "netMargin": 0.49710964123088497,
+      "roe": 0.22734794619461876,
+      "roic": 0.2540560795802715
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 8122566000.0,
+      "operatingIncome": 4621728000.0,
+      "netIncome": 4191058000.0,
+      "eps": 20.05,
+      "freeCashFlow": 3124855000.0,
+      "totalDebt": 13558000.0,
+      "cash": 118089000.0,
+      "sharesOutstanding": 209000000.0,
+      "grossMargin": 0.7718003153190752,
+      "operatingMargin": 0.5689985159862043,
+      "netMargin": 0.5159770939380487,
+      "roe": 0.2864029044720467,
+      "roic": 0.3155411022276792
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 10822826000.0,
+      "operatingIncome": 5753841000.0,
+      "netIncome": 5266412000.0,
+      "eps": 25.2,
+      "freeCashFlow": 3877192000.0,
+      "totalDebt": 29787000.0,
+      "cash": 226102000.0,
+      "sharesOutstanding": 209000000.0,
+      "grossMargin": 0.7827876009463702,
+      "operatingMargin": 0.5316394257839866,
+      "netMargin": 0.4866022977732433,
+      "roe": 0.2991693615460654,
+      "roic": 0.32630662078209816
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 11449187000.0,
+      "operatingIncome": 5196859000.0,
+      "netIncome": 4561318000.0,
+      "eps": null,
+      "freeCashFlow": 3459225000.0,
+      "totalDebt": 21998000.0,
+      "cash": 514025000.0,
+      "sharesOutstanding": 209000000.0,
+      "grossMargin": 0.7215907120741412,
+      "operatingMargin": 0.4539063778065639,
+      "netMargin": 0.3983966721829244,
+      "roe": 0.23274613381842119,
+      "roic": 0.26487797570854743
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:22.232617+00:00"
+  }
+}

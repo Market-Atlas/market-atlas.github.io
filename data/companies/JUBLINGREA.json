@@ -1,0 +1,128 @@
+{
+  "ticker": "JUBLINGREA",
+  "name": "Jubilant Ingrevia Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "INR",
+  "marketCap": {
+    "value": 101916434432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 646.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 43448500000.0,
+    "operatingIncome": 3915600000.0,
+    "netIncome": 2779100000.0,
+    "eps": null,
+    "freeCashFlow": 2249100000.0,
+    "totalDebt": 7918100000.0,
+    "cash": 1884700000.0,
+    "sharesOutstanding": 159281139.0
+  },
+  "ratios": {
+    "roe": 0.08889649480842679,
+    "roic": 0.09993797903538258,
+    "grossMargin": 0.47184137542147603,
+    "operatingMargin": 0.09012048747367574,
+    "netMargin": 0.06396308273012877,
+    "debtToEquity": 0.25328
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 29.97,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 47404830000.0,
+      "operatingIncome": 4440970000.0,
+      "netIncome": 3074970000.0,
+      "eps": 19.33,
+      "freeCashFlow": -189250000.0,
+      "totalDebt": 4067490000.0,
+      "cash": 727250000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.43119783363847103,
+      "operatingMargin": 0.09368180415371176,
+      "netMargin": 0.0648661750290002,
+      "roe": 0.11533017381833238,
+      "roic": 0.14451667615256977
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 41004450000.0,
+      "operatingIncome": 2939950000.0,
+      "netIncome": 1828880000.0,
+      "eps": 11.55,
+      "freeCashFlow": -1383960000.0,
+      "totalDebt": 7402430000.0,
+      "cash": 787840000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.4512837021347683,
+      "operatingMargin": 0.07169831567061624,
+      "netMargin": 0.044601988320779815,
+      "roe": 0.06680903635979739,
+      "roic": 0.08453678088240073
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 41236700000.0,
+      "operatingIncome": 3614500000.0,
+      "netIncome": 2511700000.0,
+      "eps": 15.84,
+      "freeCashFlow": 1423100000.0,
+      "totalDebt": 7637820000.0,
+      "cash": 693550000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.488981902043568,
+      "operatingMargin": 0.08765250371634975,
+      "netMargin": 0.06090933561608955,
+      "roe": 0.08580918295254376,
+      "roic": 0.09793115855446077
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 43448500000.0,
+      "operatingIncome": 3915600000.0,
+      "netIncome": 2779100000.0,
+      "eps": null,
+      "freeCashFlow": 2249100000.0,
+      "totalDebt": 7918100000.0,
+      "cash": 1884700000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.47184137542147603,
+      "operatingMargin": 0.09012048747367574,
+      "netMargin": 0.06396308273012877,
+      "roe": 0.08889649480842679,
+      "roic": 0.09993797903538258
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:11.407323+00:00"
+  }
+}

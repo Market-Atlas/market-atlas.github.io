@@ -1,0 +1,128 @@
+{
+  "ticker": "ETERNAL",
+  "name": "Eternal Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2303805358080.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 250.58,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 543640000000.0,
+    "operatingIncome": -3890000000.0,
+    "netIncome": 3660000000.0,
+    "eps": 0.39,
+    "freeCashFlow": -11190000000.0,
+    "totalDebt": 45920000000.0,
+    "cash": 9960000000.0,
+    "sharesOutstanding": 9650350647.0
+  },
+  "ratios": {
+    "roe": 0.011814073595868302,
+    "roic": -0.010935567300123693,
+    "grossMargin": 0.4450923405194614,
+    "operatingMargin": -0.007155470531969686,
+    "netMargin": 0.006732396438819808,
+    "debtToEquity": 0.14826
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 70350000000.0,
+      "operatingIncome": -15850000000.0,
+      "netIncome": -9710000000.0,
+      "eps": -1.2,
+      "freeCashFlow": -9470000000.0,
+      "totalDebt": 5070000000.0,
+      "cash": 2180000000.0,
+      "sharesOutstanding": 8553509770.0,
+      "grossMargin": 0.8017057569296375,
+      "operatingMargin": -0.22530206112295664,
+      "netMargin": -0.13802416488983654,
+      "roe": -0.04989722507708119,
+      "roic": -0.07938097861471428
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 121140000000.0,
+      "operatingIncome": -3530000000.0,
+      "netIncome": 3510000000.0,
+      "eps": 0.4,
+      "freeCashFlow": 4310000000.0,
+      "totalDebt": 7490000000.0,
+      "cash": 3090000000.0,
+      "sharesOutstanding": 8819783744.0,
+      "grossMargin": 0.762093445600132,
+      "operatingMargin": -0.02913983820373122,
+      "netMargin": 0.02897473997028232,
+      "roe": 0.01719492480282173,
+      "roic": -0.01668084302050846
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 202430000000.0,
+      "operatingIncome": -2260000000.0,
+      "netIncome": 5270000000.0,
+      "eps": 0.58,
+      "freeCashFlow": -6280000000.0,
+      "totalDebt": 20450000000.0,
+      "cash": 6660000000.0,
+      "sharesOutstanding": 9650350647.0,
+      "grossMargin": 0.7250901546213506,
+      "operatingMargin": -0.011164353109716939,
+      "netMargin": 0.026033690658499236,
+      "roe": 0.017382986443249662,
+      "roic": -0.006983499165688153
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 543640000000.0,
+      "operatingIncome": -3890000000.0,
+      "netIncome": 3660000000.0,
+      "eps": 0.39,
+      "freeCashFlow": -11190000000.0,
+      "totalDebt": 45920000000.0,
+      "cash": 9960000000.0,
+      "sharesOutstanding": 9650350647.0,
+      "grossMargin": 0.4450923405194614,
+      "operatingMargin": -0.007155470531969686,
+      "netMargin": 0.006732396438819808,
+      "roe": 0.011814073595868302,
+      "roic": -0.010935567300123693
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:40.877248+00:00"
+  }
+}

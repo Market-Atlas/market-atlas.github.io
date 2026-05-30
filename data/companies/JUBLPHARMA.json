@@ -1,0 +1,128 @@
+{
+  "ticker": "JUBLPHARMA",
+  "name": "Jubilant Pharmova Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "INR",
+  "marketCap": {
+    "value": 157595238400.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 995.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 82250000000.0,
+    "operatingIncome": 8194000000.0,
+    "netIncome": 3985000000.0,
+    "eps": null,
+    "freeCashFlow": -2223000000.0,
+    "totalDebt": 36147000000.0,
+    "cash": 12671000000.0,
+    "sharesOutstanding": 159281139.0
+  },
+  "ratios": {
+    "roe": 0.05618373561921949,
+    "roic": 0.07652579967312631,
+    "grossMargin": 0.6785045592705167,
+    "operatingMargin": 0.09962310030395137,
+    "netMargin": 0.04844984802431611,
+    "debtToEquity": 0.5094299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 26.0,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 62193000000.0,
+      "operatingIncome": 2299000000.0,
+      "netIncome": -610000000.0,
+      "eps": -3.83,
+      "freeCashFlow": -1538000000.0,
+      "totalDebt": 36768000000.0,
+      "cash": 10108000000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.6425964336822472,
+      "operatingMargin": 0.03696557490392809,
+      "netMargin": -0.009808177769202321,
+      "roe": -0.011297760820847148,
+      "roic": 0.025330262998424433
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 66448000000.0,
+      "operatingIncome": 5231000000.0,
+      "netIncome": 771000000.0,
+      "eps": 4.86,
+      "freeCashFlow": 736000000.0,
+      "totalDebt": 36640000000.0,
+      "cash": 9539000000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.6354894052492175,
+      "operatingMargin": 0.07872321213580544,
+      "netMargin": 0.011603058030339513,
+      "roe": 0.014188704245569481,
+      "roic": 0.05749678497235626
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 71921000000.0,
+      "operatingIncome": 8051000000.0,
+      "netIncome": 8394000000.0,
+      "eps": 52.85,
+      "freeCashFlow": -435000000.0,
+      "totalDebt": 27310000000.0,
+      "cash": 10862000000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.6778409643914851,
+      "operatingMargin": 0.11194226999068423,
+      "netMargin": 0.11671139166585559,
+      "roe": 0.13419878815009034,
+      "roic": 0.08959592250080682
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 82250000000.0,
+      "operatingIncome": 8194000000.0,
+      "netIncome": 3985000000.0,
+      "eps": null,
+      "freeCashFlow": -2223000000.0,
+      "totalDebt": 36147000000.0,
+      "cash": 12671000000.0,
+      "sharesOutstanding": 159281139.0,
+      "grossMargin": 0.6785045592705167,
+      "operatingMargin": 0.09962310030395137,
+      "netMargin": 0.04844984802431611,
+      "roe": 0.05618373561921949,
+      "roic": 0.07652579967312631
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:12.257472+00:00"
+  }
+}

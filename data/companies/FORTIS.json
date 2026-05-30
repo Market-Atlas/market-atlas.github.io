@@ -1,0 +1,128 @@
+{
+  "ticker": "FORTIS",
+  "name": "Fortis Healthcare Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 700940877824.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 928.45,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 91278400000.0,
+    "operatingIncome": 16355500000.0,
+    "netIncome": 10417800000.0,
+    "eps": null,
+    "freeCashFlow": 6560200000.0,
+    "totalDebt": 34725800000.0,
+    "cash": 4069700000.0,
+    "sharesOutstanding": 754958148.0
+  },
+  "ratios": {
+    "roe": 0.10527762479094138,
+    "roic": 0.12234695503409976,
+    "grossMargin": 0.5575612631246822,
+    "operatingMargin": 0.17918258865186068,
+    "netMargin": 0.11413214955564514,
+    "debtToEquity": 0.34149999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 7.35,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 62131549000.0,
+      "operatingIncome": 7702411000.0,
+      "netIncome": 5887308000.0,
+      "eps": 7.8,
+      "freeCashFlow": 3750120000.0,
+      "totalDebt": 9257215000.0,
+      "cash": 1410825000.0,
+      "sharesOutstanding": 754958148.0,
+      "grossMargin": 0.5430623981385044,
+      "operatingMargin": 0.12396940240456583,
+      "netMargin": 0.094755532330282,
+      "roe": 0.08129100652304451,
+      "roic": 0.09430002671773141
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 68350867000.0,
+      "operatingIncome": 9122791000.0,
+      "netIncome": 5988755000.0,
+      "eps": 7.93,
+      "freeCashFlow": 1576303000.0,
+      "totalDebt": 11550172000.0,
+      "cash": 2352679000.0,
+      "sharesOutstanding": 754958148.0,
+      "grossMargin": 0.5383481529210156,
+      "operatingMargin": 0.1334700114337979,
+      "netMargin": 0.08761783519146875,
+      "roe": 0.07815262397697142,
+      "roic": 0.10345747187534975
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 77827500000.0,
+      "operatingIncome": 12023300000.0,
+      "netIncome": 7742100000.0,
+      "eps": 10.26,
+      "freeCashFlow": 5770000000.0,
+      "totalDebt": 24751088000.0,
+      "cash": 1397226000.0,
+      "sharesOutstanding": 754958148.0,
+      "grossMargin": 0.5553229899457133,
+      "operatingMargin": 0.1544865246860043,
+      "netMargin": 0.09947769104750892,
+      "roe": 0.08682876272495418,
+      "roic": 0.10554508987401463
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 91278400000.0,
+      "operatingIncome": 16355500000.0,
+      "netIncome": 10417800000.0,
+      "eps": null,
+      "freeCashFlow": 6560200000.0,
+      "totalDebt": 34725800000.0,
+      "cash": 4069700000.0,
+      "sharesOutstanding": 754958148.0,
+      "grossMargin": 0.5575612631246822,
+      "operatingMargin": 0.17918258865186068,
+      "netMargin": 0.11413214955564514,
+      "roe": 0.10527762479094138,
+      "roic": 0.12234695503409976
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:56:43.644344+00:00"
+  }
+}

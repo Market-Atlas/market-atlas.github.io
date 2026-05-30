@@ -1,0 +1,128 @@
+{
+  "ticker": "SBFC",
+  "name": "SBFC Finance Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 104293089280.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 94.3,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16601060000.0,
+    "operatingIncome": 7153190000.0,
+    "netIncome": 4508330000.0,
+    "eps": 4.1,
+    "freeCashFlow": -19073830000.0,
+    "totalDebt": 71617130000.0,
+    "cash": 4810420000.0,
+    "sharesOutstanding": 1106414229.0
+  },
+  "ratios": {
+    "roe": 0.12102405485735884,
+    "roic": 0.06570477359643938,
+    "grossMargin": 0.5039605904683195,
+    "operatingMargin": 0.43088754573503135,
+    "netMargin": 0.2715688034378528,
+    "debtToEquity": 1.9225299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6365440000.0,
+      "operatingIncome": 1596380000.0,
+      "netIncome": 1497360000.0,
+      "eps": 1.406979,
+      "freeCashFlow": -12531320000.0,
+      "totalDebt": 37390620000.0,
+      "cash": 1838070000.0,
+      "sharesOutstanding": 1059459789.0,
+      "grossMargin": 0.35193482304443996,
+      "operatingMargin": 0.2507886336215564,
+      "netMargin": 0.23523275688719084,
+      "roe": 0.08668950041336955,
+      "roic": 0.02920387170185481
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 9369720000.0,
+      "operatingIncome": 3017070000.0,
+      "netIncome": 2371040000.0,
+      "eps": 2.3,
+      "freeCashFlow": -11670570000.0,
+      "totalDebt": 39960210000.0,
+      "cash": 2252110000.0,
+      "sharesOutstanding": 1073754986.0,
+      "grossMargin": 0.44045179578471927,
+      "operatingMargin": 0.32200215161178775,
+      "netMargin": 0.2530534530380844,
+      "roe": 0.0853485842309002,
+      "roic": 0.044538400525413975
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 12662600000.0,
+      "operatingIncome": 5135480000.0,
+      "netIncome": 3451680000.0,
+      "eps": 3.15,
+      "freeCashFlow": -14269810000.0,
+      "totalDebt": 52643180000.0,
+      "cash": 2653980000.0,
+      "sharesOutstanding": 1085999088.0,
+      "grossMargin": 0.4689273924786379,
+      "operatingMargin": 0.4055628385955491,
+      "netMargin": 0.27258856790864433,
+      "roe": 0.1082006587310071,
+      "roic": 0.06074334626822914
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 16601060000.0,
+      "operatingIncome": 7153190000.0,
+      "netIncome": 4508330000.0,
+      "eps": 4.1,
+      "freeCashFlow": -19073830000.0,
+      "totalDebt": 71617130000.0,
+      "cash": 4810420000.0,
+      "sharesOutstanding": 1106414229.0,
+      "grossMargin": 0.5039605904683195,
+      "operatingMargin": 0.43088754573503135,
+      "netMargin": 0.2715688034378528,
+      "roe": 0.12102405485735884,
+      "roic": 0.06570477359643938
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:53.014972+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CEG",
+  "name": "Constellation Energy Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "USD",
+  "marketCap": {
+    "value": 103932436480.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 287.75,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25533000000.0,
+    "operatingIncome": 4198000000.0,
+    "netIncome": 2319000000.0,
+    "eps": 7.4,
+    "freeCashFlow": 1288000000.0,
+    "totalDebt": 8992000000.0,
+    "cash": 3641000000.0,
+    "sharesOutstanding": 312290080.0
+  },
+  "ratios": {
+    "roe": 0.15974374870841082,
+    "roic": 0.17856990939640138,
+    "grossMargin": 0.18380135510907453,
+    "operatingMargin": 0.16441467904280735,
+    "netMargin": 0.0908236399953002,
+    "debtToEquity": 0.66428
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24440000000.0,
+      "operatingIncome": -408000000.0,
+      "netIncome": -160000000.0,
+      "eps": -0.489297,
+      "freeCashFlow": -4042000000.0,
+      "totalDebt": 5768000000.0,
+      "cash": 422000000.0,
+      "sharesOutstanding": 327000000.0,
+      "grossMargin": 0.08743862520458265,
+      "operatingMargin": -0.01669394435351882,
+      "netMargin": -0.006546644844517185,
+      "roe": -0.014521691777092031,
+      "roic": -0.0243059692600977
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24918000000.0,
+      "operatingIncome": 2386000000.0,
+      "netIncome": 1623000000.0,
+      "eps": 5.01,
+      "freeCashFlow": -7723000000.0,
+      "totalDebt": 9261000000.0,
+      "cash": 368000000.0,
+      "sharesOutstanding": 317000000.0,
+      "grossMargin": 0.12970543382293925,
+      "operatingMargin": 0.09575407336062285,
+      "netMargin": 0.06513363833373464,
+      "roe": 0.148558352402746,
+      "roic": 0.11820073318141286
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23568000000.0,
+      "operatingIncome": 4848000000.0,
+      "netIncome": 3749000000.0,
+      "eps": 11.89,
+      "freeCashFlow": -5029000000.0,
+      "totalDebt": 8412000000.0,
+      "cash": 3022000000.0,
+      "sharesOutstanding": 312838000.0,
+      "grossMargin": 0.2541581805838425,
+      "operatingMargin": 0.20570264765784113,
+      "netMargin": 0.15907162253903598,
+      "roe": 0.2847485948655628,
+      "roic": 0.22467327833904904
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 25533000000.0,
+      "operatingIncome": 4198000000.0,
+      "netIncome": 2319000000.0,
+      "eps": 7.4,
+      "freeCashFlow": 1288000000.0,
+      "totalDebt": 8992000000.0,
+      "cash": 3641000000.0,
+      "sharesOutstanding": 312290080.0,
+      "grossMargin": 0.18380135510907453,
+      "operatingMargin": 0.16441467904280735,
+      "netMargin": 0.0908236399953002,
+      "roe": 0.15974374870841082,
+      "roic": 0.17856990939640138
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:57.800536+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "TEGA",
+  "name": "Tega Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "INR",
+  "marketCap": {
+    "value": 132675510272.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1766.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16919360000.0,
+    "operatingIncome": 1360250000.0,
+    "netIncome": 1426530000.0,
+    "eps": null,
+    "freeCashFlow": 2144030000.0,
+    "totalDebt": 3984010000.0,
+    "cash": 11638860000.0,
+    "sharesOutstanding": 75127698.0
+  },
+  "ratios": {
+    "roe": 0.041868397758143404,
+    "roic": 0.03574359420398011,
+    "grossMargin": 0.5951028880525032,
+    "operatingMargin": 0.0803960669907136,
+    "netMargin": 0.08431347285003687,
+    "debtToEquity": 0.11692999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 17.55,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11942840000.0,
+      "operatingIncome": 2296210000.0,
+      "netIncome": 1840300000.0,
+      "eps": 27.62,
+      "freeCashFlow": 863400000.0,
+      "totalDebt": 3608720000.0,
+      "cash": 457210000.0,
+      "sharesOutstanding": 66354112.0,
+      "grossMargin": 0.5582114471934648,
+      "operatingMargin": 0.19226666354066538,
+      "netMargin": 0.15409232644831547,
+      "roe": 0.1754350843476404,
+      "roic": 0.16286748225360745
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14638950000.0,
+      "operatingIncome": 2531390000.0,
+      "netIncome": 1938570000.0,
+      "eps": 29.17,
+      "freeCashFlow": 1967300000.0,
+      "totalDebt": 3080150000.0,
+      "cash": 863170000.0,
+      "sharesOutstanding": 66535492.0,
+      "grossMargin": 0.5590435106343009,
+      "operatingMargin": 0.17292155516618338,
+      "netMargin": 0.13242548133575155,
+      "roe": 0.162656410075691,
+      "roic": 0.1687780114332653
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 16386510000.0,
+      "operatingIncome": 2384770000.0,
+      "netIncome": 2001200000.0,
+      "eps": 30.08,
+      "freeCashFlow": 248500000.0,
+      "totalDebt": 3296490000.0,
+      "cash": 1142950000.0,
+      "sharesOutstanding": 66535492.0,
+      "grossMargin": 0.5737640290702535,
+      "operatingMargin": 0.14553251424494903,
+      "netMargin": 0.122124845375861,
+      "roe": 0.1432814106474441,
+      "roic": 0.13814014728260524
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 16919360000.0,
+      "operatingIncome": 1360250000.0,
+      "netIncome": 1426530000.0,
+      "eps": null,
+      "freeCashFlow": 2144030000.0,
+      "totalDebt": 3984010000.0,
+      "cash": 11638860000.0,
+      "sharesOutstanding": 75127698.0,
+      "grossMargin": 0.5951028880525032,
+      "operatingMargin": 0.0803960669907136,
+      "netMargin": 0.08431347285003687,
+      "roe": 0.041868397758143404,
+      "roic": 0.03574359420398011
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:04.706826+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "RKFORGE",
+  "name": "Ramkrishna Forgings Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "currency": "INR",
+  "marketCap": {
+    "value": 102786473984.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 566.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42380773000.0,
+    "operatingIncome": 3098107000.0,
+    "netIncome": 717973000.0,
+    "eps": 3.95,
+    "freeCashFlow": -853457000.0,
+    "totalDebt": 24487676000.0,
+    "cash": 1622290000.0,
+    "sharesOutstanding": 181670604.0
+  },
+  "ratios": {
+    "roe": 0.021820245895458917,
+    "roic": 0.05398183384104648,
+    "grossMargin": 0.4316022975796123,
+    "operatingMargin": 0.0731017105327456,
+    "netMargin": 0.01694100765929871,
+    "debtToEquity": 0.74422
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 28594238000.0,
+      "operatingIncome": 4441831000.0,
+      "netIncome": 2481084000.0,
+      "eps": 15.43,
+      "freeCashFlow": 3885290000.0,
+      "totalDebt": 13333959000.0,
+      "cash": 445259000.0,
+      "sharesOutstanding": 159889535.0,
+      "grossMargin": 0.31993361739522486,
+      "operatingMargin": 0.1553400723600328,
+      "netMargin": 0.08676866996770469,
+      "roe": 0.18771017380420335,
+      "roic": 0.1672905778037934
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 33388420000.0,
+      "operatingIncome": 4880964000.0,
+      "netIncome": 2912127000.0,
+      "eps": 17.14,
+      "freeCashFlow": 323266000.0,
+      "totalDebt": 12065312000.0,
+      "cash": 1731282000.0,
+      "sharesOutstanding": 180776179.0,
+      "grossMargin": 0.3156494976401998,
+      "operatingMargin": 0.14618733081709168,
+      "netMargin": 0.08721967077208206,
+      "roe": 0.11056421587268418,
+      "roic": 0.12709488071272398
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40341068000.0,
+      "operatingIncome": 2882728000.0,
+      "netIncome": 4150252000.0,
+      "eps": 22.95,
+      "freeCashFlow": -9443244000.0,
+      "totalDebt": 21264963000.0,
+      "cash": 160297000.0,
+      "sharesOutstanding": 181030604.0,
+      "grossMargin": 0.44336947152712963,
+      "operatingMargin": 0.07145889147010188,
+      "netMargin": 0.10287908094054427,
+      "roe": 0.13663958217560268,
+      "roic": 0.05582497461205437
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 42380773000.0,
+      "operatingIncome": 3098107000.0,
+      "netIncome": 717973000.0,
+      "eps": 3.95,
+      "freeCashFlow": -853457000.0,
+      "totalDebt": 24487676000.0,
+      "cash": 1622290000.0,
+      "sharesOutstanding": 181670604.0,
+      "grossMargin": 0.4316022975796123,
+      "operatingMargin": 0.0731017105327456,
+      "netMargin": 0.01694100765929871,
+      "roe": 0.021820245895458917,
+      "roic": 0.05398183384104648
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:49.409559+00:00"
+  }
+}

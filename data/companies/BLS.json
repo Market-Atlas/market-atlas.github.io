@@ -1,0 +1,128 @@
+{
+  "ticker": "BLS",
+  "name": "BLS International Services Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 107410194432.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 260.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29982151000.0,
+    "operatingIncome": 7252232000.0,
+    "netIncome": 6866978000.0,
+    "eps": 16.64,
+    "freeCashFlow": 7658431000.0,
+    "totalDebt": 4305752000.0,
+    "cash": 4941641000.0,
+    "sharesOutstanding": 411740908.0
+  },
+  "ratios": {
+    "roe": 0.27875287019561273,
+    "roic": 0.25059200120855285,
+    "grossMargin": 0.5391500096173887,
+    "operatingMargin": 0.2418849801670334,
+    "netMargin": 0.2290355351755783,
+    "debtToEquity": 0.15468
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 15161888000.0,
+      "operatingIncome": 2123365000.0,
+      "netIncome": 2007587000.0,
+      "eps": 4.89,
+      "freeCashFlow": 1923990000.0,
+      "totalDebt": 65312000.0,
+      "cash": 669377000.0,
+      "sharesOutstanding": 410820000.0,
+      "grossMargin": 0.3215728806333354,
+      "operatingMargin": 0.1400462132420448,
+      "netMargin": 0.13241009299105758,
+      "roe": 0.2500564237365318,
+      "roic": 0.26234307834790077
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 16768140000.0,
+      "operatingIncome": 3305136000.0,
+      "netIncome": 3129688000.0,
+      "eps": 7.6,
+      "freeCashFlow": 2859983000.0,
+      "totalDebt": 305957000.0,
+      "cash": 4141223000.0,
+      "sharesOutstanding": 411740908.0,
+      "grossMargin": 0.4246661824149846,
+      "operatingMargin": 0.1971080871223642,
+      "netMargin": 0.186644911123118,
+      "roe": 0.2591576222956732,
+      "roic": 0.2669232685731176
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 21933019000.0,
+      "operatingIncome": 5527965000.0,
+      "netIncome": 5082271000.0,
+      "eps": 12.33,
+      "freeCashFlow": 6676207000.0,
+      "totalDebt": 3590648000.0,
+      "cash": 2818313000.0,
+      "sharesOutstanding": 411740908.0,
+      "grossMargin": 0.5504396818331302,
+      "operatingMargin": 0.2520384904604332,
+      "netMargin": 0.2317178041016606,
+      "roe": 0.29363177719100775,
+      "roic": 0.26450906987629336
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 29982151000.0,
+      "operatingIncome": 7252232000.0,
+      "netIncome": 6866978000.0,
+      "eps": 16.64,
+      "freeCashFlow": 7658431000.0,
+      "totalDebt": 4305752000.0,
+      "cash": 4941641000.0,
+      "sharesOutstanding": 411740908.0,
+      "grossMargin": 0.5391500096173887,
+      "operatingMargin": 0.2418849801670334,
+      "netMargin": 0.2290355351755783,
+      "roe": 0.27875287019561273,
+      "roic": 0.25059200120855285
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:03.392887+00:00"
+  }
+}

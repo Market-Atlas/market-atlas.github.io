@@ -1,0 +1,128 @@
+{
+  "ticker": "HPE",
+  "name": "Hewlett Packard Enterprise Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "USD",
+  "marketCap": {
+    "value": 57107804160.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 43.04,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 34296000000.0,
+    "operatingIncome": 1644000000.0,
+    "netIncome": 57000000.0,
+    "eps": -0.04,
+    "freeCashFlow": 627000000.0,
+    "totalDebt": 24077000000.0,
+    "cash": 5773000000.0,
+    "sharesOutstanding": 1318292428.0
+  },
+  "ratios": {
+    "roe": 0.002308813998703824,
+    "roic": 0.033712703783451245,
+    "grossMargin": 0.3025717284814556,
+    "operatingMargin": 0.04793561931420574,
+    "netMargin": 0.001662001399580126,
+    "debtToEquity": 0.87223
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 28496000000.0,
+      "operatingIncome": 2227000000.0,
+      "netIncome": 868000000.0,
+      "eps": 0.66,
+      "freeCashFlow": 1471000000.0,
+      "totalDebt": 13484000000.0,
+      "cash": 4163000000.0,
+      "sharesOutstanding": 1281000000.0,
+      "grossMargin": 0.3335906793935991,
+      "operatingMargin": 0.07815131948343627,
+      "netMargin": 0.030460415496911846,
+      "roe": 0.0436971405557793,
+      "roic": 0.06678061652872735
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 29135000000.0,
+      "operatingIncome": 2442000000.0,
+      "netIncome": 2025000000.0,
+      "eps": 1.54,
+      "freeCashFlow": 1600000000.0,
+      "totalDebt": 13515000000.0,
+      "cash": 4270000000.0,
+      "sharesOutstanding": 1282630000.0,
+      "grossMargin": 0.35143298438304443,
+      "operatingMargin": 0.08381671529088724,
+      "netMargin": 0.06950403295006007,
+      "roe": 0.09560003776791616,
+      "roic": 0.07038072455831916
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 30127000000.0,
+      "operatingIncome": 2494000000.0,
+      "netIncome": 2579000000.0,
+      "eps": 1.93,
+      "freeCashFlow": 1974000000.0,
+      "totalDebt": 19816000000.0,
+      "cash": 14846000000.0,
+      "sharesOutstanding": 1297258235.0,
+      "grossMargin": 0.3278786470607761,
+      "operatingMargin": 0.08278288578351645,
+      "netMargin": 0.08560427523483918,
+      "roe": 0.10392488716956802,
+      "roic": 0.05587918981896397
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 34296000000.0,
+      "operatingIncome": 1644000000.0,
+      "netIncome": 57000000.0,
+      "eps": -0.04,
+      "freeCashFlow": 627000000.0,
+      "totalDebt": 24077000000.0,
+      "cash": 5773000000.0,
+      "sharesOutstanding": 1318292428.0,
+      "grossMargin": 0.3025717284814556,
+      "operatingMargin": 0.04793561931420574,
+      "netMargin": 0.001662001399580126,
+      "roe": 0.002308813998703824,
+      "roic": 0.033712703783451245
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:36.032246+00:00"
+  }
+}

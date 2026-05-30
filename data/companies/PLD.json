@@ -1,0 +1,128 @@
+{
+  "ticker": "PLD",
+  "name": "Prologis, Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "currency": "USD",
+  "marketCap": {
+    "value": 133762531328.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 143.47,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8790127000.0,
+    "operatingIncome": 3414302000.0,
+    "netIncome": 3328231000.0,
+    "eps": 3.56,
+    "freeCashFlow": null,
+    "totalDebt": 35680534000.0,
+    "cash": 1145647000.0,
+    "sharesOutstanding": 929153000.0
+  },
+  "ratios": {
+    "roe": 0.06256875646722969,
+    "roic": 0.03841745689659053,
+    "grossMargin": 0.7457768243849037,
+    "operatingMargin": 0.3884246496097269,
+    "netMargin": 0.37863286844433536,
+    "debtToEquity": 0.60934
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5973692000.0,
+      "operatingIncome": 2280402000.0,
+      "netIncome": 3364856000.0,
+      "eps": 4.25,
+      "freeCashFlow": null,
+      "totalDebt": 24514772000.0,
+      "cash": 278483000.0,
+      "sharesOutstanding": 923142000.0,
+      "grossMargin": 0.747376664213689,
+      "operatingMargin": 0.38174080618819983,
+      "netMargin": 0.5632791245347099,
+      "roe": 0.06320487961800905,
+      "roic": 0.02932915444265948
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8023469000.0,
+      "operatingIncome": 3084483000.0,
+      "netIncome": 3059214000.0,
+      "eps": 3.29,
+      "freeCashFlow": null,
+      "totalDebt": 29598064000.0,
+      "cash": 530388000.0,
+      "sharesOutstanding": 924391000.0,
+      "grossMargin": 0.7494431647956763,
+      "operatingMargin": 0.3844325939316273,
+      "netMargin": 0.38128320804878785,
+      "roe": 0.05752378392246178,
+      "roic": 0.03726130586369707
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8201610000.0,
+      "operatingIncome": 3098041000.0,
+      "netIncome": 3731635000.0,
+      "eps": 4.01,
+      "freeCashFlow": null,
+      "totalDebt": 31494568000.0,
+      "cash": 1318591000.0,
+      "sharesOutstanding": 926283000.0,
+      "grossMargin": 0.7491662002948202,
+      "operatingMargin": 0.3777357128661324,
+      "netMargin": 0.45498810599382317,
+      "roe": 0.06916693768350168,
+      "roic": 0.03625742175973126
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8790127000.0,
+      "operatingIncome": 3414302000.0,
+      "netIncome": 3328231000.0,
+      "eps": 3.56,
+      "freeCashFlow": null,
+      "totalDebt": 35680534000.0,
+      "cash": 1145647000.0,
+      "sharesOutstanding": 929153000.0,
+      "grossMargin": 0.7457768243849037,
+      "operatingMargin": 0.3884246496097269,
+      "netMargin": 0.37863286844433536,
+      "roe": 0.06256875646722969,
+      "roic": 0.03841745689659053
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:08.791770+00:00"
+  }
+}

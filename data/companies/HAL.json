@@ -1,0 +1,128 @@
+{
+  "ticker": "HAL",
+  "name": "Halliburton Company",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 32455200768.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 38.85,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22184000000.0,
+    "operatingIncome": 3091000000.0,
+    "netIncome": 1283000000.0,
+    "eps": 1.5,
+    "freeCashFlow": 1672000000.0,
+    "totalDebt": 8133000000.0,
+    "cash": 2206000000.0,
+    "sharesOutstanding": 1063602102.0
+  },
+  "ratios": {
+    "roe": 0.12264601854507218,
+    "roic": 0.16623642035065075,
+    "grossMargin": 0.1570501262170934,
+    "operatingMargin": 0.13933465560764516,
+    "netMargin": 0.05783447529751172,
+    "debtToEquity": 0.74651
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20297000000.0,
+      "operatingIncome": 3073000000.0,
+      "netIncome": 1572000000.0,
+      "eps": 1.74,
+      "freeCashFlow": 1231000000.0,
+      "totalDebt": 8943000000.0,
+      "cash": 2346000000.0,
+      "sharesOutstanding": 1066000000.0,
+      "grossMargin": 0.16322609252598907,
+      "operatingMargin": 0.15140168497807557,
+      "netMargin": 0.07744986943883332,
+      "roe": 0.19778560644187218,
+      "roic": 0.1819312059676751
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23018000000.0,
+      "operatingIncome": 4083000000.0,
+      "netIncome": 2638000000.0,
+      "eps": 2.92,
+      "freeCashFlow": 2079000000.0,
+      "totalDebt": 8809000000.0,
+      "cash": 2264000000.0,
+      "sharesOutstanding": 1065051742.0,
+      "grossMargin": 0.18941697801720392,
+      "operatingMargin": 0.17738291771656964,
+      "netMargin": 0.114605960552611,
+      "roe": 0.28090725162389524,
+      "roic": 0.22434065934065933
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22944000000.0,
+      "operatingIncome": 3938000000.0,
+      "netIncome": 2501000000.0,
+      "eps": 2.83,
+      "freeCashFlow": 2423000000.0,
+      "totalDebt": 8602000000.0,
+      "cash": 2618000000.0,
+      "sharesOutstanding": 1065000000.0,
+      "grossMargin": 0.18745641562064155,
+      "operatingMargin": 0.17163528591352858,
+      "netMargin": 0.10900453277545327,
+      "roe": 0.23805444507900247,
+      "roic": 0.20609168934477706
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22184000000.0,
+      "operatingIncome": 3091000000.0,
+      "netIncome": 1283000000.0,
+      "eps": 1.5,
+      "freeCashFlow": 1672000000.0,
+      "totalDebt": 8133000000.0,
+      "cash": 2206000000.0,
+      "sharesOutstanding": 1063602102.0,
+      "grossMargin": 0.1570501262170934,
+      "operatingMargin": 0.13933465560764516,
+      "netMargin": 0.05783447529751172,
+      "roe": 0.12264601854507218,
+      "roic": 0.16623642035065075
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:33.798330+00:00"
+  }
+}

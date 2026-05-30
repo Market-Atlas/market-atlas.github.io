@@ -1,0 +1,128 @@
+{
+  "ticker": "EW",
+  "name": "Edwards Lifesciences Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 49789427712.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 86.47,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6067600000.0,
+    "operatingIncome": 1636200000.0,
+    "netIncome": 1073500000.0,
+    "eps": 1.83,
+    "freeCashFlow": 1335000000.0,
+    "totalDebt": 705400000.0,
+    "cash": 2938000000.0,
+    "sharesOutstanding": 658700000.0
+  },
+  "ratios": {
+    "roe": 0.10384421916112056,
+    "roic": 0.14816625916870416,
+    "grossMargin": 0.7801107521919705,
+    "operatingMargin": 0.2696618102709473,
+    "netMargin": 0.17692333047662998,
+    "debtToEquity": 0.06806
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4464000000.0,
+      "operatingIncome": 1539100000.0,
+      "netIncome": 1521900000.0,
+      "eps": 2.44,
+      "freeCashFlow": 953400000.0,
+      "totalDebt": 691300000.0,
+      "cash": 769000000.0,
+      "sharesOutstanding": 646300000.0,
+      "grossMargin": 0.8378808243727599,
+      "operatingMargin": 0.3447804659498208,
+      "netMargin": 0.3409274193548387,
+      "roe": 0.262093788210171,
+      "roic": 0.2368574946137273
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5010000000.0,
+      "operatingIncome": 1486200000.0,
+      "netIncome": 1402400000.0,
+      "eps": 2.3,
+      "freeCashFlow": 629500000.0,
+      "totalDebt": 685100000.0,
+      "cash": 1132300000.0,
+      "sharesOutstanding": 650500000.0,
+      "grossMargin": 0.8047105788423153,
+      "operatingMargin": 0.29664670658682635,
+      "netMargin": 0.2799201596806387,
+      "roe": 0.2108872180451128,
+      "roic": 0.20261482461043476
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5439500000.0,
+      "operatingIncome": 1480100000.0,
+      "netIncome": 4174600000.0,
+      "eps": 6.97,
+      "freeCashFlow": 259900000.0,
+      "totalDebt": 700000000.0,
+      "cash": 3045200000.0,
+      "sharesOutstanding": 654800000.0,
+      "grossMargin": 0.7945583233753102,
+      "operatingMargin": 0.27210221527713946,
+      "netMargin": 0.7674602445077673,
+      "roe": 0.4175268042886862,
+      "roic": 0.13834779032378675
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6067600000.0,
+      "operatingIncome": 1636200000.0,
+      "netIncome": 1073500000.0,
+      "eps": 1.83,
+      "freeCashFlow": 1335000000.0,
+      "totalDebt": 705400000.0,
+      "cash": 2938000000.0,
+      "sharesOutstanding": 658700000.0,
+      "grossMargin": 0.7801107521919705,
+      "operatingMargin": 0.2696618102709473,
+      "netMargin": 0.17692333047662998,
+      "roe": 0.10384421916112056,
+      "roic": 0.14816625916870416
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:21.569414+00:00"
+  }
+}

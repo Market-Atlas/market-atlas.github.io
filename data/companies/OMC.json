@@ -1,0 +1,111 @@
+{
+  "ticker": "OMC",
+  "name": "Omnicom Group Inc.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20722800640.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 72.71,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17271900000.0,
+    "operatingIncome": 444700000.0,
+    "netIncome": -54500000.0,
+    "eps": -0.27,
+    "freeCashFlow": 2788400000.0,
+    "totalDebt": 10733500000.0,
+    "cash": 6881100000.0,
+    "sharesOutstanding": 421600000.0
+  },
+  "ratios": {
+    "roe": -0.004524398545551147,
+    "roic": 0.01952210998582046,
+    "grossMargin": 0.08494143666880888,
+    "operatingMargin": 0.02574702262055709,
+    "netMargin": -0.003155414285631575,
+    "debtToEquity": 1.10574
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14289100000.0,
+      "operatingIncome": 2083300000.0,
+      "netIncome": 1316500000.0,
+      "eps": 6.36,
+      "freeCashFlow": 848300000.0,
+      "totalDebt": 6494100000.0,
+      "cash": 4281800000.0,
+      "sharesOutstanding": 297200000.0,
+      "grossMargin": 0.18763952943152473,
+      "operatingMargin": 0.14579644624224058,
+      "netMargin": 0.09213316444002771,
+      "roe": 0.40481535008148584,
+      "roic": 0.2137551045535696
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14692200000.0,
+      "operatingIncome": 2104700000.0,
+      "netIncome": 1391400000.0,
+      "eps": 6.91,
+      "freeCashFlow": 1343500000.0,
+      "totalDebt": 6503500000.0,
+      "cash": 4432000000.0,
+      "sharesOutstanding": 297200000.0,
+      "grossMargin": 0.18441758211840295,
+      "operatingMargin": 0.14325288248186113,
+      "netMargin": 0.09470331196144893,
+      "roe": 0.3847579017227553,
+      "roic": 0.20797841854582105
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15689100000.0,
+      "operatingIncome": 2274600000.0,
+      "netIncome": 1480600000.0,
+      "eps": 7.46,
+      "freeCashFlow": 1592900000.0,
+      "totalDebt": 6870800000.0,
+      "cash": 4339400000.0,
+      "sharesOutstanding": 297217440.0,
+      "grossMargin": 0.18639692525383866,
+      "operatingMargin": 0.1449796355431478,
+      "netMargin": 0.09437125137834547,
+      "roe": 0.3530702277333969,
+      "roic": 0.2055801089992137
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17271900000.0,
+      "operatingIncome": 444700000.0,
+      "netIncome": -54500000.0,
+      "eps": -0.27,
+      "freeCashFlow": 2788400000.0,
+      "totalDebt": 10733500000.0,
+      "cash": 6881100000.0,
+      "sharesOutstanding": 421600000.0,
+      "grossMargin": 0.08494143666880888,
+      "operatingMargin": 0.02574702262055709,
+      "netMargin": -0.003155414285631575,
+      "roe": -0.004524398545551147,
+      "roic": 0.01952210998582046
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:04.911350+00:00"
+  }
+}

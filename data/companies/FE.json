@@ -1,0 +1,128 @@
+{
+  "ticker": "FE",
+  "name": "FirstEnergy Corp.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "USD",
+  "marketCap": {
+    "value": 26833422336.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 46.39,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15090000000.0,
+    "operatingIncome": 2833000000.0,
+    "netIncome": 1020000000.0,
+    "eps": 1.76,
+    "freeCashFlow": -1005000000.0,
+    "totalDebt": 26556000000.0,
+    "cash": 57000000.0,
+    "sharesOutstanding": 577851052.0
+  },
+  "ratios": {
+    "roe": 0.0815347721822542,
+    "roic": 0.07251830236010853,
+    "grossMargin": 0.6530815109343936,
+    "operatingMargin": 0.187740225314778,
+    "netMargin": 0.06759443339960239,
+    "debtToEquity": 1.98922
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12459000000.0,
+      "operatingIncome": 1910000000.0,
+      "netIncome": 406000000.0,
+      "eps": 0.71,
+      "freeCashFlow": -165000000.0,
+      "totalDebt": 21654000000.0,
+      "cash": 160000000.0,
+      "sharesOutstanding": 572130932.0,
+      "grossMargin": 0.6313508307247773,
+      "operatingMargin": 0.1533028332932017,
+      "netMargin": 0.0325868849827434,
+      "roe": 0.039937045052134565,
+      "roic": 0.06002514142049026
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12870000000.0,
+      "operatingIncome": 2281000000.0,
+      "netIncome": 1102000000.0,
+      "eps": 1.92,
+      "freeCashFlow": -1969000000.0,
+      "totalDebt": 24910000000.0,
+      "cash": 137000000.0,
+      "sharesOutstanding": 574335396.0,
+      "grossMargin": 0.639005439005439,
+      "operatingMargin": 0.17723387723387724,
+      "netMargin": 0.08562548562548562,
+      "roe": 0.10558589633036312,
+      "roic": 0.06453164342094096
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13472000000.0,
+      "operatingIncome": 2490000000.0,
+      "netIncome": 978000000.0,
+      "eps": 1.7,
+      "freeCashFlow": -1139000000.0,
+      "totalDebt": 24023000000.0,
+      "cash": 111000000.0,
+      "sharesOutstanding": 576612245.0,
+      "grossMargin": 0.6751781472684085,
+      "operatingMargin": 0.18482779097387173,
+      "netMargin": 0.07259501187648457,
+      "roe": 0.07852268165395423,
+      "roic": 0.06826032128954439
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15090000000.0,
+      "operatingIncome": 2833000000.0,
+      "netIncome": 1020000000.0,
+      "eps": 1.76,
+      "freeCashFlow": -1005000000.0,
+      "totalDebt": 26556000000.0,
+      "cash": 57000000.0,
+      "sharesOutstanding": 577851052.0,
+      "grossMargin": 0.6530815109343936,
+      "operatingMargin": 0.187740225314778,
+      "netMargin": 0.06759443339960239,
+      "roe": 0.0815347721822542,
+      "roic": 0.07251830236010853
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:24.727307+00:00"
+  }
+}

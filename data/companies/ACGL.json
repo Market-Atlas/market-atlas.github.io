@@ -1,0 +1,128 @@
+{
+  "ticker": "ACGL",
+  "name": "Arch Capital Group Ltd.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 31214465024.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 89.34,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19294000000.0,
+    "operatingIncome": null,
+    "netIncome": 4399000000.0,
+    "eps": 11.6,
+    "freeCashFlow": 6128000000.0,
+    "totalDebt": 2729000000.0,
+    "cash": 993000000.0,
+    "sharesOutstanding": 599800000.0
+  },
+  "ratios": {
+    "roe": 0.1817318020325539,
+    "roic": null,
+    "grossMargin": 0.39369,
+    "operatingMargin": 0.25282,
+    "netMargin": 0.22799834145330156,
+    "debtToEquity": 0.11282
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9613000000.0,
+      "operatingIncome": null,
+      "netIncome": 1476000000.0,
+      "eps": 3.8,
+      "freeCashFlow": 3766000000.0,
+      "totalDebt": 2725000000.0,
+      "cash": 855000000.0,
+      "sharesOutstanding": 588250762.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15354207843545198,
+      "roe": 0.11432997676219984,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13297000000.0,
+      "operatingIncome": null,
+      "netIncome": 4443000000.0,
+      "eps": 11.62,
+      "freeCashFlow": 5697000000.0,
+      "totalDebt": 2726000000.0,
+      "cash": 917000000.0,
+      "sharesOutstanding": 591900000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3341355192900654,
+      "roe": 0.24208576254563285,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16930000000.0,
+      "operatingIncome": null,
+      "netIncome": 4312000000.0,
+      "eps": 11.19,
+      "freeCashFlow": 6622000000.0,
+      "totalDebt": 2728000000.0,
+      "cash": 979000000.0,
+      "sharesOutstanding": 595600000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.254695806261075,
+      "roe": 0.20710854947166185,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 19294000000.0,
+      "operatingIncome": null,
+      "netIncome": 4399000000.0,
+      "eps": 11.6,
+      "freeCashFlow": 6128000000.0,
+      "totalDebt": 2729000000.0,
+      "cash": 993000000.0,
+      "sharesOutstanding": 599800000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22799834145330156,
+      "roe": 0.1817318020325539,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:37.819455+00:00"
+  }
+}

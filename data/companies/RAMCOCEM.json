@@ -1,0 +1,128 @@
+{
+  "ticker": "RAMCOCEM",
+  "name": "The Ramco Cements Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 205857931264.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 871.2,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 90287600000.0,
+    "operatingIncome": 6958200000.0,
+    "netIncome": 6986500000.0,
+    "eps": null,
+    "freeCashFlow": 6143900000.0,
+    "totalDebt": 38711000000.0,
+    "cash": 1883200000.0,
+    "sharesOutstanding": 236292380.0
+  },
+  "ratios": {
+    "roe": 0.08632225079106592,
+    "roic": 0.058156513250327425,
+    "grossMargin": 0.5597058732317616,
+    "operatingMargin": 0.07706706125758132,
+    "netMargin": 0.07738050407807938,
+    "debtToEquity": 0.47827
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 39.0,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 81223600000.0,
+      "operatingIncome": 6803800000.0,
+      "netIncome": 3145200000.0,
+      "eps": 13.76,
+      "freeCashFlow": -3542900000.0,
+      "totalDebt": 45071100000.0,
+      "cash": 1367000000.0,
+      "sharesOutstanding": 236292380.0,
+      "grossMargin": 0.44185680024032425,
+      "operatingMargin": 0.08376629452523651,
+      "netMargin": 0.03872273575660276,
+      "roe": 0.04584131314986314,
+      "roic": 0.05984956241857749
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 93486900000.0,
+      "operatingIncome": 9196800000.0,
+      "netIncome": 3599500000.0,
+      "eps": 15.77,
+      "freeCashFlow": -244100000.0,
+      "totalDebt": 49365000000.0,
+      "cash": 957900000.0,
+      "sharesOutstanding": 236292380.0,
+      "grossMargin": 0.4790211248848769,
+      "operatingMargin": 0.09837528038687773,
+      "netMargin": 0.038502720702044885,
+      "roe": 0.04973127564625098,
+      "roic": 0.07554212117229596
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 85184000000.0,
+      "operatingIncome": 5374900000.0,
+      "netIncome": 2726500000.0,
+      "eps": 11.53,
+      "freeCashFlow": 3747600000.0,
+      "totalDebt": 46746100000.0,
+      "cash": 1714300000.0,
+      "sharesOutstanding": 236292380.0,
+      "grossMargin": 0.5545759767092412,
+      "operatingMargin": 0.06309753005259204,
+      "netMargin": 0.032007184447783624,
+      "roe": 0.036638379929182376,
+      "roic": 0.04436104870644902
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 90287600000.0,
+      "operatingIncome": 6958200000.0,
+      "netIncome": 6986500000.0,
+      "eps": null,
+      "freeCashFlow": 6143900000.0,
+      "totalDebt": 38711000000.0,
+      "cash": 1883200000.0,
+      "sharesOutstanding": 236292380.0,
+      "grossMargin": 0.5597058732317616,
+      "operatingMargin": 0.07706706125758132,
+      "netMargin": 0.07738050407807938,
+      "roe": 0.08632225079106592,
+      "roic": 0.058156513250327425
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:47.589069+00:00"
+  }
+}

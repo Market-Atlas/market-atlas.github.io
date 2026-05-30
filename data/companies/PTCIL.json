@@ -1,0 +1,111 @@
+{
+  "ticker": "PTCIL",
+  "name": "PTC Industries Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "currency": "INR",
+  "marketCap": {
+    "value": 242744360960.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16191.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3033850000.0,
+    "operatingIncome": 556738000.0,
+    "netIncome": 610185000.0,
+    "eps": 41.33,
+    "freeCashFlow": -1763986000.0,
+    "totalDebt": 608335000.0,
+    "cash": 1895481000.0,
+    "sharesOutstanding": 14984126.0
+  },
+  "ratios": {
+    "roe": 0.044003931172179024,
+    "roic": 0.03846220539681796,
+    "grossMargin": 0.5151889513324653,
+    "operatingMargin": 0.1835087430162994,
+    "netMargin": 0.20112563244722054,
+    "debtToEquity": 0.12655
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1763514000.0,
+      "operatingIncome": 279884000.0,
+      "netIncome": 128115000.0,
+      "eps": 3.938038,
+      "freeCashFlow": -33369000.0,
+      "totalDebt": 1962322000.0,
+      "cash": 13476000.0,
+      "sharesOutstanding": 13050967.0,
+      "grossMargin": 0.42226089500848873,
+      "operatingMargin": 0.1587081248008238,
+      "netMargin": 0.07264756616618864,
+      "roe": 0.07602280535811984,
+      "roic": 0.07673226338847552
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2150176000.0,
+      "operatingIncome": 441937000.0,
+      "netIncome": 258151000.0,
+      "eps": 19.54,
+      "freeCashFlow": -494229000.0,
+      "totalDebt": 1766478000.0,
+      "cash": 68947000.0,
+      "sharesOutstanding": 13382257.0,
+      "grossMargin": 0.4659088372300686,
+      "operatingMargin": 0.20553526781063503,
+      "netMargin": 0.12006040435759677,
+      "roe": 0.08418037846621107,
+      "roic": 0.09143929623913667
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2515943000.0,
+      "operatingIncome": 567947000.0,
+      "netIncome": 422158000.0,
+      "eps": 30.35,
+      "freeCashFlow": -2128046000.0,
+      "totalDebt": 1818913000.0,
+      "cash": 1343010000.0,
+      "sharesOutstanding": 14440873.0,
+      "grossMargin": 0.4710043113059398,
+      "operatingMargin": 0.22573921587253765,
+      "netMargin": 0.16779314952683747,
+      "roe": 0.06539006529743822,
+      "roic": 0.06863483332565953
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3033850000.0,
+      "operatingIncome": 556738000.0,
+      "netIncome": 610185000.0,
+      "eps": 41.33,
+      "freeCashFlow": -1763986000.0,
+      "totalDebt": 608335000.0,
+      "cash": 1895481000.0,
+      "sharesOutstanding": 14984126.0,
+      "grossMargin": 0.5151889513324653,
+      "operatingMargin": 0.1835087430162994,
+      "netMargin": 0.20112563244722054,
+      "roe": 0.044003931172179024,
+      "roic": 0.03846220539681796
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:45.545532+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ITI",
+  "name": "ITI Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 289240711168.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 300.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 36164200000.0,
+    "operatingIncome": -1290900000.0,
+    "netIncome": -2148900000.0,
+    "eps": -2.24,
+    "freeCashFlow": -1511800000.0,
+    "totalDebt": 14808000000.0,
+    "cash": 1486600000.0,
+    "sharesOutstanding": 960886938.0
+  },
+  "ratios": {
+    "roe": -0.13227418779007497,
+    "roic": -0.04156979178071605,
+    "grossMargin": 0.06247615044712727,
+    "operatingMargin": -0.03569552209090758,
+    "netMargin": -0.059420642513867306,
+    "debtToEquity": 0.8713500000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 18607313000.0,
+      "operatingIncome": 2818069000.0,
+      "netIncome": 1187115000.0,
+      "eps": 1.27,
+      "freeCashFlow": -4976134000.0,
+      "totalDebt": 16128740000.0,
+      "cash": 155654000.0,
+      "sharesOutstanding": 933522869.0,
+      "grossMargin": 0.20336348402372767,
+      "operatingMargin": 0.15144954029633403,
+      "netMargin": 0.06379830338749072,
+      "roe": 0.04551860763824104,
+      "roic": 0.066765416095909
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13954253000.0,
+      "operatingIncome": -1927269000.0,
+      "netIncome": -3598537000.0,
+      "eps": -3.81,
+      "freeCashFlow": -3542415000.0,
+      "totalDebt": 18765819000.0,
+      "cash": 93578000.0,
+      "sharesOutstanding": 949577352.0,
+      "grossMargin": 0.105837410286312,
+      "operatingMargin": -0.13811337661715034,
+      "netMargin": -0.2578810202165605,
+      "roe": -0.15155133315370006,
+      "roic": -0.04533631261345287
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 12636300000.0,
+      "operatingIncome": -3519807000.0,
+      "netIncome": -5689200000.0,
+      "eps": -5.92,
+      "freeCashFlow": 9362538000.0,
+      "totalDebt": 18012944000.0,
+      "cash": 1182686000.0,
+      "sharesOutstanding": 960886938.0,
+      "grossMargin": -0.01802790373764472,
+      "operatingMargin": -0.27854728045393035,
+      "netMargin": -0.4502267277604995,
+      "roe": -0.31883402198650096,
+      "roic": -0.09816313046670677
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 36164200000.0,
+      "operatingIncome": -1290900000.0,
+      "netIncome": -2148900000.0,
+      "eps": -2.24,
+      "freeCashFlow": -1511800000.0,
+      "totalDebt": 14808000000.0,
+      "cash": 1486600000.0,
+      "sharesOutstanding": 960886938.0,
+      "grossMargin": 0.06247615044712727,
+      "operatingMargin": -0.03569552209090758,
+      "netMargin": -0.059420642513867306,
+      "roe": -0.13227418779007497,
+      "roic": -0.04156979178071605
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:05.762343+00:00"
+  }
+}

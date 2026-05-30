@@ -1,0 +1,128 @@
+{
+  "ticker": "TGT",
+  "name": "Target Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "USD",
+  "marketCap": {
+    "value": 57712287744.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 127.07,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 104780000000.0,
+    "operatingIncome": 5117000000.0,
+    "netIncome": 3705000000.0,
+    "eps": 8.13,
+    "freeCashFlow": 2835000000.0,
+    "totalDebt": 20290000000.0,
+    "cash": 5488000000.0,
+    "sharesOutstanding": 452840187.0
+  },
+  "ratios": {
+    "roe": 0.2291988864831426,
+    "roic": 0.14036483335619257,
+    "grossMargin": 0.2793376598587517,
+    "operatingMargin": 0.048835655659477,
+    "netMargin": 0.03535980148883375,
+    "debtToEquity": 1.1715200000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 109120000000.0,
+      "operatingIncome": 3848000000.0,
+      "netIncome": 2780000000.0,
+      "eps": 5.98,
+      "freeCashFlow": -1510000000.0,
+      "totalDebt": 19073000000.0,
+      "cash": 2229000000.0,
+      "sharesOutstanding": 460346947.0,
+      "grossMargin": 0.24572947214076246,
+      "operatingMargin": 0.03526392961876833,
+      "netMargin": 0.025476539589442817,
+      "roe": 0.2475071225071225,
+      "roic": 0.12697574657647254
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 107412000000.0,
+      "operatingIncome": 5707000000.0,
+      "netIncome": 4138000000.0,
+      "eps": 8.94,
+      "freeCashFlow": 3815000000.0,
+      "totalDebt": 19646000000.0,
+      "cash": 3805000000.0,
+      "sharesOutstanding": 461675441.0,
+      "grossMargin": 0.2754254645663427,
+      "operatingMargin": 0.05313186608572599,
+      "netMargin": 0.03852455963951886,
+      "roe": 0.30807027992852887,
+      "roic": 0.17253159199467924
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 106566000000.0,
+      "operatingIncome": 5566000000.0,
+      "netIncome": 4091000000.0,
+      "eps": 8.86,
+      "freeCashFlow": 4476000000.0,
+      "totalDebt": 19875000000.0,
+      "cash": 4762000000.0,
+      "sharesOutstanding": 455566995.0,
+      "grossMargin": 0.28211624720830286,
+      "operatingMargin": 0.052230542574554735,
+      "netMargin": 0.03838935495373759,
+      "roe": 0.27894449747715805,
+      "roic": 0.16114183144668653
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 104780000000.0,
+      "operatingIncome": 5117000000.0,
+      "netIncome": 3705000000.0,
+      "eps": 8.13,
+      "freeCashFlow": 2835000000.0,
+      "totalDebt": 20290000000.0,
+      "cash": 5488000000.0,
+      "sharesOutstanding": 452840187.0,
+      "grossMargin": 0.2793376598587517,
+      "operatingMargin": 0.048835655659477,
+      "netMargin": 0.03535980148883375,
+      "roe": 0.2291988864831426,
+      "roic": 0.14036483335619257
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:26.310059+00:00"
+  }
+}

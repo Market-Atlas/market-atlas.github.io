@@ -1,0 +1,128 @@
+{
+  "ticker": "ITC",
+  "name": "ITC Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3594704388096.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 286.9,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 782132800000.0,
+    "operatingIncome": 256073800000.0,
+    "netIncome": 206894700000.0,
+    "eps": 16.51,
+    "freeCashFlow": 162814200000.0,
+    "totalDebt": 23990600000.0,
+    "cash": 6434600000.0,
+    "sharesOutstanding": 12529468231.0
+  },
+  "ratios": {
+    "roe": 0.2853432688846502,
+    "roic": 0.3418585551347042,
+    "grossMargin": 0.5838573705130382,
+    "operatingMargin": 0.32740450215104133,
+    "netMargin": 0.26452630550719775,
+    "debtToEquity": 0.03292
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 702452200000.0,
+      "operatingIncome": 238967000000.0,
+      "netIncome": 191916600000.0,
+      "eps": 15.46,
+      "freeCashFlow": 161345600000.0,
+      "totalDebt": 3063400000.0,
+      "cash": 4633500000.0,
+      "sharesOutstanding": 12428017741.0,
+      "grossMargin": 0.5806046304645355,
+      "operatingMargin": 0.3401896954696704,
+      "netMargin": 0.2732094795916363,
+      "roe": 0.27751554979332016,
+      "roic": 0.3440274914485126
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 673910400000.0,
+      "operatingIncome": 236694800000.0,
+      "netIncome": 204587800000.0,
+      "eps": 16.38,
+      "freeCashFlow": 136163300000.0,
+      "totalDebt": 3037300000.0,
+      "cash": 6258900000.0,
+      "sharesOutstanding": 12484721471.0,
+      "grossMargin": 0.5942214276556647,
+      "operatingMargin": 0.35122591964747835,
+      "netMargin": 0.3035830876033372,
+      "roe": 0.2745886963641,
+      "roic": 0.31639151228707435
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 746533200000.0,
+      "operatingIncome": 243318900000.0,
+      "netIncome": 347466300000.0,
+      "eps": 27.75,
+      "freeCashFlow": 153483400000.0,
+      "totalDebt": 2848400000.0,
+      "cash": 6200000000.0,
+      "sharesOutstanding": 12514119781.0,
+      "grossMargin": 0.5716370015425972,
+      "operatingMargin": 0.3259317870926571,
+      "netMargin": 0.4654398491587514,
+      "roe": 0.4961674309814144,
+      "roic": 0.34604178432192667
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 782132800000.0,
+      "operatingIncome": 256073800000.0,
+      "netIncome": 206894700000.0,
+      "eps": 16.51,
+      "freeCashFlow": 162814200000.0,
+      "totalDebt": 23990600000.0,
+      "cash": 6434600000.0,
+      "sharesOutstanding": 12529468231.0,
+      "grossMargin": 0.5838573705130382,
+      "operatingMargin": 0.32740450215104133,
+      "netMargin": 0.26452630550719775,
+      "roe": 0.2853432688846502,
+      "roic": 0.3418585551347042
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:26.402976+00:00"
+  }
+}

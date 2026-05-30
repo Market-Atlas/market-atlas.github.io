@@ -1,0 +1,128 @@
+{
+  "ticker": "TEJASNET",
+  "name": "Tejas Networks Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "INR",
+  "marketCap": {
+    "value": 92367208448.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 520.4,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10974700000.0,
+    "operatingIncome": -10845600000.0,
+    "netIncome": -9088900000.0,
+    "eps": -51.35,
+    "freeCashFlow": -7487000000.0,
+    "totalDebt": 41770800000.0,
+    "cash": 1026800000.0,
+    "sharesOutstanding": 177741862.0
+  },
+  "ratios": {
+    "roe": -0.31010928495634404,
+    "roic": -0.1525840783910973,
+    "grossMargin": 0.30113807211131055,
+    "operatingMargin": -0.9882365804987836,
+    "netMargin": -0.8281684237382343,
+    "debtToEquity": 1.4252
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 9195700000.0,
+      "operatingIncome": -1036000000.0,
+      "netIncome": -364100000.0,
+      "eps": -2.46,
+      "freeCashFlow": -6293100000.0,
+      "totalDebt": 498200000.0,
+      "cash": 853900000.0,
+      "sharesOutstanding": 168370853.0,
+      "grossMargin": 0.39022586643757406,
+      "operatingMargin": -0.11266135258870993,
+      "netMargin": -0.039594593125047574,
+      "roe": -0.012247053441687746,
+      "roic": -0.03427308636420778
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 23143200000.0,
+      "operatingIncome": 1042100000.0,
+      "netIncome": 629800000.0,
+      "eps": 3.65,
+      "freeCashFlow": -24449200000.0,
+      "totalDebt": 18843200000.0,
+      "cash": 1925500000.0,
+      "sharesOutstanding": 170708060.0,
+      "grossMargin": 0.3134009125790729,
+      "operatingMargin": 0.04502834525908258,
+      "netMargin": 0.027213177088734487,
+      "roe": 0.01999688838510362,
+      "roic": 0.02070201298817397
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 84549600000.0,
+      "operatingIncome": 9046400000.0,
+      "netIncome": 4465300000.0,
+      "eps": 25.38,
+      "freeCashFlow": -11427600000.0,
+      "totalDebt": 34068700000.0,
+      "cash": 3318800000.0,
+      "sharesOutstanding": 176322440.0,
+      "grossMargin": 0.2286373915429523,
+      "operatingMargin": 0.10699518389205863,
+      "netMargin": 0.052812786813893856,
+      "roe": 0.116092784791697,
+      "roic": 0.12472305289121062
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 10974700000.0,
+      "operatingIncome": -10845600000.0,
+      "netIncome": -9088900000.0,
+      "eps": -51.35,
+      "freeCashFlow": -7487000000.0,
+      "totalDebt": 41770800000.0,
+      "cash": 1026800000.0,
+      "sharesOutstanding": 177741862.0,
+      "grossMargin": 0.30113807211131055,
+      "operatingMargin": -0.9882365804987836,
+      "netMargin": -0.8281684237382343,
+      "roe": -0.31010928495634404,
+      "roic": -0.1525840783910973
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:05.165004+00:00"
+  }
+}

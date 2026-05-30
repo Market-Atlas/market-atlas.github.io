@@ -1,0 +1,128 @@
+{
+  "ticker": "ULTRACEMCO",
+  "name": "UltraTech Cement Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "INR",
+  "marketCap": {
+    "value": 3377655709696.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 11482.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 885115300000.0,
+    "operatingIncome": 123757700000.0,
+    "netIncome": 81656400000.0,
+    "eps": null,
+    "freeCashFlow": 56380900000.0,
+    "totalDebt": 237550900000.0,
+    "cash": 3544800000.0,
+    "sharesOutstanding": 294679171.0
+  },
+  "ratios": {
+    "roe": 0.10656829480861886,
+    "roic": 0.12329088372694468,
+    "grossMargin": 0.8058065429441791,
+    "operatingMargin": 0.13982099281302673,
+    "netMargin": 0.0922550994203806,
+    "debtToEquity": 0.29431999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 254.53,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 623376000000.0,
+      "operatingIncome": 75771500000.0,
+      "netIncome": 50639600000.0,
+      "eps": 175.54,
+      "freeCashFlow": 28684000000.0,
+      "totalDebt": 110577400000.0,
+      "cash": 3703700000.0,
+      "sharesOutstanding": 288686345.0,
+      "grossMargin": 0.7942293254793255,
+      "operatingMargin": 0.12155023613356947,
+      "netMargin": 0.0812344395677729,
+      "roe": 0.09321680404472822,
+      "roic": 0.11588996284620237
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 698095300000.0,
+      "operatingIncome": 96682900000.0,
+      "netIncome": 70050000000.0,
+      "eps": 242.87,
+      "freeCashFlow": 18919500000.0,
+      "totalDebt": 114029500000.0,
+      "cash": 5535800000.0,
+      "sharesOutstanding": 288697318.0,
+      "grossMargin": 0.7805152104590878,
+      "operatingMargin": 0.13849527421256094,
+      "netMargin": 0.10034446586304191,
+      "roe": 0.11630903368362748,
+      "roic": 0.13497461902713692
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 759551300000.0,
+      "operatingIncome": 85425000000.0,
+      "netIncome": 60391100000.0,
+      "eps": 205.13,
+      "freeCashFlow": 15441000000.0,
+      "totalDebt": 241021800000.0,
+      "cash": 4672100000.0,
+      "sharesOutstanding": 294677410.0,
+      "grossMargin": 0.819581244874441,
+      "operatingMargin": 0.1124677161371457,
+      "netMargin": 0.079508915329353,
+      "roe": 0.08541063323922164,
+      "roic": 0.09010225300459503
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 885115300000.0,
+      "operatingIncome": 123757700000.0,
+      "netIncome": 81656400000.0,
+      "eps": null,
+      "freeCashFlow": 56380900000.0,
+      "totalDebt": 237550900000.0,
+      "cash": 3544800000.0,
+      "sharesOutstanding": 294679171.0,
+      "grossMargin": 0.8058065429441791,
+      "operatingMargin": 0.13982099281302673,
+      "netMargin": 0.0922550994203806,
+      "roe": 0.10656829480861886,
+      "roic": 0.12329088372694468
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:27.561601+00:00"
+  }
+}

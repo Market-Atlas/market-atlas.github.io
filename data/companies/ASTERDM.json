@@ -1,0 +1,111 @@
+{
+  "ticker": "ASTERDM",
+  "name": "Aster DM Healthcare Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "INR",
+  "marketCap": {
+    "value": 376510709760.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 728.35,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40694200000.0,
+    "operatingIncome": 5254800000.0,
+    "netIncome": 53778300000.0,
+    "eps": 107.85,
+    "freeCashFlow": 683200000.0,
+    "totalDebt": 20177700000.0,
+    "cash": 1645900000.0,
+    "sharesOutstanding": 499513060.0
+  },
+  "ratios": {
+    "roe": 1.5687631816153111,
+    "roic": 0.09649200123396942,
+    "grossMargin": 0.7694044851600473,
+    "operatingMargin": 0.12912896678150695,
+    "netMargin": 1.3215224774046423,
+    "debtToEquity": 0.45921
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 102532800000.0,
+      "operatingIncome": 8426700000.0,
+      "netIncome": 5259900000.0,
+      "eps": 10.57,
+      "freeCashFlow": 7660700000.0,
+      "totalDebt": 49071300000.0,
+      "cash": 3433700000.0,
+      "sharesOutstanding": 499513060.0,
+      "grossMargin": 0.7179663483295101,
+      "operatingMargin": 0.08218540798651748,
+      "netMargin": 0.0512996816628435,
+      "roe": 0.13304716687619042,
+      "roic": 0.0951036844255542
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 29518000000.0,
+      "operatingIncome": 2657500000.0,
+      "netIncome": 4249100000.0,
+      "eps": 8.53,
+      "freeCashFlow": 9861000000.0,
+      "totalDebt": 57003000000.0,
+      "cash": 3785300000.0,
+      "sharesOutstanding": 499513060.0,
+      "grossMargin": 0.7343586963886443,
+      "operatingMargin": 0.09002981231790771,
+      "netMargin": 0.14394945457009284,
+      "roe": 0.09552682399332744,
+      "roic": 0.026186471324951693
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 36381900000.0,
+      "operatingIncome": 3669800000.0,
+      "netIncome": 1292800000.0,
+      "eps": 2.6,
+      "freeCashFlow": -6477700000.0,
+      "totalDebt": 13837500000.0,
+      "cash": 822300000.0,
+      "sharesOutstanding": 499513060.0,
+      "grossMargin": 0.7482484422198951,
+      "operatingMargin": 0.10086883862580019,
+      "netMargin": 0.03553415297166998,
+      "roe": 0.028352182885615345,
+      "roic": 0.06174434764466968
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 40694200000.0,
+      "operatingIncome": 5254800000.0,
+      "netIncome": 53778300000.0,
+      "eps": 107.85,
+      "freeCashFlow": 683200000.0,
+      "totalDebt": 20177700000.0,
+      "cash": 1645900000.0,
+      "sharesOutstanding": 499513060.0,
+      "grossMargin": 0.7694044851600473,
+      "operatingMargin": 0.12912896678150695,
+      "netMargin": 1.3215224774046423,
+      "roe": 1.5687631816153111,
+      "roic": 0.09649200123396942
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:55.063527+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "KHC",
+  "name": "The Kraft Heinz Company",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 28470521856.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.01,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24942000000.0,
+    "operatingIncome": 4637000000.0,
+    "netIncome": -5846000000.0,
+    "eps": -4.93,
+    "freeCashFlow": 3661000000.0,
+    "totalDebt": 21219000000.0,
+    "cash": 2615000000.0,
+    "sharesOutstanding": 1256655579.0
+  },
+  "ratios": {
+    "roe": -0.14031298003072196,
+    "roic": 0.07374012054132277,
+    "grossMargin": 0.33313286825435007,
+    "operatingMargin": 0.18591131424905782,
+    "netMargin": -0.2343837703472055,
+    "debtToEquity": 0.50258
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 26485000000.0,
+      "operatingIncome": 4547000000.0,
+      "netIncome": 2363000000.0,
+      "eps": 1.91,
+      "freeCashFlow": 1553000000.0,
+      "totalDebt": 20070000000.0,
+      "cash": 1040000000.0,
+      "sharesOutstanding": 1242930164.0,
+      "grossMargin": 0.30666414951859544,
+      "operatingMargin": 0.17168208419860298,
+      "netMargin": 0.08922031338493487,
+      "roe": 0.04854348987222154,
+      "roic": 0.06614010589398964
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 26640000000.0,
+      "operatingIncome": 5234000000.0,
+      "netIncome": 2855000000.0,
+      "eps": 2.31,
+      "freeCashFlow": 2963000000.0,
+      "totalDebt": 20032000000.0,
+      "cash": 1400000000.0,
+      "sharesOutstanding": 1249000000.0,
+      "grossMargin": 0.33506006006006006,
+      "operatingMargin": 0.19647147147147148,
+      "netMargin": 0.10716966966966968,
+      "roe": 0.05764648871299923,
+      "roic": 0.07524655683027114
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25846000000.0,
+      "operatingIncome": 5352000000.0,
+      "netIncome": 2744000000.0,
+      "eps": 2.26,
+      "freeCashFlow": 3020000000.0,
+      "totalDebt": 19869000000.0,
+      "cash": 1334000000.0,
+      "sharesOutstanding": 1254000000.0,
+      "grossMargin": 0.34697825582295133,
+      "operatingMargin": 0.20707266114679254,
+      "netMargin": 0.1061672986148727,
+      "roe": 0.05578936667683237,
+      "roic": 0.07750456164740638
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24942000000.0,
+      "operatingIncome": 4637000000.0,
+      "netIncome": -5846000000.0,
+      "eps": -4.93,
+      "freeCashFlow": 3661000000.0,
+      "totalDebt": 21219000000.0,
+      "cash": 2615000000.0,
+      "sharesOutstanding": 1256655579.0,
+      "grossMargin": 0.33313286825435007,
+      "operatingMargin": 0.18591131424905782,
+      "netMargin": -0.2343837703472055,
+      "roe": -0.14031298003072196,
+      "roic": 0.07374012054132277
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:35:45.183996+00:00"
+  }
+}

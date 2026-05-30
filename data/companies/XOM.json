@@ -1,0 +1,128 @@
+{
+  "ticker": "XOM",
+  "name": "Exxon Mobil Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "marketCap": {
+    "value": 602095026176.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 145.26,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 323905000000.0,
+    "operatingIncome": 33938000000.0,
+    "netIncome": 28844000000.0,
+    "eps": 6.7,
+    "freeCashFlow": 23612000000.0,
+    "totalDebt": 43537000000.0,
+    "cash": 10681000000.0,
+    "sharesOutstanding": 8019000000.0
+  },
+  "ratios": {
+    "roe": 0.11120106713546606,
+    "roic": 0.11203507161886024,
+    "grossMargin": 0.21994103209274324,
+    "operatingMargin": 0.10477763541779225,
+    "netMargin": 0.08905080193266544,
+    "debtToEquity": 0.18261
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 398675000000.0,
+      "operatingIncome": 64028000000.0,
+      "netIncome": 55740000000.0,
+      "eps": 13.26,
+      "freeCashFlow": 58390000000.0,
+      "totalDebt": 41193000000.0,
+      "cash": 29640000000.0,
+      "sharesOutstanding": 8019000000.0,
+      "grossMargin": 0.25852386028720137,
+      "operatingMargin": 0.16060199410547438,
+      "netMargin": 0.13981313099642567,
+      "roe": 0.2857743438828192,
+      "roic": 0.27102716705750884
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 334697000000.0,
+      "operatingIncome": 44461000000.0,
+      "netIncome": 36010000000.0,
+      "eps": 8.89,
+      "freeCashFlow": 33450000000.0,
+      "totalDebt": 41573000000.0,
+      "cash": 31539000000.0,
+      "sharesOutstanding": 8019000000.0,
+      "grossMargin": 0.25139753269374987,
+      "operatingMargin": 0.1328395533870934,
+      "netMargin": 0.10758984992396108,
+      "roe": 0.17582836105116162,
+      "roic": 0.18046067985794012
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 339247000000.0,
+      "operatingIncome": 39652000000.0,
+      "netIncome": 33680000000.0,
+      "eps": 7.84,
+      "freeCashFlow": 30716000000.0,
+      "totalDebt": 41710000000.0,
+      "cash": 23029000000.0,
+      "sharesOutstanding": 8019094536.0,
+      "grossMargin": 0.22621275943486605,
+      "operatingMargin": 0.11688238952739449,
+      "netMargin": 0.09927869664285904,
+      "roe": 0.12771847329402172,
+      "roic": 0.1298299035738258
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 323905000000.0,
+      "operatingIncome": 33938000000.0,
+      "netIncome": 28844000000.0,
+      "eps": 6.7,
+      "freeCashFlow": 23612000000.0,
+      "totalDebt": 43537000000.0,
+      "cash": 10681000000.0,
+      "sharesOutstanding": 8019000000.0,
+      "grossMargin": 0.21994103209274324,
+      "operatingMargin": 0.10477763541779225,
+      "netMargin": 0.08905080193266544,
+      "roe": 0.11120106713546606,
+      "roic": 0.11203507161886024
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:21.392708+00:00"
+  }
+}

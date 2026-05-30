@@ -1,0 +1,111 @@
+{
+  "ticker": "TTML",
+  "name": "Tata Teleservices (Maharashtra) Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "INR",
+  "marketCap": {
+    "value": 83690463232.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.81,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11501400000.0,
+    "operatingIncome": 4766900000.0,
+    "netIncome": -2153000000.0,
+    "eps": -1.1,
+    "freeCashFlow": 5324900000.0,
+    "totalDebt": 189307600000.0,
+    "cash": 154000000.0,
+    "sharesOutstanding": 1954927727.0
+  },
+  "ratios": {
+    "roe": 0.010773953155071864,
+    "roic": -0.4528604814652961,
+    "grossMargin": 0.8680769297650721,
+    "operatingMargin": 0.41446258716330187,
+    "netMargin": -0.18719460239623004,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11012400000.0,
+      "operatingIncome": 3461500000.0,
+      "netIncome": -11447200000.0,
+      "eps": -5.86,
+      "freeCashFlow": 4470500000.0,
+      "totalDebt": 180862300000.0,
+      "cash": 142100000.0,
+      "sharesOutstanding": 1954927727.0,
+      "grossMargin": 0.7717118884166939,
+      "operatingMargin": 0.31432748538011696,
+      "netMargin": -1.0394827648832226,
+      "roe": 0.060076002924239015,
+      "roic": -0.35748218527315917
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 11868800000.0,
+      "operatingIncome": 3778000000.0,
+      "netIncome": -12284400000.0,
+      "eps": -6.28,
+      "freeCashFlow": 4778300000.0,
+      "totalDebt": 200471600000.0,
+      "cash": 324100000.0,
+      "sharesOutstanding": 1954927727.0,
+      "grossMargin": 0.7738693043947156,
+      "operatingMargin": 0.3183135616069021,
+      "netMargin": -1.03501617686708,
+      "roe": 0.06380528698199496,
+      "roic": 0.4756928268342126
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 13009300000.0,
+      "operatingIncome": 4047900000.0,
+      "netIncome": -12753200000.0,
+      "eps": -6.52,
+      "freeCashFlow": 4060100000.0,
+      "totalDebt": 186385700000.0,
+      "cash": 423700000.0,
+      "sharesOutstanding": 1954927727.0,
+      "grossMargin": 0.7690959544325983,
+      "operatingMargin": 0.31115432805762033,
+      "netMargin": -0.9803140830021599,
+      "roe": 0.06516612681774261,
+      "roic": -0.4344545571630962
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 11501400000.0,
+      "operatingIncome": 4766900000.0,
+      "netIncome": -2153000000.0,
+      "eps": -1.1,
+      "freeCashFlow": 5324900000.0,
+      "totalDebt": 189307600000.0,
+      "cash": 154000000.0,
+      "sharesOutstanding": 1954927727.0,
+      "grossMargin": 0.8680769297650721,
+      "operatingMargin": 0.41446258716330187,
+      "netMargin": -0.18719460239623004,
+      "roe": 0.010773953155071864,
+      "roic": -0.4528604814652961
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:58:10.007004+00:00"
+  }
+}

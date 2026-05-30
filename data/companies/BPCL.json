@@ -1,0 +1,128 @@
+{
+  "ticker": "BPCL",
+  "name": "Bharat Petroleum Corporation Limited",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "INR",
+  "marketCap": {
+    "value": 1273657556992.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 298.1,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4552280300000.0,
+    "operatingIncome": 333458000000.0,
+    "netIncome": 258434500000.0,
+    "eps": 60.49,
+    "freeCashFlow": 313441700000.0,
+    "totalDebt": 544244200000.0,
+    "cash": 3199900000.0,
+    "sharesOutstanding": 4338505488.0
+  },
+  "ratios": {
+    "roe": 0.2579952373089578,
+    "roic": 0.21569823748139327,
+    "grossMargin": 0.14978372487300484,
+    "operatingMargin": 0.07325076182149856,
+    "netMargin": 0.056770339910747585,
+    "debtToEquity": 0.54332
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4662577300000.0,
+      "operatingIncome": 74233700000.0,
+      "netIncome": 21310500000.0,
+      "eps": 5.005,
+      "freeCashFlow": 39169800000.0,
+      "totalDebt": 693760300000.0,
+      "cash": 23127200000.0,
+      "sharesOutstanding": 4338505488.0,
+      "grossMargin": 0.04369905030850641,
+      "operatingMargin": 0.01592117303878265,
+      "netMargin": 0.004570540846582855,
+      "roe": 0.039816069396043076,
+      "roic": 0.06040249998392981
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4466662600000.0,
+      "operatingIncome": 376737400000.0,
+      "netIncome": 268588400000.0,
+      "eps": 63.04,
+      "freeCashFlow": 263905000000.0,
+      "totalDebt": 545990500000.0,
+      "cash": 23007400000.0,
+      "sharesOutstanding": 4338505488.0,
+      "grossMargin": 0.12879755009926203,
+      "operatingMargin": 0.08434427082090329,
+      "netMargin": 0.0601317860901336,
+      "roe": 0.3551107415590458,
+      "roic": 0.2892769454649993
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4402718600000.0,
+      "operatingIncome": 181446900000.0,
+      "netIncome": 133365500000.0,
+      "eps": 31.21,
+      "freeCashFlow": 85346700000.0,
+      "totalDebt": 611005700000.0,
+      "cash": 5579300000.0,
+      "sharesOutstanding": 4338505488.0,
+      "grossMargin": 0.10838362460866792,
+      "operatingMargin": 0.04121246813275779,
+      "netMargin": 0.03029162481563096,
+      "roe": 0.16387173019588105,
+      "roic": 0.1273448753953496
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 4552280300000.0,
+      "operatingIncome": 333458000000.0,
+      "netIncome": 258434500000.0,
+      "eps": 60.49,
+      "freeCashFlow": 313441700000.0,
+      "totalDebt": 544244200000.0,
+      "cash": 3199900000.0,
+      "sharesOutstanding": 4338505488.0,
+      "grossMargin": 0.14978372487300484,
+      "operatingMargin": 0.07325076182149856,
+      "netMargin": 0.056770339910747585,
+      "roe": 0.2579952373089578,
+      "roic": 0.21569823748139327
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:37:04.714449+00:00"
+  }
+}

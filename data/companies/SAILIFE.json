@@ -1,0 +1,128 @@
+{
+  "ticker": "SAILIFE",
+  "name": "SAI LIFE SCIENCES LIMITED",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "INR",
+  "marketCap": {
+    "value": 246054010880.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1160.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21924920000.0,
+    "operatingIncome": 4643040000.0,
+    "netIncome": 3489100000.0,
+    "eps": 16.43,
+    "freeCashFlow": -838280000.0,
+    "totalDebt": 2884520000.0,
+    "cash": 819140000.0,
+    "sharesOutstanding": 211779234.0
+  },
+  "ratios": {
+    "roe": 0.1404806078702317,
+    "roic": 0.1674893764384194,
+    "grossMargin": 0.4280722575042463,
+    "operatingMargin": 0.21176998593381413,
+    "netMargin": 0.15913855101865823,
+    "debtToEquity": 0.11614000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11969490000.0,
+      "operatingIncome": 768280000.0,
+      "netIncome": 99890000.0,
+      "eps": 0.480265,
+      "freeCashFlow": 1063280000.0,
+      "totalDebt": 9323750000.0,
+      "cash": 699120000.0,
+      "sharesOutstanding": 207989529.0,
+      "grossMargin": 0.2658292040847187,
+      "operatingMargin": 0.06418652757970474,
+      "netMargin": 0.008345384807539836,
+      "roe": 0.011247695905721585,
+      "roic": 0.0422023347842423
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14564700000.0,
+      "operatingIncome": 1811630000.0,
+      "netIncome": 828090000.0,
+      "eps": 3.981402,
+      "freeCashFlow": 813970000.0,
+      "totalDebt": 9276600000.0,
+      "cash": 236570000.0,
+      "sharesOutstanding": 207989529.0,
+      "grossMargin": 0.3349289721037852,
+      "operatingMargin": 0.12438498561590695,
+      "netMargin": 0.056855959957980595,
+      "roe": 0.08491976569614335,
+      "roic": 0.09520843975522439
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 16945700000.0,
+      "operatingIncome": 2670880000.0,
+      "netIncome": 1701320000.0,
+      "eps": 8.61,
+      "freeCashFlow": -552350000.0,
+      "totalDebt": 3523810000.0,
+      "cash": 911190000.0,
+      "sharesOutstanding": 208414389.0,
+      "grossMargin": 0.40109762358592443,
+      "operatingMargin": 0.15761402597709154,
+      "netMargin": 0.10039833114005323,
+      "roe": 0.07993591294685332,
+      "roic": 0.10766482205281014
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 21924920000.0,
+      "operatingIncome": 4643040000.0,
+      "netIncome": 3489100000.0,
+      "eps": 16.43,
+      "freeCashFlow": -838280000.0,
+      "totalDebt": 2884520000.0,
+      "cash": 819140000.0,
+      "sharesOutstanding": 211779234.0,
+      "grossMargin": 0.4280722575042463,
+      "operatingMargin": 0.21176998593381413,
+      "netMargin": 0.15913855101865823,
+      "roe": 0.1404806078702317,
+      "roic": 0.1674893764384194
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:57:51.281136+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "SYF",
+  "name": "Synchrony Financial",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24030289920.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 71.44,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14981000000.0,
+    "operatingIncome": null,
+    "netIncome": 3552000000.0,
+    "eps": 9.28,
+    "freeCashFlow": null,
+    "totalDebt": 15182000000.0,
+    "cash": 14973000000.0,
+    "sharesOutstanding": 834400000.0
+  },
+  "ratios": {
+    "roe": 0.21185733031134438,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.48032,
+    "netMargin": 0.23710032708096923,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11674000000.0,
+      "operatingIncome": null,
+      "netIncome": 3016000000.0,
+      "eps": 6.15,
+      "freeCashFlow": null,
+      "totalDebt": 14191000000.0,
+      "cash": 10294000000.0,
+      "sharesOutstanding": 833984684.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2583518930957684,
+      "roe": 0.2342888215645149,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13627000000.0,
+      "operatingIncome": null,
+      "netIncome": 2238000000.0,
+      "eps": 5.19,
+      "freeCashFlow": null,
+      "totalDebt": 15982000000.0,
+      "cash": 14259000000.0,
+      "sharesOutstanding": 833984684.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1642327731709107,
+      "roe": 0.1609724519887794,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15056000000.0,
+      "operatingIncome": null,
+      "netIncome": 3499000000.0,
+      "eps": 8.55,
+      "freeCashFlow": null,
+      "totalDebt": 15462000000.0,
+      "cash": 14711000000.0,
+      "sharesOutstanding": 833984684.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2323990435706695,
+      "roe": 0.21103739445114597,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14981000000.0,
+      "operatingIncome": null,
+      "netIncome": 3552000000.0,
+      "eps": 9.28,
+      "freeCashFlow": null,
+      "totalDebt": 15182000000.0,
+      "cash": 14973000000.0,
+      "sharesOutstanding": 834400000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23710032708096923,
+      "roe": 0.21185733031134438,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:23.599646+00:00"
+  }
+}

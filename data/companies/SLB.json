@@ -1,0 +1,128 @@
+{
+  "ticker": "SLB",
+  "name": "SLB N.V.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 81555390464.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 54.55,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 35708000000.0,
+    "operatingIncome": 5458000000.0,
+    "netIncome": 3374000000.0,
+    "eps": 2.35,
+    "freeCashFlow": 4543000000.0,
+    "totalDebt": 11636000000.0,
+    "cash": 3036000000.0,
+    "sharesOutstanding": 1580331485.0
+  },
+  "ratios": {
+    "roe": 0.1292274694549772,
+    "roic": 0.14460193403099747,
+    "grossMargin": 0.18222807214069675,
+    "operatingMargin": 0.15285090175870952,
+    "netMargin": 0.0944886299988798,
+    "debtToEquity": 0.42515000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28091000000.0,
+      "operatingIncome": 4151000000.0,
+      "netIncome": 3441000000.0,
+      "eps": 2.39,
+      "freeCashFlow": 2005000000.0,
+      "totalDebt": 12226000000.0,
+      "cash": 1655000000.0,
+      "sharesOutstanding": 1434188492.0,
+      "grossMargin": 0.18372432451674914,
+      "operatingMargin": 0.1477697483179666,
+      "netMargin": 0.12249474920793137,
+      "roe": 0.19457167090754876,
+      "roic": 0.1387783758483501
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33135000000.0,
+      "operatingIncome": 5488000000.0,
+      "netIncome": 4203000000.0,
+      "eps": 2.91,
+      "freeCashFlow": 4545000000.0,
+      "totalDebt": 11965000000.0,
+      "cash": 2900000000.0,
+      "sharesOutstanding": 1439800000.0,
+      "grossMargin": 0.19806850762034103,
+      "operatingMargin": 0.16562547155575674,
+      "netMargin": 0.12684472612041647,
+      "roe": 0.20818267373322105,
+      "roic": 0.17067860919325745
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 36289000000.0,
+      "operatingIncome": 6326000000.0,
+      "netIncome": 4461000000.0,
+      "eps": 3.11,
+      "freeCashFlow": 4473000000.0,
+      "totalDebt": 12074000000.0,
+      "cash": 3544000000.0,
+      "sharesOutstanding": 1438850420.0,
+      "grossMargin": 0.2055719363994599,
+      "operatingMargin": 0.17432279754195487,
+      "netMargin": 0.12292981344208989,
+      "roe": 0.21112162801703738,
+      "roic": 0.19051921455246357
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 35708000000.0,
+      "operatingIncome": 5458000000.0,
+      "netIncome": 3374000000.0,
+      "eps": 2.35,
+      "freeCashFlow": 4543000000.0,
+      "totalDebt": 11636000000.0,
+      "cash": 3036000000.0,
+      "sharesOutstanding": 1580331485.0,
+      "grossMargin": 0.18222807214069675,
+      "operatingMargin": 0.15285090175870952,
+      "netMargin": 0.0944886299988798,
+      "roe": 0.1292274694549772,
+      "roic": 0.14460193403099747
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:19.205793+00:00"
+  }
+}

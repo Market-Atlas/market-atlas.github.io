@@ -1,0 +1,128 @@
+{
+  "ticker": "BAJAJFINSV",
+  "name": "Bajaj Finserv Ltd.",
+  "country": "IN",
+  "exchange": "XNSE",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "currency": "INR",
+  "marketCap": {
+    "value": 2851099377664.0,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1783.6,
+    "currency": "INR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1278971900000.0,
+    "operatingIncome": null,
+    "netIncome": 98009700000.0,
+    "eps": null,
+    "freeCashFlow": -567495900000.0,
+    "totalDebt": 3613782200000.0,
+    "cash": 35985900000.0,
+    "sharesOutstanding": 1600549988.0
+  },
+  "ratios": {
+    "roe": 0.12579129977425263,
+    "roic": null,
+    "grossMargin": 0.51749,
+    "operatingMargin": 0.37205002,
+    "netMargin": 0.07663162888879732,
+    "debtToEquity": 2.5636
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 28.6,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 738459200000.0,
+      "operatingIncome": null,
+      "netIncome": 64172800000.0,
+      "eps": 40.0,
+      "freeCashFlow": -407000300000.0,
+      "totalDebt": 1675994100000.0,
+      "cash": 25936200000.0,
+      "sharesOutstanding": 1592815460.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08690094185298254,
+      "roe": 0.13828157356142368,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 998800700000.0,
+      "operatingIncome": null,
+      "netIncome": 81477900000.0,
+      "eps": 50.7,
+      "freeCashFlow": -669375000000.0,
+      "totalDebt": 2287817000000.0,
+      "cash": 57650200000.0,
+      "sharesOutstanding": 1595488813.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08157573377751938,
+      "roe": 0.13505679393959286,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1139988900000.0,
+      "operatingIncome": null,
+      "netIncome": 88723100000.0,
+      "eps": 55.0,
+      "freeCashFlow": -636139900000.0,
+      "totalDebt": 2844515200000.0,
+      "cash": 58170000000.0,
+      "sharesOutstanding": 1596662097.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07782803850107663,
+      "roe": 0.12255365713607691,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1278971900000.0,
+      "operatingIncome": null,
+      "netIncome": 98009700000.0,
+      "eps": null,
+      "freeCashFlow": -567495900000.0,
+      "totalDebt": 3613782200000.0,
+      "cash": 35985900000.0,
+      "sharesOutstanding": 1600549988.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07663162888879732,
+      "roe": 0.12579129977425263,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:31:29.384958+00:00"
+  }
+}

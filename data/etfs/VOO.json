@@ -1,0 +1,29 @@
+{
+  "ticker": "VOO",
+  "name": "Vanguard S&P 500 ETF",
+  "exchange": "ARCX",
+  "country": "US",
+  "currency": "USD",
+  "aum": 480000000000,
+  "expenseRatio": 0.0003,
+  "topHoldings": [
+    { "ticker": "MSFT", "name": "Microsoft Corporation", "weight": 0.072 },
+    { "ticker": "AAPL", "name": "Apple Inc.",            "weight": 0.068 },
+    { "ticker": "NVDA", "name": "NVIDIA Corporation",    "weight": 0.061 },
+    { "ticker": "AMZN", "name": "Amazon.com Inc.",       "weight": 0.038 },
+    { "ticker": "META", "name": "Meta Platforms Inc.",   "weight": 0.024 },
+    { "ticker": "GOOGL","name": "Alphabet Inc. Class A", "weight": 0.020 },
+    { "ticker": "GOOG", "name": "Alphabet Inc. Class C", "weight": 0.017 },
+    { "ticker": "BRK.B","name": "Berkshire Hathaway B",  "weight": 0.017 },
+    { "ticker": "LLY",  "name": "Eli Lilly and Company", "weight": 0.014 },
+    { "ticker": "AVGO", "name": "Broadcom Inc.",         "weight": 0.013 }
+  ],
+  "sectorAllocation": {
+    "Technology": 0.30, "Financials": 0.13, "Healthcare": 0.12,
+    "Consumer Cyclical": 0.11, "Communication Services": 0.09,
+    "Industrials": 0.08, "Consumer Defensive": 0.06, "Energy": 0.04,
+    "Utilities": 0.03, "Real Estate": 0.025, "Materials": 0.025
+  },
+  "countryAllocation": { "US": 0.99, "Other": 0.01 },
+  "meta": { "source": "sample", "lastUpdated": "2025-07-01T00:00:00Z" }
+}

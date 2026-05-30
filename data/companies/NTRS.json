@@ -1,0 +1,128 @@
+{
+  "ticker": "NTRS",
+  "name": "Northern Trust Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 30616070144.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 165.45,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8086400000.0,
+    "operatingIncome": null,
+    "netIncome": 1736900000.0,
+    "eps": 8.74,
+    "freeCashFlow": 4759300000.0,
+    "totalDebt": 13994200000.0,
+    "cash": 61127400000.0,
+    "sharesOutstanding": 245171524.0
+  },
+  "ratios": {
+    "roe": 0.13404178146150225,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.31721002,
+    "netMargin": 0.2147927384250099,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6761200000.0,
+      "operatingIncome": null,
+      "netIncome": 1336000000.0,
+      "eps": 6.14,
+      "freeCashFlow": 1668900000.0,
+      "totalDebt": 12382700000.0,
+      "cash": 46625700000.0,
+      "sharesOutstanding": 245171524.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19759805951606224,
+      "roe": 0.11865535769794396,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6773500000.0,
+      "operatingIncome": null,
+      "netIncome": 1107300000.0,
+      "eps": 5.08,
+      "freeCashFlow": 1949800000.0,
+      "totalDebt": 13406000000.0,
+      "cash": 41056700000.0,
+      "sharesOutstanding": 245171524.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1634753081863143,
+      "roe": 0.09306684372872524,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8290400000.0,
+      "operatingIncome": null,
+      "netIncome": 2031100000.0,
+      "eps": 9.77,
+      "freeCashFlow": -1231500000.0,
+      "totalDebt": 13372000000.0,
+      "cash": 45397300000.0,
+      "sharesOutstanding": 245171524.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24499421017079995,
+      "roe": 0.1588236214069,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8086400000.0,
+      "operatingIncome": null,
+      "netIncome": 1736900000.0,
+      "eps": 8.74,
+      "freeCashFlow": 4759300000.0,
+      "totalDebt": 13994200000.0,
+      "cash": 61127400000.0,
+      "sharesOutstanding": 245171524.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2147927384250099,
+      "roe": 0.13404178146150225,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:02.101651+00:00"
+  }
+}

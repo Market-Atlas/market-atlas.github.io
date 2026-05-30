@@ -1,0 +1,111 @@
+{
+  "ticker": "WDC",
+  "name": "Western Digital Corporation",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "USD",
+  "marketCap": {
+    "value": 183098605568.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 531.21,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9520000000.0,
+    "operatingIncome": 2130000000.0,
+    "netIncome": 1861000000.0,
+    "eps": 5.12,
+    "freeCashFlow": 1279000000.0,
+    "totalDebt": 4711000000.0,
+    "cash": 2114000000.0,
+    "sharesOutstanding": 347000000.0
+  },
+  "ratios": {
+    "roe": 0.3359205776173285,
+    "roic": 0.20778460637986537,
+    "grossMargin": 0.3878151260504202,
+    "operatingMargin": 0.22373949579831934,
+    "netMargin": 0.19548319327731092,
+    "debtToEquity": 0.17809999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 18793000000.0,
+      "operatingIncome": 2434000000.0,
+      "netIncome": 1546000000.0,
+      "eps": 4.75,
+      "freeCashFlow": 758000000.0,
+      "totalDebt": 7022000000.0,
+      "cash": 2327000000.0,
+      "sharesOutstanding": 315000000.0,
+      "grossMargin": 0.31256318842122066,
+      "operatingMargin": 0.1295163092640877,
+      "netMargin": 0.08226467301654872,
+      "roe": 0.12650355944685376,
+      "roic": 0.12648755391570962
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 6255000000.0,
+      "operatingIncome": -402000000.0,
+      "netIncome": -1684000000.0,
+      "eps": -5.44,
+      "freeCashFlow": -1229000000.0,
+      "totalDebt": 7070000000.0,
+      "cash": 2023000000.0,
+      "sharesOutstanding": 322000000.0,
+      "grossMargin": 0.22238209432454037,
+      "operatingMargin": -0.06426858513189448,
+      "netMargin": -0.269224620303757,
+      "roe": -0.14222972972972972,
+      "roic": -0.021258593336858804
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 6317000000.0,
+      "operatingIncome": 97000000.0,
+      "netIncome": -798000000.0,
+      "eps": -1.72,
+      "freeCashFlow": -781000000.0,
+      "totalDebt": 7434000000.0,
+      "cash": 1551000000.0,
+      "sharesOutstanding": 343000000.0,
+      "grossMargin": 0.28067120468576856,
+      "operatingMargin": 0.0153553902168751,
+      "netMargin": -0.12632578755738483,
+      "roe": -0.07223680637277088,
+      "roic": 0.005248633731940912
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 9520000000.0,
+      "operatingIncome": 2130000000.0,
+      "netIncome": 1861000000.0,
+      "eps": 5.12,
+      "freeCashFlow": 1279000000.0,
+      "totalDebt": 4711000000.0,
+      "cash": 2114000000.0,
+      "sharesOutstanding": 347000000.0,
+      "grossMargin": 0.3878151260504202,
+      "operatingMargin": 0.22373949579831934,
+      "netMargin": 0.19548319327731092,
+      "roe": 0.3359205776173285,
+      "roic": 0.20778460637986537
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:36:38.274669+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ALB",
+  "name": "Albemarle Corporation",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "USD",
+  "marketCap": {
+    "value": 20806031360.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 176.42,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5142733000.0,
+    "operatingIncome": 67285000.0,
+    "netIncome": -510628000.0,
+    "eps": -5.76,
+    "freeCashFlow": 692466000.0,
+    "totalDebt": 3296651000.0,
+    "cash": 1618001000.0,
+    "sharesOutstanding": 117715875.0
+  },
+  "ratios": {
+    "roe": -0.053562199705979995,
+    "roic": 0.005244342641505669,
+    "grossMargin": 0.13003183326841972,
+    "operatingMargin": 0.013083510265845028,
+    "netMargin": -0.09929117455640804,
+    "debtToEquity": 0.19845
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7320104000.0,
+      "operatingIncome": 2478461000.0,
+      "netIncome": 2689816000.0,
+      "eps": 22.84,
+      "freeCashFlow": 646203000.0,
+      "totalDebt": 3316369000.0,
+      "cash": 1499142000.0,
+      "sharesOutstanding": 117168000.0,
+      "grossMargin": 0.4200195789568017,
+      "operatingMargin": 0.338582757840599,
+      "netMargin": 0.3674559814997164,
+      "roe": 0.336958748041215,
+      "roic": 0.2193523212150885
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9617203000.0,
+      "operatingIncome": 190182000.0,
+      "netIncome": 1573476000.0,
+      "eps": 13.36,
+      "freeCashFlow": -827959000.0,
+      "totalDebt": 4280444000.0,
+      "cash": 889900000.0,
+      "sharesOutstanding": 117356000.0,
+      "grossMargin": 0.12331121636924998,
+      "operatingMargin": 0.019775188274595016,
+      "netMargin": 0.16361056327915716,
+      "roe": 0.16717444842746315,
+      "roic": 0.013889375769027178
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5377526000.0,
+      "operatingIncome": -642229000.0,
+      "netIncome": -1179449000.0,
+      "eps": -11.2,
+      "freeCashFlow": -992653000.0,
+      "totalDebt": 3615679000.0,
+      "cash": 1192230000.0,
+      "sharesOutstanding": 117559774.0,
+      "grossMargin": 0.011629697373848122,
+      "operatingMargin": -0.1194283393515903,
+      "netMargin": -0.21932929752454938,
+      "roe": -0.11840054080116512,
+      "roic": -0.047302034970991065
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5142733000.0,
+      "operatingIncome": 67285000.0,
+      "netIncome": -510628000.0,
+      "eps": -5.76,
+      "freeCashFlow": 692466000.0,
+      "totalDebt": 3296651000.0,
+      "cash": 1618001000.0,
+      "sharesOutstanding": 117715875.0,
+      "grossMargin": 0.13003183326841972,
+      "operatingMargin": 0.013083510265845028,
+      "netMargin": -0.09929117455640804,
+      "roe": -0.053562199705979995,
+      "roic": 0.005244342641505669
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T18:34:42.105713+00:00"
+  }
+}
