@@ -1,0 +1,128 @@
+{
+  "ticker": "2331",
+  "name": "Li Ning Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 46417637376.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18.2,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29598417000.0,
+    "operatingIncome": 3951439000.0,
+    "netIncome": 2935743000.0,
+    "eps": 1.1353,
+    "freeCashFlow": 3565261000.0,
+    "totalDebt": 2055154000.0,
+    "cash": 16716551000.0,
+    "sharesOutstanding": 2584811005.0
+  },
+  "ratios": {
+    "roe": 0.106261627228726,
+    "roic": 0.13312283777329473,
+    "grossMargin": 0.48951391555838947,
+    "operatingMargin": 0.1335017004456691,
+    "netMargin": 0.09918581118713207,
+    "debtToEquity": 0.07439
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 25803383000.0,
+      "operatingIncome": 4482494000.0,
+      "netIncome": 4063834000.0,
+      "eps": 1.5434,
+      "freeCashFlow": 2083179000.0,
+      "totalDebt": 2141667000.0,
+      "cash": 7382218000.0,
+      "sharesOutstanding": 2636029586.0,
+      "grossMargin": 0.4838432619474741,
+      "operatingMargin": 0.1737172990068783,
+      "netMargin": 0.15749229471189882,
+      "roe": 0.16703367074362202,
+      "roic": 0.16933540759568824
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27598491000.0,
+      "operatingIncome": 3376465000.0,
+      "netIncome": 3186910000.0,
+      "eps": 1.2266,
+      "freeCashFlow": 2872662000.0,
+      "totalDebt": 2541953000.0,
+      "cash": 5443883000.0,
+      "sharesOutstanding": 2584477208.0,
+      "grossMargin": 0.4837965597466905,
+      "operatingMargin": 0.12234237734229744,
+      "netMargin": 0.11547406704228866,
+      "roe": 0.13057552655443247,
+      "roic": 0.12529280748375962
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 28675643000.0,
+      "operatingIncome": 3791308000.0,
+      "netIncome": 3012918000.0,
+      "eps": 1.1652,
+      "freeCashFlow": 3764896000.0,
+      "totalDebt": 1936137000.0,
+      "cash": 7498596000.0,
+      "sharesOutstanding": 2584797906.0,
+      "grossMargin": 0.4936629668600631,
+      "operatingMargin": 0.1322135304864829,
+      "netMargin": 0.10506889069584247,
+      "roe": 0.11542115752298458,
+      "roic": 0.13521153804592081
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 29598417000.0,
+      "operatingIncome": 3951439000.0,
+      "netIncome": 2935743000.0,
+      "eps": 1.1353,
+      "freeCashFlow": 3565261000.0,
+      "totalDebt": 2055154000.0,
+      "cash": 16716551000.0,
+      "sharesOutstanding": 2584811005.0,
+      "grossMargin": 0.48951391555838947,
+      "operatingMargin": 0.1335017004456691,
+      "netMargin": 0.09918581118713207,
+      "roe": 0.106261627228726,
+      "roic": 0.13312283777329473
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:38.851237+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "8354",
+  "name": "Fukuoka Financial Group, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1238839197696.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6556.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 451.99,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 188962650.0
+  },
+  "ratios": {
+    "roe": 0.08518,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.11851,
+    "netMargin": 0.19381,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 244462000000.0,
+      "operatingIncome": null,
+      "netIncome": 54118000000.0,
+      "eps": null,
+      "freeCashFlow": 2152370000000.0,
+      "totalDebt": 5144819000000.0,
+      "cash": 7849025000000.0,
+      "sharesOutstanding": 191138265.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.221375919365791,
+      "roe": 0.05751525347713387,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 261357000000.0,
+      "operatingIncome": null,
+      "netIncome": 31152000000.0,
+      "eps": 165.54,
+      "freeCashFlow": -130063000000.0,
+      "totalDebt": 6664507000000.0,
+      "cash": 7713590000000.0,
+      "sharesOutstanding": 191138265.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11919328734260035,
+      "roe": 0.03459745694475757,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 270743000000.0,
+      "operatingIncome": null,
+      "netIncome": 61178000000.0,
+      "eps": 324.76,
+      "freeCashFlow": 1458566000000.0,
+      "totalDebt": 8338175000000.0,
+      "cash": 8449933000000.0,
+      "sharesOutstanding": 191138265.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22596336747395132,
+      "roe": 0.059958268935054196,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 296141000000.0,
+      "operatingIncome": null,
+      "netIncome": 72136000000.0,
+      "eps": 381.54,
+      "freeCashFlow": -523570000000.0,
+      "totalDebt": 6310034000000.0,
+      "cash": 7160305000000.0,
+      "sharesOutstanding": 191138265.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24358666986334213,
+      "roe": 0.07763379226697001,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 451.99,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:14.837636+00:00"
+  }
+}

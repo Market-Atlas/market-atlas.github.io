@@ -1,0 +1,111 @@
+{
+  "ticker": "OTEX",
+  "name": "Open Text Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7954471936.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.78,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5168405000.0,
+    "operatingIncome": 1038579000.0,
+    "netIncome": 435868000.0,
+    "eps": 1.65,
+    "freeCashFlow": 687396000.0,
+    "totalDebt": 6643784000.0,
+    "cash": 1156496000.0,
+    "sharesOutstanding": 259432427.0
+  },
+  "ratios": {
+    "roe": 0.11093987146930655,
+    "roic": 0.09823260031944685,
+    "grossMargin": 0.7225221320697585,
+    "operatingMargin": 0.20094768115114817,
+    "netMargin": 0.08433317435456393,
+    "debtToEquity": 1.61833
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 3493844000.0,
+      "operatingIncome": 691646000.0,
+      "netIncome": 397090000.0,
+      "eps": 1.46,
+      "freeCashFlow": 888701000.0,
+      "totalDebt": 4474642000.0,
+      "cash": 1693741000.0,
+      "sharesOutstanding": 269522639.0,
+      "grossMargin": 0.6959792709691675,
+      "operatingMargin": 0.19796132855387935,
+      "netMargin": 0.11365418719324617,
+      "roe": 0.09850617124083194,
+      "roic": 0.08131501476646413
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 4484980000.0,
+      "operatingIncome": 685451000.0,
+      "netIncome": 150379000.0,
+      "eps": 0.56,
+      "freeCashFlow": 655373000.0,
+      "totalDebt": 9245950000.0,
+      "cash": 1231625000.0,
+      "sharesOutstanding": 274438946.0,
+      "grossMargin": 0.7064452907259341,
+      "operatingMargin": 0.15283256558557676,
+      "netMargin": 0.03352946947366543,
+      "roe": 0.0374005011471669,
+      "roic": 0.05166693362529185
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 5769577000.0,
+      "operatingIncome": 1022390000.0,
+      "netIncome": 465090000.0,
+      "eps": 1.71,
+      "freeCashFlow": 808396000.0,
+      "totalDebt": 6687413000.0,
+      "cash": 1280662000.0,
+      "sharesOutstanding": 270936497.0,
+      "grossMargin": 0.7264012595724089,
+      "operatingMargin": 0.1772036320860264,
+      "netMargin": 0.08061076227945307,
+      "roe": 0.11078430111491754,
+      "roic": 0.09392157747168246
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 5168405000.0,
+      "operatingIncome": 1038579000.0,
+      "netIncome": 435868000.0,
+      "eps": 1.65,
+      "freeCashFlow": 687396000.0,
+      "totalDebt": 6643784000.0,
+      "cash": 1156496000.0,
+      "sharesOutstanding": 259432427.0,
+      "grossMargin": 0.7225221320697585,
+      "operatingMargin": 0.20094768115114817,
+      "netMargin": 0.08433317435456393,
+      "roe": 0.11093987146930655,
+      "roic": 0.09823260031944685
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:07.085976+00:00"
+  }
+}

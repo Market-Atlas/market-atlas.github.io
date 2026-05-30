@@ -1,0 +1,111 @@
+{
+  "ticker": "9501",
+  "name": "Tokyo Electric Power Company Holdings, Incorporated",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 905045868544.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 564.7,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6810391000000.0,
+    "operatingIncome": 234453000000.0,
+    "netIncome": 161278000000.0,
+    "eps": 32.68,
+    "freeCashFlow": null,
+    "totalDebt": 6168269000000.0,
+    "cash": 936335000000.0,
+    "sharesOutstanding": 1607017531.0
+  },
+  "ratios": {
+    "roe": 0.04290189368668248,
+    "roic": 0.02361652690501946,
+    "grossMargin": 0.03442577672853145,
+    "operatingMargin": 0.03442577672853145,
+    "netMargin": 0.023681166029968028,
+    "debtToEquity": 1.93429
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5309923000000.0,
+      "operatingIncome": 46230000000.0,
+      "netIncome": 2916000000.0,
+      "eps": 0.58,
+      "freeCashFlow": null,
+      "totalDebt": 4942643000000.0,
+      "cash": 862376000000.0,
+      "sharesOutstanding": 1607017531.0,
+      "grossMargin": 0.008706340939407219,
+      "operatingMargin": 0.008706340939407219,
+      "netMargin": 0.0005491605057173145,
+      "roe": 0.0009164839827452089,
+      "roic": 0.005690288770769616
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8112225000000.0,
+      "operatingIncome": -228970000000.0,
+      "netIncome": -123631000000.0,
+      "eps": -77.17,
+      "freeCashFlow": null,
+      "totalDebt": 5163392000000.0,
+      "cash": 717908000000.0,
+      "sharesOutstanding": 1607017531.0,
+      "grossMargin": -0.02822530193627519,
+      "operatingMargin": -0.02822530193627519,
+      "netMargin": -0.015240085180083147,
+      "roe": -0.039940285507896245,
+      "roic": -0.027724407019528774
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 6918388000000.0,
+      "operatingIncome": 278856000000.0,
+      "netIncome": 267850000000.0,
+      "eps": 54.27,
+      "freeCashFlow": null,
+      "totalDebt": 5767622000000.0,
+      "cash": 1242542000000.0,
+      "sharesOutstanding": 1607017531.0,
+      "grossMargin": 0.04030649914402026,
+      "operatingMargin": 0.04030649914402026,
+      "netMargin": 0.03871566613494357,
+      "roe": 0.07628309243710882,
+      "roic": 0.03005274879470971
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 6810391000000.0,
+      "operatingIncome": 234453000000.0,
+      "netIncome": 161278000000.0,
+      "eps": 32.68,
+      "freeCashFlow": null,
+      "totalDebt": 6168269000000.0,
+      "cash": 936335000000.0,
+      "sharesOutstanding": 1607017531.0,
+      "grossMargin": 0.03442577672853145,
+      "operatingMargin": 0.03442577672853145,
+      "netMargin": 0.023681166029968028,
+      "roe": 0.04290189368668248,
+      "roic": 0.02361652690501946
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:18.374591+00:00"
+  }
+}

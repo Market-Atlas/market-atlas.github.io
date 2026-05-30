@@ -1,0 +1,111 @@
+{
+  "ticker": "1044",
+  "name": "Hengan International Group Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 28005992448.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.34,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23068869000.0,
+    "operatingIncome": 2633132000.0,
+    "netIncome": 2535047000.0,
+    "eps": 2.227,
+    "freeCashFlow": 2192538000.0,
+    "totalDebt": 15760967000.0,
+    "cash": 15615635000.0,
+    "sharesOutstanding": 1162120917.0
+  },
+  "ratios": {
+    "roe": 0.11654567059710229,
+    "roic": 0.07019345551482839,
+    "grossMargin": 0.33837263543349266,
+    "operatingMargin": 0.11414222344407088,
+    "netMargin": 0.10989038951151008,
+    "debtToEquity": 0.71729
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22615878000.0,
+      "operatingIncome": 3346851000.0,
+      "netIncome": 1925249000.0,
+      "eps": 1.657,
+      "freeCashFlow": 2565205000.0,
+      "totalDebt": 17064697000.0,
+      "cash": 18667492000.0,
+      "sharesOutstanding": 1162120917.0,
+      "grossMargin": 0.3400044428962696,
+      "operatingMargin": 0.14798678167613039,
+      "netMargin": 0.08512820063850716,
+      "roe": 0.09861133754638679,
+      "roic": 0.09147324784444778
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23767936000.0,
+      "operatingIncome": 3491422000.0,
+      "netIncome": 2800533000.0,
+      "eps": 2.415,
+      "freeCashFlow": 2354869000.0,
+      "totalDebt": 14268248000.0,
+      "cash": 18189943000.0,
+      "sharesOutstanding": 1162120917.0,
+      "grossMargin": 0.33703759552365004,
+      "operatingMargin": 0.14689630601496065,
+      "netMargin": 0.11782819509443311,
+      "roe": 0.1373090296844847,
+      "roic": 0.10072158829045207
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22669215000.0,
+      "operatingIncome": 2679271000.0,
+      "netIncome": 2298535000.0,
+      "eps": 2.015,
+      "freeCashFlow": 1520732000.0,
+      "totalDebt": 13112926000.0,
+      "cash": 14261723000.0,
+      "sharesOutstanding": 1162120917.0,
+      "grossMargin": 0.32312279009220213,
+      "operatingMargin": 0.11818984468584377,
+      "netMargin": 0.10139455645023439,
+      "roe": 0.10986762073424008,
+      "roic": 0.07872365169338925
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23068869000.0,
+      "operatingIncome": 2633132000.0,
+      "netIncome": 2535047000.0,
+      "eps": 2.227,
+      "freeCashFlow": 2192538000.0,
+      "totalDebt": 15760967000.0,
+      "cash": 15615635000.0,
+      "sharesOutstanding": 1162120917.0,
+      "grossMargin": 0.33837263543349266,
+      "operatingMargin": 0.11414222344407088,
+      "netMargin": 0.10989038951151008,
+      "roe": 0.11654567059710229,
+      "roic": 0.07019345551482839
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:32.766030+00:00"
+  }
+}

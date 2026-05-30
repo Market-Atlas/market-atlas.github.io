@@ -1,0 +1,128 @@
+{
+  "ticker": "1928",
+  "name": "Sands China Ltd.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "USD",
+  "marketCap": {
+    "value": 124071510016.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 15.33,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7443000000.0,
+    "operatingIncome": 1290000000.0,
+    "netIncome": 896000000.0,
+    "eps": 0.1108,
+    "freeCashFlow": 1562000000.0,
+    "totalDebt": 7097000000.0,
+    "cash": 1505000000.0,
+    "sharesOutstanding": 8093379566.0
+  },
+  "ratios": {
+    "roe": 0.6395431834403997,
+    "roic": 0.1518004236290892,
+    "grossMargin": 0.5821577320972726,
+    "operatingMargin": 0.17331721080209592,
+    "netMargin": 0.12038156657261857,
+    "debtToEquity": 5.06567
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -0.1295,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1605000000.0,
+      "operatingIncome": -1162000000.0,
+      "netIncome": -1582000000.0,
+      "eps": -0.1955,
+      "freeCashFlow": -696000000.0,
+      "totalDebt": 10219000000.0,
+      "cash": 790000000.0,
+      "sharesOutstanding": 8093188866.0,
+      "grossMargin": 0.6485981308411215,
+      "operatingMargin": -0.7239875389408099,
+      "netMargin": -0.9856697819314642,
+      "roe": 2.26,
+      "roic": -0.12207164618132156
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6534000000.0,
+      "operatingIncome": 1249000000.0,
+      "netIncome": 692000000.0,
+      "eps": 0.0856,
+      "freeCashFlow": 2078000000.0,
+      "totalDebt": 8328000000.0,
+      "cash": 1361000000.0,
+      "sharesOutstanding": 8093379566.0,
+      "grossMargin": 0.6029996939087848,
+      "operatingMargin": 0.19115396388123662,
+      "netMargin": 0.105907560453015,
+      "roe": -173.0,
+      "roic": 0.15004805382027872
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7080000000.0,
+      "operatingIncome": 1386000000.0,
+      "netIncome": 1045000000.0,
+      "eps": null,
+      "freeCashFlow": 1210000000.0,
+      "totalDebt": 8159000000.0,
+      "cash": 1970000000.0,
+      "sharesOutstanding": 8093379566.0,
+      "grossMargin": 0.5902542372881356,
+      "operatingMargin": 0.19576271186440677,
+      "netMargin": 0.1475988700564972,
+      "roe": 1.0135790494665373,
+      "roic": 0.15081610446137106
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7443000000.0,
+      "operatingIncome": 1290000000.0,
+      "netIncome": 896000000.0,
+      "eps": 0.1108,
+      "freeCashFlow": 1562000000.0,
+      "totalDebt": 7097000000.0,
+      "cash": 1505000000.0,
+      "sharesOutstanding": 8093379566.0,
+      "grossMargin": 0.5821577320972726,
+      "operatingMargin": 0.17331721080209592,
+      "netMargin": 0.12038156657261857,
+      "roe": 0.6395431834403997,
+      "roic": 0.1518004236290892
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:35.982739+00:00"
+  }
+}

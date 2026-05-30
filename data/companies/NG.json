@@ -1,0 +1,128 @@
+{
+  "ticker": "NG",
+  "name": "National Grid plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 59482664960.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1195.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 0.652,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 4975547000.0
+  },
+  "ratios": {
+    "roe": 0.08406,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.32574,
+    "netMargin": 0.18324,
+    "debtToEquity": 1.21467
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 18449000000.0,
+      "operatingIncome": 4376000000.0,
+      "netIncome": 2353000000.0,
+      "eps": null,
+      "freeCashFlow": 728000000.0,
+      "totalDebt": 45465000000.0,
+      "cash": 190000000.0,
+      "sharesOutstanding": 4247649251.0,
+      "grossMargin": 0.6694671797929427,
+      "operatingMargin": 0.23719442788227005,
+      "netMargin": 0.1275407881185972,
+      "roe": 0.09872865354760206,
+      "roic": 0.06314756558630841
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 21659000000.0,
+      "operatingIncome": 4882000000.0,
+      "netIncome": 7797000000.0,
+      "eps": 1.949441,
+      "freeCashFlow": 6000000.0,
+      "totalDebt": 42985000000.0,
+      "cash": 126000000.0,
+      "sharesOutstanding": 4276260837.0,
+      "grossMargin": 0.6018745094418024,
+      "operatingMargin": 0.22540283484925436,
+      "netMargin": 0.35998891915600906,
+      "roe": 0.263965061954093,
+      "roic": 0.0673165754312425
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 19850000000.0,
+      "operatingIncome": 4487000000.0,
+      "netIncome": 2290000000.0,
+      "eps": 0.567093,
+      "freeCashFlow": -514000000.0,
+      "totalDebt": 47072000000.0,
+      "cash": 548000000.0,
+      "sharesOutstanding": 4316263001.0,
+      "grossMargin": 0.7344080604534005,
+      "operatingMargin": 0.22604534005037782,
+      "netMargin": 0.11536523929471033,
+      "roe": 0.07667325141460475,
+      "roic": 0.05831892798190774
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 18378000000.0,
+      "operatingIncome": 5247000000.0,
+      "netIncome": 2902000000.0,
+      "eps": 0.614,
+      "freeCashFlow": -2498000000.0,
+      "totalDebt": 47539000000.0,
+      "cash": 1178000000.0,
+      "sharesOutstanding": 5132617708.0,
+      "grossMargin": 0.7741865273696812,
+      "operatingMargin": 0.28550440744368266,
+      "netMargin": 0.15790619218630972,
+      "roe": 0.0767663942015184,
+      "roic": 0.06148203698061916
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.652,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:48.240661+00:00"
+  }
+}

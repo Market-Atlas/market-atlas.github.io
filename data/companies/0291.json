@@ -1,0 +1,111 @@
+{
+  "ticker": "0291",
+  "name": "China Resources Beer (Holdings) Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 78504804352.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.2,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37985000000.0,
+    "operatingIncome": 6121000000.0,
+    "netIncome": 3371000000.0,
+    "eps": 1.04,
+    "freeCashFlow": 5328000000.0,
+    "totalDebt": 3404000000.0,
+    "cash": 6918000000.0,
+    "sharesOutstanding": 3244000000.0
+  },
+  "ratios": {
+    "roe": 0.10448825243320314,
+    "roic": 0.17162003028093983,
+    "grossMargin": 0.4306963274976965,
+    "operatingMargin": 0.16114255627221272,
+    "netMargin": 0.08874555745689088,
+    "debtToEquity": 0.09465
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 35263000000.0,
+      "operatingIncome": 3989000000.0,
+      "netIncome": 4344000000.0,
+      "eps": 1.34,
+      "freeCashFlow": 5185000000.0,
+      "totalDebt": 1212000000.0,
+      "cash": 10208000000.0,
+      "sharesOutstanding": 3244000000.0,
+      "grossMargin": 0.3845673935853444,
+      "operatingMargin": 0.11312140203612853,
+      "netMargin": 0.12318861129228936,
+      "roe": 0.16065682902474204,
+      "roic": 0.14119854164454357
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 38932000000.0,
+      "operatingIncome": 5560000000.0,
+      "netIncome": 5153000000.0,
+      "eps": 1.59,
+      "freeCashFlow": 1629000000.0,
+      "totalDebt": 5285000000.0,
+      "cash": 5520000000.0,
+      "sharesOutstanding": 3244000000.0,
+      "grossMargin": 0.41361861707592723,
+      "operatingMargin": 0.142813110038015,
+      "netMargin": 0.13235898489674303,
+      "roe": 0.1700940749298564,
+      "roic": 0.15626756604834177
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 38635000000.0,
+      "operatingIncome": 5484000000.0,
+      "netIncome": 4739000000.0,
+      "eps": 1.46,
+      "freeCashFlow": 4115000000.0,
+      "totalDebt": 2299000000.0,
+      "cash": 3816000000.0,
+      "sharesOutstanding": 3244000000.0,
+      "grossMargin": 0.4264268150640611,
+      "operatingMargin": 0.14194383331176394,
+      "netMargin": 0.12266079979293387,
+      "roe": 0.14953300517480753,
+      "roic": 0.1613368244535318
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 37985000000.0,
+      "operatingIncome": 6121000000.0,
+      "netIncome": 3371000000.0,
+      "eps": 1.04,
+      "freeCashFlow": 5328000000.0,
+      "totalDebt": 3404000000.0,
+      "cash": 6918000000.0,
+      "sharesOutstanding": 3244000000.0,
+      "grossMargin": 0.4306963274976965,
+      "operatingMargin": 0.16114255627221272,
+      "netMargin": 0.08874555745689088,
+      "roe": 0.10448825243320314,
+      "roic": 0.17162003028093983
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:29.156239+00:00"
+  }
+}

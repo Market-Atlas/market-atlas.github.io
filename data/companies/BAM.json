@@ -1,0 +1,111 @@
+{
+  "ticker": "BAM",
+  "name": "Brookfield Asset Management Ltd.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 106473717760.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 66.68,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4608000000.0,
+    "operatingIncome": 3034000000.0,
+    "netIncome": 2485000000.0,
+    "eps": 1.54,
+    "freeCashFlow": null,
+    "totalDebt": 3622000000.0,
+    "cash": 1583000000.0,
+    "sharesOutstanding": 1637963936.0
+  },
+  "ratios": {
+    "roe": 0.306109879280611,
+    "roic": 0.2584327086882453,
+    "grossMargin": 0.7020399305555556,
+    "operatingMargin": 0.6584201388888888,
+    "netMargin": 0.5392795138888888,
+    "debtToEquity": 0.26373
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 0.0,
+      "operatingIncome": 1000000.0,
+      "netIncome": 19000000.0,
+      "eps": 4.83371,
+      "freeCashFlow": -387000000.0,
+      "totalDebt": 3000000.0,
+      "cash": 1000000.0,
+      "sharesOutstanding": 412224137.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": 0.007993268826251577,
+      "roic": 0.0004201680672268908
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3714000000.0,
+      "operatingIncome": 2616000000.0,
+      "netIncome": 1839000000.0,
+      "eps": 1.12,
+      "freeCashFlow": null,
+      "totalDebt": 256000000.0,
+      "cash": 9000000.0,
+      "sharesOutstanding": 413047533.0,
+      "grossMargin": 0.7178244480344642,
+      "operatingMargin": 0.7043618739903069,
+      "netMargin": 0.49515347334410337,
+      "roe": 0.8858381502890174,
+      "roic": 1.1217838765008576
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3989000000.0,
+      "operatingIncome": 2415000000.0,
+      "netIncome": 2168000000.0,
+      "eps": 1.33,
+      "freeCashFlow": null,
+      "totalDebt": 1148000000.0,
+      "cash": 404000000.0,
+      "sharesOutstanding": 443157127.0,
+      "grossMargin": 0.7107044372023064,
+      "operatingMargin": 0.6054148909501128,
+      "netMargin": 0.5434946101779895,
+      "roe": 0.2477148080438757,
+      "roic": 0.24393939393939393
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4608000000.0,
+      "operatingIncome": 3034000000.0,
+      "netIncome": 2485000000.0,
+      "eps": 1.54,
+      "freeCashFlow": null,
+      "totalDebt": 3622000000.0,
+      "cash": 1583000000.0,
+      "sharesOutstanding": 1637963936.0,
+      "grossMargin": 0.7020399305555556,
+      "operatingMargin": 0.6584201388888888,
+      "netMargin": 0.5392795138888888,
+      "roe": 0.306109879280611,
+      "roic": 0.2584327086882453
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:01.791799+00:00"
+  }
+}

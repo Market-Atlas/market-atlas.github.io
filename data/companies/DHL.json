@@ -1,0 +1,111 @@
+{
+  "ticker": "DHL",
+  "name": "Deutsche Post AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 57305255936.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 51.2,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 82855000000.0,
+    "operatingIncome": 5313000000.0,
+    "netIncome": 3501000000.0,
+    "eps": 3.04,
+    "freeCashFlow": 6324000000.0,
+    "totalDebt": 25447000000.0,
+    "cash": 1882000000.0,
+    "sharesOutstanding": 1150000000.0
+  },
+  "ratios": {
+    "roe": 0.15751113510595222,
+    "roic": 0.1114443931702815,
+    "grossMargin": 0.164455977309758,
+    "operatingMargin": 0.06412407217428037,
+    "netMargin": 0.042254541065717216,
+    "debtToEquity": 1.21823
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 94436000000.0,
+      "operatingIncome": 7958000000.0,
+      "netIncome": 5359000000.0,
+      "eps": 4.33,
+      "freeCashFlow": 7053000000.0,
+      "totalDebt": 20224000000.0,
+      "cash": 1834000000.0,
+      "sharesOutstanding": 1239059409.0,
+      "grossMargin": 0.16442881951798044,
+      "operatingMargin": 0.08426871108475581,
+      "netMargin": 0.056747426828751744,
+      "roe": 0.23063349974178,
+      "roic": 0.18311090658076393
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 81758000000.0,
+      "operatingIncome": 5615000000.0,
+      "netIncome": 3675000000.0,
+      "eps": 3.04,
+      "freeCashFlow": 5877000000.0,
+      "totalDebt": 20829000000.0,
+      "cash": 2051000000.0,
+      "sharesOutstanding": 1239059409.0,
+      "grossMargin": 0.1601800435431395,
+      "operatingMargin": 0.06867829447882776,
+      "netMargin": 0.04494972969006091,
+      "roe": 0.1635150166852058,
+      "roic": 0.12966469610197673
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 84188000000.0,
+      "operatingIncome": 5328000000.0,
+      "netIncome": 3332000000.0,
+      "eps": 2.81,
+      "freeCashFlow": 5786000000.0,
+      "totalDebt": 22442000000.0,
+      "cash": 2142000000.0,
+      "sharesOutstanding": 1200000000.0,
+      "grossMargin": 0.1562574238608828,
+      "operatingMargin": 0.06328692925357533,
+      "netMargin": 0.0395780871383095,
+      "roe": 0.1400411885848779,
+      "roic": 0.11523737428355142
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 82855000000.0,
+      "operatingIncome": 5313000000.0,
+      "netIncome": 3501000000.0,
+      "eps": 3.04,
+      "freeCashFlow": 6324000000.0,
+      "totalDebt": 25447000000.0,
+      "cash": 1882000000.0,
+      "sharesOutstanding": 1150000000.0,
+      "grossMargin": 0.164455977309758,
+      "operatingMargin": 0.06412407217428037,
+      "netMargin": 0.042254541065717216,
+      "roe": 0.15751113510595222,
+      "roic": 0.1114443931702815
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:16.601185+00:00"
+  }
+}

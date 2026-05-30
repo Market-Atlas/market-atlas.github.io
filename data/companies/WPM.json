@@ -1,0 +1,128 @@
+{
+  "ticker": "WPM",
+  "name": "Wheaton Precious Metals Corp.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 84176625664.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 185.36,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2314600000.0,
+    "operatingIncome": 1581641000.0,
+    "netIncome": 1471720000.0,
+    "eps": 3.237,
+    "freeCashFlow": 563612000.0,
+    "totalDebt": 7905000.0,
+    "cash": 1153593000.0,
+    "sharesOutstanding": 454033830.0
+  },
+  "ratios": {
+    "roe": 0.16934798287971198,
+    "roic": 0.18183098457155344,
+    "grossMargin": 0.7222189579192949,
+    "operatingMargin": 0.6833323252397823,
+    "netMargin": 0.635842046141882,
+    "debtToEquity": 0.00083
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1065053000.0,
+      "operatingIncome": 503293000.0,
+      "netIncome": 669126000.0,
+      "eps": 1.479,
+      "freeCashFlow": 589995000.0,
+      "totalDebt": 1970000.0,
+      "cash": 696089000.0,
+      "sharesOutstanding": 452318526.0,
+      "grossMargin": 0.5309407137485177,
+      "operatingMargin": 0.4725520701786672,
+      "netMargin": 0.6282560586186791,
+      "roe": 0.09960678359700342,
+      "roic": 0.07489874837137973
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1016045000.0,
+      "operatingIncome": 505270000.0,
+      "netIncome": 537644000.0,
+      "eps": 1.186,
+      "freeCashFlow": 74938000.0,
+      "totalDebt": 6229000.0,
+      "cash": 546527000.0,
+      "sharesOutstanding": 453069254.0,
+      "grossMargin": 0.5643844514760665,
+      "operatingMargin": 0.4972909664434154,
+      "netMargin": 0.5291537284273826,
+      "roe": 0.07696553840832947,
+      "roic": 0.07226665160128122
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1284639000.0,
+      "operatingIncome": 729693000.0,
+      "netIncome": 529140000.0,
+      "eps": 1.165,
+      "freeCashFlow": 369252000.0,
+      "totalDebt": 5171000.0,
+      "cash": 818166000.0,
+      "sharesOutstanding": 453677299.0,
+      "grossMargin": 0.6247568383024336,
+      "operatingMargin": 0.5680140490830498,
+      "netMargin": 0.41189781720779145,
+      "roe": 0.07289053237198388,
+      "roic": 0.10044572616335493
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2314600000.0,
+      "operatingIncome": 1581641000.0,
+      "netIncome": 1471720000.0,
+      "eps": 3.237,
+      "freeCashFlow": 563612000.0,
+      "totalDebt": 7905000.0,
+      "cash": 1153593000.0,
+      "sharesOutstanding": 454033830.0,
+      "grossMargin": 0.7222189579192949,
+      "operatingMargin": 0.6833323252397823,
+      "netMargin": 0.635842046141882,
+      "roe": 0.16934798287971198,
+      "roic": 0.18183098457155344
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:10.174496+00:00"
+  }
+}

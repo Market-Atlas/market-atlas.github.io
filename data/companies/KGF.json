@@ -1,0 +1,128 @@
+{
+  "ticker": "KGF",
+  "name": "Kingfisher plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4821849600.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 287.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12945000000.0,
+    "operatingIncome": 497000000.0,
+    "netIncome": 245000000.0,
+    "eps": 0.138,
+    "freeCashFlow": 1032000000.0,
+    "totalDebt": 2341000000.0,
+    "cash": 425000000.0,
+    "sharesOutstanding": 1709780039.0
+  },
+  "ratios": {
+    "roe": 0.039785644689834365,
+    "roic": 0.0584774679374044,
+    "grossMargin": 0.3808420239474701,
+    "operatingMargin": 0.03839320200849749,
+    "netMargin": 0.01892622634221707,
+    "debtToEquity": 0.38016
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 13059000000.0,
+      "operatingIncome": 718000000.0,
+      "netIncome": 471000000.0,
+      "eps": 0.235,
+      "freeCashFlow": 364000000.0,
+      "totalDebt": 2562000000.0,
+      "cash": 235000000.0,
+      "sharesOutstanding": 1940000000.0,
+      "grossMargin": 0.36717972279653877,
+      "operatingMargin": 0.05498123899226587,
+      "netMargin": 0.03606708017459224,
+      "roe": 0.07068887888338586,
+      "roic": 0.0778319783197832
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 12980000000.0,
+      "operatingIncome": 581000000.0,
+      "netIncome": 345000000.0,
+      "eps": 0.18,
+      "freeCashFlow": 954000000.0,
+      "totalDebt": 2476000000.0,
+      "cash": 319000000.0,
+      "sharesOutstanding": 1874563288.0,
+      "grossMargin": 0.3679506933744222,
+      "operatingMargin": 0.04476117103235747,
+      "netMargin": 0.026579352850539292,
+      "roe": 0.05224106602059358,
+      "roic": 0.06398678414096916
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 12784000000.0,
+      "operatingIncome": 422000000.0,
+      "netIncome": 185000000.0,
+      "eps": 0.099,
+      "freeCashFlow": 980000000.0,
+      "totalDebt": 2320000000.0,
+      "cash": 297000000.0,
+      "sharesOutstanding": 1793083377.0,
+      "grossMargin": 0.3725750938673342,
+      "operatingMargin": 0.03301001251564455,
+      "netMargin": 0.014471214017521902,
+      "roe": 0.02916141235813367,
+      "roic": 0.0487072945521699
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 12945000000.0,
+      "operatingIncome": 497000000.0,
+      "netIncome": 245000000.0,
+      "eps": 0.138,
+      "freeCashFlow": 1032000000.0,
+      "totalDebt": 2341000000.0,
+      "cash": 425000000.0,
+      "sharesOutstanding": 1709780039.0,
+      "grossMargin": 0.3808420239474701,
+      "operatingMargin": 0.03839320200849749,
+      "netMargin": 0.01892622634221707,
+      "roe": 0.039785644689834365,
+      "roic": 0.0584774679374044
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:43.520715+00:00"
+  }
+}

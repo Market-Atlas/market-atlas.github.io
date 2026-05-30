@@ -1,0 +1,111 @@
+{
+  "ticker": "HEI",
+  "name": "Heidelberg Materials AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 33650456576.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 190.8,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21460200000.0,
+    "operatingIncome": 3058700000.0,
+    "netIncome": 1940900000.0,
+    "eps": 10.92,
+    "freeCashFlow": 1840200000.0,
+    "totalDebt": 8111900000.0,
+    "cash": 2536500000.0,
+    "sharesOutstanding": 178430760.0
+  },
+  "ratios": {
+    "roe": 0.1068506876011583,
+    "roic": 0.11640439175689304,
+    "grossMargin": 0.6420769610721242,
+    "operatingMargin": 0.14252896058750616,
+    "netMargin": 0.09044184117575792,
+    "debtToEquity": 0.43451999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21095100000.0,
+      "operatingIncome": 2080900000.0,
+      "netIncome": 1596600000.0,
+      "eps": 8.45,
+      "freeCashFlow": 1085000000.0,
+      "totalDebt": 6694200000.0,
+      "cash": 1399300000.0,
+      "sharesOutstanding": 193091900.0,
+      "grossMargin": 0.5892363629468454,
+      "operatingMargin": 0.09864376087337817,
+      "netMargin": 0.07568582277400913,
+      "roe": 0.09654188258485055,
+      "roic": 0.08957003456424516
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21177600000.0,
+      "operatingIncome": 2720400000.0,
+      "netIncome": 1928900000.0,
+      "eps": 10.43,
+      "freeCashFlow": 1875400000.0,
+      "totalDebt": 8240300000.0,
+      "cash": 3190900000.0,
+      "sharesOutstanding": 186185619.0,
+      "grossMargin": 0.6207927243880327,
+      "operatingMargin": 0.1284564823209429,
+      "netMargin": 0.091082086733152,
+      "roe": 0.11187671463288731,
+      "roic": 0.1067593871656411
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21156400000.0,
+      "operatingIncome": 2842900000.0,
+      "netIncome": 1781800000.0,
+      "eps": 9.87,
+      "freeCashFlow": 1821600000.0,
+      "totalDebt": 8195900000.0,
+      "cash": 3120300000.0,
+      "sharesOutstanding": 182068120.0,
+      "grossMargin": 0.6392675502448432,
+      "operatingMargin": 0.13437541358643249,
+      "netMargin": 0.08422037775803067,
+      "roe": 0.09479878269382196,
+      "roic": 0.10532575069929422
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21460200000.0,
+      "operatingIncome": 3058700000.0,
+      "netIncome": 1940900000.0,
+      "eps": 10.92,
+      "freeCashFlow": 1840200000.0,
+      "totalDebt": 8111900000.0,
+      "cash": 2536500000.0,
+      "sharesOutstanding": 178430760.0,
+      "grossMargin": 0.6420769610721242,
+      "operatingMargin": 0.14252896058750616,
+      "netMargin": 0.09044184117575792,
+      "roe": 0.1068506876011583,
+      "roic": 0.11640439175689304
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:20.295496+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "4452",
+  "name": "Kao Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2765942161408.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6115.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1688633000000.0,
+    "operatingIncome": 164069000000.0,
+    "netIncome": 120081000000.0,
+    "eps": 231.94,
+    "freeCashFlow": null,
+    "totalDebt": 243142000000.0,
+    "cash": 323282000000.0,
+    "sharesOutstanding": 453600000.0
+  },
+  "ratios": {
+    "roe": 0.11284991593653466,
+    "roic": 0.12550995663312728,
+    "grossMargin": 0.3956863332648361,
+    "operatingMargin": 0.09716083956667908,
+    "netMargin": 0.0711113664129506,
+    "debtToEquity": 0.21834
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": 104005000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1551059000000.0,
+      "operatingIncome": 110071000000.0,
+      "netIncome": 86038000000.0,
+      "eps": 183.27,
+      "freeCashFlow": 53704000000.0,
+      "totalDebt": 262890000000.0,
+      "cash": 268248000000.0,
+      "sharesOutstanding": 465900000.0,
+      "grossMargin": 0.3535274931514533,
+      "operatingMargin": 0.0709650632245453,
+      "netMargin": 0.05547048822772054,
+      "roe": 0.08851090620856099,
+      "roic": 0.08912985211559
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1532579000000.0,
+      "operatingIncome": 60035000000.0,
+      "netIncome": 43870000000.0,
+      "eps": 94.37,
+      "freeCashFlow": 136034000000.0,
+      "totalDebt": 261072000000.0,
+      "cash": 291663000000.0,
+      "sharesOutstanding": 465900000.0,
+      "grossMargin": 0.3656757661432135,
+      "operatingMargin": 0.039172532052181325,
+      "netMargin": 0.02862495179693836,
+      "roe": 0.044598834147640744,
+      "roic": 0.04823134334353635
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1628448000000.0,
+      "operatingIncome": 146644000000.0,
+      "netIncome": 107767000000.0,
+      "eps": 231.94,
+      "freeCashFlow": 134109000000.0,
+      "totalDebt": 245328000000.0,
+      "cash": 357713000000.0,
+      "sharesOutstanding": 465900000.0,
+      "grossMargin": 0.39203216805203484,
+      "operatingMargin": 0.09005138635068483,
+      "netMargin": 0.06617773487394132,
+      "roe": 0.10102120782619782,
+      "roic": 0.11176248224226129
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1688633000000.0,
+      "operatingIncome": 164069000000.0,
+      "netIncome": 120081000000.0,
+      "eps": 231.94,
+      "freeCashFlow": null,
+      "totalDebt": 243142000000.0,
+      "cash": 323282000000.0,
+      "sharesOutstanding": 453600000.0,
+      "grossMargin": 0.3956863332648361,
+      "operatingMargin": 0.09716083956667908,
+      "netMargin": 0.0711113664129506,
+      "roe": 0.11284991593653466,
+      "roic": 0.12550995663312728
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:06.512759+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "QSR",
+  "name": "Restaurant Brands International Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 47071150080.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 103.15,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9434000000.0,
+    "operatingIncome": 2493000000.0,
+    "netIncome": 776000000.0,
+    "eps": 2.35,
+    "freeCashFlow": 1449000000.0,
+    "totalDebt": 15704000000.0,
+    "cash": 1163000000.0,
+    "sharesOutstanding": 346323165.0
+  },
+  "ratios": {
+    "roe": 0.2135388002201431,
+    "roic": 0.12891715792739683,
+    "grossMargin": 0.3384566461734153,
+    "operatingMargin": 0.2642569429722281,
+    "netMargin": 0.08225567097731609,
+    "debtToEquity": 2.96409
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6505000000.0,
+      "operatingIncome": 2023000000.0,
+      "netIncome": 1008000000.0,
+      "eps": 3.25,
+      "freeCashFlow": 1390000000.0,
+      "totalDebt": 14491000000.0,
+      "cash": 1178000000.0,
+      "sharesOutstanding": 307142436.0,
+      "grossMargin": 0.3993850883935434,
+      "operatingMargin": 0.3109915449654112,
+      "netMargin": 0.1549577248270561,
+      "roe": 0.40336134453781514,
+      "roic": 0.1190700412007063
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7022000000.0,
+      "operatingIncome": 2080000000.0,
+      "netIncome": 1190000000.0,
+      "eps": 3.76,
+      "freeCashFlow": 1203000000.0,
+      "totalDebt": 14515000000.0,
+      "cash": 1139000000.0,
+      "sharesOutstanding": 312454851.0,
+      "grossMargin": 0.39903161492452294,
+      "operatingMargin": 0.29621190544004555,
+      "netMargin": 0.1694673882084876,
+      "roe": 0.4152128401953943,
+      "roic": 0.11967090501121914
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8406000000.0,
+      "operatingIncome": 2324000000.0,
+      "netIncome": 1021000000.0,
+      "eps": 3.18,
+      "freeCashFlow": 1302000000.0,
+      "totalDebt": 15956000000.0,
+      "cash": 1334000000.0,
+      "sharesOutstanding": 324426589.0,
+      "grossMargin": 0.35974304068522484,
+      "operatingMargin": 0.2764691886747561,
+      "netMargin": 0.12146086128955508,
+      "roe": 0.3282958199356913,
+      "roic": 0.12189237385922584
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9434000000.0,
+      "operatingIncome": 2493000000.0,
+      "netIncome": 776000000.0,
+      "eps": 2.35,
+      "freeCashFlow": 1449000000.0,
+      "totalDebt": 15704000000.0,
+      "cash": 1163000000.0,
+      "sharesOutstanding": 346323165.0,
+      "grossMargin": 0.3384566461734153,
+      "operatingMargin": 0.2642569429722281,
+      "netMargin": 0.08225567097731609,
+      "roe": 0.2135388002201431,
+      "roic": 0.12891715792739683
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:07.324708+00:00"
+  }
+}

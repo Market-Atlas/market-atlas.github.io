@@ -1,0 +1,111 @@
+{
+  "ticker": "BAYN",
+  "name": "Bayer Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 35887951872.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 36.53,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 45575000000.0,
+    "operatingIncome": 6139000000.0,
+    "netIncome": -3620000000.0,
+    "eps": -3.68,
+    "freeCashFlow": 3443000000.0,
+    "totalDebt": 36453000000.0,
+    "cash": 6671000000.0,
+    "sharesOutstanding": 982424082.0
+  },
+  "ratios": {
+    "roe": -0.1395151655297337,
+    "roic": 0.09838141025641026,
+    "grossMargin": 0.587558968732858,
+    "operatingMargin": 0.1347010422380691,
+    "netMargin": -0.07942951179374658,
+    "debtToEquity": 1.3426900000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50739000000.0,
+      "operatingIncome": 7333000000.0,
+      "netIncome": 4150000000.0,
+      "eps": 4.22,
+      "freeCashFlow": 4144000000.0,
+      "totalDebt": 41320000000.0,
+      "cash": 5171000000.0,
+      "sharesOutstanding": 982424082.0,
+      "grossMargin": 0.6083683162853032,
+      "operatingMargin": 0.14452393622262955,
+      "netMargin": 0.08179112714085812,
+      "roe": 0.10703324478374127,
+      "roic": 0.09155606607318992
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 47637000000.0,
+      "operatingIncome": 8036000000.0,
+      "netIncome": -2941000000.0,
+      "eps": -2.99,
+      "freeCashFlow": 2366000000.0,
+      "totalDebt": 42874000000.0,
+      "cash": 5907000000.0,
+      "sharesOutstanding": 982424082.0,
+      "grossMargin": 0.5854272939101959,
+      "operatingMargin": 0.16869240296408253,
+      "netMargin": -0.0617377248777211,
+      "roe": -0.08931879612476083,
+      "roic": 0.10601443252727537
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 46606000000.0,
+      "operatingIncome": 3327000000.0,
+      "netIncome": -2552000000.0,
+      "eps": -2.6,
+      "freeCashFlow": 4590000000.0,
+      "totalDebt": 40697000000.0,
+      "cash": 6191000000.0,
+      "sharesOutstanding": 982424082.0,
+      "grossMargin": 0.5436209930051925,
+      "operatingMargin": 0.07138565849890573,
+      "netMargin": -0.054756898253443764,
+      "roe": -0.07997994233421085,
+      "roic": 0.045823290406996765
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 45575000000.0,
+      "operatingIncome": 6139000000.0,
+      "netIncome": -3620000000.0,
+      "eps": -3.68,
+      "freeCashFlow": 3443000000.0,
+      "totalDebt": 36453000000.0,
+      "cash": 6671000000.0,
+      "sharesOutstanding": 982424082.0,
+      "grossMargin": 0.587558968732858,
+      "operatingMargin": 0.1347010422380691,
+      "netMargin": -0.07942951179374658,
+      "roe": -0.1395151655297337,
+      "roic": 0.09838141025641026
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:13.816179+00:00"
+  }
+}

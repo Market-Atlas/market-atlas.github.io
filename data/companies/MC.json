@@ -1,0 +1,128 @@
+{
+  "ticker": "MC",
+  "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 233723215872.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 473.05,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 80807000000.0,
+    "operatingIncome": 17668000000.0,
+    "netIncome": 10878000000.0,
+    "eps": null,
+    "freeCashFlow": 14205000000.0,
+    "totalDebt": 36731000000.0,
+    "cash": 8794000000.0,
+    "sharesOutstanding": 497686940.0
+  },
+  "ratios": {
+    "roe": 0.16122243300924827,
+    "roic": 0.1695536596835024,
+    "grossMargin": 0.6624178598388754,
+    "operatingMargin": 0.21864442436917594,
+    "netMargin": 0.13461705050305048,
+    "debtToEquity": 0.53342
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 23.89,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 79183000000.0,
+      "operatingIncome": 21014000000.0,
+      "netIncome": 14084000000.0,
+      "eps": 28.03,
+      "freeCashFlow": 12753000000.0,
+      "totalDebt": 35147000000.0,
+      "cash": 7300000000.0,
+      "sharesOutstanding": 503257339.0,
+      "grossMargin": 0.6844272129118624,
+      "operatingMargin": 0.2653852468332849,
+      "netMargin": 0.17786646123536617,
+      "roe": 0.2555569668487235,
+      "roic": 0.23282146734915465
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 86153000000.0,
+      "operatingIncome": 22781000000.0,
+      "netIncome": 15174000000.0,
+      "eps": 30.33,
+      "freeCashFlow": 10596000000.0,
+      "totalDebt": 38876000000.0,
+      "cash": 7774000000.0,
+      "sharesOutstanding": 502048400.0,
+      "grossMargin": 0.6880433647116178,
+      "operatingMargin": 0.26442491845902055,
+      "netMargin": 0.17612851554792056,
+      "roe": 0.2486847927626727,
+      "roic": 0.22805401779904497
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 84682000000.0,
+      "operatingIncome": 19577000000.0,
+      "netIncome": 12550000000.0,
+      "eps": 25.12,
+      "freeCashFlow": 13373000000.0,
+      "totalDebt": 41203000000.0,
+      "cash": 9631000000.0,
+      "sharesOutstanding": 500341700.0,
+      "grossMargin": 0.6703195484282374,
+      "operatingMargin": 0.2311825417444085,
+      "netMargin": 0.14820150681372665,
+      "roe": 0.18587911192736645,
+      "roic": 0.1800680647534952
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 80807000000.0,
+      "operatingIncome": 17668000000.0,
+      "netIncome": 10878000000.0,
+      "eps": null,
+      "freeCashFlow": 14205000000.0,
+      "totalDebt": 36731000000.0,
+      "cash": 8794000000.0,
+      "sharesOutstanding": 497686940.0,
+      "grossMargin": 0.6624178598388754,
+      "operatingMargin": 0.21864442436917594,
+      "netMargin": 0.13461705050305048,
+      "roe": 0.16122243300924827,
+      "roic": 0.1695536596835024
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:22.188299+00:00"
+  }
+}

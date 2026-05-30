@@ -1,0 +1,128 @@
+{
+  "ticker": "1378",
+  "name": "China Hongqiao Group Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 275139526656.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.02,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 162353725000.0,
+    "operatingIncome": 37191695000.0,
+    "netIncome": 22636105000.0,
+    "eps": 2.3842,
+    "freeCashFlow": 27842554000.0,
+    "totalDebt": 72527789000.0,
+    "cash": 51187377000.0,
+    "sharesOutstanding": 9932297039.0
+  },
+  "ratios": {
+    "roe": 0.17071865803509212,
+    "roic": 0.18131603741997449,
+    "grossMargin": 0.2556470385881199,
+    "operatingMargin": 0.22907817483091317,
+    "netMargin": 0.13942461129241107,
+    "debtToEquity": 0.5118
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.7119,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 131699427000.0,
+      "operatingIncome": 14700174000.0,
+      "netIncome": 8701953000.0,
+      "eps": 0.9358,
+      "freeCashFlow": -2659208000.0,
+      "totalDebt": 59737809000.0,
+      "cash": 27384542000.0,
+      "sharesOutstanding": 9475538425.0,
+      "grossMargin": 0.13849187058346124,
+      "operatingMargin": 0.11161911888956054,
+      "netMargin": 0.06607434214577107,
+      "roe": 0.10298309019650242,
+      "roic": 0.10191704242295901
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 133623632000.0,
+      "operatingIncome": 17679143000.0,
+      "netIncome": 11460678000.0,
+      "eps": 1.1952,
+      "freeCashFlow": 15131532000.0,
+      "totalDebt": 63864424000.0,
+      "cash": 31721122000.0,
+      "sharesOutstanding": 9475538425.0,
+      "grossMargin": 0.15681804697540327,
+      "operatingMargin": 0.1323055116478199,
+      "netMargin": 0.08576834672477694,
+      "roe": 0.12424215953141492,
+      "roic": 0.11324863684117535
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 156168720000.0,
+      "operatingIncome": 37953701000.0,
+      "netIncome": 22372331000.0,
+      "eps": 2.3611,
+      "freeCashFlow": 21153144000.0,
+      "totalDebt": 71842514000.0,
+      "cash": 44770241000.0,
+      "sharesOutstanding": 9475538425.0,
+      "grossMargin": 0.2699816711054557,
+      "operatingMargin": 0.2430301087183144,
+      "netMargin": 0.14325743977411098,
+      "roe": 0.207535651619698,
+      "roic": 0.21127356002788986
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 162353725000.0,
+      "operatingIncome": 37191695000.0,
+      "netIncome": 22636105000.0,
+      "eps": 2.3842,
+      "freeCashFlow": 27842554000.0,
+      "totalDebt": 72527789000.0,
+      "cash": 51187377000.0,
+      "sharesOutstanding": 9932297039.0,
+      "grossMargin": 0.2556470385881199,
+      "operatingMargin": 0.22907817483091317,
+      "netMargin": 0.13942461129241107,
+      "roe": 0.17071865803509212,
+      "roic": 0.18131603741997449
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:35.182288+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "6923",
+  "name": "Stanley Electric Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 436454490112.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3551.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 509565000000.0,
+    "operatingIncome": 49003000000.0,
+    "netIncome": 32058000000.0,
+    "eps": null,
+    "freeCashFlow": 20955000000.0,
+    "totalDebt": 44575000000.0,
+    "cash": 219514000000.0,
+    "sharesOutstanding": 152000000.0
+  },
+  "ratios": {
+    "roe": 0.06597789623165737,
+    "roic": 0.09237744243258274,
+    "grossMargin": 0.20737884273841414,
+    "operatingMargin": 0.09616633795492234,
+    "netMargin": 0.06291248417768096,
+    "debtToEquity": 0.2114
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 382561000000.0,
+      "operatingIncome": 27743000000.0,
+      "netIncome": 21445000000.0,
+      "eps": 133.73,
+      "freeCashFlow": 7977000000.0,
+      "totalDebt": 12582000000.0,
+      "cash": 150454000000.0,
+      "sharesOutstanding": 173000000.0,
+      "grossMargin": 0.18526980011030922,
+      "operatingMargin": 0.07251915380815085,
+      "netMargin": 0.056056419760508784,
+      "roe": 0.04930599144243879,
+      "roic": 0.06199289862553322
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 439574000000.0,
+      "operatingIncome": 36710000000.0,
+      "netIncome": 26496000000.0,
+      "eps": 162.32,
+      "freeCashFlow": 40010000000.0,
+      "totalDebt": 14168000000.0,
+      "cash": 173408000000.0,
+      "sharesOutstanding": 173000000.0,
+      "grossMargin": 0.1889442960684663,
+      "operatingMargin": 0.08351267363401839,
+      "netMargin": 0.06027654046872654,
+      "roe": 0.055589007240249996,
+      "roic": 0.07479487947450027
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 472397000000.0,
+      "operatingIncome": 35835000000.0,
+      "netIncome": 26497000000.0,
+      "eps": 162.41,
+      "freeCashFlow": 38454000000.0,
+      "totalDebt": 14277000000.0,
+      "cash": 194642000000.0,
+      "sharesOutstanding": 171200000.0,
+      "grossMargin": 0.17546682133883154,
+      "operatingMargin": 0.0758578060402585,
+      "netMargin": 0.056090534021172866,
+      "roe": 0.050490095198896336,
+      "roic": 0.06647522691731918
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 509565000000.0,
+      "operatingIncome": 49003000000.0,
+      "netIncome": 32058000000.0,
+      "eps": null,
+      "freeCashFlow": 20955000000.0,
+      "totalDebt": 44575000000.0,
+      "cash": 219514000000.0,
+      "sharesOutstanding": 152000000.0,
+      "grossMargin": 0.20737884273841414,
+      "operatingMargin": 0.09616633795492234,
+      "netMargin": 0.06291248417768096,
+      "roe": 0.06597789623165737,
+      "roic": 0.09237744243258274
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:11.338259+00:00"
+  }
+}

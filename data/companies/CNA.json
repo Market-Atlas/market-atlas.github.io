@@ -1,0 +1,128 @@
+{
+  "ticker": "CNA",
+  "name": "Centrica plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 8491751424.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 187.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19492000000.0,
+    "operatingIncome": 771000000.0,
+    "netIncome": -72000000.0,
+    "eps": -0.015,
+    "freeCashFlow": 141000000.0,
+    "totalDebt": 2856000000.0,
+    "cash": 4196000000.0,
+    "sharesOutstanding": 5064902964.0
+  },
+  "ratios": {
+    "roe": -0.023338735818476498,
+    "roic": 0.12977613196431578,
+    "grossMargin": 0.1452390724399754,
+    "operatingMargin": 0.03955468910322184,
+    "netMargin": -0.003693823106915658,
+    "debtToEquity": 0.8169299999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23741000000.0,
+      "operatingIncome": 173000000.0,
+      "netIncome": -782000000.0,
+      "eps": -0.133,
+      "freeCashFlow": 943000000.0,
+      "totalDebt": 4017000000.0,
+      "cash": 4287000000.0,
+      "sharesOutstanding": 5907846138.0,
+      "grossMargin": 0.0861379048902742,
+      "operatingMargin": 0.007286971905143002,
+      "netMargin": -0.03293879786024177,
+      "roe": -0.7689282202556539,
+      "roic": 0.0343663090981327
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 26458000000.0,
+      "operatingIncome": 7551000000.0,
+      "netIncome": 3929000000.0,
+      "eps": 0.694,
+      "freeCashFlow": 2417000000.0,
+      "totalDebt": 4103000000.0,
+      "cash": 6339000000.0,
+      "sharesOutstanding": 5907846138.0,
+      "grossMargin": 0.3637085191624461,
+      "operatingMargin": 0.28539572152090104,
+      "netMargin": 0.14849950865522715,
+      "roe": 1.01341243229301,
+      "roic": 0.9462406015037594
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19913000000.0,
+      "operatingIncome": 1948000000.0,
+      "netIncome": 1332000000.0,
+      "eps": 0.251,
+      "freeCashFlow": 733000000.0,
+      "totalDebt": 3512000000.0,
+      "cash": 6223000000.0,
+      "sharesOutstanding": 5568107214.0,
+      "grossMargin": 0.20524280620700044,
+      "operatingMargin": 0.09782554110380154,
+      "netMargin": 0.06689097574448853,
+      "roe": 0.3012211668928087,
+      "roic": 0.24552558608520292
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 19492000000.0,
+      "operatingIncome": 771000000.0,
+      "netIncome": -72000000.0,
+      "eps": -0.015,
+      "freeCashFlow": 141000000.0,
+      "totalDebt": 2856000000.0,
+      "cash": 4196000000.0,
+      "sharesOutstanding": 5064902964.0,
+      "grossMargin": 0.1452390724399754,
+      "operatingMargin": 0.03955468910322184,
+      "netMargin": -0.003693823106915658,
+      "roe": -0.023338735818476498,
+      "roic": 0.12977613196431578
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:30.917229+00:00"
+  }
+}

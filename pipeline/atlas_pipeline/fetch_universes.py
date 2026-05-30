@@ -95,6 +95,86 @@ def fetch_nifty500() -> list[str]:
     return sorted(set(cleaned))
 
 
+def _wiki_tickers(url: str, header: str, suffix: str, sanitize=lambda s: s) -> list[str]:
+    html = _get(url)
+    raw = _parse_wiki_table(html, header)
+    out: list[str] = []
+    for t in raw:
+        t = sanitize(t.strip())
+        if not t:
+            continue
+        # Strip pre-existing exchange suffix so we don't end up with FOO.PA.PA
+        if "." in t:
+            base, _, _ = t.rpartition(".")
+            if base and re.match(r"^[A-Z0-9\-]+$", base):
+                t = base
+        if re.match(r"^[A-Z0-9\-]+$", t):
+            out.append(f"{t}{suffix}")
+    return sorted(set(out))
+
+
+def fetch_nikkei225() -> list[str]:
+    # Wikipedia table header is "Code"
+    html = _get("https://en.wikipedia.org/wiki/Nikkei_225")
+    raw = _parse_wiki_table(html, "Code")
+    out = []
+    for t in raw:
+        t = t.strip()
+        if re.match(r"^[0-9]{4,5}$", t):
+            out.append(f"{t}.T")
+    return sorted(set(out))
+
+
+def fetch_ftse100() -> list[str]:
+    # EPIC column on the constituents table
+    return _wiki_tickers(
+        "https://en.wikipedia.org/wiki/FTSE_100_Index",
+        "Ticker",
+        ".L",
+        sanitize=lambda s: s.replace(".", "-"),  # e.g. BT.A -> BT-A (rare)
+    )
+
+
+def fetch_dax40() -> list[str]:
+    return _wiki_tickers("https://en.wikipedia.org/wiki/DAX", "Ticker", ".DE")
+
+
+def fetch_cac40() -> list[str]:
+    return _wiki_tickers("https://en.wikipedia.org/wiki/CAC_40", "Ticker", ".PA")
+
+
+def fetch_tsx60() -> list[str]:
+    return _wiki_tickers(
+        "https://en.wikipedia.org/wiki/S%26P/TSX_60",
+        "Symbol",
+        ".TO",
+        sanitize=lambda s: s.replace(".", "-"),
+    )
+
+
+def fetch_hsi() -> list[str]:
+    # Hang Seng Index — codes are 4-5 digit numbers, need .HK and zero-padding to 4.
+    html = _get("https://en.wikipedia.org/wiki/Hang_Seng_Index")
+    raw = _parse_wiki_table(html, "Ticker")
+    out = []
+    for t in raw:
+        digits = "".join(c for c in t if c.isdigit())
+        if digits:
+            out.append(f"{int(digits):04d}.HK")
+    return sorted(set(out))
+
+
+def fetch_eu() -> list[str]:
+    """Combined large-cap Europe: FTSE 100 + DAX 40 + CAC 40."""
+    out: set[str] = set()
+    for fn in (fetch_ftse100, fetch_dax40, fetch_cac40):
+        try:
+            out.update(fn())
+        except Exception as e:
+            print(f"  {fn.__name__} failed: {e}", file=sys.stderr)
+    return sorted(out)
+
+
 def write_universe(name: str, tickers: list[str], comment: str) -> None:
     UNIVERSES_DIR.mkdir(parents=True, exist_ok=True)
     path = UNIVERSES_DIR / f"{name}.txt"
@@ -108,15 +188,28 @@ def write_universe(name: str, tickers: list[str], comment: str) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser()
-    p.add_argument("--only", choices=["us", "in"], default=None)
+    p.add_argument("--only", choices=["us", "in", "jp", "eu", "ca", "cn"], default=None)
     args = p.parse_args(argv)
 
-    if args.only in (None, "us"):
-        print("Fetching S&P 500 from Wikipedia…")
-        write_universe("us", fetch_sp500(), "S&P 500 constituents (Wikipedia)")
-    if args.only in (None, "in"):
-        print("Fetching Nifty 500 from NSE…")
-        write_universe("in", fetch_nifty500(), "Nifty 500 constituents (NSE archives)")
+    targets = {
+        "us": ("S&P 500 (Wikipedia)",                 fetch_sp500),
+        "in": ("Nifty 500 (NSE archives)",            fetch_nifty500),
+        "jp": ("Nikkei 225 (Wikipedia)",              fetch_nikkei225),
+        "eu": ("FTSE 100 + DAX 40 + CAC 40 (Wikipedia)", fetch_eu),
+        "ca": ("S&P/TSX 60 (Wikipedia)",              fetch_tsx60),
+        "cn": ("Hang Seng Index (Wikipedia)",         fetch_hsi),
+    }
+
+    names = [args.only] if args.only else list(targets.keys())
+    for name in names:
+        label, fn = targets[name]
+        print(f"Fetching {label}…")
+        try:
+            tickers = fn()
+        except Exception as e:
+            print(f"  ✗ failed: {e}", file=sys.stderr)
+            continue
+        write_universe(name, tickers, label)
     return 0
 
 

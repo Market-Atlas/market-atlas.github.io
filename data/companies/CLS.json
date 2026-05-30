@@ -1,0 +1,128 @@
+{
+  "ticker": "CLS",
+  "name": "Celestica Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "USD",
+  "marketCap": {
+    "value": 61281816576.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 533.01,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12390900000.0,
+    "operatingIncome": 1070400000.0,
+    "netIncome": 832500000.0,
+    "eps": 7.16,
+    "freeCashFlow": 458300000.0,
+    "totalDebt": 776500000.0,
+    "cash": 595600000.0,
+    "sharesOutstanding": 116706818.0
+  },
+  "ratios": {
+    "roe": 0.3756260434056761,
+    "roic": 0.35765838011226947,
+    "grossMargin": 0.12058042595775932,
+    "operatingMargin": 0.08638597680555891,
+    "netMargin": 0.06718640292472702,
+    "debtToEquity": 0.44881
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7250000000.0,
+      "operatingIncome": 296000000.0,
+      "netIncome": 180100000.0,
+      "eps": 1.18,
+      "freeCashFlow": 102100000.0,
+      "totalDebt": 786100000.0,
+      "cash": 374500000.0,
+      "sharesOutstanding": 121641792.0,
+      "grossMargin": 0.08961379310344827,
+      "operatingMargin": 0.040827586206896554,
+      "netMargin": 0.024841379310344826,
+      "roe": 0.10734934732073673,
+      "roic": 0.12013962172254242
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7961000000.0,
+      "operatingIncome": 350400000.0,
+      "netIncome": 244400000.0,
+      "eps": 2.03,
+      "freeCashFlow": 201100000.0,
+      "totalDebt": 675300000.0,
+      "cash": 370400000.0,
+      "sharesOutstanding": 118952174.0,
+      "grossMargin": 0.09472428086923754,
+      "operatingMargin": 0.04401457103378972,
+      "netMargin": 0.030699660846627307,
+      "roe": 0.13800112930547714,
+      "roic": 0.14323672484977312
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9646000000.0,
+      "operatingIncome": 618700000.0,
+      "netIncome": 428000000.0,
+      "eps": 3.61,
+      "freeCashFlow": 303000000.0,
+      "totalDebt": 796700000.0,
+      "cash": 423300000.0,
+      "sharesOutstanding": 116100000.0,
+      "grossMargin": 0.10716359112585527,
+      "operatingMargin": 0.06414057640472735,
+      "netMargin": 0.044370723616006635,
+      "roe": 0.22573839662447256,
+      "roic": 0.22976937646228693
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12390900000.0,
+      "operatingIncome": 1070400000.0,
+      "netIncome": 832500000.0,
+      "eps": 7.16,
+      "freeCashFlow": 458300000.0,
+      "totalDebt": 776500000.0,
+      "cash": 595600000.0,
+      "sharesOutstanding": 116706818.0,
+      "grossMargin": 0.12058042595775932,
+      "operatingMargin": 0.08638597680555891,
+      "netMargin": 0.06718640292472702,
+      "roe": 0.3756260434056761,
+      "roic": 0.35765838011226947
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:03.256087+00:00"
+  }
+}

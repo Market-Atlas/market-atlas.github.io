@@ -1,0 +1,128 @@
+{
+  "ticker": "SGRO",
+  "name": "SEGRO Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 9774936064.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 722.6,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 726000000.0,
+    "operatingIncome": 499000000.0,
+    "netIncome": 551000000.0,
+    "eps": null,
+    "freeCashFlow": 367000000.0,
+    "totalDebt": 5599000000.0,
+    "cash": 37000000.0,
+    "sharesOutstanding": 1353495326.0
+  },
+  "ratios": {
+    "roe": 0.04489529862299356,
+    "roic": 0.027920769919427036,
+    "grossMargin": 0.7878787878787878,
+    "operatingMargin": 0.6873278236914601,
+    "netMargin": 0.7589531680440771,
+    "debtToEquity": 0.42174
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 3.381,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 669000000.0,
+      "operatingIncome": 411000000.0,
+      "netIncome": -1927000000.0,
+      "eps": -1.597,
+      "freeCashFlow": 204000000.0,
+      "totalDebt": 4961000000.0,
+      "cash": 112000000.0,
+      "sharesOutstanding": 1209000000.0,
+      "grossMargin": 0.680119581464873,
+      "operatingMargin": 0.6143497757847534,
+      "netMargin": -2.8804185351270553,
+      "roe": -0.16943638441923856,
+      "roic": 0.025162238275988735
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 749000000.0,
+      "operatingIncome": 525000000.0,
+      "netIncome": -253000000.0,
+      "eps": -0.207,
+      "freeCashFlow": 402000000.0,
+      "totalDebt": 5423000000.0,
+      "cash": 315000000.0,
+      "sharesOutstanding": 1227605189.0,
+      "grossMargin": 0.7850467289719626,
+      "operatingMargin": 0.7009345794392523,
+      "netMargin": -0.3377837116154873,
+      "roe": -0.023202494497432134,
+      "roic": 0.032155325534390884
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 675000000.0,
+      "operatingIncome": 455000000.0,
+      "netIncome": 594000000.0,
+      "eps": 0.446,
+      "freeCashFlow": 306000000.0,
+      "totalDebt": 4677000000.0,
+      "cash": 292000000.0,
+      "sharesOutstanding": 1352862607.0,
+      "grossMargin": 0.7866666666666666,
+      "operatingMargin": 0.674074074074074,
+      "netMargin": 0.88,
+      "roe": 0.04929869698730185,
+      "roic": 0.027203156761927538
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 726000000.0,
+      "operatingIncome": 499000000.0,
+      "netIncome": 551000000.0,
+      "eps": null,
+      "freeCashFlow": 367000000.0,
+      "totalDebt": 5599000000.0,
+      "cash": 37000000.0,
+      "sharesOutstanding": 1353495326.0,
+      "grossMargin": 0.7878787878787878,
+      "operatingMargin": 0.6873278236914601,
+      "netMargin": 0.7589531680440771,
+      "roe": 0.04489529862299356,
+      "roic": 0.027920769919427036
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:54.682118+00:00"
+  }
+}

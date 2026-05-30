@@ -1,0 +1,128 @@
+{
+  "ticker": "EDEN",
+  "name": "Edenred SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 5413177856.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23.34,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2961000000.0,
+    "operatingIncome": 958000000.0,
+    "netIncome": 521000000.0,
+    "eps": 2.12,
+    "freeCashFlow": 1072000000.0,
+    "totalDebt": 4626000000.0,
+    "cash": 1885000000.0,
+    "sharesOutstanding": 236974583.0
+  },
+  "ratios": {
+    "roe": -0.5650759219088937,
+    "roic": 0.25863930885529157,
+    "grossMargin": 0.6052009456264775,
+    "operatingMargin": 0.32353934481594054,
+    "netMargin": 0.17595406957109086,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2031000000.0,
+      "operatingIncome": 640000000.0,
+      "netIncome": 386000000.0,
+      "eps": 1.46,
+      "freeCashFlow": 862000000.0,
+      "totalDebt": 3039000000.0,
+      "cash": 1481000000.0,
+      "sharesOutstanding": 249588059.0,
+      "grossMargin": 0.6105366814377154,
+      "operatingMargin": 0.3151157065484983,
+      "netMargin": 0.19005416051206303,
+      "roe": -0.5376044568245125,
+      "roic": 0.2757432141318397
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2514000000.0,
+      "operatingIncome": 670000000.0,
+      "netIncome": 267000000.0,
+      "eps": 1.072479,
+      "freeCashFlow": 862000000.0,
+      "totalDebt": 4199000000.0,
+      "cash": 1354000000.0,
+      "sharesOutstanding": 249588059.0,
+      "grossMargin": 0.6189339697692919,
+      "operatingMargin": 0.26650755767700873,
+      "netMargin": 0.10620525059665871,
+      "roe": -0.39322533136966126,
+      "roic": 0.1903409090909091
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2856000000.0,
+      "operatingIncome": 929000000.0,
+      "netIncome": 507000000.0,
+      "eps": 2.11195,
+      "freeCashFlow": 812000000.0,
+      "totalDebt": 4543000000.0,
+      "cash": 1639000000.0,
+      "sharesOutstanding": 241973980.0,
+      "grossMargin": 0.5994397759103641,
+      "operatingMargin": 0.32528011204481794,
+      "netMargin": 0.17752100840336135,
+      "roe": -0.5583700440528634,
+      "roic": 0.2555708390646492
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2961000000.0,
+      "operatingIncome": 958000000.0,
+      "netIncome": 521000000.0,
+      "eps": 2.12,
+      "freeCashFlow": 1072000000.0,
+      "totalDebt": 4626000000.0,
+      "cash": 1885000000.0,
+      "sharesOutstanding": 236974583.0,
+      "grossMargin": 0.6052009456264775,
+      "operatingMargin": 0.32353934481594054,
+      "netMargin": 0.17595406957109086,
+      "roe": -0.5650759219088937,
+      "roic": 0.25863930885529157
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:17.779599+00:00"
+  }
+}

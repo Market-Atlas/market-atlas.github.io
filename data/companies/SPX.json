@@ -1,0 +1,128 @@
+{
+  "ticker": "SPX",
+  "name": "Spirax Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 5139883008.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6965.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1702900000.0,
+    "operatingIncome": 265400000.0,
+    "netIncome": 163400000.0,
+    "eps": 2.212,
+    "freeCashFlow": 228200000.0,
+    "totalDebt": 1023900000.0,
+    "cash": 369000000.0,
+    "sharesOutstanding": 73776048.0
+  },
+  "ratios": {
+    "roe": 0.13370427951886096,
+    "roic": 0.11816562778272484,
+    "grossMargin": 0.7682776440190263,
+    "operatingMargin": 0.15585178225380233,
+    "netMargin": 0.09595396089024605,
+    "debtToEquity": 0.83768
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1610600000.0,
+      "operatingIncome": 316800000.0,
+      "netIncome": 224700000.0,
+      "eps": 3.044,
+      "freeCashFlow": 123600000.0,
+      "totalDebt": 1084500000.0,
+      "cash": 328900000.0,
+      "sharesOutstanding": 73766048.0,
+      "grossMargin": 0.7608965602880914,
+      "operatingMargin": 0.19669688314913697,
+      "netMargin": 0.13951322488513598,
+      "roe": 0.19221556886227545,
+      "roic": 0.1405813179498558
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1682600000.0,
+      "operatingIncome": 284400000.0,
+      "netIncome": 183600000.0,
+      "eps": 2.489,
+      "freeCashFlow": 193200000.0,
+      "totalDebt": 1123100000.0,
+      "cash": 359700000.0,
+      "sharesOutstanding": 73776048.0,
+      "grossMargin": 0.760786877451563,
+      "operatingMargin": 0.16902412932366576,
+      "netMargin": 0.10911684298110068,
+      "roe": 0.15869997406863168,
+      "roic": 0.12473684210526316
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1665200000.0,
+      "operatingIncome": 304600000.0,
+      "netIncome": 191200000.0,
+      "eps": 2.589,
+      "freeCashFlow": 220000000.0,
+      "totalDebt": 1025500000.0,
+      "cash": 334200000.0,
+      "sharesOutstanding": 73776048.0,
+      "grossMargin": 0.761890463607975,
+      "operatingMargin": 0.18292097045399952,
+      "netMargin": 0.11482104251741533,
+      "roe": 0.15817339510258108,
+      "roic": 0.13632905160452938
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1702900000.0,
+      "operatingIncome": 265400000.0,
+      "netIncome": 163400000.0,
+      "eps": 2.212,
+      "freeCashFlow": 228200000.0,
+      "totalDebt": 1023900000.0,
+      "cash": 369000000.0,
+      "sharesOutstanding": 73776048.0,
+      "grossMargin": 0.7682776440190263,
+      "operatingMargin": 0.15585178225380233,
+      "netMargin": 0.09595396089024605,
+      "roe": 0.13370427951886096,
+      "roic": 0.11816562778272484
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:55.605148+00:00"
+  }
+}

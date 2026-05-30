@@ -1,0 +1,128 @@
+{
+  "ticker": "K",
+  "name": "Kinross Gold Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 50009305088.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 41.88,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7051100000.0,
+    "operatingIncome": 3228100000.0,
+    "netIncome": 2390100000.0,
+    "eps": 1.95,
+    "freeCashFlow": 2566300000.0,
+    "totalDebt": 738200000.0,
+    "cash": 1742300000.0,
+    "sharesOutstanding": 1199843037.0
+  },
+  "ratios": {
+    "roe": 0.2786963619402985,
+    "roic": 0.3465783427454854,
+    "grossMargin": 0.526981605706911,
+    "operatingMargin": 0.4578150926805747,
+    "netMargin": 0.33896838791110606,
+    "debtToEquity": 0.08204
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3455100000.0,
+      "operatingIncome": 92200000.0,
+      "netIncome": -605200000.0,
+      "eps": -0.47,
+      "freeCashFlow": 285900000.0,
+      "totalDebt": 2640500000.0,
+      "cash": 418100000.0,
+      "sharesOutstanding": 1221891341.0,
+      "grossMargin": 0.1491707910046019,
+      "operatingMargin": 0.026685190008972244,
+      "netMargin": -0.175161355677115,
+      "roe": -0.10392018819650738,
+      "roic": 0.010892937312445358
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4239700000.0,
+      "operatingIncome": 764400000.0,
+      "netIncome": 416300000.0,
+      "eps": 0.34,
+      "freeCashFlow": 507000000.0,
+      "totalDebt": 2232600000.0,
+      "cash": 352400000.0,
+      "sharesOutstanding": 1227837974.0,
+      "grossMargin": 0.2735099181545864,
+      "operatingMargin": 0.18029577564450314,
+      "netMargin": 0.09819090973417931,
+      "roe": 0.06842875223959104,
+      "roic": 0.09191587605064752
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5148800000.0,
+      "operatingIncome": 1499400000.0,
+      "netIncome": 948800000.0,
+      "eps": 0.77,
+      "freeCashFlow": 1370900000.0,
+      "totalDebt": 1435400000.0,
+      "cash": 611500000.0,
+      "sharesOutstanding": 1229125606.0,
+      "grossMargin": 0.36480344934742076,
+      "operatingMargin": 0.29121348663766317,
+      "netMargin": 0.18427594779366066,
+      "roe": 0.13827678675527574,
+      "roic": 0.18071592141737977
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7051100000.0,
+      "operatingIncome": 3228100000.0,
+      "netIncome": 2390100000.0,
+      "eps": 1.95,
+      "freeCashFlow": 2566300000.0,
+      "totalDebt": 738200000.0,
+      "cash": 1742300000.0,
+      "sharesOutstanding": 1199843037.0,
+      "grossMargin": 0.526981605706911,
+      "operatingMargin": 0.4578150926805747,
+      "netMargin": 0.33896838791110606,
+      "roe": 0.2786963619402985,
+      "roic": 0.3465783427454854
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.107435+00:00"
+  }
+}

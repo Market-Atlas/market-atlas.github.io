@@ -1,0 +1,128 @@
+{
+  "ticker": "RCI-B",
+  "name": "Rogers Communications Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 28739985408.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 53.2,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21712000000.0,
+    "operatingIncome": 5018000000.0,
+    "netIncome": 6894000000.0,
+    "eps": 12.74,
+    "freeCashFlow": 2091000000.0,
+    "totalDebt": 44176000000.0,
+    "cash": 1344000000.0,
+    "sharesOutstanding": 540225278.0
+  },
+  "ratios": {
+    "roe": 0.38837248605712354,
+    "roic": 0.08103089121061896,
+    "grossMargin": 0.45228445099484155,
+    "operatingMargin": 0.23111643330876935,
+    "netMargin": 0.3175202652910833,
+    "debtToEquity": 1.8419999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15396000000.0,
+      "operatingIncome": 3817000000.0,
+      "netIncome": 1680000000.0,
+      "eps": 3.32,
+      "freeCashFlow": 1371000000.0,
+      "totalDebt": 36746000000.0,
+      "cash": 463000000.0,
+      "sharesOutstanding": 504925317.0,
+      "grossMargin": 0.4152377240841777,
+      "operatingMargin": 0.24792153806183423,
+      "netMargin": 0.10911925175370225,
+      "roe": 0.16646848989298454,
+      "roic": 0.08149365899483325
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19308000000.0,
+      "operatingIncome": 4460000000.0,
+      "netIncome": 849000000.0,
+      "eps": 1.62,
+      "freeCashFlow": 1105000000.0,
+      "totalDebt": 45198000000.0,
+      "cash": 800000000.0,
+      "sharesOutstanding": 530020902.0,
+      "grossMargin": 0.44442718044333956,
+      "operatingMargin": 0.23099233478350942,
+      "netMargin": 0.04397141081417029,
+      "roe": 0.08132183908045977,
+      "roic": 0.08016104101513354
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20604000000.0,
+      "operatingIncome": 5003000000.0,
+      "netIncome": 1734000000.0,
+      "eps": 3.2,
+      "freeCashFlow": 1508000000.0,
+      "totalDebt": 47633000000.0,
+      "cash": 898000000.0,
+      "sharesOutstanding": 536101202.0,
+      "grossMargin": 0.46675402834401086,
+      "operatingMargin": 0.2428169287516987,
+      "netMargin": 0.08415841584158416,
+      "roe": 0.16668268768624436,
+      "roic": 0.08620511406713074
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21712000000.0,
+      "operatingIncome": 5018000000.0,
+      "netIncome": 6894000000.0,
+      "eps": 12.74,
+      "freeCashFlow": 2091000000.0,
+      "totalDebt": 44176000000.0,
+      "cash": 1344000000.0,
+      "sharesOutstanding": 540225278.0,
+      "grossMargin": 0.45228445099484155,
+      "operatingMargin": 0.23111643330876935,
+      "netMargin": 0.3175202652910833,
+      "roe": 0.38837248605712354,
+      "roic": 0.08103089121061896
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:07.867651+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "2688",
+  "name": "ENN Energy Holdings Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 61040824320.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 54.9,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 111905000000.0,
+    "operatingIncome": 8391000000.0,
+    "netIncome": 5904000000.0,
+    "eps": null,
+    "freeCashFlow": 3341000000.0,
+    "totalDebt": 19738000000.0,
+    "cash": 8064000000.0,
+    "sharesOutstanding": 1131839264.0
+  },
+  "ratios": {
+    "roe": 0.12345007841087298,
+    "roic": 0.12419519559522224,
+    "grossMargin": 0.11877932174612395,
+    "operatingMargin": 0.0749832447165006,
+    "netMargin": 0.052759036682900676,
+    "debtToEquity": 0.38021
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.86,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 110051000000.0,
+      "operatingIncome": 10641000000.0,
+      "netIncome": 5867000000.0,
+      "eps": 5.19,
+      "freeCashFlow": 3189000000.0,
+      "totalDebt": 20167000000.0,
+      "cash": 8056000000.0,
+      "sharesOutstanding": 1130910775.0,
+      "grossMargin": 0.1431699848252174,
+      "operatingMargin": 0.09669153392518014,
+      "netMargin": 0.05331164641847871,
+      "roe": 0.15028176229508197,
+      "roic": 0.17972537031094296
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 113858000000.0,
+      "operatingIncome": 9393000000.0,
+      "netIncome": 6816000000.0,
+      "eps": 6.04,
+      "freeCashFlow": 2625000000.0,
+      "totalDebt": 22726000000.0,
+      "cash": 9689000000.0,
+      "sharesOutstanding": 1131219375.0,
+      "grossMargin": 0.12592878849092728,
+      "operatingMargin": 0.08249749688208119,
+      "netMargin": 0.059864041174094045,
+      "roe": 0.15977496483825598,
+      "roic": 0.1436546049613067
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 109853000000.0,
+      "operatingIncome": 8698000000.0,
+      "netIncome": 5987000000.0,
+      "eps": 5.35,
+      "freeCashFlow": 3560000000.0,
+      "totalDebt": 20394000000.0,
+      "cash": 7693000000.0,
+      "sharesOutstanding": 1131224275.0,
+      "grossMargin": 0.12202670841943324,
+      "operatingMargin": 0.07917853859248268,
+      "netMargin": 0.05450010468535224,
+      "roe": 0.13274650229484933,
+      "roic": 0.132804030842049
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 111905000000.0,
+      "operatingIncome": 8391000000.0,
+      "netIncome": 5904000000.0,
+      "eps": null,
+      "freeCashFlow": 3341000000.0,
+      "totalDebt": 19738000000.0,
+      "cash": 8064000000.0,
+      "sharesOutstanding": 1131839264.0,
+      "grossMargin": 0.11877932174612395,
+      "operatingMargin": 0.0749832447165006,
+      "netMargin": 0.052759036682900676,
+      "roe": 0.12345007841087298,
+      "roic": 0.12419519559522224
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:39.760483+00:00"
+  }
+}

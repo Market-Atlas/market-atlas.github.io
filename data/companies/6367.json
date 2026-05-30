@@ -1,0 +1,111 @@
+{
+  "ticker": "6367",
+  "name": "Daikin Industries,Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 6818816851968.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23285.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4752335000000.0,
+    "operatingIncome": 401669000000.0,
+    "netIncome": 264757000000.0,
+    "eps": null,
+    "freeCashFlow": 268465000000.0,
+    "totalDebt": 986849000000.0,
+    "cash": 802663000000.0,
+    "sharesOutstanding": 293113973.0
+  },
+  "ratios": {
+    "roe": 0.09437093587472861,
+    "roic": 0.10591581666421436,
+    "grossMargin": 0.3422925782799403,
+    "operatingMargin": 0.08452034631396987,
+    "netMargin": 0.0557109294694082,
+    "debtToEquity": 0.33004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 3109106000000.0,
+      "operatingIncome": 316351000000.0,
+      "netIncome": 217709000000.0,
+      "eps": 743.46,
+      "freeCashFlow": 130965000000.0,
+      "totalDebt": 824814000000.0,
+      "cash": 817619000000.0,
+      "sharesOutstanding": 293113973.0,
+      "grossMargin": 0.3400781446499412,
+      "operatingMargin": 0.1017498277639939,
+      "netMargin": 0.07002302269526996,
+      "roe": 0.11044092872060716,
+      "roic": 0.11314069493595509
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3981578000000.0,
+      "operatingIncome": 377033000000.0,
+      "netIncome": 257754000000.0,
+      "eps": 880.05,
+      "freeCashFlow": -16180000000.0,
+      "totalDebt": 887628000000.0,
+      "cash": 617663000000.0,
+      "sharesOutstanding": 293113973.0,
+      "grossMargin": 0.33440912120772215,
+      "operatingMargin": 0.0946943648975356,
+      "netMargin": 0.0647366446167826,
+      "roe": 0.11516406883197075,
+      "roic": 0.12062068466882123
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4395317000000.0,
+      "operatingIncome": 392137000000.0,
+      "netIncome": 260311000000.0,
+      "eps": 888.64,
+      "freeCashFlow": 156934000000.0,
+      "totalDebt": 968185000000.0,
+      "cash": 737961000000.0,
+      "sharesOutstanding": 293113973.0,
+      "grossMargin": 0.34347306462764804,
+      "operatingMargin": 0.08921700073055026,
+      "netMargin": 0.05922462475402798,
+      "roe": 0.0985539345134318,
+      "roic": 0.10864055586800352
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4752335000000.0,
+      "operatingIncome": 401669000000.0,
+      "netIncome": 264757000000.0,
+      "eps": null,
+      "freeCashFlow": 268465000000.0,
+      "totalDebt": 986849000000.0,
+      "cash": 802663000000.0,
+      "sharesOutstanding": 293113973.0,
+      "grossMargin": 0.3422925782799403,
+      "operatingMargin": 0.08452034631396987,
+      "netMargin": 0.0557109294694082,
+      "roe": 0.09437093587472861,
+      "roic": 0.10591581666421436
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:05.372707+00:00"
+  }
+}

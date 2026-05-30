@@ -1,0 +1,128 @@
+{
+  "ticker": "SVT",
+  "name": "Severn Trent PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 8942441472.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2970.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 1.231,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 301092327.0
+  },
+  "ratios": {
+    "roe": 0.20544,
+    "roic": null,
+    "grossMargin": 0.32037997,
+    "operatingMargin": 0.28061,
+    "netMargin": 0.13104999,
+    "debtToEquity": 5.96632
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1943300000.0,
+      "operatingIncome": 501300000.0,
+      "netIncome": -87200000.0,
+      "eps": null,
+      "freeCashFlow": 243900000.0,
+      "totalDebt": 6731100000.0,
+      "cash": 90300000.0,
+      "sharesOutstanding": 253410074.0,
+      "grossMargin": 0.8960016466834766,
+      "operatingMargin": 0.2579632583749292,
+      "netMargin": -0.04487212473627335,
+      "roe": -0.06899280006329615,
+      "roic": 0.0627016885553471
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2165100000.0,
+      "operatingIncome": 506600000.0,
+      "netIncome": 132200000.0,
+      "eps": 0.525,
+      "freeCashFlow": 9600000.0,
+      "totalDebt": 7303600000.0,
+      "cash": 15800000.0,
+      "sharesOutstanding": 254425641.0,
+      "grossMargin": 0.8455036718858251,
+      "operatingMargin": 0.2339845734608101,
+      "netMargin": 0.06105953535633458,
+      "roe": 0.1362044096435195,
+      "roic": 0.06122646298131541
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2338200000.0,
+      "operatingIncome": 505800000.0,
+      "netIncome": 140200000.0,
+      "eps": 0.509,
+      "freeCashFlow": -386400000.0,
+      "totalDebt": 8263200000.0,
+      "cash": 909100000.0,
+      "sharesOutstanding": 301742969.0,
+      "grossMargin": 0.8432982636215892,
+      "operatingMargin": 0.21632024634334104,
+      "netMargin": 0.05996065349414079,
+      "roe": 0.07644492911668484,
+      "roic": 0.050093095115477555
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2426700000.0,
+      "operatingIncome": 599500000.0,
+      "netIncome": 229400000.0,
+      "eps": 0.764,
+      "freeCashFlow": -680500000.0,
+      "totalDebt": 9697100000.0,
+      "cash": 988800000.0,
+      "sharesOutstanding": 302650803.0,
+      "grossMargin": 0.9196439609346025,
+      "operatingMargin": 0.24704330984464498,
+      "netMargin": 0.0945316685210368,
+      "roe": 0.1295459679241021,
+      "roic": 0.05227635399680848
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.231,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:57.278903+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "WN",
+  "name": "George Weston Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 36414873600.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 96.58,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 64511000000.0,
+    "operatingIncome": 5100000000.0,
+    "netIncome": 1142000000.0,
+    "eps": 2.8,
+    "freeCashFlow": 3851000000.0,
+    "totalDebt": 19579000000.0,
+    "cash": 1450000000.0,
+    "sharesOutstanding": 379506166.0
+  },
+  "ratios": {
+    "roe": 0.21628787878787878,
+    "roic": 0.2051570859648417,
+    "grossMargin": 0.3199454356621351,
+    "operatingMargin": 0.07905628497465549,
+    "netMargin": 0.01770240734138364,
+    "debtToEquity": 1.63632
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 57048000000.0,
+      "operatingIncome": 4553000000.0,
+      "netIncome": 1816000000.0,
+      "eps": 4.053333,
+      "freeCashFlow": 3047000000.0,
+      "totalDebt": 20650000000.0,
+      "cash": 2313000000.0,
+      "sharesOutstanding": 422213826.0,
+      "grossMargin": 0.3246389005749544,
+      "operatingMargin": 0.07980998457439349,
+      "netMargin": 0.031832842518580845,
+      "roe": 0.2654582663353311,
+      "roic": 0.16561783856534865
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 60124000000.0,
+      "operatingIncome": 4363000000.0,
+      "netIncome": 1540000000.0,
+      "eps": 3.583333,
+      "freeCashFlow": 3509000000.0,
+      "totalDebt": 21302000000.0,
+      "cash": 2451000000.0,
+      "sharesOutstanding": 403639743.0,
+      "grossMargin": 0.32617590313352407,
+      "operatingMargin": 0.07256669549597498,
+      "netMargin": 0.025613731621315947,
+      "roe": 0.23071161048689137,
+      "roic": 0.15594952997104763
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 60717000000.0,
+      "operatingIncome": 3948000000.0,
+      "netIncome": 1359000000.0,
+      "eps": 3.266667,
+      "freeCashFlow": 3670000000.0,
+      "totalDebt": 22206000000.0,
+      "cash": 2048000000.0,
+      "sharesOutstanding": 390134334.0,
+      "grossMargin": 0.3198445245977239,
+      "operatingMargin": 0.06502297544345076,
+      "netMargin": 0.02238252878106626,
+      "roe": 0.21771867991028518,
+      "roic": 0.13877952755905512
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 64511000000.0,
+      "operatingIncome": 5100000000.0,
+      "netIncome": 1142000000.0,
+      "eps": 2.8,
+      "freeCashFlow": 3851000000.0,
+      "totalDebt": 19579000000.0,
+      "cash": 1450000000.0,
+      "sharesOutstanding": 379506166.0,
+      "grossMargin": 0.3199454356621351,
+      "operatingMargin": 0.07905628497465549,
+      "netMargin": 0.01770240734138364,
+      "roe": 0.21628787878787878,
+      "roic": 0.2051570859648417
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:10.189827+00:00"
+  }
+}

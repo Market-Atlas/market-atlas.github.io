@@ -1,0 +1,128 @@
+{
+  "ticker": "FSV",
+  "name": "FirstService Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 8498349056.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 184.82,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5497500000.0,
+    "operatingIncome": 350199000.0,
+    "netIncome": 145047000.0,
+    "eps": 3.17,
+    "freeCashFlow": 318236000.0,
+    "totalDebt": 1384382000.0,
+    "cash": 154425000.0,
+    "sharesOutstanding": 45722486.0
+  },
+  "ratios": {
+    "roe": 0.10541214056114866,
+    "roic": 0.1268661826030537,
+    "grossMargin": 0.33582282855843565,
+    "operatingMargin": 0.06370150068212824,
+    "netMargin": 0.02638417462482947,
+    "debtToEquity": 0.71663
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3745835000.0,
+      "operatingIncome": 223546000.0,
+      "netIncome": 121074000.0,
+      "eps": 2.72,
+      "freeCashFlow": 28284000.0,
+      "totalDebt": 952165000.0,
+      "cash": 136219000.0,
+      "sharesOutstanding": 44226493.0,
+      "grossMargin": 0.31504724580767707,
+      "operatingMargin": 0.05967854964246957,
+      "netMargin": 0.032322299300423005,
+      "roe": 0.1334198746840102,
+      "roic": 0.12020986959240838
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4334548000.0,
+      "operatingIncome": 266409000.0,
+      "netIncome": 100391000.0,
+      "eps": 2.24,
+      "freeCashFlow": 187626000.0,
+      "totalDebt": 1416928000.0,
+      "cash": 187617000.0,
+      "sharesOutstanding": 44682427.0,
+      "grossMargin": 0.32011180865917277,
+      "operatingMargin": 0.06146177179258368,
+      "netMargin": 0.023160661734510726,
+      "roe": 0.0980241098437137,
+      "roic": 0.10913597867168304
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5216894000.0,
+      "operatingIncome": 323110000.0,
+      "netIncome": 134375000.0,
+      "eps": 2.97,
+      "freeCashFlow": 172876000.0,
+      "totalDebt": 1566248000.0,
+      "cash": 227598000.0,
+      "sharesOutstanding": 45268672.0,
+      "grossMargin": 0.32929938771997286,
+      "operatingMargin": 0.06193532013493086,
+      "netMargin": 0.02575766346795622,
+      "roe": 0.1131344580406922,
+      "roic": 0.11732414812813681
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5497500000.0,
+      "operatingIncome": 350199000.0,
+      "netIncome": 145047000.0,
+      "eps": 3.17,
+      "freeCashFlow": 318236000.0,
+      "totalDebt": 1384382000.0,
+      "cash": 154425000.0,
+      "sharesOutstanding": 45722486.0,
+      "grossMargin": 0.33582282855843565,
+      "operatingMargin": 0.06370150068212824,
+      "netMargin": 0.02638417462482947,
+      "roe": 0.10541214056114866,
+      "roic": 0.1268661826030537
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.239080+00:00"
+  }
+}

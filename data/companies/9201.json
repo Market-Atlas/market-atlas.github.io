@@ -1,0 +1,111 @@
+{
+  "ticker": "9201",
+  "name": "Japan Airlines Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1177512968192.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2739.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1844095000000.0,
+    "operatingIncome": 168606000000.0,
+    "netIncome": 107038000000.0,
+    "eps": 245.09,
+    "freeCashFlow": null,
+    "totalDebt": 896023000000.0,
+    "cash": 749030000000.0,
+    "sharesOutstanding": 437143500.0
+  },
+  "ratios": {
+    "roe": 0.109776146420158,
+    "roic": 0.09011159330440173,
+    "grossMargin": 0.5122854299805596,
+    "operatingMargin": 0.09143021373627715,
+    "netMargin": 0.05804364742597318,
+    "debtToEquity": 0.6562300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 682712000000.0,
+      "operatingIncome": -234767000000.0,
+      "netIncome": -177552000000.0,
+      "eps": -406.29,
+      "freeCashFlow": null,
+      "totalDebt": 928463000000.0,
+      "cash": 494226000000.0,
+      "sharesOutstanding": 437143500.0,
+      "grossMargin": 0.1651457715698567,
+      "operatingMargin": -0.3438741372643223,
+      "netMargin": -0.2600686673150611,
+      "roe": -0.2220132643772445,
+      "roic": -0.13584488823335739
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1375588000000.0,
+      "operatingIncome": 65060000000.0,
+      "netIncome": 34423000000.0,
+      "eps": 78.77,
+      "freeCashFlow": null,
+      "totalDebt": 925503000000.0,
+      "cash": 639247000000.0,
+      "sharesOutstanding": 437143500.0,
+      "grossMargin": 0.4374318473263797,
+      "operatingMargin": 0.0472961380878577,
+      "netMargin": 0.02502420782966993,
+      "roe": 0.04217016543180838,
+      "roic": 0.037352357429794966
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1651889000000.0,
+      "operatingIncome": 140932000000.0,
+      "netIncome": 95534000000.0,
+      "eps": 218.61,
+      "freeCashFlow": null,
+      "totalDebt": 887293000000.0,
+      "cash": 713867000000.0,
+      "sharesOutstanding": 437143500.0,
+      "grossMargin": 0.49097972079237767,
+      "operatingMargin": 0.08531565982944375,
+      "netMargin": 0.05783318370665341,
+      "roe": 0.10498853229913391,
+      "roic": 0.0784157931049832
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1844095000000.0,
+      "operatingIncome": 168606000000.0,
+      "netIncome": 107038000000.0,
+      "eps": 245.09,
+      "freeCashFlow": null,
+      "totalDebt": 896023000000.0,
+      "cash": 749030000000.0,
+      "sharesOutstanding": 437143500.0,
+      "grossMargin": 0.5122854299805596,
+      "operatingMargin": 0.09143021373627715,
+      "netMargin": 0.05804364742597318,
+      "roe": 0.109776146420158,
+      "roic": 0.09011159330440173
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:17.649072+00:00"
+  }
+}

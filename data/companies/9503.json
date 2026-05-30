@@ -1,0 +1,111 @@
+{
+  "ticker": "9503",
+  "name": "The Kansai Electric Power Company, Incorporated",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2601895329792.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2335.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4337111000000.0,
+    "operatingIncome": 468877000000.0,
+    "netIncome": 420364000000.0,
+    "eps": 436.09,
+    "freeCashFlow": null,
+    "totalDebt": 3906823000000.0,
+    "cash": 942388000000.0,
+    "sharesOutstanding": 1114927528.0
+  },
+  "ratios": {
+    "roe": 0.13711164139691023,
+    "roic": 0.06724492393521855,
+    "grossMargin": 0.10810813926597682,
+    "operatingMargin": 0.10810813926597682,
+    "netMargin": 0.09692258279762726,
+    "debtToEquity": 1.22945
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2851894000000.0,
+      "operatingIncome": 99326000000.0,
+      "netIncome": 85835000000.0,
+      "eps": 96.14,
+      "freeCashFlow": null,
+      "totalDebt": 4352031000000.0,
+      "cash": 469052000000.0,
+      "sharesOutstanding": 938733028.0,
+      "grossMargin": 0.0348280826706743,
+      "operatingMargin": 0.0348280826706743,
+      "netMargin": 0.030097542194766003,
+      "roe": 0.05172110433159353,
+      "roic": 0.016522376303832336
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3951883000000.0,
+      "operatingIncome": -52056000000.0,
+      "netIncome": 17679000000.0,
+      "eps": 19.81,
+      "freeCashFlow": null,
+      "totalDebt": 4495347000000.0,
+      "cash": 266961000000.0,
+      "sharesOutstanding": 938733028.0,
+      "grossMargin": -0.013172454751317283,
+      "operatingMargin": -0.013172454751317283,
+      "netMargin": 0.004473563615117148,
+      "roe": 0.009883277923097263,
+      "roic": -0.008283729511470649
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4059377000000.0,
+      "operatingIncome": 728936000000.0,
+      "netIncome": 441870000000.0,
+      "eps": 495.09,
+      "freeCashFlow": null,
+      "totalDebt": 4043058000000.0,
+      "cash": 495938000000.0,
+      "sharesOutstanding": 938733028.0,
+      "grossMargin": 0.17956844116720375,
+      "operatingMargin": 0.17956844116720375,
+      "netMargin": 0.10885167847184432,
+      "roe": 0.19438621651405205,
+      "roic": 0.1154071276570312
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4337111000000.0,
+      "operatingIncome": 468877000000.0,
+      "netIncome": 420364000000.0,
+      "eps": 436.09,
+      "freeCashFlow": null,
+      "totalDebt": 3906823000000.0,
+      "cash": 942388000000.0,
+      "sharesOutstanding": 1114927528.0,
+      "grossMargin": 0.10810813926597682,
+      "operatingMargin": 0.10810813926597682,
+      "netMargin": 0.09692258279762726,
+      "roe": 0.13711164139691023,
+      "roic": 0.06724492393521855
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:18.526818+00:00"
+  }
+}

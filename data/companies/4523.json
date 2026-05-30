@@ -1,0 +1,111 @@
+{
+  "ticker": "4523",
+  "name": "Eisai Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1123941613568.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3984.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 789400000000.0,
+    "operatingIncome": 54377000000.0,
+    "netIncome": 46433000000.0,
+    "eps": 163.76,
+    "freeCashFlow": 7148000000.0,
+    "totalDebt": 187523000000.0,
+    "cash": 265561000000.0,
+    "sharesOutstanding": 291649149.0
+  },
+  "ratios": {
+    "roe": 0.05518429031027421,
+    "roic": 0.05284759072443485,
+    "grossMargin": 0.7861578413985305,
+    "operatingMargin": 0.06888396250316696,
+    "netMargin": 0.058820623258170765,
+    "debtToEquity": 0.20114
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 756226000000.0,
+      "operatingIncome": 53750000000.0,
+      "netIncome": 47954000000.0,
+      "eps": 167.25,
+      "freeCashFlow": 77123000000.0,
+      "totalDebt": 94893000000.0,
+      "cash": 309633000000.0,
+      "sharesOutstanding": 296566949.0,
+      "grossMargin": 0.7688111754951562,
+      "operatingMargin": 0.07107663582050869,
+      "netMargin": 0.06341226035603113,
+      "roe": 0.0640393365036504,
+      "roic": 0.06370642184436906
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 744402000000.0,
+      "operatingIncome": 40040000000.0,
+      "netIncome": 55432000000.0,
+      "eps": 193.31,
+      "freeCashFlow": -36331000000.0,
+      "totalDebt": 126105000000.0,
+      "cash": 267350000000.0,
+      "sharesOutstanding": 296566949.0,
+      "grossMargin": 0.7611008567951187,
+      "operatingMargin": 0.05378814135373092,
+      "netMargin": 0.07446514114685344,
+      "roe": 0.06929355129450385,
+      "roic": 0.043236752535461914
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 741751000000.0,
+      "operatingIncome": 53407000000.0,
+      "netIncome": 42407000000.0,
+      "eps": 147.86,
+      "freeCashFlow": 31170000000.0,
+      "totalDebt": 159405000000.0,
+      "cash": 304678000000.0,
+      "sharesOutstanding": 296566949.0,
+      "grossMargin": 0.7905860592031557,
+      "operatingMargin": 0.07200125109369586,
+      "netMargin": 0.057171476681527895,
+      "roe": 0.04843115802168536,
+      "roic": 0.051600018936850435
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 789400000000.0,
+      "operatingIncome": 54377000000.0,
+      "netIncome": 46433000000.0,
+      "eps": 163.76,
+      "freeCashFlow": 7148000000.0,
+      "totalDebt": 187523000000.0,
+      "cash": 265561000000.0,
+      "sharesOutstanding": 291649149.0,
+      "grossMargin": 0.7861578413985305,
+      "operatingMargin": 0.06888396250316696,
+      "netMargin": 0.058820623258170765,
+      "roe": 0.05518429031027421,
+      "roic": 0.05284759072443485
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:07.310034+00:00"
+  }
+}

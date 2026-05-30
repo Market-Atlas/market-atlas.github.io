@@ -1,0 +1,128 @@
+{
+  "ticker": "2007",
+  "name": "Country Garden Holdings Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 11240264704.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 0.243,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 154893000000.0,
+    "operatingIncome": -52195000000.0,
+    "netIncome": 3261000000.0,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": 150639000000.0,
+    "cash": 5811000000.0,
+    "sharesOutstanding": 28921056683.0
+  },
+  "ratios": {
+    "roe": -3.7962747380675204,
+    "roic": -0.3484777673921752,
+    "grossMargin": -0.27837281219938925,
+    "operatingMargin": -0.33697455662941517,
+    "netMargin": 0.021053243206600687,
+    "debtToEquity": 3.5364299999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.21,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 430371000000.0,
+      "operatingIncome": 8783000000.0,
+      "netIncome": -6052000000.0,
+      "eps": -0.26,
+      "freeCashFlow": 33676000000.0,
+      "totalDebt": 271718000000.0,
+      "cash": 128281000000.0,
+      "sharesOutstanding": 27637000000.0,
+      "grossMargin": 0.07640617049011202,
+      "operatingMargin": 0.020407973585580812,
+      "netMargin": -0.014062285795278956,
+      "roe": -0.029721593336705578,
+      "roic": 0.018477261586944953
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 401015000000.0,
+      "operatingIncome": -112657000000.0,
+      "netIncome": -178400000000.0,
+      "eps": -6.49,
+      "freeCashFlow": -77058000000.0,
+      "totalDebt": 251653000000.0,
+      "cash": 7130000000.0,
+      "sharesOutstanding": 27988507946.0,
+      "grossMargin": -0.2334301709412366,
+      "operatingMargin": -0.2809296410358715,
+      "netMargin": -0.44487113948356044,
+      "roe": -6.8755540139515166,
+      "roic": -0.40582492795389047
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 252756000000.0,
+      "operatingIncome": -12638000000.0,
+      "netIncome": -32835000000.0,
+      "eps": -1.19,
+      "freeCashFlow": -3321000000.0,
+      "totalDebt": 256004000000.0,
+      "cash": 6362000000.0,
+      "sharesOutstanding": 27988507946.0,
+      "grossMargin": -0.00667442118090174,
+      "operatingMargin": -0.05000079127696276,
+      "netMargin": -0.12990789536153444,
+      "roe": 4.569937369519833,
+      "roic": -0.050791941129897634
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 154893000000.0,
+      "operatingIncome": -52195000000.0,
+      "netIncome": 3261000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 150639000000.0,
+      "cash": 5811000000.0,
+      "sharesOutstanding": 28921056683.0,
+      "grossMargin": -0.27837281219938925,
+      "operatingMargin": -0.33697455662941517,
+      "netMargin": 0.021053243206600687,
+      "roe": -3.7962747380675204,
+      "roic": -0.3484777673921752
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:36.813327+00:00"
+  }
+}

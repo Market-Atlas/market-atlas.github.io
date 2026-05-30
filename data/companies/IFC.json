@@ -1,0 +1,111 @@
+{
+  "ticker": "IFC",
+  "name": "Intact Financial Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 47886807040.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 270.87,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26073000000.0,
+    "operatingIncome": null,
+    "netIncome": 3365000000.0,
+    "eps": 18.35,
+    "freeCashFlow": 3931000000.0,
+    "totalDebt": 5252000000.0,
+    "cash": 1077000000.0,
+    "sharesOutstanding": 177631629.0
+  },
+  "ratios": {
+    "roe": 0.16149932808600498,
+    "roic": null,
+    "grossMargin": 0.18932,
+    "operatingMargin": 0.17292999,
+    "netMargin": 0.12906071414873624,
+    "debtToEquity": 0.23328
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22539000000.0,
+      "operatingIncome": null,
+      "netIncome": 2454000000.0,
+      "eps": 13.63,
+      "freeCashFlow": 3254000000.0,
+      "totalDebt": 5144000000.0,
+      "cash": 1010000000.0,
+      "sharesOutstanding": 175256968.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10887794489551444,
+      "roe": 0.15489490626775232,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23290000000.0,
+      "operatingIncome": null,
+      "netIncome": 1316000000.0,
+      "eps": 6.99,
+      "freeCashFlow": 1388000000.0,
+      "totalDebt": 5741000000.0,
+      "cash": 939000000.0,
+      "sharesOutstanding": 178320868.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05650493774151997,
+      "roe": 0.08128474366893144,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24984000000.0,
+      "operatingIncome": null,
+      "netIncome": 2297000000.0,
+      "eps": 12.36,
+      "freeCashFlow": 2958000000.0,
+      "totalDebt": 5475000000.0,
+      "cash": 894000000.0,
+      "sharesOutstanding": 178363968.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09193884085814921,
+      "roe": 0.12657042098302843,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26073000000.0,
+      "operatingIncome": null,
+      "netIncome": 3365000000.0,
+      "eps": 18.35,
+      "freeCashFlow": 3931000000.0,
+      "totalDebt": 5252000000.0,
+      "cash": 1077000000.0,
+      "sharesOutstanding": 177631629.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12906071414873624,
+      "roe": 0.16149932808600498,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.118704+00:00"
+  }
+}

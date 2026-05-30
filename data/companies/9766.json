@@ -1,0 +1,111 @@
+{
+  "ticker": "9766",
+  "name": "Konami Group Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2566084100096.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18930.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 421602000000.0,
+    "operatingIncome": 101944000000.0,
+    "netIncome": 74692000000.0,
+    "eps": 551.0,
+    "freeCashFlow": 47758000000.0,
+    "totalDebt": 59905000000.0,
+    "cash": 294216000000.0,
+    "sharesOutstanding": 143500000.0
+  },
+  "ratios": {
+    "roe": 0.15501025211060657,
+    "roic": 0.18817292623814735,
+    "grossMargin": 0.4718217655513968,
+    "operatingMargin": 0.2418015094805053,
+    "netMargin": 0.17716234742719436,
+    "debtToEquity": 0.09821999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 299522000000.0,
+      "operatingIncome": 74435000000.0,
+      "netIncome": 54806000000.0,
+      "eps": 404.62,
+      "freeCashFlow": 73414000000.0,
+      "totalDebt": 68152000000.0,
+      "cash": 250711000000.0,
+      "sharesOutstanding": 143500000.0,
+      "grossMargin": 0.4501806211229893,
+      "operatingMargin": 0.24851263012399757,
+      "netMargin": 0.182978211951042,
+      "roe": 0.15746090484139275,
+      "roic": 0.17883871959789818
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 314321000000.0,
+      "operatingIncome": 46185000000.0,
+      "netIncome": 34895000000.0,
+      "eps": 257.49,
+      "freeCashFlow": -7681000000.0,
+      "totalDebt": 59819000000.0,
+      "cash": 219263000000.0,
+      "sharesOutstanding": 143500000.0,
+      "grossMargin": 0.3893821920902517,
+      "operatingMargin": 0.14693577584698445,
+      "netMargin": 0.11101708126405808,
+      "roe": 0.09274073522845662,
+      "roic": 0.10590873755684124
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 360314000000.0,
+      "operatingIncome": 80262000000.0,
+      "netIncome": 59171000000.0,
+      "eps": 436.5,
+      "freeCashFlow": 73745000000.0,
+      "totalDebt": 59862000000.0,
+      "cash": 273747000000.0,
+      "sharesOutstanding": 143500000.0,
+      "grossMargin": 0.44415981616034905,
+      "operatingMargin": 0.22275570752177268,
+      "netMargin": 0.1642206519868781,
+      "roe": 0.13845639060094253,
+      "roic": 0.16473326437121324
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 421602000000.0,
+      "operatingIncome": 101944000000.0,
+      "netIncome": 74692000000.0,
+      "eps": 551.0,
+      "freeCashFlow": 47758000000.0,
+      "totalDebt": 59905000000.0,
+      "cash": 294216000000.0,
+      "sharesOutstanding": 143500000.0,
+      "grossMargin": 0.4718217655513968,
+      "operatingMargin": 0.2418015094805053,
+      "netMargin": 0.17716234742719436,
+      "roe": 0.15501025211060657,
+      "roic": 0.18817292623814735
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:19.683812+00:00"
+  }
+}

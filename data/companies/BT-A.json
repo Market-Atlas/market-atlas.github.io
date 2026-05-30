@@ -1,0 +1,111 @@
+{
+  "ticker": "BT-A",
+  "name": "BT Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 20338771968.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 208.8,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20358000000.0,
+    "operatingIncome": 3485000000.0,
+    "netIncome": 1054000000.0,
+    "eps": 0.106,
+    "freeCashFlow": 2052000000.0,
+    "totalDebt": 23333000000.0,
+    "cash": 183000000.0,
+    "sharesOutstanding": 9968127681.0
+  },
+  "ratios": {
+    "roe": 0.08165478772854044,
+    "roic": 0.09616180568968848,
+    "grossMargin": 0.7364672364672364,
+    "operatingMargin": 0.1711857746340505,
+    "netMargin": 0.0517732586698104,
+    "debtToEquity": 1.80834
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 20850000000.0,
+      "operatingIncome": 3315000000.0,
+      "netIncome": 1274000000.0,
+      "eps": 0.125,
+      "freeCashFlow": 1080000000.0,
+      "totalDebt": 21945000000.0,
+      "cash": 753000000.0,
+      "sharesOutstanding": 9968127681.0,
+      "grossMargin": 0.7439328537170263,
+      "operatingMargin": 0.15899280575539568,
+      "netMargin": 0.0611031175059952,
+      "roe": 0.0832897489539749,
+      "roic": 0.08901479552106549
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 20681000000.0,
+      "operatingIncome": 3346000000.0,
+      "netIncome": 1905000000.0,
+      "eps": 0.189,
+      "freeCashFlow": 1417000000.0,
+      "totalDebt": 23880000000.0,
+      "cash": 261000000.0,
+      "sharesOutstanding": 9968127681.0,
+      "grossMargin": 0.7334268168850636,
+      "operatingMargin": 0.16179101590832165,
+      "netMargin": 0.09211353416179102,
+      "roe": 0.1312525837122778,
+      "roic": 0.08714903370318279
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 20797000000.0,
+      "operatingIncome": 3435000000.0,
+      "netIncome": 855000000.0,
+      "eps": 0.086,
+      "freeCashFlow": 984000000.0,
+      "totalDebt": 23481000000.0,
+      "cash": 343000000.0,
+      "sharesOutstanding": 9968127681.0,
+      "grossMargin": 0.7246237438092032,
+      "operatingMargin": 0.16516805308457952,
+      "netMargin": 0.04111169880271193,
+      "roe": 0.06830164563029238,
+      "roic": 0.09541931720325565
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 20358000000.0,
+      "operatingIncome": 3485000000.0,
+      "netIncome": 1054000000.0,
+      "eps": 0.106,
+      "freeCashFlow": 2052000000.0,
+      "totalDebt": 23333000000.0,
+      "cash": 183000000.0,
+      "sharesOutstanding": 9968127681.0,
+      "grossMargin": 0.7364672364672364,
+      "operatingMargin": 0.1711857746340505,
+      "netMargin": 0.0517732586698104,
+      "roe": 0.08165478772854044,
+      "roic": 0.09616180568968848
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:28.699189+00:00"
+  }
+}

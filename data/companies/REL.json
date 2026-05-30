@@ -1,0 +1,128 @@
+{
+  "ticker": "REL",
+  "name": "RELX PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 43228831744.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2450.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9590000000.0,
+    "operatingIncome": 2983000000.0,
+    "netIncome": 2065000000.0,
+    "eps": 1.12,
+    "freeCashFlow": 2311000000.0,
+    "totalDebt": 7267000000.0,
+    "cash": 131000000.0,
+    "sharesOutstanding": 1828060365.0
+  },
+  "ratios": {
+    "roe": 0.8727810650887574,
+    "roic": 0.3096646942800789,
+    "grossMargin": 0.6628779979144943,
+    "operatingMargin": 0.3110531803962461,
+    "netMargin": 0.21532846715328466,
+    "debtToEquity": 3.0405900000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8553000000.0,
+      "operatingIncome": 2304000000.0,
+      "netIncome": 1634000000.0,
+      "eps": 0.847,
+      "freeCashFlow": 1965000000.0,
+      "totalDebt": 6730000000.0,
+      "cash": 334000000.0,
+      "sharesOutstanding": 1934880088.0,
+      "grossMargin": 0.6439845668186601,
+      "operatingMargin": 0.2693791652051912,
+      "netMargin": 0.191044078101251,
+      "roe": 0.4327330508474576,
+      "roic": 0.2193032552826956
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9161000000.0,
+      "operatingIncome": 2636000000.0,
+      "netIncome": 1781000000.0,
+      "eps": 0.936,
+      "freeCashFlow": 1980000000.0,
+      "totalDebt": 6497000000.0,
+      "cash": 155000000.0,
+      "sharesOutstanding": 1906907605.0,
+      "grossMargin": 0.648946621547866,
+      "operatingMargin": 0.28774151293526906,
+      "netMargin": 0.19441109049230434,
+      "roe": 0.5147398843930636,
+      "roic": 0.264738375012554
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9434000000.0,
+      "operatingIncome": 2818000000.0,
+      "netIncome": 1934000000.0,
+      "eps": 1.031,
+      "freeCashFlow": 2124000000.0,
+      "totalDebt": 6544000000.0,
+      "cash": 119000000.0,
+      "sharesOutstanding": 1880844719.0,
+      "grossMargin": 0.6502013991944032,
+      "operatingMargin": 0.2987068051727793,
+      "netMargin": 0.20500317998728004,
+      "roe": 0.555587474863545,
+      "roic": 0.28109725685785536
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9590000000.0,
+      "operatingIncome": 2983000000.0,
+      "netIncome": 2065000000.0,
+      "eps": 1.12,
+      "freeCashFlow": 2311000000.0,
+      "totalDebt": 7267000000.0,
+      "cash": 131000000.0,
+      "sharesOutstanding": 1828060365.0,
+      "grossMargin": 0.6628779979144943,
+      "operatingMargin": 0.3110531803962461,
+      "netMargin": 0.21532846715328466,
+      "roe": 0.8727810650887574,
+      "roic": 0.3096646942800789
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:50.634263+00:00"
+  }
+}

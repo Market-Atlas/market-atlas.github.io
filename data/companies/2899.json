@@ -1,0 +1,111 @@
+{
+  "ticker": "2899",
+  "name": "Zijin Mining Group Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 871643545600.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.78,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 349079082852.0,
+    "operatingIncome": 75714325570.0,
+    "netIncome": 51777327785.0,
+    "eps": 1.91,
+    "freeCashFlow": 44447218533.0,
+    "totalDebt": 164492766171.0,
+    "cash": 65576737700.0,
+    "sharesOutstanding": 26589733140.0
+  },
+  "ratios": {
+    "roe": 0.2790599299801525,
+    "roic": 0.2163051800554782,
+    "grossMargin": 0.27727310104695224,
+    "operatingMargin": 0.21689734300723143,
+    "netMargin": 0.1483254950768625,
+    "debtToEquity": 0.6770099999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 270328998459.0,
+      "operatingIncome": 30645288999.0,
+      "netIncome": 20042045977.0,
+      "eps": 0.76,
+      "freeCashFlow": 3884149687.0,
+      "totalDebt": 123179611937.0,
+      "cash": 20243737052.0,
+      "sharesOutstanding": 26329312240.0,
+      "grossMargin": 0.1573812507149603,
+      "operatingMargin": 0.11336293617663028,
+      "netMargin": 0.0741394600329558,
+      "roe": 0.22533640015280018,
+      "roic": 0.1444698442593256
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 293403242878.0,
+      "operatingIncome": 32214484088.0,
+      "netIncome": 21119419571.0,
+      "eps": 0.8,
+      "freeCashFlow": 6431402351.0,
+      "totalDebt": 140854555323.0,
+      "cash": 18448716808.0,
+      "sharesOutstanding": 26326571240.0,
+      "grossMargin": 0.15807315523872695,
+      "operatingMargin": 0.10979593740003447,
+      "netMargin": 0.07198086620938156,
+      "roe": 0.19644885592554656,
+      "roic": 0.12970856582920956
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 303639957153.0,
+      "operatingIncome": 46612670788.0,
+      "netIncome": 32050602437.0,
+      "eps": 1.2,
+      "freeCashFlow": 24062564787.0,
+      "totalDebt": 148022341616.0,
+      "cash": 31690884267.0,
+      "sharesOutstanding": 26577888940.0,
+      "grossMargin": 0.20374060382582548,
+      "operatingMargin": 0.15351296721634208,
+      "netMargin": 0.10555462705736762,
+      "roe": 0.22928412967742628,
+      "roic": 0.16195759809827212
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 349079082852.0,
+      "operatingIncome": 75714325570.0,
+      "netIncome": 51777327785.0,
+      "eps": 1.91,
+      "freeCashFlow": 44447218533.0,
+      "totalDebt": 164492766171.0,
+      "cash": 65576737700.0,
+      "sharesOutstanding": 26589733140.0,
+      "grossMargin": 0.27727310104695224,
+      "operatingMargin": 0.21689734300723143,
+      "netMargin": 0.1483254950768625,
+      "roe": 0.2790599299801525,
+      "roic": 0.2163051800554782
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:39.658766+00:00"
+  }
+}

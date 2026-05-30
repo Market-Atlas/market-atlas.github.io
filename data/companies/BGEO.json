@@ -1,0 +1,111 @@
+{
+  "ticker": "BGEO",
+  "name": "Lion Finance Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "GEL",
+  "marketCap": {
+    "value": 4798178816.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 11110.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4344275000.0,
+    "operatingIncome": null,
+    "netIncome": 2161329000.0,
+    "eps": 49.52,
+    "freeCashFlow": 1856426000.0,
+    "totalDebt": 8609208000.0,
+    "cash": 7721862000.0,
+    "sharesOutstanding": 43474333.0
+  },
+  "ratios": {
+    "roe": 0.2566842957351051,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.0,
+    "netMargin": 0.49751201293656594,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2028446000.0,
+      "operatingIncome": null,
+      "netIncome": 1439507000.0,
+      "eps": 30.33,
+      "freeCashFlow": 4639786000.0,
+      "totalDebt": 2873429000.0,
+      "cash": 5967391000.0,
+      "sharesOutstanding": 47498982.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.709660005738383,
+      "roe": 0.3401824806047302,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2547549000.0,
+      "operatingIncome": null,
+      "netIncome": 1391277000.0,
+      "eps": 30.4252,
+      "freeCashFlow": 1112992000.0,
+      "totalDebt": 3056035000.0,
+      "cash": 4858073000.0,
+      "sharesOutstanding": 45766293.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5461237448229651,
+      "roe": 0.27832659594324227,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3596515000.0,
+      "operatingIncome": null,
+      "netIncome": 2476943000.0,
+      "eps": 55.75,
+      "freeCashFlow": 2843148000.0,
+      "totalDebt": 6853950000.0,
+      "cash": 6825222000.0,
+      "sharesOutstanding": 44498147.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6887064283062909,
+      "roe": 0.3544357937734343,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4344275000.0,
+      "operatingIncome": null,
+      "netIncome": 2161329000.0,
+      "eps": 49.52,
+      "freeCashFlow": 1856426000.0,
+      "totalDebt": 8609208000.0,
+      "cash": 7721862000.0,
+      "sharesOutstanding": 43474333.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.49751201293656594,
+      "roe": 0.2566842957351051,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:26.565375+00:00"
+  }
+}

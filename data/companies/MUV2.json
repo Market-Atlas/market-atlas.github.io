@@ -1,0 +1,128 @@
+{
+  "ticker": "MUV2",
+  "name": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 57877159936.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 452.3,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 62312000000.0,
+    "operatingIncome": null,
+    "netIncome": 6118000000.0,
+    "eps": null,
+    "freeCashFlow": 4606000000.0,
+    "totalDebt": 7434000000.0,
+    "cash": 5502000000.0,
+    "sharesOutstanding": 130645071.0
+  },
+  "ratios": {
+    "roe": 0.1840166030017746,
+    "roic": null,
+    "grossMargin": 0.36108002,
+    "operatingMargin": 0.15464,
+    "netMargin": 0.0981833354731031,
+    "debtToEquity": 0.21718
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 20.93,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 39707000000.0,
+      "operatingIncome": null,
+      "netIncome": 5313000000.0,
+      "eps": 38.12,
+      "freeCashFlow": 3623000000.0,
+      "totalDebt": 4748000000.0,
+      "cash": 6439000000.0,
+      "sharesOutstanding": 140098931.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.13380512252247714,
+      "roe": 0.1961023142509135,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 39684000000.0,
+      "operatingIncome": null,
+      "netIncome": 4606000000.0,
+      "eps": 33.88,
+      "freeCashFlow": 2197000000.0,
+      "totalDebt": 4713000000.0,
+      "cash": 8570000000.0,
+      "sharesOutstanding": 136468150.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11606692873702248,
+      "roe": 0.15534569983136592,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 64424000000.0,
+      "operatingIncome": null,
+      "netIncome": 5704000000.0,
+      "eps": 42.93,
+      "freeCashFlow": 2827000000.0,
+      "totalDebt": 6321000000.0,
+      "cash": 9271000000.0,
+      "sharesOutstanding": 133760287.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08853843288215572,
+      "roe": 0.17391834619020033,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 62312000000.0,
+      "operatingIncome": null,
+      "netIncome": 6118000000.0,
+      "eps": null,
+      "freeCashFlow": 4606000000.0,
+      "totalDebt": 7434000000.0,
+      "cash": 5502000000.0,
+      "sharesOutstanding": 130645071.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0981833354731031,
+      "roe": 0.1840166030017746,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:23.242944+00:00"
+  }
+}

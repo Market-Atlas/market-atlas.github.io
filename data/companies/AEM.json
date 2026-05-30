@@ -1,0 +1,128 @@
+{
+  "ticker": "AEM",
+  "name": "Agnico Eagle Mines Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 126749179904.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 253.48,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11907851000.0,
+    "operatingIncome": 6327961000.0,
+    "netIncome": 4461461000.0,
+    "eps": 8.86,
+    "freeCashFlow": 4261981000.0,
+    "totalDebt": 321470000.0,
+    "cash": 2866053000.0,
+    "sharesOutstanding": 500768400.0
+  },
+  "ratios": {
+    "roe": 0.1803159539809778,
+    "roic": 0.25247277622100345,
+    "grossMargin": 0.5812862455198675,
+    "operatingMargin": 0.5314108313918271,
+    "netMargin": 0.3746655042962832,
+    "debtToEquity": 0.012150000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5741162000.0,
+      "operatingIncome": 1442909000.0,
+      "netIncome": 670249000.0,
+      "eps": 1.53,
+      "freeCashFlow": 558399000.0,
+      "totalDebt": 1493412000.0,
+      "cash": 658625000.0,
+      "sharesOutstanding": 457160104.0,
+      "grossMargin": 0.348910203195799,
+      "operatingMargin": 0.25132699617255183,
+      "netMargin": 0.11674448482728758,
+      "roe": 0.04126807231790224,
+      "roic": 0.08136051709081776
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6626909000.0,
+      "operatingIncome": 1694633000.0,
+      "netIncome": 1941307000.0,
+      "eps": 3.95,
+      "freeCashFlow": -64134000.0,
+      "totalDebt": 2004634000.0,
+      "cash": 338648000.0,
+      "sharesOutstanding": 497970524.0,
+      "grossMargin": 0.33226274874153244,
+      "operatingMargin": 0.25571997442548255,
+      "netMargin": 0.2929430598790477,
+      "roe": 0.09994931244872358,
+      "roic": 0.07908664682087531
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8285753000.0,
+      "operatingIncome": 3149429000.0,
+      "netIncome": 1895581000.0,
+      "eps": 3.78,
+      "freeCashFlow": 2126647000.0,
+      "totalDebt": 1282182000.0,
+      "cash": 926431000.0,
+      "sharesOutstanding": 502440336.0,
+      "grossMargin": 0.4448113526917831,
+      "operatingMargin": 0.38010172400746195,
+      "netMargin": 0.22877594830548292,
+      "roe": 0.09098978058743622,
+      "roic": 0.14241091215488144
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11907851000.0,
+      "operatingIncome": 6327961000.0,
+      "netIncome": 4461461000.0,
+      "eps": 8.86,
+      "freeCashFlow": 4261981000.0,
+      "totalDebt": 321470000.0,
+      "cash": 2866053000.0,
+      "sharesOutstanding": 500768400.0,
+      "grossMargin": 0.5812862455198675,
+      "operatingMargin": 0.5314108313918271,
+      "netMargin": 0.3746655042962832,
+      "roe": 0.1803159539809778,
+      "roic": 0.25247277622100345
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:01.518107+00:00"
+  }
+}

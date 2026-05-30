@@ -1,0 +1,128 @@
+{
+  "ticker": "HEN3",
+  "name": "Henkel AG & Co. KGaA",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 27143706624.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 66.68,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20495000000.0,
+    "operatingIncome": 2765000000.0,
+    "netIncome": 2035000000.0,
+    "eps": 4.92,
+    "freeCashFlow": 1842000000.0,
+    "totalDebt": 3708000000.0,
+    "cash": 2708000000.0,
+    "sharesOutstanding": 437958750.0
+  },
+  "ratios": {
+    "roe": 0.09929735532350932,
+    "roic": 0.11424675646640774,
+    "grossMargin": 0.5084654793852159,
+    "operatingMargin": 0.13491095389119298,
+    "netMargin": 0.09929251036838253,
+    "debtToEquity": 0.18017
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22397000000.0,
+      "operatingIncome": 1756000000.0,
+      "netIncome": 1259000000.0,
+      "eps": 2.95,
+      "freeCashFlow": 654000000.0,
+      "totalDebt": 3586000000.0,
+      "cash": 1088000000.0,
+      "sharesOutstanding": 437958750.0,
+      "grossMargin": 0.4182256552216815,
+      "operatingMargin": 0.07840335759253471,
+      "netMargin": 0.056212885654328706,
+      "roe": 0.06268983717572076,
+      "roic": 0.07418986860450379
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21514000000.0,
+      "operatingIncome": 2212000000.0,
+      "netIncome": 1318000000.0,
+      "eps": 3.15,
+      "freeCashFlow": 2647000000.0,
+      "totalDebt": 2892000000.0,
+      "cash": 1951000000.0,
+      "sharesOutstanding": 437958750.0,
+      "grossMargin": 0.44905642837222276,
+      "operatingMargin": 0.10281677047503951,
+      "netMargin": 0.06126243376406061,
+      "roe": 0.06615801626342736,
+      "roic": 0.09695800824055405
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21586000000.0,
+      "operatingIncome": 2827000000.0,
+      "netIncome": 2007000000.0,
+      "eps": 4.8,
+      "freeCashFlow": 2494000000.0,
+      "totalDebt": 3576000000.0,
+      "cash": 2889000000.0,
+      "sharesOutstanding": 437958750.0,
+      "grossMargin": 0.5012971370332623,
+      "operatingMargin": 0.13096451403687576,
+      "netMargin": 0.09297692949133697,
+      "roe": 0.09235229155162894,
+      "roic": 0.11170380907223013
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20495000000.0,
+      "operatingIncome": 2765000000.0,
+      "netIncome": 2035000000.0,
+      "eps": 4.92,
+      "freeCashFlow": 1842000000.0,
+      "totalDebt": 3708000000.0,
+      "cash": 2708000000.0,
+      "sharesOutstanding": 437958750.0,
+      "grossMargin": 0.5084654793852159,
+      "operatingMargin": 0.13491095389119298,
+      "netMargin": 0.09929251036838253,
+      "roe": 0.09929735532350932,
+      "roic": 0.11424675646640774
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:20.641257+00:00"
+  }
+}

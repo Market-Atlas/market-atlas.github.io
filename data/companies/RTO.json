@@ -1,0 +1,128 @@
+{
+  "ticker": "RTO",
+  "name": "Rentokil Initial plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 11292883968.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 448.8,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6908000000.0,
+    "operatingIncome": 658000000.0,
+    "netIncome": 470000000.0,
+    "eps": 0.1854,
+    "freeCashFlow": 703000000.0,
+    "totalDebt": 6130000000.0,
+    "cash": 2319000000.0,
+    "sharesOutstanding": 2526039885.0
+  },
+  "ratios": {
+    "roe": 0.08551673944687045,
+    "roic": 0.0565972819542405,
+    "grossMargin": 0.8312101910828026,
+    "operatingMargin": 0.0952518818760857,
+    "netMargin": 0.06803705848291836,
+    "debtToEquity": 1.11995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4494681172.925415,
+      "operatingIncome": 412678050.610546,
+      "netIncome": 280766298.3626,
+      "eps": 0.139294,
+      "freeCashFlow": 496181820.382181,
+      "totalDebt": 6509663443.501833,
+      "cash": 2610400455.035035,
+      "sharesOutstanding": 2520039885.0,
+      "grossMargin": 0.810446957458266,
+      "operatingMargin": 0.09181475498115248,
+      "netMargin": 0.06246634356488962,
+      "roe": 0.056599170529397426,
+      "roic": 0.03597805444186541
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6385000000.0,
+      "operatingIncome": 776000000.0,
+      "netIncome": 474000000.0,
+      "eps": 0.191977,
+      "freeCashFlow": 654000000.0,
+      "totalDebt": 6027000000.0,
+      "cash": 1989000000.0,
+      "sharesOutstanding": 2522539885.0,
+      "grossMargin": 0.8297572435395458,
+      "operatingMargin": 0.12153484729835552,
+      "netMargin": 0.07423649177760376,
+      "roe": 0.090978886756238,
+      "roic": 0.06905757764527899
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6617000000.0,
+      "operatingIncome": 715000000.0,
+      "netIncome": 392000000.0,
+      "eps": 0.152331,
+      "freeCashFlow": 593000000.0,
+      "totalDebt": 5144000000.0,
+      "cash": 1158000000.0,
+      "sharesOutstanding": 2524539885.0,
+      "grossMargin": 0.8354239081154602,
+      "operatingMargin": 0.10805500982318271,
+      "netMargin": 0.05924134804291975,
+      "roe": 0.07403210576015108,
+      "roic": 0.0684931506849315
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6908000000.0,
+      "operatingIncome": 658000000.0,
+      "netIncome": 470000000.0,
+      "eps": 0.1854,
+      "freeCashFlow": 703000000.0,
+      "totalDebt": 6130000000.0,
+      "cash": 2319000000.0,
+      "sharesOutstanding": 2526039885.0,
+      "grossMargin": 0.8312101910828026,
+      "operatingMargin": 0.0952518818760857,
+      "netMargin": 0.06803705848291836,
+      "roe": 0.08551673944687045,
+      "roic": 0.0565972819542405
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:51.793210+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "SBRY",
+  "name": "J Sainsbury plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6562959872.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 296.3,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32812000000.0,
+    "operatingIncome": 951000000.0,
+    "netIncome": 242000000.0,
+    "eps": null,
+    "freeCashFlow": 505000000.0,
+    "totalDebt": 6608000000.0,
+    "cash": 2777000000.0,
+    "sharesOutstanding": 2339424088.0
+  },
+  "ratios": {
+    "roe": 0.03638550593895655,
+    "roic": 0.07172486612866733,
+    "grossMargin": 0.0676886504937218,
+    "operatingMargin": 0.028983298793124466,
+    "netMargin": 0.0073753504815311476,
+    "debtToEquity": 1.07333
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-02-28",
+      "revenue": 29895000000.0,
+      "operatingIncome": 1156000000.0,
+      "netIncome": 677000000.0,
+      "eps": 0.288,
+      "freeCashFlow": 312000000.0,
+      "totalDebt": 7382000000.0,
+      "cash": 807000000.0,
+      "sharesOutstanding": 2332976743.0,
+      "grossMargin": 0.0791436695099515,
+      "operatingMargin": 0.038668673691252715,
+      "netMargin": 0.022645927412610803,
+      "roe": 0.08037516324349994,
+      "roic": 0.07314141094590319
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-02-28",
+      "revenue": 31491000000.0,
+      "operatingIncome": 562000000.0,
+      "netIncome": 207000000.0,
+      "eps": 0.088,
+      "freeCashFlow": 1416000000.0,
+      "totalDebt": 7145000000.0,
+      "cash": 1319000000.0,
+      "sharesOutstanding": 2345399585.0,
+      "grossMargin": 0.06363722968467181,
+      "operatingMargin": 0.01784636880378521,
+      "netMargin": 0.006573306659045442,
+      "roe": 0.02853991451813043,
+      "roic": 0.039033199055424364
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-02-29",
+      "revenue": 32238000000.0,
+      "operatingIncome": 809000000.0,
+      "netIncome": 137000000.0,
+      "eps": 0.057,
+      "freeCashFlow": 548000000.0,
+      "totalDebt": 6549000000.0,
+      "cash": 1987000000.0,
+      "sharesOutstanding": 2368994502.0,
+      "grossMargin": 0.06483032446181525,
+      "operatingMargin": 0.02509460884670265,
+      "netMargin": 0.00424964327811899,
+      "roe": 0.019947582993593477,
+      "roic": 0.06029663859282999
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-02-28",
+      "revenue": 32812000000.0,
+      "operatingIncome": 951000000.0,
+      "netIncome": 242000000.0,
+      "eps": null,
+      "freeCashFlow": 505000000.0,
+      "totalDebt": 6608000000.0,
+      "cash": 2777000000.0,
+      "sharesOutstanding": 2339424088.0,
+      "grossMargin": 0.0676886504937218,
+      "operatingMargin": 0.028983298793124466,
+      "netMargin": 0.0073753504815311476,
+      "roe": 0.03638550593895655,
+      "roic": 0.07172486612866733
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:53.088634+00:00"
+  }
+}

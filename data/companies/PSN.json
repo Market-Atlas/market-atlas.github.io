@@ -1,0 +1,111 @@
+{
+  "ticker": "PSN",
+  "name": "Persimmon Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3574402304.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1113.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3751300000.0,
+    "operatingIncome": 412700000.0,
+    "netIncome": 285700000.0,
+    "eps": 0.882,
+    "freeCashFlow": -11100000.0,
+    "totalDebt": null,
+    "cash": 117000000.0,
+    "sharesOutstanding": 320681126.0
+  },
+  "ratios": {
+    "roe": 0.07905149276445035,
+    "roic": 0.11419163830552558,
+    "grossMargin": 0.16434302775037987,
+    "operatingMargin": 0.11001519473249273,
+    "netMargin": 0.07616026444166023,
+    "debtToEquity": 0.00407
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3815800000.0,
+      "operatingIncome": 724900000.0,
+      "netIncome": 561000000.0,
+      "eps": 1.743,
+      "freeCashFlow": 371800000.0,
+      "totalDebt": null,
+      "cash": 861600000.0,
+      "sharesOutstanding": 319323432.0,
+      "grossMargin": 0.22734420042979192,
+      "operatingMargin": 0.18997326903925782,
+      "netMargin": 0.14702028408197496,
+      "roe": 0.16311458727066555,
+      "roic": 0.21076963335562468
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2773200000.0,
+      "operatingIncome": 346900000.0,
+      "netIncome": 255400000.0,
+      "eps": 0.795,
+      "freeCashFlow": -166200000.0,
+      "totalDebt": null,
+      "cash": 420100000.0,
+      "sharesOutstanding": 319421416.0,
+      "grossMargin": 0.18754507428241743,
+      "operatingMargin": 0.12509014856483486,
+      "netMargin": 0.09209577383528054,
+      "roe": 0.07471113061284189,
+      "roic": 0.10147725610647945
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3200700000.0,
+      "operatingIncome": 394200000.0,
+      "netIncome": 267100000.0,
+      "eps": 0.827,
+      "freeCashFlow": 52600000.0,
+      "totalDebt": null,
+      "cash": 258600000.0,
+      "sharesOutstanding": 319914868.0,
+      "grossMargin": 0.181335332895929,
+      "operatingMargin": 0.12316055862780016,
+      "netMargin": 0.0834504952041741,
+      "roe": 0.07617064963212228,
+      "roic": 0.11241658586665146
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3751300000.0,
+      "operatingIncome": 412700000.0,
+      "netIncome": 285700000.0,
+      "eps": 0.882,
+      "freeCashFlow": -11100000.0,
+      "totalDebt": null,
+      "cash": 117000000.0,
+      "sharesOutstanding": 320681126.0,
+      "grossMargin": 0.16434302775037987,
+      "operatingMargin": 0.11001519473249273,
+      "netMargin": 0.07616026444166023,
+      "roe": 0.07905149276445035,
+      "roic": 0.11419163830552558
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:49.248975+00:00"
+  }
+}

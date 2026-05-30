@@ -1,0 +1,128 @@
+{
+  "ticker": "POW",
+  "name": "Power Corporation of Canada",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 52513198080.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 83.33,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37649000000.0,
+    "operatingIncome": null,
+    "netIncome": 2627000000.0,
+    "eps": 3.94,
+    "freeCashFlow": 4155000000.0,
+    "totalDebt": 25876000000.0,
+    "cash": 13497000000.0,
+    "sharesOutstanding": 635732958.0
+  },
+  "ratios": {
+    "roe": 0.10752292075965947,
+    "roic": null,
+    "grossMargin": 0.52502,
+    "operatingMargin": 0.18761998,
+    "netMargin": 0.06977608967037637,
+    "debtToEquity": 0.47533000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -5714000000.0,
+      "operatingIncome": null,
+      "netIncome": 2247000000.0,
+      "eps": 3.22,
+      "freeCashFlow": 3450000000.0,
+      "totalDebt": 21174000000.0,
+      "cash": 8867000000.0,
+      "sharesOutstanding": 667080597.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.39324466223311166,
+      "roe": 0.10271530444322545,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34646000000.0,
+      "operatingIncome": null,
+      "netIncome": 2247000000.0,
+      "eps": 3.3,
+      "freeCashFlow": 4637000000.0,
+      "totalDebt": 20943000000.0,
+      "cash": 9144000000.0,
+      "sharesOutstanding": 652248739.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06485597182935982,
+      "roe": 0.10147676466603442,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 32971000000.0,
+      "operatingIncome": null,
+      "netIncome": 2795000000.0,
+      "eps": 4.19,
+      "freeCashFlow": 5017000000.0,
+      "totalDebt": 24135000000.0,
+      "cash": 12549000000.0,
+      "sharesOutstanding": 644809194.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08477146583361135,
+      "roe": 0.11704355108877722,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 37649000000.0,
+      "operatingIncome": null,
+      "netIncome": 2627000000.0,
+      "eps": 3.94,
+      "freeCashFlow": 4155000000.0,
+      "totalDebt": 25876000000.0,
+      "cash": 13497000000.0,
+      "sharesOutstanding": 635732958.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06977608967037637,
+      "roe": 0.10752292075965947,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:07.215522+00:00"
+  }
+}

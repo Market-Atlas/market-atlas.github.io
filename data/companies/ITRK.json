@@ -1,0 +1,128 @@
+{
+  "ticker": "ITRK",
+  "name": "Intertek Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 8165998592.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5320.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3431600000.0,
+    "operatingIncome": 542300000.0,
+    "netIncome": 343500000.0,
+    "eps": 2.16,
+    "freeCashFlow": 392000000.0,
+    "totalDebt": 1648200000.0,
+    "cash": 329200000.0,
+    "sharesOutstanding": 153931794.0
+  },
+  "ratios": {
+    "roe": 0.3172038045987626,
+    "roic": 0.19856468089780674,
+    "grossMargin": 0.56909,
+    "operatingMargin": 0.15803123907215294,
+    "netMargin": 0.1000990791467537,
+    "debtToEquity": 1.46182
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3192900000.0,
+      "operatingIncome": 452400000.0,
+      "netIncome": 288800000.0,
+      "eps": 1.784,
+      "freeCashFlow": 443400000.0,
+      "totalDebt": 1380800000.0,
+      "cash": 321600000.0,
+      "sharesOutstanding": 161393127.0,
+      "grossMargin": null,
+      "operatingMargin": 0.14168937329700274,
+      "netMargin": 0.0904506874628081,
+      "roe": 0.22492211838006232,
+      "roic": 0.16976883818673072
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3328700000.0,
+      "operatingIncome": 486200000.0,
+      "netIncome": 297400000.0,
+      "eps": 1.834,
+      "freeCashFlow": 418100000.0,
+      "totalDebt": 1217700000.0,
+      "cash": 299300000.0,
+      "sharesOutstanding": 161393127.0,
+      "grossMargin": null,
+      "operatingMargin": 0.14606302760837564,
+      "netMargin": 0.08934418842190645,
+      "roe": 0.22472419525464712,
+      "roic": 0.19133446145370114
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3393200000.0,
+      "operatingIncome": 535700000.0,
+      "netIncome": 345400000.0,
+      "eps": 2.127,
+      "freeCashFlow": 462100000.0,
+      "totalDebt": 1142400000.0,
+      "cash": 343000000.0,
+      "sharesOutstanding": 157016505.0,
+      "grossMargin": null,
+      "operatingMargin": 0.1578745726747613,
+      "netMargin": 0.10179181893198161,
+      "roe": 0.2463799129752479,
+      "roic": 0.21054907047124946
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3431600000.0,
+      "operatingIncome": 542300000.0,
+      "netIncome": 343500000.0,
+      "eps": 2.16,
+      "freeCashFlow": 392000000.0,
+      "totalDebt": 1648200000.0,
+      "cash": 329200000.0,
+      "sharesOutstanding": 153931794.0,
+      "grossMargin": null,
+      "operatingMargin": 0.15803123907215294,
+      "netMargin": 0.1000990791467537,
+      "roe": 0.3172038045987626,
+      "roic": 0.19856468089780674
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:42.801550+00:00"
+  }
+}

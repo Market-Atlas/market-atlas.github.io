@@ -1,0 +1,128 @@
+{
+  "ticker": "CA",
+  "name": "Carrefour SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 11346578432.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16.035,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 84024000000.0,
+    "operatingIncome": 2120000000.0,
+    "netIncome": 319000000.0,
+    "eps": 0.47,
+    "freeCashFlow": 2425000000.0,
+    "totalDebt": 5259000000.0,
+    "cash": 6179000000.0,
+    "sharesOutstanding": 736314789.0
+  },
+  "ratios": {
+    "roe": 0.0290634110787172,
+    "roic": 0.13058207576224207,
+    "grossMargin": 0.19069551556698086,
+    "operatingMargin": 0.025230886413405693,
+    "netMargin": 0.0037965343235266116,
+    "debtToEquity": 1.80581
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 83088000000.0,
+      "operatingIncome": 2343000000.0,
+      "netIncome": 1348000000.0,
+      "eps": 1.8,
+      "freeCashFlow": 2337000000.0,
+      "totalDebt": 14087000000.0,
+      "cash": 5216000000.0,
+      "sharesOutstanding": 742157461.0,
+      "grossMargin": 0.19632197188523012,
+      "operatingMargin": 0.02819901790872328,
+      "netMargin": 0.01622376275755825,
+      "roe": 0.12096195262024408,
+      "roic": 0.09286195553089453
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 84910000000.0,
+      "operatingIncome": 2235000000.0,
+      "netIncome": 1659000000.0,
+      "eps": 2.31,
+      "freeCashFlow": 2676000000.0,
+      "totalDebt": 4901000000.0,
+      "cash": 6290000000.0,
+      "sharesOutstanding": 708790816.0,
+      "grossMargin": 0.19587798845836768,
+      "operatingMargin": 0.02632198798728065,
+      "netMargin": 0.01953833470733718,
+      "roe": 0.14377329057977295,
+      "roic": 0.13594890510948904
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 83453000000.0,
+      "operatingIncome": 2239000000.0,
+      "netIncome": 723000000.0,
+      "eps": 1.07,
+      "freeCashFlow": 2462000000.0,
+      "totalDebt": 5069000000.0,
+      "cash": 6564000000.0,
+      "sharesOutstanding": 677969188.0,
+      "grossMargin": 0.19322253244341125,
+      "operatingMargin": 0.0268294728769487,
+      "netMargin": 0.008663559129090627,
+      "roe": 0.06682070240295748,
+      "roic": 0.1409150984958147
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 84024000000.0,
+      "operatingIncome": 2120000000.0,
+      "netIncome": 319000000.0,
+      "eps": 0.47,
+      "freeCashFlow": 2425000000.0,
+      "totalDebt": 5259000000.0,
+      "cash": 6179000000.0,
+      "sharesOutstanding": 736314789.0,
+      "grossMargin": 0.19069551556698086,
+      "operatingMargin": 0.025230886413405693,
+      "netMargin": 0.0037965343235266116,
+      "roe": 0.0290634110787172,
+      "roic": 0.13058207576224207
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:15.448894+00:00"
+  }
+}

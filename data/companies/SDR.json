@@ -1,0 +1,128 @@
+{
+  "ticker": "SDR",
+  "name": "Schroders plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 9106434048.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 584.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3250700000.0,
+    "operatingIncome": 477700000.0,
+    "netIncome": 539800000.0,
+    "eps": 0.336,
+    "freeCashFlow": 895300000.0,
+    "totalDebt": 573600000.0,
+    "cash": 4680400000.0,
+    "sharesOutstanding": 1612071525.0
+  },
+  "ratios": {
+    "roe": 0.12114003590664273,
+    "roic": 0.09497773182758072,
+    "grossMargin": 0.7703879164487649,
+    "operatingMargin": 0.14695296397698956,
+    "netMargin": 0.16605654166794845,
+    "debtToEquity": 0.12871
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2891700000.0,
+      "operatingIncome": 596600000.0,
+      "netIncome": 486200000.0,
+      "eps": 0.299,
+      "freeCashFlow": 868500000.0,
+      "totalDebt": 361000000.0,
+      "cash": 5045300000.0,
+      "sharesOutstanding": 1612100000.0,
+      "grossMargin": 0.816613064979078,
+      "operatingMargin": 0.20631462461527822,
+      "netMargin": 0.16813639035861258,
+      "roe": 0.11161872402947726,
+      "roic": 0.12648137547965824
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2936700000.0,
+      "operatingIncome": 557000000.0,
+      "netIncome": 402600000.0,
+      "eps": 0.242,
+      "freeCashFlow": -318000000.0,
+      "totalDebt": 318700000.0,
+      "cash": 4103000000.0,
+      "sharesOutstanding": 1612071525.0,
+      "grossMargin": 0.7949058466986754,
+      "operatingMargin": 0.18966867572445262,
+      "netMargin": 0.13709265502094187,
+      "roe": 0.09169589577734251,
+      "roic": 0.11827660161807488
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3067000000.0,
+      "operatingIncome": 468400000.0,
+      "netIncome": 417000000.0,
+      "eps": 0.26,
+      "freeCashFlow": 977700000.0,
+      "totalDebt": 601700000.0,
+      "cash": 4214700000.0,
+      "sharesOutstanding": 1612071525.0,
+      "grossMargin": 0.7727420932507336,
+      "operatingMargin": 0.15272253015976525,
+      "netMargin": 0.13596348223019236,
+      "roe": 0.09455139106183252,
+      "roic": 0.09345570630486831
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3250700000.0,
+      "operatingIncome": 477700000.0,
+      "netIncome": 539800000.0,
+      "eps": 0.336,
+      "freeCashFlow": 895300000.0,
+      "totalDebt": 573600000.0,
+      "cash": 4680400000.0,
+      "sharesOutstanding": 1612071525.0,
+      "grossMargin": 0.7703879164487649,
+      "operatingMargin": 0.14695296397698956,
+      "netMargin": 0.16605654166794845,
+      "roe": 0.12114003590664273,
+      "roic": 0.09497773182758072
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:54.133326+00:00"
+  }
+}

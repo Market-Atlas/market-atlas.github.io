@@ -1,0 +1,111 @@
+{
+  "ticker": "3968",
+  "name": "China Merchants Bank Co., Ltd.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 1187854680064.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.1,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 332059000000.0,
+    "operatingIncome": null,
+    "netIncome": 150181000000.0,
+    "eps": 5.7,
+    "freeCashFlow": 423316000000.0,
+    "totalDebt": 405441000000.0,
+    "cash": 1321522000000.0,
+    "sharesOutstanding": 25219845601.0
+  },
+  "ratios": {
+    "roe": 0.11798566237847392,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.61954,
+    "netMargin": 0.45227203599360355,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 342258000000.0,
+      "operatingIncome": null,
+      "netIncome": 138012000000.0,
+      "eps": 5.26,
+      "freeCashFlow": 535251000000.0,
+      "totalDebt": 443861000000.0,
+      "cash": 960911000000.0,
+      "sharesOutstanding": 25219845601.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.403239661308136,
+      "roe": 0.14596674997329465,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 336647000000.0,
+      "operatingIncome": null,
+      "netIncome": 146602000000.0,
+      "eps": 5.63,
+      "freeCashFlow": 327592000000.0,
+      "totalDebt": 436552000000.0,
+      "cash": 1073586000000.0,
+      "sharesOutstanding": 25219845601.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4354769238995149,
+      "roe": 0.13620037719371592,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 334856000000.0,
+      "operatingIncome": null,
+      "netIncome": 148391000000.0,
+      "eps": 5.66,
+      "freeCashFlow": 412093000000.0,
+      "totalDebt": 471075000000.0,
+      "cash": 1212666000000.0,
+      "sharesOutstanding": 25219845601.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.44314869675323126,
+      "roe": 0.12103532259827375,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 332059000000.0,
+      "operatingIncome": null,
+      "netIncome": 150181000000.0,
+      "eps": 5.7,
+      "freeCashFlow": 423316000000.0,
+      "totalDebt": 405441000000.0,
+      "cash": 1321522000000.0,
+      "sharesOutstanding": 25219845601.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.45227203599360355,
+      "roe": 0.11798566237847392,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:40.498067+00:00"
+  }
+}

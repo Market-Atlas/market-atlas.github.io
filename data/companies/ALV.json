@@ -1,0 +1,128 @@
+{
+  "ticker": "ALV",
+  "name": "Allianz SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 144735649792.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 381.6,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 137450000000.0,
+    "operatingIncome": null,
+    "netIncome": 10775000000.0,
+    "eps": 27.67,
+    "freeCashFlow": 30944000000.0,
+    "totalDebt": 35275000000.0,
+    "cash": 29855000000.0,
+    "sharesOutstanding": 380418897.0
+  },
+  "ratios": {
+    "roe": 0.1717898026210899,
+    "roic": null,
+    "grossMargin": 0.24341999,
+    "operatingMargin": 0.19285999,
+    "netMargin": 0.07839214259730812,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 79860000000.0,
+      "operatingIncome": null,
+      "netIncome": 6421000000.0,
+      "eps": 15.48,
+      "freeCashFlow": 16334000000.0,
+      "totalDebt": 29498000000.0,
+      "cash": 22896000000.0,
+      "sharesOutstanding": 403313996.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08040320560981717,
+      "roe": 0.11800055131857025,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 119667000000.0,
+      "operatingIncome": null,
+      "netIncome": 8541000000.0,
+      "eps": 21.18,
+      "freeCashFlow": 22322000000.0,
+      "totalDebt": 29983000000.0,
+      "cash": 29209000000.0,
+      "sharesOutstanding": 391718983.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07137306024217202,
+      "roe": 0.14665430381702982,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 139947000000.0,
+      "operatingIncome": null,
+      "netIncome": 9931000000.0,
+      "eps": 25.18,
+      "freeCashFlow": 29988000000.0,
+      "totalDebt": 34839000000.0,
+      "cash": 31637000000.0,
+      "sharesOutstanding": 386166676.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07096257869050426,
+      "roe": 0.1647287143165193,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 137450000000.0,
+      "operatingIncome": null,
+      "netIncome": 10775000000.0,
+      "eps": 27.67,
+      "freeCashFlow": 30944000000.0,
+      "totalDebt": 35275000000.0,
+      "cash": 29855000000.0,
+      "sharesOutstanding": 380418897.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07839214259730812,
+      "roe": 0.1717898026210899,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:12.790094+00:00"
+  }
+}

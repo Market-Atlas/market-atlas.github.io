@@ -1,0 +1,128 @@
+{
+  "ticker": "0066",
+  "name": "MTR Corporation Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 195995254784.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.54,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 55465000000.0,
+    "operatingIncome": 7984000000.0,
+    "netIncome": 15313000000.0,
+    "eps": 2.36,
+    "freeCashFlow": -7720000000.0,
+    "totalDebt": 89048000000.0,
+    "cash": 44242000000.0,
+    "sharesOutstanding": 6224823171.0
+  },
+  "ratios": {
+    "roe": 0.07098849850030828,
+    "roic": 0.026197749697301802,
+    "grossMargin": 0.23512124763364284,
+    "operatingMargin": 0.14394663301180924,
+    "netMargin": 0.27608401694762463,
+    "debtToEquity": 0.41521
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 47812000000.0,
+      "operatingIncome": 892000000.0,
+      "netIncome": 9827000000.0,
+      "eps": 1.59,
+      "freeCashFlow": -4051000000.0,
+      "totalDebt": 47986000000.0,
+      "cash": 16134000000.0,
+      "sharesOutstanding": 6202060784.0,
+      "grossMargin": 0.07636158286622605,
+      "operatingMargin": 0.018656404249979084,
+      "netMargin": 0.20553417552078976,
+      "roe": 0.054811864841649655,
+      "roic": 0.00392481255940019
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 56982000000.0,
+      "operatingIncome": 5828000000.0,
+      "netIncome": 7784000000.0,
+      "eps": 1.25,
+      "freeCashFlow": -1379000000.0,
+      "totalDebt": 59632000000.0,
+      "cash": 22375000000.0,
+      "sharesOutstanding": 6217197282.0,
+      "grossMargin": 0.19151661928328245,
+      "operatingMargin": 0.10227791232318978,
+      "netMargin": 0.13660454178512513,
+      "roe": 0.04364598752971785,
+      "roic": 0.024489864524153696
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 60011000000.0,
+      "operatingIncome": 11760000000.0,
+      "netIncome": 15772000000.0,
+      "eps": 2.54,
+      "freeCashFlow": -925000000.0,
+      "totalDebt": 77684000000.0,
+      "cash": 27886000000.0,
+      "sharesOutstanding": 6224823171.0,
+      "grossMargin": 0.22849144323540685,
+      "operatingMargin": 0.19596407325323692,
+      "netMargin": 0.2628184832780657,
+      "roe": 0.08496700336700337,
+      "roic": 0.0446623548758303
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 55465000000.0,
+      "operatingIncome": 7984000000.0,
+      "netIncome": 15313000000.0,
+      "eps": 2.36,
+      "freeCashFlow": -7720000000.0,
+      "totalDebt": 89048000000.0,
+      "cash": 44242000000.0,
+      "sharesOutstanding": 6224823171.0,
+      "grossMargin": 0.23512124763364284,
+      "operatingMargin": 0.14394663301180924,
+      "netMargin": 0.27608401694762463,
+      "roe": 0.07098849850030828,
+      "roic": 0.026197749697301802
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:27.973438+00:00"
+  }
+}

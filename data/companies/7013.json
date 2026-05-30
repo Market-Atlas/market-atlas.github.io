@@ -1,0 +1,111 @@
+{
+  "ticker": "7013",
+  "name": "IHI Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2932937850880.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2766.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1626831000000.0,
+    "operatingIncome": 143517000000.0,
+    "netIncome": 112740000000.0,
+    "eps": 744.77,
+    "freeCashFlow": 117385000000.0,
+    "totalDebt": 514723000000.0,
+    "cash": 136809000000.0,
+    "sharesOutstanding": 1082759678.0
+  },
+  "ratios": {
+    "roe": 0.23403345470246573,
+    "roic": 0.1440284450082242,
+    "grossMargin": 0.23021075944581829,
+    "operatingMargin": 0.08821875167119388,
+    "netMargin": 0.069300376007096,
+    "debtToEquity": 0.71881
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1172904000000.0,
+      "operatingIncome": 81497000000.0,
+      "netIncome": 66065000000.0,
+      "eps": 62.818571,
+      "freeCashFlow": 68581000000.0,
+      "totalDebt": 505553000000.0,
+      "cash": 145489000000.0,
+      "sharesOutstanding": 1082759678.0,
+      "grossMargin": 0.17853720338578435,
+      "operatingMargin": 0.0694830949506524,
+      "netMargin": 0.05632600792562733,
+      "roe": 0.1728843808716314,
+      "roic": 0.09180826124523621
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1352940000000.0,
+      "operatingIncome": 81985000000.0,
+      "netIncome": 44545000000.0,
+      "eps": 42.062857,
+      "freeCashFlow": -8461000000.0,
+      "totalDebt": 519488000000.0,
+      "cash": 124749000000.0,
+      "sharesOutstanding": 1082759678.0,
+      "grossMargin": 0.20843865951187784,
+      "operatingMargin": 0.06059766138927077,
+      "netMargin": 0.03292459384747291,
+      "roe": 0.10329395123421721,
+      "roic": 0.08623346407456142
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1322591000000.0,
+      "operatingIncome": -70138000000.0,
+      "netIncome": -68214000000.0,
+      "eps": -64.397143,
+      "freeCashFlow": 1124000000.0,
+      "totalDebt": 574376000000.0,
+      "cash": 138805000000.0,
+      "sharesOutstanding": 1082759678.0,
+      "grossMargin": 0.10952365470504487,
+      "operatingMargin": -0.053030755539694434,
+      "netMargin": -0.05157603522177302,
+      "roe": -0.18142552042745932,
+      "roic": -0.07380111851762218
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1626831000000.0,
+      "operatingIncome": 143517000000.0,
+      "netIncome": 112740000000.0,
+      "eps": 744.77,
+      "freeCashFlow": 117385000000.0,
+      "totalDebt": 514723000000.0,
+      "cash": 136809000000.0,
+      "sharesOutstanding": 1082759678.0,
+      "grossMargin": 0.23021075944581829,
+      "operatingMargin": 0.08821875167119388,
+      "netMargin": 0.069300376007096,
+      "roe": 0.23403345470246573,
+      "roic": 0.1440284450082242
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:11.959688+00:00"
+  }
+}

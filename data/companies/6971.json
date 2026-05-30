@@ -1,0 +1,111 @@
+{
+  "ticker": "6971",
+  "name": "Kyocera Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 4588525060096.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3483.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2014454000000.0,
+    "operatingIncome": 27299000000.0,
+    "netIncome": 24097000000.0,
+    "eps": null,
+    "freeCashFlow": 70074000000.0,
+    "totalDebt": 342382000000.0,
+    "cash": 444744000000.0,
+    "sharesOutstanding": 1510474320.0
+  },
+  "ratios": {
+    "roe": 0.007488684773515222,
+    "roic": 0.0076678922635716835,
+    "grossMargin": 0.2775809226718505,
+    "operatingMargin": 0.013551562855245143,
+    "netMargin": 0.011962050262751097,
+    "debtToEquity": 0.09881000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1838938000000.0,
+      "operatingIncome": 148910000000.0,
+      "netIncome": 148414000000.0,
+      "eps": 102.7875,
+      "freeCashFlow": 55055000000.0,
+      "totalDebt": 149261000000.0,
+      "cash": 414129000000.0,
+      "sharesOutstanding": 1510474320.0,
+      "grossMargin": 0.2793150176895578,
+      "operatingMargin": 0.08097608510999284,
+      "netMargin": 0.08070636421673814,
+      "roe": 0.05168421001311485,
+      "roic": 0.049294643995080795
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2025332000000.0,
+      "operatingIncome": 128517000000.0,
+      "netIncome": 127988000000.0,
+      "eps": 89.15,
+      "freeCashFlow": -7431000000.0,
+      "totalDebt": 209801000000.0,
+      "cash": 373500000000.0,
+      "sharesOutstanding": 1510474320.0,
+      "grossMargin": 0.2789389591434886,
+      "operatingMargin": 0.06345478173455019,
+      "netMargin": 0.06319358998919683,
+      "roe": 0.042327195424794885,
+      "roic": 0.039744518301398635
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2004221000000.0,
+      "operatingIncome": 92923000000.0,
+      "netIncome": 101074000000.0,
+      "eps": 71.58,
+      "freeCashFlow": 109330000000.0,
+      "totalDebt": 304191000000.0,
+      "cash": 424792000000.0,
+      "sharesOutstanding": 1510474320.0,
+      "grossMargin": 0.2759730588592775,
+      "operatingMargin": 0.04636364951769291,
+      "netMargin": 0.05043056628984528,
+      "roe": 0.03133499400885728,
+      "roic": 0.026325391964272055
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2014454000000.0,
+      "operatingIncome": 27299000000.0,
+      "netIncome": 24097000000.0,
+      "eps": null,
+      "freeCashFlow": 70074000000.0,
+      "totalDebt": 342382000000.0,
+      "cash": 444744000000.0,
+      "sharesOutstanding": 1510474320.0,
+      "grossMargin": 0.2775809226718505,
+      "operatingMargin": 0.013551562855245143,
+      "netMargin": 0.011962050262751097,
+      "roe": 0.007488684773515222,
+      "roic": 0.0076678922635716835
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:11.889227+00:00"
+  }
+}

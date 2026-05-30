@@ -1,0 +1,128 @@
+{
+  "ticker": "CP",
+  "name": "Canadian Pacific Kansas City Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 109280346112.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 123.1,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15078000000.0,
+    "operatingIncome": -3860000000.0,
+    "netIncome": 4141000000.0,
+    "eps": 4.51,
+    "freeCashFlow": 2169000000.0,
+    "totalDebt": 23598000000.0,
+    "cash": 184000000.0,
+    "sharesOutstanding": 897600000.0
+  },
+  "ratios": {
+    "roe": 0.09026309479695709,
+    "roic": -0.05555955379632962,
+    "grossMargin": 0.3719989388513065,
+    "operatingMargin": -0.25600212229738695,
+    "netMargin": 0.27463854622628997,
+    "debtToEquity": 0.51291
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8814000000.0,
+      "operatingIncome": 3329000000.0,
+      "netIncome": 3517000000.0,
+      "eps": 3.77,
+      "freeCashFlow": 2585000000.0,
+      "totalDebt": 19921000000.0,
+      "cash": 451000000.0,
+      "sharesOutstanding": 930500000.0,
+      "grossMargin": 0.37769457680962104,
+      "operatingMargin": 0.37769457680962104,
+      "netMargin": 0.399024279555253,
+      "roe": 0.09044386154400041,
+      "roic": 0.056608907102895914
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12555000000.0,
+      "operatingIncome": -3779000000.0,
+      "netIncome": 3927000000.0,
+      "eps": 4.21,
+      "freeCashFlow": 1638000000.0,
+      "totalDebt": 22838000000.0,
+      "cash": 464000000.0,
+      "sharesOutstanding": 932100000.0,
+      "grossMargin": 0.34950219036240543,
+      "operatingMargin": -0.30099561927518914,
+      "netMargin": 0.3127837514934289,
+      "roe": 0.09464475079533403,
+      "roic": -0.058743976371832735
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14546000000.0,
+      "operatingIncome": -4188000000.0,
+      "netIncome": 3718000000.0,
+      "eps": 3.98,
+      "freeCashFlow": 2406000000.0,
+      "totalDebt": 22989000000.0,
+      "cash": 739000000.0,
+      "sharesOutstanding": 933500000.0,
+      "grossMargin": 0.3560428983913103,
+      "operatingMargin": -0.28791420321737937,
+      "netMargin": 0.2556029148906916,
+      "roe": 0.07763300760043432,
+      "roic": -0.0590849451898252
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15078000000.0,
+      "operatingIncome": -3860000000.0,
+      "netIncome": 4141000000.0,
+      "eps": 4.51,
+      "freeCashFlow": 2169000000.0,
+      "totalDebt": 23598000000.0,
+      "cash": 184000000.0,
+      "sharesOutstanding": 897600000.0,
+      "grossMargin": 0.3719989388513065,
+      "operatingMargin": -0.25600212229738695,
+      "netMargin": 0.27463854622628997,
+      "roe": 0.09026309479695709,
+      "roic": -0.05555955379632962
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:03.666444+00:00"
+  }
+}

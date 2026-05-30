@@ -1,0 +1,128 @@
+{
+  "ticker": "LSEG",
+  "name": "London Stock Exchange Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 44143087616.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9022.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9346000000.0,
+    "operatingIncome": 2170000000.0,
+    "netIncome": 1249000000.0,
+    "eps": 2.37,
+    "freeCashFlow": 1716000000.0,
+    "totalDebt": 11718000000.0,
+    "cash": 2761000000.0,
+    "sharesOutstanding": 531859674.0
+  },
+  "ratios": {
+    "roe": 0.06314778300217402,
+    "roic": 0.06889545036035177,
+    "grossMargin": 0.8809116199443612,
+    "operatingMargin": 0.23218489193237749,
+    "netMargin": 0.1336400599186818,
+    "debtToEquity": 0.52973
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7743000000.0,
+      "operatingIncome": 1640000000.0,
+      "netIncome": 1303000000.0,
+      "eps": 2.325,
+      "freeCashFlow": 1771000000.0,
+      "totalDebt": 8823000000.0,
+      "cash": 1990000000.0,
+      "sharesOutstanding": 558244024.0,
+      "grossMargin": 0.8625855611520082,
+      "operatingMargin": 0.21180421025442334,
+      "netMargin": 0.1682810280253132,
+      "roe": 0.050123095860901676,
+      "roic": 0.04710072087078894
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8379000000.0,
+      "operatingIncome": 1661000000.0,
+      "netIncome": 761000000.0,
+      "eps": 1.381,
+      "freeCashFlow": 1858000000.0,
+      "totalDebt": 9699000000.0,
+      "cash": 2251000000.0,
+      "sharesOutstanding": 548841716.0,
+      "grossMargin": 0.8635875402792696,
+      "operatingMargin": 0.19823367943668696,
+      "netMargin": 0.09082229382981263,
+      "roe": 0.0319653883311631,
+      "roic": 0.04957321076822062
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8858000000.0,
+      "operatingIncome": 1370000000.0,
+      "netIncome": 685000000.0,
+      "eps": 1.28,
+      "freeCashFlow": 2388000000.0,
+      "totalDebt": 9965000000.0,
+      "cash": 2133000000.0,
+      "sharesOutstanding": 543573966.0,
+      "grossMargin": 0.8675773312260104,
+      "operatingMargin": 0.1546624520207722,
+      "netMargin": 0.0773312260103861,
+      "roe": 0.02976578455655499,
+      "roic": 0.041542846746315726
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9346000000.0,
+      "operatingIncome": 2170000000.0,
+      "netIncome": 1249000000.0,
+      "eps": 2.37,
+      "freeCashFlow": 1716000000.0,
+      "totalDebt": 11718000000.0,
+      "cash": 2761000000.0,
+      "sharesOutstanding": 531859674.0,
+      "grossMargin": 0.8809116199443612,
+      "operatingMargin": 0.23218489193237749,
+      "netMargin": 0.1336400599186818,
+      "roe": 0.06314778300217402,
+      "roic": 0.06889545036035177
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:45.260522+00:00"
+  }
+}

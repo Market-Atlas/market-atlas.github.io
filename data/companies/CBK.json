@@ -1,0 +1,128 @@
+{
+  "ticker": "CBK",
+  "name": "Commerzbank AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 40637161472.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 37.06,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12934000000.0,
+    "operatingIncome": null,
+    "netIncome": 2625000000.0,
+    "eps": 2.06,
+    "freeCashFlow": -7874000000.0,
+    "totalDebt": 72543000000.0,
+    "cash": 67729000000.0,
+    "sharesOutstanding": 1127496195.0
+  },
+  "ratios": {
+    "roe": 0.07759614531910491,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.44147998,
+    "netMargin": 0.2029534560074223,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10390000000.0,
+      "operatingIncome": null,
+      "netIncome": 1435000000.0,
+      "eps": 0.99,
+      "freeCashFlow": 25184000000.0,
+      "totalDebt": 43765000000.0,
+      "cash": 86647000000.0,
+      "sharesOutstanding": 1252357634.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1381135707410972,
+      "roe": 0.04776169079713763,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11812000000.0,
+      "operatingIncome": null,
+      "netIncome": 2224000000.0,
+      "eps": 1.63,
+      "freeCashFlow": 19284000000.0,
+      "totalDebt": 48254000000.0,
+      "cash": 102692000000.0,
+      "sharesOutstanding": 1240223329.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18828310193024042,
+      "roe": 0.0695173793448362,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12362000000.0,
+      "operatingIncome": null,
+      "netIncome": 2677000000.0,
+      "eps": 2.06,
+      "freeCashFlow": -21442000000.0,
+      "totalDebt": 54886000000.0,
+      "cash": 79122000000.0,
+      "sharesOutstanding": 1184669009.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21655071994822844,
+      "roe": 0.07766624115121272,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12934000000.0,
+      "operatingIncome": null,
+      "netIncome": 2625000000.0,
+      "eps": 2.06,
+      "freeCashFlow": -7874000000.0,
+      "totalDebt": 72543000000.0,
+      "cash": 67729000000.0,
+      "sharesOutstanding": 1127496195.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2029534560074223,
+      "roe": 0.07759614531910491,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:15.680659+00:00"
+  }
+}

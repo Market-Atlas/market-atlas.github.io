@@ -1,0 +1,128 @@
+{
+  "ticker": "RR",
+  "name": "Rolls-Royce Holdings plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 110948679680.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1337.4,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21207000000.0,
+    "operatingIncome": 4412000000.0,
+    "netIncome": 5841000000.0,
+    "eps": 0.6914,
+    "freeCashFlow": 3580000000.0,
+    "totalDebt": 4272000000.0,
+    "cash": 6034000000.0,
+    "sharesOutstanding": 8443808552.0
+  },
+  "ratios": {
+    "roe": 2.1426999266324285,
+    "roic": 0.6304658473849671,
+    "grossMargin": 0.2911774414108549,
+    "operatingMargin": 0.20804451360399867,
+    "netMargin": 0.27542792474183053,
+    "debtToEquity": 1.58445
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13520000000.0,
+      "operatingIncome": 789000000.0,
+      "netIncome": -1269000000.0,
+      "eps": -0.152,
+      "freeCashFlow": 928000000.0,
+      "totalDebt": 5955000000.0,
+      "cash": 2372000000.0,
+      "sharesOutstanding": 8367596989.0,
+      "grossMargin": 0.20392011834319526,
+      "operatingMargin": 0.058357988165680476,
+      "netMargin": -0.09386094674556213,
+      "roe": 0.2097520661157025,
+      "roic": -8.305263157894737
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16486000000.0,
+      "operatingIncome": 1771000000.0,
+      "netIncome": 2412000000.0,
+      "eps": 0.287,
+      "freeCashFlow": 1772000000.0,
+      "totalDebt": 5759000000.0,
+      "cash": 3505000000.0,
+      "sharesOutstanding": 8416696989.0,
+      "grossMargin": 0.2195802499090137,
+      "operatingMargin": 0.10742448137813902,
+      "netMargin": 0.14630595656921025,
+      "roe": -0.6552567237163814,
+      "roic": 0.8522617901828682
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 18909000000.0,
+      "operatingIncome": 2734000000.0,
+      "netIncome": 2521000000.0,
+      "eps": 0.2987,
+      "freeCashFlow": 2896000000.0,
+      "totalDebt": 5135000000.0,
+      "cash": 5330000000.0,
+      "sharesOutstanding": 8504896989.0,
+      "grossMargin": 0.22322703474535935,
+      "operatingMargin": 0.1445872335924692,
+      "netMargin": 0.13332275635940558,
+      "roe": -2.7642543859649122,
+      "roic": 0.6474070565948378
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21207000000.0,
+      "operatingIncome": 4412000000.0,
+      "netIncome": 5841000000.0,
+      "eps": 0.6914,
+      "freeCashFlow": 3580000000.0,
+      "totalDebt": 4272000000.0,
+      "cash": 6034000000.0,
+      "sharesOutstanding": 8443808552.0,
+      "grossMargin": 0.2911774414108549,
+      "operatingMargin": 0.20804451360399867,
+      "netMargin": 0.27542792474183053,
+      "roe": 2.1426999266324285,
+      "roic": 0.6304658473849671
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:51.810005+00:00"
+  }
+}

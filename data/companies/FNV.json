@@ -1,0 +1,128 @@
+{
+  "ticker": "FNV",
+  "name": "Franco-Nevada Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 61590339584.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 319.36,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1822800000.0,
+    "operatingIncome": 1300900000.0,
+    "netIncome": 1112100000.0,
+    "eps": 5.76,
+    "freeCashFlow": -703000000.0,
+    "totalDebt": null,
+    "cash": 670900000.0,
+    "sharesOutstanding": 192798692.0
+  },
+  "ratios": {
+    "roe": 0.14565243015991514,
+    "roic": 0.17037968383691537,
+    "grossMargin": 0.739137590520079,
+    "operatingMargin": 0.7136822470923854,
+    "netMargin": 0.6101053324555629,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1315700000.0,
+      "operatingIncome": 820000000.0,
+      "netIncome": 700600000.0,
+      "eps": 3.65,
+      "freeCashFlow": 858000000.0,
+      "totalDebt": null,
+      "cash": 1196500000.0,
+      "sharesOutstanding": 191892691.0,
+      "grossMargin": 0.6480200653644448,
+      "operatingMargin": 0.6232423804818727,
+      "netMargin": 0.532492209470244,
+      "roe": 0.10916853652455746,
+      "roic": 0.12777362253802044
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1219000000.0,
+      "operatingIncome": 738700000.0,
+      "netIncome": -466400000.0,
+      "eps": -2.43,
+      "freeCashFlow": 469600000.0,
+      "totalDebt": null,
+      "cash": 1421900000.0,
+      "sharesOutstanding": 192175042.0,
+      "grossMargin": 0.6288761279737489,
+      "operatingMargin": 0.6059885151763741,
+      "netMargin": -0.3826086956521739,
+      "roe": -0.08084449914198055,
+      "roic": 0.12804423566934184
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1113600000.0,
+      "operatingIncome": 724700000.0,
+      "netIncome": 552100000.0,
+      "eps": 2.87,
+      "freeCashFlow": 421500000.0,
+      "totalDebt": null,
+      "cash": 1451300000.0,
+      "sharesOutstanding": 192552695.0,
+      "grossMargin": 0.6818426724137931,
+      "operatingMargin": 0.6507722701149425,
+      "netMargin": 0.4957794540229885,
+      "roe": 0.09206883900877164,
+      "roic": 0.12085181602908315
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1822800000.0,
+      "operatingIncome": 1300900000.0,
+      "netIncome": 1112100000.0,
+      "eps": 5.76,
+      "freeCashFlow": -703000000.0,
+      "totalDebt": null,
+      "cash": 670900000.0,
+      "sharesOutstanding": 192798692.0,
+      "grossMargin": 0.739137590520079,
+      "operatingMargin": 0.7136822470923854,
+      "netMargin": 0.6101053324555629,
+      "roe": 0.14565243015991514,
+      "roic": 0.17037968383691537
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.225456+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "H",
+  "name": "Hydro One Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 34025443328.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.7,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9041000000.0,
+    "operatingIncome": 2386000000.0,
+    "netIncome": 1339000000.0,
+    "eps": 2.23,
+    "freeCashFlow": -355000000.0,
+    "totalDebt": 19160000000.0,
+    "cash": 549000000.0,
+    "sharesOutstanding": 599781811.0
+  },
+  "ratios": {
+    "roe": 0.10586654016445288,
+    "roic": 0.07501257545271629,
+    "grossMargin": 0.3704236257051211,
+    "operatingMargin": 0.2639088596394204,
+    "netMargin": 0.1481030859418206,
+    "debtToEquity": 1.47794
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7780000000.0,
+      "operatingIncome": 2039000000.0,
+      "netIncome": 1050000000.0,
+      "eps": 1.75,
+      "freeCashFlow": 174000000.0,
+      "totalDebt": 15192000000.0,
+      "cash": 530000000.0,
+      "sharesOutstanding": 598714704.0,
+      "grossMargin": 0.3596401028277635,
+      "operatingMargin": 0.2620822622107969,
+      "netMargin": 0.13496143958868895,
+      "roe": 0.09287104192464178,
+      "roic": 0.0769492037134878
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7844000000.0,
+      "operatingIncome": 1986000000.0,
+      "netIncome": 1085000000.0,
+      "eps": 1.81,
+      "freeCashFlow": -64000000.0,
+      "totalDebt": 15738000000.0,
+      "cash": 79000000.0,
+      "sharesOutstanding": 599077067.0,
+      "grossMargin": 0.36180520142784295,
+      "operatingMargin": 0.2531871494135645,
+      "netMargin": 0.13832228454869963,
+      "roe": 0.09289383561643835,
+      "roic": 0.07243416733532716
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8484000000.0,
+      "operatingIncome": 2124000000.0,
+      "netIncome": 1156000000.0,
+      "eps": 1.92,
+      "freeCashFlow": -274000000.0,
+      "totalDebt": 17734000000.0,
+      "cash": 716000000.0,
+      "sharesOutstanding": 599435650.0,
+      "grossMargin": 0.3574964639321075,
+      "operatingMargin": 0.25035360678925034,
+      "netMargin": 0.13625648279113625,
+      "roe": 0.09562412110182811,
+      "roic": 0.07122019917513328
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9041000000.0,
+      "operatingIncome": 2386000000.0,
+      "netIncome": 1339000000.0,
+      "eps": 2.23,
+      "freeCashFlow": -355000000.0,
+      "totalDebt": 19160000000.0,
+      "cash": 549000000.0,
+      "sharesOutstanding": 599781811.0,
+      "grossMargin": 0.3704236257051211,
+      "operatingMargin": 0.2639088596394204,
+      "netMargin": 0.1481030859418206,
+      "roe": 0.10586654016445288,
+      "roic": 0.07501257545271629
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.937540+00:00"
+  }
+}

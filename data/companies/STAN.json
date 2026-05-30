@@ -1,0 +1,111 @@
+{
+  "ticker": "STAN",
+  "name": "Standard Chartered PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 43590488064.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1993.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20553000000.0,
+    "operatingIncome": null,
+    "netIncome": 5085000000.0,
+    "eps": 1.896,
+    "freeCashFlow": 35484000000.0,
+    "totalDebt": 105367000000.0,
+    "cash": 77746000000.0,
+    "sharesOutstanding": 2263003334.0
+  },
+  "ratios": {
+    "roe": 0.09395613532639825,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.43989,
+    "netMargin": 0.24740913735221134,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16158000000.0,
+      "operatingIncome": null,
+      "netIncome": 2948000000.0,
+      "eps": 0.843,
+      "freeCashFlow": 26778000000.0,
+      "totalDebt": 91672000000.0,
+      "cash": 58263000000.0,
+      "sharesOutstanding": 2894749855.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18244832281222922,
+      "roe": 0.05935650142954939,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17456000000.0,
+      "operatingIncome": null,
+      "netIncome": 3469000000.0,
+      "eps": 1.062,
+      "freeCashFlow": -6845000000.0,
+      "totalDebt": 93025000000.0,
+      "cash": 69905000000.0,
+      "sharesOutstanding": 2665056561.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1987282309807516,
+      "roe": 0.06943971815761554,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20046000000.0,
+      "operatingIncome": null,
+      "netIncome": 4050000000.0,
+      "eps": 1.377,
+      "freeCashFlow": -21898000000.0,
+      "totalDebt": 96247000000.0,
+      "cash": 63447000000.0,
+      "sharesOutstanding": 2425527631.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20203531876683628,
+      "roe": 0.07958341520927491,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20553000000.0,
+      "operatingIncome": null,
+      "netIncome": 5085000000.0,
+      "eps": 1.896,
+      "freeCashFlow": 35484000000.0,
+      "totalDebt": 105367000000.0,
+      "cash": 77746000000.0,
+      "sharesOutstanding": 2263003334.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24740913735221134,
+      "roe": 0.09395613532639825,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:56.724893+00:00"
+  }
+}

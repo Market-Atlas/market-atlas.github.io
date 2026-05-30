@@ -1,0 +1,128 @@
+{
+  "ticker": "0868",
+  "name": "Xinyi Glass Holdings Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 43798679552.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9.9,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20829014000.0,
+    "operatingIncome": 3477068000.0,
+    "netIncome": 2729004000.0,
+    "eps": 0.6231,
+    "freeCashFlow": 3891218000.0,
+    "totalDebt": 4807179000.0,
+    "cash": 2626042000.0,
+    "sharesOutstanding": 4424108852.0
+  },
+  "ratios": {
+    "roe": 0.07413983921377221,
+    "roic": 0.08355112388962019,
+    "grossMargin": 0.31119053451113915,
+    "operatingMargin": 0.1669338740662424,
+    "netMargin": 0.13101935598103684,
+    "debtToEquity": 0.13042
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22733641621.16849,
+      "operatingIncome": 4256990395.136623,
+      "netIncome": 4527263530.069751,
+      "eps": 1.111164,
+      "freeCashFlow": 3595419621.8724003,
+      "totalDebt": 12114045000.0,
+      "cash": 2845921000.0,
+      "sharesOutstanding": 4109103027.0,
+      "grossMargin": 0.3373874921881038,
+      "operatingMargin": 0.1872551026392848,
+      "netMargin": 0.1991437889939365,
+      "roe": 0.15822275789768517,
+      "roic": 0.10452432217068075
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24293673000.0,
+      "operatingIncome": 4992194000.0,
+      "netIncome": 4883103000.0,
+      "eps": 1.1702,
+      "freeCashFlow": 1383402000.0,
+      "totalDebt": 7466857000.0,
+      "cash": 1814614000.0,
+      "sharesOutstanding": 4222545672.0,
+      "grossMargin": 0.3217905748546134,
+      "operatingMargin": 0.2054935867458165,
+      "netMargin": 0.20100307598608083,
+      "roe": 0.14983486140905192,
+      "roic": 0.12462801530907795
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22323569000.0,
+      "operatingIncome": 4371616000.0,
+      "netIncome": 3369173000.0,
+      "eps": 0.7923,
+      "freeCashFlow": 516666000.0,
+      "totalDebt": 7322167000.0,
+      "cash": 1456115000.0,
+      "sharesOutstanding": 4357192919.0,
+      "grossMargin": 0.32395164948758864,
+      "operatingMargin": 0.19582961846289004,
+      "netMargin": 0.15092447807068843,
+      "roe": 0.09827020936546635,
+      "roic": 0.10506936436968514
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20829014000.0,
+      "operatingIncome": 3477068000.0,
+      "netIncome": 2729004000.0,
+      "eps": 0.6231,
+      "freeCashFlow": 3891218000.0,
+      "totalDebt": 4807179000.0,
+      "cash": 2626042000.0,
+      "sharesOutstanding": 4424108852.0,
+      "grossMargin": 0.31119053451113915,
+      "operatingMargin": 0.1669338740662424,
+      "netMargin": 0.13101935598103684,
+      "roe": 0.07413983921377221,
+      "roic": 0.08355112388962019
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:30.749795+00:00"
+  }
+}

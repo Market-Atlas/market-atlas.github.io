@@ -1,0 +1,111 @@
+{
+  "ticker": "8766",
+  "name": "Tokio Marine Holdings, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 13672632025088.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7111.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7584167000000.0,
+    "operatingIncome": null,
+    "netIncome": 1055276000000.0,
+    "eps": 542.16,
+    "freeCashFlow": 1318932000000.0,
+    "totalDebt": 227246000000.0,
+    "cash": 1071138000000.0,
+    "sharesOutstanding": 1934000000.0
+  },
+  "ratios": {
+    "roe": 0.20786071341199902,
+    "roic": null,
+    "grossMargin": 0.42674,
+    "operatingMargin": 0.37647998,
+    "netMargin": 0.1391419782818601,
+    "debtToEquity": 0.041589999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5751641000000.0,
+      "operatingIncome": null,
+      "netIncome": 420484000000.0,
+      "eps": 204.42,
+      "freeCashFlow": 1073190000000.0,
+      "totalDebt": 219795000000.0,
+      "cash": 848819000000.0,
+      "sharesOutstanding": 2040000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0731067881322913,
+      "roe": 0.10458044980009576,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6314108000000.0,
+      "operatingIncome": null,
+      "netIncome": 374605000000.0,
+      "eps": 186.41,
+      "freeCashFlow": 982833000000.0,
+      "totalDebt": 222811000000.0,
+      "cash": 871993000000.0,
+      "sharesOutstanding": 2002500000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05932825349202136,
+      "roe": 0.10451299852606834,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7080313000000.0,
+      "operatingIncome": null,
+      "netIncome": 695808000000.0,
+      "eps": 351.59,
+      "freeCashFlow": 1051401000000.0,
+      "totalDebt": 224404000000.0,
+      "cash": 896898000000.0,
+      "sharesOutstanding": 1978000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09827362151927464,
+      "roe": 0.13441315943404172,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7584167000000.0,
+      "operatingIncome": null,
+      "netIncome": 1055276000000.0,
+      "eps": 542.16,
+      "freeCashFlow": 1318932000000.0,
+      "totalDebt": 227246000000.0,
+      "cash": 1071138000000.0,
+      "sharesOutstanding": 1934000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1391419782818601,
+      "roe": 0.20786071341199902,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:16.494769+00:00"
+  }
+}

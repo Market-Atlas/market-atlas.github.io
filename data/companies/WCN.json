@@ -1,0 +1,128 @@
+{
+  "ticker": "WCN",
+  "name": "Waste Connections, Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 52274610176.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 205.74,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9466915000.0,
+    "operatingIncome": 1819883000.0,
+    "netIncome": 1076557000.0,
+    "eps": 4.17,
+    "freeCashFlow": 1219703000.0,
+    "totalDebt": 9131043000.0,
+    "cash": 45968000.0,
+    "sharesOutstanding": 255661011.0
+  },
+  "ratios": {
+    "roe": 0.1305648580702335,
+    "roic": 0.10473288405025108,
+    "grossMargin": 0.42374237013852983,
+    "operatingMargin": 0.19223611915814182,
+    "netMargin": 0.11371782676827667,
+    "debtToEquity": 1.1709699999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7211859000.0,
+      "operatingIncome": 1260420000.0,
+      "netIncome": 835662000.0,
+      "eps": 3.24,
+      "freeCashFlow": 1109815000.0,
+      "totalDebt": 7097540000.0,
+      "cash": 78637000.0,
+      "sharesOutstanding": 257211175.0,
+      "grossMargin": 0.39876639296469885,
+      "operatingMargin": 0.17477047180206934,
+      "netMargin": 0.11587331366295431,
+      "roe": 0.11755486025711037,
+      "roic": 0.08872299619364395
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8021951000.0,
+      "operatingIncome": 1475108000.0,
+      "netIncome": 762800000.0,
+      "eps": 2.95,
+      "freeCashFlow": 1192817000.0,
+      "totalDebt": 7022206000.0,
+      "cash": 78399000.0,
+      "sharesOutstanding": 257659921.0,
+      "grossMargin": 0.40855871595326376,
+      "operatingMargin": 0.183883945439208,
+      "netMargin": 0.09508908743022738,
+      "roe": 0.09915753790325485,
+      "roic": 0.10024508979433593
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8919591000.0,
+      "operatingIncome": 1680671000.0,
+      "netIncome": 617573000.0,
+      "eps": 2.39,
+      "freeCashFlow": 1172939000.0,
+      "totalDebt": 8393376000.0,
+      "cash": 62366000.0,
+      "sharesOutstanding": 258067487.0,
+      "grossMargin": 0.4179434909067019,
+      "operatingMargin": 0.18842467104153093,
+      "netMargin": 0.06923781594918421,
+      "roe": 0.07856808993589856,
+      "roic": 0.10340217291661667
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9466915000.0,
+      "operatingIncome": 1819883000.0,
+      "netIncome": 1076557000.0,
+      "eps": 4.17,
+      "freeCashFlow": 1219703000.0,
+      "totalDebt": 9131043000.0,
+      "cash": 45968000.0,
+      "sharesOutstanding": 255661011.0,
+      "grossMargin": 0.42374237013852983,
+      "operatingMargin": 0.19223611915814182,
+      "netMargin": 0.11371782676827667,
+      "roe": 0.1305648580702335,
+      "roic": 0.10473288405025108
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:09.145437+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CSU",
+  "name": "Constellation Software Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 59820089344.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2822.83,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11623000000.0,
+    "operatingIncome": 2108000000.0,
+    "netIncome": 512000000.0,
+    "eps": 24.15,
+    "freeCashFlow": 2664000000.0,
+    "totalDebt": 5787000000.0,
+    "cash": 3089000000.0,
+    "sharesOutstanding": 21191530.0
+  },
+  "ratios": {
+    "roe": 0.14317673378076062,
+    "roic": 0.22514151447185732,
+    "grossMargin": 0.37580659038114084,
+    "operatingMargin": 0.181364535834122,
+    "netMargin": 0.044050589348705156,
+    "debtToEquity": 1.20655
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6622000000.0,
+      "operatingIncome": 1034000000.0,
+      "netIncome": 512000000.0,
+      "eps": 24.18,
+      "freeCashFlow": 1256000000.0,
+      "totalDebt": 2288000000.0,
+      "cash": 811000000.0,
+      "sharesOutstanding": 21191530.0,
+      "grossMargin": 0.3508003624282694,
+      "operatingMargin": 0.15614617940199335,
+      "netMargin": 0.0773180308064029,
+      "roe": 0.29906542056074764,
+      "roic": 0.2585
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8405000000.0,
+      "operatingIncome": 1323000000.0,
+      "netIncome": 565000000.0,
+      "eps": 26.67,
+      "freeCashFlow": 1737000000.0,
+      "totalDebt": 3682000000.0,
+      "cash": 1284000000.0,
+      "sharesOutstanding": 21191530.0,
+      "grossMargin": 0.3502676977989292,
+      "operatingMargin": 0.1574063057703748,
+      "netMargin": 0.06722189173111243,
+      "roe": 0.3011727078891258,
+      "roic": 0.2380352644836272
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10066000000.0,
+      "operatingIncome": 1645000000.0,
+      "netIncome": 731000000.0,
+      "eps": 34.48,
+      "freeCashFlow": 2129000000.0,
+      "totalDebt": 4533000000.0,
+      "cash": 1980000000.0,
+      "sharesOutstanding": 21191530.0,
+      "grossMargin": 0.3591297436916352,
+      "operatingMargin": 0.16342141863699583,
+      "netMargin": 0.07262070335783827,
+      "roe": 0.2616320687186829,
+      "roic": 0.2245120786133479
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11623000000.0,
+      "operatingIncome": 2108000000.0,
+      "netIncome": 512000000.0,
+      "eps": 24.15,
+      "freeCashFlow": 2664000000.0,
+      "totalDebt": 5787000000.0,
+      "cash": 3089000000.0,
+      "sharesOutstanding": 21191530.0,
+      "grossMargin": 0.37580659038114084,
+      "operatingMargin": 0.181364535834122,
+      "netMargin": 0.044050589348705156,
+      "roe": 0.14317673378076062,
+      "roic": 0.22514151447185732
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:03.902304+00:00"
+  }
+}

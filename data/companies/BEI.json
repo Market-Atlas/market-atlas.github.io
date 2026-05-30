@@ -1,0 +1,128 @@
+{
+  "ticker": "BEI",
+  "name": "Beiersdorf Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 15117473792.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 69.18,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9852000000.0,
+    "operatingIncome": 1364000000.0,
+    "netIncome": 939000000.0,
+    "eps": null,
+    "freeCashFlow": 322000000.0,
+    "totalDebt": 100000000.0,
+    "cash": 1200000000.0,
+    "sharesOutstanding": 242600000.0
+  },
+  "ratios": {
+    "roe": 0.10917335193582142,
+    "roic": 0.15676359039190899,
+    "grossMargin": 0.5771416971173365,
+    "operatingMargin": 0.13844904587900933,
+    "netMargin": 0.09531059683313033,
+    "debtToEquity": 0.025179999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.81,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8799000000.0,
+      "operatingIncome": 1200000000.0,
+      "netIncome": 755000000.0,
+      "eps": 3.33,
+      "freeCashFlow": 249000000.0,
+      "totalDebt": 241000000.0,
+      "cash": 1080000000.0,
+      "sharesOutstanding": 252000000.0,
+      "grossMargin": 0.5633594726673485,
+      "operatingMargin": 0.13637913399249915,
+      "netMargin": 0.08580520513694738,
+      "roe": 0.09698137443802184,
+      "roic": 0.149514079242462
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9447000000.0,
+      "operatingIncome": 1171000000.0,
+      "netIncome": 736000000.0,
+      "eps": 3.24,
+      "freeCashFlow": 424000000.0,
+      "totalDebt": 102000000.0,
+      "cash": 1133000000.0,
+      "sharesOutstanding": 252000000.0,
+      "grossMargin": 0.573303694294485,
+      "operatingMargin": 0.12395469461204615,
+      "netMargin": 0.07790833068699057,
+      "roe": 0.08844027877913962,
+      "roic": 0.13900759734093068
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9850000000.0,
+      "operatingIncome": 1341000000.0,
+      "netIncome": 912000000.0,
+      "eps": 4.05,
+      "freeCashFlow": 794000000.0,
+      "totalDebt": 114000000.0,
+      "cash": 1207000000.0,
+      "sharesOutstanding": 248000000.0,
+      "grossMargin": 0.584771573604061,
+      "operatingMargin": 0.13614213197969544,
+      "netMargin": 0.09258883248730965,
+      "roe": 0.10761061946902654,
+      "roic": 0.1561299336360461
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9852000000.0,
+      "operatingIncome": 1364000000.0,
+      "netIncome": 939000000.0,
+      "eps": null,
+      "freeCashFlow": 322000000.0,
+      "totalDebt": 100000000.0,
+      "cash": 1200000000.0,
+      "sharesOutstanding": 242600000.0,
+      "grossMargin": 0.5771416971173365,
+      "operatingMargin": 0.13844904587900933,
+      "netMargin": 0.09531059683313033,
+      "roe": 0.10917335193582142,
+      "roic": 0.15676359039190899
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:13.792860+00:00"
+  }
+}

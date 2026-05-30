@@ -1,0 +1,128 @@
+{
+  "ticker": "ORA",
+  "name": "Orange S.A.",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 47694237696.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 17.935,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40397000000.0,
+    "operatingIncome": 4160000000.0,
+    "netIncome": 538000000.0,
+    "eps": 0.14,
+    "freeCashFlow": 3313000000.0,
+    "totalDebt": 7522000000.0,
+    "cash": 12167000000.0,
+    "sharesOutstanding": 2660056599.0
+  },
+  "ratios": {
+    "roe": 0.018090722620128452,
+    "roic": 0.11164488339013982,
+    "grossMargin": 0.5943263113597544,
+    "operatingMargin": 0.10297794390672575,
+    "netMargin": 0.013317820630244821,
+    "debtToEquity": 1.3807900000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 39128000000.0,
+      "operatingIncome": 5576000000.0,
+      "netIncome": 2146000000.0,
+      "eps": 0.73,
+      "freeCashFlow": 2458000000.0,
+      "totalDebt": 8410000000.0,
+      "cash": 6004000000.0,
+      "sharesOutstanding": 2660056599.0,
+      "grossMargin": 0.5868942956450623,
+      "operatingMargin": 0.14250664485790226,
+      "netMargin": 0.054845634839501126,
+      "roe": 0.06751824817518248,
+      "roic": 0.13872717320993183
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 39677000000.0,
+      "operatingIncome": 5149000000.0,
+      "netIncome": 2440000000.0,
+      "eps": 0.85,
+      "freeCashFlow": 4092000000.0,
+      "totalDebt": 8568000000.0,
+      "cash": 5618000000.0,
+      "sharesOutstanding": 2660056599.0,
+      "grossMargin": 0.5775386243919651,
+      "operatingMargin": 0.12977291629911536,
+      "netMargin": 0.061496584923255285,
+      "roe": 0.07666928515318146,
+      "roic": 0.12747258188299954
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 40259000000.0,
+      "operatingIncome": 6026000000.0,
+      "netIncome": 2350000000.0,
+      "eps": 0.82,
+      "freeCashFlow": 3167000000.0,
+      "totalDebt": 7366000000.0,
+      "cash": 8766000000.0,
+      "sharesOutstanding": 2660056599.0,
+      "grossMargin": 0.5864527186467622,
+      "operatingMargin": 0.14968081671179115,
+      "netMargin": 0.058372041034302886,
+      "roe": 0.07396216913731785,
+      "roic": 0.1539640767520887
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40397000000.0,
+      "operatingIncome": 4160000000.0,
+      "netIncome": 538000000.0,
+      "eps": 0.14,
+      "freeCashFlow": 3313000000.0,
+      "totalDebt": 7522000000.0,
+      "cash": 12167000000.0,
+      "sharesOutstanding": 2660056599.0,
+      "grossMargin": 0.5943263113597544,
+      "operatingMargin": 0.10297794390672575,
+      "netMargin": 0.013317820630244821,
+      "roe": 0.018090722620128452,
+      "roic": 0.11164488339013982
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:23.732486+00:00"
+  }
+}

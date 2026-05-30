@@ -1,0 +1,128 @@
+{
+  "ticker": "MNDI",
+  "name": "Mondi plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Paper & Paper Products",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 3324497408.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 754.2,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7663000000.0,
+    "operatingIncome": 410000000.0,
+    "netIncome": 165000000.0,
+    "eps": 0.374,
+    "freeCashFlow": 246000000.0,
+    "totalDebt": 2882000000.0,
+    "cash": 292000000.0,
+    "sharesOutstanding": 441412530.0
+  },
+  "ratios": {
+    "roe": 0.03490585995345885,
+    "roic": 0.05388355894335655,
+    "grossMargin": 0.40545478272217145,
+    "operatingMargin": 0.05350384966723216,
+    "netMargin": 0.021532037061203185,
+    "debtToEquity": 0.55423
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8902000000.0,
+      "operatingIncome": 1443000000.0,
+      "netIncome": 1452000000.0,
+      "eps": 3.2912,
+      "freeCashFlow": 879000000.0,
+      "totalDebt": 2072000000.0,
+      "cash": 1067000000.0,
+      "sharesOutstanding": 441412526.0,
+      "grossMargin": 0.3856436755785217,
+      "operatingMargin": 0.16209840485284205,
+      "netMargin": 0.163109413614918,
+      "roe": 0.25060407317915084,
+      "roic": 0.18344774980930587
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7330000000.0,
+      "operatingIncome": 772000000.0,
+      "netIncome": -153000000.0,
+      "eps": -0.3465,
+      "freeCashFlow": 465000000.0,
+      "totalDebt": 2019000000.0,
+      "cash": 1592000000.0,
+      "sharesOutstanding": 441412527.0,
+      "grossMargin": 0.37394270122783085,
+      "operatingMargin": 0.1053206002728513,
+      "netMargin": -0.0208731241473397,
+      "roe": -0.027055702917771884,
+      "roic": 0.10059942663539223
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7416000000.0,
+      "operatingIncome": 474000000.0,
+      "netIncome": 218000000.0,
+      "eps": 0.491,
+      "freeCashFlow": -143000000.0,
+      "totalDebt": 2015000000.0,
+      "cash": 278000000.0,
+      "sharesOutstanding": 441412530.0,
+      "grossMargin": 0.4146440129449838,
+      "operatingMargin": 0.063915857605178,
+      "netMargin": 0.029395900755124056,
+      "roe": 0.04488367304920733,
+      "roic": 0.0689755529685681
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7663000000.0,
+      "operatingIncome": 410000000.0,
+      "netIncome": 165000000.0,
+      "eps": 0.374,
+      "freeCashFlow": 246000000.0,
+      "totalDebt": 2882000000.0,
+      "cash": 292000000.0,
+      "sharesOutstanding": 441412530.0,
+      "grossMargin": 0.40545478272217145,
+      "operatingMargin": 0.05350384966723216,
+      "netMargin": 0.021532037061203185,
+      "roe": 0.03490585995345885,
+      "roic": 0.05388355894335655
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:46.431491+00:00"
+  }
+}

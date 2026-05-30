@@ -1,0 +1,128 @@
+{
+  "ticker": "IMO",
+  "name": "Imperial Oil Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 79101263872.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 163.57,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 45203000000.0,
+    "operatingIncome": 4114000000.0,
+    "netIncome": 3268000000.0,
+    "eps": 6.48,
+    "freeCashFlow": 4703000000.0,
+    "totalDebt": 4146000000.0,
+    "cash": 1142000000.0,
+    "sharesOutstanding": 483592715.0
+  },
+  "ratios": {
+    "roe": 0.1468500044935742,
+    "roic": 0.15583333333333332,
+    "grossMargin": 0.1227352166891578,
+    "operatingMargin": 0.09101165851823995,
+    "netMargin": 0.07229608654292857,
+    "debtToEquity": 0.18533000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 57234000000.0,
+      "operatingIncome": 9287000000.0,
+      "netIncome": 7340000000.0,
+      "eps": 11.44,
+      "freeCashFlow": 8956000000.0,
+      "totalDebt": 4306000000.0,
+      "cash": 3749000000.0,
+      "sharesOutstanding": 584153000.0,
+      "grossMargin": 0.17805849669776705,
+      "operatingMargin": 0.16226368941538247,
+      "netMargin": 0.12824544850962716,
+      "roe": 0.32748851113193234,
+      "roic": 0.34758037351697296
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 48300000000.0,
+      "operatingIncome": 6171000000.0,
+      "netIncome": 4889000000.0,
+      "eps": 8.49,
+      "freeCashFlow": 1949000000.0,
+      "totalDebt": 4243000000.0,
+      "cash": 864000000.0,
+      "sharesOutstanding": 535836803.0,
+      "grossMargin": 0.14730848861283644,
+      "operatingMargin": 0.1277639751552795,
+      "netMargin": 0.10122153209109731,
+      "roe": 0.22000720007200072,
+      "roic": 0.23317589268845645
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 48824000000.0,
+      "operatingIncome": 6107000000.0,
+      "netIncome": 4790000000.0,
+      "eps": 9.03,
+      "freeCashFlow": 4114000000.0,
+      "totalDebt": 4155000000.0,
+      "cash": 979000000.0,
+      "sharesOutstanding": 509044963.0,
+      "grossMargin": 0.14456005243322956,
+      "operatingMargin": 0.1250819269211863,
+      "netMargin": 0.09810748812059643,
+      "roe": 0.20406424402505005,
+      "roic": 0.22104386853916316
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 45203000000.0,
+      "operatingIncome": 4114000000.0,
+      "netIncome": 3268000000.0,
+      "eps": 6.48,
+      "freeCashFlow": 4703000000.0,
+      "totalDebt": 4146000000.0,
+      "cash": 1142000000.0,
+      "sharesOutstanding": 483592715.0,
+      "grossMargin": 0.1227352166891578,
+      "operatingMargin": 0.09101165851823995,
+      "netMargin": 0.07229608654292857,
+      "roe": 0.1468500044935742,
+      "roic": 0.15583333333333332
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.131669+00:00"
+  }
+}

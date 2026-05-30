@@ -1,0 +1,111 @@
+{
+  "ticker": "9735",
+  "name": "SECOM CO., LTD.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Security & Protection Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2568328314880.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6350.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1199942000000.0,
+    "operatingIncome": 144306000000.0,
+    "netIncome": 108109000000.0,
+    "eps": 241.02,
+    "freeCashFlow": 72581000000.0,
+    "totalDebt": 72344000000.0,
+    "cash": 549773000000.0,
+    "sharesOutstanding": 466599796.0
+  },
+  "ratios": {
+    "roe": 0.085101944586794,
+    "roic": 0.1074752120927302,
+    "grossMargin": 0.3093091166073027,
+    "operatingMargin": 0.12026081260594262,
+    "netMargin": 0.09009518793408348,
+    "debtToEquity": 0.04568
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1049859000000.0,
+      "operatingIncome": 143504000000.0,
+      "netIncome": 94273000000.0,
+      "eps": 215.635,
+      "freeCashFlow": 101240000000.0,
+      "totalDebt": 67627000000.0,
+      "cash": 658840000000.0,
+      "sharesOutstanding": 466596098.0,
+      "grossMargin": 0.32163557201490867,
+      "operatingMargin": 0.13668883154785547,
+      "netMargin": 0.08979586782606046,
+      "roe": 0.08398223663404704,
+      "roic": 0.12057518220208678
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1101307000000.0,
+      "operatingIncome": 136706000000.0,
+      "netIncome": 96085000000.0,
+      "eps": 222.51,
+      "freeCashFlow": 85088000000.0,
+      "totalDebt": 64283000000.0,
+      "cash": 657855000000.0,
+      "sharesOutstanding": 466599796.0,
+      "grossMargin": 0.3109550742890039,
+      "operatingMargin": 0.12413069198688467,
+      "netMargin": 0.08724633549046723,
+      "roe": 0.08251719304995431,
+      "roic": 0.11126004816445255
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1154740000000.0,
+      "operatingIncome": 140667000000.0,
+      "netIncome": 101951000000.0,
+      "eps": 241.02,
+      "freeCashFlow": 71339000000.0,
+      "totalDebt": 68964000000.0,
+      "cash": 579498000000.0,
+      "sharesOutstanding": 466599796.0,
+      "grossMargin": 0.3094064464727991,
+      "operatingMargin": 0.12181703240556316,
+      "netMargin": 0.08828913868056879,
+      "roe": 0.0832679257056469,
+      "roic": 0.10876283598165057
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1199942000000.0,
+      "operatingIncome": 144306000000.0,
+      "netIncome": 108109000000.0,
+      "eps": 241.02,
+      "freeCashFlow": 72581000000.0,
+      "totalDebt": 72344000000.0,
+      "cash": 549773000000.0,
+      "sharesOutstanding": 466599796.0,
+      "grossMargin": 0.3093091166073027,
+      "operatingMargin": 0.12026081260594262,
+      "netMargin": 0.09009518793408348,
+      "roe": 0.085101944586794,
+      "roic": 0.1074752120927302
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:19.757148+00:00"
+  }
+}

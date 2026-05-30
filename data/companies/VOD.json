@@ -1,0 +1,128 @@
+{
+  "ticker": "VOD",
+  "name": "Vodafone Group Public Limited Company",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 25651359744.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 111.4,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 40461000000.0,
+    "operatingIncome": 3743000000.0,
+    "netIncome": -397000000.0,
+    "eps": -0.0165,
+    "freeCashFlow": 6973000000.0,
+    "totalDebt": 52636000000.0,
+    "cash": 6728000000.0,
+    "sharesOutstanding": 24328378589.0
+  },
+  "ratios": {
+    "roe": -0.007840736278711511,
+    "roic": 0.0362451461716488,
+    "grossMargin": 0.31469810434739626,
+    "operatingMargin": 0.09250883566891574,
+    "netMargin": -0.00981191764909419,
+    "debtToEquity": 1.00153
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 37672000000.0,
+      "operatingIncome": 5238000000.0,
+      "netIncome": 11838000000.0,
+      "eps": 0.4262,
+      "freeCashFlow": 10298000000.0,
+      "totalDebt": 66390000000.0,
+      "cash": 11705000000.0,
+      "sharesOutstanding": 28818256058.0,
+      "grossMargin": 0.35339244000849435,
+      "operatingMargin": 0.13904225950307922,
+      "netMargin": 0.31423869186663833,
+      "roe": 0.1867221880471301,
+      "roic": 0.04035781152485958
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 36717000000.0,
+      "operatingIncome": 3816000000.0,
+      "netIncome": 1140000000.0,
+      "eps": 0.042,
+      "freeCashFlow": 9697000000.0,
+      "totalDebt": 56987000000.0,
+      "cash": 4554000000.0,
+      "sharesOutstanding": 28818683808.0,
+      "grossMargin": 0.33385080480431406,
+      "operatingMargin": 0.10393005964539587,
+      "netMargin": 0.031048288258844675,
+      "roe": 0.019010772771237035,
+      "roic": 0.03262849178729917
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 37448000000.0,
+      "operatingIncome": 4138000000.0,
+      "netIncome": -4169000000.0,
+      "eps": -0.1594,
+      "freeCashFlow": 8674000000.0,
+      "totalDebt": 53143000000.0,
+      "cash": 9079000000.0,
+      "sharesOutstanding": 26388285902.0,
+      "grossMargin": 0.33430356761375773,
+      "operatingMargin": 0.11049989318521683,
+      "netMargin": -0.11132770775475326,
+      "roe": -0.07904066736183525,
+      "roic": 0.03907902689634331
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 40461000000.0,
+      "operatingIncome": 3743000000.0,
+      "netIncome": -397000000.0,
+      "eps": -0.0165,
+      "freeCashFlow": 6973000000.0,
+      "totalDebt": 52636000000.0,
+      "cash": 6728000000.0,
+      "sharesOutstanding": 24328378589.0,
+      "grossMargin": 0.31469810434739626,
+      "operatingMargin": 0.09250883566891574,
+      "netMargin": -0.00981191764909419,
+      "roe": -0.007840736278711511,
+      "roic": 0.0362451461716488
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:00.661777+00:00"
+  }
+}

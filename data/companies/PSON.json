@@ -1,0 +1,128 @@
+{
+  "ticker": "PSON",
+  "name": "Pearson plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6700164096.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1112.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3577000000.0,
+    "operatingIncome": 596000000.0,
+    "netIncome": 335000000.0,
+    "eps": 0.507,
+    "freeCashFlow": 522000000.0,
+    "totalDebt": 1481000000.0,
+    "cash": 333000000.0,
+    "sharesOutstanding": 635814880.0
+  },
+  "ratios": {
+    "roe": 0.0918311403508772,
+    "roic": 0.11620198869175277,
+    "grossMargin": 0.5199888174447861,
+    "operatingMargin": 0.1666200726866089,
+    "netMargin": 0.09365389991613084,
+    "debtToEquity": 0.40513
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3841000000.0,
+      "operatingIncome": 396000000.0,
+      "netIncome": 242000000.0,
+      "eps": 0.326,
+      "freeCashFlow": 214000000.0,
+      "totalDebt": 1230000000.0,
+      "cash": 558000000.0,
+      "sharesOutstanding": 715733241.0,
+      "grossMargin": 0.46732621713095546,
+      "operatingMargin": 0.10309815152304087,
+      "netMargin": 0.0630044259307472,
+      "roe": 0.05497501135847342,
+      "roic": 0.0703125
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3674000000.0,
+      "operatingIncome": 513000000.0,
+      "netIncome": 378000000.0,
+      "eps": 0.527,
+      "freeCashFlow": 399000000.0,
+      "totalDebt": 1161000000.0,
+      "cash": 312000000.0,
+      "sharesOutstanding": 697298680.0,
+      "grossMargin": 0.4994556341861731,
+      "operatingMargin": 0.13962983124659772,
+      "netMargin": 0.10288513881328253,
+      "roe": 0.09511826874685456,
+      "roic": 0.09990262901655307
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3552000000.0,
+      "operatingIncome": 544000000.0,
+      "netIncome": 434000000.0,
+      "eps": 0.635,
+      "freeCashFlow": 503000000.0,
+      "totalDebt": 1472000000.0,
+      "cash": 543000000.0,
+      "sharesOutstanding": 666264831.0,
+      "grossMargin": 0.5098536036036037,
+      "operatingMargin": 0.15315315315315314,
+      "netMargin": 0.12218468468468469,
+      "roe": 0.10747894997523527,
+      "roic": 0.09872958257713249
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3577000000.0,
+      "operatingIncome": 596000000.0,
+      "netIncome": 335000000.0,
+      "eps": 0.507,
+      "freeCashFlow": 522000000.0,
+      "totalDebt": 1481000000.0,
+      "cash": 333000000.0,
+      "sharesOutstanding": 635814880.0,
+      "grossMargin": 0.5199888174447861,
+      "operatingMargin": 0.1666200726866089,
+      "netMargin": 0.09365389991613084,
+      "roe": 0.0918311403508772,
+      "roic": 0.11620198869175277
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:49.296783+00:00"
+  }
+}

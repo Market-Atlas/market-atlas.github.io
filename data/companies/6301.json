@@ -1,0 +1,128 @@
+{
+  "ticker": "6301",
+  "name": "Komatsu Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5929316646912.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6577.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 413.9,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 901522990.0
+  },
+  "ratios": {
+    "roe": 0.113900006,
+    "roic": null,
+    "grossMargin": 0.30485,
+    "operatingMargin": 0.12184,
+    "netMargin": 0.091079995,
+    "debtToEquity": 0.38279
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2802323000000.0,
+      "operatingIncome": 318387000000.0,
+      "netIncome": 224927000000.0,
+      "eps": 237.92,
+      "freeCashFlow": 138014000000.0,
+      "totalDebt": 1007819000000.0,
+      "cash": 315360000000.0,
+      "sharesOutstanding": 973145800.0,
+      "grossMargin": 0.2781892023153648,
+      "operatingMargin": 0.11361538266645209,
+      "netMargin": 0.08026448057557961,
+      "roe": 0.10075067939194925,
+      "roic": 0.09825758487561452
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3543475000000.0,
+      "operatingIncome": 496206000000.0,
+      "netIncome": 326398000000.0,
+      "eps": 345.18,
+      "freeCashFlow": 22941000000.0,
+      "totalDebt": 1116553000000.0,
+      "cash": 289975000000.0,
+      "sharesOutstanding": 973450930.0,
+      "grossMargin": 0.29322233118619434,
+      "operatingMargin": 0.14003372395741467,
+      "netMargin": 0.09211240378442066,
+      "roe": 0.12852131462675237,
+      "roic": 0.1357165402054705
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 3865122000000.0,
+      "operatingIncome": 613302000000.0,
+      "netIncome": 393426000000.0,
+      "eps": 415.93,
+      "freeCashFlow": 231831000000.0,
+      "totalDebt": 1270414000000.0,
+      "cash": 403178000000.0,
+      "sharesOutstanding": 973810620.0,
+      "grossMargin": 0.31310990959664403,
+      "operatingMargin": 0.15867597452292578,
+      "netMargin": 0.10178876630543615,
+      "roe": 0.12969080314309647,
+      "roic": 0.14249638067808354
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4104395000000.0,
+      "operatingIncome": 659156000000.0,
+      "netIncome": 439614000000.0,
+      "eps": null,
+      "freeCashFlow": 311312000000.0,
+      "totalDebt": 1220702000000.0,
+      "cash": 385569000000.0,
+      "sharesOutstanding": 950953120.0,
+      "grossMargin": 0.3221870702015766,
+      "operatingMargin": 0.1605976033008519,
+      "netMargin": 0.10710811215782107,
+      "roe": 0.1385309568699051,
+      "roic": 0.15000929655463086
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 413.9,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:09.249698+00:00"
+  }
+}

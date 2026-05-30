@@ -1,0 +1,111 @@
+{
+  "ticker": "BNR",
+  "name": "Brenntag SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 8163549184.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 56.54,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15171500000.0,
+    "operatingIncome": 614700000.0,
+    "netIncome": 264600000.0,
+    "eps": 1.83,
+    "freeCashFlow": 673700000.0,
+    "totalDebt": 3260000000.0,
+    "cash": 797900000.0,
+    "sharesOutstanding": 144385372.0
+  },
+  "ratios": {
+    "roe": 0.06133376602304073,
+    "roic": 0.08115815740484018,
+    "grossMargin": 0.25255907458062815,
+    "operatingMargin": 0.0405167583956761,
+    "netMargin": 0.017440595854068482,
+    "debtToEquity": 0.74834
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19429300000.0,
+      "operatingIncome": 1385400000.0,
+      "netIncome": 886800000.0,
+      "eps": 5.74,
+      "freeCashFlow": 689500000.0,
+      "totalDebt": 2927900000.0,
+      "cash": 1046100000.0,
+      "sharesOutstanding": 154500000.0,
+      "grossMargin": 0.22229313459568795,
+      "operatingMargin": 0.07130467901571338,
+      "netMargin": 0.045642406056831696,
+      "roe": 0.18659652814308259,
+      "roic": 0.18038123014426333
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16815100000.0,
+      "operatingIncome": 1098500000.0,
+      "netIncome": 714900000.0,
+      "eps": 4.73,
+      "freeCashFlow": 1342800000.0,
+      "totalDebt": 2398100000.0,
+      "cash": 576900000.0,
+      "sharesOutstanding": 147453837.0,
+      "grossMargin": 0.2390767821779234,
+      "operatingMargin": 0.06532818716510755,
+      "netMargin": 0.04251535821969539,
+      "roe": 0.1660742908913513,
+      "roic": 0.1638867339022498
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16237400000.0,
+      "operatingIncome": 890500000.0,
+      "netIncome": 536200000.0,
+      "eps": 3.71,
+      "freeCashFlow": 564400000.0,
+      "totalDebt": 3375900000.0,
+      "cash": 763300000.0,
+      "sharesOutstanding": 144385372.0,
+      "grossMargin": 0.24797689285230395,
+      "operatingMargin": 0.05484252404941678,
+      "netMargin": 0.033022528237279365,
+      "roe": 0.11344066685002221,
+      "roic": 0.10990299410065905
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15171500000.0,
+      "operatingIncome": 614700000.0,
+      "netIncome": 264600000.0,
+      "eps": 1.83,
+      "freeCashFlow": 673700000.0,
+      "totalDebt": 3260000000.0,
+      "cash": 797900000.0,
+      "sharesOutstanding": 144385372.0,
+      "grossMargin": 0.25255907458062815,
+      "operatingMargin": 0.0405167583956761,
+      "netMargin": 0.017440595854068482,
+      "roe": 0.06133376602304073,
+      "roic": 0.08115815740484018
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:14.783705+00:00"
+  }
+}

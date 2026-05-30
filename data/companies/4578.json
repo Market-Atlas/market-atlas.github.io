@@ -1,0 +1,111 @@
+{
+  "ticker": "4578",
+  "name": "Otsuka Holdings Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 6169058869248.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 11715.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2468892000000.0,
+    "operatingIncome": 472106000000.0,
+    "netIncome": 363150000000.0,
+    "eps": 685.06,
+    "freeCashFlow": 261910000000.0,
+    "totalDebt": 227975000000.0,
+    "cash": 534645000000.0,
+    "sharesOutstanding": 542988917.0
+  },
+  "ratios": {
+    "roe": 0.119715412580552,
+    "roic": 0.14475478311740994,
+    "grossMargin": 0.7168304648400983,
+    "operatingMargin": 0.191221811241642,
+    "netMargin": 0.1470902736936245,
+    "debtToEquity": 0.06132
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1737998000000.0,
+      "operatingIncome": 186064000000.0,
+      "netIncome": 133906000000.0,
+      "eps": 246.78,
+      "freeCashFlow": 104061000000.0,
+      "totalDebt": 194161000000.0,
+      "cash": 471634000000.0,
+      "sharesOutstanding": 557835617.0,
+      "grossMargin": 0.6723235584851076,
+      "operatingMargin": 0.10705650984638647,
+      "netMargin": 0.07704611858011344,
+      "roe": 0.060175575383495376,
+      "roic": 0.07690450918734108
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2018568000000.0,
+      "operatingIncome": 291668000000.0,
+      "netIncome": 121616000000.0,
+      "eps": 224.1,
+      "freeCashFlow": 168559000000.0,
+      "totalDebt": 214187000000.0,
+      "cash": 513341000000.0,
+      "sharesOutstanding": 557835617.0,
+      "grossMargin": 0.6972016796065329,
+      "operatingMargin": 0.14449253133904827,
+      "netMargin": 0.060248651519294864,
+      "roe": 0.05080706175379113,
+      "roic": 0.1118414644901778
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2329861000000.0,
+      "operatingIncome": 415992000000.0,
+      "netIncome": 343120000000.0,
+      "eps": 633.76,
+      "freeCashFlow": 225276000000.0,
+      "totalDebt": 189383000000.0,
+      "cash": 426173000000.0,
+      "sharesOutstanding": 552024717.0,
+      "grossMargin": 0.7165358791790584,
+      "operatingMargin": 0.17854799063120075,
+      "netMargin": 0.14727058824539319,
+      "roe": 0.12552037986815823,
+      "roic": 0.1423185993117258
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2468892000000.0,
+      "operatingIncome": 472106000000.0,
+      "netIncome": 363150000000.0,
+      "eps": 685.06,
+      "freeCashFlow": 261910000000.0,
+      "totalDebt": 227975000000.0,
+      "cash": 534645000000.0,
+      "sharesOutstanding": 542988917.0,
+      "grossMargin": 0.7168304648400983,
+      "operatingMargin": 0.191221811241642,
+      "netMargin": 0.1470902736936245,
+      "roe": 0.119715412580552,
+      "roic": 0.14475478311740994
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:07.185522+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "FM",
+  "name": "First Quantum Minerals Ltd.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Copper",
+  "currency": "USD",
+  "marketCap": {
+    "value": 35148218368.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.44,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5237000000.0,
+    "operatingIncome": 1092000000.0,
+    "netIncome": -28000000.0,
+    "eps": -0.03,
+    "freeCashFlow": 948000000.0,
+    "totalDebt": 5908000000.0,
+    "cash": 716000000.0,
+    "sharesOutstanding": 834206136.0
+  },
+  "ratios": {
+    "roe": -0.0025078369905956114,
+    "roic": 0.06396063960639606,
+    "grossMargin": 0.27840366622111895,
+    "operatingMargin": 0.20851632614092036,
+    "netMargin": -0.005346572465151804,
+    "debtToEquity": 0.6576900000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7626000000.0,
+      "operatingIncome": 1850000000.0,
+      "netIncome": 1034000000.0,
+      "eps": 1.49,
+      "freeCashFlow": 1165000000.0,
+      "totalDebt": 7380000000.0,
+      "cash": 1688000000.0,
+      "sharesOutstanding": 698762043.0,
+      "grossMargin": 0.2884867558353003,
+      "operatingMargin": 0.24259113558877524,
+      "netMargin": 0.13558877524259114,
+      "roe": 0.09485368314833502,
+      "roic": 0.10119796510037744
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6456000000.0,
+      "operatingIncome": 1148000000.0,
+      "netIncome": -954000000.0,
+      "eps": -1.38,
+      "freeCashFlow": 127000000.0,
+      "totalDebt": 7577000000.0,
+      "cash": 1157000000.0,
+      "sharesOutstanding": 693599174.0,
+      "grossMargin": 0.20012391573729862,
+      "operatingMargin": 0.177819083023544,
+      "netMargin": -0.14776951672862454,
+      "roe": -0.09310041963501513,
+      "roic": 0.06440754039497307
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4802000000.0,
+      "operatingIncome": 1031000000.0,
+      "netIncome": 2000000.0,
+      "eps": 0.0,
+      "freeCashFlow": 365000000.0,
+      "totalDebt": 6373000000.0,
+      "cash": 843000000.0,
+      "sharesOutstanding": 834206136.0,
+      "grossMargin": 0.2811328613077884,
+      "operatingMargin": 0.21470220741357768,
+      "netMargin": 0.00041649312786339027,
+      "roe": 0.0001743831197140117,
+      "roic": 0.05778500168142585
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5237000000.0,
+      "operatingIncome": 1092000000.0,
+      "netIncome": -28000000.0,
+      "eps": -0.03,
+      "freeCashFlow": 948000000.0,
+      "totalDebt": 5908000000.0,
+      "cash": 716000000.0,
+      "sharesOutstanding": 834206136.0,
+      "grossMargin": 0.27840366622111895,
+      "operatingMargin": 0.20851632614092036,
+      "netMargin": -0.005346572465151804,
+      "roe": -0.0025078369905956114,
+      "roic": 0.06396063960639606
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:04.943665+00:00"
+  }
+}

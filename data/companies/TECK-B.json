@@ -1,0 +1,128 @@
+{
+  "ticker": "TECK-B",
+  "name": "Teck Resources Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 44762701824.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 91.43,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10756000000.0,
+    "operatingIncome": 1540000000.0,
+    "netIncome": 1401000000.0,
+    "eps": 2.83,
+    "freeCashFlow": -583000000.0,
+    "totalDebt": 9607000000.0,
+    "cash": 5012000000.0,
+    "sharesOutstanding": 488476203.0
+  },
+  "ratios": {
+    "roe": 0.05582562958240357,
+    "roic": 0.044376566867417803,
+    "grossMargin": 0.24702491632577167,
+    "operatingMargin": 0.14317590182223874,
+    "netMargin": 0.1302528821123094,
+    "debtToEquity": 0.36939999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17316000000.0,
+      "operatingIncome": 7188000000.0,
+      "netIncome": 3317000000.0,
+      "eps": 6.19,
+      "freeCashFlow": 2518000000.0,
+      "totalDebt": 10017000000.0,
+      "cash": 1883000000.0,
+      "sharesOutstanding": 513719103.0,
+      "grossMargin": 0.494975744975745,
+      "operatingMargin": 0.4151074151074151,
+      "netMargin": 0.19155694155694156,
+      "roe": 0.13021630746280374,
+      "roic": 0.2025359256128487
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6476000000.0,
+      "operatingIncome": 36000000.0,
+      "netIncome": 2409000000.0,
+      "eps": 4.59,
+      "freeCashFlow": -256000000.0,
+      "totalDebt": 11092000000.0,
+      "cash": 744000000.0,
+      "sharesOutstanding": 517322246.0,
+      "grossMargin": 0.17171093267449042,
+      "operatingMargin": 0.005558987029030266,
+      "netMargin": 0.37198888202594194,
+      "roe": 0.08926189417518897,
+      "roic": 0.0009453781512605042
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9065000000.0,
+      "operatingIncome": 778000000.0,
+      "netIncome": 406000000.0,
+      "eps": 0.78,
+      "freeCashFlow": 155000000.0,
+      "totalDebt": 9965000000.0,
+      "cash": 7587000000.0,
+      "sharesOutstanding": 506342973.0,
+      "grossMargin": 0.17727523441809157,
+      "operatingMargin": 0.0858246001103144,
+      "netMargin": 0.044787644787644784,
+      "roe": 0.015569275606856618,
+      "roic": 0.02158592752899395
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 10756000000.0,
+      "operatingIncome": 1540000000.0,
+      "netIncome": 1401000000.0,
+      "eps": 2.83,
+      "freeCashFlow": -583000000.0,
+      "totalDebt": 9607000000.0,
+      "cash": 5012000000.0,
+      "sharesOutstanding": 488476203.0,
+      "grossMargin": 0.24702491632577167,
+      "operatingMargin": 0.14317590182223874,
+      "netMargin": 0.1302528821123094,
+      "roe": 0.05582562958240357,
+      "roic": 0.044376566867417803
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.795230+00:00"
+  }
+}

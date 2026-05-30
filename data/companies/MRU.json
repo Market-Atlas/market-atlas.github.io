@@ -1,0 +1,128 @@
+{
+  "ticker": "MRU",
+  "name": "Metro Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 18661242880.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 88.47,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22006700000.0,
+    "operatingIncome": 1488400000.0,
+    "netIncome": 1017000000.0,
+    "eps": 4.11,
+    "freeCashFlow": 1214300000.0,
+    "totalDebt": 4602000000.0,
+    "cash": 67300000.0,
+    "sharesOutstanding": 215047000.0
+  },
+  "ratios": {
+    "roe": 0.14473365875873453,
+    "roic": 0.12799367083164928,
+    "grossMargin": 0.19858952046422226,
+    "operatingMargin": 0.06763394784315686,
+    "netMargin": 0.046213198707666304,
+    "debtToEquity": 0.8068899999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 18888900000.0,
+      "operatingIncome": 1316000000.0,
+      "netIncome": 846100000.0,
+      "eps": 3.51,
+      "freeCashFlow": 840400000.0,
+      "totalDebt": 4121800000.0,
+      "cash": 13400000.0,
+      "sharesOutstanding": 236929000.0,
+      "grossMargin": 0.20029223512221464,
+      "operatingMargin": 0.06967054725261926,
+      "netMargin": 0.044793503062645255,
+      "roe": 0.1281096222272693,
+      "roic": 0.12268909129895678
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 20724600000.0,
+      "operatingIncome": 1440200000.0,
+      "netIncome": 1014800000.0,
+      "eps": 4.35,
+      "freeCashFlow": 883600000.0,
+      "totalDebt": 4324300000.0,
+      "cash": 29500000.0,
+      "sharesOutstanding": 228949000.0,
+      "grossMargin": 0.19697364484718644,
+      "operatingMargin": 0.06949229418179362,
+      "netMargin": 0.04896596315489805,
+      "roe": 0.14920896312415455,
+      "roic": 0.12945036178149297
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 21219900000.0,
+      "operatingIncome": 1409800000.0,
+      "netIncome": 928800000.0,
+      "eps": 4.11,
+      "freeCashFlow": 1097300000.0,
+      "totalDebt": 4310500000.0,
+      "cash": 29400000.0,
+      "sharesOutstanding": 222702000.0,
+      "grossMargin": 0.19695191777529583,
+      "operatingMargin": 0.06643763636963416,
+      "netMargin": 0.043770234543989366,
+      "roe": 0.13227565974051866,
+      "roic": 0.12440655830288912
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 22006700000.0,
+      "operatingIncome": 1488400000.0,
+      "netIncome": 1017000000.0,
+      "eps": 4.11,
+      "freeCashFlow": 1214300000.0,
+      "totalDebt": 4602000000.0,
+      "cash": 67300000.0,
+      "sharesOutstanding": 215047000.0,
+      "grossMargin": 0.19858952046422226,
+      "operatingMargin": 0.06763394784315686,
+      "netMargin": 0.046213198707666304,
+      "roe": 0.14473365875873453,
+      "roic": 0.12799367083164928
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.901000+00:00"
+  }
+}

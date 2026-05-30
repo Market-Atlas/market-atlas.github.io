@@ -1,0 +1,128 @@
+{
+  "ticker": "7751",
+  "name": "Canon Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3650892857344.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4228.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4624727000000.0,
+    "operatingIncome": 455390000000.0,
+    "netIncome": 332053000000.0,
+    "eps": 367.25,
+    "freeCashFlow": 213738000000.0,
+    "totalDebt": 946159000000.0,
+    "cash": 585981000000.0,
+    "sharesOutstanding": 1333763464.0
+  },
+  "ratios": {
+    "roe": 0.09509486203136026,
+    "roic": 0.10261229973093536,
+    "grossMargin": 0.46747732352634,
+    "operatingMargin": 0.09846851500639929,
+    "netMargin": 0.0717994813531696,
+    "debtToEquity": 0.33696
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4031414000000.0,
+      "operatingIncome": 353399000000.0,
+      "netIncome": 243961000000.0,
+      "eps": 236.63,
+      "freeCashFlow": 74076000000.0,
+      "totalDebt": 417413000000.0,
+      "cash": 362101000000.0,
+      "sharesOutstanding": 1333763464.0,
+      "grossMargin": 0.4533898031807202,
+      "operatingMargin": 0.08766130196501773,
+      "netMargin": 0.06051499548297446,
+      "roe": 0.07836581162537082,
+      "roic": 0.10009834250951277
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4180972000000.0,
+      "operatingIncome": 375366000000.0,
+      "netIncome": 264513000000.0,
+      "eps": 264.08,
+      "freeCashFlow": 220882000000.0,
+      "totalDebt": 517317000000.0,
+      "cash": 401323000000.0,
+      "sharesOutstanding": 1333763464.0,
+      "grossMargin": 0.47092159430869185,
+      "operatingMargin": 0.0897796014897971,
+      "netMargin": 0.06326591041509008,
+      "roe": 0.07888794049069764,
+      "roic": 0.09698530283781343
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4509821000000.0,
+      "operatingIncome": 444854000000.0,
+      "netIncome": 160025000000.0,
+      "eps": 165.44,
+      "freeCashFlow": 369830000000.0,
+      "totalDebt": 663500000000.0,
+      "cash": 501565000000.0,
+      "sharesOutstanding": 1333763464.0,
+      "grossMargin": 0.4752062221538283,
+      "operatingMargin": 0.09864116558062948,
+      "netMargin": 0.03548366997271067,
+      "roe": 0.047340850872104115,
+      "roic": 0.11000963703946784
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4624727000000.0,
+      "operatingIncome": 455390000000.0,
+      "netIncome": 332053000000.0,
+      "eps": 367.25,
+      "freeCashFlow": 213738000000.0,
+      "totalDebt": 946159000000.0,
+      "cash": 585981000000.0,
+      "sharesOutstanding": 1333763464.0,
+      "grossMargin": 0.46747732352634,
+      "operatingMargin": 0.09846851500639929,
+      "netMargin": 0.0717994813531696,
+      "roe": 0.09509486203136026,
+      "roic": 0.10261229973093536
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.922715+00:00"
+  }
+}

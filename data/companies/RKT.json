@@ -1,0 +1,128 @@
+{
+  "ticker": "RKT",
+  "name": "Reckitt Benckiser Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 29258428416.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4591.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14205000000.0,
+    "operatingIncome": 3426000000.0,
+    "netIncome": 3182000000.0,
+    "eps": 4.866667,
+    "freeCashFlow": 1682000000.0,
+    "totalDebt": 8430000000.0,
+    "cash": 1770000000.0,
+    "sharesOutstanding": 674005764.0
+  },
+  "ratios": {
+    "roe": 0.41079266718306223,
+    "roic": 0.2117952522255193,
+    "grossMargin": 0.6078141499472017,
+    "operatingMargin": 0.24118268215417107,
+    "netMargin": 0.22400563181978178,
+    "debtToEquity": 1.09562
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 14453000000.0,
+      "operatingIncome": 3402000000.0,
+      "netIncome": 2330000000.0,
+      "eps": 3.382292,
+      "freeCashFlow": 1954000000.0,
+      "totalDebt": 8884000000.0,
+      "cash": 881000000.0,
+      "sharesOutstanding": 727014135.0,
+      "grossMargin": 0.578495814017851,
+      "operatingMargin": 0.23538365737217187,
+      "netMargin": 0.1612122050785304,
+      "roe": 0.2467436196124113,
+      "roic": 0.18562776231789163
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14607000000.0,
+      "operatingIncome": 3347000000.0,
+      "netIncome": 1643000000.0,
+      "eps": 2.382292,
+      "freeCashFlow": 2187000000.0,
+      "totalDebt": 8537000000.0,
+      "cash": 1158000000.0,
+      "sharesOutstanding": 707073771.0,
+      "grossMargin": 0.5997124666255905,
+      "operatingMargin": 0.22913671527349902,
+      "netMargin": 0.1124803176559184,
+      "roe": 0.19448390151515152,
+      "roic": 0.19705622608183693
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14169000000.0,
+      "operatingIncome": 3439000000.0,
+      "netIncome": 1426000000.0,
+      "eps": 2.116667,
+      "freeCashFlow": 2217000000.0,
+      "totalDebt": 8658000000.0,
+      "cash": 760000000.0,
+      "sharesOutstanding": 707073771.0,
+      "grossMargin": 0.6066059707812831,
+      "operatingMargin": 0.24271296492342437,
+      "netMargin": 0.10064224715929142,
+      "roe": 0.212867592177937,
+      "roic": 0.22393696685550563
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14205000000.0,
+      "operatingIncome": 3426000000.0,
+      "netIncome": 3182000000.0,
+      "eps": 4.866667,
+      "freeCashFlow": 1682000000.0,
+      "totalDebt": 8430000000.0,
+      "cash": 1770000000.0,
+      "sharesOutstanding": 674005764.0,
+      "grossMargin": 0.6078141499472017,
+      "operatingMargin": 0.24118268215417107,
+      "netMargin": 0.22400563181978178,
+      "roe": 0.41079266718306223,
+      "roic": 0.2117952522255193
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:51.627185+00:00"
+  }
+}

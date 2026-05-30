@@ -1,0 +1,128 @@
+{
+  "ticker": "SGE",
+  "name": "The Sage Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 7572175360.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 842.4,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2513000000.0,
+    "operatingIncome": 530000000.0,
+    "netIncome": 369000000.0,
+    "eps": 0.3716,
+    "freeCashFlow": 469000000.0,
+    "totalDebt": 1579000000.0,
+    "cash": 390000000.0,
+    "sharesOutstanding": 1023290127.0
+  },
+  "ratios": {
+    "roe": 0.5125,
+    "roic": 0.23053501522401043,
+    "grossMargin": 0.9271786709112615,
+    "operatingMargin": 0.2109033028253084,
+    "netMargin": 0.14683645045762037,
+    "debtToEquity": 9.19091
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 1947000000.0,
+      "operatingIncome": 333000000.0,
+      "netIncome": 260000000.0,
+      "eps": 0.2517,
+      "freeCashFlow": 233000000.0,
+      "totalDebt": 1222000000.0,
+      "cash": 489000000.0,
+      "sharesOutstanding": 1100789295.0,
+      "grossMargin": 0.9291217257318952,
+      "operatingMargin": 0.17103235747303544,
+      "netMargin": 0.1335387776065742,
+      "roe": 0.18611309949892627,
+      "roic": 0.12714776632302405
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 2184000000.0,
+      "operatingIncome": 315000000.0,
+      "netIncome": 211000000.0,
+      "eps": 0.2043,
+      "freeCashFlow": 365000000.0,
+      "totalDebt": 1257000000.0,
+      "cash": 696000000.0,
+      "sharesOutstanding": 1100789295.0,
+      "grossMargin": 0.9285714285714286,
+      "operatingMargin": 0.14423076923076922,
+      "netMargin": 0.09661172161172162,
+      "roe": 0.1499644633972992,
+      "roic": 0.11824324324324324
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 2332000000.0,
+      "operatingIncome": 452000000.0,
+      "netIncome": 323000000.0,
+      "eps": 0.3155,
+      "freeCashFlow": 454000000.0,
+      "totalDebt": 1246000000.0,
+      "cash": 508000000.0,
+      "sharesOutstanding": 1071499517.0,
+      "grossMargin": 0.9279588336192109,
+      "operatingMargin": 0.19382504288164665,
+      "netMargin": 0.13850771869639794,
+      "roe": 0.29551692589204026,
+      "roic": 0.19324497648567765
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 2513000000.0,
+      "operatingIncome": 530000000.0,
+      "netIncome": 369000000.0,
+      "eps": 0.3716,
+      "freeCashFlow": 469000000.0,
+      "totalDebt": 1579000000.0,
+      "cash": 390000000.0,
+      "sharesOutstanding": 1023290127.0,
+      "grossMargin": 0.9271786709112615,
+      "operatingMargin": 0.2109033028253084,
+      "netMargin": 0.14683645045762037,
+      "roe": 0.5125,
+      "roic": 0.23053501522401043
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:54.316278+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "FTS",
+  "name": "Fortis Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 38826483712.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 76.26,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12170000000.0,
+    "operatingIncome": 3492000000.0,
+    "netIncome": 1799000000.0,
+    "eps": 3.4,
+    "freeCashFlow": -2172000000.0,
+    "totalDebt": 34673000000.0,
+    "cash": 367000000.0,
+    "sharesOutstanding": 507340068.0
+  },
+  "ratios": {
+    "roe": 0.0755564888702226,
+    "roic": 0.059709659217208416,
+    "grossMargin": 0.7230073952341824,
+    "operatingMargin": 0.2869350862777321,
+    "netMargin": 0.14782251437962202,
+    "debtToEquity": 1.33697
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11043000000.0,
+      "operatingIncome": 2740000000.0,
+      "netIncome": 1394000000.0,
+      "eps": 2.78,
+      "freeCashFlow": -791000000.0,
+      "totalDebt": 29035000000.0,
+      "cash": 209000000.0,
+      "sharesOutstanding": 482150634.0,
+      "grossMargin": 0.6421262338132754,
+      "operatingMargin": 0.24812098161731413,
+      "netMargin": 0.12623381327537805,
+      "roe": 0.06628625772705658,
+      "roic": 0.05472885249176071
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11517000000.0,
+      "operatingIncome": 3084000000.0,
+      "netIncome": 1573000000.0,
+      "eps": 3.1,
+      "freeCashFlow": -624000000.0,
+      "totalDebt": 30028000000.0,
+      "cash": 625000000.0,
+      "sharesOutstanding": 490588502.0,
+      "grossMargin": 0.6725709820265694,
+      "operatingMargin": 0.2677780672050013,
+      "netMargin": 0.13658070678127984,
+      "roe": 0.0731457800511509,
+      "roic": 0.05984514776939049
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11508000000.0,
+      "operatingIncome": 3292000000.0,
+      "netIncome": 1680000000.0,
+      "eps": 3.24,
+      "freeCashFlow": -1336000000.0,
+      "totalDebt": 33702000000.0,
+      "cash": 220000000.0,
+      "sharesOutstanding": 499301105.0,
+      "grossMargin": 0.7176746611053181,
+      "operatingMargin": 0.2860618700034758,
+      "netMargin": 0.145985401459854,
+      "roe": 0.07056451612903226,
+      "roic": 0.05724221874456616
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12170000000.0,
+      "operatingIncome": 3492000000.0,
+      "netIncome": 1799000000.0,
+      "eps": 3.4,
+      "freeCashFlow": -2172000000.0,
+      "totalDebt": 34673000000.0,
+      "cash": 367000000.0,
+      "sharesOutstanding": 507340068.0,
+      "grossMargin": 0.7230073952341824,
+      "operatingMargin": 0.2869350862777321,
+      "netMargin": 0.14782251437962202,
+      "roe": 0.0755564888702226,
+      "roic": 0.059709659217208416
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.275974+00:00"
+  }
+}

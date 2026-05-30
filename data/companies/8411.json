@@ -1,0 +1,128 @@
+{
+  "ticker": "8411",
+  "name": "Mizuho Financial Group, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 17545176285184.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7195.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4316919000000.0,
+    "operatingIncome": null,
+    "netIncome": 1248632000000.0,
+    "eps": null,
+    "freeCashFlow": -5157484000000.0,
+    "totalDebt": 26180927000000.0,
+    "cash": 61567751000000.0,
+    "sharesOutstanding": 2489848594.0
+  },
+  "ratios": {
+    "roe": 0.11033704159739482,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.32479,
+    "netMargin": 0.28924147059511657,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 209.26,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2670039000000.0,
+      "operatingIncome": null,
+      "netIncome": 555527000000.0,
+      "eps": 219.19,
+      "freeCashFlow": 8684070000000.0,
+      "totalDebt": 19600794000000.0,
+      "cash": 67152100000000.0,
+      "sharesOutstanding": 2539249894.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20805950774501797,
+      "roe": 0.06082437271276437,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2971068000000.0,
+      "operatingIncome": null,
+      "netIncome": 678993000000.0,
+      "eps": 267.88,
+      "freeCashFlow": 1627967000000.0,
+      "totalDebt": 20841970000000.0,
+      "cash": 72968900000000.0,
+      "sharesOutstanding": 2539249894.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22853499145761727,
+      "roe": 0.06635625172244623,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3809305000000.0,
+      "operatingIncome": null,
+      "netIncome": 885433000000.0,
+      "eps": 350.2,
+      "freeCashFlow": -4165745000000.0,
+      "totalDebt": 22493724000000.0,
+      "cash": 72483086000000.0,
+      "sharesOutstanding": 2513757794.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23243951324454198,
+      "roe": 0.08479360794559468,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 4316919000000.0,
+      "operatingIncome": null,
+      "netIncome": 1248632000000.0,
+      "eps": null,
+      "freeCashFlow": -5157484000000.0,
+      "totalDebt": 26180927000000.0,
+      "cash": 61567751000000.0,
+      "sharesOutstanding": 2489848594.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28924147059511657,
+      "roe": 0.11033704159739482,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:05.470415+00:00"
+  }
+}

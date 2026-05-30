@@ -1,0 +1,128 @@
+{
+  "ticker": "BRBY",
+  "name": "Burberry Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4223243264.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1179.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2420000000.0,
+    "operatingIncome": 160000000.0,
+    "netIncome": 21000000.0,
+    "eps": null,
+    "freeCashFlow": 370000000.0,
+    "totalDebt": 1523000000.0,
+    "cash": 671000000.0,
+    "sharesOutstanding": 363838387.0
+  },
+  "ratios": {
+    "roe": 0.022340425531914895,
+    "roic": 0.06496142915144133,
+    "grossMargin": 0.6789256198347108,
+    "operatingMargin": 0.06611570247933884,
+    "netMargin": 0.008677685950413223,
+    "debtToEquity": 1.60994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.977,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3094000000.0,
+      "operatingIncome": 635000000.0,
+      "netIncome": 490000000.0,
+      "eps": 1.263,
+      "freeCashFlow": 571000000.0,
+      "totalDebt": 1486000000.0,
+      "cash": 1026000000.0,
+      "sharesOutstanding": 384267928.0,
+      "grossMargin": 0.7055591467356174,
+      "operatingMargin": 0.20523594053005817,
+      "netMargin": 0.1583710407239819,
+      "roe": 0.319634703196347,
+      "roic": 0.21033454786353098
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2968000000.0,
+      "operatingIncome": 418000000.0,
+      "netIncome": 270000000.0,
+      "eps": 0.739,
+      "freeCashFlow": 294000000.0,
+      "totalDebt": 1566000000.0,
+      "cash": 441000000.0,
+      "sharesOutstanding": 363815743.0,
+      "grossMargin": 0.6768867924528302,
+      "operatingMargin": 0.1408355795148248,
+      "netMargin": 0.09097035040431267,
+      "roe": 0.23539668700959024,
+      "roic": 0.1540729819388131
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2461000000.0,
+      "operatingIncome": 26000000.0,
+      "netIncome": -75000000.0,
+      "eps": -0.209,
+      "freeCashFlow": 278000000.0,
+      "totalDebt": 1924000000.0,
+      "cash": 813000000.0,
+      "sharesOutstanding": 363816314.0,
+      "grossMargin": 0.6249492076391711,
+      "operatingMargin": 0.010564811052417716,
+      "netMargin": -0.030475416497358798,
+      "roe": -0.08205689277899343,
+      "roic": 0.009161381254404511
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 2420000000.0,
+      "operatingIncome": 160000000.0,
+      "netIncome": 21000000.0,
+      "eps": null,
+      "freeCashFlow": 370000000.0,
+      "totalDebt": 1523000000.0,
+      "cash": 671000000.0,
+      "sharesOutstanding": 363838387.0,
+      "grossMargin": 0.6789256198347108,
+      "operatingMargin": 0.06611570247933884,
+      "netMargin": 0.008677685950413223,
+      "roe": 0.022340425531914895,
+      "roic": 0.06496142915144133
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:28.691390+00:00"
+  }
+}

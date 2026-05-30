@@ -1,0 +1,111 @@
+{
+  "ticker": "SAP",
+  "name": "Saputo Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 17117939712.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.24,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19061000000.0,
+    "operatingIncome": 914000000.0,
+    "netIncome": -176000000.0,
+    "eps": -0.41,
+    "freeCashFlow": 681000000.0,
+    "totalDebt": 3594000000.0,
+    "cash": 257000000.0,
+    "sharesOutstanding": 418335124.0
+  },
+  "ratios": {
+    "roe": -0.025225741722803497,
+    "roic": 0.08646296471478573,
+    "grossMargin": 0.29883007187450816,
+    "operatingMargin": 0.04795131420177325,
+    "netMargin": -0.009233513456796601,
+    "debtToEquity": 0.52506
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 15035000000.0,
+      "operatingIncome": 606000000.0,
+      "netIncome": 274000000.0,
+      "eps": 0.66,
+      "freeCashFlow": 195000000.0,
+      "totalDebt": 4245000000.0,
+      "cash": 165000000.0,
+      "sharesOutstanding": 416738041.0,
+      "grossMargin": 0.311340206185567,
+      "operatingMargin": 0.04030595277685401,
+      "netMargin": 0.018224143664782175,
+      "roe": 0.04212144504227517,
+      "roic": 0.05637209302325581
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 17843000000.0,
+      "operatingIncome": 986000000.0,
+      "netIncome": 622000000.0,
+      "eps": 1.48,
+      "freeCashFlow": 384000000.0,
+      "totalDebt": 4040000000.0,
+      "cash": 263000000.0,
+      "sharesOutstanding": 421604856.0,
+      "grossMargin": 0.30404080031384856,
+      "operatingMargin": 0.055259765734461695,
+      "netMargin": 0.03485960881017766,
+      "roe": 0.08711484593837535,
+      "roic": 0.08819320214669052
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 17342000000.0,
+      "operatingIncome": 853000000.0,
+      "netIncome": 265000000.0,
+      "eps": 0.63,
+      "freeCashFlow": 537000000.0,
+      "totalDebt": 3986000000.0,
+      "cash": 466000000.0,
+      "sharesOutstanding": 424326415.0,
+      "grossMargin": 0.3129973474801061,
+      "operatingMargin": 0.04918694498904394,
+      "netMargin": 0.01528082112789759,
+      "roe": 0.0375886524822695,
+      "roic": 0.07729249728162378
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 19061000000.0,
+      "operatingIncome": 914000000.0,
+      "netIncome": -176000000.0,
+      "eps": -0.41,
+      "freeCashFlow": 681000000.0,
+      "totalDebt": 3594000000.0,
+      "cash": 257000000.0,
+      "sharesOutstanding": 418335124.0,
+      "grossMargin": 0.29883007187450816,
+      "operatingMargin": 0.04795131420177325,
+      "netMargin": -0.009233513456796601,
+      "roe": -0.025225741722803497,
+      "roic": 0.08646296471478573
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.019283+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ANTO",
+  "name": "Antofagasta plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Copper",
+  "currency": "USD",
+  "marketCap": {
+    "value": 40400404480.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4098.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8620300000.0,
+    "operatingIncome": 3402600000.0,
+    "netIncome": 1328900000.0,
+    "eps": null,
+    "freeCashFlow": -612900000.0,
+    "totalDebt": 7073300000.0,
+    "cash": 2716500000.0,
+    "sharesOutstanding": 985856695.0
+  },
+  "ratios": {
+    "roe": 0.12814726955381336,
+    "roic": 0.19506518224658037,
+    "grossMargin": 0.4992517661798313,
+    "operatingMargin": 0.3947194413187476,
+    "netMargin": 0.15415936800343374,
+    "debtToEquity": 0.53078
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.309,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5862000000.0,
+      "operatingIncome": 1653400000.0,
+      "netIncome": 1533000000.0,
+      "eps": 1.555,
+      "freeCashFlow": -2300000.0,
+      "totalDebt": 3274500000.0,
+      "cash": 810400000.0,
+      "sharesOutstanding": 985856695.0,
+      "grossMargin": 0.41441487546912315,
+      "operatingMargin": 0.28205390651654727,
+      "netMargin": 0.2615148413510747,
+      "roe": 0.17768762677484787,
+      "roic": 0.13891782893631321
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6324500000.0,
+      "operatingIncome": 1808500000.0,
+      "netIncome": 835100000.0,
+      "eps": 0.847,
+      "freeCashFlow": 203800000.0,
+      "totalDebt": 4076700000.0,
+      "cash": 644700000.0,
+      "sharesOutstanding": 985856695.0,
+      "grossMargin": 0.42028618863151235,
+      "operatingMargin": 0.2859514586133291,
+      "netMargin": 0.13204205866076368,
+      "roe": 0.09328745852835711,
+      "roic": 0.1388100026096434
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6613400000.0,
+      "operatingIncome": 1662700000.0,
+      "netIncome": 829400000.0,
+      "eps": 0.841,
+      "freeCashFlow": -129300000.0,
+      "totalDebt": 5349000000.0,
+      "cash": 2189200000.0,
+      "sharesOutstanding": 985856695.0,
+      "grossMargin": 0.37868569873287566,
+      "operatingMargin": 0.2514137962318928,
+      "netMargin": 0.12541204221731636,
+      "roe": 0.08765403394559405,
+      "roic": 0.11225964135249
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8620300000.0,
+      "operatingIncome": 3402600000.0,
+      "netIncome": 1328900000.0,
+      "eps": null,
+      "freeCashFlow": -612900000.0,
+      "totalDebt": 7073300000.0,
+      "cash": 2716500000.0,
+      "sharesOutstanding": 985856695.0,
+      "grossMargin": 0.4992517661798313,
+      "operatingMargin": 0.3947194413187476,
+      "netMargin": 0.15415936800343374,
+      "roe": 0.12814726955381336,
+      "roic": 0.19506518224658037
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.117914+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "6920",
+  "name": "Lasertec Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3596878872576.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 40130.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 251477000000.0,
+    "operatingIncome": 122843000000.0,
+    "netIncome": 84652000000.0,
+    "eps": 937.82,
+    "freeCashFlow": 75551000000.0,
+    "totalDebt": null,
+    "cash": 86087000000.0,
+    "sharesOutstanding": 94286400.0
+  },
+  "ratios": {
+    "roe": 0.4033006507922896,
+    "roic": 0.5852509314047776,
+    "grossMargin": 0.5895449683271233,
+    "operatingMargin": 0.488486024566859,
+    "netMargin": 0.3366192534506138,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 90378000000.0,
+      "operatingIncome": 32492000000.0,
+      "netIncome": 24850000000.0,
+      "eps": 275.34,
+      "freeCashFlow": -8827000000.0,
+      "totalDebt": 10000000000.0,
+      "cash": 23494000000.0,
+      "sharesOutstanding": 94286400.0,
+      "grossMargin": 0.528745933744938,
+      "operatingMargin": 0.3595122706853438,
+      "netMargin": 0.2749562946734825,
+      "roe": 0.3416042339679703,
+      "roic": 0.3926762946401595
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 152832000000.0,
+      "operatingIncome": 62288000000.0,
+      "netIncome": 46164000000.0,
+      "eps": 511.46,
+      "freeCashFlow": 20003000000.0,
+      "totalDebt": 5000000000.0,
+      "cash": 29773000000.0,
+      "sharesOutstanding": 94286400.0,
+      "grossMargin": 0.5497212625628141,
+      "operatingMargin": 0.40755862646566166,
+      "netMargin": 0.3020571608040201,
+      "roe": 0.4229719081563468,
+      "roic": 0.5457062255786652
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 213506000000.0,
+      "operatingIncome": 81376000000.0,
+      "netIncome": 59076000000.0,
+      "eps": 654.49,
+      "freeCashFlow": 29785000000.0,
+      "totalDebt": null,
+      "cash": 38152000000.0,
+      "sharesOutstanding": 94286400.0,
+      "grossMargin": 0.5034050565323691,
+      "operatingMargin": 0.38114151358744014,
+      "netMargin": 0.27669480014613174,
+      "roe": 0.3904173413078677,
+      "roic": 0.53779202326273
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 251477000000.0,
+      "operatingIncome": 122843000000.0,
+      "netIncome": 84652000000.0,
+      "eps": 937.82,
+      "freeCashFlow": 75551000000.0,
+      "totalDebt": null,
+      "cash": 86087000000.0,
+      "sharesOutstanding": 94286400.0,
+      "grossMargin": 0.5895449683271233,
+      "operatingMargin": 0.488486024566859,
+      "netMargin": 0.3366192534506138,
+      "roe": 0.4033006507922896,
+      "roic": 0.5852509314047776
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:11.142077+00:00"
+  }
+}

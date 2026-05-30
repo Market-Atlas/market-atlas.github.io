@@ -1,0 +1,128 @@
+{
+  "ticker": "1997",
+  "name": "Wharf Real Estate Investment Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 72990908416.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 24.04,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12815000000.0,
+    "operatingIncome": 9349000000.0,
+    "netIncome": -4257000000.0,
+    "eps": -1.4,
+    "freeCashFlow": 6727000000.0,
+    "totalDebt": 34011000000.0,
+    "cash": 2031000000.0,
+    "sharesOutstanding": 3036227327.0
+  },
+  "ratios": {
+    "roe": -0.02342808398227897,
+    "roic": 0.043339390680338964,
+    "grossMargin": 0.7829886851346078,
+    "operatingMargin": 0.729535700351151,
+    "netMargin": -0.3321888412017167,
+    "debtToEquity": 0.18914
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12459000000.0,
+      "operatingIncome": 8841000000.0,
+      "netIncome": -8856000000.0,
+      "eps": -2.92,
+      "freeCashFlow": 6653000000.0,
+      "totalDebt": 46489000000.0,
+      "cash": 1340000000.0,
+      "sharesOutstanding": 3036000000.0,
+      "grossMargin": 0.8008668432458463,
+      "operatingMargin": 0.709607512641464,
+      "netMargin": -0.7108114615940284,
+      "roe": -0.04652140110525099,
+      "roic": 0.037326949626983824
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13306000000.0,
+      "operatingIncome": 9993000000.0,
+      "netIncome": 4766000000.0,
+      "eps": 1.57,
+      "freeCashFlow": 5815000000.0,
+      "totalDebt": 37425000000.0,
+      "cash": 1124000000.0,
+      "sharesOutstanding": 3036227327.0,
+      "grossMargin": 0.8029460393807305,
+      "operatingMargin": 0.751014579888772,
+      "netMargin": 0.35818427776942735,
+      "roe": 0.024899170375942994,
+      "roic": 0.043668637501802596
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12912000000.0,
+      "operatingIncome": 9691000000.0,
+      "netIncome": 891000000.0,
+      "eps": 0.29,
+      "freeCashFlow": 6297000000.0,
+      "totalDebt": 35538000000.0,
+      "cash": 1308000000.0,
+      "sharesOutstanding": 3036227327.0,
+      "grossMargin": 0.8008054522924412,
+      "operatingMargin": 0.7505421313506815,
+      "netMargin": 0.06900557620817843,
+      "roe": 0.004743903737621126,
+      "roic": 0.043387745234108474
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12815000000.0,
+      "operatingIncome": 9349000000.0,
+      "netIncome": -4257000000.0,
+      "eps": -1.4,
+      "freeCashFlow": 6727000000.0,
+      "totalDebt": 34011000000.0,
+      "cash": 2031000000.0,
+      "sharesOutstanding": 3036227327.0,
+      "grossMargin": 0.7829886851346078,
+      "operatingMargin": 0.729535700351151,
+      "netMargin": -0.3321888412017167,
+      "roe": -0.02342808398227897,
+      "roic": 0.043339390680338964
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:36.471702+00:00"
+  }
+}

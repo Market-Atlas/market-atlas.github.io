@@ -1,0 +1,128 @@
+{
+  "ticker": "CTEC",
+  "name": "Convatec Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "USD",
+  "marketCap": {
+    "value": 3951907072.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 202.2,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2439000000.0,
+    "operatingIncome": 386000000.0,
+    "netIncome": 175000000.0,
+    "eps": 0.086,
+    "freeCashFlow": 285000000.0,
+    "totalDebt": 1518000000.0,
+    "cash": 68000000.0,
+    "sharesOutstanding": 2049789559.0
+  },
+  "ratios": {
+    "roe": 0.1152832674571805,
+    "roic": 0.12714097496706192,
+    "grossMargin": 0.5621156211562116,
+    "operatingMargin": 0.15826158261582615,
+    "netMargin": 0.07175071750717507,
+    "debtToEquity": 1.0
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2072500000.0,
+      "operatingIncome": 221100000.0,
+      "netIncome": 62900000.0,
+      "eps": 0.031,
+      "freeCashFlow": 137500000.0,
+      "totalDebt": 1300200000.0,
+      "cash": 143800000.0,
+      "sharesOutstanding": 2043872048.0,
+      "grossMargin": 0.5326417370325693,
+      "operatingMargin": 0.10668275030156815,
+      "netMargin": 0.030349819059107358,
+      "roe": 0.039075604149841583,
+      "roic": 0.07598199250833362
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2142400000.0,
+      "operatingIncome": 265200000.0,
+      "netIncome": 130300000.0,
+      "eps": 0.063,
+      "freeCashFlow": 238200000.0,
+      "totalDebt": 1312400000.0,
+      "cash": 97600000.0,
+      "sharesOutstanding": 2049789559.0,
+      "grossMargin": 0.5603995519044063,
+      "operatingMargin": 0.12378640776699029,
+      "netMargin": 0.060819641523525016,
+      "roe": 0.07697760973592485,
+      "roic": 0.08824997504242788
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2289000000.0,
+      "operatingIncome": 332000000.0,
+      "netIncome": 191000000.0,
+      "eps": 0.093,
+      "freeCashFlow": 275000000.0,
+      "totalDebt": 1202000000.0,
+      "cash": 65000000.0,
+      "sharesOutstanding": 2049789559.0,
+      "grossMargin": 0.5609436435124509,
+      "operatingMargin": 0.145041502839668,
+      "netMargin": 0.08344255133245959,
+      "roe": 0.11308466548253404,
+      "roic": 0.1148391560013836
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2439000000.0,
+      "operatingIncome": 386000000.0,
+      "netIncome": 175000000.0,
+      "eps": 0.086,
+      "freeCashFlow": 285000000.0,
+      "totalDebt": 1518000000.0,
+      "cash": 68000000.0,
+      "sharesOutstanding": 2049789559.0,
+      "grossMargin": 0.5621156211562116,
+      "operatingMargin": 0.15826158261582615,
+      "netMargin": 0.07175071750717507,
+      "roe": 0.1152832674571805,
+      "roic": 0.12714097496706192
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:32.067685+00:00"
+  }
+}

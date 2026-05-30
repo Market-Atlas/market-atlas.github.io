@@ -1,0 +1,111 @@
+{
+  "ticker": "6902",
+  "name": "DENSO Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5136219373568.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1908.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7161777000000.0,
+    "operatingIncome": 518953000000.0,
+    "netIncome": 419081000000.0,
+    "eps": 145.02,
+    "freeCashFlow": 313321000000.0,
+    "totalDebt": 699384000000.0,
+    "cash": 986531000000.0,
+    "sharesOutstanding": 2910979691.0
+  },
+  "ratios": {
+    "roe": 0.08418212285161139,
+    "roic": 0.09140278108020043,
+    "grossMargin": 0.1539934851364403,
+    "operatingMargin": 0.07246148546652598,
+    "netMargin": 0.058516343080774504,
+    "debtToEquity": 0.14194
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5515512000000.0,
+      "operatingIncome": 341179000000.0,
+      "netIncome": 263901000000.0,
+      "eps": 85.6925,
+      "freeCashFlow": 23493000000.0,
+      "totalDebt": 991435000000.0,
+      "cash": 867808000000.0,
+      "sharesOutstanding": 3151779804.0,
+      "grossMargin": 0.14531524906481938,
+      "operatingMargin": 0.061858083166168434,
+      "netMargin": 0.04784705390904779,
+      "roe": 0.06138150425749711,
+      "roic": 0.0644854305366758
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6401320000000.0,
+      "operatingIncome": 426099000000.0,
+      "netIncome": 314633000000.0,
+      "eps": 104.0,
+      "freeCashFlow": 188406000000.0,
+      "totalDebt": 889274000000.0,
+      "cash": 733850000000.0,
+      "sharesOutstanding": 3151779804.0,
+      "grossMargin": 0.14233689301581548,
+      "operatingMargin": 0.06656423987552568,
+      "netMargin": 0.04915126880080983,
+      "roe": 0.07188443584175934,
+      "roic": 0.08091201211043557
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7144733000000.0,
+      "operatingIncome": 380599000000.0,
+      "netIncome": 312791000000.0,
+      "eps": 104.97,
+      "freeCashFlow": 515421000000.0,
+      "totalDebt": 850721000000.0,
+      "cash": 789390000000.0,
+      "sharesOutstanding": 3151779804.0,
+      "grossMargin": 0.15255335643753237,
+      "operatingMargin": 0.053269870266670565,
+      "netMargin": 0.04377924269528336,
+      "roe": 0.05651161538619971,
+      "roic": 0.05960170111156055
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7161777000000.0,
+      "operatingIncome": 518953000000.0,
+      "netIncome": 419081000000.0,
+      "eps": 145.02,
+      "freeCashFlow": 313321000000.0,
+      "totalDebt": 699384000000.0,
+      "cash": 986531000000.0,
+      "sharesOutstanding": 2910979691.0,
+      "grossMargin": 0.1539934851364403,
+      "operatingMargin": 0.07246148546652598,
+      "netMargin": 0.058516343080774504,
+      "roe": 0.08418212285161139,
+      "roic": 0.09140278108020043
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:04.447552+00:00"
+  }
+}

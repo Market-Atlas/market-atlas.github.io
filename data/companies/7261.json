@@ -1,0 +1,111 @@
+{
+  "ticker": "7261",
+  "name": "Mazda Motor Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 724450738176.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1148.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5018893000000.0,
+    "operatingIncome": 186125000000.0,
+    "netIncome": 114079000000.0,
+    "eps": 180.87,
+    "freeCashFlow": 177363000000.0,
+    "totalDebt": 722999000000.0,
+    "cash": 1001379000000.0,
+    "sharesOutstanding": 631803979.0
+  },
+  "ratios": {
+    "roe": 0.0636360086574291,
+    "roic": 0.07398598946844967,
+    "grossMargin": 0.2148268552447721,
+    "operatingMargin": 0.037084871106038725,
+    "netMargin": 0.022729912751676514,
+    "debtToEquity": 0.45171999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 3120349000000.0,
+      "operatingIncome": 104227000000.0,
+      "netIncome": 81557000000.0,
+      "eps": 129.38,
+      "freeCashFlow": 49804000000.0,
+      "totalDebt": 677455000000.0,
+      "cash": 669390000000.0,
+      "sharesOutstanding": 631803979.0,
+      "grossMargin": 0.22039329574993052,
+      "operatingMargin": 0.03340235339059829,
+      "netMargin": 0.026137140428843054,
+      "roe": 0.06265999784876843,
+      "roic": 0.05266556680402317
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3826752000000.0,
+      "operatingIncome": 141969000000.0,
+      "netIncome": 142814000000.0,
+      "eps": 226.52,
+      "freeCashFlow": 38296000000.0,
+      "totalDebt": 624095000000.0,
+      "cash": 628098000000.0,
+      "sharesOutstanding": 631803979.0,
+      "grossMargin": 0.20945229792785108,
+      "operatingMargin": 0.037099085595303796,
+      "netMargin": 0.037319899486561975,
+      "roe": 0.09917136145181529,
+      "roic": 0.06877783203692722
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4827662000000.0,
+      "operatingIncome": 250503000000.0,
+      "netIncome": 207696000000.0,
+      "eps": 329.38,
+      "freeCashFlow": 303652000000.0,
+      "totalDebt": 575789000000.0,
+      "cash": 818563000000.0,
+      "sharesOutstanding": 631803979.0,
+      "grossMargin": 0.21515259353285296,
+      "operatingMargin": 0.05188909248410514,
+      "netMargin": 0.04302206741068451,
+      "roe": 0.11949902649857082,
+      "roic": 0.10826265372140312
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 5018893000000.0,
+      "operatingIncome": 186125000000.0,
+      "netIncome": 114079000000.0,
+      "eps": 180.87,
+      "freeCashFlow": 177363000000.0,
+      "totalDebt": 722999000000.0,
+      "cash": 1001379000000.0,
+      "sharesOutstanding": 631803979.0,
+      "grossMargin": 0.2148268552447721,
+      "operatingMargin": 0.037084871106038725,
+      "netMargin": 0.022729912751676514,
+      "roe": 0.0636360086574291,
+      "roic": 0.07398598946844967
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.512343+00:00"
+  }
+}

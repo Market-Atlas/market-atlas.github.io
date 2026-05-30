@@ -1,0 +1,128 @@
+{
+  "ticker": "AC",
+  "name": "Accor SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 11105111040.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 47.03,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5639000000.0,
+    "operatingIncome": 869000000.0,
+    "netIncome": 449000000.0,
+    "eps": 1.61,
+    "freeCashFlow": 613000000.0,
+    "totalDebt": 4296000000.0,
+    "cash": 1205000000.0,
+    "sharesOutstanding": 234707316.0
+  },
+  "ratios": {
+    "roe": 0.10478413068844808,
+    "roic": 0.10127024822281785,
+    "grossMargin": 0.5213690370633091,
+    "operatingMargin": 0.15410533782585564,
+    "netMargin": 0.0796240468168115,
+    "debtToEquity": 0.9120199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4224000000.0,
+      "operatingIncome": 447000000.0,
+      "netIncome": 402000000.0,
+      "eps": 1.39,
+      "freeCashFlow": 400000000.0,
+      "totalDebt": 3316000000.0,
+      "cash": 1643000000.0,
+      "sharesOutstanding": 263031794.0,
+      "grossMargin": 0.48413825757575757,
+      "operatingMargin": 0.10582386363636363,
+      "netMargin": 0.09517045454545454,
+      "roe": 0.07946234433682546,
+      "roic": 0.05337313432835821
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5056000000.0,
+      "operatingIncome": 724000000.0,
+      "netIncome": 633000000.0,
+      "eps": 2.509024,
+      "freeCashFlow": 415000000.0,
+      "totalDebt": 3369000000.0,
+      "cash": 1283000000.0,
+      "sharesOutstanding": 252289352.0,
+      "grossMargin": 0.5051424050632911,
+      "operatingMargin": 0.14319620253164558,
+      "netMargin": 0.12519778481012658,
+      "roe": 0.1283715270736159,
+      "roic": 0.0872289156626506
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5606000000.0,
+      "operatingIncome": 779000000.0,
+      "netIncome": 610000000.0,
+      "eps": 2.33,
+      "freeCashFlow": 440000000.0,
+      "totalDebt": 3739000000.0,
+      "cash": 1244000000.0,
+      "sharesOutstanding": 243667720.0,
+      "grossMargin": 0.515340706386015,
+      "operatingMargin": 0.1389582590082055,
+      "netMargin": 0.10881198715661791,
+      "roe": 0.1212241653418124,
+      "roic": 0.08881541443393
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5639000000.0,
+      "operatingIncome": 869000000.0,
+      "netIncome": 449000000.0,
+      "eps": 1.61,
+      "freeCashFlow": 613000000.0,
+      "totalDebt": 4296000000.0,
+      "cash": 1205000000.0,
+      "sharesOutstanding": 234707316.0,
+      "grossMargin": 0.5213690370633091,
+      "operatingMargin": 0.15410533782585564,
+      "netMargin": 0.0796240468168115,
+      "roe": 0.10478413068844808,
+      "roic": 0.10127024822281785
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:11.920996+00:00"
+  }
+}

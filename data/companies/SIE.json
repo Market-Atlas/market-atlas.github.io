@@ -1,0 +1,111 @@
+{
+  "ticker": "SIE",
+  "name": "Siemens Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 205788151808.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 269.8,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 78914000000.0,
+    "operatingIncome": 9092000000.0,
+    "netIncome": 9620000000.0,
+    "eps": 12.11,
+    "freeCashFlow": 10812000000.0,
+    "totalDebt": 56015000000.0,
+    "cash": 14495000000.0,
+    "sharesOutstanding": 800000000.0
+  },
+  "ratios": {
+    "roe": 0.1545530492898914,
+    "roic": 0.07688209776845736,
+    "grossMargin": 0.38521681830853843,
+    "operatingMargin": 0.11521403046354259,
+    "netMargin": 0.12190485845350635,
+    "debtToEquity": 0.7635200000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 71977000000.0,
+      "operatingIncome": 7276000000.0,
+      "netIncome": 3723000000.0,
+      "eps": 4.59,
+      "freeCashFlow": 8157000000.0,
+      "totalDebt": 50636000000.0,
+      "cash": 10465000000.0,
+      "sharesOutstanding": 850000000.0,
+      "grossMargin": 0.35910082387429315,
+      "operatingMargin": 0.10108784750684247,
+      "netMargin": 0.051724856551398364,
+      "roe": 0.07614275488291236,
+      "roic": 0.07310285237765118
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 74882000000.0,
+      "operatingIncome": 9402000000.0,
+      "netIncome": 7949000000.0,
+      "eps": 9.91,
+      "freeCashFlow": 10093000000.0,
+      "totalDebt": 46596000000.0,
+      "cash": 10084000000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.3888250848000855,
+      "operatingMargin": 0.1255575438690206,
+      "netMargin": 0.10615368179268717,
+      "roe": 0.16635971704826086,
+      "roic": 0.09962067430969082
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 75930000000.0,
+      "operatingIncome": 9498000000.0,
+      "netIncome": 8301000000.0,
+      "eps": 10.38,
+      "freeCashFlow": 9577000000.0,
+      "totalDebt": 47919000000.0,
+      "cash": 9156000000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.3927696562623469,
+      "operatingMargin": 0.12508889766890557,
+      "netMargin": 0.10932437771631766,
+      "roe": 0.16192649812734083,
+      "roic": 0.09576237863343516
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 78914000000.0,
+      "operatingIncome": 9092000000.0,
+      "netIncome": 9620000000.0,
+      "eps": 12.11,
+      "freeCashFlow": 10812000000.0,
+      "totalDebt": 56015000000.0,
+      "cash": 14495000000.0,
+      "sharesOutstanding": 800000000.0,
+      "grossMargin": 0.38521681830853843,
+      "operatingMargin": 0.11521403046354259,
+      "netMargin": 0.12190485845350635,
+      "roe": 0.1545530492898914,
+      "roic": 0.07688209776845736
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:26.872521+00:00"
+  }
+}

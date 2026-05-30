@@ -1,0 +1,128 @@
+{
+  "ticker": "CTC-A",
+  "name": "Canadian Tire Corporation, Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 9307220992.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 176.9,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16315500000.0,
+    "operatingIncome": 1403000000.0,
+    "netIncome": 526300000.0,
+    "eps": 9.67,
+    "freeCashFlow": 288400000.0,
+    "totalDebt": 7669500000.0,
+    "cash": 524400000.0,
+    "sharesOutstanding": 52947897.0
+  },
+  "ratios": {
+    "roe": 0.08987977320855249,
+    "roic": 0.10373305927497764,
+    "grossMargin": 0.3441696546229046,
+    "operatingMargin": 0.08599184824246882,
+    "netMargin": 0.03225766908767736,
+    "debtToEquity": 1.59236
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17810600000.0,
+      "operatingIncome": 1876400000.0,
+      "netIncome": 1044100000.0,
+      "eps": 17.6,
+      "freeCashFlow": -268600000.0,
+      "totalDebt": 7719400000.0,
+      "cash": 313800000.0,
+      "sharesOutstanding": 57700364.0,
+      "grossMargin": 0.34237476558903124,
+      "operatingMargin": 0.10535299203844901,
+      "netMargin": 0.05862239340617385,
+      "roe": 0.18583251757586544,
+      "roic": 0.14068181647785633
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16656500000.0,
+      "operatingIncome": 1256700000.0,
+      "netIncome": 213300000.0,
+      "eps": 3.78,
+      "freeCashFlow": 685100000.0,
+      "totalDebt": 8814600000.0,
+      "cash": 287200000.0,
+      "sharesOutstanding": 55621189.0,
+      "grossMargin": 0.34242487917629755,
+      "operatingMargin": 0.07544802329420947,
+      "netMargin": 0.012805811545042477,
+      "roe": 0.038466393753043226,
+      "roic": 0.08751575590019291
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15516000000.0,
+      "operatingIncome": 1229200000.0,
+      "netIncome": 887700000.0,
+      "eps": 15.92,
+      "freeCashFlow": 1435500000.0,
+      "totalDebt": 7905000000.0,
+      "cash": 447500000.0,
+      "sharesOutstanding": 55621189.0,
+      "grossMargin": 0.3351894818252127,
+      "operatingMargin": 0.07922144882701727,
+      "netMargin": 0.05721191028615623,
+      "roe": 0.14422420796100732,
+      "roic": 0.087425320056899
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16315500000.0,
+      "operatingIncome": 1403000000.0,
+      "netIncome": 526300000.0,
+      "eps": 9.67,
+      "freeCashFlow": 288400000.0,
+      "totalDebt": 7669500000.0,
+      "cash": 524400000.0,
+      "sharesOutstanding": 52947897.0,
+      "grossMargin": 0.3441696546229046,
+      "operatingMargin": 0.08599184824246882,
+      "netMargin": 0.03225766908767736,
+      "roe": 0.08987977320855249,
+      "roic": 0.10373305927497764
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:04.127570+00:00"
+  }
+}

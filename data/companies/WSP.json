@@ -1,0 +1,128 @@
+{
+  "ticker": "WSP",
+  "name": "WSP Global Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 26324295680.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 195.26,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18285000000.0,
+    "operatingIncome": 1773400000.0,
+    "netIncome": 964300000.0,
+    "eps": 7.36,
+    "freeCashFlow": 2093100000.0,
+    "totalDebt": 4864500000.0,
+    "cash": 1561400000.0,
+    "sharesOutstanding": 134806772.0
+  },
+  "ratios": {
+    "roe": 0.09797805324121113,
+    "roic": 0.12058613538231394,
+    "grossMargin": 0.7634181022696199,
+    "operatingMargin": 0.09698660103910309,
+    "netMargin": 0.05273721629751162,
+    "debtToEquity": 0.87041
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11932900000.0,
+      "operatingIncome": 906800000.0,
+      "netIncome": 431800000.0,
+      "eps": 3.58,
+      "freeCashFlow": 648300000.0,
+      "totalDebt": 4084300000.0,
+      "cash": 495600000.0,
+      "sharesOutstanding": 124453717.0,
+      "grossMargin": 0.7506306094914061,
+      "operatingMargin": 0.07599158628665287,
+      "netMargin": 0.03618567154673214,
+      "roe": 0.07189477189477189,
+      "roic": 0.08986848755735706
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14437200000.0,
+      "operatingIncome": 1196300000.0,
+      "netIncome": 550000000.0,
+      "eps": 4.4,
+      "freeCashFlow": 805900000.0,
+      "totalDebt": 4264600000.0,
+      "cash": 378000000.0,
+      "sharesOutstanding": 124663950.0,
+      "grossMargin": 0.7547862466406229,
+      "operatingMargin": 0.08286232787521126,
+      "netMargin": 0.03809602970105006,
+      "roe": 0.08690293731928139,
+      "roic": 0.11292773870769812
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16166800000.0,
+      "operatingIncome": 1442900000.0,
+      "netIncome": 681400000.0,
+      "eps": 5.38,
+      "freeCashFlow": 1218100000.0,
+      "totalDebt": 5791600000.0,
+      "cash": 623500000.0,
+      "sharesOutstanding": 130479453.0,
+      "grossMargin": 0.7529133780339956,
+      "operatingMargin": 0.08925081030259545,
+      "netMargin": 0.0421481059950021,
+      "roe": 0.08236929585977637,
+      "roic": 0.1025945492423973
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 18285000000.0,
+      "operatingIncome": 1773400000.0,
+      "netIncome": 964300000.0,
+      "eps": 7.36,
+      "freeCashFlow": 2093100000.0,
+      "totalDebt": 4864500000.0,
+      "cash": 1561400000.0,
+      "sharesOutstanding": 134806772.0,
+      "grossMargin": 0.7634181022696199,
+      "operatingMargin": 0.09698660103910309,
+      "netMargin": 0.05273721629751162,
+      "roe": 0.09797805324121113,
+      "roic": 0.12058613538231394
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:10.432183+00:00"
+  }
+}

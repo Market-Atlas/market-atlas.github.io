@@ -1,0 +1,128 @@
+{
+  "ticker": "RMS",
+  "name": "Hermès International Société en commandite par actions",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 169779675136.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1620.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16001000000.0,
+    "operatingIncome": 6695000000.0,
+    "netIncome": 4524000000.0,
+    "eps": null,
+    "freeCashFlow": 4213000000.0,
+    "totalDebt": 2346000000.0,
+    "cash": 12239000000.0,
+    "sharesOutstanding": 105569412.0
+  },
+  "ratios": {
+    "roe": 0.24010190001061457,
+    "roic": 0.31598074381725505,
+    "grossMargin": 0.7110805574651584,
+    "operatingMargin": 0.4184113492906693,
+    "netMargin": 0.28273232922942315,
+    "debtToEquity": 0.12268000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 23.3,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11601000000.0,
+      "operatingIncome": 4820000000.0,
+      "netIncome": 3367000000.0,
+      "eps": 32.09,
+      "freeCashFlow": 3666000000.0,
+      "totalDebt": 1934000000.0,
+      "cash": 9225000000.0,
+      "sharesOutstanding": 105569412.0,
+      "grossMargin": 0.7078700112059305,
+      "operatingMargin": 0.41548142401517113,
+      "netMargin": 0.2902336005516766,
+      "roe": 0.27063740856844304,
+      "roic": 0.335304347826087
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13427000000.0,
+      "operatingIncome": 5755000000.0,
+      "netIncome": 4311000000.0,
+      "eps": 41.12,
+      "freeCashFlow": 3469000000.0,
+      "totalDebt": 2060000000.0,
+      "cash": 10625000000.0,
+      "sharesOutstanding": 105569412.0,
+      "grossMargin": 0.7229463022268563,
+      "operatingMargin": 0.4286139867431295,
+      "netMargin": 0.3210694868548447,
+      "roe": 0.2835624547786621,
+      "roic": 0.3333719515727278
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 15170000000.0,
+      "operatingIncome": 6232000000.0,
+      "netIncome": 4603000000.0,
+      "eps": 43.87,
+      "freeCashFlow": 4072000000.0,
+      "totalDebt": 2174000000.0,
+      "cash": 11642000000.0,
+      "sharesOutstanding": 105569412.0,
+      "grossMargin": 0.702636783124588,
+      "operatingMargin": 0.41081081081081083,
+      "netMargin": 0.3034278180619644,
+      "roe": 0.26565475846944075,
+      "roic": 0.3195733552125532
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16001000000.0,
+      "operatingIncome": 6695000000.0,
+      "netIncome": 4524000000.0,
+      "eps": null,
+      "freeCashFlow": 4213000000.0,
+      "totalDebt": 2346000000.0,
+      "cash": 12239000000.0,
+      "sharesOutstanding": 105569412.0,
+      "grossMargin": 0.7110805574651584,
+      "operatingMargin": 0.4184113492906693,
+      "netMargin": 0.28273232922942315,
+      "roe": 0.24010190001061457,
+      "roic": 0.31598074381725505
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:25.079541+00:00"
+  }
+}

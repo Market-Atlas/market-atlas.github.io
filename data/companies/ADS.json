@@ -1,0 +1,111 @@
+{
+  "ticker": "ADS",
+  "name": "adidas AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 29546332160.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 166.6,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24811000000.0,
+    "operatingIncome": 2061000000.0,
+    "netIncome": 1340000000.0,
+    "eps": 7.51,
+    "freeCashFlow": 274000000.0,
+    "totalDebt": 5556000000.0,
+    "cash": 1330000000.0,
+    "sharesOutstanding": 180000000.0
+  },
+  "ratios": {
+    "roe": 0.23199445983379502,
+    "roic": 0.1818743381574303,
+    "grossMargin": 0.5161017290717826,
+    "operatingMargin": 0.08306799403490388,
+    "netMargin": 0.054008302768933134,
+    "debtToEquity": 0.93747
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 22511000000.0,
+      "operatingIncome": 729000000.0,
+      "netIncome": 612000000.0,
+      "eps": 3.34,
+      "freeCashFlow": -1174000000.0,
+      "totalDebt": 6459000000.0,
+      "cash": 798000000.0,
+      "sharesOutstanding": 180000000.0,
+      "grossMargin": 0.4728355026431522,
+      "operatingMargin": 0.032384167740215894,
+      "netMargin": 0.027186708720181245,
+      "roe": 0.12262071729112402,
+      "roic": 0.06366812227074235
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21427000000.0,
+      "operatingIncome": 279000000.0,
+      "netIncome": -75000000.0,
+      "eps": -0.42,
+      "freeCashFlow": 2046000000.0,
+      "totalDebt": 5563000000.0,
+      "cash": 1220000000.0,
+      "sharesOutstanding": 180000000.0,
+      "grossMargin": 0.47524151771129886,
+      "operatingMargin": 0.013020954870023803,
+      "netMargin": -0.0035002566854902693,
+      "roe": -0.016375545851528384,
+      "roic": 0.027506654835847383
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 23683000000.0,
+      "operatingIncome": 1291000000.0,
+      "netIncome": 764000000.0,
+      "eps": 4.28,
+      "freeCashFlow": 2370000000.0,
+      "totalDebt": 5587000000.0,
+      "cash": 2130000000.0,
+      "sharesOutstanding": 180000000.0,
+      "grossMargin": 0.5077481737955496,
+      "operatingMargin": 0.05451167504116877,
+      "netMargin": 0.032259426592914746,
+      "roe": 0.13951789627465302,
+      "roic": 0.11669529060833408
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24811000000.0,
+      "operatingIncome": 2061000000.0,
+      "netIncome": 1340000000.0,
+      "eps": 7.51,
+      "freeCashFlow": 274000000.0,
+      "totalDebt": 5556000000.0,
+      "cash": 1330000000.0,
+      "sharesOutstanding": 180000000.0,
+      "grossMargin": 0.5161017290717826,
+      "operatingMargin": 0.08306799403490388,
+      "netMargin": 0.054008302768933134,
+      "roe": 0.23199445983379502,
+      "roic": 0.1818743381574303
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:11.934591+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "ENB",
+  "name": "Enbridge Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 165174788096.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.64,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 65194000000.0,
+    "operatingIncome": 11528000000.0,
+    "netIncome": 7491000000.0,
+    "eps": 3.22,
+    "freeCashFlow": 3105000000.0,
+    "totalDebt": 105252000000.0,
+    "cash": 1094000000.0,
+    "sharesOutstanding": 2182000000.0
+  },
+  "ratios": {
+    "roe": 0.1201771132465949,
+    "roic": 0.0687889727600919,
+    "grossMargin": 0.329738933030647,
+    "operatingMargin": 0.17682608829033347,
+    "netMargin": 0.11490321195202012,
+    "debtToEquity": 1.6013300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 53309000000.0,
+      "operatingIncome": 8184000000.0,
+      "netIncome": 3003000000.0,
+      "eps": 1.28,
+      "freeCashFlow": 6409000000.0,
+      "totalDebt": 80980000000.0,
+      "cash": 861000000.0,
+      "sharesOutstanding": 2025000000.0,
+      "grossMargin": 0.3076966365904444,
+      "operatingMargin": 0.15352004351985593,
+      "netMargin": 0.05633195145285036,
+      "roe": 0.05014443869287157,
+      "roic": 0.05809735424194453
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 43649000000.0,
+      "operatingIncome": 9070000000.0,
+      "netIncome": 6191000000.0,
+      "eps": 2.84,
+      "freeCashFlow": 9325000000.0,
+      "totalDebt": 81199000000.0,
+      "cash": 5901000000.0,
+      "sharesOutstanding": 2125574412.0,
+      "grossMargin": 0.40482027079658184,
+      "operatingMargin": 0.2077939929895301,
+      "netMargin": 0.14183600998877408,
+      "roe": 0.10074201842028184,
+      "roic": 0.0635808570447169
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53473000000.0,
+      "operatingIncome": 9839000000.0,
+      "netIncome": 5441000000.0,
+      "eps": 2.34,
+      "freeCashFlow": 5670000000.0,
+      "totalDebt": 101844000000.0,
+      "cash": 1803000000.0,
+      "sharesOutstanding": 2177956195.0,
+      "grossMargin": 0.36029398013950964,
+      "operatingMargin": 0.18399940156714603,
+      "netMargin": 0.10175228620051241,
+      "roe": 0.08256449165402124,
+      "roic": 0.05865485501716902
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 65194000000.0,
+      "operatingIncome": 11528000000.0,
+      "netIncome": 7491000000.0,
+      "eps": 3.22,
+      "freeCashFlow": 3105000000.0,
+      "totalDebt": 105252000000.0,
+      "cash": 1094000000.0,
+      "sharesOutstanding": 2182000000.0,
+      "grossMargin": 0.329738933030647,
+      "operatingMargin": 0.17682608829033347,
+      "netMargin": 0.11490321195202012,
+      "roe": 0.1201771132465949,
+      "roic": 0.0687889727600919
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:04.491524+00:00"
+  }
+}

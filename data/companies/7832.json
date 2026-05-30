@@ -1,0 +1,128 @@
+{
+  "ticker": "7832",
+  "name": "BANDAI NAMCO Holdings Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2335213355008.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3641.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 217.49,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 641365963.0
+  },
+  "ratios": {
+    "roe": 0.17034,
+    "roic": null,
+    "grossMargin": 0.39396998,
+    "operatingMargin": 0.09284,
+    "netMargin": 0.104320005,
+    "debtToEquity": 0.014079999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 889270000000.0,
+      "operatingIncome": 125496000000.0,
+      "netIncome": 92752000000.0,
+      "eps": null,
+      "freeCashFlow": 94415000000.0,
+      "totalDebt": 10810000000.0,
+      "cash": 279401000000.0,
+      "sharesOutstanding": 666000000.0,
+      "grossMargin": 0.40062748096753514,
+      "operatingMargin": 0.14112249373081293,
+      "netMargin": 0.10430128082584592,
+      "roe": 0.15882327759655476,
+      "roic": 0.21098679399130807
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 990089000000.0,
+      "operatingIncome": 116473000000.0,
+      "netIncome": 90345000000.0,
+      "eps": 136.88,
+      "freeCashFlow": 61818000000.0,
+      "totalDebt": 10770000000.0,
+      "cash": 280226000000.0,
+      "sharesOutstanding": 666000000.0,
+      "grossMargin": 0.3723463244213399,
+      "operatingMargin": 0.11763891932947441,
+      "netMargin": 0.0912493725311563,
+      "roe": 0.13859762430371358,
+      "roic": 0.17577619785669335
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1050210000000.0,
+      "operatingIncome": 90682000000.0,
+      "netIncome": 101493000000.0,
+      "eps": 153.85,
+      "freeCashFlow": 53997000000.0,
+      "totalDebt": null,
+      "cash": 321868000000.0,
+      "sharesOutstanding": 666000000.0,
+      "grossMargin": 0.3532236409860885,
+      "operatingMargin": 0.08634654021576638,
+      "netMargin": 0.09664067186562687,
+      "roe": 0.1450903195924039,
+      "roic": 0.12963534786909806
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1241513000000.0,
+      "operatingIncome": 180229000000.0,
+      "netIncome": 129301000000.0,
+      "eps": 197.88,
+      "freeCashFlow": 144901000000.0,
+      "totalDebt": null,
+      "cash": 388460000000.0,
+      "sharesOutstanding": 660000000.0,
+      "grossMargin": 0.3988568786633728,
+      "operatingMargin": 0.14516883834482602,
+      "netMargin": 0.10414792273620976,
+      "roe": 0.163083194488764,
+      "roic": 0.2273170436386064
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 217.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.931178+00:00"
+  }
+}

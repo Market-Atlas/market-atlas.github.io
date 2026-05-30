@@ -1,0 +1,111 @@
+{
+  "ticker": "RMV",
+  "name": "Rightmove plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3130069504.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 419.7,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 425129000.0,
+    "operatingIncome": 287874000.0,
+    "netIncome": 217067000.0,
+    "eps": 0.28,
+    "freeCashFlow": 226120000.0,
+    "totalDebt": 7184000.0,
+    "cash": 37122000.0,
+    "sharesOutstanding": 773281827.0
+  },
+  "ratios": {
+    "roe": 2.6375732095555176,
+    "roic": 3.2171162915446683,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.6771450547951328,
+    "netMargin": 0.5105909029965022,
+    "debtToEquity": 0.08728999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 332622000.0,
+      "operatingIncome": 241343000.0,
+      "netIncome": 195681000.0,
+      "eps": 0.234,
+      "freeCashFlow": 195243000.0,
+      "totalDebt": 9569000.0,
+      "cash": 34852000.0,
+      "sharesOutstanding": 837401085.0,
+      "grossMargin": null,
+      "operatingMargin": 0.7255773821334728,
+      "netMargin": 0.5882984288471599,
+      "roe": 2.870780335372563,
+      "roic": 3.104808830340143
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 364316000.0,
+      "operatingIncome": 258033000.0,
+      "netIncome": 199151000.0,
+      "eps": 0.244,
+      "freeCashFlow": 203365000.0,
+      "totalDebt": 7403000.0,
+      "cash": 33541000.0,
+      "sharesOutstanding": 813449619.0,
+      "grossMargin": null,
+      "operatingMargin": 0.7082669989789084,
+      "netMargin": 0.5466435731617607,
+      "roe": 2.871431455101217,
+      "roic": 3.361599291288318
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 389882000.0,
+      "operatingIncome": 256330000.0,
+      "netIncome": 192713000.0,
+      "eps": 0.243,
+      "freeCashFlow": 202192000.0,
+      "totalDebt": 6162000.0,
+      "cash": 35661000.0,
+      "sharesOutstanding": 794676864.0,
+      "grossMargin": null,
+      "operatingMargin": 0.6574553326391062,
+      "netMargin": 0.4942854504696293,
+      "roe": 2.383233162672207,
+      "roic": 2.945509284794999
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 425129000.0,
+      "operatingIncome": 287874000.0,
+      "netIncome": 217067000.0,
+      "eps": 0.28,
+      "freeCashFlow": 226120000.0,
+      "totalDebt": 7184000.0,
+      "cash": 37122000.0,
+      "sharesOutstanding": 773281827.0,
+      "grossMargin": null,
+      "operatingMargin": 0.6771450547951328,
+      "netMargin": 0.5105909029965022,
+      "roe": 2.6375732095555176,
+      "roic": 3.2171162915446683
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:52.098009+00:00"
+  }
+}

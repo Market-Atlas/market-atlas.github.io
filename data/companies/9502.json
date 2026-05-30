@@ -1,0 +1,128 @@
+{
+  "ticker": "9502",
+  "name": "Chubu Electric Power Company, Incorporated",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2209526054912.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2925.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 301.56,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 755393538.0
+  },
+  "ratios": {
+    "roe": 0.077360004,
+    "roic": null,
+    "grossMargin": 0.20903,
+    "operatingMargin": 0.062750004,
+    "netMargin": 0.06424,
+    "debtToEquity": 0.91352
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2705161000000.0,
+      "operatingIncome": -53831000000.0,
+      "netIncome": -43022000000.0,
+      "eps": -56.9,
+      "freeCashFlow": null,
+      "totalDebt": 2538105000000.0,
+      "cash": 203207000000.0,
+      "sharesOutstanding": 758000000.0,
+      "grossMargin": -0.019899370129910936,
+      "operatingMargin": -0.019899370129910936,
+      "netMargin": -0.015903674494789775,
+      "roe": -0.02132836520871775,
+      "roic": -0.011817402893508584
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3986681000000.0,
+      "operatingIncome": 107090000000.0,
+      "netIncome": 38231000000.0,
+      "eps": 50.55,
+      "freeCashFlow": null,
+      "totalDebt": 2691412000000.0,
+      "cash": 361325000000.0,
+      "sharesOutstanding": 758000000.0,
+      "grossMargin": 0.02686194355655745,
+      "operatingMargin": 0.02686194355655745,
+      "netMargin": 0.009589681241112594,
+      "roe": 0.018551461368550588,
+      "roic": 0.022534731136184774
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 3610414000000.0,
+      "operatingIncome": 343340000000.0,
+      "netIncome": 403140000000.0,
+      "eps": 533.177057,
+      "freeCashFlow": null,
+      "totalDebt": 2798156000000.0,
+      "cash": 390806000000.0,
+      "sharesOutstanding": 758000000.0,
+      "grossMargin": 0.09509712736544895,
+      "operatingMargin": 0.09509712736544895,
+      "netMargin": 0.1116603248270143,
+      "roe": 0.15592637416063967,
+      "roic": 0.06377508610862569
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3669233000000.0,
+      "operatingIncome": 242045000000.0,
+      "netIncome": 202087000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 2757168000000.0,
+      "cash": 293547000000.0,
+      "sharesOutstanding": 758000000.0,
+      "grossMargin": 0.0659661024524744,
+      "operatingMargin": 0.0659661024524744,
+      "netMargin": 0.05507608810887725,
+      "roe": 0.07252299729806644,
+      "roic": 0.04366134403955776
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 301.56,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:18.548540+00:00"
+  }
+}

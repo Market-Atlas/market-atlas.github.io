@@ -1,0 +1,128 @@
+{
+  "ticker": "BNP",
+  "name": "BNP Paribas SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 102393774080.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 92.95,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 68804000000.0,
+    "operatingIncome": null,
+    "netIncome": 12225000000.0,
+    "eps": 10.29,
+    "freeCashFlow": 43696000000.0,
+    "totalDebt": 398488000000.0,
+    "cash": 326959000000.0,
+    "sharesOutstanding": 1116784757.0
+  },
+  "ratios": {
+    "roe": 0.09740026929481409,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.35636002,
+    "netMargin": 0.17767862333585258,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 57477000000.0,
+      "operatingIncome": null,
+      "netIncome": 9848000000.0,
+      "eps": 7.52,
+      "freeCashFlow": -55366000000.0,
+      "totalDebt": 293984000000.0,
+      "cash": 474919000000.0,
+      "sharesOutstanding": 1234331646.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17133810045757433,
+      "roe": 0.08122932768049358,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 59735000000.0,
+      "operatingIncome": null,
+      "netIncome": 10975000000.0,
+      "eps": 8.58,
+      "freeCashFlow": -36457000000.0,
+      "totalDebt": 346845000000.0,
+      "cash": 408219000000.0,
+      "sharesOutstanding": 1147477409.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18372813258558635,
+      "roe": 0.08869260235005091,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 65870000000.0,
+      "operatingIncome": null,
+      "netIncome": 11688000000.0,
+      "eps": 9.57,
+      "freeCashFlow": -99512000000.0,
+      "totalDebt": 379895000000.0,
+      "cash": 308046000000.0,
+      "sharesOutstanding": 1130810671.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17744041293456808,
+      "roe": 0.09121487158275908,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 68804000000.0,
+      "operatingIncome": null,
+      "netIncome": 12225000000.0,
+      "eps": 10.29,
+      "freeCashFlow": 43696000000.0,
+      "totalDebt": 398488000000.0,
+      "cash": 326959000000.0,
+      "sharesOutstanding": 1116784757.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17767862333585258,
+      "roe": 0.09740026929481409,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:14.674181+00:00"
+  }
+}

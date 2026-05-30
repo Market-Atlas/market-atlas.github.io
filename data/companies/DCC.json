@@ -1,0 +1,111 @@
+{
+  "ticker": "DCC",
+  "name": "DCC plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 5129719296.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6005.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 18011111000.0,
+    "operatingIncome": 467511000.0,
+    "netIncome": 206490000.0,
+    "eps": 2.0844,
+    "freeCashFlow": 367734000.0,
+    "totalDebt": 2280013000.0,
+    "cash": 1088175000.0,
+    "sharesOutstanding": 101333904.0
+  },
+  "ratios": {
+    "roe": 0.06718558794466242,
+    "roic": 0.0873290818613826,
+    "grossMargin": 0.13316219082765077,
+    "operatingMargin": 0.025956810770862496,
+    "netMargin": 0.011464589830133189,
+    "debtToEquity": 0.9836
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 17732020000.0,
+      "operatingIncome": 475991000.0,
+      "netIncome": 312373000.0,
+      "eps": 3.1636,
+      "freeCashFlow": 257415000.0,
+      "totalDebt": 2337852000.0,
+      "cash": 1394272000.0,
+      "sharesOutstanding": 101333904.0,
+      "grossMargin": 0.11491488279395128,
+      "operatingMargin": 0.026843585784360722,
+      "netMargin": 0.017616323464557337,
+      "roe": 0.10752262163085023,
+      "roic": 0.09078537702201549
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 22204846000.0,
+      "operatingIncome": 511246000.0,
+      "netIncome": 334022000.0,
+      "eps": 3.3804,
+      "freeCashFlow": 427465000.0,
+      "totalDebt": 2601161000.0,
+      "cash": 1421749000.0,
+      "sharesOutstanding": 101333904.0,
+      "grossMargin": 0.10829762115891278,
+      "operatingMargin": 0.023024073213567885,
+      "netMargin": 0.015042752379368,
+      "roe": 0.11215976946305536,
+      "roic": 0.09163343043117608
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 18854051000.0,
+      "operatingIncome": 473731000.0,
+      "netIncome": 326255000.0,
+      "eps": 3.2985,
+      "freeCashFlow": 491668000.0,
+      "totalDebt": 2305901000.0,
+      "cash": 1109446000.0,
+      "sharesOutstanding": 101333904.0,
+      "grossMargin": 0.12415273513368559,
+      "operatingMargin": 0.02512621823288799,
+      "netMargin": 0.017304238754843722,
+      "roe": 0.10553663383247218,
+      "roic": 0.08777197898501693
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 18011111000.0,
+      "operatingIncome": 467511000.0,
+      "netIncome": 206490000.0,
+      "eps": 2.0844,
+      "freeCashFlow": 367734000.0,
+      "totalDebt": 2280013000.0,
+      "cash": 1088175000.0,
+      "sharesOutstanding": 101333904.0,
+      "grossMargin": 0.13316219082765077,
+      "operatingMargin": 0.025956810770862496,
+      "netMargin": 0.011464589830133189,
+      "roe": 0.06718558794466242,
+      "roic": 0.0873290818613826
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:33.239503+00:00"
+  }
+}

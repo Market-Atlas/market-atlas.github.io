@@ -1,0 +1,111 @@
+{
+  "ticker": "6326",
+  "name": "Kubota Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3232332251136.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2842.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3018891000000.0,
+    "operatingIncome": 265470000000.0,
+    "netIncome": 186687000000.0,
+    "eps": 163.44,
+    "freeCashFlow": 142003000000.0,
+    "totalDebt": 2242079000000.0,
+    "cash": 276959000000.0,
+    "sharesOutstanding": 1138716846.0
+  },
+  "ratios": {
+    "roe": 0.07117349127044188,
+    "roic": 0.05456659974051729,
+    "grossMargin": 0.2929267734409755,
+    "operatingMargin": 0.08793626533717183,
+    "netMargin": 0.06183959606358759,
+    "debtToEquity": 0.79694
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2676980000000.0,
+      "operatingIncome": 214387000000.0,
+      "netIncome": 156472000000.0,
+      "eps": 131.06,
+      "freeCashFlow": -177331000000.0,
+      "totalDebt": 1611105000000.0,
+      "cash": 225799000000.0,
+      "sharesOutstanding": 1191006846.0,
+      "grossMargin": 0.2561390073889233,
+      "operatingMargin": 0.08008539473585906,
+      "netMargin": 0.05845094098573766,
+      "roe": 0.08347443838057285,
+      "roic": 0.061506572048674615
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3020711000000.0,
+      "operatingIncome": 328829000000.0,
+      "netIncome": 238455000000.0,
+      "eps": 201.74,
+      "freeCashFlow": -189753000000.0,
+      "totalDebt": 1990207000000.0,
+      "cash": 222118000000.0,
+      "sharesOutstanding": 1176666846.0,
+      "grossMargin": 0.2901532122735343,
+      "operatingMargin": 0.10885814631058714,
+      "netMargin": 0.07894002438498751,
+      "roe": 0.10959553225451368,
+      "roic": 0.07893196798832447
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3016281000000.0,
+      "operatingIncome": 315636000000.0,
+      "netIncome": 230437000000.0,
+      "eps": 80.6,
+      "freeCashFlow": 68087000000.0,
+      "totalDebt": 2278077000000.0,
+      "cash": 295130000000.0,
+      "sharesOutstanding": 1150896846.0,
+      "grossMargin": 0.3076570120622051,
+      "operatingMargin": 0.10464409648835768,
+      "netMargin": 0.07639772289120278,
+      "roe": 0.09301889062105168,
+      "roic": 0.06637435281347001
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3018891000000.0,
+      "operatingIncome": 265470000000.0,
+      "netIncome": 186687000000.0,
+      "eps": 163.44,
+      "freeCashFlow": 142003000000.0,
+      "totalDebt": 2242079000000.0,
+      "cash": 276959000000.0,
+      "sharesOutstanding": 1138716846.0,
+      "grossMargin": 0.2929267734409755,
+      "operatingMargin": 0.08793626533717183,
+      "netMargin": 0.06183959606358759,
+      "roe": 0.07117349127044188,
+      "roic": 0.05456659974051729
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:09.271094+00:00"
+  }
+}

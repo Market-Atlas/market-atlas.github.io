@@ -1,0 +1,128 @@
+{
+  "ticker": "9104",
+  "name": "Mitsui O.S.K. Lines, Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1880847286272.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5476.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 618.8,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 343471008.0
+  },
+  "ratios": {
+    "roe": 0.07566,
+    "roic": null,
+    "grossMargin": 0.17949,
+    "operatingMargin": 0.05046,
+    "netMargin": 0.11685,
+    "debtToEquity": 0.84675
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1269310000000.0,
+      "operatingIncome": 55006000000.0,
+      "netIncome": 708819000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 999274000000.0,
+      "cash": 99878000000.0,
+      "sharesOutstanding": 361885833.0,
+      "grossMargin": 0.11967525663549487,
+      "operatingMargin": 0.043335355429327746,
+      "netMargin": 0.5584285950634597,
+      "roe": 0.5557843382478052,
+      "roic": 0.024182468919025264
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1611984000000.0,
+      "operatingIncome": 108709000000.0,
+      "netIncome": 796060000000.0,
+      "eps": 2196.51,
+      "freeCashFlow": null,
+      "totalDebt": 1151164000000.0,
+      "cash": 93961000000.0,
+      "sharesOutstanding": 362010900.0,
+      "grossMargin": 0.14608085440053994,
+      "operatingMargin": 0.06743801427309452,
+      "netMargin": 0.493838648522566,
+      "roe": 0.4133454835284374,
+      "roic": 0.03532886434741745
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1627912000000.0,
+      "operatingIncome": 103133000000.0,
+      "netIncome": 261651000000.0,
+      "eps": 721.05,
+      "freeCashFlow": null,
+      "totalDebt": 1292103000000.0,
+      "cash": 120290000000.0,
+      "sharesOutstanding": 362386058.0,
+      "grossMargin": 0.15292411383416302,
+      "operatingMargin": 0.06335293308237792,
+      "netMargin": 0.16072797546796141,
+      "roe": 0.111143488605128,
+      "roic": 0.028284474351365614
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1775470000000.0,
+      "operatingIncome": 150852000000.0,
+      "netIncome": 425492000000.0,
+      "eps": 1184.45,
+      "freeCashFlow": null,
+      "totalDebt": 1815443000000.0,
+      "cash": 163290000000.0,
+      "sharesOutstanding": 362841027.0,
+      "grossMargin": 0.1789188214951534,
+      "operatingMargin": 0.08496454459945817,
+      "netMargin": 0.23965034610553826,
+      "roe": 0.15837157461525778,
+      "roic": 0.033506940742478196
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 618.8,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:17.769004+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "0288",
+  "name": "WH Group Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "USD",
+  "marketCap": {
+    "value": 116113489920.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9.05,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 28026000000.0,
+    "operatingIncome": 2300000000.0,
+    "netIncome": 1567000000.0,
+    "eps": 0.122,
+    "freeCashFlow": 1915000000.0,
+    "totalDebt": 4123000000.0,
+    "cash": 2388000000.0,
+    "sharesOutstanding": 12830219550.0
+  },
+  "ratios": {
+    "roe": 0.14007329936533477,
+    "roic": 0.15022860875244937,
+    "grossMargin": 0.17794191108256618,
+    "operatingMargin": 0.08206665239420538,
+    "netMargin": 0.05591236708770427,
+    "debtToEquity": 0.32198
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28136000000.0,
+      "operatingIncome": 2220000000.0,
+      "netIncome": 1370000000.0,
+      "eps": 0.1068,
+      "freeCashFlow": 826000000.0,
+      "totalDebt": 3900000000.0,
+      "cash": 1394000000.0,
+      "sharesOutstanding": 12830200000.0,
+      "grossMargin": 0.18399914700028433,
+      "operatingMargin": 0.07890247369917544,
+      "netMargin": 0.0486920671026443,
+      "roe": 0.14270833333333333,
+      "roic": 0.16444444444444445
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 26236000000.0,
+      "operatingIncome": 2288000000.0,
+      "netIncome": 629000000.0,
+      "eps": 0.049,
+      "freeCashFlow": 805000000.0,
+      "totalDebt": 3718000000.0,
+      "cash": 1156000000.0,
+      "sharesOutstanding": 12830219550.0,
+      "grossMargin": 0.1953422777862479,
+      "operatingMargin": 0.08720841591706052,
+      "netMargin": 0.023974691263912183,
+      "roe": 0.06398128369443597,
+      "roic": 0.16886855118458927
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25941000000.0,
+      "operatingIncome": 2423000000.0,
+      "netIncome": 1612000000.0,
+      "eps": 0.1256,
+      "freeCashFlow": 1812000000.0,
+      "totalDebt": 3724000000.0,
+      "cash": 2055000000.0,
+      "sharesOutstanding": 12830219550.0,
+      "grossMargin": 0.20045487837785744,
+      "operatingMargin": 0.09340426352106704,
+      "netMargin": 0.06214101229713581,
+      "roe": 0.1512053278304099,
+      "roic": 0.16843934654153633
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 28026000000.0,
+      "operatingIncome": 2300000000.0,
+      "netIncome": 1567000000.0,
+      "eps": 0.122,
+      "freeCashFlow": 1915000000.0,
+      "totalDebt": 4123000000.0,
+      "cash": 2388000000.0,
+      "sharesOutstanding": 12830219550.0,
+      "grossMargin": 0.17794191108256618,
+      "operatingMargin": 0.08206665239420538,
+      "netMargin": 0.05591236708770427,
+      "roe": 0.14007329936533477,
+      "roic": 0.15022860875244937
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:28.925021+00:00"
+  }
+}

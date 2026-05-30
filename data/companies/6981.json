@@ -1,0 +1,128 @@
+{
+  "ticker": "6981",
+  "name": "Murata Manufacturing Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 17520304062464.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 9625.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 127.65,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1820291276.0
+  },
+  "ratios": {
+    "roe": 0.08826,
+    "roic": null,
+    "grossMargin": 0.4232,
+    "operatingMargin": 0.28057,
+    "netMargin": 0.12777,
+    "debtToEquity": 0.02052
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1812521000000.0,
+      "operatingIncome": 424060000000.0,
+      "netIncome": 314124000000.0,
+      "eps": null,
+      "freeCashFlow": 270927000000.0,
+      "totalDebt": 146624000000.0,
+      "cash": 512072000000.0,
+      "sharesOutstanding": 2027442843.0,
+      "grossMargin": 0.4238455719961314,
+      "operatingMargin": 0.23396142720553306,
+      "netMargin": 0.17330778512359304,
+      "roe": 0.1402540274744729,
+      "roic": 0.17770584875432835
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1686796000000.0,
+      "operatingIncome": 292856000000.0,
+      "netIncome": 243946000000.0,
+      "eps": 128.64,
+      "freeCashFlow": 80076000000.0,
+      "totalDebt": 155227000000.0,
+      "cash": 469406000000.0,
+      "sharesOutstanding": 2027442843.0,
+      "grossMargin": 0.39929784040275174,
+      "operatingMargin": 0.17361672662254357,
+      "netMargin": 0.14462092630051293,
+      "roe": 0.10336760615003909,
+      "roic": 0.11643392286614408
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1640158000000.0,
+      "operatingIncome": 215447000000.0,
+      "netIncome": 180838000000.0,
+      "eps": 95.72,
+      "freeCashFlow": 253409000000.0,
+      "totalDebt": 105940000000.0,
+      "cash": 622007000000.0,
+      "sharesOutstanding": 2027442843.0,
+      "grossMargin": 0.3882534487531079,
+      "operatingMargin": 0.13135746678063942,
+      "netMargin": 0.11025645090290082,
+      "roe": 0.07074632249240752,
+      "roic": 0.08093161493219418
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1743352000000.0,
+      "operatingIncome": 279702000000.0,
+      "netIncome": 233818000000.0,
+      "eps": 125.08,
+      "freeCashFlow": 259063000000.0,
+      "totalDebt": 59993000000.0,
+      "cash": 625148000000.0,
+      "sharesOutstanding": 1963001843.0,
+      "grossMargin": 0.41167933957112507,
+      "operatingMargin": 0.16043919988619626,
+      "netMargin": 0.13411978762751298,
+      "roe": 0.09059886353288993,
+      "roic": 0.10591571184164787
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 127.65,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:05.506771+00:00"
+  }
+}

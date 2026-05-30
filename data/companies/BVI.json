@@ -1,0 +1,128 @@
+{
+  "ticker": "BVI",
+  "name": "Bureau Veritas SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 11546226688.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 26.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6466400000.0,
+    "operatingIncome": 938700000.0,
+    "netIncome": 588000000.0,
+    "eps": null,
+    "freeCashFlow": 859700000.0,
+    "totalDebt": 3085400000.0,
+    "cash": 1366100000.0,
+    "sharesOutstanding": 453871520.0
+  },
+  "ratios": {
+    "roe": 0.34365867913500875,
+    "roic": 0.1957092819614711,
+    "grossMargin": 0.7224266980081653,
+    "operatingMargin": 0.14516578003216626,
+    "netMargin": 0.09093158480762094,
+    "debtToEquity": 1.75987
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.92,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5650600000.0,
+      "operatingIncome": 795700000.0,
+      "netIncome": 466700000.0,
+      "eps": 1.02,
+      "freeCashFlow": 704800000.0,
+      "totalDebt": 3045200000.0,
+      "cash": 1662100000.0,
+      "sharesOutstanding": 452444454.0,
+      "grossMargin": 0.713216295614625,
+      "operatingMargin": 0.1408169043995328,
+      "netMargin": 0.08259299897356033,
+      "roe": 0.2506310080017185,
+      "roic": 0.1621461903694496
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5867800000.0,
+      "operatingIncome": 820700000.0,
+      "netIncome": 503700000.0,
+      "eps": 1.1,
+      "freeCashFlow": 662100000.0,
+      "totalDebt": 2538100000.0,
+      "cash": 1173900000.0,
+      "sharesOutstanding": 453871520.0,
+      "grossMargin": 0.7201165683901973,
+      "operatingMargin": 0.13986502607450835,
+      "netMargin": 0.08584137155322268,
+      "roe": 0.26016218170549044,
+      "roic": 0.18342943989987037
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6240900000.0,
+      "operatingIncome": 912100000.0,
+      "netIncome": 569400000.0,
+      "eps": 1.25,
+      "freeCashFlow": 858900000.0,
+      "totalDebt": 2873200000.0,
+      "cash": 1204200000.0,
+      "sharesOutstanding": 453909638.0,
+      "grossMargin": 0.7212261052091846,
+      "operatingMargin": 0.14614879264208688,
+      "netMargin": 0.09123684084026343,
+      "roe": 0.2887863265202617,
+      "roic": 0.1882598196041198
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6466400000.0,
+      "operatingIncome": 938700000.0,
+      "netIncome": 588000000.0,
+      "eps": null,
+      "freeCashFlow": 859700000.0,
+      "totalDebt": 3085400000.0,
+      "cash": 1366100000.0,
+      "sharesOutstanding": 453871520.0,
+      "grossMargin": 0.7224266980081653,
+      "operatingMargin": 0.14516578003216626,
+      "netMargin": 0.09093158480762094,
+      "roe": 0.34365867913500875,
+      "roic": 0.1957092819614711
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:14.799787+00:00"
+  }
+}

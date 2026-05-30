@@ -1,0 +1,111 @@
+{
+  "ticker": "9988",
+  "name": "Alibaba Group Holding Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 2320442327040.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 120.9,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1023670000000.0,
+    "operatingIncome": 59665000000.0,
+    "netIncome": 103592000000.0,
+    "eps": 5.5,
+    "freeCashFlow": -50724000000.0,
+    "totalDebt": 281722000000.0,
+    "cash": 131530000000.0,
+    "sharesOutstanding": 18580374278.0
+  },
+  "ratios": {
+    "roe": 0.09764668399809216,
+    "roic": 0.044439627947993755,
+    "grossMargin": 0.39811071927476627,
+    "operatingMargin": 0.058285384938505574,
+    "netMargin": 0.10119667470962322,
+    "debtToEquity": 0.25014
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 868687000000.0,
+      "operatingIncome": 103065000000.0,
+      "netIncome": 72783000000.0,
+      "eps": 3.43,
+      "freeCashFlow": 165400000000.0,
+      "totalDebt": 195569000000.0,
+      "cash": 193086000000.0,
+      "sharesOutstanding": 20526017712.0,
+      "grossMargin": 0.3672116654214924,
+      "operatingMargin": 0.11864457508861075,
+      "netMargin": 0.08378506873016403,
+      "roe": 0.07354366209707,
+      "roic": 0.0869580991304612
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 941168000000.0,
+      "operatingIncome": 123871000000.0,
+      "netIncome": 80009000000.0,
+      "eps": 3.91,
+      "freeCashFlow": 149664000000.0,
+      "totalDebt": 205614000000.0,
+      "cash": 248125000000.0,
+      "sharesOutstanding": 19469126956.0,
+      "grossMargin": 0.3770262057358516,
+      "operatingMargin": 0.13161412202709824,
+      "netMargin": 0.08501032759294834,
+      "roe": 0.08110028544089265,
+      "roic": 0.10390485153813504
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 996347000000.0,
+      "operatingIncome": 147076000000.0,
+      "netIncome": 130109000000.0,
+      "eps": 6.7,
+      "freeCashFlow": 77537000000.0,
+      "totalDebt": 248110000000.0,
+      "cash": 145487000000.0,
+      "sharesOutstanding": 18998287724.0,
+      "grossMargin": 0.39952145186365795,
+      "operatingMargin": 0.14761523846611674,
+      "netMargin": 0.1305860307704043,
+      "roe": 0.12883890606402087,
+      "roic": 0.11691553362247688
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 1023670000000.0,
+      "operatingIncome": 59665000000.0,
+      "netIncome": 103592000000.0,
+      "eps": 5.5,
+      "freeCashFlow": -50724000000.0,
+      "totalDebt": 281722000000.0,
+      "cash": 131530000000.0,
+      "sharesOutstanding": 18580374278.0,
+      "grossMargin": 0.39811071927476627,
+      "operatingMargin": 0.058285384938505574,
+      "netMargin": 0.10119667470962322,
+      "roe": 0.09764668399809216,
+      "roic": 0.044439627947993755
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:42.465612+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "5108",
+  "name": "Bridgestone Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 4321916747776.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3443.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4429452000000.0,
+    "operatingIncome": 381237000000.0,
+    "netIncome": 327264000000.0,
+    "eps": 122.885,
+    "freeCashFlow": 373287000000.0,
+    "totalDebt": 827015000000.0,
+    "cash": 713810000000.0,
+    "sharesOutstanding": 1427396442.0
+  },
+  "ratios": {
+    "roe": 0.08937261063091223,
+    "roic": 0.08493056508543025,
+    "grossMargin": 0.3852989037921621,
+    "operatingMargin": 0.08606866041216837,
+    "netMargin": 0.07388363165466066,
+    "debtToEquity": 0.21403
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4110070000000.0,
+      "operatingIncome": 441299000000.0,
+      "netIncome": 300305000000.0,
+      "eps": 215.805,
+      "freeCashFlow": 13757000000.0,
+      "totalDebt": 767167000000.0,
+      "cash": 518905000000.0,
+      "sharesOutstanding": 1427396442.0,
+      "grossMargin": 0.3876452225874498,
+      "operatingMargin": 0.10737019077533959,
+      "netMargin": 0.07306566554827533,
+      "roe": 0.1012547899664007,
+      "roic": 0.1182155809185208
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4313800000000.0,
+      "operatingIncome": 481775000000.0,
+      "netIncome": 331305000000.0,
+      "eps": 241.705,
+      "freeCashFlow": 318496000000.0,
+      "totalDebt": 830160000000.0,
+      "cash": 724601000000.0,
+      "sharesOutstanding": 1427396442.0,
+      "grossMargin": 0.3830896193611201,
+      "operatingMargin": 0.11168227548796884,
+      "netMargin": 0.07680119616115721,
+      "roe": 0.09879108728789907,
+      "roic": 0.11515381408840678
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4430096000000.0,
+      "operatingIncome": 443319000000.0,
+      "netIncome": 284989000000.0,
+      "eps": 103.94,
+      "freeCashFlow": 211551000000.0,
+      "totalDebt": 727721000000.0,
+      "cash": 706732000000.0,
+      "sharesOutstanding": 1427396442.0,
+      "grossMargin": 0.3896084870395585,
+      "operatingMargin": 0.10006984047298298,
+      "netMargin": 0.06433020864559143,
+      "roe": 0.07637167482311906,
+      "roic": 0.0994138801662224
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4429452000000.0,
+      "operatingIncome": 381237000000.0,
+      "netIncome": 327264000000.0,
+      "eps": 122.885,
+      "freeCashFlow": 373287000000.0,
+      "totalDebt": 827015000000.0,
+      "cash": 713810000000.0,
+      "sharesOutstanding": 1427396442.0,
+      "grossMargin": 0.3852989037921621,
+      "operatingMargin": 0.08606866041216837,
+      "netMargin": 0.07388363165466066,
+      "roe": 0.08937261063091223,
+      "roic": 0.08493056508543025
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:08.942135+00:00"
+  }
+}

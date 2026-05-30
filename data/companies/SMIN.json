@@ -1,0 +1,128 @@
+{
+  "ticker": "SMIN",
+  "name": "Smiths Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 7413663232.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2464.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 0.853,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 300879175.0
+  },
+  "ratios": {
+    "roe": 0.12528,
+    "roic": null,
+    "grossMargin": 0.36992002,
+    "operatingMargin": 0.1847,
+    "netMargin": 0.087060004,
+    "debtToEquity": 0.73095
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-07-31",
+      "revenue": 2406000000.0,
+      "operatingIncome": 313000000.0,
+      "netIncome": 284000000.0,
+      "eps": null,
+      "freeCashFlow": 418000000.0,
+      "totalDebt": 1502000000.0,
+      "cash": 405000000.0,
+      "sharesOutstanding": 396377114.0,
+      "grossMargin": 0.3802992518703242,
+      "operatingMargin": 0.13009143807148796,
+      "netMargin": 0.11803823773898586,
+      "roe": 0.11823480432972523,
+      "roic": 0.08017418032786885
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-07-31",
+      "revenue": 2566000000.0,
+      "operatingIncome": 152000000.0,
+      "netIncome": 1033000000.0,
+      "eps": 2.66,
+      "freeCashFlow": 191000000.0,
+      "totalDebt": 1166000000.0,
+      "cash": 1056000000.0,
+      "sharesOutstanding": 362356159.0,
+      "grossMargin": 0.3745128604832424,
+      "operatingMargin": 0.059236165237724084,
+      "netMargin": 0.40257209664848015,
+      "roe": 0.3827343460540941,
+      "roic": 0.03932729624838292
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-07-31",
+      "revenue": 3037000000.0,
+      "operatingIncome": 448000000.0,
+      "netIncome": 231000000.0,
+      "eps": 0.651,
+      "freeCashFlow": 212000000.0,
+      "totalDebt": 654000000.0,
+      "cash": 285000000.0,
+      "sharesOutstanding": 349302990.0,
+      "grossMargin": 0.36812644056634836,
+      "operatingMargin": 0.14751399407309845,
+      "netMargin": 0.07606190319394139,
+      "roe": 0.09689597315436242,
+      "roic": 0.14746543778801843
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-07-31",
+      "revenue": 2778000000.0,
+      "operatingIncome": 527000000.0,
+      "netIncome": 250000000.0,
+      "eps": 0.72,
+      "freeCashFlow": 332000000.0,
+      "totalDebt": 659000000.0,
+      "cash": 459000000.0,
+      "sharesOutstanding": 345097794.0,
+      "grossMargin": 0.37293016558675307,
+      "operatingMargin": 0.18970482361411087,
+      "netMargin": 0.08999280057595392,
+      "roe": 0.11210762331838565,
+      "roic": 0.1824160609207338
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-07-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.853,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:55.303054+00:00"
+  }
+}

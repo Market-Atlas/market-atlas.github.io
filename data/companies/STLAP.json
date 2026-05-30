@@ -1,0 +1,128 @@
+{
+  "ticker": "STLAP",
+  "name": "Stellantis N.V.",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 19868211200.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6.857,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 153508000000.0,
+    "operatingIncome": -22231000000.0,
+    "netIncome": -22368000000.0,
+    "eps": -7.75,
+    "freeCashFlow": -13792000000.0,
+    "totalDebt": 45947000000.0,
+    "cash": 30146000000.0,
+    "sharesOutstanding": 2903716295.0
+  },
+  "ratios": {
+    "roe": -0.4176952811338724,
+    "roic": -0.22343162676636716,
+    "grossMargin": -0.013803840842171093,
+    "operatingMargin": -0.14481981395106444,
+    "netMargin": -0.14571227558172864,
+    "debtToEquity": 0.78657
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 179592000000.0,
+      "operatingIncome": 21084000000.0,
+      "netIncome": 16799000000.0,
+      "eps": 5.31,
+      "freeCashFlow": 10945000000.0,
+      "totalDebt": 27153000000.0,
+      "cash": 46433000000.0,
+      "sharesOutstanding": 3201744199.0,
+      "grossMargin": 0.196361753307497,
+      "operatingMargin": 0.11739943872778298,
+      "netMargin": 0.09353980132745333,
+      "roe": 0.23332268503729217,
+      "roic": 0.212643214458609
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 189544000000.0,
+      "operatingIncome": 22984000000.0,
+      "netIncome": 18596000000.0,
+      "eps": 5.94,
+      "freeCashFlow": 7761000000.0,
+      "totalDebt": 29463000000.0,
+      "cash": 43669000000.0,
+      "sharesOutstanding": 3165189336.0,
+      "grossMargin": 0.20124087283163802,
+      "operatingMargin": 0.1212594437175537,
+      "netMargin": 0.09810914616131347,
+      "roe": 0.22763272250988456,
+      "roic": 0.20677246392457446
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 156878000000.0,
+      "operatingIncome": 5435000000.0,
+      "netIncome": 5473000000.0,
+      "eps": 1.84,
+      "freeCashFlow": -9525000000.0,
+      "totalDebt": 37227000000.0,
+      "cash": 34100000000.0,
+      "sharesOutstanding": 2896073567.0,
+      "grossMargin": 0.13078953071813765,
+      "operatingMargin": 0.03464475579749869,
+      "netMargin": 0.03488698224097706,
+      "roe": 0.066995544239338,
+      "roic": 0.045703377929515045
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 153508000000.0,
+      "operatingIncome": -22231000000.0,
+      "netIncome": -22368000000.0,
+      "eps": -7.75,
+      "freeCashFlow": -13792000000.0,
+      "totalDebt": 45947000000.0,
+      "cash": 30146000000.0,
+      "sharesOutstanding": 2903716295.0,
+      "grossMargin": -0.013803840842171093,
+      "operatingMargin": -0.14481981395106444,
+      "netMargin": -0.14571227558172864,
+      "roe": -0.4176952811338724,
+      "roic": -0.22343162676636716
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:27.355806+00:00"
+  }
+}

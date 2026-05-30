@@ -1,0 +1,128 @@
+{
+  "ticker": "0883",
+  "name": "CNOOC Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 1254790791168.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 26.4,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 398220000000.0,
+    "operatingIncome": 173402000000.0,
+    "netIncome": 122082000000.0,
+    "eps": 2.57,
+    "freeCashFlow": 97487000000.0,
+    "totalDebt": 69800000000.0,
+    "cash": 78679000000.0,
+    "sharesOutstanding": 47529953984.0
+  },
+  "ratios": {
+    "roe": 0.1520797259420741,
+    "roic": 0.19873015873015873,
+    "grossMargin": 0.6749008085982623,
+    "operatingMargin": 0.4354427201044649,
+    "netMargin": 0.3065692330872382,
+    "debtToEquity": 0.08259999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 432225000000.0,
+      "operatingIncome": 194002000000.0,
+      "netIncome": 141700000000.0,
+      "eps": 3.03,
+      "freeCashFlow": 110820000000.0,
+      "totalDebt": 134396000000.0,
+      "cash": 85633000000.0,
+      "sharesOutstanding": 47566763984.0,
+      "grossMargin": 0.6426768465498294,
+      "operatingMargin": 0.4488449303025045,
+      "netMargin": 0.3278385100352825,
+      "roe": 0.23728109688503674,
+      "roic": 0.26518293333041726
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 421530000000.0,
+      "operatingIncome": 171292000000.0,
+      "netIncome": 123843000000.0,
+      "eps": 2.6,
+      "freeCashFlow": 88868000000.0,
+      "totalDebt": 120177000000.0,
+      "cash": 133439000000.0,
+      "sharesOutstanding": 47566763984.0,
+      "grossMargin": 0.6267525443028966,
+      "operatingMargin": 0.4063577918534861,
+      "netMargin": 0.29379403601167176,
+      "roe": 0.18578698022460718,
+      "roic": 0.21771740663961064
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 420506000000.0,
+      "operatingIncome": 192752000000.0,
+      "netIncome": 137936000000.0,
+      "eps": 2.9,
+      "freeCashFlow": 97532000000.0,
+      "totalDebt": 91887000000.0,
+      "cash": 81284000000.0,
+      "sharesOutstanding": 47529953984.0,
+      "grossMargin": 0.6838618236125049,
+      "operatingMargin": 0.4583810932543174,
+      "netMargin": 0.3280238569723143,
+      "roe": 0.18451791724411007,
+      "roic": 0.2296211142018143
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 398220000000.0,
+      "operatingIncome": 173402000000.0,
+      "netIncome": 122082000000.0,
+      "eps": 2.57,
+      "freeCashFlow": 97487000000.0,
+      "totalDebt": 69800000000.0,
+      "cash": 78679000000.0,
+      "sharesOutstanding": 47529953984.0,
+      "grossMargin": 0.6749008085982623,
+      "operatingMargin": 0.4354427201044649,
+      "netMargin": 0.3065692330872382,
+      "roe": 0.1520797259420741,
+      "roic": 0.19873015873015873
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:30.947720+00:00"
+  }
+}

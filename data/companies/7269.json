@@ -1,0 +1,111 @@
+{
+  "ticker": "7269",
+  "name": "Suzuki Motor Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3807421923328.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1973.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5825161000000.0,
+    "operatingIncome": 642852000000.0,
+    "netIncome": 416050000000.0,
+    "eps": 215.65,
+    "freeCashFlow": 267241000000.0,
+    "totalDebt": 725299000000.0,
+    "cash": 842710000000.0,
+    "sharesOutstanding": 1964586400.0
+  },
+  "ratios": {
+    "roe": 0.14005305218368982,
+    "roic": 0.1739337476416811,
+    "grossMargin": 0.2692902393599078,
+    "operatingMargin": 0.11035780813611847,
+    "netMargin": 0.07142291861117658,
+    "debtToEquity": 0.18026
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 3568380000000.0,
+      "operatingIncome": 191461000000.0,
+      "netIncome": 160345000000.0,
+      "eps": 82.545,
+      "freeCashFlow": 30787000000.0,
+      "totalDebt": 674158000000.0,
+      "cash": 964315000000.0,
+      "sharesOutstanding": 1964489200.0,
+      "grossMargin": 0.24000610921482576,
+      "operatingMargin": 0.053654879805401894,
+      "netMargin": 0.044934956478850346,
+      "roe": 0.08536854165646222,
+      "roic": 0.07501138132897878
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4641644000000.0,
+      "operatingIncome": 350551000000.0,
+      "netIncome": 221107000000.0,
+      "eps": 113.8,
+      "freeCashFlow": 28346000000.0,
+      "totalDebt": 763837000000.0,
+      "cash": 868911000000.0,
+      "sharesOutstanding": 1964586400.0,
+      "grossMargin": 0.24774217927958284,
+      "operatingMargin": 0.07552302589341191,
+      "netMargin": 0.047635492941724956,
+      "roe": 0.09637710281555201,
+      "roic": 0.11463321237283042
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 5357523000000.0,
+      "operatingIncome": 493834000000.0,
+      "netIncome": 317017000000.0,
+      "eps": 138.39,
+      "freeCashFlow": 147824000000.0,
+      "totalDebt": 785897000000.0,
+      "cash": 840020000000.0,
+      "sharesOutstanding": 1964586400.0,
+      "grossMargin": 0.26331963483871185,
+      "operatingMargin": 0.09217580587148202,
+      "netMargin": 0.0591723077997052,
+      "roe": 0.11656009527265694,
+      "roic": 0.14086722366908466
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 5825161000000.0,
+      "operatingIncome": 642852000000.0,
+      "netIncome": 416050000000.0,
+      "eps": 215.65,
+      "freeCashFlow": 267241000000.0,
+      "totalDebt": 725299000000.0,
+      "cash": 842710000000.0,
+      "sharesOutstanding": 1964586400.0,
+      "grossMargin": 0.2692902393599078,
+      "operatingMargin": 0.11035780813611847,
+      "netMargin": 0.07142291861117658,
+      "roe": 0.14005305218368982,
+      "roic": 0.1739337476416811
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.379201+00:00"
+  }
+}

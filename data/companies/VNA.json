@@ -1,0 +1,111 @@
+{
+  "ticker": "VNA",
+  "name": "Vonovia SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 18181752832.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 21.43,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5939100000.0,
+    "operatingIncome": 1001500000.0,
+    "netIncome": -896000000.0,
+    "eps": -1.09,
+    "freeCashFlow": null,
+    "totalDebt": 43205300000.0,
+    "cash": 1691300000.0,
+    "sharesOutstanding": 822852925.0
+  },
+  "ratios": {
+    "roe": -0.037338934173459355,
+    "roic": 0.014902896801717814,
+    "grossMargin": 0.37938408176323013,
+    "operatingMargin": 0.16862824333653248,
+    "netMargin": -0.1508646091158593,
+    "debtToEquity": 1.29178
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": 4143500000.0,
+      "operatingIncome": -2635600000.0,
+      "netIncome": 2680300000.0,
+      "eps": 3.020122,
+      "freeCashFlow": null,
+      "totalDebt": 47692900000.0,
+      "cash": 1315200000.0,
+      "sharesOutstanding": 918219368.0,
+      "grossMargin": 0.41061904187281284,
+      "operatingMargin": -0.636080608181489,
+      "netMargin": 0.6468685893568239,
+      "roe": 0.08147625749695259,
+      "roic": -0.03270397172836197
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5482900000.0,
+      "operatingIncome": -2104600000.0,
+      "netIncome": -643800000.0,
+      "eps": -0.82,
+      "freeCashFlow": null,
+      "totalDebt": 45687100000.0,
+      "cash": 1198300000.0,
+      "sharesOutstanding": 800620533.0,
+      "grossMargin": 0.013095259807765963,
+      "operatingMargin": -0.38384796366886137,
+      "netMargin": -0.11741961370807419,
+      "roe": -0.020548010787865247,
+      "roic": -0.027325866738683903
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5228500000.0,
+      "operatingIncome": 1050300000.0,
+      "netIncome": -6285100000.0,
+      "eps": -7.8,
+      "freeCashFlow": null,
+      "totalDebt": 43493900000.0,
+      "cash": 1275600000.0,
+      "sharesOutstanding": 814644998.0,
+      "grossMargin": 0.4727168403939945,
+      "operatingMargin": 0.20087979343980109,
+      "netMargin": -1.2020847279334417,
+      "roe": -0.24472210757477825,
+      "roic": 0.015182901707949954
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5939100000.0,
+      "operatingIncome": 1001500000.0,
+      "netIncome": -896000000.0,
+      "eps": -1.09,
+      "freeCashFlow": null,
+      "totalDebt": 43205300000.0,
+      "cash": 1691300000.0,
+      "sharesOutstanding": 822852925.0,
+      "grossMargin": 0.37938408176323013,
+      "operatingMargin": 0.16862824333653248,
+      "netMargin": -0.1508646091158593,
+      "roe": -0.037338934173459355,
+      "roic": 0.014902896801717814
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:28.738188+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "4503",
+  "name": "Astellas Pharma Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 4089976717312.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2283.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1912323000000.0,
+    "operatingIncome": 40248000000.0,
+    "netIncome": 50747000000.0,
+    "eps": 28.24,
+    "freeCashFlow": 137182000000.0,
+    "totalDebt": 831426000000.0,
+    "cash": 188372000000.0,
+    "sharesOutstanding": 1809663075.0
+  },
+  "ratios": {
+    "roe": 0.03353499575418551,
+    "roic": 0.01716566134156416,
+    "grossMargin": 0.8173917272343636,
+    "operatingMargin": 0.021046653729521633,
+    "netMargin": 0.026536835043034047,
+    "debtToEquity": 0.30911
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1296163000000.0,
+      "operatingIncome": 130963000000.0,
+      "netIncome": 124086000000.0,
+      "eps": 67.05,
+      "freeCashFlow": 180996000000.0,
+      "totalDebt": null,
+      "cash": 315986000000.0,
+      "sharesOutstanding": 1835851575.0,
+      "grossMargin": 0.804801556594348,
+      "operatingMargin": 0.10103898969496893,
+      "netMargin": 0.09573332983583083,
+      "roe": 0.08497248525653492,
+      "roic": 0.08968176576448256
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1518619000000.0,
+      "operatingIncome": 131557000000.0,
+      "netIncome": 98714000000.0,
+      "eps": 54.09,
+      "freeCashFlow": 239226000000.0,
+      "totalDebt": 125000000000.0,
+      "cash": 376840000000.0,
+      "sharesOutstanding": 1809663075.0,
+      "grossMargin": 0.8101215643950194,
+      "operatingMargin": 0.08662936523249083,
+      "netMargin": 0.06500247922619169,
+      "roe": 0.06546220905942754,
+      "roic": 0.08056381257524707
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1603672000000.0,
+      "operatingIncome": 18947000000.0,
+      "netIncome": 17045000000.0,
+      "eps": 9.47,
+      "freeCashFlow": 89978000000.0,
+      "totalDebt": 920016000000.0,
+      "cash": 335687000000.0,
+      "sharesOutstanding": 1809663075.0,
+      "grossMargin": 0.8176154475478776,
+      "operatingMargin": 0.01181476012551195,
+      "netMargin": 0.010628732059922479,
+      "roe": 0.01067990486144006,
+      "roic": 0.0075305921612207295
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1912323000000.0,
+      "operatingIncome": 40248000000.0,
+      "netIncome": 50747000000.0,
+      "eps": 28.24,
+      "freeCashFlow": 137182000000.0,
+      "totalDebt": 831426000000.0,
+      "cash": 188372000000.0,
+      "sharesOutstanding": 1809663075.0,
+      "grossMargin": 0.8173917272343636,
+      "operatingMargin": 0.021046653729521633,
+      "netMargin": 0.026536835043034047,
+      "roe": 0.03353499575418551,
+      "roic": 0.01716566134156416
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:06.309726+00:00"
+  }
+}

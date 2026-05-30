@@ -1,0 +1,128 @@
+{
+  "ticker": "AZN",
+  "name": "AstraZeneca PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "USD",
+  "marketCap": {
+    "value": 214048063488.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13802.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 58739000000.0,
+    "operatingIncome": 13327000000.0,
+    "netIncome": 10225000000.0,
+    "eps": 6.54,
+    "freeCashFlow": 8670000000.0,
+    "totalDebt": 29149000000.0,
+    "cash": 5711000000.0,
+    "sharesOutstanding": 1550907927.0
+  },
+  "ratios": {
+    "roe": 0.21010130067602276,
+    "roic": 0.17126297933586923,
+    "grossMargin": 0.8189788726399837,
+    "operatingMargin": 0.22688503379356134,
+    "netMargin": 0.17407514598478013,
+    "debtToEquity": 0.71815
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 44351000000.0,
+      "operatingIncome": 4512000000.0,
+      "netIncome": 3288000000.0,
+      "eps": 2.11,
+      "freeCashFlow": 7237000000.0,
+      "totalDebt": 29143000000.0,
+      "cash": 6166000000.0,
+      "sharesOutstanding": 1549800030.0,
+      "grossMargin": 0.7206150932335235,
+      "operatingMargin": 0.10173389551532096,
+      "netMargin": 0.07413587066807964,
+      "roe": 0.08877608877608878,
+      "roic": 0.06817769718948323
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 45811000000.0,
+      "operatingIncome": 8722000000.0,
+      "netIncome": 5955000000.0,
+      "eps": 3.81,
+      "freeCashFlow": 6567000000.0,
+      "totalDebt": 28407000000.0,
+      "cash": 5840000000.0,
+      "sharesOutstanding": 1550162626.0,
+      "grossMargin": 0.8195193294186985,
+      "operatingMargin": 0.19039095413765253,
+      "netMargin": 0.1299906136080854,
+      "roe": 0.1521344812610173,
+      "roic": 0.12911917098445597
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 54073000000.0,
+      "operatingIncome": 10251000000.0,
+      "netIncome": 7035000000.0,
+      "eps": 4.5,
+      "freeCashFlow": 7275000000.0,
+      "totalDebt": 30114000000.0,
+      "cash": 5488000000.0,
+      "sharesOutstanding": 1550546239.0,
+      "grossMargin": 0.8112366615501266,
+      "operatingMargin": 0.18957705324283838,
+      "netMargin": 0.13010189928430085,
+      "roe": 0.17248565684303438,
+      "roic": 0.14458392101551482
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 58739000000.0,
+      "operatingIncome": 13327000000.0,
+      "netIncome": 10225000000.0,
+      "eps": 6.54,
+      "freeCashFlow": 8670000000.0,
+      "totalDebt": 29149000000.0,
+      "cash": 5711000000.0,
+      "sharesOutstanding": 1550907927.0,
+      "grossMargin": 0.8189788726399837,
+      "operatingMargin": 0.22688503379356134,
+      "netMargin": 0.17407514598478013,
+      "roe": 0.21010130067602276,
+      "roic": 0.17126297933586923
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.670906+00:00"
+  }
+}

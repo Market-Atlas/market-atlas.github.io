@@ -1,0 +1,111 @@
+{
+  "ticker": "8628",
+  "name": "Matsui Securities Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 250382139392.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 972.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37161000000.0,
+    "operatingIncome": null,
+    "netIncome": 10501000000.0,
+    "eps": 40.71,
+    "freeCashFlow": -47028000000.0,
+    "totalDebt": 343488000000.0,
+    "cash": 688686000000.0,
+    "sharesOutstanding": 259264702.0
+  },
+  "ratios": {
+    "roe": 0.13708698319865276,
+    "roic": null,
+    "grossMargin": 0.79896003,
+    "operatingMargin": 0.49193,
+    "netMargin": 0.2825812007211862,
+    "debtToEquity": 4.44482
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 32099000000.0,
+      "operatingIncome": null,
+      "netIncome": 11439000000.0,
+      "eps": 44.44,
+      "freeCashFlow": 47514000000.0,
+      "totalDebt": 189259000000.0,
+      "cash": 587812000000.0,
+      "sharesOutstanding": 259264702.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.35636624193900124,
+      "roe": 0.14531434596476073,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 28463000000.0,
+      "operatingIncome": null,
+      "netIncome": 7823000000.0,
+      "eps": 30.37,
+      "freeCashFlow": -18993000000.0,
+      "totalDebt": 259502000000.0,
+      "cash": 632643000000.0,
+      "sharesOutstanding": 259264702.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.27484804834346344,
+      "roe": 0.10245697671372817,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 35307000000.0,
+      "operatingIncome": null,
+      "netIncome": 9790000000.0,
+      "eps": 37.99,
+      "freeCashFlow": -11474000000.0,
+      "totalDebt": 277056000000.0,
+      "cash": 772492000000.0,
+      "sharesOutstanding": 259264702.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2772821253575778,
+      "roe": 0.12826559756832534,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 37161000000.0,
+      "operatingIncome": null,
+      "netIncome": 10501000000.0,
+      "eps": 40.71,
+      "freeCashFlow": -47028000000.0,
+      "totalDebt": 343488000000.0,
+      "cash": 688686000000.0,
+      "sharesOutstanding": 259264702.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2825812007211862,
+      "roe": 0.13708698319865276,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:15.777010+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "3690",
+  "name": "Meituan",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 453508431872.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 73.45,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 364854746000.0,
+    "operatingIncome": -29840115000.0,
+    "netIncome": -23355015000.0,
+    "eps": -3.92,
+    "freeCashFlow": -27085709000.0,
+    "totalDebt": 86619106000.0,
+    "cash": 106771366000.0,
+    "sharesOutstanding": 6111665005.0
+  },
+  "ratios": {
+    "roe": -0.154621959218453,
+    "roic": -0.12555535150084499,
+    "grossMargin": 0.3042543017927469,
+    "operatingMargin": -0.08178628708313418,
+    "netMargin": -0.06401181636266834,
+    "debtToEquity": 0.57368
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 219954948000.0,
+      "operatingIncome": -6471002000.0,
+      "netIncome": -6686110000.0,
+      "eps": -1.09,
+      "freeCashFlow": 5680144000.0,
+      "totalDebt": 58087625000.0,
+      "cash": 20158606000.0,
+      "sharesOutstanding": 6192972690.0,
+      "grossMargin": 0.2807528521704363,
+      "operatingMargin": -0.029419670068072303,
+      "netMargin": -0.030397633973662644,
+      "roe": -0.051926269017605484,
+      "roic": -0.03463221029510771
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 276744954000.0,
+      "operatingIncome": 8001092000.0,
+      "netIncome": 13855828000.0,
+      "eps": 2.11,
+      "freeCashFlow": 33642299000.0,
+      "totalDebt": 60620899000.0,
+      "cash": 33339754000.0,
+      "sharesOutstanding": 6244375781.0,
+      "grossMargin": 0.351193976964075,
+      "operatingMargin": 0.028911428679563204,
+      "netMargin": 0.05006713871285256,
+      "roe": 0.09114884340279723,
+      "roic": 0.037628450818703564
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 337591576000.0,
+      "operatingIncome": 34026555000.0,
+      "netIncome": 35807179000.0,
+      "eps": 5.66,
+      "freeCashFlow": 46147294000.0,
+      "totalDebt": 61509567000.0,
+      "cash": 70834097000.0,
+      "sharesOutstanding": 6046056054.0,
+      "grossMargin": 0.38444263194529477,
+      "operatingMargin": 0.10079207367425543,
+      "netMargin": 0.10606656547614803,
+      "roe": 0.2073819364616476,
+      "roic": 0.14530549520866723
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 364854746000.0,
+      "operatingIncome": -29840115000.0,
+      "netIncome": -23355015000.0,
+      "eps": -3.92,
+      "freeCashFlow": -27085709000.0,
+      "totalDebt": 86619106000.0,
+      "cash": 106771366000.0,
+      "sharesOutstanding": 6111665005.0,
+      "grossMargin": 0.3042543017927469,
+      "operatingMargin": -0.08178628708313418,
+      "netMargin": -0.06401181636266834,
+      "roe": -0.154621959218453,
+      "roic": -0.12555535150084499
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:39.807304+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "0027",
+  "name": "Galaxy Entertainment Group Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 137157828608.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.32,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 49242325000.0,
+    "operatingIncome": 9622637000.0,
+    "netIncome": 10673765000.0,
+    "eps": 2.436,
+    "freeCashFlow": 10780229000.0,
+    "totalDebt": 2037282000.0,
+    "cash": 14321520000.0,
+    "sharesOutstanding": 4379240712.0
+  },
+  "ratios": {
+    "roe": 0.128377630404187,
+    "roic": 0.11296723540139537,
+    "grossMargin": 0.5595165337948604,
+    "operatingMargin": 0.1954139452188742,
+    "netMargin": 0.21675997223932866,
+    "debtToEquity": 0.02436
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11473793000.0,
+      "operatingIncome": -3359302000.0,
+      "netIncome": -3433770000.0,
+      "eps": -0.787,
+      "freeCashFlow": -8056619000.0,
+      "totalDebt": 8064930000.0,
+      "cash": 14022744000.0,
+      "sharesOutstanding": 4368911944.0,
+      "grossMargin": 0.5920446708425017,
+      "operatingMargin": -0.2927804257929353,
+      "netMargin": -0.2992706945296991,
+      "roe": -0.05372490281305786,
+      "roic": -0.04667067136067412
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 35684253000.0,
+      "operatingIncome": 6300439000.0,
+      "netIncome": 6827956000.0,
+      "eps": 1.562,
+      "freeCashFlow": 5575557000.0,
+      "totalDebt": 2157324000.0,
+      "cash": 14511770000.0,
+      "sharesOutstanding": 4373586962.0,
+      "grossMargin": 0.5893259976606487,
+      "operatingMargin": 0.17656076477206906,
+      "netMargin": 0.19134367195524593,
+      "roe": 0.09649570235219825,
+      "roic": 0.08640622281136494
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 43432373000.0,
+      "operatingIncome": 7874701000.0,
+      "netIncome": 8759247000.0,
+      "eps": 2.002,
+      "freeCashFlow": 6682065000.0,
+      "totalDebt": 4848600000.0,
+      "cash": 20393568000.0,
+      "sharesOutstanding": 4374894550.0,
+      "grossMargin": 0.5723959637204258,
+      "operatingMargin": 0.18130948083357085,
+      "netMargin": 0.20167553359334062,
+      "roe": 0.11533573933483268,
+      "roic": 0.09746611404644123
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 49242325000.0,
+      "operatingIncome": 9622637000.0,
+      "netIncome": 10673765000.0,
+      "eps": 2.436,
+      "freeCashFlow": 10780229000.0,
+      "totalDebt": 2037282000.0,
+      "cash": 14321520000.0,
+      "sharesOutstanding": 4379240712.0,
+      "grossMargin": 0.5595165337948604,
+      "operatingMargin": 0.1954139452188742,
+      "netMargin": 0.21675997223932866,
+      "roe": 0.128377630404187,
+      "roic": 0.11296723540139537
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:27.923303+00:00"
+  }
+}

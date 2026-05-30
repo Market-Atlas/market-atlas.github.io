@@ -1,0 +1,128 @@
+{
+  "ticker": "0175",
+  "name": "Geely Automobile Holdings Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 202958274560.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18.82,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 345232201000.0,
+    "operatingIncome": 12814671000.0,
+    "netIncome": 16852231000.0,
+    "eps": 1.63,
+    "freeCashFlow": 29354717000.0,
+    "totalDebt": 43701418000.0,
+    "cash": 65319279000.0,
+    "sharesOutstanding": 10897881397.0
+  },
+  "ratios": {
+    "roe": 0.18238643491237178,
+    "roic": 0.09415635383204193,
+    "grossMargin": 0.1661106056558148,
+    "operatingMargin": 0.03711899111056561,
+    "netMargin": 0.048814192161640214,
+    "debtToEquity": 0.20305
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 147964647000.0,
+      "operatingIncome": 1449685000.0,
+      "netIncome": 5260353000.0,
+      "eps": 0.5,
+      "freeCashFlow": 5681407000.0,
+      "totalDebt": 13156364000.0,
+      "cash": 33341339000.0,
+      "sharesOutstanding": 10056973786.0,
+      "grossMargin": 0.1412204700491733,
+      "operatingMargin": 0.009797509265845104,
+      "netMargin": 0.03555141790052052,
+      "roe": 0.07001625372826506,
+      "roic": 0.01642017479415585
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 179203592000.0,
+      "operatingIncome": 3922284000.0,
+      "netIncome": 5308408000.0,
+      "eps": 0.51,
+      "freeCashFlow": 7019875000.0,
+      "totalDebt": 27587796000.0,
+      "cash": 41290747000.0,
+      "sharesOutstanding": 10063382383.0,
+      "grossMargin": 0.1529828096302891,
+      "operatingMargin": 0.021887306812466124,
+      "netMargin": 0.029622218733204857,
+      "roe": 0.06344754108578869,
+      "roic": 0.03525525233090499
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 275910484000.0,
+      "operatingIncome": 9003611000.0,
+      "netIncome": 16811878000.0,
+      "eps": 1.63,
+      "freeCashFlow": 19957284000.0,
+      "totalDebt": 37977154000.0,
+      "cash": 43057737000.0,
+      "sharesOutstanding": 10075001783.0,
+      "grossMargin": 0.16600945471865433,
+      "operatingMargin": 0.03263236274849201,
+      "netMargin": 0.0609323638459494,
+      "roe": 0.1942704657164393,
+      "roic": 0.07230905899386753
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 345232201000.0,
+      "operatingIncome": 12814671000.0,
+      "netIncome": 16852231000.0,
+      "eps": 1.63,
+      "freeCashFlow": 29354717000.0,
+      "totalDebt": 43701418000.0,
+      "cash": 65319279000.0,
+      "sharesOutstanding": 10897881397.0,
+      "grossMargin": 0.1661106056558148,
+      "operatingMargin": 0.03711899111056561,
+      "netMargin": 0.048814192161640214,
+      "roe": 0.18238643491237178,
+      "roic": 0.09415635383204193
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:28.309544+00:00"
+  }
+}

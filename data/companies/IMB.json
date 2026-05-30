@@ -1,0 +1,128 @@
+{
+  "ticker": "IMB",
+  "name": "Imperial Brands PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 20814114816.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2696.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32171000000.0,
+    "operatingIncome": 3489000000.0,
+    "netIncome": 2071000000.0,
+    "eps": 2.493,
+    "freeCashFlow": 3166000000.0,
+    "totalDebt": 9996000000.0,
+    "cash": 1439000000.0,
+    "sharesOutstanding": 870248133.0
+  },
+  "ratios": {
+    "roe": 0.4293117744610282,
+    "roic": 0.2354251012145749,
+    "grossMargin": 0.21764943582729787,
+    "operatingMargin": 0.10845171116844363,
+    "netMargin": 0.0643747474433496,
+    "debtToEquity": 2.43803
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 32551000000.0,
+      "operatingIncome": 3354000000.0,
+      "netIncome": 1570000000.0,
+      "eps": 1.647,
+      "freeCashFlow": 3173000000.0,
+      "totalDebt": 10255000000.0,
+      "cash": 1850000000.0,
+      "sharesOutstanding": 1020697238.0,
+      "grossMargin": 0.18549353322478573,
+      "operatingMargin": 0.10303830911492734,
+      "netMargin": 0.04823200516113176,
+      "roe": 0.22886297376093295,
+      "roic": 0.19596844872918492
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 32475000000.0,
+      "operatingIncome": 3402000000.0,
+      "netIncome": 2328000000.0,
+      "eps": 2.508,
+      "freeCashFlow": 2946000000.0,
+      "totalDebt": 9730000000.0,
+      "cash": 1345000000.0,
+      "sharesOutstanding": 968590194.0,
+      "grossMargin": 0.20569668976135488,
+      "operatingMargin": 0.10475750577367206,
+      "netMargin": 0.07168591224018475,
+      "roe": 0.3866467364225212,
+      "roic": 0.21598628658497873
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 32411000000.0,
+      "operatingIncome": 3553000000.0,
+      "netIncome": 2613000000.0,
+      "eps": 2.99,
+      "freeCashFlow": 2894000000.0,
+      "totalDebt": 9083000000.0,
+      "cash": 1078000000.0,
+      "sharesOutstanding": 914502882.0,
+      "grossMargin": 0.20915738483848076,
+      "operatingMargin": 0.10962327604825522,
+      "netMargin": 0.0806207768967326,
+      "roe": 0.480154355016538,
+      "roic": 0.24461273666092942
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 32171000000.0,
+      "operatingIncome": 3489000000.0,
+      "netIncome": 2071000000.0,
+      "eps": 2.493,
+      "freeCashFlow": 3166000000.0,
+      "totalDebt": 9996000000.0,
+      "cash": 1439000000.0,
+      "sharesOutstanding": 870248133.0,
+      "grossMargin": 0.21764943582729787,
+      "operatingMargin": 0.10845171116844363,
+      "netMargin": 0.0643747474433496,
+      "roe": 0.4293117744610282,
+      "roic": 0.2354251012145749
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:42.387883+00:00"
+  }
+}

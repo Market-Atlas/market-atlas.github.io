@@ -1,0 +1,128 @@
+{
+  "ticker": "IHG",
+  "name": "InterContinental Hotels Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22891073536.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 154.15,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5189000000.0,
+    "operatingIncome": 1215000000.0,
+    "netIncome": 758000000.0,
+    "eps": 4.865,
+    "freeCashFlow": 821000000.0,
+    "totalDebt": 4607000000.0,
+    "cash": 1102000000.0,
+    "sharesOutstanding": 157126590.0
+  },
+  "ratios": {
+    "roe": -0.276541408245166,
+    "roic": 0.6511254019292605,
+    "grossMargin": 0.3125843129697437,
+    "operatingMargin": 0.23414916168818656,
+    "netMargin": 0.14607824243592216,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3892000000.0,
+      "operatingIncome": 687000000.0,
+      "netIncome": 375000000.0,
+      "eps": 2.06,
+      "freeCashFlow": 547000000.0,
+      "totalDebt": 2823000000.0,
+      "cash": 929000000.0,
+      "sharesOutstanding": 183112379.0,
+      "grossMargin": 0.2772353545734841,
+      "operatingMargin": 0.17651593011305242,
+      "netMargin": 0.09635149023638233,
+      "roe": -0.23219814241486067,
+      "roic": 0.5687086092715232
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4624000000.0,
+      "operatingIncome": 1034000000.0,
+      "netIncome": 750000000.0,
+      "eps": 4.412,
+      "freeCashFlow": 811000000.0,
+      "totalDebt": 3592000000.0,
+      "cash": 1266000000.0,
+      "sharesOutstanding": 172256766.0,
+      "grossMargin": 0.30666089965397925,
+      "operatingMargin": 0.2236159169550173,
+      "netMargin": 0.16219723183391002,
+      "roe": -0.38461538461538464,
+      "roic": 0.6297198538367844
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4923000000.0,
+      "operatingIncome": 1041000000.0,
+      "netIncome": 628000000.0,
+      "eps": 3.853,
+      "freeCashFlow": 646000000.0,
+      "totalDebt": 3688000000.0,
+      "cash": 986000000.0,
+      "sharesOutstanding": 164711854.0,
+      "grossMargin": 0.295551492992078,
+      "operatingMargin": 0.21145642900670322,
+      "netMargin": 0.12756449319520619,
+      "roe": -0.27162629757785467,
+      "roic": 0.7565406976744186
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5189000000.0,
+      "operatingIncome": 1215000000.0,
+      "netIncome": 758000000.0,
+      "eps": 4.865,
+      "freeCashFlow": 821000000.0,
+      "totalDebt": 4607000000.0,
+      "cash": 1102000000.0,
+      "sharesOutstanding": 157126590.0,
+      "grossMargin": 0.3125843129697437,
+      "operatingMargin": 0.23414916168818656,
+      "netMargin": 0.14607824243592216,
+      "roe": -0.276541408245166,
+      "roic": 0.6511254019292605
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:41.815014+00:00"
+  }
+}

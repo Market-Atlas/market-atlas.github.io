@@ -1,0 +1,128 @@
+{
+  "ticker": "BATS",
+  "name": "British American Tobacco p.l.c.",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 99255836672.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4591.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 25610000000.0,
+    "operatingIncome": 11659000000.0,
+    "netIncome": 7764000000.0,
+    "eps": 3.491,
+    "freeCashFlow": 5638000000.0,
+    "totalDebt": 35070000000.0,
+    "cash": 3492000000.0,
+    "sharesOutstanding": 2312454501.0
+  },
+  "ratios": {
+    "roe": 0.16199974961398822,
+    "roic": 0.14047664947708324,
+    "grossMargin": 0.8349863334634908,
+    "operatingMargin": 0.4552518547442405,
+    "netMargin": 0.303162827020695,
+    "debtToEquity": 0.72842
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27655000000.0,
+      "operatingIncome": 14279000000.0,
+      "netIncome": 6666000000.0,
+      "eps": 2.919,
+      "freeCashFlow": 9738000000.0,
+      "totalDebt": 43139000000.0,
+      "cash": 1711000000.0,
+      "sharesOutstanding": 2456867420.0,
+      "grossMargin": 0.835328150424878,
+      "operatingMargin": 0.5163261616344241,
+      "netMargin": 0.2410414030012656,
+      "roe": 0.0884460248381276,
+      "roic": 0.12049077269697149
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27283000000.0,
+      "operatingIncome": -8533000000.0,
+      "netIncome": -14367000000.0,
+      "eps": -6.466,
+      "freeCashFlow": 10113000000.0,
+      "totalDebt": 39730000000.0,
+      "cash": 2363000000.0,
+      "sharesOutstanding": 2456941909.0,
+      "grossMargin": 0.8298940732324158,
+      "operatingMargin": -0.3127588608290877,
+      "netMargin": -0.5265916504783198,
+      "roe": -0.27331354868165736,
+      "roic": -0.09245254398890526
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25867000000.0,
+      "operatingIncome": 10633000000.0,
+      "netIncome": 3068000000.0,
+      "eps": 1.36,
+      "freeCashFlow": 9517000000.0,
+      "totalDebt": 36950000000.0,
+      "cash": 2886000000.0,
+      "sharesOutstanding": 2342825304.0,
+      "grossMargin": 0.8285073645958171,
+      "operatingMargin": 0.41106429040862874,
+      "netMargin": 0.11860671898558009,
+      "roe": 0.06180126100356546,
+      "roic": 0.12279283544859285
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 25610000000.0,
+      "operatingIncome": 11659000000.0,
+      "netIncome": 7764000000.0,
+      "eps": 3.491,
+      "freeCashFlow": 5638000000.0,
+      "totalDebt": 35070000000.0,
+      "cash": 3492000000.0,
+      "sharesOutstanding": 2312454501.0,
+      "grossMargin": 0.8349863334634908,
+      "operatingMargin": 0.4552518547442405,
+      "netMargin": 0.303162827020695,
+      "roe": 0.16199974961398822,
+      "roic": 0.14047664947708324
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:25.779494+00:00"
+  }
+}

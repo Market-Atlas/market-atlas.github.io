@@ -1,0 +1,128 @@
+{
+  "ticker": "4661",
+  "name": "Oriental Land Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3763507822592.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2295.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 74.339645,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1639515507.0
+  },
+  "ratios": {
+    "roe": null,
+    "roic": null,
+    "grossMargin": 0.38743,
+    "operatingMargin": 0.15488,
+    "netMargin": 0.17299,
+    "debtToEquity": 0.297
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 275728000000.0,
+      "operatingIncome": 7733000000.0,
+      "netIncome": 8067000000.0,
+      "eps": null,
+      "freeCashFlow": -50599000000.0,
+      "totalDebt": 242647000000.0,
+      "cash": 199870000000.0,
+      "sharesOutstanding": 1818450800.0,
+      "grossMargin": 0.23844150757268032,
+      "operatingMargin": 0.028045755237045205,
+      "netMargin": 0.02925709394765856,
+      "roe": 0.010666176571697545,
+      "roic": 0.007741027445460943
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 483123000000.0,
+      "operatingIncome": 111200000000.0,
+      "netIncome": 80734000000.0,
+      "eps": 48.49,
+      "freeCashFlow": 74524000000.0,
+      "totalDebt": 240964000000.0,
+      "cash": 213234000000.0,
+      "sharesOutstanding": 1818450800.0,
+      "grossMargin": 0.38546705497357814,
+      "operatingMargin": 0.23016912877259,
+      "netMargin": 0.167108583114445,
+      "roe": 0.09730634008646613,
+      "roic": 0.10386184879694915
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 618493000000.0,
+      "operatingIncome": 165438000000.0,
+      "netIncome": 120225000000.0,
+      "eps": 72.12,
+      "freeCashFlow": 144981000000.0,
+      "totalDebt": 208953000000.0,
+      "cash": 285037000000.0,
+      "sharesOutstanding": 1818450800.0,
+      "grossMargin": 0.4034273629612623,
+      "operatingMargin": 0.26748564656350193,
+      "netMargin": 0.19438376828840423,
+      "roe": 0.12661087258033432,
+      "roic": 0.14280165314937385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 679374000000.0,
+      "operatingIncome": 172111000000.0,
+      "netIncome": 124160000000.0,
+      "eps": 75.62,
+      "freeCashFlow": 92691000000.0,
+      "totalDebt": 266667000000.0,
+      "cash": 323416000000.0,
+      "sharesOutstanding": 1800450800.0,
+      "grossMargin": 0.40212607488658675,
+      "operatingMargin": 0.25333763140773713,
+      "netMargin": 0.1827564787583864,
+      "roe": 0.12702998853087813,
+      "roic": 0.13834466438491602
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 74.339645,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:19.908302+00:00"
+  }
+}

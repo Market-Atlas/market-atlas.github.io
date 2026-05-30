@@ -1,0 +1,111 @@
+{
+  "ticker": "7267",
+  "name": "Honda Motor Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5653973172224.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1452.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 21688767000000.0,
+    "operatingIncome": 1213486000000.0,
+    "netIncome": 835837000000.0,
+    "eps": 178.93,
+    "freeCashFlow": -555283000000.0,
+    "totalDebt": 4422236000000.0,
+    "cash": 4528795000000.0,
+    "sharesOutstanding": 5280000000.0
+  },
+  "ratios": {
+    "roe": 0.06780797741197056,
+    "roic": 0.07245226737613192,
+    "grossMargin": 0.21504122387409114,
+    "operatingMargin": 0.05594997631723371,
+    "netMargin": 0.038537783175963854,
+    "debtToEquity": 1.13568
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 14552696000000.0,
+      "operatingIncome": 871232000000.0,
+      "netIncome": 707067000000.0,
+      "eps": 137.03,
+      "freeCashFlow": 1230396000000.0,
+      "totalDebt": 3068237000000.0,
+      "cash": 3674931000000.0,
+      "sharesOutstanding": 5434285290.0,
+      "grossMargin": 0.20510103420012346,
+      "operatingMargin": 0.05986739501739059,
+      "netMargin": 0.04858666737764604,
+      "roe": 0.06751445455399613,
+      "roic": 0.06434000998887754
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 16907725000000.0,
+      "operatingIncome": 780769000000.0,
+      "netIncome": 651416000000.0,
+      "eps": 136.623333,
+      "freeCashFlow": 1496534000000.0,
+      "totalDebt": 3249762000000.0,
+      "cash": 3803014000000.0,
+      "sharesOutstanding": 5434285290.0,
+      "grossMargin": 0.19704555166351476,
+      "operatingMargin": 0.04617824101113544,
+      "netMargin": 0.03852771440273603,
+      "roe": 0.05824404855041688,
+      "roic": 0.05409230642180428
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 20428802000000.0,
+      "operatingIncome": 1381977000000.0,
+      "netIncome": 1107174000000.0,
+      "eps": 225.88,
+      "freeCashFlow": 138613000000.0,
+      "totalDebt": 4026291000000.0,
+      "cash": 4954565000000.0,
+      "sharesOutstanding": 5280000000.0,
+      "grossMargin": 0.21597659030617655,
+      "operatingMargin": 0.06764846024744868,
+      "netMargin": 0.05419671696852316,
+      "roe": 0.08719968780014484,
+      "roic": 0.08263788587960524
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 21688767000000.0,
+      "operatingIncome": 1213486000000.0,
+      "netIncome": 835837000000.0,
+      "eps": 178.93,
+      "freeCashFlow": -555283000000.0,
+      "totalDebt": 4422236000000.0,
+      "cash": 4528795000000.0,
+      "sharesOutstanding": 5280000000.0,
+      "grossMargin": 0.21504122387409114,
+      "operatingMargin": 0.05594997631723371,
+      "netMargin": 0.038537783175963854,
+      "roe": 0.06780797741197056,
+      "roic": 0.07245226737613192
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:04.395733+00:00"
+  }
+}

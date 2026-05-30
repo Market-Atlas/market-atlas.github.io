@@ -1,0 +1,111 @@
+{
+  "ticker": "TTE",
+  "name": "TotalEnergies SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "marketCap": {
+    "value": 167116226560.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.18,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 182344000000.0,
+    "operatingIncome": 19925000000.0,
+    "netIncome": 13127000000.0,
+    "eps": 5.78,
+    "freeCashFlow": 10390000000.0,
+    "totalDebt": 60071000000.0,
+    "cash": 24152000000.0,
+    "sharesOutstanding": 2206585543.0
+  },
+  "ratios": {
+    "roe": 0.11426407736566768,
+    "roic": 0.11388707888930805,
+    "grossMargin": 0.2843361997104374,
+    "operatingMargin": 0.10927148686000088,
+    "netMargin": 0.07199030404071426,
+    "debtToEquity": 0.51304
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 263310000000.0,
+      "operatingIncome": 49693000000.0,
+      "netIncome": 20526000000.0,
+      "eps": 7.85,
+      "freeCashFlow": 31677000000.0,
+      "totalDebt": 57020000000.0,
+      "cash": 33026000000.0,
+      "sharesOutstanding": 2619131285.0,
+      "grossMargin": 0.308423531198967,
+      "operatingMargin": 0.18872431734457484,
+      "netMargin": 0.0779537427366982,
+      "roe": 0.18372059718592246,
+      "roic": 0.29448750770397764
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 218945000000.0,
+      "operatingIncome": 30857000000.0,
+      "netIncome": 21384000000.0,
+      "eps": 8.67,
+      "freeCashFlow": 22957000000.0,
+      "totalDebt": 47870000000.0,
+      "cash": 27263000000.0,
+      "sharesOutstanding": 2412251835.0,
+      "grossMargin": 0.2848797643243737,
+      "operatingMargin": 0.1409349379981274,
+      "netMargin": 0.09766836420105506,
+      "roe": 0.18315589321045284,
+      "roic": 0.18744039411260882
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 195610000000.0,
+      "operatingIncome": 24105000000.0,
+      "netIncome": 15758000000.0,
+      "eps": 6.69,
+      "freeCashFlow": 15945000000.0,
+      "totalDebt": 51244000000.0,
+      "cash": 25844000000.0,
+      "sharesOutstanding": 2397679661.0,
+      "grossMargin": 0.28389141659424366,
+      "operatingMargin": 0.12322989622207453,
+      "netMargin": 0.08055825366801288,
+      "roe": 0.13370327003682397,
+      "roic": 0.1425471017492401
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 182344000000.0,
+      "operatingIncome": 19925000000.0,
+      "netIncome": 13127000000.0,
+      "eps": 5.78,
+      "freeCashFlow": 10390000000.0,
+      "totalDebt": 60071000000.0,
+      "cash": 24152000000.0,
+      "sharesOutstanding": 2206585543.0,
+      "grossMargin": 0.2843361997104374,
+      "operatingMargin": 0.10927148686000088,
+      "netMargin": 0.07199030404071426,
+      "roe": 0.11426407736566768,
+      "roic": 0.11388707888930805
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:28.432017+00:00"
+  }
+}

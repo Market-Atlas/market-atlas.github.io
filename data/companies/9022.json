@@ -1,0 +1,111 @@
+{
+  "ticker": "9022",
+  "name": "Central Japan Railway Company",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3323333181440.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3479.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1831847000000.0,
+    "operatingIncome": 702795000000.0,
+    "netIncome": 458423000000.0,
+    "eps": 465.88,
+    "freeCashFlow": 159638000000.0,
+    "totalDebt": 4308098000000.0,
+    "cash": 259468000000.0,
+    "sharesOutstanding": 1030000000.0
+  },
+  "ratios": {
+    "roe": 0.09964560635787063,
+    "roic": 0.07888921666087453,
+    "grossMargin": 0.49291671193063613,
+    "operatingMargin": 0.38365376584398153,
+    "netMargin": 0.250251795046202,
+    "debtToEquity": 0.93562
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 935139000000.0,
+      "operatingIncome": 1709000000.0,
+      "netIncome": -51928000000.0,
+      "eps": -52.774,
+      "freeCashFlow": -412887000000.0,
+      "totalDebt": 4445911000000.0,
+      "cash": 331651000000.0,
+      "sharesOutstanding": 1030000000.0,
+      "grossMargin": 0.17276148251757226,
+      "operatingMargin": 0.0018275357994907708,
+      "netMargin": -0.055529712695118055,
+      "roe": -0.014569831123177193,
+      "roic": 0.00021335862176073174
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1400285000000.0,
+      "operatingIncome": 374504000000.0,
+      "netIncome": 219417000000.0,
+      "eps": 222.99,
+      "freeCashFlow": 32639000000.0,
+      "totalDebt": 4457226000000.0,
+      "cash": 674640000000.0,
+      "sharesOutstanding": 1030000000.0,
+      "grossMargin": 0.3945182587830334,
+      "operatingMargin": 0.2674484122874986,
+      "netMargin": 0.15669453004209857,
+      "roe": 0.05836716540036933,
+      "roic": 0.045579615601814887
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1710407000000.0,
+      "operatingIncome": 607382000000.0,
+      "netIncome": 384411000000.0,
+      "eps": 390.66,
+      "freeCashFlow": 269303000000.0,
+      "totalDebt": 4365225000000.0,
+      "cash": 740983000000.0,
+      "sharesOutstanding": 1030000000.0,
+      "grossMargin": 0.46661467124491424,
+      "operatingMargin": 0.35510963180108596,
+      "netMargin": 0.22474826167105255,
+      "roe": 0.09219243108369293,
+      "roic": 0.07116464617445299
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1831847000000.0,
+      "operatingIncome": 702795000000.0,
+      "netIncome": 458423000000.0,
+      "eps": 465.88,
+      "freeCashFlow": 159638000000.0,
+      "totalDebt": 4308098000000.0,
+      "cash": 259468000000.0,
+      "sharesOutstanding": 1030000000.0,
+      "grossMargin": 0.49291671193063613,
+      "operatingMargin": 0.38365376584398153,
+      "netMargin": 0.250251795046202,
+      "roe": 0.09964560635787063,
+      "roic": 0.07888921666087453
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:17.357632+00:00"
+  }
+}

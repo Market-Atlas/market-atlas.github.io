@@ -1,0 +1,128 @@
+{
+  "ticker": "CCH",
+  "name": "Coca-Cola HBC AG",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 15540767744.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4264.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11604500000.0,
+    "operatingIncome": 1342500000.0,
+    "netIncome": 940400000.0,
+    "eps": 2.59,
+    "freeCashFlow": 760900000.0,
+    "totalDebt": 3913000000.0,
+    "cash": 2541700000.0,
+    "sharesOutstanding": 373239562.0
+  },
+  "ratios": {
+    "roe": 0.2446028195390938,
+    "roic": 0.17305609982468806,
+    "grossMargin": 0.3677797406178638,
+    "operatingMargin": 0.1156878797018398,
+    "netMargin": 0.081037528544961,
+    "debtToEquity": 0.99274
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9198400000.0,
+      "operatingIncome": 881200000.0,
+      "netIncome": 415400000.0,
+      "eps": 1.13,
+      "freeCashFlow": 711200000.0,
+      "totalDebt": 3419900000.0,
+      "cash": 719900000.0,
+      "sharesOutstanding": 372086095.0,
+      "grossMargin": 0.34182031657679596,
+      "operatingMargin": 0.09579926943816316,
+      "netMargin": 0.04516002783092712,
+      "roe": 0.12655759680711695,
+      "roic": 0.13147921577989316
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10184000000.0,
+      "operatingIncome": 959200000.0,
+      "netIncome": 636500000.0,
+      "eps": 1.73,
+      "freeCashFlow": 776000000.0,
+      "totalDebt": 3424500000.0,
+      "cash": 1260600000.0,
+      "sharesOutstanding": 372977222.0,
+      "grossMargin": 0.34931264728986644,
+      "operatingMargin": 0.09418695993715633,
+      "netMargin": 0.0625,
+      "roe": 0.20580056906363167,
+      "roic": 0.14717751215994354
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10754400000.0,
+      "operatingIncome": 1177000000.0,
+      "netIncome": 820600000.0,
+      "eps": 2.25,
+      "freeCashFlow": 776500000.0,
+      "totalDebt": 3980600000.0,
+      "cash": 1548100000.0,
+      "sharesOutstanding": 373239562.0,
+      "grossMargin": 0.3605501004240125,
+      "operatingMargin": 0.10944357658260805,
+      "netMargin": 0.0763036524585286,
+      "roe": 0.2559815328945316,
+      "roic": 0.16378386652380222
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11604500000.0,
+      "operatingIncome": 1342500000.0,
+      "netIncome": 940400000.0,
+      "eps": 2.59,
+      "freeCashFlow": 760900000.0,
+      "totalDebt": 3913000000.0,
+      "cash": 2541700000.0,
+      "sharesOutstanding": 373239562.0,
+      "grossMargin": 0.3677797406178638,
+      "operatingMargin": 0.1156878797018398,
+      "netMargin": 0.081037528544961,
+      "roe": 0.2446028195390938,
+      "roic": 0.17305609982468806
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:30.647692+00:00"
+  }
+}

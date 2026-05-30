@@ -1,0 +1,128 @@
+{
+  "ticker": "LAND",
+  "name": "Land Securities Group Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Real Estate",
+  "industry": "REIT - Diversified",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4686314496.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 629.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 0.459,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 745042061.0
+  },
+  "ratios": {
+    "roe": 0.05264,
+    "roic": null,
+    "grossMargin": 0.58184,
+    "operatingMargin": 0.47072,
+    "netMargin": 0.38452998,
+    "debtToEquity": 0.69027
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 679000000.0,
+      "operatingIncome": 391000000.0,
+      "netIncome": 869000000.0,
+      "eps": null,
+      "freeCashFlow": 339000000.0,
+      "totalDebt": 4553000000.0,
+      "cash": 146000000.0,
+      "sharesOutstanding": 751328142.0,
+      "grossMargin": 0.6818851251840943,
+      "operatingMargin": 0.5758468335787923,
+      "netMargin": 1.279823269513991,
+      "roe": 0.10976379941897184,
+      "roic": 0.03135525260625501
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 791000000.0,
+      "operatingIncome": 433000000.0,
+      "netIncome": -619000000.0,
+      "eps": -0.836,
+      "freeCashFlow": 240000000.0,
+      "totalDebt": 3538000000.0,
+      "cash": 41000000.0,
+      "sharesOutstanding": 748331276.0,
+      "grossMargin": 0.6561314791403287,
+      "operatingMargin": 0.5474083438685209,
+      "netMargin": -0.7825537294563844,
+      "roe": -0.08836545324768023,
+      "roic": 0.041069904201840084
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 824000000.0,
+      "operatingIncome": 426000000.0,
+      "netIncome": -319000000.0,
+      "eps": -0.43,
+      "freeCashFlow": 212000000.0,
+      "totalDebt": 3780000000.0,
+      "cash": 78000000.0,
+      "sharesOutstanding": 751676657.0,
+      "grossMargin": 0.6067961165048543,
+      "operatingMargin": 0.5169902912621359,
+      "netMargin": -0.3871359223300971,
+      "roe": -0.04982817869415808,
+      "roic": 0.041838538597525045
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 832000000.0,
+      "operatingIncome": 438000000.0,
+      "netIncome": 396000000.0,
+      "eps": 0.53,
+      "freeCashFlow": 93000000.0,
+      "totalDebt": 4554000000.0,
+      "cash": 39000000.0,
+      "sharesOutstanding": 751732064.0,
+      "grossMargin": 0.6129807692307693,
+      "operatingMargin": 0.5264423076923077,
+      "netMargin": 0.47596153846153844,
+      "roe": 0.06079214000614062,
+      "roic": 0.039573545355981204
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.459,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:43.701039+00:00"
+  }
+}

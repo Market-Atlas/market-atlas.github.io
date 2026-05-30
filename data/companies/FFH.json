@@ -1,0 +1,128 @@
+{
+  "ticker": "FFH",
+  "name": "Fairfax Financial Holdings Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 44252983296.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2145.7,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30405400000.0,
+    "operatingIncome": null,
+    "netIncome": 4772400000.0,
+    "eps": 213.78,
+    "freeCashFlow": 1833200000.0,
+    "totalDebt": 14833900000.0,
+    "cash": 6138300000.0,
+    "sharesOutstanding": 23428169.0
+  },
+  "ratios": {
+    "roe": 0.17999343750353583,
+    "roic": null,
+    "grossMargin": 0.42960998,
+    "operatingMargin": 0.14423001,
+    "netMargin": 0.15695896123714867,
+    "debtToEquity": 0.45824
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19582600000.0,
+      "operatingIncome": null,
+      "netIncome": 3374200000.0,
+      "eps": 43.49,
+      "freeCashFlow": -4838800000.0,
+      "totalDebt": 9718900000.0,
+      "cash": 6079000000.0,
+      "sharesOutstanding": 26146380.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17230602677887513,
+      "roe": 0.17651366932066667,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25803100000.0,
+      "operatingIncome": null,
+      "netIncome": 4381800000.0,
+      "eps": 173.24,
+      "freeCashFlow": -553500000.0,
+      "totalDebt": 10798700000.0,
+      "cash": 5118900000.0,
+      "sharesOutstanding": 25781657.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16981680495754387,
+      "roe": 0.19092394501209123,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 26964200000.0,
+      "operatingIncome": null,
+      "netIncome": 3874900000.0,
+      "eps": 160.56,
+      "freeCashFlow": 3585100000.0,
+      "totalDebt": 13058500000.0,
+      "cash": 6011400000.0,
+      "sharesOutstanding": 24434704.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.14370535747398402,
+      "roe": 0.16099800565065647,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 30405400000.0,
+      "operatingIncome": null,
+      "netIncome": 4772400000.0,
+      "eps": 213.78,
+      "freeCashFlow": 1833200000.0,
+      "totalDebt": 14833900000.0,
+      "cash": 6138300000.0,
+      "sharesOutstanding": 23428169.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15695896123714867,
+      "roe": 0.17999343750353583,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:04.795462+00:00"
+  }
+}

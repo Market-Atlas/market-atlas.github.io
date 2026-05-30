@@ -1,0 +1,128 @@
+{
+  "ticker": "9618",
+  "name": "JD.com, Inc.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 310041280512.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 113.5,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1309085000000.0,
+    "operatingIncome": 3690000000.0,
+    "netIncome": 19631000000.0,
+    "eps": 6.45,
+    "freeCashFlow": 4807000000.0,
+    "totalDebt": 107105000000.0,
+    "cash": 137488000000.0,
+    "sharesOutstanding": 2812018499.0
+  },
+  "ratios": {
+    "roe": 0.08723338073231425,
+    "roic": 0.011109605744479068,
+    "grossMargin": 0.16043877975838086,
+    "operatingMargin": 0.002818762723581738,
+    "netMargin": 0.01499597046792225,
+    "debtToEquity": 0.38478
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1046236000000.0,
+      "operatingIncome": 18344000000.0,
+      "netIncome": 10380000000.0,
+      "eps": 3.21,
+      "freeCashFlow": 34906000000.0,
+      "totalDebt": 65045000000.0,
+      "cash": 78861000000.0,
+      "sharesOutstanding": 3172518819.0,
+      "grossMargin": 0.1405734461440822,
+      "operatingMargin": 0.017533329000340266,
+      "netMargin": 0.009921279711269732,
+      "roe": 0.0486488006524001,
+      "roic": 0.06588820125641587
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1084662000000.0,
+      "operatingIncome": 28910000000.0,
+      "netIncome": 24167000000.0,
+      "eps": 7.61,
+      "freeCashFlow": 39506000000.0,
+      "totalDebt": 68431000000.0,
+      "cash": 71892000000.0,
+      "sharesOutstanding": 3176907585.0,
+      "grossMargin": 0.14723849457250276,
+      "operatingMargin": 0.02665346439720392,
+      "netMargin": 0.02228067361076538,
+      "roe": 0.10423190055982541,
+      "roic": 0.0962739227877145
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1158819000000.0,
+      "operatingIncome": 39570000000.0,
+      "netIncome": 41359000000.0,
+      "eps": 13.43,
+      "freeCashFlow": 44276000000.0,
+      "totalDebt": 89768000000.0,
+      "cash": 108350000000.0,
+      "sharesOutstanding": 3181206639.0,
+      "grossMargin": 0.15866843743500927,
+      "operatingMargin": 0.03414683397493483,
+      "netMargin": 0.0356906471157273,
+      "roe": 0.17279932482964064,
+      "roic": 0.12023153001230573
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1309085000000.0,
+      "operatingIncome": 3690000000.0,
+      "netIncome": 19631000000.0,
+      "eps": 6.45,
+      "freeCashFlow": 4807000000.0,
+      "totalDebt": 107105000000.0,
+      "cash": 137488000000.0,
+      "sharesOutstanding": 2812018499.0,
+      "grossMargin": 0.16043877975838086,
+      "operatingMargin": 0.002818762723581738,
+      "netMargin": 0.01499597046792225,
+      "roe": 0.08723338073231425,
+      "roic": 0.011109605744479068
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:41.663100+00:00"
+  }
+}

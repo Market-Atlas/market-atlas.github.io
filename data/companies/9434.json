@@ -1,0 +1,128 @@
+{
+  "ticker": "9434",
+  "name": "SoftBank Corp.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 10291613007872.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 215.3,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 11.27,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 47801264883.0
+  },
+  "ratios": {
+    "roe": 0.16267,
+    "roic": null,
+    "grossMargin": 0.48077,
+    "operatingMargin": 0.08928,
+    "netMargin": 0.07825,
+    "debtToEquity": 1.38902
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5690606000000.0,
+      "operatingIncome": 965553000000.0,
+      "netIncome": 517075000000.0,
+      "eps": null,
+      "freeCashFlow": 506826000000.0,
+      "totalDebt": 5999525000000.0,
+      "cash": 1546792000000.0,
+      "sharesOutstanding": 47871451700.0,
+      "grossMargin": 0.49230081998296843,
+      "operatingMargin": 0.16967489929894988,
+      "netMargin": 0.09086466362281978,
+      "roe": 0.2637302160896981,
+      "roic": 0.12129840332074311
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5911999000000.0,
+      "operatingIncome": 1060168000000.0,
+      "netIncome": 531366000000.0,
+      "eps": 11.1,
+      "freeCashFlow": 546528000000.0,
+      "totalDebt": 6134501000000.0,
+      "cash": 2059167000000.0,
+      "sharesOutstanding": 47871451700.0,
+      "grossMargin": 0.45972842688234555,
+      "operatingMargin": 0.17932479352584466,
+      "netMargin": 0.08987924389026453,
+      "roe": 0.23882208324250712,
+      "roic": 0.1268227583502543
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 6084002000000.0,
+      "operatingIncome": 876068000000.0,
+      "netIncome": 489074000000.0,
+      "eps": 10.12,
+      "freeCashFlow": 685615000000.0,
+      "totalDebt": 6320887000000.0,
+      "cash": 1992873000000.0,
+      "sharesOutstanding": 47562007700.0,
+      "grossMargin": 0.48214136024281384,
+      "operatingMargin": 0.1439953504288789,
+      "netMargin": 0.08038689007663048,
+      "roe": 0.2057462241394252,
+      "roic": 0.10072107704322887
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 6544349000000.0,
+      "operatingIncome": 989016000000.0,
+      "netIncome": 526133000000.0,
+      "eps": 10.84,
+      "freeCashFlow": 621214000000.0,
+      "totalDebt": 5962152000000.0,
+      "cash": 1435525000000.0,
+      "sharesOutstanding": 47751490700.0,
+      "grossMargin": 0.4828950900998709,
+      "operatingMargin": 0.15112519213140987,
+      "netMargin": 0.0803950094959789,
+      "roe": 0.19176528905136625,
+      "roic": 0.11360449871131623
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 11.27,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:05.692252+00:00"
+  }
+}

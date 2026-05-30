@@ -1,0 +1,128 @@
+{
+  "ticker": "DTG",
+  "name": "Daimler Truck Holding AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 32216803328.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.15,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 45530000000.0,
+    "operatingIncome": 2755000000.0,
+    "netIncome": 1970000000.0,
+    "eps": 2.56,
+    "freeCashFlow": 2861000000.0,
+    "totalDebt": 27652000000.0,
+    "cash": 8550000000.0,
+    "sharesOutstanding": 765600399.0
+  },
+  "ratios": {
+    "roe": 0.0914068299925761,
+    "roic": 0.055991382814405334,
+    "grossMargin": 0.18974302657588404,
+    "operatingMargin": 0.06050955414012739,
+    "netMargin": 0.04326817482978256,
+    "debtToEquity": 1.3329
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50945000000.0,
+      "operatingIncome": 3407000000.0,
+      "netIncome": 2665000000.0,
+      "eps": 3.24,
+      "freeCashFlow": -1655000000.0,
+      "totalDebt": 18583000000.0,
+      "cash": 5944000000.0,
+      "sharesOutstanding": 822951882.0,
+      "grossMargin": 0.1851408381587987,
+      "operatingMargin": 0.06687604279124545,
+      "netMargin": 0.05231131612523309,
+      "roe": 0.13290444843407143,
+      "roic": 0.08818428885725378
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 55890000000.0,
+      "operatingIncome": 5396000000.0,
+      "netIncome": 3775000000.0,
+      "eps": 4.62,
+      "freeCashFlow": -920000000.0,
+      "totalDebt": 22714000000.0,
+      "cash": 7067000000.0,
+      "sharesOutstanding": 822951882.0,
+      "grossMargin": 0.2133118625872249,
+      "operatingMargin": 0.09654678833422795,
+      "netMargin": 0.06754338879942745,
+      "roe": 0.17472807220550798,
+      "roic": 0.1217536496762111
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 50173000000.0,
+      "operatingIncome": 3949000000.0,
+      "netIncome": 2900000000.0,
+      "eps": 3.64,
+      "freeCashFlow": -321000000.0,
+      "totalDebt": 26376000000.0,
+      "cash": 6553000000.0,
+      "sharesOutstanding": 791868289.0,
+      "grossMargin": 0.20038666214896458,
+      "operatingMargin": 0.07870767145675961,
+      "netMargin": 0.057800011958623165,
+      "roe": 0.13060121594235533,
+      "roic": 0.08128692287108129
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 45530000000.0,
+      "operatingIncome": 2755000000.0,
+      "netIncome": 1970000000.0,
+      "eps": 2.56,
+      "freeCashFlow": 2861000000.0,
+      "totalDebt": 27652000000.0,
+      "cash": 8550000000.0,
+      "sharesOutstanding": 765600399.0,
+      "grossMargin": 0.18974302657588404,
+      "operatingMargin": 0.06050955414012739,
+      "netMargin": 0.04326817482978256,
+      "roe": 0.0914068299925761,
+      "roic": 0.055991382814405334
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:17.380934+00:00"
+  }
+}

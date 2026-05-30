@@ -1,0 +1,128 @@
+{
+  "ticker": "SAF",
+  "name": "Safran SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 127001657344.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 305.7,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31189000000.0,
+    "operatingIncome": 4592000000.0,
+    "netIncome": 7177000000.0,
+    "eps": null,
+    "freeCashFlow": 3921000000.0,
+    "totalDebt": 5325000000.0,
+    "cash": 6789000000.0,
+    "sharesOutstanding": 418344626.0
+  },
+  "ratios": {
+    "roe": 0.483657928431835,
+    "roic": 0.2277325927395358,
+    "grossMargin": 0.4692038859854436,
+    "operatingMargin": 0.1472313956843759,
+    "netMargin": 0.23011318092917374,
+    "debtToEquity": 0.34448
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.1,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 19523000000.0,
+      "operatingIncome": 2715000000.0,
+      "netIncome": -2459000000.0,
+      "eps": -5.76,
+      "freeCashFlow": 2666000000.0,
+      "totalDebt": 6949000000.0,
+      "cash": 6687000000.0,
+      "sharesOutstanding": 427245970.0,
+      "grossMargin": 0.4803565025866926,
+      "operatingMargin": 0.13906674179173284,
+      "netMargin": -0.12595400297085488,
+      "roe": -0.23619248871386034,
+      "roic": 0.15639400921658986
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23651000000.0,
+      "operatingIncome": 3174000000.0,
+      "netIncome": 3444000000.0,
+      "eps": 4.7,
+      "freeCashFlow": 2945000000.0,
+      "totalDebt": 6582000000.0,
+      "cash": 6676000000.0,
+      "sharesOutstanding": 427260541.0,
+      "grossMargin": 0.4675912223584626,
+      "operatingMargin": 0.13420151367806857,
+      "netMargin": 0.14561752145786647,
+      "roe": 0.29748639543923294,
+      "roic": 0.17478936064761275
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27716000000.0,
+      "operatingIncome": 3990000000.0,
+      "netIncome": -667000000.0,
+      "eps": -1.6,
+      "freeCashFlow": 3189000000.0,
+      "totalDebt": 5058000000.0,
+      "cash": 6514000000.0,
+      "sharesOutstanding": 423632587.0,
+      "grossMargin": 0.4788208976764324,
+      "operatingMargin": 0.143960167412325,
+      "netMargin": -0.02406552172030596,
+      "roe": -0.06554638364779874,
+      "roic": 0.26191413942497044
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 31189000000.0,
+      "operatingIncome": 4592000000.0,
+      "netIncome": 7177000000.0,
+      "eps": null,
+      "freeCashFlow": 3921000000.0,
+      "totalDebt": 5325000000.0,
+      "cash": 6789000000.0,
+      "sharesOutstanding": 418344626.0,
+      "grossMargin": 0.4692038859854436,
+      "operatingMargin": 0.1472313956843759,
+      "netMargin": 0.23011318092917374,
+      "roe": 0.483657928431835,
+      "roic": 0.2277325927395358
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:25.824040+00:00"
+  }
+}

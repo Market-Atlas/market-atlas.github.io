@@ -1,0 +1,111 @@
+{
+  "ticker": "8630",
+  "name": "Sompo Holdings, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5315984097280.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5958.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5253145000000.0,
+    "operatingIncome": null,
+    "netIncome": 243132000000.0,
+    "eps": 250.9,
+    "freeCashFlow": 515227000000.0,
+    "totalDebt": 691201000000.0,
+    "cash": 1027628000000.0,
+    "sharesOutstanding": 990482067.0
+  },
+  "ratios": {
+    "roe": 0.05781711223104967,
+    "roic": null,
+    "grossMargin": 0.16320999,
+    "operatingMargin": 0.11921,
+    "netMargin": 0.04628313134322392,
+    "debtToEquity": 0.14138
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 4130111000000.0,
+      "operatingIncome": null,
+      "netIncome": 224842000000.0,
+      "eps": 214.62,
+      "freeCashFlow": 578524000000.0,
+      "totalDebt": 539742000000.0,
+      "cash": 1170892000000.0,
+      "sharesOutstanding": 1043096067.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05443969907830564,
+      "roe": 0.1108380661581622,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4338581000000.0,
+      "operatingIncome": null,
+      "netIncome": 26413000000.0,
+      "eps": 26.13,
+      "freeCashFlow": 356857000000.0,
+      "totalDebt": 614424000000.0,
+      "cash": 1278088000000.0,
+      "sharesOutstanding": 1043096067.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.006087935202777129,
+      "roe": 0.008900365308220597,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 5352776000000.0,
+      "operatingIncome": null,
+      "netIncome": 529655000000.0,
+      "eps": 534.28,
+      "freeCashFlow": 542094000000.0,
+      "totalDebt": 691738000000.0,
+      "cash": 1216739000000.0,
+      "sharesOutstanding": 990482067.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09894959176322715,
+      "roe": 0.12894449827393967,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 5253145000000.0,
+      "operatingIncome": null,
+      "netIncome": 243132000000.0,
+      "eps": 250.9,
+      "freeCashFlow": 515227000000.0,
+      "totalDebt": 691201000000.0,
+      "cash": 1027628000000.0,
+      "sharesOutstanding": 990482067.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04628313134322392,
+      "roe": 0.05781711223104967,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:15.863502+00:00"
+  }
+}

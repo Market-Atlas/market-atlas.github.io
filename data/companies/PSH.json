@@ -1,0 +1,128 @@
+{
+  "ticker": "PSH",
+  "name": "Pershing Square Holdings, Ltd.",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7212063744.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4120.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2574533458.0,
+    "operatingIncome": null,
+    "netIncome": 2525375901.0,
+    "eps": 14.08,
+    "freeCashFlow": null,
+    "totalDebt": 3669110397.0,
+    "cash": 1141502364.0,
+    "sharesOutstanding": 210956751.0
+  },
+  "ratios": {
+    "roe": 0.16780567632744875,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.75086,
+    "netMargin": 0.980906227166227,
+    "debtToEquity": 0.2438
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -1182853477.0,
+      "operatingIncome": null,
+      "netIncome": -1172083602.0,
+      "eps": -5.96,
+      "freeCashFlow": null,
+      "totalDebt": 2332567827.0,
+      "cash": 1147443227.0,
+      "sharesOutstanding": 210956750.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.9908950049947733,
+      "roe": -0.11863273935823197,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2570527155.0,
+      "operatingIncome": null,
+      "netIncome": 2486054201.0,
+      "eps": 13.17,
+      "freeCashFlow": null,
+      "totalDebt": 2351915264.0,
+      "cash": 1928920630.0,
+      "sharesOutstanding": 210956750.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.9671378869366584,
+      "roe": 0.2060959289675449,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1204848725.0,
+      "operatingIncome": null,
+      "netIncome": 1173695918.0,
+      "eps": 6.38,
+      "freeCashFlow": null,
+      "totalDebt": 2320801301.0,
+      "cash": 436520113.0,
+      "sharesOutstanding": 210956751.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.9741438021607235,
+      "roe": 0.0902063763288656,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2574533458.0,
+      "operatingIncome": null,
+      "netIncome": 2525375901.0,
+      "eps": 14.08,
+      "freeCashFlow": null,
+      "totalDebt": 3669110397.0,
+      "cash": 1141502364.0,
+      "sharesOutstanding": 210956751.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.980906227166227,
+      "roe": 0.16780567632744875,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:49.231656+00:00"
+  }
+}

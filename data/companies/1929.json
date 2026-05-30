@@ -1,0 +1,111 @@
+{
+  "ticker": "1929",
+  "name": "Chow Tai Fook Jewellery Group Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 108415737856.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 10.99,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 89656000000.0,
+    "operatingIncome": 14115800000.0,
+    "netIncome": 5915500000.0,
+    "eps": 0.592,
+    "freeCashFlow": 9676600000.0,
+    "totalDebt": 20789100000.0,
+    "cash": 7582400000.0,
+    "sharesOutstanding": 9987736800.0
+  },
+  "ratios": {
+    "roe": 0.22385659252083223,
+    "roic": 0.29897171419796886,
+    "grossMargin": 0.2950700455072722,
+    "operatingMargin": 0.157444008209155,
+    "netMargin": 0.06597996787721959,
+    "debtToEquity": 1.25268
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 98937700000.0,
+      "operatingIncome": 8592100000.0,
+      "netIncome": 6712300000.0,
+      "eps": 0.671,
+      "freeCashFlow": 12407500000.0,
+      "totalDebt": 25979600000.0,
+      "cash": 14942200000.0,
+      "sharesOutstanding": 10000000000.0,
+      "grossMargin": 0.22579562694503713,
+      "operatingMargin": 0.08684353891388218,
+      "netMargin": 0.06784370366402291,
+      "roe": 0.1996561498900929,
+      "roic": 0.14416541244888748
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 94684400000.0,
+      "operatingIncome": 7563000000.0,
+      "netIncome": 5384400000.0,
+      "eps": 4.092,
+      "freeCashFlow": 8084300000.0,
+      "totalDebt": 22106200000.0,
+      "cash": 11695000000.0,
+      "sharesOutstanding": 10000000000.0,
+      "grossMargin": 0.223600719865152,
+      "operatingMargin": 0.07987588240512693,
+      "netMargin": 0.056866812273193894,
+      "roe": 0.1661985221036256,
+      "roic": 0.13876147630615226
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 108713000000.0,
+      "operatingIncome": 12923400000.0,
+      "netIncome": 6499300000.0,
+      "eps": 0.65,
+      "freeCashFlow": 12872400000.0,
+      "totalDebt": 29890900000.0,
+      "cash": 7695400000.0,
+      "sharesOutstanding": 9987736800.0,
+      "grossMargin": 0.23955184752513498,
+      "operatingMargin": 0.11887630734134833,
+      "netMargin": 0.05978401847065208,
+      "roe": 0.2527435349018083,
+      "roic": 0.23241058952377355
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 89656000000.0,
+      "operatingIncome": 14115800000.0,
+      "netIncome": 5915500000.0,
+      "eps": 0.592,
+      "freeCashFlow": 9676600000.0,
+      "totalDebt": 20789100000.0,
+      "cash": 7582400000.0,
+      "sharesOutstanding": 9987736800.0,
+      "grossMargin": 0.2950700455072722,
+      "operatingMargin": 0.157444008209155,
+      "netMargin": 0.06597996787721959,
+      "roe": 0.22385659252083223,
+      "roic": 0.29897171419796886
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:35.998271+00:00"
+  }
+}

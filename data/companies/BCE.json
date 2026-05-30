@@ -1,0 +1,128 @@
+{
+  "ticker": "BCE",
+  "name": "BCE Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 32433246208.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 34.78,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 24468000000.0,
+    "operatingIncome": 5420000000.0,
+    "netIncome": 6460000000.0,
+    "eps": 6.79,
+    "freeCashFlow": 3290000000.0,
+    "totalDebt": 41059000000.0,
+    "cash": 320000000.0,
+    "sharesOutstanding": 932525817.0
+  },
+  "ratios": {
+    "roe": 0.28062554300608167,
+    "roic": 0.08458309274489302,
+    "grossMargin": 0.6844858590812489,
+    "operatingMargin": 0.22151381396109204,
+    "netMargin": 0.26401830962890305,
+    "debtToEquity": 1.81626
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24174000000.0,
+      "operatingIncome": 5476000000.0,
+      "netIncome": 2868000000.0,
+      "eps": 2.98,
+      "freeCashFlow": 3229000000.0,
+      "totalDebt": 31920000000.0,
+      "cash": 149000000.0,
+      "sharesOutstanding": 911982866.0,
+      "grossMargin": 0.6839166046165301,
+      "operatingMargin": 0.2265243650202697,
+      "netMargin": 0.11863986100769422,
+      "roe": 0.1293173415096041,
+      "roic": 0.10122370512773116
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24673000000.0,
+      "operatingIncome": 5499000000.0,
+      "netIncome": 2263000000.0,
+      "eps": 2.28,
+      "freeCashFlow": 3182000000.0,
+      "totalDebt": 36177000000.0,
+      "cash": 772000000.0,
+      "sharesOutstanding": 912274545.0,
+      "grossMargin": 0.6787581566894987,
+      "operatingMargin": 0.22287520771693756,
+      "netMargin": 0.09171969359218579,
+      "roe": 0.11186909881852786,
+      "roic": 0.09748962876289756
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24409000000.0,
+      "operatingIncome": 5548000000.0,
+      "netIncome": 344000000.0,
+      "eps": 0.18,
+      "freeCashFlow": 2560000000.0,
+      "totalDebt": 40504000000.0,
+      "cash": 1572000000.0,
+      "sharesOutstanding": 912283103.0,
+      "grossMargin": 0.6843377442746528,
+      "operatingMargin": 0.22729321152034085,
+      "netMargin": 0.014093162358146585,
+      "roe": 0.020151133501259445,
+      "roic": 0.09636126791141988
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 24468000000.0,
+      "operatingIncome": 5420000000.0,
+      "netIncome": 6460000000.0,
+      "eps": 6.79,
+      "freeCashFlow": 3290000000.0,
+      "totalDebt": 41059000000.0,
+      "cash": 320000000.0,
+      "sharesOutstanding": 932525817.0,
+      "grossMargin": 0.6844858590812489,
+      "operatingMargin": 0.22151381396109204,
+      "netMargin": 0.26401830962890305,
+      "roe": 0.28062554300608167,
+      "roic": 0.08458309274489302
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:01.744845+00:00"
+  }
+}

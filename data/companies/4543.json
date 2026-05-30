@@ -1,0 +1,111 @@
+{
+  "ticker": "4543",
+  "name": "Terumo Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3541674229760.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2401.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1036171000000.0,
+    "operatingIncome": 157670000000.0,
+    "netIncome": 116978000000.0,
+    "eps": 78.99,
+    "freeCashFlow": 128437000000.0,
+    "totalDebt": 174838000000.0,
+    "cash": 221872000000.0,
+    "sharesOutstanding": 1480559680.0
+  },
+  "ratios": {
+    "roe": 0.08547680548908139,
+    "roic": 0.10215936134686819,
+    "grossMargin": 0.5410979461884187,
+    "operatingMargin": 0.1521660034878413,
+    "netMargin": 0.11289449328344453,
+    "debtToEquity": 0.27013000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 703303000000.0,
+      "operatingIncome": 115960000000.0,
+      "netIncome": 88813000000.0,
+      "eps": 58.69,
+      "freeCashFlow": 67362000000.0,
+      "totalDebt": 225996000000.0,
+      "cash": 205251000000.0,
+      "sharesOutstanding": 1519042080.0,
+      "grossMargin": 0.5251520326232079,
+      "operatingMargin": 0.16487914881637075,
+      "netMargin": 0.12627985377568415,
+      "roe": 0.08773274669000596,
+      "roic": 0.09364383203223105
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 820209000000.0,
+      "operatingIncome": 117333000000.0,
+      "netIncome": 89325000000.0,
+      "eps": 59.48,
+      "freeCashFlow": 45363000000.0,
+      "totalDebt": 231937000000.0,
+      "cash": 187322000000.0,
+      "sharesOutstanding": 1495365080.0,
+      "grossMargin": 0.5088581081163459,
+      "operatingMargin": 0.14305256343200332,
+      "netMargin": 0.10890516929221698,
+      "roe": 0.08039598114598362,
+      "roic": 0.08736634400595682
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 921863000000.0,
+      "operatingIncome": 140095000000.0,
+      "netIncome": 106374000000.0,
+      "eps": 71.47,
+      "freeCashFlow": 67556000000.0,
+      "totalDebt": 231848000000.0,
+      "cash": 204883000000.0,
+      "sharesOutstanding": 1490697280.0,
+      "grossMargin": 0.5197898169250745,
+      "operatingMargin": 0.15196943580553726,
+      "netMargin": 0.11539024779170007,
+      "roe": 0.08015582967244121,
+      "roic": 0.08986566495909394
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1036171000000.0,
+      "operatingIncome": 157670000000.0,
+      "netIncome": 116978000000.0,
+      "eps": 78.99,
+      "freeCashFlow": 128437000000.0,
+      "totalDebt": 174838000000.0,
+      "cash": 221872000000.0,
+      "sharesOutstanding": 1480559680.0,
+      "grossMargin": 0.5410979461884187,
+      "operatingMargin": 0.1521660034878413,
+      "netMargin": 0.11289449328344453,
+      "roe": 0.08547680548908139,
+      "roic": 0.10215936134686819
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:06.639285+00:00"
+  }
+}

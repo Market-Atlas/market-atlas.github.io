@@ -1,0 +1,128 @@
+{
+  "ticker": "MRO",
+  "name": "Melrose Industries PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 5868144640.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 470.7,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3589000000.0,
+    "operatingIncome": 600000000.0,
+    "netIncome": 370000000.0,
+    "eps": 0.29,
+    "freeCashFlow": 119000000.0,
+    "totalDebt": 1903000000.0,
+    "cash": 166000000.0,
+    "sharesOutstanding": 1311475321.0
+  },
+  "ratios": {
+    "roe": 0.13088079235939157,
+    "roic": 0.12684989429175475,
+    "grossMargin": 0.2658122039565339,
+    "operatingMargin": 0.16717748676511562,
+    "netMargin": 0.10309278350515463,
+    "debtToEquity": 0.6756300000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2954000000.0,
+      "operatingIncome": -270000000.0,
+      "netIncome": -308000000.0,
+      "eps": -0.219,
+      "freeCashFlow": 128000000.0,
+      "totalDebt": 1862000000.0,
+      "cash": 355000000.0,
+      "sharesOutstanding": 1332713481.0,
+      "grossMargin": 0.14251861882193637,
+      "operatingMargin": -0.09140148950575491,
+      "netMargin": -0.10426540284360189,
+      "roe": -0.04320381540187965,
+      "roic": -0.03003003003003003
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3350000000.0,
+      "operatingIncome": 57000000.0,
+      "netIncome": -1019000000.0,
+      "eps": -0.755,
+      "freeCashFlow": -77000000.0,
+      "totalDebt": 822000000.0,
+      "cash": 58000000.0,
+      "sharesOutstanding": 1351475321.0,
+      "grossMargin": 0.19522388059701493,
+      "operatingMargin": 0.01701492537313433,
+      "netMargin": -0.30417910447761193,
+      "roe": -0.28567423605270537,
+      "roic": 0.012987012987012988
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3468000000.0,
+      "operatingIncome": -4000000.0,
+      "netIncome": -49000000.0,
+      "eps": -0.037,
+      "freeCashFlow": -244000000.0,
+      "totalDebt": 1646000000.0,
+      "cash": 88000000.0,
+      "sharesOutstanding": 1351475321.0,
+      "grossMargin": 0.2370242214532872,
+      "operatingMargin": -0.0011534025374855825,
+      "netMargin": -0.014129181084198385,
+      "roe": -0.017229254571026722,
+      "roic": -0.0008908685968819599
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3589000000.0,
+      "operatingIncome": 600000000.0,
+      "netIncome": 370000000.0,
+      "eps": 0.29,
+      "freeCashFlow": 119000000.0,
+      "totalDebt": 1903000000.0,
+      "cash": 166000000.0,
+      "sharesOutstanding": 1311475321.0,
+      "grossMargin": 0.2658122039565339,
+      "operatingMargin": 0.16717748676511562,
+      "netMargin": 0.10309278350515463,
+      "roe": 0.13088079235939157,
+      "roic": 0.12684989429175475
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:46.581745+00:00"
+  }
+}

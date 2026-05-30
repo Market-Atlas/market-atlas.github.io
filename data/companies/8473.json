@@ -1,0 +1,128 @@
+{
+  "ticker": "8473",
+  "name": "SBI Holdings, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1880914526208.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2910.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 624.54,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 646362398.0
+  },
+  "ratios": {
+    "roe": 0.20614,
+    "roic": null,
+    "grossMargin": 0.75452006,
+    "operatingMargin": 0.28927,
+    "netMargin": 0.22544001,
+    "debtToEquity": 2.90471
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 763618000000.0,
+      "operatingIncome": 170315000000.0,
+      "netIncome": 366854000000.0,
+      "eps": null,
+      "freeCashFlow": -340011000000.0,
+      "totalDebt": 3964019000000.0,
+      "cash": 2499370000000.0,
+      "sharesOutstanding": 490441780.0,
+      "grossMargin": 0.6543035915863691,
+      "operatingMargin": 0.22303691112571994,
+      "netMargin": 0.4804156004703923,
+      "roe": 0.39676920797358434,
+      "roic": 0.03483906098692024
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 956977000000.0,
+      "operatingIncome": 116160000000.0,
+      "netIncome": 35445000000.0,
+      "eps": 59.17,
+      "freeCashFlow": 923175000000.0,
+      "totalDebt": 3680355000000.0,
+      "cash": 3200916000000.0,
+      "sharesOutstanding": 544716580.0,
+      "grossMargin": 0.5990060367177059,
+      "operatingMargin": 0.12138222757704731,
+      "netMargin": 0.03703850771753135,
+      "roe": 0.03488296565732912,
+      "roic": 0.024733485830944837
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1210504000000.0,
+      "operatingIncome": 137293000000.0,
+      "netIncome": 87243000000.0,
+      "eps": 142.8,
+      "freeCashFlow": 1302260000000.0,
+      "totalDebt": 4477079000000.0,
+      "cash": 4580335000000.0,
+      "sharesOutstanding": 603779614.0,
+      "grossMargin": 0.5417718570116249,
+      "operatingMargin": 0.11341804735878609,
+      "netMargin": 0.0720716329727122,
+      "roe": 0.06911929799264623,
+      "roic": 0.023921608394630135
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1443733000000.0,
+      "operatingIncome": 292554000000.0,
+      "netIncome": 162120000000.0,
+      "eps": 256.335,
+      "freeCashFlow": 1456988000000.0,
+      "totalDebt": 5721388000000.0,
+      "cash": 5500548000000.0,
+      "sharesOutstanding": 606113814.0,
+      "grossMargin": 0.5777487942715169,
+      "operatingMargin": 0.20263719122580146,
+      "netMargin": 0.11229223131978004,
+      "roe": 0.1285230472614729,
+      "roic": 0.041896397947183334
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 624.54,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:14.846787+00:00"
+  }
+}

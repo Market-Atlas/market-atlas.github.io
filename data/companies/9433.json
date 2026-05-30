@@ -1,0 +1,128 @@
+{
+  "ticker": "9433",
+  "name": "KDDI Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 10425683935232.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2738.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 183.55,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 3807078418.0
+  },
+  "ratios": {
+    "roe": 0.14006,
+    "roic": null,
+    "grossMargin": 0.42666,
+    "operatingMargin": 0.14682999,
+    "netMargin": 0.116459996,
+    "debtToEquity": 0.96162
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 5446708000000.0,
+      "operatingIncome": 1054800000000.0,
+      "netIncome": 672486000000.0,
+      "eps": null,
+      "freeCashFlow": 793081000000.0,
+      "totalDebt": 1600105000000.0,
+      "cash": 796613000000.0,
+      "sharesOutstanding": 4608359100.0,
+      "grossMargin": 0.4520380016699996,
+      "operatingMargin": 0.19365826110009937,
+      "netMargin": 0.12346650490534833,
+      "roe": 0.13496726398701397,
+      "roic": 0.16023841921183904
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5630024000000.0,
+      "operatingIncome": 1040777000000.0,
+      "netIncome": 651391000000.0,
+      "eps": 149.095,
+      "freeCashFlow": 444744000000.0,
+      "totalDebt": 1651436000000.0,
+      "cash": 480252000000.0,
+      "sharesOutstanding": 4605424616.0,
+      "grossMargin": 0.4266956943700418,
+      "operatingMargin": 0.18486191177870645,
+      "netMargin": 0.11569950678718244,
+      "roe": 0.1286350925093412,
+      "roic": 0.15498585841919568
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 5699724000000.0,
+      "operatingIncome": 902086000000.0,
+      "netIncome": 600281000000.0,
+      "eps": 141.72,
+      "freeCashFlow": 956968000000.0,
+      "totalDebt": 2394402000000.0,
+      "cash": 887207000000.0,
+      "sharesOutstanding": 4605424616.0,
+      "grossMargin": 0.42551200724807026,
+      "operatingMargin": 0.15826836527523086,
+      "netMargin": 0.10531755572725977,
+      "roe": 0.11570459641082735,
+      "roic": 0.11897025367790094
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 5835525000000.0,
+      "operatingIncome": 1059966000000.0,
+      "netIncome": 655416000000.0,
+      "eps": 161.81,
+      "freeCashFlow": 566111000000.0,
+      "totalDebt": 4437562000000.0,
+      "cash": 921175000000.0,
+      "sharesOutstanding": 4383692832.0,
+      "grossMargin": 0.4270172777942002,
+      "operatingMargin": 0.18164021232022826,
+      "netMargin": 0.11231483028519285,
+      "roe": 0.1302367910946757,
+      "roic": 0.11192815418112055
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 183.55,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:03.489616+00:00"
+  }
+}

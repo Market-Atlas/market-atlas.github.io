@@ -1,0 +1,128 @@
+{
+  "ticker": "CNQ",
+  "name": "Canadian Natural Resources Limited",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 130774016000.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.7,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44167000000.0,
+    "operatingIncome": 8226000000.0,
+    "netIncome": 10820000000.0,
+    "eps": 5.16,
+    "freeCashFlow": 8315000000.0,
+    "totalDebt": 16617000000.0,
+    "cash": 673000000.0,
+    "sharesOutstanding": 2081578000.0
+  },
+  "ratios": {
+    "roe": 0.24388044899247172,
+    "roic": 0.1348900513257793,
+    "grossMargin": 0.21285122376434895,
+    "operatingMargin": 0.18624765096112483,
+    "netMargin": 0.24497928317522133,
+    "debtToEquity": 0.4485
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 49530000000.0,
+      "operatingIncome": 14760000000.0,
+      "netIncome": 10937000000.0,
+      "eps": 4.76,
+      "freeCashFlow": 14255000000.0,
+      "totalDebt": 11445000000.0,
+      "cash": 920000000.0,
+      "sharesOutstanding": 2205272000.0,
+      "grossMargin": 0.32828588734100544,
+      "operatingMargin": 0.29800121138703817,
+      "netMargin": 0.22081566727236018,
+      "roe": 0.2864963981663392,
+      "roic": 0.2974607013301088
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 40835000000.0,
+      "operatingIncome": 10464000000.0,
+      "netIncome": 8233000000.0,
+      "eps": 3.735,
+      "freeCashFlow": 7444000000.0,
+      "totalDebt": 10799000000.0,
+      "cash": 877000000.0,
+      "sharesOutstanding": 2144816000.0,
+      "grossMargin": 0.2883065997306232,
+      "operatingMargin": 0.2562507652748867,
+      "netMargin": 0.20161626056079343,
+      "roe": 0.20669311106647922,
+      "roic": 0.20667180186052023
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 41509000000.0,
+      "operatingIncome": 9727000000.0,
+      "netIncome": 6106000000.0,
+      "eps": 2.85,
+      "freeCashFlow": 8003000000.0,
+      "totalDebt": 18819000000.0,
+      "cash": 131000000.0,
+      "sharesOutstanding": 2102996000.0,
+      "grossMargin": 0.26254547206629886,
+      "operatingMargin": 0.23433472259028162,
+      "netMargin": 0.14710062877930088,
+      "roe": 0.15470761122935037,
+      "roic": 0.16688112272033215
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 44167000000.0,
+      "operatingIncome": 8226000000.0,
+      "netIncome": 10820000000.0,
+      "eps": 5.16,
+      "freeCashFlow": 8315000000.0,
+      "totalDebt": 16617000000.0,
+      "cash": 673000000.0,
+      "sharesOutstanding": 2081578000.0,
+      "grossMargin": 0.21285122376434895,
+      "operatingMargin": 0.18624765096112483,
+      "netMargin": 0.24497928317522133,
+      "roe": 0.24388044899247172,
+      "roic": 0.1348900513257793
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:03.643119+00:00"
+  }
+}

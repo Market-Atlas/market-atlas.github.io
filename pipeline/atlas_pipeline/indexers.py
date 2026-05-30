@@ -108,6 +108,8 @@ def build_screener() -> list[dict[str, Any]]:
             "currency": c.get("currency"),
             "marketCap": (c.get("marketCap") or {}).get("value"),
             "marketCapCurrency": (c.get("marketCap") or {}).get("currency"),
+            "price": (c.get("price") or {}).get("value"),
+            "priceCurrency": (c.get("price") or {}).get("currency"),
             "roe": ratios.get("roe"),
             "roic": ratios.get("roic"),
             "debtToEquity": ratios.get("debtToEquity"),

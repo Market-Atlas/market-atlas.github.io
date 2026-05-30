@@ -1,0 +1,128 @@
+{
+  "ticker": "SDLF",
+  "name": "Standard Life plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 7775217152.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 776.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 31842000000.0,
+    "operatingIncome": null,
+    "netIncome": -443000000.0,
+    "eps": null,
+    "freeCashFlow": -1003000000.0,
+    "totalDebt": 3293000000.0,
+    "cash": 7302000000.0,
+    "sharesOutstanding": 1006252243.0
+  },
+  "ratios": {
+    "roe": -0.6002710027100271,
+    "roic": null,
+    "grossMargin": 0.07138,
+    "operatingMargin": 0.0065200003,
+    "netMargin": -0.013912442685760945,
+    "debtToEquity": 5.8746100000000006
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -0.864,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -23503000000.0,
+      "operatingIncome": null,
+      "netIncome": -2724000000.0,
+      "eps": -1.852,
+      "freeCashFlow": null,
+      "totalDebt": 4072000000.0,
+      "cash": 8839000000.0,
+      "sharesOutstanding": 1000352477.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11590009785984767,
+      "roe": -0.7352226720647773,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 16703000000.0,
+      "operatingIncome": null,
+      "netIncome": 56000000.0,
+      "eps": -0.138,
+      "freeCashFlow": null,
+      "totalDebt": 3966000000.0,
+      "cash": 7168000000.0,
+      "sharesOutstanding": 1001538419.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.003352691133329342,
+      "roe": 0.0173053152039555,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19515000000.0,
+      "operatingIncome": null,
+      "netIncome": -1090000000.0,
+      "eps": -1.118,
+      "freeCashFlow": 3343000000.0,
+      "totalDebt": 3686000000.0,
+      "cash": 9453000000.0,
+      "sharesOutstanding": 1003111838.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.05585447091980528,
+      "roe": -0.6385471587580551,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 31842000000.0,
+      "operatingIncome": null,
+      "netIncome": -443000000.0,
+      "eps": null,
+      "freeCashFlow": -1003000000.0,
+      "totalDebt": 3293000000.0,
+      "cash": 7302000000.0,
+      "sharesOutstanding": 1006252243.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.013912442685760945,
+      "roe": -0.6002710027100271,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:53.320894+00:00"
+  }
+}

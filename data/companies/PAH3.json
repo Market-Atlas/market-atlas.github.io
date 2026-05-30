@@ -1,0 +1,128 @@
+{
+  "ticker": "PAH3",
+  "name": "Porsche Automobil Holding SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 10014374912.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.7,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2743000000.0,
+    "operatingIncome": 2690000000.0,
+    "netIncome": 2651000000.0,
+    "eps": 8.65,
+    "freeCashFlow": null,
+    "totalDebt": 7030000000.0,
+    "cash": 1038000000.0,
+    "sharesOutstanding": 306250000.0
+  },
+  "ratios": {
+    "roe": 0.07010074834069334,
+    "roic": 0.059981715610854684,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.980678089682829,
+    "netMargin": 0.9664600802041561,
+    "debtToEquity": 0.18342
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5440000000.0,
+      "operatingIncome": 5398000000.0,
+      "netIncome": 5492000000.0,
+      "eps": 17.93,
+      "freeCashFlow": null,
+      "totalDebt": 3152000000.0,
+      "cash": 86000000.0,
+      "sharesOutstanding": 306250000.0,
+      "grossMargin": null,
+      "operatingMargin": 0.9922794117647059,
+      "netMargin": 1.0095588235294117,
+      "roe": 0.10533381921402406,
+      "roic": 0.09762890886401042
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5425000000.0,
+      "operatingIncome": 5390000000.0,
+      "netIncome": 5074000000.0,
+      "eps": 16.57,
+      "freeCashFlow": 1659000000.0,
+      "totalDebt": 6724000000.0,
+      "cash": 494000000.0,
+      "sharesOutstanding": 306250000.0,
+      "grossMargin": null,
+      "operatingMargin": 0.9935483870967742,
+      "netMargin": 0.9352995391705069,
+      "roe": 0.09209379991287933,
+      "roic": 0.08718861209964412
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": -19862000000.0,
+      "operatingIncome": -19892000000.0,
+      "netIncome": -20017000000.0,
+      "eps": -65.36,
+      "freeCashFlow": 1138000000.0,
+      "totalDebt": 7561000000.0,
+      "cash": 1686000000.0,
+      "sharesOutstanding": 306250000.0,
+      "grossMargin": null,
+      "operatingMargin": 1.0015104219111872,
+      "netMargin": 1.0078038465411339,
+      "roe": -0.5701549504386465,
+      "roic": -0.4661932550563641
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2743000000.0,
+      "operatingIncome": 2690000000.0,
+      "netIncome": 2651000000.0,
+      "eps": 8.65,
+      "freeCashFlow": null,
+      "totalDebt": 7030000000.0,
+      "cash": 1038000000.0,
+      "sharesOutstanding": 306250000.0,
+      "grossMargin": null,
+      "operatingMargin": 0.980678089682829,
+      "netMargin": 0.9664600802041561,
+      "roe": 0.07010074834069334,
+      "roic": 0.059981715610854684
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:23.708757+00:00"
+  }
+}

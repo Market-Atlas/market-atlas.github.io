@@ -1,0 +1,128 @@
+{
+  "ticker": "ICG",
+  "name": "ICG plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 5411479552.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1867.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 1.639,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 283393585.0
+  },
+  "ratios": {
+    "roe": 0.1844,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.46403,
+    "netMargin": 0.48941,
+    "debtToEquity": 0.46982999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 764500000.0,
+      "operatingIncome": null,
+      "netIncome": 526800000.0,
+      "eps": null,
+      "freeCashFlow": 235600000.0,
+      "totalDebt": 6018100000.0,
+      "cash": 761500000.0,
+      "sharesOutstanding": 294285804.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.689077828646174,
+      "roe": 0.2671670554823004,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 599000000.0,
+      "operatingIncome": null,
+      "netIncome": 280600000.0,
+      "eps": 0.97,
+      "freeCashFlow": 280400000.0,
+      "totalDebt": 6115200000.0,
+      "cash": 550000000.0,
+      "sharesOutstanding": 294332182.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.46844741235392323,
+      "roe": 0.1389246460045549,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 925900000.0,
+      "operatingIncome": null,
+      "netIncome": 473400000.0,
+      "eps": 1.621,
+      "freeCashFlow": 246400000.0,
+      "totalDebt": 6127900000.0,
+      "cash": 627400000.0,
+      "sharesOutstanding": 294365326.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5112863160168485,
+      "roe": 0.20565619705460705,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 951400000.0,
+      "operatingIncome": null,
+      "netIncome": 451200000.0,
+      "eps": 1.538,
+      "freeCashFlow": 129500000.0,
+      "totalDebt": 6106000000.0,
+      "cash": 604800000.0,
+      "sharesOutstanding": 294370225.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.47424847593020814,
+      "roe": 0.1811320754716981,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.639,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:41.601215+00:00"
+  }
+}

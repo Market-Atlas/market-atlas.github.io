@@ -1,0 +1,128 @@
+{
+  "ticker": "EMA",
+  "name": "Emera Incorporated",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 22055389184.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 72.1,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8776000000.0,
+    "operatingIncome": 2050000000.0,
+    "netIncome": 1089000000.0,
+    "eps": 3.38,
+    "freeCashFlow": -1730000000.0,
+    "totalDebt": 21461000000.0,
+    "cash": 349000000.0,
+    "sharesOutstanding": 301754258.0
+  },
+  "ratios": {
+    "roe": 0.08137797040801076,
+    "roic": 0.05883534712854806,
+    "grossMargin": 0.43641750227894255,
+    "operatingMargin": 0.23359161349134003,
+    "netMargin": 0.12408842297174111,
+    "debtToEquity": 1.68664
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 7588000000.0,
+      "operatingIncome": 1702000000.0,
+      "netIncome": 1008000000.0,
+      "eps": 3.55,
+      "freeCashFlow": -1683000000.0,
+      "totalDebt": 19044000000.0,
+      "cash": 310000000.0,
+      "sharesOutstanding": 269944308.0,
+      "grossMargin": 0.3981286241433843,
+      "operatingMargin": 0.224301528729573,
+      "netMargin": 0.13284132841328414,
+      "roe": 0.08821212916776057,
+      "roic": 0.05585638804108825
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7563000000.0,
+      "operatingIncome": 1794000000.0,
+      "netIncome": 1044000000.0,
+      "eps": 3.57,
+      "freeCashFlow": -696000000.0,
+      "totalDebt": 19798000000.0,
+      "cash": 567000000.0,
+      "sharesOutstanding": 284117511.0,
+      "grossMargin": 0.4331614438714796,
+      "operatingMargin": 0.23720745735819118,
+      "netMargin": 0.13804046013486712,
+      "roe": 0.08646678813980453,
+      "roic": 0.05628765060240964
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7200000000.0,
+      "operatingIncome": 1305000000.0,
+      "netIncome": 567000000.0,
+      "eps": 1.71,
+      "freeCashFlow": -505000000.0,
+      "totalDebt": 19807000000.0,
+      "cash": 196000000.0,
+      "sharesOutstanding": 295935686.0,
+      "grossMargin": 0.40194444444444444,
+      "operatingMargin": 0.18125,
+      "netMargin": 0.07875,
+      "roe": 0.04270543044362431,
+      "roic": 0.03944504896626768
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8776000000.0,
+      "operatingIncome": 2050000000.0,
+      "netIncome": 1089000000.0,
+      "eps": 3.38,
+      "freeCashFlow": -1730000000.0,
+      "totalDebt": 21461000000.0,
+      "cash": 349000000.0,
+      "sharesOutstanding": 301754258.0,
+      "grossMargin": 0.43641750227894255,
+      "operatingMargin": 0.23359161349134003,
+      "netMargin": 0.12408842297174111,
+      "roe": 0.08137797040801076,
+      "roic": 0.05883534712854806
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:04.464125+00:00"
+  }
+}

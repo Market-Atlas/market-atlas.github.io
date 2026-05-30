@@ -1,0 +1,128 @@
+{
+  "ticker": "9602",
+  "name": "Toho Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1022345216000.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1229.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 360663000000.0,
+    "operatingIncome": 67893000000.0,
+    "netIncome": 51768000000.0,
+    "eps": null,
+    "freeCashFlow": 49896000000.0,
+    "totalDebt": 1620000000.0,
+    "cash": 50970000000.0,
+    "sharesOutstanding": 880000000.0
+  },
+  "ratios": {
+    "roe": 0.10044900129228548,
+    "roic": 0.13132463935193603,
+    "grossMargin": 0.44250172598797216,
+    "operatingMargin": 0.1882449821578593,
+    "netMargin": 0.1435356551683982,
+    "debtToEquity": 0.0030399999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-02-28",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 33.448,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-02-28",
+      "revenue": 244295000000.0,
+      "operatingIncome": 44883000000.0,
+      "netIncome": 33430000000.0,
+      "eps": 38.074,
+      "freeCashFlow": 28482000000.0,
+      "totalDebt": 438000000.0,
+      "cash": 44259000000.0,
+      "sharesOutstanding": 932453165.0,
+      "grossMargin": 0.44465093432121,
+      "operatingMargin": 0.1837245952639227,
+      "netMargin": 0.1368427515913138,
+      "roe": 0.08167503450971769,
+      "roic": 0.10953939420563621
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-02-29",
+      "revenue": 283347000000.0,
+      "operatingIncome": 59253000000.0,
+      "netIncome": 45283000000.0,
+      "eps": 51.902,
+      "freeCashFlow": 21665000000.0,
+      "totalDebt": 3354000000.0,
+      "cash": 38733000000.0,
+      "sharesOutstanding": 932453165.0,
+      "grossMargin": 0.4608060081807819,
+      "operatingMargin": 0.20911814841872334,
+      "netMargin": 0.15981464423480748,
+      "roe": 0.09867985216436255,
+      "roic": 0.12818610165238123
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-02-28",
+      "revenue": 313171000000.0,
+      "operatingIncome": 64687000000.0,
+      "netIncome": 43357000000.0,
+      "eps": 50.95,
+      "freeCashFlow": 19085000000.0,
+      "totalDebt": 1908000000.0,
+      "cash": 42905000000.0,
+      "sharesOutstanding": 932453165.0,
+      "grossMargin": 0.46160085065347684,
+      "operatingMargin": 0.2065548853501761,
+      "netMargin": 0.1384451306155423,
+      "roe": 0.09063164341840393,
+      "roic": 0.13468181013751965
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-02-28",
+      "revenue": 360663000000.0,
+      "operatingIncome": 67893000000.0,
+      "netIncome": 51768000000.0,
+      "eps": null,
+      "freeCashFlow": 49896000000.0,
+      "totalDebt": 1620000000.0,
+      "cash": 50970000000.0,
+      "sharesOutstanding": 880000000.0,
+      "grossMargin": 0.44250172598797216,
+      "operatingMargin": 0.1882449821578593,
+      "netMargin": 0.1435356551683982,
+      "roe": 0.10044900129228548,
+      "roic": 0.13132463935193603
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:18.948842+00:00"
+  }
+}

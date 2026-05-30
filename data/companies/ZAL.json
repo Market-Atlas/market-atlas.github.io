@@ -1,0 +1,128 @@
+{
+  "ticker": "ZAL",
+  "name": "Zalando SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 6012421632.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 23.29,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12346200000.0,
+    "operatingIncome": 387300000.0,
+    "netIncome": 215100000.0,
+    "eps": 0.82,
+    "freeCashFlow": 903800000.0,
+    "totalDebt": 1441600000.0,
+    "cash": 1877400000.0,
+    "sharesOutstanding": 264181977.0
+  },
+  "ratios": {
+    "roe": 0.076120036803737,
+    "roic": 0.09075783849650841,
+    "grossMargin": 0.3988109701770585,
+    "operatingMargin": 0.031369976187004905,
+    "netMargin": 0.017422364776206446,
+    "debtToEquity": 0.52176
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10344800000.0,
+      "operatingIncome": 81000000.0,
+      "netIncome": 16800000.0,
+      "eps": 0.06,
+      "freeCashFlow": 108300000.0,
+      "totalDebt": 1716700000.0,
+      "cash": 2024800000.0,
+      "sharesOutstanding": 263531672.0,
+      "grossMargin": 0.3920327120872322,
+      "operatingMargin": 0.00783002088005568,
+      "netMargin": 0.0016240043306782151,
+      "roe": 0.007639141506002182,
+      "roic": 0.020684900022983222
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10143100000.0,
+      "operatingIncome": 190900000.0,
+      "netIncome": 83000000.0,
+      "eps": 0.32,
+      "freeCashFlow": 686300000.0,
+      "totalDebt": 1851600000.0,
+      "cash": 2533200000.0,
+      "sharesOutstanding": 263772023.0,
+      "grossMargin": 0.38749494730407863,
+      "operatingMargin": 0.01882067612465617,
+      "netMargin": 0.008182902662893987,
+      "roe": 0.03497534870001264,
+      "roic": 0.04518664047151277
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10572500000.0,
+      "operatingIncome": 391900000.0,
+      "netIncome": 251100000.0,
+      "eps": 0.96,
+      "freeCashFlow": 447300000.0,
+      "totalDebt": 1725500000.0,
+      "cash": 2587800000.0,
+      "sharesOutstanding": 263937633.0,
+      "grossMargin": 0.40690470560416175,
+      "operatingMargin": 0.037067864743438164,
+      "netMargin": 0.02375029557815086,
+      "roe": 0.09421078302630098,
+      "roic": 0.08925480550241414
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12346200000.0,
+      "operatingIncome": 387300000.0,
+      "netIncome": 215100000.0,
+      "eps": 0.82,
+      "freeCashFlow": 903800000.0,
+      "totalDebt": 1441600000.0,
+      "cash": 1877400000.0,
+      "sharesOutstanding": 264181977.0,
+      "grossMargin": 0.3988109701770585,
+      "operatingMargin": 0.031369976187004905,
+      "netMargin": 0.017422364776206446,
+      "roe": 0.076120036803737,
+      "roic": 0.09075783849650841
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:29.513129+00:00"
+  }
+}

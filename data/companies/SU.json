@@ -1,0 +1,128 @@
+{
+  "ticker": "SU",
+  "name": "Suncor Energy Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 101744812032.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 86.17,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 52377000000.0,
+    "operatingIncome": 7995000000.0,
+    "netIncome": 5918000000.0,
+    "eps": 4.85,
+    "freeCashFlow": 6925000000.0,
+    "totalDebt": 14504000000.0,
+    "cash": 3650000000.0,
+    "sharesOutstanding": 1193519494.0
+  },
+  "ratios": {
+    "roe": 0.13114972076943535,
+    "roic": 0.13408130408532903,
+    "grossMargin": 0.41380758729976896,
+    "operatingMargin": 0.1526433358153388,
+    "netMargin": 0.11298852549783302,
+    "debtToEquity": 0.32358
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 62907000000.0,
+      "operatingIncome": 13925000000.0,
+      "netIncome": 9077000000.0,
+      "eps": 6.53,
+      "freeCashFlow": 10560000000.0,
+      "totalDebt": 15619000000.0,
+      "cash": 1980000000.0,
+      "sharesOutstanding": 1337470739.0,
+      "grossMargin": 0.42720206018408124,
+      "operatingMargin": 0.22135851336099321,
+      "netMargin": 0.1442923680989397,
+      "roe": 0.2305738308735743,
+      "roic": 0.2532462808714946
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 52206000000.0,
+      "operatingIncome": 8953000000.0,
+      "netIncome": 8295000000.0,
+      "eps": 6.33,
+      "freeCashFlow": 6408000000.0,
+      "totalDebt": 15407000000.0,
+      "cash": 1729000000.0,
+      "sharesOutstanding": 1290099792.0,
+      "grossMargin": 0.41995172968624295,
+      "operatingMargin": 0.1714936980423706,
+      "netMargin": 0.1588897827835881,
+      "roe": 0.1916633933316389,
+      "roic": 0.15255767985550217
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 54881000000.0,
+      "operatingIncome": 9035000000.0,
+      "netIncome": 6016000000.0,
+      "eps": 4.72,
+      "freeCashFlow": 9477000000.0,
+      "totalDebt": 14689000000.0,
+      "cash": 3484000000.0,
+      "sharesOutstanding": 1244331601.0,
+      "grossMargin": 0.4077185182485742,
+      "operatingMargin": 0.1646289244000656,
+      "netMargin": 0.10961899382299885,
+      "roe": 0.1351484926090668,
+      "roic": 0.15261050960255393
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 52377000000.0,
+      "operatingIncome": 7995000000.0,
+      "netIncome": 5918000000.0,
+      "eps": 4.85,
+      "freeCashFlow": 6925000000.0,
+      "totalDebt": 14504000000.0,
+      "cash": 3650000000.0,
+      "sharesOutstanding": 1193519494.0,
+      "grossMargin": 0.41380758729976896,
+      "operatingMargin": 0.1526433358153388,
+      "netMargin": 0.11298852549783302,
+      "roe": 0.13114972076943535,
+      "roic": 0.13408130408532903
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.272359+00:00"
+  }
+}

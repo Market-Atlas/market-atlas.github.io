@@ -1,0 +1,111 @@
+{
+  "ticker": "BKG",
+  "name": "The Berkeley Group Holdings plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3175981056.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3444.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2486500000.0,
+    "operatingIncome": 500000000.0,
+    "netIncome": 382000000.0,
+    "eps": 3.7,
+    "freeCashFlow": 192100000.0,
+    "totalDebt": 682200000.0,
+    "cash": 1015200000.0,
+    "sharesOutstanding": 107427392.0
+  },
+  "ratios": {
+    "roe": 0.10730939940446092,
+    "roic": 0.11786892975011787,
+    "grossMargin": 0.26555399155439374,
+    "operatingMargin": 0.20108586366378445,
+    "netMargin": 0.1536295998391313,
+    "debtToEquity": 0.1894
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 2348000000.0,
+      "operatingIncome": 507900000.0,
+      "netIncome": 482400000.0,
+      "eps": 4.263654,
+      "freeCashFlow": -130800000.0,
+      "totalDebt": 665900000.0,
+      "cash": 928900000.0,
+      "sharesOutstanding": 116357186.0,
+      "grossMargin": 0.2831345826235094,
+      "operatingMargin": 0.21631175468483815,
+      "netMargin": 0.20545144804088586,
+      "roe": 0.1538216255859188,
+      "roic": 0.13358758548132563
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 2550200000.0,
+      "operatingIncome": 518300000.0,
+      "netIncome": 465700000.0,
+      "eps": 4.377656,
+      "freeCashFlow": 333600000.0,
+      "totalDebt": 665100000.0,
+      "cash": 1070400000.0,
+      "sharesOutstanding": 112446895.0,
+      "grossMargin": 0.2732334718845581,
+      "operatingMargin": 0.20323896165006666,
+      "netMargin": 0.18261312838208768,
+      "roe": 0.1397533235302944,
+      "roic": 0.12965927853104517
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 2464300000.0,
+      "operatingIncome": 479700000.0,
+      "netIncome": 397600000.0,
+      "eps": 3.845994,
+      "freeCashFlow": 232000000.0,
+      "totalDebt": 664400000.0,
+      "cash": 1192000000.0,
+      "sharesOutstanding": 110685508.0,
+      "grossMargin": 0.2615347157407783,
+      "operatingMargin": 0.19465974110295012,
+      "netMargin": 0.16134399220874082,
+      "roe": 0.1116697093104901,
+      "roic": 0.11354114890293261
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 2486500000.0,
+      "operatingIncome": 500000000.0,
+      "netIncome": 382000000.0,
+      "eps": 3.7,
+      "freeCashFlow": 192100000.0,
+      "totalDebt": 682200000.0,
+      "cash": 1015200000.0,
+      "sharesOutstanding": 107427392.0,
+      "grossMargin": 0.26555399155439374,
+      "operatingMargin": 0.20108586366378445,
+      "netMargin": 0.1536295998391313,
+      "roe": 0.10730939940446092,
+      "roic": 0.11786892975011787
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:26.962242+00:00"
+  }
+}

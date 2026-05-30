@@ -1,0 +1,128 @@
+{
+  "ticker": "SAN",
+  "name": "Sanofi",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 90113400832.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 75.29,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46716000000.0,
+    "operatingIncome": 9597000000.0,
+    "netIncome": 7813000000.0,
+    "eps": 6.4,
+    "freeCashFlow": 7212000000.0,
+    "totalDebt": 20329000000.0,
+    "cash": 7657000000.0,
+    "sharesOutstanding": 1219502152.0
+  },
+  "ratios": {
+    "roe": 0.10946256444743331,
+    "roic": 0.10465078240008724,
+    "grossMargin": 0.720673859063276,
+    "operatingMargin": 0.2054328281530953,
+    "netMargin": 0.1672446271084853,
+    "debtToEquity": 0.27372
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 40561000000.0,
+      "operatingIncome": 10926000000.0,
+      "netIncome": 8371000000.0,
+      "eps": 5.37,
+      "freeCashFlow": 8423000000.0,
+      "totalDebt": 21212000000.0,
+      "cash": 12736000000.0,
+      "sharesOutstanding": 1269035732.0,
+      "grossMargin": 0.7070585044747417,
+      "operatingMargin": 0.26937205690195015,
+      "netMargin": 0.2063805133009541,
+      "roe": 0.1119357081728712,
+      "roic": 0.11381724238509938
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41618000000.0,
+      "operatingIncome": 8691000000.0,
+      "netIncome": 5400000000.0,
+      "eps": 4.31,
+      "freeCashFlow": 7352000000.0,
+      "totalDebt": 18422000000.0,
+      "cash": 8710000000.0,
+      "sharesOutstanding": 1264799969.0,
+      "grossMargin": 0.6965735979624201,
+      "operatingMargin": 0.20882791100004805,
+      "netMargin": 0.12975154981017828,
+      "roe": 0.07293354943273905,
+      "roic": 0.09399537107135904
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 44286000000.0,
+      "operatingIncome": 8923000000.0,
+      "netIncome": 5560000000.0,
+      "eps": 4.59,
+      "freeCashFlow": 5886000000.0,
+      "totalDebt": 17906000000.0,
+      "cash": 7441000000.0,
+      "sharesOutstanding": 1263122721.0,
+      "grossMargin": 0.7018245043580364,
+      "operatingMargin": 0.20148579686582668,
+      "netMargin": 0.12554757711240572,
+      "roe": 0.07173545615234753,
+      "roic": 0.09351975097733013
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 46716000000.0,
+      "operatingIncome": 9597000000.0,
+      "netIncome": 7813000000.0,
+      "eps": 6.4,
+      "freeCashFlow": 7212000000.0,
+      "totalDebt": 20329000000.0,
+      "cash": 7657000000.0,
+      "sharesOutstanding": 1219502152.0,
+      "grossMargin": 0.720673859063276,
+      "operatingMargin": 0.2054328281530953,
+      "netMargin": 0.1672446271084853,
+      "roe": 0.10946256444743331,
+      "roic": 0.10465078240008724
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:26.042975+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "6762",
+  "name": "TDK Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 7797561884672.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4108.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 102.97,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1898140630.0
+  },
+  "ratios": {
+    "roe": 0.09922,
+    "roic": null,
+    "grossMargin": 0.31276,
+    "operatingMargin": 0.06449,
+    "netMargin": 0.07811,
+    "debtToEquity": 0.27954
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1902124000000.0,
+      "operatingIncome": 166775000000.0,
+      "netIncome": 131298000000.0,
+      "eps": null,
+      "freeCashFlow": -112350000000.0,
+      "totalDebt": 679813000000.0,
+      "cash": 439339000000.0,
+      "sharesOutstanding": 1943859885.0,
+      "grossMargin": 0.2964307269137028,
+      "operatingMargin": 0.08767830067860981,
+      "netMargin": 0.06902704555538966,
+      "roe": 0.1009738394560711,
+      "roic": 0.08422426810360936
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2180817000000.0,
+      "operatingIncome": 168827000000.0,
+      "netIncome": 114187000000.0,
+      "eps": 60.128,
+      "freeCashFlow": -12937000000.0,
+      "totalDebt": 752158000000.0,
+      "cash": 506185000000.0,
+      "sharesOutstanding": 1943859885.0,
+      "grossMargin": 0.2680289084320234,
+      "operatingMargin": 0.07741456527530738,
+      "netMargin": 0.05235973490668864,
+      "roe": 0.078293608402368,
+      "roic": 0.07637143513718422
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2103876000000.0,
+      "operatingIncome": 172893000000.0,
+      "netIncome": 124687000000.0,
+      "eps": 65.64,
+      "freeCashFlow": 228418000000.0,
+      "totalDebt": 685736000000.0,
+      "cash": 649998000000.0,
+      "sharesOutstanding": 1943859885.0,
+      "grossMargin": 0.2866224055029859,
+      "operatingMargin": 0.0821783222965612,
+      "netMargin": 0.05926537495555822,
+      "roe": 0.0730303186492141,
+      "roic": 0.0722474246448492
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2204806000000.0,
+      "operatingIncome": 224192000000.0,
+      "netIncome": 167161000000.0,
+      "eps": 87.98,
+      "freeCashFlow": 220549000000.0,
+      "totalDebt": 608400000000.0,
+      "cash": 697307000000.0,
+      "sharesOutstanding": 1943859885.0,
+      "grossMargin": 0.31206464423627295,
+      "operatingMargin": 0.10168332270503617,
+      "netMargin": 0.07581664781391197,
+      "roe": 0.09286361085957769,
+      "roic": 0.09308482148417875
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 102.97,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:10.934752+00:00"
+  }
+}

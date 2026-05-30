@@ -1,0 +1,128 @@
+{
+  "ticker": "0016",
+  "name": "Sun Hung Kai Properties Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 381637656576.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 131.7,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 6.65,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 2897780274.0
+  },
+  "ratios": {
+    "roe": 0.03662,
+    "roic": null,
+    "grossMargin": 0.37504002,
+    "operatingMargin": 0.24339001,
+    "netMargin": 0.23787001,
+    "debtToEquity": 0.16604
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": 85262000000.0,
+      "operatingIncome": 36995000000.0,
+      "netIncome": 26752000000.0,
+      "eps": null,
+      "freeCashFlow": 12451000000.0,
+      "totalDebt": 118608000000.0,
+      "cash": 21781000000.0,
+      "sharesOutstanding": 2898000000.0,
+      "grossMargin": 0.5250756491754827,
+      "operatingMargin": 0.4338978677488213,
+      "netMargin": 0.3137622856606695,
+      "roe": 0.04505068876090398,
+      "roic": 0.05192805448410225
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 77747000000.0,
+      "operatingIncome": 32761000000.0,
+      "netIncome": 25560000000.0,
+      "eps": 8.82,
+      "freeCashFlow": 11359000000.0,
+      "totalDebt": 126772000000.0,
+      "cash": 20323000000.0,
+      "sharesOutstanding": 2898000000.0,
+      "grossMargin": 0.5124442100659833,
+      "operatingMargin": 0.42137960307150113,
+      "netMargin": 0.328758665929232,
+      "roe": 0.042462280669694624,
+      "roic": 0.04495703413391737
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 71195000000.0,
+      "operatingIncome": 27134000000.0,
+      "netIncome": 23907000000.0,
+      "eps": 8.25,
+      "freeCashFlow": 21695000000.0,
+      "totalDebt": 128054000000.0,
+      "cash": 15280000000.0,
+      "sharesOutstanding": 2898000000.0,
+      "grossMargin": 0.4839946625465271,
+      "operatingMargin": 0.381122269822319,
+      "netMargin": 0.3357960530936161,
+      "roe": 0.03970899668634925,
+      "roic": 0.037164313821634855
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 71506000000.0,
+      "operatingIncome": 24986000000.0,
+      "netIncome": 19046000000.0,
+      "eps": 7.5,
+      "freeCashFlow": 19895000000.0,
+      "totalDebt": 129654000000.0,
+      "cash": 16221000000.0,
+      "sharesOutstanding": 2898000000.0,
+      "grossMargin": 0.45050764970771684,
+      "operatingMargin": 0.3494252230582049,
+      "netMargin": 0.2663552708863592,
+      "roe": 0.0313919010016202,
+      "roic": 0.033931265625615346
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 6.65,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:27.122123+00:00"
+  }
+}

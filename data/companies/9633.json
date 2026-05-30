@@ -1,0 +1,111 @@
+{
+  "ticker": "9633",
+  "name": "Nongfu Spring Co., Ltd.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 481348747264.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 42.8,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 52552910000.0,
+    "operatingIncome": 20306728000.0,
+    "netIncome": 15868274000.0,
+    "eps": 1.411,
+    "freeCashFlow": 14345553000.0,
+    "totalDebt": 4492699000.0,
+    "cash": 11177574000.0,
+    "sharesOutstanding": 11246466400.0
+  },
+  "ratios": {
+    "roe": 0.40203400153737096,
+    "roic": 0.46190833820659566,
+    "grossMargin": 0.6052586621749395,
+    "operatingMargin": 0.3864053960094693,
+    "netMargin": 0.3019485314895027,
+    "debtToEquity": 0.11382999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 33239187000.0,
+      "operatingIncome": 9962595000.0,
+      "netIncome": 8495250000.0,
+      "eps": 0.76,
+      "freeCashFlow": 7689468000.0,
+      "totalDebt": 2524950000.0,
+      "cash": 15211156000.0,
+      "sharesOutstanding": 11246466400.0,
+      "grossMargin": 0.5744848994050306,
+      "operatingMargin": 0.2997243885658214,
+      "netMargin": 0.255579355776662,
+      "roe": 0.3527330672764859,
+      "roic": 0.374406601729804
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 42667221000.0,
+      "operatingIncome": 14590560000.0,
+      "netIncome": 12079498000.0,
+      "eps": 1.07,
+      "freeCashFlow": 12442187000.0,
+      "totalDebt": 3209899000.0,
+      "cash": 24125210000.0,
+      "sharesOutstanding": 11246466400.0,
+      "grossMargin": 0.595464818296931,
+      "operatingMargin": 0.34196180716808344,
+      "netMargin": 0.2831095561625633,
+      "roe": 0.4227901776300051,
+      "roic": 0.45909977607866687
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 42895992000.0,
+      "operatingIncome": 14691961000.0,
+      "netIncome": 12123304000.0,
+      "eps": 1.078,
+      "freeCashFlow": 4561355000.0,
+      "totalDebt": 3747047000.0,
+      "cash": 10722048000.0,
+      "sharesOutstanding": 11246466400.0,
+      "grossMargin": 0.580840163342067,
+      "operatingMargin": 0.34250195216373597,
+      "netMargin": 0.2826209031370577,
+      "roe": 0.3754837061564156,
+      "roic": 0.40772256675746277
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 52552910000.0,
+      "operatingIncome": 20306728000.0,
+      "netIncome": 15868274000.0,
+      "eps": 1.411,
+      "freeCashFlow": 14345553000.0,
+      "totalDebt": 4492699000.0,
+      "cash": 11177574000.0,
+      "sharesOutstanding": 11246466400.0,
+      "grossMargin": 0.6052586621749395,
+      "operatingMargin": 0.3864053960094693,
+      "netMargin": 0.3019485314895027,
+      "roe": 0.40203400153737096,
+      "roic": 0.46190833820659566
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:42.225447+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "SHL",
+  "name": "Siemens Healthineers AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 39082426368.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 34.92,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 1.91,
+    "freeCashFlow": null,
+    "totalDebt": 756000000.0,
+    "cash": 2248000000.0,
+    "sharesOutstanding": 1116803941.0
+  },
+  "ratios": {
+    "roe": 0.11467,
+    "roic": null,
+    "grossMargin": 0.38026002,
+    "operatingMargin": 0.12746,
+    "netMargin": 0.09083,
+    "debtToEquity": 0.83879
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": 17997000000.0,
+      "operatingIncome": 2568000000.0,
+      "netIncome": 1727000000.0,
+      "eps": null,
+      "freeCashFlow": 2259000000.0,
+      "totalDebt": null,
+      "cash": 1322000000.0,
+      "sharesOutstanding": 1128000000.0,
+      "grossMargin": 0.38628660332277603,
+      "operatingMargin": 0.14269044840806802,
+      "netMargin": 0.09596043785075291,
+      "roe": 0.10581459469395257,
+      "roic": 0.15734330004288952
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 21714000000.0,
+      "operatingIncome": 2924000000.0,
+      "netIncome": 2038000000.0,
+      "eps": 1.81,
+      "freeCashFlow": 1652000000.0,
+      "totalDebt": 694000000.0,
+      "cash": 1436000000.0,
+      "sharesOutstanding": 1128000000.0,
+      "grossMargin": 0.37473519388413007,
+      "operatingMargin": 0.1346596665745602,
+      "netMargin": 0.09385649811181726,
+      "roe": 0.10274248840492034,
+      "roic": 0.14242571846078908
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 21680000000.0,
+      "operatingIncome": 2133000000.0,
+      "netIncome": 1509000000.0,
+      "eps": 1.34,
+      "freeCashFlow": 1281000000.0,
+      "totalDebt": 633000000.0,
+      "cash": 2247000000.0,
+      "sharesOutstanding": 1128000000.0,
+      "grossMargin": 0.3555811808118081,
+      "operatingMargin": 0.09838560885608856,
+      "netMargin": 0.06960332103321033,
+      "roe": 0.08345777335324374,
+      "roic": 0.11397883937159346
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 22363000000.0,
+      "operatingIncome": 2809000000.0,
+      "netIncome": 1942000000.0,
+      "eps": 1.73,
+      "freeCashFlow": 2130000000.0,
+      "totalDebt": 780000000.0,
+      "cash": 2683000000.0,
+      "sharesOutstanding": 1128000000.0,
+      "grossMargin": 0.37866118141573135,
+      "operatingMargin": 0.12560926530429728,
+      "netMargin": 0.08683986942717882,
+      "roe": 0.10670915984394747,
+      "roic": 0.14800569050002635
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.91,
+      "freeCashFlow": null,
+      "totalDebt": 756000000.0,
+      "cash": 2248000000.0,
+      "sharesOutstanding": 1116803941.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:26.476358+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "MKS",
+  "name": "Marks and Spencer Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 7208995328.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 355.9,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 0.123,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 2025567766.0
+  },
+  "ratios": {
+    "roe": 0.07651,
+    "roic": null,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.059380002,
+    "netMargin": 0.01502,
+    "debtToEquity": 1.06097
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 10885100000.0,
+      "operatingIncome": 590800000.0,
+      "netIncome": 306600000.0,
+      "eps": null,
+      "freeCashFlow": 1120600000.0,
+      "totalDebt": 3808200000.0,
+      "cash": 1197900000.0,
+      "sharesOutstanding": 1958905344.0,
+      "grossMargin": 0.3449485994616494,
+      "operatingMargin": 0.05427602869978227,
+      "netMargin": 0.028166943803915444,
+      "roe": 0.10522703092288156,
+      "roic": 0.08789181630193844
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 11931300000.0,
+      "operatingIncome": 558600000.0,
+      "netIncome": 363400000.0,
+      "eps": 0.179,
+      "freeCashFlow": 619600000.0,
+      "totalDebt": 3628000000.0,
+      "cash": 1067900000.0,
+      "sharesOutstanding": 1964933931.0,
+      "grossMargin": 0.34737203825232793,
+      "operatingMargin": 0.04681803324030072,
+      "netMargin": 0.030457703686941073,
+      "roe": 0.13577940517112538,
+      "roic": 0.0886047839604086
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13040100000.0,
+      "operatingIncome": 794100000.0,
+      "netIncome": 431200000.0,
+      "eps": 0.208,
+      "freeCashFlow": 872400000.0,
+      "totalDebt": 3133200000.0,
+      "cash": 1022400000.0,
+      "sharesOutstanding": 2040355823.0,
+      "grossMargin": 0.3319146325564988,
+      "operatingMargin": 0.06089677226401638,
+      "netMargin": 0.033067231079516264,
+      "roe": 0.1523029104266742,
+      "roic": 0.13313996378512508
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 13816800000.0,
+      "operatingIncome": 667900000.0,
+      "netIncome": 295700000.0,
+      "eps": 0.14,
+      "freeCashFlow": 806100000.0,
+      "totalDebt": 2944500000.0,
+      "cash": 864500000.0,
+      "sharesOutstanding": 2055200170.0,
+      "grossMargin": 0.3334997973481559,
+      "operatingMargin": 0.04833970239129176,
+      "netMargin": 0.021401482253488507,
+      "roe": 0.1005748103805993,
+      "roic": 0.11349964313632192
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.123,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:45.229146+00:00"
+  }
+}

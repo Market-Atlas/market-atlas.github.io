@@ -1,0 +1,128 @@
+{
+  "ticker": "TRP",
+  "name": "TC Energy Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 95696707584.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 91.86,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15239000000.0,
+    "operatingIncome": 6762000000.0,
+    "netIncome": 3519000000.0,
+    "eps": 3.27,
+    "freeCashFlow": 2060000000.0,
+    "totalDebt": 60628000000.0,
+    "cash": 168000000.0,
+    "sharesOutstanding": 1040835168.0
+  },
+  "ratios": {
+    "roe": 0.12892471148562007,
+    "roic": 0.07690820376920715,
+    "grossMargin": 0.5015420959380537,
+    "operatingMargin": 0.4437299035369775,
+    "netMargin": 0.2309206640855699,
+    "debtToEquity": 1.66505
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12309000000.0,
+      "operatingIncome": 5070000000.0,
+      "netIncome": 748000000.0,
+      "eps": 0.64,
+      "freeCashFlow": -352000000.0,
+      "totalDebt": 58679000000.0,
+      "cash": 620000000.0,
+      "sharesOutstanding": 1017961583.0,
+      "grossMargin": 0.4709562109025916,
+      "operatingMargin": 0.4118937362905191,
+      "netMargin": 0.06076854334226988,
+      "roe": 0.022006472491909384,
+      "roic": 0.05471085260443082
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13267000000.0,
+      "operatingIncome": 5887000000.0,
+      "netIncome": 2922000000.0,
+      "eps": 2.75,
+      "freeCashFlow": -881000000.0,
+      "totalDebt": 63658000000.0,
+      "cash": 3678000000.0,
+      "sharesOutstanding": 1037487829.0,
+      "grossMargin": 0.5026004371749454,
+      "operatingMargin": 0.4437325695334288,
+      "netMargin": 0.2202457224692847,
+      "roe": 0.09887321084153892,
+      "roic": 0.06315778180686829
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 13771000000.0,
+      "operatingIncome": 5786000000.0,
+      "netIncome": 4698000000.0,
+      "eps": 4.43,
+      "freeCashFlow": 1338000000.0,
+      "totalDebt": 59877000000.0,
+      "cash": 801000000.0,
+      "sharesOutstanding": 1039095489.0,
+      "grossMargin": 0.47970372521966453,
+      "operatingMargin": 0.42015830368164986,
+      "netMargin": 0.3411516955921865,
+      "roe": 0.1702667439837634,
+      "roic": 0.06614914998456596
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15239000000.0,
+      "operatingIncome": 6762000000.0,
+      "netIncome": 3519000000.0,
+      "eps": 3.27,
+      "freeCashFlow": 2060000000.0,
+      "totalDebt": 60628000000.0,
+      "cash": 168000000.0,
+      "sharesOutstanding": 1040835168.0,
+      "grossMargin": 0.5015420959380537,
+      "operatingMargin": 0.4437299035369775,
+      "netMargin": 0.2309206640855699,
+      "roe": 0.12892471148562007,
+      "roic": 0.07690820376920715
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.941323+00:00"
+  }
+}

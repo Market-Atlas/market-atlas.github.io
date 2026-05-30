@@ -1,0 +1,111 @@
+{
+  "ticker": "JD",
+  "name": "JD Sports Fashion Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4033340672.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 84.26,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 12662000000.0,
+    "operatingIncome": 966000000.0,
+    "netIncome": 436000000.0,
+    "eps": 0.0854,
+    "freeCashFlow": 956000000.0,
+    "totalDebt": 3680000000.0,
+    "cash": 854000000.0,
+    "sharesOutstanding": 5026231568.0
+  },
+  "ratios": {
+    "roe": 0.14581939799331103,
+    "roic": 0.14482758620689656,
+    "grossMargin": 0.4699889432948981,
+    "operatingMargin": 0.07629126520296951,
+    "netMargin": 0.03443373874585374,
+    "debtToEquity": 1.06977
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 10125000000.0,
+      "operatingIncome": 1055400000.0,
+      "netIncome": 188300000.0,
+      "eps": 0.0276,
+      "freeCashFlow": 735000000.0,
+      "totalDebt": 2497200000.0,
+      "cash": 1508000000.0,
+      "sharesOutstanding": 5183000000.0,
+      "grossMargin": 0.48173827160493826,
+      "operatingMargin": 0.10423703703703703,
+      "netMargin": 0.01859753086419753,
+      "roe": 0.08894242123659724,
+      "roic": 0.2287237500812691
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 10542000000.0,
+      "operatingIncome": 972000000.0,
+      "netIncome": 539000000.0,
+      "eps": 0.1045,
+      "freeCashFlow": 610000000.0,
+      "totalDebt": 2614000000.0,
+      "cash": 1153000000.0,
+      "sharesOutstanding": 5183135745.0,
+      "grossMargin": 0.47884651868715616,
+      "operatingMargin": 0.09220261809903244,
+      "netMargin": 0.05112881806108898,
+      "roe": 0.21937321937321938,
+      "roic": 0.19167816998619602
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 11458000000.0,
+      "operatingIncome": 978000000.0,
+      "netIncome": 490000000.0,
+      "eps": 0.095,
+      "freeCashFlow": 713000000.0,
+      "totalDebt": 3738000000.0,
+      "cash": 731000000.0,
+      "sharesOutstanding": 5183135745.0,
+      "grossMargin": 0.4688427299703264,
+      "operatingMargin": 0.08535521033339152,
+      "netMargin": 0.04276488043288532,
+      "roe": 0.1676933607118412,
+      "roic": 0.14684684684684685
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 12662000000.0,
+      "operatingIncome": 966000000.0,
+      "netIncome": 436000000.0,
+      "eps": 0.0854,
+      "freeCashFlow": 956000000.0,
+      "totalDebt": 3680000000.0,
+      "cash": 854000000.0,
+      "sharesOutstanding": 5026231568.0,
+      "grossMargin": 0.4699889432948981,
+      "operatingMargin": 0.07629126520296951,
+      "netMargin": 0.03443373874585374,
+      "roe": 0.14581939799331103,
+      "roic": 0.14482758620689656
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:42.858510+00:00"
+  }
+}

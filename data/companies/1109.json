@@ -1,0 +1,111 @@
+{
+  "ticker": "1109",
+  "name": "China Resources Land Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 251864776704.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 35.32,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 281437885000.0,
+    "operatingIncome": 45460664000.0,
+    "netIncome": 25417534000.0,
+    "eps": 3.56,
+    "freeCashFlow": 37893857000.0,
+    "totalDebt": 287595128000.0,
+    "cash": 115449212000.0,
+    "sharesOutstanding": 7130939579.0
+  },
+  "ratios": {
+    "roe": 0.08780298037271021,
+    "roic": 0.07877721321118238,
+    "grossMargin": 0.21228266052383105,
+    "operatingMargin": 0.16153000865537345,
+    "netMargin": 0.09031312184569608,
+    "debtToEquity": 0.8039799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 207061119000.0,
+      "operatingIncome": 43174934000.0,
+      "netIncome": 28091865000.0,
+      "eps": 3.94,
+      "freeCashFlow": -666980000.0,
+      "totalDebt": 224218913000.0,
+      "cash": 95544576000.0,
+      "sharesOutstanding": 7130939579.0,
+      "grossMargin": 0.2621960620235999,
+      "operatingMargin": 0.20851299465835496,
+      "netMargin": 0.1356694348783076,
+      "roe": 0.11510838919356167,
+      "roic": 0.09220173076762173
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 251137103000.0,
+      "operatingIncome": 49317816000.0,
+      "netIncome": 31365372000.0,
+      "eps": 4.4,
+      "freeCashFlow": 46091657000.0,
+      "totalDebt": 239329413000.0,
+      "cash": 112675092000.0,
+      "sharesOutstanding": 7130939579.0,
+      "grossMargin": 0.2515037134915106,
+      "operatingMargin": 0.19637805569494046,
+      "netMargin": 0.12489342126400176,
+      "roe": 0.11841924561866164,
+      "roic": 0.09781465482166801
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 278905492000.0,
+      "operatingIncome": 46613192000.0,
+      "netIncome": 25532747000.0,
+      "eps": 3.59,
+      "freeCashFlow": 45573306000.0,
+      "totalDebt": 266632657000.0,
+      "cash": 131380988000.0,
+      "sharesOutstanding": 7130939579.0,
+      "grossMargin": 0.21640314275346,
+      "operatingMargin": 0.16712898575693877,
+      "netMargin": 0.09154623244206321,
+      "roe": 0.09362254936753699,
+      "roic": 0.0864243208387749
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 281437885000.0,
+      "operatingIncome": 45460664000.0,
+      "netIncome": 25417534000.0,
+      "eps": 3.56,
+      "freeCashFlow": 37893857000.0,
+      "totalDebt": 287595128000.0,
+      "cash": 115449212000.0,
+      "sharesOutstanding": 7130939579.0,
+      "grossMargin": 0.21228266052383105,
+      "operatingMargin": 0.16153000865537345,
+      "netMargin": 0.09031312184569608,
+      "roe": 0.08780298037271021,
+      "roic": 0.07877721321118238
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:33.472909+00:00"
+  }
+}

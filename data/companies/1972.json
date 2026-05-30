@@ -1,0 +1,111 @@
+{
+  "ticker": "1972",
+  "name": "Swire Properties Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 128046465024.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 22.24,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16041000000.0,
+    "operatingIncome": 8192000000.0,
+    "netIncome": -1533000000.0,
+    "eps": -0.27,
+    "freeCashFlow": 7246000000.0,
+    "totalDebt": 49723000000.0,
+    "cash": 10183000000.0,
+    "sharesOutstanding": 5757484800.0
+  },
+  "ratios": {
+    "roe": -0.005689156089957693,
+    "roic": 0.025665527299386245,
+    "grossMargin": 0.6643600773019138,
+    "operatingMargin": 0.5106913534068949,
+    "netMargin": -0.0955676080044885,
+    "debtToEquity": 0.19956
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 13826000000.0,
+      "operatingIncome": 7655000000.0,
+      "netIncome": 7980000000.0,
+      "eps": 1.36,
+      "freeCashFlow": 4565000000.0,
+      "totalDebt": 23449000000.0,
+      "cash": 4502000000.0,
+      "sharesOutstanding": 5850000000.0,
+      "grossMargin": 0.6887747721683785,
+      "operatingMargin": 0.5536670041949949,
+      "netMargin": 0.5771734413423983,
+      "roe": 0.02759231149575915,
+      "roic": 0.02448346446619331
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 14670000000.0,
+      "operatingIncome": 8123000000.0,
+      "netIncome": 2637000000.0,
+      "eps": 0.45,
+      "freeCashFlow": 5164000000.0,
+      "totalDebt": 41776000000.0,
+      "cash": 5097000000.0,
+      "sharesOutstanding": 5850000000.0,
+      "grossMargin": 0.7079754601226994,
+      "operatingMargin": 0.5537150647580096,
+      "netMargin": 0.17975460122699385,
+      "roe": 0.00924997018401723,
+      "roic": 0.024851770493608847
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14428000000.0,
+      "operatingIncome": 7793000000.0,
+      "netIncome": -766000000.0,
+      "eps": -0.13,
+      "freeCashFlow": 3440000000.0,
+      "totalDebt": 48867000000.0,
+      "cash": 5121000000.0,
+      "sharesOutstanding": 5802221400.0,
+      "grossMargin": 0.7048794011644025,
+      "operatingMargin": 0.5401303021901858,
+      "netMargin": -0.053091211533130026,
+      "roe": -0.002782156425473802,
+      "roic": 0.024038150114283775
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16041000000.0,
+      "operatingIncome": 8192000000.0,
+      "netIncome": -1533000000.0,
+      "eps": -0.27,
+      "freeCashFlow": 7246000000.0,
+      "totalDebt": 49723000000.0,
+      "cash": 10183000000.0,
+      "sharesOutstanding": 5757484800.0,
+      "grossMargin": 0.6643600773019138,
+      "operatingMargin": 0.5106913534068949,
+      "netMargin": -0.0955676080044885,
+      "roe": -0.005689156089957693,
+      "roic": 0.025665527299386245
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:36.254966+00:00"
+  }
+}

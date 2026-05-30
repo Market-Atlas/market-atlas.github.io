@@ -1,0 +1,111 @@
+{
+  "ticker": "6702",
+  "name": "Fujitsu Limited",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5842733105152.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3368.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3550116000000.0,
+    "operatingIncome": 265089000000.0,
+    "netIncome": 219807000000.0,
+    "eps": null,
+    "freeCashFlow": 142984000000.0,
+    "totalDebt": 247092000000.0,
+    "cash": 236079000000.0,
+    "sharesOutstanding": 2071108450.0
+  },
+  "ratios": {
+    "roe": 0.1262558408698624,
+    "roic": 0.13334074425431464,
+    "grossMargin": 0.32899713699496014,
+    "operatingMargin": 0.07467051780843217,
+    "netMargin": 0.06191544163627329,
+    "debtToEquity": 0.06509999999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 3586839000000.0,
+      "operatingIncome": 219201000000.0,
+      "netIncome": 182691000000.0,
+      "eps": 92.297,
+      "freeCashFlow": 105096000000.0,
+      "totalDebt": 285319000000.0,
+      "cash": 484020000000.0,
+      "sharesOutstanding": 2070018210.0,
+      "grossMargin": 0.3118765576040631,
+      "operatingMargin": 0.06111258408866414,
+      "netMargin": 0.050933705137030126,
+      "roe": 0.11484849875496082,
+      "roic": 0.11684288967352369
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3713767000000.0,
+      "operatingIncome": 335614000000.0,
+      "netIncome": 215182000000.0,
+      "eps": 110.54,
+      "freeCashFlow": 52231000000.0,
+      "totalDebt": 211175000000.0,
+      "cash": 355901000000.0,
+      "sharesOutstanding": 2070018210.0,
+      "grossMargin": 0.3080650993990738,
+      "operatingMargin": 0.09037023593564163,
+      "netMargin": 0.05794170716687396,
+      "roe": 0.13560452094893294,
+      "roic": 0.18665858365637567
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 3476985000000.0,
+      "operatingIncome": 149326000000.0,
+      "netIncome": 254478000000.0,
+      "eps": 135.34,
+      "freeCashFlow": 113382000000.0,
+      "totalDebt": 245676000000.0,
+      "cash": 342139000000.0,
+      "sharesOutstanding": 2071108450.0,
+      "grossMargin": 0.3215397823113991,
+      "operatingMargin": 0.04294697848854683,
+      "netMargin": 0.07318927173974003,
+      "roe": 0.14521742554324288,
+      "roic": 0.0747351567938845
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3550116000000.0,
+      "operatingIncome": 265089000000.0,
+      "netIncome": 219807000000.0,
+      "eps": null,
+      "freeCashFlow": 142984000000.0,
+      "totalDebt": 247092000000.0,
+      "cash": 236079000000.0,
+      "sharesOutstanding": 2071108450.0,
+      "grossMargin": 0.32899713699496014,
+      "operatingMargin": 0.07467051780843217,
+      "netMargin": 0.06191544163627329,
+      "roe": 0.1262558408698624,
+      "roic": 0.13334074425431464
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:10.110865+00:00"
+  }
+}

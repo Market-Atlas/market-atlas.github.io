@@ -1,0 +1,128 @@
+{
+  "ticker": "3402",
+  "name": "Toray Industries, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1736166080512.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1192.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 52.87,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1456515217.0
+  },
+  "ratios": {
+    "roe": 0.04772,
+    "roic": null,
+    "grossMargin": 0.20117001,
+    "operatingMargin": 0.03934,
+    "netMargin": 0.03076,
+    "debtToEquity": 0.46973
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2228523000000.0,
+      "operatingIncome": 100565000000.0,
+      "netIncome": 84235000000.0,
+      "eps": null,
+      "freeCashFlow": 46091000000.0,
+      "totalDebt": 935658000000.0,
+      "cash": 229301000000.0,
+      "sharesOutstanding": 1631481403.0,
+      "grossMargin": 0.19563136660469738,
+      "operatingMargin": 0.04512630114205687,
+      "netMargin": 0.03779857780242789,
+      "roe": 0.059928528284543654,
+      "roic": 0.042953568800242946
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2489330000000.0,
+      "operatingIncome": 109001000000.0,
+      "netIncome": 72823000000.0,
+      "eps": 45.4,
+      "freeCashFlow": 42997000000.0,
+      "totalDebt": 950093000000.0,
+      "cash": 223995000000.0,
+      "sharesOutstanding": 1631481403.0,
+      "grossMargin": 0.16905552899776244,
+      "operatingMargin": 0.043787284128661126,
+      "netMargin": 0.02925405631234107,
+      "roe": 0.047440828440914434,
+      "roic": 0.04386144578070846
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2464596000000.0,
+      "operatingIncome": 57651000000.0,
+      "netIncome": 21897000000.0,
+      "eps": 13.65,
+      "freeCashFlow": 51550000000.0,
+      "totalDebt": 949684000000.0,
+      "cash": 235887000000.0,
+      "sharesOutstanding": 1631481403.0,
+      "grossMargin": 0.1799576888057921,
+      "operatingMargin": 0.023391663380123964,
+      "netMargin": 0.008884620440834929,
+      "roe": 0.012613232229322698,
+      "roic": 0.021465768185639743
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2563280000000.0,
+      "operatingIncome": 127453000000.0,
+      "netIncome": 77911000000.0,
+      "eps": 48.84,
+      "freeCashFlow": 75785000000.0,
+      "totalDebt": 842659000000.0,
+      "cash": 237295000000.0,
+      "sharesOutstanding": 1631481403.0,
+      "grossMargin": 0.1973623638463219,
+      "operatingMargin": 0.0497226210168222,
+      "netMargin": 0.030395040729065886,
+      "roe": 0.04558907514640277,
+      "roic": 0.04994938555275954
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 52.87,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:08.287829+00:00"
+  }
+}

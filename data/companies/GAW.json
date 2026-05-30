@@ -1,0 +1,111 @@
+{
+  "ticker": "GAW",
+  "name": "Games Workshop Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6562597888.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 19860.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 617500000.0,
+    "operatingIncome": 261300000.0,
+    "netIncome": 196100000.0,
+    "eps": 5.935,
+    "freeCashFlow": 206500000.0,
+    "totalDebt": 45200000.0,
+    "cash": 132600000.0,
+    "sharesOutstanding": 32971750.0
+  },
+  "ratios": {
+    "roe": 0.6983618233618234,
+    "roic": 0.8015337423312884,
+    "grossMargin": 0.7206477732793523,
+    "operatingMargin": 0.4231578947368421,
+    "netMargin": 0.31757085020242914,
+    "debtToEquity": 0.15602
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-05-31",
+      "revenue": 414800000.0,
+      "operatingIncome": 157100000.0,
+      "netIncome": 128400000.0,
+      "eps": 3.906,
+      "freeCashFlow": 89200000.0,
+      "totalDebt": 48900000.0,
+      "cash": 71400000.0,
+      "sharesOutstanding": 32839832.0,
+      "grossMargin": 0.6928640308582449,
+      "operatingMargin": 0.3787367405978785,
+      "netMargin": 0.3095467695274831,
+      "roe": 0.5470813804857264,
+      "roic": 0.5539492242595204
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-05-31",
+      "revenue": 470800000.0,
+      "operatingIncome": 170200000.0,
+      "netIncome": 134700000.0,
+      "eps": 4.094,
+      "freeCashFlow": 164400000.0,
+      "totalDebt": 49900000.0,
+      "cash": 90200000.0,
+      "sharesOutstanding": 32913994.0,
+      "grossMargin": 0.6830926083262532,
+      "operatingMargin": 0.3615123194562447,
+      "netMargin": 0.2861087510620221,
+      "roe": 0.572947681837516,
+      "roic": 0.5971929824561404
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-05-31",
+      "revenue": 525700000.0,
+      "operatingIncome": 201800000.0,
+      "netIncome": 151100000.0,
+      "eps": 4.582,
+      "freeCashFlow": 163600000.0,
+      "totalDebt": 47200000.0,
+      "cash": 107600000.0,
+      "sharesOutstanding": 32952000.0,
+      "grossMargin": 0.7123834886817576,
+      "operatingMargin": 0.38386912687844776,
+      "netMargin": 0.2874262887578467,
+      "roe": 0.6010342084327764,
+      "roic": 0.6758204956463496
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-05-31",
+      "revenue": 617500000.0,
+      "operatingIncome": 261300000.0,
+      "netIncome": 196100000.0,
+      "eps": 5.935,
+      "freeCashFlow": 206500000.0,
+      "totalDebt": 45200000.0,
+      "cash": 132600000.0,
+      "sharesOutstanding": 32971750.0,
+      "grossMargin": 0.7206477732793523,
+      "operatingMargin": 0.4231578947368421,
+      "netMargin": 0.31757085020242914,
+      "roe": 0.6983618233618234,
+      "roic": 0.8015337423312884
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:39.109270+00:00"
+  }
+}

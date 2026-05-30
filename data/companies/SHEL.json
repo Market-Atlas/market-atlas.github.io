@@ -1,0 +1,128 @@
+{
+  "ticker": "SHEL",
+  "name": "Shell plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "marketCap": {
+    "value": 173323862016.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3118.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 266886000000.0,
+    "operatingIncome": 27582000000.0,
+    "netIncome": 17837000000.0,
+    "eps": 3.0,
+    "freeCashFlow": 23916000000.0,
+    "totalDebt": 75643000000.0,
+    "cash": 29630000000.0,
+    "sharesOutstanding": 5718636398.0
+  },
+  "ratios": {
+    "roe": 0.10228106793889628,
+    "roic": 0.1103125562421261,
+    "grossMargin": 0.15922528720127696,
+    "operatingMargin": 0.10334749668397743,
+    "netMargin": 0.06683377921659435,
+    "debtToEquity": 0.43323999999999996
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 381314000000.0,
+      "operatingIncome": 63109000000.0,
+      "netIncome": 42309000000.0,
+      "eps": 5.71,
+      "freeCashFlow": 45814000000.0,
+      "totalDebt": 83795000000.0,
+      "cash": 40090000000.0,
+      "sharesOutstanding": 7003503393.0,
+      "grossMargin": 0.20659876112600115,
+      "operatingMargin": 0.16550402030872194,
+      "netMargin": 0.11095580020665384,
+      "roe": 0.22212713679700954,
+      "roic": 0.23010059540520733
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 316620000000.0,
+      "operatingIncome": 30737000000.0,
+      "netIncome": 19359000000.0,
+      "eps": 2.85,
+      "freeCashFlow": 31198000000.0,
+      "totalDebt": 81541000000.0,
+      "cash": 38314000000.0,
+      "sharesOutstanding": 6524109049.0,
+      "grossMargin": 0.14909670898869307,
+      "operatingMargin": 0.09707851683405976,
+      "netMargin": 0.06114269471290506,
+      "roe": 0.10374208898915903,
+      "roic": 0.11462699703149007
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 284312000000.0,
+      "operatingIncome": 29992000000.0,
+      "netIncome": 16094000000.0,
+      "eps": 2.53,
+      "freeCashFlow": 35086000000.0,
+      "totalDebt": 77078000000.0,
+      "cash": 37836000000.0,
+      "sharesOutstanding": 6115031158.0,
+      "grossMargin": 0.16158656687019893,
+      "operatingMargin": 0.10548974366189257,
+      "netMargin": 0.056606826303497566,
+      "roe": 0.09026005709254263,
+      "roic": 0.11743837735184134
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 266886000000.0,
+      "operatingIncome": 27582000000.0,
+      "netIncome": 17837000000.0,
+      "eps": 3.0,
+      "freeCashFlow": 23916000000.0,
+      "totalDebt": 75643000000.0,
+      "cash": 29630000000.0,
+      "sharesOutstanding": 5718636398.0,
+      "grossMargin": 0.15922528720127696,
+      "operatingMargin": 0.10334749668397743,
+      "netMargin": 0.06683377921659435,
+      "roe": 0.10228106793889628,
+      "roic": 0.1103125562421261
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:54.649800+00:00"
+  }
+}

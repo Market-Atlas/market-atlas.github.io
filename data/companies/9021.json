@@ -1,0 +1,128 @@
+{
+  "ticker": "9021",
+  "name": "West Japan Railway Company",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1196187844608.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2628.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 277.73,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 455083824.0
+  },
+  "ratios": {
+    "roe": 0.10167,
+    "roic": null,
+    "grossMargin": 0.25046,
+    "operatingMargin": 0.00187,
+    "netMargin": 0.069070004,
+    "debtToEquity": 1.15445
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1031103000000.0,
+      "operatingIncome": -119092000000.0,
+      "netIncome": -113198000000.0,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": 1639226000000.0,
+      "cash": 319843000000.0,
+      "sharesOutstanding": 488003200.0,
+      "grossMargin": 0.0419414937208019,
+      "operatingMargin": -0.11549961546033713,
+      "netMargin": -0.10978340670136737,
+      "roe": -0.11682687643585038,
+      "roic": -0.04566123909386066
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1395531000000.0,
+      "operatingIncome": 83971000000.0,
+      "netIncome": 88528000000.0,
+      "eps": 181.63,
+      "freeCashFlow": null,
+      "totalDebt": 1574510000000.0,
+      "cash": 290138000000.0,
+      "sharesOutstanding": 488003200.0,
+      "grossMargin": 0.19254176367275253,
+      "operatingMargin": 0.060171361295449546,
+      "netMargin": 0.06343678499438565,
+      "roe": 0.08557770849948042,
+      "roic": 0.03218531344565032
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1635023000000.0,
+      "operatingIncome": 179749000000.0,
+      "netIncome": 98761000000.0,
+      "eps": 202.63,
+      "freeCashFlow": null,
+      "totalDebt": 1476277000000.0,
+      "cash": 233465000000.0,
+      "sharesOutstanding": 488003200.0,
+      "grossMargin": 0.24186020624786317,
+      "operatingMargin": 0.10993667978982559,
+      "netMargin": 0.06040343163368344,
+      "roe": 0.08913085659878435,
+      "roic": 0.06955363921368932
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1707944000000.0,
+      "operatingIncome": 180162000000.0,
+      "netIncome": 113958000000.0,
+      "eps": 240.08,
+      "freeCashFlow": null,
+      "totalDebt": 1443294000000.0,
+      "cash": 125617000000.0,
+      "sharesOutstanding": 471009800.0,
+      "grossMargin": 0.2448458497468301,
+      "operatingMargin": 0.10548472315251554,
+      "netMargin": 0.0667223281325383,
+      "roe": 0.09852393068621272,
+      "roic": 0.06929448946459293
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 277.73,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:17.120199+00:00"
+  }
+}

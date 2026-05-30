@@ -1,0 +1,128 @@
+{
+  "ticker": "2319",
+  "name": "China Mengniu Dairy Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 65613074432.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 16.96,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 82244944000.0,
+    "operatingIncome": 6887796000.0,
+    "netIncome": 1545350000.0,
+    "eps": 0.395,
+    "freeCashFlow": 6297844000.0,
+    "totalDebt": 25388736000.0,
+    "cash": 13254542000.0,
+    "sharesOutstanding": 3878902513.0
+  },
+  "ratios": {
+    "roe": 0.03813902863656508,
+    "roic": 0.10450685980858929,
+    "grossMargin": 0.3989113665151258,
+    "operatingMargin": 0.0837473486516083,
+    "netMargin": 0.018789604866166605,
+    "debtToEquity": 0.53815
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.274,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 92593322000.0,
+      "operatingIncome": 5915882000.0,
+      "netIncome": 5302972000.0,
+      "eps": 1.336,
+      "freeCashFlow": 3268615000.0,
+      "totalDebt": 39108605000.0,
+      "cash": 12765829000.0,
+      "sharesOutstanding": 3955195965.0,
+      "grossMargin": 0.3530468644380207,
+      "operatingMargin": 0.0638910222920828,
+      "netMargin": 0.05727164643687803,
+      "roe": 0.13224850580594705,
+      "roic": 0.07468874177954526
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 98624041000.0,
+      "operatingIncome": 6727859000.0,
+      "netIncome": 4809197000.0,
+      "eps": 1.216,
+      "freeCashFlow": 4214627000.0,
+      "totalDebt": 37410755000.0,
+      "cash": 12443800000.0,
+      "sharesOutstanding": 3935292513.0,
+      "grossMargin": 0.37151281400039166,
+      "operatingMargin": 0.06821723113130194,
+      "netMargin": 0.048762927895035245,
+      "roe": 0.10851086301772075,
+      "roic": 0.08231738927424517
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 88674774000.0,
+      "operatingIncome": 7684017000.0,
+      "netIncome": 104507000.0,
+      "eps": 0.027,
+      "freeCashFlow": 4857127000.0,
+      "totalDebt": 34637200000.0,
+      "cash": 17339157000.0,
+      "sharesOutstanding": 3917970513.0,
+      "grossMargin": 0.3957206589553868,
+      "operatingMargin": 0.08665392256877925,
+      "netMargin": 0.0011785426146110054,
+      "roe": 0.002514467021509187,
+      "roic": 0.10084079699906641
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 82244944000.0,
+      "operatingIncome": 6887796000.0,
+      "netIncome": 1545350000.0,
+      "eps": 0.395,
+      "freeCashFlow": 6297844000.0,
+      "totalDebt": 25388736000.0,
+      "cash": 13254542000.0,
+      "sharesOutstanding": 3878902513.0,
+      "grossMargin": 0.3989113665151258,
+      "operatingMargin": 0.0837473486516083,
+      "netMargin": 0.018789604866166605,
+      "roe": 0.03813902863656508,
+      "roic": 0.10450685980858929
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:38.418253+00:00"
+  }
+}

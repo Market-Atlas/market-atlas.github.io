@@ -1,0 +1,111 @@
+{
+  "ticker": "LR",
+  "name": "Legrand SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 38594990080.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 147.65,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9480600000.0,
+    "operatingIncome": 1808500000.0,
+    "netIncome": 1244600000.0,
+    "eps": 4.705,
+    "freeCashFlow": 1328100000.0,
+    "totalDebt": 6603800000.0,
+    "cash": 2372500000.0,
+    "sharesOutstanding": 262245733.0
+  },
+  "ratios": {
+    "roe": 0.17062871870801458,
+    "roic": 0.13012663692617643,
+    "grossMargin": 0.5082589709512056,
+    "operatingMargin": 0.19075796890492164,
+    "netMargin": 0.13127861105837182,
+    "debtToEquity": 0.85084
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8339400000.0,
+      "operatingIncome": 1446500000.0,
+      "netIncome": 999500000.0,
+      "eps": 3.726,
+      "freeCashFlow": 1030500000.0,
+      "totalDebt": 4665700000.0,
+      "cash": 2333400000.0,
+      "sharesOutstanding": 266817746.0,
+      "grossMargin": 0.4972420078183083,
+      "operatingMargin": 0.17345372568769934,
+      "netMargin": 0.11985274720003837,
+      "roe": 0.15059061049840294,
+      "roic": 0.12797600615771174
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 8416900000.0,
+      "operatingIncome": 1591600000.0,
+      "netIncome": 1148500000.0,
+      "eps": 4.304,
+      "freeCashFlow": 1583100000.0,
+      "totalDebt": 4821300000.0,
+      "cash": 2782200000.0,
+      "sharesOutstanding": 264031292.0,
+      "grossMargin": 0.5226270954864618,
+      "operatingMargin": 0.18909574784065392,
+      "netMargin": 0.13645166272618184,
+      "roe": 0.17083909738646674,
+      "roic": 0.13787248787248788
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8648900000.0,
+      "operatingIncome": 1642700000.0,
+      "netIncome": 1166400000.0,
+      "eps": 4.423,
+      "freeCashFlow": 1283700000.0,
+      "totalDebt": 5086200000.0,
+      "cash": 2075200000.0,
+      "sharesOutstanding": 262245733.0,
+      "grossMargin": 0.5163778052700343,
+      "operatingMargin": 0.18993166761091007,
+      "netMargin": 0.13486108059984506,
+      "roe": 0.15489217040263464,
+      "roic": 0.1302014805890652
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9480600000.0,
+      "operatingIncome": 1808500000.0,
+      "netIncome": 1244600000.0,
+      "eps": 4.705,
+      "freeCashFlow": 1328100000.0,
+      "totalDebt": 6603800000.0,
+      "cash": 2372500000.0,
+      "sharesOutstanding": 262245733.0,
+      "grossMargin": 0.5082589709512056,
+      "operatingMargin": 0.19075796890492164,
+      "netMargin": 0.13127861105837182,
+      "roe": 0.17062871870801458,
+      "roic": 0.13012663692617643
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:21.542741+00:00"
+  }
+}

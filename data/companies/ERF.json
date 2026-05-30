@@ -1,0 +1,128 @@
+{
+  "ticker": "ERF",
+  "name": "Eurofins Scientific SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 10912156672.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.46,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7296100000.0,
+    "operatingIncome": 818300000.0,
+    "netIncome": 474800000.0,
+    "eps": 2.55,
+    "freeCashFlow": 564100000.0,
+    "totalDebt": 4432000000.0,
+    "cash": 791200000.0,
+    "sharesOutstanding": 182163000.0
+  },
+  "ratios": {
+    "roe": 0.10450553562388572,
+    "roic": 0.09117243991844284,
+    "grossMargin": 0.6811995449623771,
+    "operatingMargin": 0.11215580926796508,
+    "netMargin": 0.06507586244706076,
+    "debtToEquity": 0.9683799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6712100000.0,
+      "operatingIncome": 783200000.0,
+      "netIncome": 610200000.0,
+      "eps": 3.07,
+      "freeCashFlow": 476100000.0,
+      "totalDebt": 3325500000.0,
+      "cash": 486600000.0,
+      "sharesOutstanding": 192739583.0,
+      "grossMargin": 0.6682111410735835,
+      "operatingMargin": 0.11668479313478643,
+      "netMargin": 0.09091044531517707,
+      "roe": 0.12760084481713055,
+      "roic": 0.0966007203118062
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6514600000.0,
+      "operatingIncome": 546800000.0,
+      "netIncome": 310200000.0,
+      "eps": 1.57,
+      "freeCashFlow": 467800000.0,
+      "totalDebt": 3926500000.0,
+      "cash": 1221200000.0,
+      "sharesOutstanding": 192981183.0,
+      "grossMargin": 0.6698032112485801,
+      "operatingMargin": 0.08393454701746846,
+      "netMargin": 0.047616123783501677,
+      "roe": 0.06109305760709011,
+      "roic": 0.060728565082185694
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6951000000.0,
+      "operatingIncome": 726200000.0,
+      "netIncome": 406400000.0,
+      "eps": 2.09,
+      "freeCashFlow": 790500000.0,
+      "totalDebt": 3610300000.0,
+      "cash": 613900000.0,
+      "sharesOutstanding": 192981183.0,
+      "grossMargin": 0.6779168464969069,
+      "operatingMargin": 0.10447417637749964,
+      "netMargin": 0.0584664077111207,
+      "roe": 0.07611912343135419,
+      "roic": 0.08114601141988759
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7296100000.0,
+      "operatingIncome": 818300000.0,
+      "netIncome": 474800000.0,
+      "eps": 2.55,
+      "freeCashFlow": 564100000.0,
+      "totalDebt": 4432000000.0,
+      "cash": 791200000.0,
+      "sharesOutstanding": 182163000.0,
+      "grossMargin": 0.6811995449623771,
+      "operatingMargin": 0.11215580926796508,
+      "netMargin": 0.06507586244706076,
+      "roe": 0.10450553562388572,
+      "roic": 0.09117243991844284
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:18.672113+00:00"
+  }
+}

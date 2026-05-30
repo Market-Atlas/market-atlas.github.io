@@ -1,0 +1,128 @@
+{
+  "ticker": "6770",
+  "name": "Alps Alpine Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 423593803776.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2171.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 134.77,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 195114611.0
+  },
+  "ratios": {
+    "roe": 0.06311,
+    "roic": null,
+    "grossMargin": 0.17839001,
+    "operatingMargin": 0.03036,
+    "netMargin": 0.02637,
+    "debtToEquity": 0.20533
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 802854000000.0,
+      "operatingIncome": 35208000000.0,
+      "netIncome": 22960000000.0,
+      "eps": 110.79,
+      "freeCashFlow": -13892000000.0,
+      "totalDebt": 113271000000.0,
+      "cash": 139730000000.0,
+      "sharesOutstanding": 219281450.0,
+      "grossMargin": 0.172883239044708,
+      "operatingMargin": 0.043853552451628815,
+      "netMargin": 0.028597976718058325,
+      "roe": 0.05893133062632506,
+      "roic": 0.0700131443673105
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 933114000000.0,
+      "operatingIncome": 33596000000.0,
+      "netIncome": 11470000000.0,
+      "eps": 55.76,
+      "freeCashFlow": -36943000000.0,
+      "totalDebt": 121937000000.0,
+      "cash": 84173000000.0,
+      "sharesOutstanding": 219281450.0,
+      "grossMargin": 0.17953540510591418,
+      "operatingMargin": 0.03600417526690201,
+      "netMargin": 0.012292174375263901,
+      "roe": 0.02880353577841116,
+      "roic": 0.06458881250096125
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 964090000000.0,
+      "operatingIncome": 19712000000.0,
+      "netIncome": -29814000000.0,
+      "eps": -145.04,
+      "freeCashFlow": 33132000000.0,
+      "totalDebt": 129301000000.0,
+      "cash": 122667000000.0,
+      "sharesOutstanding": 219281450.0,
+      "grossMargin": 0.17225881401114004,
+      "operatingMargin": 0.020446223900258274,
+      "netMargin": -0.03092449875011669,
+      "roe": -0.0762167219702741,
+      "roic": 0.03787309669052308
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 990407000000.0,
+      "operatingIncome": 34107000000.0,
+      "netIncome": 37837000000.0,
+      "eps": null,
+      "freeCashFlow": 15199000000.0,
+      "totalDebt": 100787000000.0,
+      "cash": 147941000000.0,
+      "sharesOutstanding": 219281450.0,
+      "grossMargin": 0.176865672395288,
+      "operatingMargin": 0.034437357571180334,
+      "netMargin": 0.03820348604159704,
+      "roe": 0.09139371980676328,
+      "roic": 0.06625458684854124
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 134.77,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:11.040819+00:00"
+  }
+}

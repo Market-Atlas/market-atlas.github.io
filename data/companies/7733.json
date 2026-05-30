@@ -1,0 +1,111 @@
+{
+  "ticker": "7733",
+  "name": "Olympus Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1966018396160.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1785.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 997332000000.0,
+    "operatingIncome": 161996000000.0,
+    "netIncome": 117855000000.0,
+    "eps": 102.8,
+    "freeCashFlow": 125254000000.0,
+    "totalDebt": 229102000000.0,
+    "cash": 252532000000.0,
+    "sharesOutstanding": 1139116300.0
+  },
+  "ratios": {
+    "roe": 0.15677773890463767,
+    "roic": 0.16516131663327674,
+    "grossMargin": 0.6855259833235071,
+    "operatingMargin": 0.16242936153657958,
+    "netMargin": 0.1181702783025111,
+    "debtToEquity": 0.29503
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 750123000000.0,
+      "operatingIncome": 144696000000.0,
+      "netIncome": 115742000000.0,
+      "eps": 90.17,
+      "freeCashFlow": 107958000000.0,
+      "totalDebt": 386127000000.0,
+      "cash": 302572000000.0,
+      "sharesOutstanding": 1299294333.0,
+      "grossMargin": 0.6754892197679581,
+      "operatingMargin": 0.19289636499614063,
+      "netMargin": 0.15429736189931517,
+      "roe": 0.22687036427216134,
+      "roic": 0.16143791943500746
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 881923000000.0,
+      "operatingIncome": 186118000000.0,
+      "netIncome": 143432000000.0,
+      "eps": 113.08,
+      "freeCashFlow": 27867000000.0,
+      "totalDebt": 340057000000.0,
+      "cash": 169329000000.0,
+      "sharesOutstanding": 1266178700.0,
+      "grossMargin": 0.6767586285877565,
+      "operatingMargin": 0.2110365644166214,
+      "netMargin": 0.16263551353122666,
+      "roe": 0.22408273901122508,
+      "roic": 0.1898888120292774
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 925752000000.0,
+      "operatingIncome": 51745000000.0,
+      "netIncome": 242566000000.0,
+      "eps": 199.44,
+      "freeCashFlow": -22259000000.0,
+      "totalDebt": 299616000000.0,
+      "cash": 340933000000.0,
+      "sharesOutstanding": 1215146700.0,
+      "grossMargin": 0.6680320431389832,
+      "operatingMargin": 0.05589509933545917,
+      "netMargin": 0.2620204979303312,
+      "roe": 0.3203519346633456,
+      "roic": 0.048963760477364726
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 997332000000.0,
+      "operatingIncome": 161996000000.0,
+      "netIncome": 117855000000.0,
+      "eps": 102.8,
+      "freeCashFlow": 125254000000.0,
+      "totalDebt": 229102000000.0,
+      "cash": 252532000000.0,
+      "sharesOutstanding": 1139116300.0,
+      "grossMargin": 0.6855259833235071,
+      "operatingMargin": 0.16242936153657958,
+      "netMargin": 0.1181702783025111,
+      "roe": 0.15677773890463767,
+      "roic": 0.16516131663327674
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.830935+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "WEIR",
+  "name": "The Weir Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6350110720.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2446.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2564500000.0,
+    "operatingIncome": 414400000.0,
+    "netIncome": 246900000.0,
+    "eps": 0.951,
+    "freeCashFlow": 320200000.0,
+    "totalDebt": 1782600000.0,
+    "cash": 509000000.0,
+    "sharesOutstanding": 259613517.0
+  },
+  "ratios": {
+    "roe": 0.1295858919855141,
+    "roic": 0.11236747200303696,
+    "grossMargin": 0.40007798791187366,
+    "operatingMargin": 0.16159095340222265,
+    "netMargin": 0.09627607720803276,
+    "debtToEquity": 0.93081
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2472100000.0,
+      "operatingIncome": 356400000.0,
+      "netIncome": 213400000.0,
+      "eps": 0.82,
+      "freeCashFlow": 258100000.0,
+      "totalDebt": 1488400000.0,
+      "cash": 691200000.0,
+      "sharesOutstanding": 259613517.0,
+      "grossMargin": 0.36353707374297156,
+      "operatingMargin": 0.14416892520529104,
+      "netMargin": 0.08632336879576069,
+      "roe": 0.12360266434984071,
+      "roic": 0.11085881364894709
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2636000000.0,
+      "operatingIncome": 430800000.0,
+      "netIncome": 227900000.0,
+      "eps": 0.877,
+      "freeCashFlow": 307600000.0,
+      "totalDebt": 1397300000.0,
+      "cash": 707200000.0,
+      "sharesOutstanding": 259613517.0,
+      "grossMargin": 0.3774279210925645,
+      "operatingMargin": 0.16342943854324735,
+      "netMargin": 0.08645675265553869,
+      "roe": 0.13486803171973014,
+      "roic": 0.13954844352304752
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2505600000.0,
+      "operatingIncome": 389100000.0,
+      "netIncome": 312200000.0,
+      "eps": 1.203,
+      "freeCashFlow": 377400000.0,
+      "totalDebt": 1091000000.0,
+      "cash": 556400000.0,
+      "sharesOutstanding": 259613517.0,
+      "grossMargin": 0.39914591315453385,
+      "operatingMargin": 0.15529214559386972,
+      "netMargin": 0.12460089399744573,
+      "roe": 0.16926913901539797,
+      "roic": 0.13255433671731282
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2564500000.0,
+      "operatingIncome": 414400000.0,
+      "netIncome": 246900000.0,
+      "eps": 0.951,
+      "freeCashFlow": 320200000.0,
+      "totalDebt": 1782600000.0,
+      "cash": 509000000.0,
+      "sharesOutstanding": 259613517.0,
+      "grossMargin": 0.40007798791187366,
+      "operatingMargin": 0.16159095340222265,
+      "netMargin": 0.09627607720803276,
+      "roe": 0.1295858919855141,
+      "roic": 0.11236747200303696
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:00.883668+00:00"
+  }
+}

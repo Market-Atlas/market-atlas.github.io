@@ -1,0 +1,128 @@
+{
+  "ticker": "ABX",
+  "name": "Barrick Mining Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "currency": "USD",
+  "marketCap": {
+    "value": 98687442944.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 58.9,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 16956000000.0,
+    "operatingIncome": 8005000000.0,
+    "netIncome": 4993000000.0,
+    "eps": 2.93,
+    "freeCashFlow": 3868000000.0,
+    "totalDebt": 5211000000.0,
+    "cash": 6706000000.0,
+    "sharesOutstanding": 1675360395.0
+  },
+  "ratios": {
+    "roe": 0.1880106939789886,
+    "roic": 0.25198312767564846,
+    "grossMargin": 0.5125619249823071,
+    "operatingMargin": 0.4721042698749705,
+    "netMargin": 0.2944680349138948,
+    "debtToEquity": 0.12852
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11013000000.0,
+      "operatingIncome": 3024000000.0,
+      "netIncome": 432000000.0,
+      "eps": 0.24,
+      "freeCashFlow": 432000000.0,
+      "totalDebt": 5250000000.0,
+      "cash": 4440000000.0,
+      "sharesOutstanding": 1755349661.0,
+      "grossMargin": 0.3192590574775266,
+      "operatingMargin": 0.27458458185780443,
+      "netMargin": 0.0392263688368292,
+      "roe": 0.018971498836239074,
+      "roic": 0.10791906070447164
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11397000000.0,
+      "operatingIncome": 2810000000.0,
+      "netIncome": 1272000000.0,
+      "eps": 0.72,
+      "freeCashFlow": 646000000.0,
+      "totalDebt": 5223000000.0,
+      "cash": 4148000000.0,
+      "sharesOutstanding": 1755569554.0,
+      "grossMargin": 0.3040273756251645,
+      "operatingMargin": 0.24655611125734841,
+      "netMargin": 0.11160831797841538,
+      "roe": 0.054496379760935694,
+      "roic": 0.09837557765018905
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12922000000.0,
+      "operatingIncome": 4184000000.0,
+      "netIncome": 2144000000.0,
+      "eps": 1.22,
+      "freeCashFlow": 1317000000.0,
+      "totalDebt": 5256000000.0,
+      "cash": 4074000000.0,
+      "sharesOutstanding": 1727100407.0,
+      "grossMargin": 0.38391889800340506,
+      "operatingMargin": 0.32378888716916887,
+      "netMargin": 0.16591858845379973,
+      "roe": 0.08826677645121449,
+      "roic": 0.1416096933595072
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16956000000.0,
+      "operatingIncome": 8005000000.0,
+      "netIncome": 4993000000.0,
+      "eps": 2.93,
+      "freeCashFlow": 3868000000.0,
+      "totalDebt": 5211000000.0,
+      "cash": 6706000000.0,
+      "sharesOutstanding": 1675360395.0,
+      "grossMargin": 0.5125619249823071,
+      "operatingMargin": 0.4721042698749705,
+      "netMargin": 0.2944680349138948,
+      "roe": 0.1880106939789886,
+      "roic": 0.25198312767564846
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:01.818990+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "GIL",
+  "name": "Gildan Activewear Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "currency": "USD",
+  "marketCap": {
+    "value": 15575570432.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 84.11,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3619236000.0,
+    "operatingIncome": 740516000.0,
+    "netIncome": 398879000.0,
+    "eps": 2.61,
+    "freeCashFlow": 492508000.0,
+    "totalDebt": 4628181000.0,
+    "cash": 284458000.0,
+    "sharesOutstanding": 185170145.0
+  },
+  "ratios": {
+    "roe": 0.11197480448293354,
+    "roic": 0.09041265617975772,
+    "grossMargin": 0.31218384211474465,
+    "operatingMargin": 0.2046056128973076,
+    "netMargin": 0.11021082902579439,
+    "debtToEquity": 1.4931
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3240482000.0,
+      "operatingIncome": 666154000.0,
+      "netIncome": 541540000.0,
+      "eps": 2.93,
+      "freeCashFlow": 168934000.0,
+      "totalDebt": 1023990000.0,
+      "cash": 150417000.0,
+      "sharesOutstanding": 179717468.0,
+      "grossMargin": 0.3062544399259123,
+      "operatingMargin": 0.20557250433731772,
+      "netMargin": 0.1671171140589579,
+      "roe": 0.287722310831905,
+      "roic": 0.22922200903462722
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3195911000.0,
+      "operatingIncome": 549663000.0,
+      "netIncome": 533580000.0,
+      "eps": 3.03,
+      "freeCashFlow": 338597000.0,
+      "totalDebt": 1083061000.0,
+      "cash": 89642000.0,
+      "sharesOutstanding": 169994722.0,
+      "grossMargin": 0.27536874462398986,
+      "operatingMargin": 0.17198945777901825,
+      "netMargin": 0.1669570898563821,
+      "roe": 0.2725883633714559,
+      "roic": 0.18077939351123723
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3270590000.0,
+      "operatingIncome": 612910000.0,
+      "netIncome": 400865000.0,
+      "eps": 2.46,
+      "freeCashFlow": 351036000.0,
+      "totalDebt": 1653290000.0,
+      "cash": 98799000.0,
+      "sharesOutstanding": 152505529.0,
+      "grossMargin": 0.3068801042013826,
+      "operatingMargin": 0.18740043845300083,
+      "netMargin": 0.12256657055760581,
+      "roe": 0.27519632362178725,
+      "roic": 0.19708090925197616
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3619236000.0,
+      "operatingIncome": 740516000.0,
+      "netIncome": 398879000.0,
+      "eps": 2.61,
+      "freeCashFlow": 492508000.0,
+      "totalDebt": 4628181000.0,
+      "cash": 284458000.0,
+      "sharesOutstanding": 185170145.0,
+      "grossMargin": 0.31218384211474465,
+      "operatingMargin": 0.2046056128973076,
+      "netMargin": 0.11021082902579439,
+      "roe": 0.11197480448293354,
+      "roic": 0.09041265617975772
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.629246+00:00"
+  }
+}

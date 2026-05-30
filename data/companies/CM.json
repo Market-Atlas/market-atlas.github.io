@@ -1,0 +1,128 @@
+{
+  "ticker": "CM",
+  "name": "Canadian Imperial Bank of Commerce",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 137664151552.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 150.49,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29014000000.0,
+    "operatingIncome": null,
+    "netIncome": 8429000000.0,
+    "eps": 8.57,
+    "freeCashFlow": 12729000000.0,
+    "totalDebt": 225780000000.0,
+    "cash": 55748000000.0,
+    "sharesOutstanding": 926614036.0
+  },
+  "ratios": {
+    "roe": 0.131438194888428,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.43264,
+    "netMargin": 0.29051492382987526,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 21764000000.0,
+      "operatingIncome": null,
+      "netIncome": 6220000000.0,
+      "eps": 6.68,
+      "freeCashFlow": 21606000000.0,
+      "totalDebt": 187454000000.0,
+      "cash": 73328000000.0,
+      "sharesOutstanding": 906040097.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2857930527476567,
+      "roe": 0.12395129630736733,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 23299000000.0,
+      "operatingIncome": null,
+      "netIncome": 5001000000.0,
+      "eps": 5.17,
+      "freeCashFlow": 11140000000.0,
+      "totalDebt": 194500000000.0,
+      "cash": 63170000000.0,
+      "sharesOutstanding": 931098941.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21464440533928494,
+      "roe": 0.09448149477621809,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 25526000000.0,
+      "operatingIncome": null,
+      "netIncome": 7115000000.0,
+      "eps": 7.28,
+      "freeCashFlow": 9999000000.0,
+      "totalDebt": 208493000000.0,
+      "cash": 56031000000.0,
+      "sharesOutstanding": 942294598.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.27873540703596333,
+      "roe": 0.12113731165403933,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 29014000000.0,
+      "operatingIncome": null,
+      "netIncome": 8429000000.0,
+      "eps": 8.57,
+      "freeCashFlow": 12729000000.0,
+      "totalDebt": 225780000000.0,
+      "cash": 55748000000.0,
+      "sharesOutstanding": 926614036.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.29051492382987526,
+      "roe": 0.131438194888428,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:03.446263+00:00"
+  }
+}

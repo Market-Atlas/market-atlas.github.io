@@ -1,0 +1,128 @@
+{
+  "ticker": "INF",
+  "name": "Informa plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 10211107840.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 811.2,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4041400000.0,
+    "operatingIncome": 793900000.0,
+    "netIncome": 11000000.0,
+    "eps": 0.008,
+    "freeCashFlow": 768000000.0,
+    "totalDebt": 3479100000.0,
+    "cash": 330500000.0,
+    "sharesOutstanding": 1287469671.0
+  },
+  "ratios": {
+    "roe": 0.0019464892412231032,
+    "roic": 0.08695223596157849,
+    "grossMargin": 0.6472756965408027,
+    "operatingMargin": 0.1964418270896224,
+    "netMargin": 0.0027218290691344584,
+    "debtToEquity": 0.5568500000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2262400000.0,
+      "operatingIncome": 223700000.0,
+      "netIncome": 1631500000.0,
+      "eps": 1.114,
+      "freeCashFlow": 373600000.0,
+      "totalDebt": 2211200000.0,
+      "cash": 2125800000.0,
+      "sharesOutstanding": 1418525746.0,
+      "grossMargin": 0.6559847949080623,
+      "operatingMargin": 0.09887729844413012,
+      "netMargin": 0.7211368458274399,
+      "roe": 0.22811481942366577,
+      "roic": 0.023891149487894225
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3189600000.0,
+      "operatingIncome": 542800000.0,
+      "netIncome": 419000000.0,
+      "eps": 0.299,
+      "freeCashFlow": 503600000.0,
+      "totalDebt": 1778300000.0,
+      "cash": 389300000.0,
+      "sharesOutstanding": 1368029699.0,
+      "grossMargin": 0.6476987710057688,
+      "operatingMargin": 0.17017807875595686,
+      "netMargin": 0.13136443441183848,
+      "roe": 0.062087871378824926,
+      "roic": 0.06365811324295163
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3553100000.0,
+      "operatingIncome": 688100000.0,
+      "netIncome": 297700000.0,
+      "eps": 0.222,
+      "freeCashFlow": 693400000.0,
+      "totalDebt": 3485700000.0,
+      "cash": 484300000.0,
+      "sharesOutstanding": 1330244733.0,
+      "grossMargin": 0.656384565590611,
+      "operatingMargin": 0.19366187273085475,
+      "netMargin": 0.08378598969913596,
+      "roe": 0.04590452106334423,
+      "roic": 0.06901082149053746
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4041400000.0,
+      "operatingIncome": 793900000.0,
+      "netIncome": 11000000.0,
+      "eps": 0.008,
+      "freeCashFlow": 768000000.0,
+      "totalDebt": 3479100000.0,
+      "cash": 330500000.0,
+      "sharesOutstanding": 1287469671.0,
+      "grossMargin": 0.6472756965408027,
+      "operatingMargin": 0.1964418270896224,
+      "netMargin": 0.0027218290691344584,
+      "roe": 0.0019464892412231032,
+      "roic": 0.08695223596157849
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:42.848139+00:00"
+  }
+}

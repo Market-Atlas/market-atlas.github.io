@@ -1,0 +1,111 @@
+{
+  "ticker": "6594",
+  "name": "Nidec Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3200497221632.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2792.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2607813000000.0,
+    "operatingIncome": 238116000000.0,
+    "netIncome": 164365000000.0,
+    "eps": 143.06,
+    "freeCashFlow": 135599000000.0,
+    "totalDebt": 636046000000.0,
+    "cash": 246239000000.0,
+    "sharesOutstanding": 1192568936.0
+  },
+  "ratios": {
+    "roe": 0.09560017588594401,
+    "roic": 0.1010961465468709,
+    "grossMargin": 0.20569764779913283,
+    "operatingMargin": 0.09130869429671529,
+    "netMargin": 0.0630279088262847,
+    "debtToEquity": 0.40098
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1918174000000.0,
+      "operatingIncome": 170374000000.0,
+      "netIncome": 135759000000.0,
+      "eps": 116.2,
+      "freeCashFlow": -20227000000.0,
+      "totalDebt": 595710000000.0,
+      "cash": 199655000000.0,
+      "sharesOutstanding": 1192568936.0,
+      "grossMargin": 0.21026716033060608,
+      "operatingMargin": 0.08882093073933855,
+      "netMargin": 0.07077512259054705,
+      "roe": 0.10505702883595243,
+      "roic": 0.09024280820847574
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2242824000000.0,
+      "operatingIncome": 100028000000.0,
+      "netIncome": 44964000000.0,
+      "eps": 39.06,
+      "freeCashFlow": -10253000000.0,
+      "totalDebt": 705349000000.0,
+      "cash": 186098000000.0,
+      "sharesOutstanding": 1192568936.0,
+      "grossMargin": 0.18421240364825772,
+      "operatingMargin": 0.044599130382054056,
+      "netMargin": 0.02004793956190945,
+      "roe": 0.03319687108932309,
+      "roic": 0.048561666247534975
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2347159000000.0,
+      "operatingIncome": 161856000000.0,
+      "netIncome": 124455000000.0,
+      "eps": 109.11,
+      "freeCashFlow": 192326000000.0,
+      "totalDebt": 600899000000.0,
+      "cash": 217005000000.0,
+      "sharesOutstanding": 1192568936.0,
+      "grossMargin": 0.2118143679230934,
+      "operatingMargin": 0.06895825975146976,
+      "netMargin": 0.053023676708735965,
+      "roe": 0.07628345043552454,
+      "roic": 0.07250378519786058
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2607813000000.0,
+      "operatingIncome": 238116000000.0,
+      "netIncome": 164365000000.0,
+      "eps": 143.06,
+      "freeCashFlow": 135599000000.0,
+      "totalDebt": 636046000000.0,
+      "cash": 246239000000.0,
+      "sharesOutstanding": 1192568936.0,
+      "grossMargin": 0.20569764779913283,
+      "operatingMargin": 0.09130869429671529,
+      "netMargin": 0.0630279088262847,
+      "roe": 0.09560017588594401,
+      "roic": 0.1010961465468709
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:04.485343+00:00"
+  }
+}

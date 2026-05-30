@@ -1,0 +1,128 @@
+{
+  "ticker": "FRE",
+  "name": "Fresenius SE & Co. KGaA",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 20428615680.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 36.27,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22873000000.0,
+    "operatingIncome": 2181400000.0,
+    "netIncome": 1264000000.0,
+    "eps": 2.24,
+    "freeCashFlow": 1077000000.0,
+    "totalDebt": 11933000000.0,
+    "cash": 1307000000.0,
+    "sharesOutstanding": 563237277.0
+  },
+  "ratios": {
+    "roe": 0.0661641541038526,
+    "roic": 0.07028385475400328,
+    "grossMargin": 0.2488960783456477,
+    "operatingMargin": 0.09537008700214226,
+    "netMargin": 0.0552616622218336,
+    "debtToEquity": 0.58172
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21532000000.0,
+      "operatingIncome": 1812000000.0,
+      "netIncome": 1372000000.0,
+      "eps": 2.44,
+      "freeCashFlow": 3005000000.0,
+      "totalDebt": 27763000000.0,
+      "cash": 2569000000.0,
+      "sharesOutstanding": 563237277.0,
+      "grossMargin": 0.2509288500835965,
+      "operatingMargin": 0.08415381757384358,
+      "netMargin": 0.06371911573472042,
+      "roe": 0.06720548616213569,
+      "roic": 0.03761052762671759
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 21067000000.0,
+      "operatingIncome": 1183000000.0,
+      "netIncome": -594000000.0,
+      "eps": -1.05,
+      "freeCashFlow": 3170000000.0,
+      "totalDebt": 15830000000.0,
+      "cash": 2289000000.0,
+      "sharesOutstanding": 563237277.0,
+      "grossMargin": 0.2359614563060711,
+      "operatingMargin": 0.056154174775715576,
+      "netMargin": -0.028195756396259552,
+      "roe": -0.031264803410705824,
+      "roic": 0.03396594791696575
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21954000000.0,
+      "operatingIncome": 2073000000.0,
+      "netIncome": 471000000.0,
+      "eps": 0.84,
+      "freeCashFlow": 1387000000.0,
+      "totalDebt": 13577000000.0,
+      "cash": 2046000000.0,
+      "sharesOutstanding": 563237277.0,
+      "grossMargin": 0.2567641432085269,
+      "operatingMargin": 0.09442470620388084,
+      "netMargin": 0.021453949166438918,
+      "roe": 0.024101934295363833,
+      "roic": 0.06259246957939552
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22873000000.0,
+      "operatingIncome": 2181400000.0,
+      "netIncome": 1264000000.0,
+      "eps": 2.24,
+      "freeCashFlow": 1077000000.0,
+      "totalDebt": 11933000000.0,
+      "cash": 1307000000.0,
+      "sharesOutstanding": 563237277.0,
+      "grossMargin": 0.2488960783456477,
+      "operatingMargin": 0.09537008700214226,
+      "netMargin": 0.0552616622218336,
+      "roe": 0.0661641541038526,
+      "roic": 0.07028385475400328
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:19.384905+00:00"
+  }
+}

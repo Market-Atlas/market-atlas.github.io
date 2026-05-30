@@ -1,0 +1,128 @@
+{
+  "ticker": "6504",
+  "name": "Fuji Electric Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2279121354752.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 15440.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": null,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 147611486.0
+  },
+  "ratios": {
+    "roe": 0.1289,
+    "roic": null,
+    "grossMargin": 0.28022,
+    "operatingMargin": 0.16527,
+    "netMargin": 0.07986,
+    "debtToEquity": 0.1003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 910226000000.0,
+      "operatingIncome": 74835000000.0,
+      "netIncome": 58660000000.0,
+      "eps": 410.68,
+      "freeCashFlow": 43762000000.0,
+      "totalDebt": 206822000000.0,
+      "cash": 92966000000.0,
+      "sharesOutstanding": 149296991.0,
+      "grossMargin": 0.27733442024288474,
+      "operatingMargin": 0.08221584529556396,
+      "netMargin": 0.06444553330711274,
+      "roe": 0.12404313808416155,
+      "roic": 0.11009648062001819
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1009447000000.0,
+      "operatingIncome": 88882000000.0,
+      "netIncome": 61348000000.0,
+      "eps": 429.5,
+      "freeCashFlow": 55083000000.0,
+      "totalDebt": 180631000000.0,
+      "cash": 84700000000.0,
+      "sharesOutstanding": 149296991.0,
+      "grossMargin": 0.2743274287803124,
+      "operatingMargin": 0.08805018985642633,
+      "netMargin": 0.06077386925712791,
+      "roe": 0.11864062611803339,
+      "roic": 0.12738884541407608
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1103214000000.0,
+      "operatingIncome": 106067000000.0,
+      "netIncome": 75353000000.0,
+      "eps": 527.57,
+      "freeCashFlow": 10655000000.0,
+      "totalDebt": 160353000000.0,
+      "cash": 66186000000.0,
+      "sharesOutstanding": 149296991.0,
+      "grossMargin": 0.2749140239337064,
+      "operatingMargin": 0.09614363124470864,
+      "netMargin": 0.06830315786420404,
+      "roe": 0.12506410628781026,
+      "roic": 0.1390371597707598
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1123407000000.0,
+      "operatingIncome": 117647000000.0,
+      "netIncome": 92239000000.0,
+      "eps": 642.69,
+      "freeCashFlow": 58166000000.0,
+      "totalDebt": 101293000000.0,
+      "cash": 63542000000.0,
+      "sharesOutstanding": 149296991.0,
+      "grossMargin": 0.2829802555974816,
+      "operatingMargin": 0.10472339944472484,
+      "netMargin": 0.0821064850049893,
+      "roe": 0.13333844103352868,
+      "roic": 0.1483458355557405
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:10.181169+00:00"
+  }
+}

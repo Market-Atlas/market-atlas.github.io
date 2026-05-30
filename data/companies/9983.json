@@ -1,0 +1,111 @@
+{
+  "ticker": "9983",
+  "name": "Fast Retailing Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 25262116831232.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82330.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3400539000000.0,
+    "operatingIncome": 562561000000.0,
+    "netIncome": 433010000000.0,
+    "eps": 1409.32,
+    "freeCashFlow": 401830000000.0,
+    "totalDebt": 513500000000.0,
+    "cash": 893239000000.0,
+    "sharesOutstanding": 318220968.0
+  },
+  "ratios": {
+    "roe": 0.1904919020815049,
+    "roic": 0.20187969992266602,
+    "grossMargin": 0.5378141524034866,
+    "operatingMargin": 0.16543289166805616,
+    "netMargin": 0.1273356958999735,
+    "debtToEquity": 0.25405
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-08-31",
+      "revenue": 2301122000000.0,
+      "operatingIncome": 296265000000.0,
+      "netIncome": 273335000000.0,
+      "eps": 890.43,
+      "freeCashFlow": 350415000000.0,
+      "totalDebt": 480725000000.0,
+      "cash": 1358292000000.0,
+      "sharesOutstanding": 318220968.0,
+      "grossMargin": 0.5244654564164786,
+      "operatingMargin": 0.12874806290148894,
+      "netMargin": 0.11878335872674287,
+      "roe": 0.17502939195159997,
+      "roic": 0.14505891909280216
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-08-31",
+      "revenue": 2766557000000.0,
+      "operatingIncome": 379951000000.0,
+      "netIncome": 296230000000.0,
+      "eps": 964.48,
+      "freeCashFlow": 366059000000.0,
+      "totalDebt": 465649000000.0,
+      "cash": 903280000000.0,
+      "sharesOutstanding": 318220968.0,
+      "grossMargin": 0.5191872063362512,
+      "operatingMargin": 0.13733713059228492,
+      "netMargin": 0.10707532864856932,
+      "roe": 0.1626381831608017,
+      "roic": 0.16613118885693123
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-08-31",
+      "revenue": 3103836000000.0,
+      "operatingIncome": 499486000000.0,
+      "netIncome": 372000000000.0,
+      "eps": 1210.81,
+      "freeCashFlow": 545518000000.0,
+      "totalDebt": 478062000000.0,
+      "cash": 1193560000000.0,
+      "sharesOutstanding": 318220968.0,
+      "grossMargin": 0.5390336345090397,
+      "operatingMargin": 0.1609253839442548,
+      "netMargin": 0.11985169319513016,
+      "roe": 0.1844748541433697,
+      "roic": 0.20022713087524757
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-08-31",
+      "revenue": 3400539000000.0,
+      "operatingIncome": 562561000000.0,
+      "netIncome": 433010000000.0,
+      "eps": 1409.32,
+      "freeCashFlow": 401830000000.0,
+      "totalDebt": 513500000000.0,
+      "cash": 893239000000.0,
+      "sharesOutstanding": 318220968.0,
+      "grossMargin": 0.5378141524034866,
+      "operatingMargin": 0.16543289166805616,
+      "netMargin": 0.1273356958999735,
+      "roe": 0.1904919020815049,
+      "roic": 0.20187969992266602
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:19.646286+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "CAP",
+  "name": "Capgemini SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 17039965184.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 101.95,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22465000000.0,
+    "operatingIncome": 2501000000.0,
+    "netIncome": 1601000000.0,
+    "eps": 9.13,
+    "freeCashFlow": 2195000000.0,
+    "totalDebt": 9458000000.0,
+    "cash": 2814000000.0,
+    "sharesOutstanding": 169928671.0
+  },
+  "ratios": {
+    "roe": 0.13744848901098902,
+    "roic": 0.11849710982658959,
+    "grossMargin": 0.270420654351213,
+    "operatingMargin": 0.11132873358557757,
+    "netMargin": 0.07126641442243489,
+    "debtToEquity": 0.8103199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 21995000000.0,
+      "operatingIncome": 2559000000.0,
+      "netIncome": 1547000000.0,
+      "eps": 8.79,
+      "freeCashFlow": 2227000000.0,
+      "totalDebt": 7547000000.0,
+      "cash": 3802000000.0,
+      "sharesOutstanding": 173582113.0,
+      "grossMargin": 0.26515117072061833,
+      "operatingMargin": 0.11634462377813139,
+      "netMargin": 0.07033416685610366,
+      "roe": 0.15904184229464377,
+      "roic": 0.1481417158735672
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 22522000000.0,
+      "operatingIncome": 2584000000.0,
+      "netIncome": 1663000000.0,
+      "eps": 9.37,
+      "freeCashFlow": 2266000000.0,
+      "totalDebt": 6595000000.0,
+      "cash": 3536000000.0,
+      "sharesOutstanding": 172608113.0,
+      "grossMargin": 0.2685374300683776,
+      "operatingMargin": 0.1147322617884735,
+      "netMargin": 0.07383891306278306,
+      "roe": 0.15907786493208342,
+      "roic": 0.15156314153322775
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22096000000.0,
+      "operatingIncome": 2532000000.0,
+      "netIncome": 1671000000.0,
+      "eps": 9.47,
+      "freeCashFlow": 2211000000.0,
+      "totalDebt": 6077000000.0,
+      "cash": 2789000000.0,
+      "sharesOutstanding": 171347471.0,
+      "grossMargin": 0.27389572773352644,
+      "operatingMargin": 0.11459087617668356,
+      "netMargin": 0.07562454742939899,
+      "roe": 0.14191082802547772,
+      "roic": 0.14183284786018374
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22465000000.0,
+      "operatingIncome": 2501000000.0,
+      "netIncome": 1601000000.0,
+      "eps": 9.13,
+      "freeCashFlow": 2195000000.0,
+      "totalDebt": 9458000000.0,
+      "cash": 2814000000.0,
+      "sharesOutstanding": 169928671.0,
+      "grossMargin": 0.270420654351213,
+      "operatingMargin": 0.11132873358557757,
+      "netMargin": 0.07126641442243489,
+      "roe": 0.13744848901098902,
+      "roic": 0.11849710982658959
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:15.601365+00:00"
+  }
+}

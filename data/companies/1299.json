@@ -1,0 +1,128 @@
+{
+  "ticker": "1299",
+  "name": "AIA Group Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "USD",
+  "marketCap": {
+    "value": 851449217024.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 82.25,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 39604000000.0,
+    "operatingIncome": null,
+    "netIncome": 6234000000.0,
+    "eps": null,
+    "freeCashFlow": 6714000000.0,
+    "totalDebt": 14671000000.0,
+    "cash": 8772000000.0,
+    "sharesOutstanding": 10507000000.0
+  },
+  "ratios": {
+    "roe": 0.14415539368713146,
+    "roic": null,
+    "grossMargin": 0.43895,
+    "operatingMargin": 0.31429002,
+    "netMargin": 0.1574083425916574,
+    "debtToEquity": 0.47195
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.6145,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -15240000000.0,
+      "operatingIncome": null,
+      "netIncome": 3331000000.0,
+      "eps": 0.28,
+      "freeCashFlow": 9481000000.0,
+      "totalDebt": 11601000000.0,
+      "cash": 7464000000.0,
+      "sharesOutstanding": 11734000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.21856955380577428,
+      "roe": 0.07456572349570201,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 30087000000.0,
+      "operatingIncome": null,
+      "netIncome": 3764000000.0,
+      "eps": 0.33,
+      "freeCashFlow": 10593000000.0,
+      "totalDebt": 12165000000.0,
+      "cash": 10812000000.0,
+      "sharesOutstanding": 11361808258.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12510386545684182,
+      "roe": 0.09155700420811948,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 31255000000.0,
+      "operatingIncome": null,
+      "netIncome": 6836000000.0,
+      "eps": 0.62,
+      "freeCashFlow": 3026000000.0,
+      "totalDebt": 13670000000.0,
+      "cash": 8101000000.0,
+      "sharesOutstanding": 10792526333.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21871700527915533,
+      "roe": 0.16883181032353667,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 39604000000.0,
+      "operatingIncome": null,
+      "netIncome": 6234000000.0,
+      "eps": null,
+      "freeCashFlow": 6714000000.0,
+      "totalDebt": 14671000000.0,
+      "cash": 8772000000.0,
+      "sharesOutstanding": 10507000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1574083425916574,
+      "roe": 0.14415539368713146,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:34.699716+00:00"
+  }
+}

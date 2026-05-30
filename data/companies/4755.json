@@ -1,0 +1,111 @@
+{
+  "ticker": "4755",
+  "name": "Rakuten Group, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1620051230720.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 745.3,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2496575000000.0,
+    "operatingIncome": 14382000000.0,
+    "netIncome": -177886000000.0,
+    "eps": -82.26,
+    "freeCashFlow": 218125000000.0,
+    "totalDebt": 5569622000000.0,
+    "cash": 5837566000000.0,
+    "sharesOutstanding": 2169972100.0
+  },
+  "ratios": {
+    "roe": -0.17924792573977077,
+    "roic": 0.0021917018285821568,
+    "grossMargin": 0.18932,
+    "operatingMargin": 0.005760692148243093,
+    "netMargin": -0.07125201526090744,
+    "debtToEquity": 4.42908
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1920894000000.0,
+      "operatingIncome": -371612000000.0,
+      "netIncome": -377217000000.0,
+      "eps": -237.89,
+      "freeCashFlow": -697286000000.0,
+      "totalDebt": 4912750000000.0,
+      "cash": 4694360000000.0,
+      "sharesOutstanding": 1590463000.0,
+      "grossMargin": null,
+      "operatingMargin": -0.19345783786091267,
+      "netMargin": -0.196375750041387,
+      "roe": -0.476674699343275,
+      "roic": -0.06514821529282178
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2071315000000.0,
+      "operatingIncome": -212857000000.0,
+      "netIncome": -339473000000.0,
+      "eps": -177.29,
+      "freeCashFlow": 373035000000.0,
+      "totalDebt": 4795173000000.0,
+      "cash": 5127674000000.0,
+      "sharesOutstanding": 2142140300.0,
+      "grossMargin": null,
+      "operatingMargin": -0.10276418603640683,
+      "netMargin": -0.16389250307172015,
+      "roe": -0.4057905356622024,
+      "roic": -0.037795922933300426
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2279233000000.0,
+      "operatingIncome": 52975000000.0,
+      "netIncome": -162442000000.0,
+      "eps": -75.62,
+      "freeCashFlow": 947645000000.0,
+      "totalDebt": 5461713000000.0,
+      "cash": 6170888000000.0,
+      "sharesOutstanding": 2154483600.0,
+      "grossMargin": null,
+      "operatingMargin": 0.02324246797058484,
+      "netMargin": -0.07127046686319477,
+      "roe": -0.17507016084184387,
+      "roic": 0.008290840980026703
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2496575000000.0,
+      "operatingIncome": 14382000000.0,
+      "netIncome": -177886000000.0,
+      "eps": -82.26,
+      "freeCashFlow": 218125000000.0,
+      "totalDebt": 5569622000000.0,
+      "cash": 5837566000000.0,
+      "sharesOutstanding": 2169972100.0,
+      "grossMargin": null,
+      "operatingMargin": 0.005760692148243093,
+      "netMargin": -0.07125201526090744,
+      "roe": -0.17924792573977077,
+      "roic": 0.0021917018285821568
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:20.724021+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BN",
+  "name": "Brookfield Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "USD",
+  "marketCap": {
+    "value": 140292145152.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 62.81,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 75100000000.0,
+    "operatingIncome": 18049000000.0,
+    "netIncome": 1307000000.0,
+    "eps": 0.49,
+    "freeCashFlow": -3794000000.0,
+    "totalDebt": 259612000000.0,
+    "cash": 16242000000.0,
+    "sharesOutstanding": 2428208585.0
+  },
+  "ratios": {
+    "roe": 0.027293989892661737,
+    "roic": 0.05869631672401121,
+    "grossMargin": 0.24137150466045273,
+    "operatingMargin": 0.2403328894806924,
+    "netMargin": 0.0174034620505992,
+    "debtToEquity": 1.6147300000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 92769000000.0,
+      "operatingIncome": 14136000000.0,
+      "netIncome": 2056000000.0,
+      "eps": 1.19,
+      "freeCashFlow": 1515000000.0,
+      "totalDebt": 214074000000.0,
+      "cash": 14396000000.0,
+      "sharesOutstanding": 1638997920.0,
+      "grossMargin": 0.15369358298569566,
+      "operatingMargin": 0.15237848850370275,
+      "netMargin": 0.022162575860470633,
+      "roe": 0.04699106346993349,
+      "roic": 0.05482746182517735
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 95924000000.0,
+      "operatingIncome": 14446000000.0,
+      "netIncome": 1130000000.0,
+      "eps": 0.61,
+      "freeCashFlow": -1602000000.0,
+      "totalDebt": 233710000000.0,
+      "cash": 11222000000.0,
+      "sharesOutstanding": 1605307264.0,
+      "grossMargin": 0.15131770985363413,
+      "operatingMargin": 0.15059839039239398,
+      "netMargin": 0.011780159292773446,
+      "roe": 0.024684885422810582,
+      "roic": 0.051687556129623204
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 86006000000.0,
+      "operatingIncome": 17994000000.0,
+      "netIncome": 641000000.0,
+      "eps": 0.206667,
+      "freeCashFlow": -3603000000.0,
+      "totalDebt": 234792000000.0,
+      "cash": 15051000000.0,
+      "sharesOutstanding": 1611336243.0,
+      "grossMargin": 0.21010162081715228,
+      "operatingMargin": 0.20921796153756714,
+      "netMargin": 0.007452968397553659,
+      "roe": 0.013941753485438371,
+      "roic": 0.06408827185337412
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 75100000000.0,
+      "operatingIncome": 18049000000.0,
+      "netIncome": 1307000000.0,
+      "eps": 0.49,
+      "freeCashFlow": -3794000000.0,
+      "totalDebt": 259612000000.0,
+      "cash": 16242000000.0,
+      "sharesOutstanding": 2428208585.0,
+      "grossMargin": 0.24137150466045273,
+      "operatingMargin": 0.2403328894806924,
+      "netMargin": 0.0174034620505992,
+      "roe": 0.027293989892661737,
+      "roic": 0.05869631672401121
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:02.529178+00:00"
+  }
+}

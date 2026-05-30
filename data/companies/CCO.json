@@ -1,0 +1,128 @@
+{
+  "ticker": "CCO",
+  "name": "Cameco Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Uranium",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 67468419072.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 154.91,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3481933000.0,
+    "operatingIncome": 621259000.0,
+    "netIncome": 589577000.0,
+    "eps": 1.35,
+    "freeCashFlow": 1075407000.0,
+    "totalDebt": 996348000.0,
+    "cash": 1114860000.0,
+    "sharesOutstanding": 435457978.0
+  },
+  "ratios": {
+    "roe": 0.08540431670766842,
+    "roic": 0.07864325669635257,
+    "grossMargin": 0.27865929643103415,
+    "operatingMargin": 0.17842359402090735,
+    "netMargin": 0.1693246251435625,
+    "debtToEquity": 0.14311
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1868003000.0,
+      "operatingIncome": 15565000.0,
+      "netIncome": 89382000.0,
+      "eps": 0.22,
+      "freeCashFlow": 161159000.0,
+      "totalDebt": 997000000.0,
+      "cash": 1143674000.0,
+      "sharesOutstanding": 432518470.0,
+      "grossMargin": 0.12488791506223491,
+      "operatingMargin": 0.008332427731647113,
+      "netMargin": 0.047848959557345465,
+      "roe": 0.015315485429024474,
+      "roic": 0.002277897994074099
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2587758000.0,
+      "operatingIncome": 285049000.0,
+      "netIncome": 360847000.0,
+      "eps": 0.83,
+      "freeCashFlow": 534505000.0,
+      "totalDebt": 1784174000.0,
+      "cash": 566809000.0,
+      "sharesOutstanding": 434175752.0,
+      "grossMargin": 0.21704734368515138,
+      "operatingMargin": 0.11015288137453348,
+      "netMargin": 0.13944387380891105,
+      "roe": 0.05921052523626566,
+      "roic": 0.03618071457701417
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3135772000.0,
+      "operatingIncome": 511156000.0,
+      "netIncome": 171853000.0,
+      "eps": 0.39,
+      "freeCashFlow": 693653000.0,
+      "totalDebt": 1281290000.0,
+      "cash": 600462000.0,
+      "sharesOutstanding": 435312083.0,
+      "grossMargin": 0.249565976097752,
+      "operatingMargin": 0.1630080248181309,
+      "netMargin": 0.05480404825350823,
+      "roe": 0.027002625737570486,
+      "roic": 0.06685625726807207
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3481933000.0,
+      "operatingIncome": 621259000.0,
+      "netIncome": 589577000.0,
+      "eps": 1.35,
+      "freeCashFlow": 1075407000.0,
+      "totalDebt": 996348000.0,
+      "cash": 1114860000.0,
+      "sharesOutstanding": 435457978.0,
+      "grossMargin": 0.27865929643103415,
+      "operatingMargin": 0.17842359402090735,
+      "netMargin": 0.1693246251435625,
+      "roe": 0.08540431670766842,
+      "roic": 0.07864325669635257
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:02.983977+00:00"
+  }
+}

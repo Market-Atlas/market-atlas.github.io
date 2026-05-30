@@ -1,0 +1,128 @@
+{
+  "ticker": "6952",
+  "name": "Casio Computer Co.,Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 402354405376.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1789.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 80.05,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 224841810.0
+  },
+  "ratios": {
+    "roe": 0.080170006,
+    "roic": null,
+    "grossMargin": 0.44217,
+    "operatingMargin": 0.07199,
+    "netMargin": 0.06598,
+    "debtToEquity": 0.20654
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 252322000000.0,
+      "operatingIncome": 22011000000.0,
+      "netIncome": 15889000000.0,
+      "eps": null,
+      "freeCashFlow": 5445000000.0,
+      "totalDebt": 49735000000.0,
+      "cash": 98093000000.0,
+      "sharesOutstanding": 249020914.0,
+      "grossMargin": 0.43605789427794645,
+      "operatingMargin": 0.08723377271898605,
+      "netMargin": 0.06297112419844485,
+      "roe": 0.07258665034239847,
+      "roic": 0.08193737157151791
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 263831000000.0,
+      "operatingIncome": 18164000000.0,
+      "netIncome": 13079000000.0,
+      "eps": 54.65,
+      "freeCashFlow": 293000000.0,
+      "totalDebt": 52010000000.0,
+      "cash": 86775000000.0,
+      "sharesOutstanding": 249020914.0,
+      "grossMargin": 0.4239532124731362,
+      "operatingMargin": 0.06884710288025289,
+      "netMargin": 0.04957340115452695,
+      "roe": 0.05902075812274368,
+      "roic": 0.06638646248309638
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 268828000000.0,
+      "operatingIncome": 14208000000.0,
+      "netIncome": 11909000000.0,
+      "eps": 50.91,
+      "freeCashFlow": 20600000000.0,
+      "totalDebt": 54428000000.0,
+      "cash": 98962000000.0,
+      "sharesOutstanding": 241520914.0,
+      "grossMargin": 0.4318672162125969,
+      "operatingMargin": 0.05285163747823887,
+      "netMargin": 0.04429970092401089,
+      "roe": 0.051519988925084255,
+      "roic": 0.04975120893897003
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 261757000000.0,
+      "operatingIncome": 14236000000.0,
+      "netIncome": 8064000000.0,
+      "eps": 35.22,
+      "freeCashFlow": 7769000000.0,
+      "totalDebt": 46761000000.0,
+      "cash": 72174000000.0,
+      "sharesOutstanding": 237720914.0,
+      "grossMargin": 0.43321095519890584,
+      "operatingMargin": 0.054386320136615256,
+      "netMargin": 0.030807199043387568,
+      "roe": 0.0368427785595497,
+      "roic": 0.053591931846843625
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 80.05,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:20.942243+00:00"
+  }
+}

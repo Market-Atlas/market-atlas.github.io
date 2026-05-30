@@ -1,0 +1,111 @@
+{
+  "ticker": "DBK",
+  "name": "Deutsche Bank Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 53300740096.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 27.86,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32099000000.0,
+    "operatingIncome": null,
+    "netIncome": 6931000000.0,
+    "eps": 3.156364,
+    "freeCashFlow": 46621000000.0,
+    "totalDebt": 164452000000.0,
+    "cash": 171621000000.0,
+    "sharesOutstanding": 1947278977.0
+  },
+  "ratios": {
+    "roe": 0.08813468801261429,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.37304002,
+    "netMargin": 0.21592572977351318,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 26656000000.0,
+      "operatingIncome": null,
+      "netIncome": 5525000000.0,
+      "eps": 2.37,
+      "freeCashFlow": -2450000000.0,
+      "totalDebt": 146379000000.0,
+      "cash": 186091000000.0,
+      "sharesOutstanding": 2112373131.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2072704081632653,
+      "roe": 0.07832768617888484,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 28875000000.0,
+      "operatingIncome": null,
+      "netIncome": 4772000000.0,
+      "eps": 2.03,
+      "freeCashFlow": 5184000000.0,
+      "totalDebt": 144217000000.0,
+      "cash": 184556000000.0,
+      "sharesOutstanding": 2086542959.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16526406926406925,
+      "roe": 0.0653215429682153,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 30047000000.0,
+      "operatingIncome": null,
+      "netIncome": 3366000000.0,
+      "eps": 1.37,
+      "freeCashFlow": -29112000000.0,
+      "totalDebt": 151490000000.0,
+      "cash": 153654000000.0,
+      "sharesOutstanding": 2033201593.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11202449495789929,
+      "roe": 0.04325032765399738,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32099000000.0,
+      "operatingIncome": null,
+      "netIncome": 6931000000.0,
+      "eps": 3.156364,
+      "freeCashFlow": 46621000000.0,
+      "totalDebt": 164452000000.0,
+      "cash": 171621000000.0,
+      "sharesOutstanding": 1947278977.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21592572977351318,
+      "roe": 0.08813468801261429,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:16.628130+00:00"
+  }
+}

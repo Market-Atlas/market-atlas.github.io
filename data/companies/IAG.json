@@ -1,0 +1,128 @@
+{
+  "ticker": "IAG",
+  "name": "International Consolidated Airlines Group S.A.",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 19163801600.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 430.1,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 33213000000.0,
+    "operatingIncome": 5015000000.0,
+    "netIncome": 3342000000.0,
+    "eps": 0.695,
+    "freeCashFlow": 3146000000.0,
+    "totalDebt": 14267000000.0,
+    "cash": 7421000000.0,
+    "sharesOutstanding": 4727201147.0
+  },
+  "ratios": {
+    "roe": 0.4404322614654718,
+    "roic": 0.22946694120338595,
+    "grossMargin": 0.2518592117544335,
+    "operatingMargin": 0.15099509228314215,
+    "netMargin": 0.10062324993225544,
+    "debtToEquity": 1.8787200000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 23066000000.0,
+      "operatingIncome": 1397000000.0,
+      "netIncome": 431000000.0,
+      "eps": 0.061,
+      "freeCashFlow": 979000000.0,
+      "totalDebt": 19984000000.0,
+      "cash": 9196000000.0,
+      "sharesOutstanding": 4971476010.0,
+      "grossMargin": 0.177620740483829,
+      "operatingMargin": 0.06056533425821556,
+      "netMargin": 0.01868551114194052,
+      "roe": 0.21378968253968253,
+      "roic": 0.0635
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 29453000000.0,
+      "operatingIncome": 3531000000.0,
+      "netIncome": 2655000000.0,
+      "eps": 0.506,
+      "freeCashFlow": 1320000000.0,
+      "totalDebt": 16082000000.0,
+      "cash": 5441000000.0,
+      "sharesOutstanding": 4971476010.0,
+      "grossMargin": 0.22737921434149322,
+      "operatingMargin": 0.11988591994024378,
+      "netMargin": 0.09014361864665739,
+      "roe": 0.8114303178484108,
+      "roic": 0.1824429058592539
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 32100000000.0,
+      "operatingIncome": 4301000000.0,
+      "netIncome": 2732000000.0,
+      "eps": 0.555,
+      "freeCashFlow": 3556000000.0,
+      "totalDebt": 17345000000.0,
+      "cash": 8189000000.0,
+      "sharesOutstanding": 4971476010.0,
+      "grossMargin": 0.23610591900311526,
+      "operatingMargin": 0.13398753894080997,
+      "netMargin": 0.08510903426791278,
+      "roe": 0.44278768233387356,
+      "roic": 0.1829045290240272
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33213000000.0,
+      "operatingIncome": 5015000000.0,
+      "netIncome": 3342000000.0,
+      "eps": 0.695,
+      "freeCashFlow": 3146000000.0,
+      "totalDebt": 14267000000.0,
+      "cash": 7421000000.0,
+      "sharesOutstanding": 4727201147.0,
+      "grossMargin": 0.2518592117544335,
+      "operatingMargin": 0.15099509228314215,
+      "netMargin": 0.10062324993225544,
+      "roe": 0.4404322614654718,
+      "roic": 0.22946694120338595
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:41.545898+00:00"
+  }
+}

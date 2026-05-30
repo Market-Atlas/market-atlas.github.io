@@ -1,0 +1,128 @@
+{
+  "ticker": "ENGI",
+  "name": "Engie SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 67258531840.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 26.47,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 71944000000.0,
+    "operatingIncome": 9056000000.0,
+    "netIncome": 3827000000.0,
+    "eps": null,
+    "freeCashFlow": -8743000000.0,
+    "totalDebt": 54568000000.0,
+    "cash": 14507000000.0,
+    "sharesOutstanding": 2435285011.0
+  },
+  "ratios": {
+    "roe": 0.11614567526555387,
+    "roic": 0.10347585639525583,
+    "grossMargin": 0.3182614255532081,
+    "operatingMargin": 0.12587568108528857,
+    "netMargin": 0.053194151006338265,
+    "debtToEquity": 1.35163
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.46,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 93864000000.0,
+      "operatingIncome": 5076000000.0,
+      "netIncome": 216000000.0,
+      "eps": 0.06,
+      "freeCashFlow": 2207000000.0,
+      "totalDebt": 40592000000.0,
+      "cash": 15570000000.0,
+      "sharesOutstanding": 2435285011.0,
+      "grossMargin": 0.20592559447711584,
+      "operatingMargin": 0.05407824085911531,
+      "netMargin": 0.002301201738685758,
+      "roe": 0.006306201097746117,
+      "roic": 0.06782106782106782
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 82566000000.0,
+      "operatingIncome": 11631000000.0,
+      "netIncome": 2208000000.0,
+      "eps": 0.87,
+      "freeCashFlow": 5789000000.0,
+      "totalDebt": 47287000000.0,
+      "cash": 16578000000.0,
+      "sharesOutstanding": 2435285011.0,
+      "grossMargin": 0.309740086718504,
+      "operatingMargin": 0.14086912288351136,
+      "netMargin": 0.026742242569580698,
+      "roe": 0.07346042519213494,
+      "roic": 0.15038011998345055
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 73812000000.0,
+      "operatingIncome": 9439000000.0,
+      "netIncome": 4106000000.0,
+      "eps": 1.65,
+      "freeCashFlow": 3759000000.0,
+      "totalDebt": 52007000000.0,
+      "cash": 16928000000.0,
+      "sharesOutstanding": 2435285011.0,
+      "grossMargin": 0.32985151465886303,
+      "operatingMargin": 0.12787893567441608,
+      "netMargin": 0.05562781119601149,
+      "roe": 0.11882162287301772,
+      "roic": 0.10904196943266754
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 71944000000.0,
+      "operatingIncome": 9056000000.0,
+      "netIncome": 3827000000.0,
+      "eps": null,
+      "freeCashFlow": -8743000000.0,
+      "totalDebt": 54568000000.0,
+      "cash": 14507000000.0,
+      "sharesOutstanding": 2435285011.0,
+      "grossMargin": 0.3182614255532081,
+      "operatingMargin": 0.12587568108528857,
+      "netMargin": 0.053194151006338265,
+      "roe": 0.11614567526555387,
+      "roic": 0.10347585639525583
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:18.058029+00:00"
+  }
+}

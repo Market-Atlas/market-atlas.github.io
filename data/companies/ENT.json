@@ -1,0 +1,128 @@
+{
+  "ticker": "ENT",
+  "name": "Entain Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Gambling",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3415827968.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 533.8,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5259400000.0,
+    "operatingIncome": 495700000.0,
+    "netIncome": -666700000.0,
+    "eps": -1.043,
+    "freeCashFlow": 214700000.0,
+    "totalDebt": 3992200000.0,
+    "cash": 350300000.0,
+    "sharesOutstanding": 639602618.0
+  },
+  "ratios": {
+    "roe": -0.7491853017192943,
+    "roic": 0.10153417586694251,
+    "grossMargin": 0.6084534357531277,
+    "operatingMargin": 0.09425029471042325,
+    "netMargin": -0.12676350914552992,
+    "debtToEquity": 3.1121
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4296900000.0,
+      "operatingIncome": 610900000.0,
+      "netIncome": 24200000.0,
+      "eps": 0.041,
+      "freeCashFlow": 428200000.0,
+      "totalDebt": 3394900000.0,
+      "cash": 606400000.0,
+      "sharesOutstanding": 588846842.0,
+      "grossMargin": 0.6317810514557006,
+      "operatingMargin": 0.14217226372501104,
+      "netMargin": 0.005631967232190649,
+      "roe": 0.007724719101123595,
+      "roic": 0.09358579591586623
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4769600000.0,
+      "operatingIncome": 412500000.0,
+      "netIncome": -928600000.0,
+      "eps": -1.507,
+      "freeCashFlow": 187500000.0,
+      "totalDebt": 3633900000.0,
+      "cash": 246000000.0,
+      "sharesOutstanding": 638799891.0,
+      "grossMargin": 0.6094850721234485,
+      "operatingMargin": 0.08648523985239852,
+      "netMargin": -0.19469137873196915,
+      "roe": -0.4094356261022928,
+      "roic": 0.06989274640370051
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5089200000.0,
+      "operatingIncome": 433400000.0,
+      "netIncome": -452700000.0,
+      "eps": -0.708,
+      "freeCashFlow": 281000000.0,
+      "totalDebt": 3955700000.0,
+      "cash": 390600000.0,
+      "sharesOutstanding": 639307010.0,
+      "grossMargin": 0.612689617228641,
+      "operatingMargin": 0.08516073253163563,
+      "netMargin": -0.08895307710445649,
+      "roe": -0.2928770136507731,
+      "roic": 0.07877994692260153
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 5259400000.0,
+      "operatingIncome": 495700000.0,
+      "netIncome": -666700000.0,
+      "eps": -1.043,
+      "freeCashFlow": 214700000.0,
+      "totalDebt": 3992200000.0,
+      "cash": 350300000.0,
+      "sharesOutstanding": 639602618.0,
+      "grossMargin": 0.6084534357531277,
+      "operatingMargin": 0.09425029471042325,
+      "netMargin": -0.12676350914552992,
+      "roe": -0.7491853017192943,
+      "roic": 0.10153417586694251
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:36.504151+00:00"
+  }
+}

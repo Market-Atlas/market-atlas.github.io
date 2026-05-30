@@ -1,0 +1,128 @@
+{
+  "ticker": "8001",
+  "name": "ITOCHU Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 13528976064512.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1935.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 128.0,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 6989912686.0
+  },
+  "ratios": {
+    "roe": 0.1391,
+    "roic": null,
+    "grossMargin": 0.16734,
+    "operatingMargin": 0.04573,
+    "netMargin": 0.060739998,
+    "debtToEquity": 0.66192
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 12293348000000.0,
+      "operatingIncome": 590445000000.0,
+      "netIncome": 820269000000.0,
+      "eps": null,
+      "freeCashFlow": 644021000000.0,
+      "totalDebt": 3916874000000.0,
+      "cash": 611715000000.0,
+      "sharesOutstanding": 7924447520.0,
+      "grossMargin": 0.15757830983064988,
+      "operatingMargin": 0.04802963358720505,
+      "netMargin": 0.06672462212897577,
+      "roe": 0.19533353574681644,
+      "roic": 0.07274895551476744
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 13945633000000.0,
+      "operatingIncome": 710782000000.0,
+      "netIncome": 800519000000.0,
+      "eps": 109.220426,
+      "freeCashFlow": 772337000000.0,
+      "totalDebt": 4011205000000.0,
+      "cash": 606002000000.0,
+      "sharesOutstanding": 7924447520.0,
+      "grossMargin": 0.1527290299407707,
+      "operatingMargin": 0.05096807007613064,
+      "netMargin": 0.05740284431692703,
+      "roe": 0.16597056056910897,
+      "roic": 0.08045558847712776
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 14029910000000.0,
+      "operatingIncome": 710625000000.0,
+      "netIncome": 801770000000.0,
+      "eps": 110.600431,
+      "freeCashFlow": 775562000000.0,
+      "totalDebt": 4396183000000.0,
+      "cash": 600435000000.0,
+      "sharesOutstanding": 7924447520.0,
+      "grossMargin": 0.15911434927237594,
+      "operatingMargin": 0.050650716932610404,
+      "netMargin": 0.05714719481450701,
+      "roe": 0.14773827419465993,
+      "roic": 0.07234190272056454
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14724234000000.0,
+      "operatingIncome": 698080000000.0,
+      "netIncome": 880251000000.0,
+      "eps": 123.13048,
+      "freeCashFlow": 769813000000.0,
+      "totalDebt": 4621705000000.0,
+      "cash": 549573000000.0,
+      "sharesOutstanding": 7924447520.0,
+      "grossMargin": 0.16139759800068376,
+      "operatingMargin": 0.04741027614747226,
+      "netMargin": 0.05978246474485532,
+      "roe": 0.15295221328247502,
+      "roic": 0.06727329690134037
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 128.0,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:04.495011+00:00"
+  }
+}

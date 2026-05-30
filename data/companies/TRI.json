@@ -1,0 +1,111 @@
+{
+  "ticker": "TRI",
+  "name": "Thomson Reuters Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 52183855104.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 119.54,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7476000000.0,
+    "operatingIncome": 1989000000.0,
+    "netIncome": 1502000000.0,
+    "eps": 3.382221,
+    "freeCashFlow": 2017000000.0,
+    "totalDebt": 2372000000.0,
+    "cash": 371000000.0,
+    "sharesOutstanding": 438092269.0
+  },
+  "ratios": {
+    "roe": 0.12607016954843042,
+    "roic": 0.1392272154556909,
+    "grossMargin": 0.7580256821829856,
+    "operatingMargin": 0.2660513643659711,
+    "netMargin": 0.2009095773140717,
+    "debtToEquity": 0.2285
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6627000000.0,
+      "operatingIncome": 1815000000.0,
+      "netIncome": 1338000000.0,
+      "eps": 2.897562,
+      "freeCashFlow": 1320000000.0,
+      "totalDebt": 4996000000.0,
+      "cash": 988000000.0,
+      "sharesOutstanding": 451815087.0,
+      "grossMargin": 0.7608269201750415,
+      "operatingMargin": 0.2738795835219556,
+      "netMargin": 0.2019013128112268,
+      "roe": 0.11257888094236433,
+      "roic": 0.10751732717256086
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6794000000.0,
+      "operatingIncome": 1950000000.0,
+      "netIncome": 2695000000.0,
+      "eps": 5.890956,
+      "freeCashFlow": 1797000000.0,
+      "totalDebt": 3542000000.0,
+      "cash": 1198000000.0,
+      "sharesOutstanding": 445969085.0,
+      "grossMargin": 0.7703856343832793,
+      "operatingMargin": 0.28701795702090077,
+      "netMargin": 0.3966735354724757,
+      "roe": 0.2435827910339841,
+      "roic": 0.13350677803642338
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7258000000.0,
+      "operatingIncome": 1896000000.0,
+      "netIncome": 2210000000.0,
+      "eps": 4.966686,
+      "freeCashFlow": 1850000000.0,
+      "totalDebt": 3076000000.0,
+      "cash": 1853000000.0,
+      "sharesOutstanding": 443062323.0,
+      "grossMargin": 0.7532378065582805,
+      "operatingMargin": 0.2612289887021218,
+      "netMargin": 0.3044915954808487,
+      "roe": 0.18407462935199068,
+      "roic": 0.12571277018963004
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7476000000.0,
+      "operatingIncome": 1989000000.0,
+      "netIncome": 1502000000.0,
+      "eps": 3.382221,
+      "freeCashFlow": 2017000000.0,
+      "totalDebt": 2372000000.0,
+      "cash": 371000000.0,
+      "sharesOutstanding": 438092269.0,
+      "grossMargin": 0.7580256821829856,
+      "operatingMargin": 0.2660513643659711,
+      "netMargin": 0.2009095773140717,
+      "roe": 0.12607016954843042,
+      "roic": 0.1392272154556909
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.952350+00:00"
+  }
+}

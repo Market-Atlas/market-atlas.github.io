@@ -1,0 +1,111 @@
+{
+  "ticker": "AI",
+  "name": "L'Air Liquide S.A.",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 102767697920.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 178.08,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26940200000.0,
+    "operatingIncome": 5234300000.0,
+    "netIncome": 3517900000.0,
+    "eps": 6.08,
+    "freeCashFlow": 2675000000.0,
+    "totalDebt": 13595900000.0,
+    "cash": 3632000000.0,
+    "sharesOutstanding": 579384423.0
+  },
+  "ratios": {
+    "roe": 0.13419979476537258,
+    "roic": 0.13148270023963948,
+    "grossMargin": 0.6417547011529239,
+    "operatingMargin": 0.19429328661257156,
+    "netMargin": 0.13058180711353293,
+    "debtToEquity": 0.50657
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29934000000.0,
+      "operatingIncome": 4861800000.0,
+      "netIncome": 2758800000.0,
+      "eps": 4.790909,
+      "freeCashFlow": 2537100000.0,
+      "totalDebt": 13375700000.0,
+      "cash": 1756400000.0,
+      "sharesOutstanding": 575795298.0,
+      "grossMargin": 0.5385514799224962,
+      "operatingMargin": 0.1624173180998196,
+      "netMargin": 0.09216275806774905,
+      "roe": 0.11622655499570281,
+      "roic": 0.13100309602528556
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27607600000.0,
+      "operatingIncome": 5068000000.0,
+      "netIncome": 3078000000.0,
+      "eps": 5.33,
+      "freeCashFlow": 2869600000.0,
+      "totalDebt": 12037600000.0,
+      "cash": 1624900000.0,
+      "sharesOutstanding": 576968455.0,
+      "grossMargin": 0.5962416146278561,
+      "operatingMargin": 0.18357263941813123,
+      "netMargin": 0.11149103869948855,
+      "roe": 0.12655469440618383,
+      "roic": 0.13938738857672495
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27057800000.0,
+      "operatingIncome": 5157400000.0,
+      "netIncome": 3306100000.0,
+      "eps": 5.72,
+      "freeCashFlow": 2797100000.0,
+      "totalDebt": 12393600000.0,
+      "cash": 1915300000.0,
+      "sharesOutstanding": 578259263.0,
+      "grossMargin": 0.6301177479322044,
+      "operatingMargin": 0.1906067751258417,
+      "netMargin": 0.12218657836187717,
+      "roe": 0.12308637379002234,
+      "roic": 0.13138667536225976
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26940200000.0,
+      "operatingIncome": 5234300000.0,
+      "netIncome": 3517900000.0,
+      "eps": 6.08,
+      "freeCashFlow": 2675000000.0,
+      "totalDebt": 13595900000.0,
+      "cash": 3632000000.0,
+      "sharesOutstanding": 579384423.0,
+      "grossMargin": 0.6417547011529239,
+      "operatingMargin": 0.19429328661257156,
+      "netMargin": 0.13058180711353293,
+      "roe": 0.13419979476537258,
+      "roic": 0.13148270023963948
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:11.973779+00:00"
+  }
+}

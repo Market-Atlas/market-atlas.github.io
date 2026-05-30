@@ -1,0 +1,111 @@
+{
+  "ticker": "BNS",
+  "name": "The Bank of Nova Scotia",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 135628537856.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 110.62,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 37097000000.0,
+    "operatingIncome": null,
+    "netIncome": 7789000000.0,
+    "eps": 5.67,
+    "freeCashFlow": 5060000000.0,
+    "totalDebt": 314880000000.0,
+    "cash": 65967000000.0,
+    "sharesOutstanding": 1236305738.0
+  },
+  "ratios": {
+    "roe": 0.08966684318375429,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.39803,
+    "netMargin": 0.20996306979000998,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 31509000000.0,
+      "operatingIncome": null,
+      "netIncome": 9916000000.0,
+      "eps": 8.02,
+      "freeCashFlow": 16372000000.0,
+      "totalDebt": 310855000000.0,
+      "cash": 65895000000.0,
+      "sharesOutstanding": 1191375095.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.31470373544066776,
+      "roe": 0.13541823147832024,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 31694000000.0,
+      "operatingIncome": null,
+      "netIncome": 7338000000.0,
+      "eps": 5.72,
+      "freeCashFlow": 31282000000.0,
+      "totalDebt": 313813000000.0,
+      "cash": 90312000000.0,
+      "sharesOutstanding": 1214044420.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23152647188742348,
+      "roe": 0.09549465136253611,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 33615000000.0,
+      "operatingIncome": null,
+      "netIncome": 7758000000.0,
+      "eps": 5.87,
+      "freeCashFlow": 15163000000.0,
+      "totalDebt": 300673000000.0,
+      "cash": 63860000000.0,
+      "sharesOutstanding": 1244435686.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23078982597054887,
+      "roe": 0.09418591945999101,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 37097000000.0,
+      "operatingIncome": null,
+      "netIncome": 7789000000.0,
+      "eps": 5.67,
+      "freeCashFlow": 5060000000.0,
+      "totalDebt": 314880000000.0,
+      "cash": 65967000000.0,
+      "sharesOutstanding": 1236305738.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20996306979000998,
+      "roe": 0.08966684318375429,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:02.603965+00:00"
+  }
+}

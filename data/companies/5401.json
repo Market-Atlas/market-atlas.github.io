@@ -1,0 +1,111 @@
+{
+  "ticker": "5401",
+  "name": "Nippon Steel Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2961217945600.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 566.6,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8695526000000.0,
+    "operatingIncome": 556336000000.0,
+    "netIncome": 350227000000.0,
+    "eps": 67.03,
+    "freeCashFlow": 360399000000.0,
+    "totalDebt": 2507492000000.0,
+    "cash": 672526000000.0,
+    "sharesOutstanding": 5373633760.0
+  },
+  "ratios": {
+    "roe": 0.06505791695854095,
+    "roic": 0.07050435804822398,
+    "grossMargin": 0.15774226884032086,
+    "operatingMargin": 0.06397956834353666,
+    "netMargin": 0.04027668941476341,
+    "debtToEquity": 0.85886
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 6808890000000.0,
+      "operatingIncome": 723650000000.0,
+      "netIncome": 637321000000.0,
+      "eps": 131.496,
+      "freeCashFlow": 148733000000.0,
+      "totalDebt": 2653395000000.0,
+      "cash": 551049000000.0,
+      "sharesOutstanding": 4751607010.0,
+      "grossMargin": 0.17940648182009108,
+      "operatingMargin": 0.10628017195166907,
+      "netMargin": 0.09360130652720194,
+      "roe": 0.18383557858416366,
+      "roic": 0.11823971593057345
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 7975586000000.0,
+      "operatingIncome": 813541000000.0,
+      "netIncome": 694016000000.0,
+      "eps": 134.378,
+      "freeCashFlow": 191256000000.0,
+      "totalDebt": 2699350000000.0,
+      "cash": 670410000000.0,
+      "sharesOutstanding": 4751607010.0,
+      "grossMargin": 0.1621897124549845,
+      "operatingMargin": 0.1020039154489714,
+      "netMargin": 0.08701755582599197,
+      "roe": 0.16598667114708734,
+      "roic": 0.11823855952433723
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 8868097000000.0,
+      "operatingIncome": 725331000000.0,
+      "netIncome": 549372000000.0,
+      "eps": 105.592,
+      "freeCashFlow": 543814000000.0,
+      "totalDebt": 2711643000000.0,
+      "cash": 448892000000.0,
+      "sharesOutstanding": 4752746525.0,
+      "grossMargin": 0.15637695437927662,
+      "operatingMargin": 0.08179105393186385,
+      "netMargin": 0.0619492547273671,
+      "roe": 0.11498605927044388,
+      "roic": 0.09684806599219961
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 8695526000000.0,
+      "operatingIncome": 556336000000.0,
+      "netIncome": 350227000000.0,
+      "eps": 67.03,
+      "freeCashFlow": 360399000000.0,
+      "totalDebt": 2507492000000.0,
+      "cash": 672526000000.0,
+      "sharesOutstanding": 5373633760.0,
+      "grossMargin": 0.15774226884032086,
+      "operatingMargin": 0.06397956834353666,
+      "netMargin": 0.04027668941476341,
+      "roe": 0.06505791695854095,
+      "roic": 0.07050435804822398
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:09.165649+00:00"
+  }
+}

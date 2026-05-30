@@ -1,0 +1,128 @@
+{
+  "ticker": "0823",
+  "name": "Link Real Estate Investment Trust",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 104945164288.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 40.38,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": -2.86,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 2598939023.0
+  },
+  "ratios": {
+    "roe": -0.04977,
+    "roic": null,
+    "grossMargin": 0.73749,
+    "operatingMargin": 0.68413,
+    "netMargin": -0.52368,
+    "debtToEquity": 0.37606
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 11602000000.0,
+      "operatingIncome": 8264000000.0,
+      "netIncome": 6894000000.0,
+      "eps": null,
+      "freeCashFlow": 6670000000.0,
+      "totalDebt": 49750000000.0,
+      "cash": 2779000000.0,
+      "sharesOutstanding": 2171418043.0,
+      "grossMargin": 0.7564213066712636,
+      "operatingMargin": 0.7122909843130495,
+      "netMargin": 0.5942078951904844,
+      "roe": 0.042375590086546025,
+      "roic": 0.03890076163398262
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12234000000.0,
+      "operatingIncome": 8545000000.0,
+      "netIncome": 15451000000.0,
+      "eps": 6.92,
+      "freeCashFlow": 7579000000.0,
+      "totalDebt": 64935000000.0,
+      "cash": 13987000000.0,
+      "sharesOutstanding": 2553845091.0,
+      "grossMargin": 0.7518391368317803,
+      "operatingMargin": 0.6984632990027791,
+      "netMargin": 1.2629556972372078,
+      "roe": 0.08177728379379698,
+      "roic": 0.033658296405711476
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 13578000000.0,
+      "operatingIncome": 9304000000.0,
+      "netIncome": -1983000000.0,
+      "eps": -0.77,
+      "freeCashFlow": 8396000000.0,
+      "totalDebt": 59288000000.0,
+      "cash": 7184000000.0,
+      "sharesOutstanding": 2553845113.0,
+      "grossMargin": 0.7416408896744734,
+      "operatingMargin": 0.6852261010458094,
+      "netMargin": -0.14604507291206364,
+      "roe": -0.011089177566644112,
+      "roic": 0.0390742132870804
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 14223000000.0,
+      "operatingIncome": 9704000000.0,
+      "netIncome": -8863000000.0,
+      "eps": -3.45,
+      "freeCashFlow": 8944000000.0,
+      "totalDebt": 52927000000.0,
+      "cash": 3122000000.0,
+      "sharesOutstanding": 2599733165.0,
+      "grossMargin": 0.7466076073964705,
+      "operatingMargin": 0.6822751880756521,
+      "netMargin": -0.6231456092244956,
+      "roe": -0.054217899308741664,
+      "roic": 0.04484350522419442
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": -2.86,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:30.553676+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "VOW3",
+  "name": "Volkswagen AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 46028931072.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 91.82,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 321913000000.0,
+    "operatingIncome": 10794000000.0,
+    "netIncome": 7323000000.0,
+    "eps": 13.29,
+    "freeCashFlow": -9337000000.0,
+    "totalDebt": 196357000000.0,
+    "cash": 38801000000.0,
+    "sharesOutstanding": 501295263.0
+  },
+  "ratios": {
+    "roe": 0.038894819866473335,
+    "roic": 0.02806304174877936,
+    "grossMargin": 0.15917965413015317,
+    "operatingMargin": 0.03353079869405709,
+    "netMargin": 0.02274838232690199,
+    "debtToEquity": 1.37093
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 279050000000.0,
+      "operatingIncome": 18488000000.0,
+      "netIncome": 15457000000.0,
+      "eps": 29.66,
+      "freeCashFlow": 5825000000.0,
+      "totalDebt": 178436000000.0,
+      "cash": 29172000000.0,
+      "sharesOutstanding": 501295263.0,
+      "grossMargin": 0.18700591291883176,
+      "operatingMargin": 0.06625335961297259,
+      "netMargin": 0.0553915068984053,
+      "roe": 0.09346579914860681,
+      "roic": 0.05377357392993846
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 322284000000.0,
+      "operatingIncome": 25699000000.0,
+      "netIncome": 16532000000.0,
+      "eps": 31.79,
+      "freeCashFlow": -6439000000.0,
+      "totalDebt": 193972000000.0,
+      "cash": 43449000000.0,
+      "sharesOutstanding": 501295263.0,
+      "grossMargin": 0.18922751362152634,
+      "operatingMargin": 0.07974022911469388,
+      "netMargin": 0.05129637214382346,
+      "roe": 0.09448584884093092,
+      "roic": 0.0696563126795685
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 324655000000.0,
+      "operatingIncome": 21664000000.0,
+      "netIncome": 11351000000.0,
+      "eps": 21.36,
+      "freeCashFlow": -10295000000.0,
+      "totalDebt": 196520000000.0,
+      "cash": 40296000000.0,
+      "sharesOutstanding": 501295263.0,
+      "grossMargin": 0.18318214720241488,
+      "operatingMargin": 0.0667292972540081,
+      "netMargin": 0.03496326870062066,
+      "roe": 0.0622675458325562,
+      "roic": 0.05718901624543971
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 321913000000.0,
+      "operatingIncome": 10794000000.0,
+      "netIncome": 7323000000.0,
+      "eps": 13.29,
+      "freeCashFlow": -9337000000.0,
+      "totalDebt": 196357000000.0,
+      "cash": 38801000000.0,
+      "sharesOutstanding": 501295263.0,
+      "grossMargin": 0.15917965413015317,
+      "operatingMargin": 0.03353079869405709,
+      "netMargin": 0.02274838232690199,
+      "roe": 0.038894819866473335,
+      "roic": 0.02806304174877936
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:29.525429+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "STJ",
+  "name": "St. James's Place plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6156498432.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1210.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30139300000.0,
+    "operatingIncome": null,
+    "netIncome": 531100000.0,
+    "eps": 0.988,
+    "freeCashFlow": 1066100000.0,
+    "totalDebt": 442300000.0,
+    "cash": 329600000.0,
+    "sharesOutstanding": 527112135.0
+  },
+  "ratios": {
+    "roe": 0.35914254801190154,
+    "roic": null,
+    "grossMargin": 0.12771,
+    "operatingMargin": 0.03481,
+    "netMargin": 0.017621510784922013,
+    "debtToEquity": 0.29908999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -11922300000.0,
+      "operatingIncome": null,
+      "netIncome": 406800000.0,
+      "eps": 0.739,
+      "freeCashFlow": -810700000.0,
+      "totalDebt": 280400000.0,
+      "cash": 253300000.0,
+      "sharesOutstanding": 544235757.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.03412093304144335,
+      "roe": 0.3199119219880466,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18885900000.0,
+      "operatingIncome": null,
+      "netIncome": -10100000.0,
+      "eps": -0.018,
+      "freeCashFlow": -3500000.0,
+      "totalDebt": 371900000.0,
+      "cash": 285400000.0,
+      "sharesOutstanding": 548604794.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.0005347905050858047,
+      "roe": -0.010270490136261948,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25947500000.0,
+      "operatingIncome": null,
+      "netIncome": 398400000.0,
+      "eps": 0.726,
+      "freeCashFlow": -663100000.0,
+      "totalDebt": 624000000.0,
+      "cash": 352600000.0,
+      "sharesOutstanding": 544014711.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.015354080354562096,
+      "roe": 0.3127649552520019,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 30139300000.0,
+      "operatingIncome": null,
+      "netIncome": 531100000.0,
+      "eps": 0.988,
+      "freeCashFlow": 1066100000.0,
+      "totalDebt": 442300000.0,
+      "cash": 329600000.0,
+      "sharesOutstanding": 527112135.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.017621510784922013,
+      "roe": 0.35914254801190154,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:57.097651+00:00"
+  }
+}

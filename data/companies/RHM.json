@@ -1,0 +1,111 @@
+{
+  "ticker": "RHM",
+  "name": "Rheinmetall AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 60197445632.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1293.4,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9935000000.0,
+    "operatingIncome": 1702000000.0,
+    "netIncome": 696000000.0,
+    "eps": 15.16,
+    "freeCashFlow": 1415000000.0,
+    "totalDebt": 1282000000.0,
+    "cash": 1650000000.0,
+    "sharesOutstanding": 46002534.0
+  },
+  "ratios": {
+    "roe": 0.1388944322490521,
+    "roic": 0.27045924042587,
+    "grossMargin": 0.5238047307498742,
+    "operatingMargin": 0.17131353799698038,
+    "netMargin": 0.0700553598389532,
+    "debtToEquity": 0.3586
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6410000000.0,
+      "operatingIncome": 754000000.0,
+      "netIncome": 474000000.0,
+      "eps": 10.94,
+      "freeCashFlow": -175000000.0,
+      "totalDebt": 972000000.0,
+      "cash": 545000000.0,
+      "sharesOutstanding": 43558850.0,
+      "grossMargin": 0.5271450858034321,
+      "operatingMargin": 0.11762870514820593,
+      "netMargin": 0.07394695787831514,
+      "roe": 0.16814473217452997,
+      "roic": 0.19889211289897124
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7176000000.0,
+      "operatingIncome": 854000000.0,
+      "netIncome": 535000000.0,
+      "eps": 12.07,
+      "freeCashFlow": 345000000.0,
+      "totalDebt": 1914000000.0,
+      "cash": 850000000.0,
+      "sharesOutstanding": 43558850.0,
+      "grossMargin": 0.5486343366778149,
+      "operatingMargin": 0.11900780379041248,
+      "netMargin": 0.07455406911928651,
+      "roe": 0.16133896260554886,
+      "roic": 0.1632887189292543
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7715000000.0,
+      "operatingIncome": 1329000000.0,
+      "netIncome": 717000000.0,
+      "eps": 15.96,
+      "freeCashFlow": 988000000.0,
+      "totalDebt": 2423000000.0,
+      "cash": 1184000000.0,
+      "sharesOutstanding": 43558850.0,
+      "grossMargin": 0.5384316267012313,
+      "operatingMargin": 0.17226182760855477,
+      "netMargin": 0.09293583927414129,
+      "roe": 0.17703703703703705,
+      "roic": 0.20531438282094855
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9935000000.0,
+      "operatingIncome": 1702000000.0,
+      "netIncome": 696000000.0,
+      "eps": 15.16,
+      "freeCashFlow": 1415000000.0,
+      "totalDebt": 1282000000.0,
+      "cash": 1650000000.0,
+      "sharesOutstanding": 46002534.0,
+      "grossMargin": 0.5238047307498742,
+      "operatingMargin": 0.17131353799698038,
+      "netMargin": 0.0700553598389532,
+      "roe": 0.1388944322490521,
+      "roic": 0.27045924042587
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:24.670433+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "BARC",
+  "name": "Barclays PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 62064869376.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 457.95,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 29140000000.0,
+    "operatingIncome": null,
+    "netIncome": 7172000000.0,
+    "eps": 0.423,
+    "freeCashFlow": 16880000000.0,
+    "totalDebt": 219941000000.0,
+    "cash": 229752000000.0,
+    "sharesOutstanding": 13864768457.0
+  },
+  "ratios": {
+    "roe": 0.09220405224724879,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.39755002,
+    "netMargin": 0.24612216884008237,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 25021000000.0,
+      "operatingIncome": null,
+      "netIncome": 5928000000.0,
+      "eps": 0.298,
+      "freeCashFlow": 28485000000.0,
+      "totalDebt": 183366000000.0,
+      "cash": 256351000000.0,
+      "sharesOutstanding": 15871000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23692098637144798,
+      "roe": 0.08680372518010894,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 25384000000.0,
+      "operatingIncome": null,
+      "netIncome": 5259000000.0,
+      "eps": 0.269,
+      "freeCashFlow": -2645000000.0,
+      "totalDebt": 176551000000.0,
+      "cash": 224634000000.0,
+      "sharesOutstanding": 15154554000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20717774976363063,
+      "roe": 0.07385821021290939,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 26230000000.0,
+      "operatingIncome": null,
+      "netIncome": 6307000000.0,
+      "eps": 0.348,
+      "freeCashFlow": 5539000000.0,
+      "totalDebt": 185746000000.0,
+      "cash": 210184000000.0,
+      "sharesOutstanding": 14419599565.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24044986656500192,
+      "roe": 0.08781554141546344,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 29140000000.0,
+      "operatingIncome": null,
+      "netIncome": 7172000000.0,
+      "eps": 0.423,
+      "freeCashFlow": 16880000000.0,
+      "totalDebt": 219941000000.0,
+      "cash": 229752000000.0,
+      "sharesOutstanding": 13864768457.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.24612216884008237,
+      "roe": 0.09220405224724879,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.660750+00:00"
+  }
+}

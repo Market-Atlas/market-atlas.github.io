@@ -1,0 +1,128 @@
+{
+  "ticker": "9101",
+  "name": "Nippon Yusen Kabushiki Kaisha",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2144095698944.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5313.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 504.85,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 403556522.0
+  },
+  "ratios": {
+    "roe": 0.07056,
+    "roic": null,
+    "grossMargin": 0.17717,
+    "operatingMargin": 0.06291,
+    "netMargin": 0.08737001,
+    "debtToEquity": 0.38220999999999994
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2280775000000.0,
+      "operatingIncome": 268940000000.0,
+      "netIncome": 1009105000000.0,
+      "eps": null,
+      "freeCashFlow": 315036000000.0,
+      "totalDebt": 808299000000.0,
+      "cash": 233019000000.0,
+      "sharesOutstanding": 510165294.0,
+      "grossMargin": 0.19880654602054126,
+      "operatingMargin": 0.11791605923425151,
+      "netMargin": 0.44243952165382383,
+      "roe": 0.5888416490052004,
+      "roic": 0.10663712410453403
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2616066000000.0,
+      "operatingIncome": 296351000000.0,
+      "netIncome": 1012523000000.0,
+      "eps": 1993.71,
+      "freeCashFlow": 626493000000.0,
+      "totalDebt": 694090000000.0,
+      "cash": 204817000000.0,
+      "sharesOutstanding": 510165294.0,
+      "grossMargin": 0.19500693025328872,
+      "operatingMargin": 0.11328116339572472,
+      "netMargin": 0.38704031167409386,
+      "roe": 0.4084994190362457,
+      "roic": 0.09340567902090628
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2387240000000.0,
+      "operatingIncome": 174680000000.0,
+      "netIncome": 228603000000.0,
+      "eps": 468.13,
+      "freeCashFlow": 65133000000.0,
+      "totalDebt": 913804000000.0,
+      "cash": 156163000000.0,
+      "sharesOutstanding": 510165294.0,
+      "grossMargin": 0.17311623464754278,
+      "operatingMargin": 0.07317236641477187,
+      "netMargin": 0.09576037599906168,
+      "roe": 0.0862532401136445,
+      "roic": 0.049009952937202284
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2588700000000.0,
+      "operatingIncome": 210820000000.0,
+      "netIncome": 477707000000.0,
+      "eps": 1070.32,
+      "freeCashFlow": 304249000000.0,
+      "totalDebt": 738461000000.0,
+      "cash": 156012000000.0,
+      "sharesOutstanding": 461000000.0,
+      "grossMargin": 0.18130297060300538,
+      "operatingMargin": 0.08143855989492796,
+      "netMargin": 0.18453548112952448,
+      "roe": 0.1636613981967019,
+      "roic": 0.0576430652373928
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 504.85,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:17.569433+00:00"
+  }
+}

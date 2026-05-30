@@ -1,0 +1,111 @@
+{
+  "ticker": "BAB",
+  "name": "Babcock International Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 5364614656.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1096.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4831300000.0,
+    "operatingIncome": 362400000.0,
+    "netIncome": 247100000.0,
+    "eps": 0.48,
+    "freeCashFlow": 180500000.0,
+    "totalDebt": 1025900000.0,
+    "cash": 646600000.0,
+    "sharesOutstanding": 505596597.0
+  },
+  "ratios": {
+    "roe": 0.40883520847121113,
+    "roic": 0.22229037600441637,
+    "grossMargin": 0.085889995,
+    "operatingMargin": 0.07501086664044875,
+    "netMargin": 0.05114565437873864,
+    "debtToEquity": 1.4450399999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 4101800000.0,
+      "operatingIncome": 61200000.0,
+      "netIncome": 164200000.0,
+      "eps": 0.321,
+      "freeCashFlow": -196400000.0,
+      "totalDebt": 2145200000.0,
+      "cash": 1146300000.0,
+      "sharesOutstanding": 505596597.0,
+      "grossMargin": 0.08418255400068263,
+      "operatingMargin": 0.014920278901945487,
+      "netMargin": 0.0400312058120825,
+      "roe": 0.2407624633431085,
+      "roic": 0.02164685908319185
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 4438600000.0,
+      "operatingIncome": 122900000.0,
+      "netIncome": -35000000.0,
+      "eps": -0.069,
+      "freeCashFlow": 136200000.0,
+      "totalDebt": 1016800000.0,
+      "cash": 451700000.0,
+      "sharesOutstanding": 505596597.0,
+      "grossMargin": null,
+      "operatingMargin": 0.027688910917856982,
+      "netMargin": -0.00788536926057766,
+      "roe": -0.09889799378355468,
+      "roic": 0.08966221638578828
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4390100000.0,
+      "operatingIncome": 245100000.0,
+      "netIncome": 165700000.0,
+      "eps": 0.322,
+      "freeCashFlow": 172300000.0,
+      "totalDebt": 998000000.0,
+      "cash": 570600000.0,
+      "sharesOutstanding": 505596597.0,
+      "grossMargin": null,
+      "operatingMargin": 0.055830163322019996,
+      "netMargin": 0.03774401494271201,
+      "roe": 0.4260735407559784,
+      "roic": 0.17672507030067056
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4831300000.0,
+      "operatingIncome": 362400000.0,
+      "netIncome": 247100000.0,
+      "eps": 0.48,
+      "freeCashFlow": 180500000.0,
+      "totalDebt": 1025900000.0,
+      "cash": 646600000.0,
+      "sharesOutstanding": 505596597.0,
+      "grossMargin": null,
+      "operatingMargin": 0.07501086664044875,
+      "netMargin": 0.05114565437873864,
+      "roe": 0.40883520847121113,
+      "roic": 0.22229037600441637
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.646232+00:00"
+  }
+}

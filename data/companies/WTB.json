@@ -1,0 +1,111 @@
+{
+  "ticker": "WTB",
+  "name": "Whitbread plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3919787008.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2348.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2920200000.0,
+    "operatingIncome": 637100000.0,
+    "netIncome": 212900000.0,
+    "eps": 1.224,
+    "freeCashFlow": 55600000.0,
+    "totalDebt": 5466100000.0,
+    "cash": 233700000.0,
+    "sharesOutstanding": 180196253.0
+  },
+  "ratios": {
+    "roe": 0.0678803724014794,
+    "roic": 0.07405986631793084,
+    "grossMargin": 0.6907746044791453,
+    "operatingMargin": 0.21816998835696186,
+    "netMargin": 0.0729059653448394,
+    "debtToEquity": 1.74279
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-02-28",
+      "revenue": 2625200000.0,
+      "operatingIncome": 532600000.0,
+      "netIncome": 278800000.0,
+      "eps": 1.375,
+      "freeCashFlow": 281100000.0,
+      "totalDebt": 4951800000.0,
+      "cash": 1164800000.0,
+      "sharesOutstanding": 214535553.0,
+      "grossMargin": 0.6467316775864697,
+      "operatingMargin": 0.20287978058814565,
+      "netMargin": 0.1062014322718269,
+      "roe": 0.06781145108722089,
+      "roic": 0.05876511607379292
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-02-29",
+      "revenue": 2959900000.0,
+      "operatingIncome": 663800000.0,
+      "netIncome": 312100000.0,
+      "eps": 1.599,
+      "freeCashFlow": 369400000.0,
+      "totalDebt": 5093300000.0,
+      "cash": 696700000.0,
+      "sharesOutstanding": 197471562.0,
+      "grossMargin": 0.6627588769890874,
+      "operatingMargin": 0.22426433325450185,
+      "netMargin": 0.10544275144430555,
+      "roe": 0.08867988861737797,
+      "roic": 0.0770722305432675
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-02-28",
+      "revenue": 2921900000.0,
+      "operatingIncome": 618900000.0,
+      "netIncome": 253700000.0,
+      "eps": 1.406,
+      "freeCashFlow": 263500000.0,
+      "totalDebt": 5626200000.0,
+      "cash": 909000000.0,
+      "sharesOutstanding": 188946946.0,
+      "grossMargin": 0.6756562510695096,
+      "operatingMargin": 0.2118142304664773,
+      "netMargin": 0.08682706458126561,
+      "roe": 0.07608337082021292,
+      "roic": 0.06906826475610164
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-02-28",
+      "revenue": 2920200000.0,
+      "operatingIncome": 637100000.0,
+      "netIncome": 212900000.0,
+      "eps": 1.224,
+      "freeCashFlow": 55600000.0,
+      "totalDebt": 5466100000.0,
+      "cash": 233700000.0,
+      "sharesOutstanding": 180196253.0,
+      "grossMargin": 0.6907746044791453,
+      "operatingMargin": 0.21816998835696186,
+      "netMargin": 0.0729059653448394,
+      "roe": 0.0678803724014794,
+      "roic": 0.07405986631793084
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:00.912678+00:00"
+  }
+}

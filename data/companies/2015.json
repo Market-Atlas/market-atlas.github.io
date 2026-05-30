@@ -1,0 +1,128 @@
+{
+  "ticker": "2015",
+  "name": "Li Auto Inc.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 117477015552.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 57.85,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 112312511000.0,
+    "operatingIncome": -521117000.0,
+    "netIncome": 1124438000.0,
+    "eps": 0.54,
+    "freeCashFlow": -12816914000.0,
+    "totalDebt": 17814767000.0,
+    "cash": 56691765000.0,
+    "sharesOutstanding": 2140882268.0
+  },
+  "ratios": {
+    "roe": 0.015484020043995218,
+    "roic": -0.005762399907415375,
+    "grossMargin": 0.18684523935182965,
+    "operatingMargin": -0.00463988379709541,
+    "netMargin": 0.010011689614881818,
+    "debtToEquity": 0.25122
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 45286816000.0,
+      "operatingIncome": -3654877000.0,
+      "netIncome": -2012215000.0,
+      "eps": -1.04,
+      "freeCashFlow": 2252367000.0,
+      "totalDebt": 12264378000.0,
+      "cash": 38478016000.0,
+      "sharesOutstanding": 2084577974.0,
+      "grossMargin": 0.19410629354026568,
+      "operatingMargin": -0.08070509969170718,
+      "netMargin": -0.04443268875427232,
+      "roe": -0.04485673804954807,
+      "roic": -0.06398249296050726
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 123851332000.0,
+      "operatingIncome": 7406877000.0,
+      "netIncome": 11704133000.0,
+      "eps": 5.55,
+      "freeCashFlow": 44186331000.0,
+      "totalDebt": 13546867000.0,
+      "cash": 91329030000.0,
+      "sharesOutstanding": 2122020268.0,
+      "grossMargin": 0.2220141726049422,
+      "operatingMargin": 0.05980458086635677,
+      "netMargin": 0.09450147052112447,
+      "roe": 0.1946062912053854,
+      "roic": 0.10051469890055287
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 144459946000.0,
+      "operatingIncome": 7019114000.0,
+      "netIncome": 8032350000.0,
+      "eps": 3.79,
+      "freeCashFlow": 8203138000.0,
+      "totalDebt": 16344719000.0,
+      "cash": 65901123000.0,
+      "sharesOutstanding": 2122020268.0,
+      "grossMargin": 0.20528969324133625,
+      "operatingMargin": 0.048588651694498074,
+      "netMargin": 0.05560260973654248,
+      "roe": 0.11333140241894435,
+      "roic": 0.08047633511929651
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 112312511000.0,
+      "operatingIncome": -521117000.0,
+      "netIncome": 1124438000.0,
+      "eps": 0.54,
+      "freeCashFlow": -12816914000.0,
+      "totalDebt": 17814767000.0,
+      "cash": 56691765000.0,
+      "sharesOutstanding": 2140882268.0,
+      "grossMargin": 0.18684523935182965,
+      "operatingMargin": -0.00463988379709541,
+      "netMargin": 0.010011689614881818,
+      "roe": 0.015484020043995218,
+      "roic": -0.005762399907415375
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:36.861076+00:00"
+  }
+}

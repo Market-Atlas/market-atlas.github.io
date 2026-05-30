@@ -1,0 +1,128 @@
+{
+  "ticker": "4063",
+  "name": "Shin-Etsu Chemical Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 14405085429760.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7758.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 252.49,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1856803906.0
+  },
+  "ratios": {
+    "roe": 0.106800005,
+    "roic": null,
+    "grossMargin": 0.34219003,
+    "operatingMargin": 0.21435,
+    "netMargin": 0.18433,
+    "debtToEquity": 0.0524
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2074428000000.0,
+      "operatingIncome": 676322000000.0,
+      "netIncome": 500117000000.0,
+      "eps": null,
+      "freeCashFlow": 355972000000.0,
+      "totalDebt": 30401000000.0,
+      "cash": 1112775000000.0,
+      "sharesOutstanding": 2083313965.0,
+      "grossMargin": 0.4184300443302925,
+      "operatingMargin": 0.3260281870472246,
+      "netMargin": 0.2410866995624818,
+      "roe": 0.15021708800211456,
+      "roic": 0.2013045227901572
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2808824000000.0,
+      "operatingIncome": 998202000000.0,
+      "netIncome": 708238000000.0,
+      "eps": 347.61,
+      "freeCashFlow": 488646000000.0,
+      "totalDebt": 29810000000.0,
+      "cash": 1449617000000.0,
+      "sharesOutstanding": 2024122965.0,
+      "grossMargin": 0.4322474459061871,
+      "operatingMargin": 0.3553807572136951,
+      "netMargin": 0.2521475179648137,
+      "roe": 0.18280846046469368,
+      "roic": 0.25568580882567654
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2414937000000.0,
+      "operatingIncome": 701038000000.0,
+      "netIncome": 520140000000.0,
+      "eps": 259.13,
+      "freeCashFlow": 377705000000.0,
+      "totalDebt": 24299000000.0,
+      "cash": 1698999000000.0,
+      "sharesOutstanding": 2001691765.0,
+      "grossMargin": 0.3773220585050459,
+      "operatingMargin": 0.29029245897512024,
+      "netMargin": 0.2153845007136832,
+      "roe": 0.12201950801370286,
+      "roic": 0.16352418673869737
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2561249000000.0,
+      "operatingIncome": 742105000000.0,
+      "netIncome": 534021000000.0,
+      "eps": 269.28,
+      "freeCashFlow": 439097000000.0,
+      "totalDebt": 16841000000.0,
+      "cash": 1708438000000.0,
+      "sharesOutstanding": 1984995865.0,
+      "grossMargin": 0.384235191502271,
+      "operatingMargin": 0.28974340253524744,
+      "netMargin": 0.20850022781853697,
+      "roe": 0.11453607208196513,
+      "roic": 0.15859279282783298
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 252.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:03.571537+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "SHOP",
+  "name": "Shopify Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "USD",
+  "marketCap": {
+    "value": 213347401728.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 164.41,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11556000000.0,
+    "operatingIncome": 1885000000.0,
+    "netIncome": 1231000000.0,
+    "eps": 0.94,
+    "freeCashFlow": 2007000000.0,
+    "totalDebt": 188000000.0,
+    "cash": 1534000000.0,
+    "sharesOutstanding": 1303904301.0
+  },
+  "ratios": {
+    "roe": 0.09136792102723966,
+    "roic": 0.137984042163824,
+    "grossMargin": 0.48070266528210454,
+    "operatingMargin": 0.16311872620283835,
+    "netMargin": 0.10652474904811353,
+    "debtToEquity": 0.01432
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5600000000.0,
+      "operatingIncome": -687000000.0,
+      "netIncome": -3460000000.0,
+      "eps": -2.73,
+      "freeCashFlow": -186000000.0,
+      "totalDebt": 1396000000.0,
+      "cash": 1649000000.0,
+      "sharesOutstanding": 1275128566.0,
+      "grossMargin": 0.49178571428571427,
+      "operatingMargin": -0.12267857142857143,
+      "netMargin": -0.6178571428571429,
+      "roe": -0.41995387789780314,
+      "roic": -0.07130254281266217
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 7060000000.0,
+      "operatingIncome": 74000000.0,
+      "netIncome": 132000000.0,
+      "eps": 0.1,
+      "freeCashFlow": 905000000.0,
+      "totalDebt": 1150000000.0,
+      "cash": 1405000000.0,
+      "sharesOutstanding": 1286570293.0,
+      "grossMargin": 0.4978753541076487,
+      "operatingMargin": 0.010481586402266289,
+      "netMargin": 0.018696883852691217,
+      "roe": 0.01455989410986102,
+      "roic": 0.007243539545810493
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 8880000000.0,
+      "operatingIncome": 1302000000.0,
+      "netIncome": 2019000000.0,
+      "eps": 1.559579,
+      "freeCashFlow": 1597000000.0,
+      "totalDebt": 1126000000.0,
+      "cash": 1489000000.0,
+      "sharesOutstanding": 1294580140.0,
+      "grossMargin": 0.5036036036036036,
+      "operatingMargin": 0.14662162162162162,
+      "netMargin": 0.22736486486486487,
+      "roe": 0.17468420141893062,
+      "roic": 0.10264900662251655
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11556000000.0,
+      "operatingIncome": 1885000000.0,
+      "netIncome": 1231000000.0,
+      "eps": 0.94,
+      "freeCashFlow": 2007000000.0,
+      "totalDebt": 188000000.0,
+      "cash": 1534000000.0,
+      "sharesOutstanding": 1303904301.0,
+      "grossMargin": 0.48070266528210454,
+      "operatingMargin": 0.16311872620283835,
+      "netMargin": 0.10652474904811353,
+      "roe": 0.09136792102723966,
+      "roic": 0.137984042163824
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.032564+00:00"
+  }
+}

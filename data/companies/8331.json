@@ -1,0 +1,128 @@
+{
+  "ticker": "8331",
+  "name": "The Chiba Bank, Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1615954837504.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2326.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 306054000000.0,
+    "operatingIncome": null,
+    "netIncome": 94063000000.0,
+    "eps": null,
+    "freeCashFlow": -1342132000000.0,
+    "totalDebt": 2175632000000.0,
+    "cash": 2680390000000.0,
+    "sharesOutstanding": 775521087.0
+  },
+  "ratios": {
+    "roe": 0.07481348922293804,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.44296002,
+    "netMargin": 0.30734118815633843,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 73.45,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 220759000000.0,
+      "operatingIncome": null,
+      "netIncome": 60276000000.0,
+      "eps": 82.52,
+      "freeCashFlow": -31600000000.0,
+      "totalDebt": 2141144000000.0,
+      "cash": 4065850000000.0,
+      "sharesOutstanding": 815521000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2730398307656766,
+      "roe": 0.05680439914618114,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 220964000000.0,
+      "operatingIncome": null,
+      "netIncome": 62440000000.0,
+      "eps": 86.53,
+      "freeCashFlow": 777714000000.0,
+      "totalDebt": 3158999000000.0,
+      "cash": 4689382000000.0,
+      "sharesOutstanding": 815521087.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2825799677775565,
+      "roe": 0.052847940292999676,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 249746000000.0,
+      "operatingIncome": null,
+      "netIncome": 74259000000.0,
+      "eps": 104.17,
+      "freeCashFlow": 9368000000.0,
+      "totalDebt": 3114190000000.0,
+      "cash": 4245781000000.0,
+      "sharesOutstanding": 805521087.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2973380955050331,
+      "roe": 0.0648442616509051,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 306054000000.0,
+      "operatingIncome": null,
+      "netIncome": 94063000000.0,
+      "eps": null,
+      "freeCashFlow": -1342132000000.0,
+      "totalDebt": 2175632000000.0,
+      "cash": 2680390000000.0,
+      "sharesOutstanding": 775521087.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30734118815633843,
+      "roe": 0.07481348922293804,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:14.779354+00:00"
+  }
+}

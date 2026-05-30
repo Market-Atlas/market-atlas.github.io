@@ -1,0 +1,128 @@
+{
+  "ticker": "LLOY",
+  "name": "Lloyds Banking Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 59220570112.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 101.9,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 20028000000.0,
+    "operatingIncome": null,
+    "netIncome": 4659000000.0,
+    "eps": 0.069,
+    "freeCashFlow": -622000000.0,
+    "totalDebt": 95145000000.0,
+    "cash": 56661000000.0,
+    "sharesOutstanding": 58885743602.0
+  },
+  "ratios": {
+    "roe": 0.09773852479650919,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.41411,
+    "netMargin": 0.23262432594367885,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16050000000.0,
+      "operatingIncome": null,
+      "netIncome": 3827000000.0,
+      "eps": 0.072,
+      "freeCashFlow": 18156000000.0,
+      "totalDebt": 91835000000.0,
+      "cash": 92046000000.0,
+      "sharesOutstanding": 67287852204.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2384423676012461,
+      "roe": 0.08764055236219571,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19199000000.0,
+      "operatingIncome": null,
+      "netIncome": 5460000000.0,
+      "eps": 0.076,
+      "freeCashFlow": 1355000000.0,
+      "totalDebt": 93668000000.0,
+      "cash": 78110000000.0,
+      "sharesOutstanding": 63569225662.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2843898119693734,
+      "roe": 0.11576626240352811,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 18603000000.0,
+      "operatingIncome": null,
+      "netIncome": 4421000000.0,
+      "eps": 0.062,
+      "freeCashFlow": -10016000000.0,
+      "totalDebt": 88522000000.0,
+      "cash": 62705000000.0,
+      "sharesOutstanding": 60617012971.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23764984142342632,
+      "roe": 0.09670574853442995,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 20028000000.0,
+      "operatingIncome": null,
+      "netIncome": 4659000000.0,
+      "eps": 0.069,
+      "freeCashFlow": -622000000.0,
+      "totalDebt": 95145000000.0,
+      "cash": 56661000000.0,
+      "sharesOutstanding": 58885743602.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.23262432594367885,
+      "roe": 0.09773852479650919,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:44.034001+00:00"
+  }
+}

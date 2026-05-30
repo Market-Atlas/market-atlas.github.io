@@ -1,0 +1,111 @@
+{
+  "ticker": "0267",
+  "name": "CITIC Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 382827855872.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13.16,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 942638000000.0,
+    "operatingIncome": 124393000000.0,
+    "netIncome": 58202000000.0,
+    "eps": 1.97,
+    "freeCashFlow": -94366000000.0,
+    "totalDebt": 2557991000000.0,
+    "cash": 270254000000.0,
+    "sharesOutstanding": 29090262630.0
+  },
+  "ratios": {
+    "roe": 0.07683564206382419,
+    "roic": 0.037518873598316745,
+    "grossMargin": 0.3418597595259262,
+    "operatingMargin": 0.13196264101383565,
+    "netMargin": 0.0617437446824762,
+    "debtToEquity": 2.07743
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": 739743025829.5012,
+      "operatingIncome": 92766227625.8454,
+      "netIncome": 57399154430.717384,
+      "eps": 1.969923,
+      "freeCashFlow": -53284384936.76633,
+      "totalDebt": 1449629000000.0,
+      "cash": 589570000000.0,
+      "sharesOutstanding": 29090262630.0,
+      "grossMargin": 0.3441016574585636,
+      "operatingMargin": 0.12540331491712706,
+      "netMargin": 0.07759337016574586,
+      "roe": 0.09299174472372197,
+      "roic": 0.04488227304348508
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 844903000000.0,
+      "operatingIncome": 123083000000.0,
+      "netIncome": 64931000000.0,
+      "eps": 2.23,
+      "freeCashFlow": 145926000000.0,
+      "totalDebt": 1948275000000.0,
+      "cash": 203671000000.0,
+      "sharesOutstanding": 29090262630.0,
+      "grossMargin": 0.3640181180561556,
+      "operatingMargin": 0.14567707772371502,
+      "netMargin": 0.07685024198044035,
+      "roe": 0.09836405805707846,
+      "roic": 0.04718745399450388
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 882683000000.0,
+      "operatingIncome": 121380000000.0,
+      "netIncome": 57594000000.0,
+      "eps": 1.98,
+      "freeCashFlow": -47102000000.0,
+      "totalDebt": 2495022000000.0,
+      "cash": 211694000000.0,
+      "sharesOutstanding": 29090262630.0,
+      "grossMargin": 0.3538982851148147,
+      "operatingMargin": 0.13751256113463156,
+      "netMargin": 0.06524879260164748,
+      "roe": 0.08190529282770508,
+      "roic": 0.037952598336564315
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 942638000000.0,
+      "operatingIncome": 124393000000.0,
+      "netIncome": 58202000000.0,
+      "eps": 1.97,
+      "freeCashFlow": -94366000000.0,
+      "totalDebt": 2557991000000.0,
+      "cash": 270254000000.0,
+      "sharesOutstanding": 29090262630.0,
+      "grossMargin": 0.3418597595259262,
+      "operatingMargin": 0.13196264101383565,
+      "netMargin": 0.0617437446824762,
+      "roe": 0.07683564206382419,
+      "roic": 0.037518873598316745
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:28.794496+00:00"
+  }
+}

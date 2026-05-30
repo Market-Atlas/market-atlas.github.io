@@ -1,0 +1,128 @@
+{
+  "ticker": "DB1",
+  "name": "Deutsche Börse AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 45089431552.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 247.6,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7381000000.0,
+    "operatingIncome": 2978000000.0,
+    "netIncome": 1995000000.0,
+    "eps": 10.9,
+    "freeCashFlow": 2430000000.0,
+    "totalDebt": 8136000000.0,
+    "cash": 2078000000.0,
+    "sharesOutstanding": 188300000.0
+  },
+  "ratios": {
+    "roe": 0.17636138613861385,
+    "roic": 0.15312628547922666,
+    "grossMargin": 0.5695705188998781,
+    "operatingMargin": 0.4034683647202276,
+    "netMargin": 0.2702885787833627,
+    "debtToEquity": 0.6543800000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5225300000.0,
+      "operatingIncome": 2159400000.0,
+      "netIncome": 1494400000.0,
+      "eps": 8.12,
+      "freeCashFlow": 2158400000.0,
+      "totalDebt": 5357400000.0,
+      "cash": 1889000000.0,
+      "sharesOutstanding": 190000000.0,
+      "grossMargin": 0.5732302451533883,
+      "operatingMargin": 0.413258568885997,
+      "netMargin": 0.2859931487187338,
+      "roe": 0.17639698765315517,
+      "roic": 0.15614786104763834
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6096100000.0,
+      "operatingIncome": 2537600000.0,
+      "netIncome": 1724000000.0,
+      "eps": 9.34,
+      "freeCashFlow": 2281200000.0,
+      "totalDebt": 8724000000.0,
+      "cash": 2091500000.0,
+      "sharesOutstanding": 190000000.0,
+      "grossMargin": 0.5917061727990026,
+      "operatingMargin": 0.416266137366513,
+      "netMargin": 0.2828037597808435,
+      "roe": 0.1784402007969777,
+      "roic": 0.138021810666014
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7023000000.0,
+      "operatingIncome": 2852000000.0,
+      "netIncome": 1948000000.0,
+      "eps": 10.58,
+      "freeCashFlow": 2050000000.0,
+      "totalDebt": 9583000000.0,
+      "cash": 2402000000.0,
+      "sharesOutstanding": 188300000.0,
+      "grossMargin": 0.5832265413640895,
+      "operatingMargin": 0.4060942617115193,
+      "netMargin": 0.277374341449523,
+      "roe": 0.18085600222820536,
+      "roic": 0.1401198781566277
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7381000000.0,
+      "operatingIncome": 2978000000.0,
+      "netIncome": 1995000000.0,
+      "eps": 10.9,
+      "freeCashFlow": 2430000000.0,
+      "totalDebt": 8136000000.0,
+      "cash": 2078000000.0,
+      "sharesOutstanding": 188300000.0,
+      "grossMargin": 0.5695705188998781,
+      "operatingMargin": 0.4034683647202276,
+      "netMargin": 0.2702885787833627,
+      "roe": 0.17636138613861385,
+      "roic": 0.15312628547922666
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:16.422220+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "8601",
+  "name": "Daiwa Securities Group Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2079149260800.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1500.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 124.15,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 1385637648.0
+  },
+  "ratios": {
+    "roe": 0.095860004,
+    "roic": null,
+    "grossMargin": 0.80254996,
+    "operatingMargin": 0.18478,
+    "netMargin": 0.20239,
+    "debtToEquity": 12.06403
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 585966000000.0,
+      "operatingIncome": null,
+      "netIncome": 94891000000.0,
+      "eps": null,
+      "freeCashFlow": -439054000000.0,
+      "totalDebt": 5519221000000.0,
+      "cash": 5168861000000.0,
+      "sharesOutstanding": 1699378772.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.16193942993279473,
+      "roe": 0.06864271298258813,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 606477000000.0,
+      "operatingIncome": null,
+      "netIncome": 63875000000.0,
+      "eps": 43.31,
+      "freeCashFlow": -264993000000.0,
+      "totalDebt": 5050705000000.0,
+      "cash": 4424244000000.0,
+      "sharesOutstanding": 1569378772.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10532138893972896,
+      "roe": 0.04508930682823286,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 773018000000.0,
+      "operatingIncome": null,
+      "netIncome": 121557000000.0,
+      "eps": 83.86,
+      "freeCashFlow": 640629000000.0,
+      "totalDebt": 5169763000000.0,
+      "cash": 4959334000000.0,
+      "sharesOutstanding": 1569378772.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15724989586270954,
+      "roe": 0.07949365035663813,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 780058000000.0,
+      "operatingIncome": null,
+      "netIncome": 154368000000.0,
+      "eps": 107.64,
+      "freeCashFlow": -539360000000.0,
+      "totalDebt": 5392484000000.0,
+      "cash": 4347198000000.0,
+      "sharesOutstanding": 1569378772.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1978929771888757,
+      "roe": 0.09377910321545538,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 124.15,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:15.843690+00:00"
+  }
+}

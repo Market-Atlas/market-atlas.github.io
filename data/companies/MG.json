@@ -1,0 +1,128 @@
+{
+  "ticker": "MG",
+  "name": "Magna International Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24323262464.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 89.35,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42010000000.0,
+    "operatingIncome": 2110000000.0,
+    "netIncome": 829000000.0,
+    "eps": 2.93,
+    "freeCashFlow": 2285000000.0,
+    "totalDebt": 6689000000.0,
+    "cash": 1612000000.0,
+    "sharesOutstanding": 280242006.0
+  },
+  "ratios": {
+    "roe": 0.06635716000960538,
+    "roic": 0.10999895735585445,
+    "grossMargin": 0.14256129492977862,
+    "operatingMargin": 0.05022613663413473,
+    "netMargin": 0.019733396810283264,
+    "debtToEquity": 0.54596
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 37840000000.0,
+      "operatingIncome": 1573000000.0,
+      "netIncome": 592000000.0,
+      "eps": 2.03,
+      "freeCashFlow": 414000000.0,
+      "totalDebt": 5073000000.0,
+      "cash": 1234000000.0,
+      "sharesOutstanding": 285932016.0,
+      "grossMargin": 0.12293868921775898,
+      "operatingMargin": 0.041569767441860465,
+      "netMargin": 0.015644820295983086,
+      "roe": 0.05413808870598994,
+      "roic": 0.09826336831584208
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 42797000000.0,
+      "operatingIncome": 2038000000.0,
+      "netIncome": 1213000000.0,
+      "eps": 4.23,
+      "freeCashFlow": 601000000.0,
+      "totalDebt": 7223000000.0,
+      "cash": 1198000000.0,
+      "sharesOutstanding": 286554574.0,
+      "grossMargin": 0.1311306867303783,
+      "operatingMargin": 0.047620160291609225,
+      "netMargin": 0.02834310816178704,
+      "roe": 0.10207001009761023,
+      "roic": 0.10666247971947454
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 42836000000.0,
+      "operatingIncome": 2116000000.0,
+      "netIncome": 1009000000.0,
+      "eps": 3.52,
+      "freeCashFlow": 1456000000.0,
+      "totalDebt": 7068000000.0,
+      "cash": 1247000000.0,
+      "sharesOutstanding": 282875928.0,
+      "grossMargin": 0.13537678588103463,
+      "operatingMargin": 0.04939770286674759,
+      "netMargin": 0.02355495377719675,
+      "roe": 0.0875716021524041,
+      "roic": 0.11382463690155997
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 42010000000.0,
+      "operatingIncome": 2110000000.0,
+      "netIncome": 829000000.0,
+      "eps": 2.93,
+      "freeCashFlow": 2285000000.0,
+      "totalDebt": 6689000000.0,
+      "cash": 1612000000.0,
+      "sharesOutstanding": 280242006.0,
+      "grossMargin": 0.14256129492977862,
+      "operatingMargin": 0.05022613663413473,
+      "netMargin": 0.019733396810283264,
+      "roe": 0.06635716000960538,
+      "roic": 0.10999895735585445
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.493415+00:00"
+  }
+}

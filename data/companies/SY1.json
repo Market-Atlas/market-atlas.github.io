@@ -1,0 +1,128 @@
+{
+  "ticker": "SY1",
+  "name": "Symrise AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 11055969280.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 79.1,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4929283000.0,
+    "operatingIncome": 618061000.0,
+    "netIncome": 249333000.0,
+    "eps": 1.78,
+    "freeCashFlow": 560928000.0,
+    "totalDebt": 2630164000.0,
+    "cash": 1009803000.0,
+    "sharesOutstanding": 139772054.0
+  },
+  "ratios": {
+    "roe": 0.06703170317031704,
+    "roic": 0.09733562926155691,
+    "grossMargin": 0.37626628456917566,
+    "operatingMargin": 0.12538557838939254,
+    "netMargin": 0.05058200147972839,
+    "debtToEquity": 0.70286
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 4618476000.0,
+      "operatingIncome": 568745000.0,
+      "netIncome": 280007000.0,
+      "eps": 2.0,
+      "freeCashFlow": 109940000.0,
+      "totalDebt": 2547415000.0,
+      "cash": 314857000.0,
+      "sharesOutstanding": 139772054.0,
+      "grossMargin": 0.3685365042494537,
+      "operatingMargin": 0.1231456004101786,
+      "netMargin": 0.06062757498360931,
+      "roe": 0.07884473944154541,
+      "roic": 0.09325542931733802
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 4730187000.0,
+      "operatingIncome": 535831000.0,
+      "netIncome": 340473000.0,
+      "eps": 2.44,
+      "freeCashFlow": 449305000.0,
+      "totalDebt": 2558672000.0,
+      "cash": 393026000.0,
+      "sharesOutstanding": 139772054.0,
+      "grossMargin": 0.3578232742172772,
+      "operatingMargin": 0.11327903104042186,
+      "netMargin": 0.07197876109337749,
+      "roe": 0.09376135965579004,
+      "roic": 0.08656475729021135
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 4998513000.0,
+      "operatingIncome": 711961000.0,
+      "netIncome": 478224000.0,
+      "eps": 3.42,
+      "freeCashFlow": 652067000.0,
+      "totalDebt": 2545784000.0,
+      "cash": 709492000.0,
+      "sharesOutstanding": 139772054.0,
+      "grossMargin": 0.39280462009401595,
+      "operatingMargin": 0.14243456003815536,
+      "netMargin": 0.09567325322550926,
+      "roe": 0.12012117010534565,
+      "roic": 0.10907996428354745
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4929283000.0,
+      "operatingIncome": 618061000.0,
+      "netIncome": 249333000.0,
+      "eps": 1.78,
+      "freeCashFlow": 560928000.0,
+      "totalDebt": 2630164000.0,
+      "cash": 1009803000.0,
+      "sharesOutstanding": 139772054.0,
+      "grossMargin": 0.37626628456917566,
+      "operatingMargin": 0.12538557838939254,
+      "netMargin": 0.05058200147972839,
+      "roe": 0.06703170317031704,
+      "roic": 0.09733562926155691
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:27.839670+00:00"
+  }
+}

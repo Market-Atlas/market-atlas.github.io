@@ -1,0 +1,111 @@
+{
+  "ticker": "MTLN",
+  "name": "Metlen Energy & Metals PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 5935453696.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 41.5,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7106996000.0,
+    "operatingIncome": 362416000.0,
+    "netIncome": 314468000.0,
+    "eps": 2.198,
+    "freeCashFlow": -241673000.0,
+    "totalDebt": 5092244000.0,
+    "cash": 1753000000.0,
+    "sharesOutstanding": 143022980.0
+  },
+  "ratios": {
+    "roe": 0.10439035142463345,
+    "roic": 0.04471694583911395,
+    "grossMargin": 0.06532000299423273,
+    "operatingMargin": 0.05099425974068369,
+    "netMargin": 0.04424766807241766,
+    "debtToEquity": 1.63854
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6306472000.0,
+      "operatingIncome": 743884000.0,
+      "netIncome": 465898000.0,
+      "eps": 3.610934,
+      "freeCashFlow": 172947000.0,
+      "totalDebt": 1956360000.0,
+      "cash": 1051549000.0,
+      "sharesOutstanding": 129024224.0,
+      "grossMargin": 0.15273357274875715,
+      "operatingMargin": 0.11795564937099538,
+      "netMargin": 0.07387617038496326,
+      "roe": 0.21873012042649506,
+      "roic": 0.18204016128728337
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5491685000.0,
+      "operatingIncome": 905268000.0,
+      "netIncome": 623110000.0,
+      "eps": 4.829403,
+      "freeCashFlow": -898298000.0,
+      "totalDebt": 3111996000.0,
+      "cash": 912587000.0,
+      "sharesOutstanding": 129024224.0,
+      "grossMargin": 0.17845397177733247,
+      "operatingMargin": 0.16484339505998613,
+      "netMargin": 0.11346426461095274,
+      "roe": 0.23897697558416295,
+      "roic": 0.1582801838374012
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5682956000.0,
+      "operatingIncome": 884139000.0,
+      "netIncome": 614587000.0,
+      "eps": 4.763346,
+      "freeCashFlow": -392212000.0,
+      "totalDebt": 4261676000.0,
+      "cash": 1381772000.0,
+      "sharesOutstanding": 129024224.0,
+      "grossMargin": 0.17915201173473805,
+      "operatingMargin": 0.15557730871046688,
+      "netMargin": 0.10814565518367554,
+      "roe": 0.20549622067537665,
+      "roic": 0.12190948072244004
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7106996000.0,
+      "operatingIncome": 362416000.0,
+      "netIncome": 314468000.0,
+      "eps": 2.198,
+      "freeCashFlow": -241673000.0,
+      "totalDebt": 5092244000.0,
+      "cash": 1753000000.0,
+      "sharesOutstanding": 143022980.0,
+      "grossMargin": 0.06532000299423273,
+      "operatingMargin": 0.05099425974068369,
+      "netMargin": 0.04424766807241766,
+      "roe": 0.10439035142463345,
+      "roic": 0.04471694583911395
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:46.628005+00:00"
+  }
+}

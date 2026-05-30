@@ -1,0 +1,111 @@
+{
+  "ticker": "4684",
+  "name": "OBIC Co.,Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1725844029440.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3989.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 121240000000.0,
+    "operatingIncome": 78378000000.0,
+    "netIncome": 64621000000.0,
+    "eps": 146.9,
+    "freeCashFlow": 60710000000.0,
+    "totalDebt": null,
+    "cash": 200065000000.0,
+    "sharesOutstanding": 498000000.0
+  },
+  "ratios": {
+    "roe": 0.14894779301601938,
+    "roic": 0.18065690906995505,
+    "grossMargin": 0.7784971956450016,
+    "operatingMargin": 0.646469811943253,
+    "netMargin": 0.5330006598482349,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 89476000000.0,
+      "operatingIncome": 54136000000.0,
+      "netIncome": 43500000000.0,
+      "eps": 97.992,
+      "freeCashFlow": 37062000000.0,
+      "totalDebt": null,
+      "cash": 122699000000.0,
+      "sharesOutstanding": 498000000.0,
+      "grossMargin": 0.7595109303053332,
+      "operatingMargin": 0.6050337520675936,
+      "netMargin": 0.4861638875229112,
+      "roe": 0.1481779225114625,
+      "roic": 0.1844082761627709
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 100167000000.0,
+      "operatingIncome": 62490000000.0,
+      "netIncome": 50116000000.0,
+      "eps": 113.028,
+      "freeCashFlow": 51801000000.0,
+      "totalDebt": null,
+      "cash": 156321000000.0,
+      "sharesOutstanding": 498000000.0,
+      "grossMargin": 0.7709624926372958,
+      "operatingMargin": 0.6238581568780137,
+      "netMargin": 0.5003244581548814,
+      "roe": 0.15285652848903353,
+      "roic": 0.1905979021725538
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 111590000000.0,
+      "operatingIncome": 70910000000.0,
+      "netIncome": 58007000000.0,
+      "eps": 130.92,
+      "freeCashFlow": 52069000000.0,
+      "totalDebt": null,
+      "cash": 170244000000.0,
+      "sharesOutstanding": 498000000.0,
+      "grossMargin": 0.7745228067031096,
+      "operatingMargin": 0.6354512053051349,
+      "netMargin": 0.519822564745945,
+      "roe": 0.1454939928265068,
+      "roic": 0.17785748325766887
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 121240000000.0,
+      "operatingIncome": 78378000000.0,
+      "netIncome": 64621000000.0,
+      "eps": 146.9,
+      "freeCashFlow": 60710000000.0,
+      "totalDebt": null,
+      "cash": 200065000000.0,
+      "sharesOutstanding": 498000000.0,
+      "grossMargin": 0.7784971956450016,
+      "operatingMargin": 0.646469811943253,
+      "netMargin": 0.5330006598482349,
+      "roe": 0.14894779301601938,
+      "roic": 0.18065690906995505
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:20.440685+00:00"
+  }
+}

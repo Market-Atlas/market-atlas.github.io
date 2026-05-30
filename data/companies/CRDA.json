@@ -1,0 +1,128 @@
+{
+  "ticker": "CRDA",
+  "name": "Croda International Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4237759488.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3041.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1699400000.0,
+    "operatingIncome": 259600000.0,
+    "netIncome": 62000000.0,
+    "eps": 0.444,
+    "freeCashFlow": 166600000.0,
+    "totalDebt": 696600000.0,
+    "cash": 172800000.0,
+    "sharesOutstanding": 142536884.0
+  },
+  "ratios": {
+    "roe": 0.02834804078460061,
+    "roic": 0.0900232340396019,
+    "grossMargin": 0.43880193009297397,
+    "operatingMargin": 0.15275979757561492,
+    "netMargin": 0.03648346475226551,
+    "debtToEquity": 0.31633
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2089300000.0,
+      "operatingIncome": 444700000.0,
+      "netIncome": 649300000.0,
+      "eps": 4.648,
+      "freeCashFlow": 155800000.0,
+      "totalDebt": 615800000.0,
+      "cash": 320600000.0,
+      "sharesOutstanding": 142536884.0,
+      "grossMargin": 0.4717369453884076,
+      "operatingMargin": 0.2128464078878093,
+      "netMargin": 0.3107739434260279,
+      "roe": 0.2687945024010598,
+      "roic": 0.146697895361879
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1694500000.0,
+      "operatingIncome": 247500000.0,
+      "netIncome": 171000000.0,
+      "eps": 1.223,
+      "freeCashFlow": 148500000.0,
+      "totalDebt": 710100000.0,
+      "cash": 172500000.0,
+      "sharesOutstanding": 142536884.0,
+      "grossMargin": 0.430805547359103,
+      "operatingMargin": 0.14606078489229862,
+      "netMargin": 0.10091472410740632,
+      "roe": 0.07268862911795962,
+      "roic": 0.08081368771631947
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1628100000.0,
+      "operatingIncome": 242500000.0,
+      "netIncome": 158500000.0,
+      "eps": 1.135,
+      "freeCashFlow": 137600000.0,
+      "totalDebt": 699100000.0,
+      "cash": 166800000.0,
+      "sharesOutstanding": 142536884.0,
+      "grossMargin": 0.4507708371721639,
+      "operatingMargin": 0.1489466249001904,
+      "netMargin": 0.09735274246053682,
+      "roe": 0.06944140197152246,
+      "roic": 0.08133217064663269
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1699400000.0,
+      "operatingIncome": 259600000.0,
+      "netIncome": 62000000.0,
+      "eps": 0.444,
+      "freeCashFlow": 166600000.0,
+      "totalDebt": 696600000.0,
+      "cash": 172800000.0,
+      "sharesOutstanding": 142536884.0,
+      "grossMargin": 0.43880193009297397,
+      "operatingMargin": 0.15275979757561492,
+      "netMargin": 0.03648346475226551,
+      "roe": 0.02834804078460061,
+      "roic": 0.0900232340396019
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:31.782680+00:00"
+  }
+}

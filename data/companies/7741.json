@@ -1,0 +1,128 @@
+{
+  "ticker": "7741",
+  "name": "HOYA Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 9058652258304.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 27080.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 743.82,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 334514496.0
+  },
+  "ratios": {
+    "roe": 0.25062,
+    "roic": null,
+    "grossMargin": 0.54973,
+    "operatingMargin": 0.46703,
+    "netMargin": 0.26704,
+    "debtToEquity": 0.040810000000000006
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 670325000000.0,
+      "operatingIncome": 363472000000.0,
+      "netIncome": 164507000000.0,
+      "eps": 445.93,
+      "freeCashFlow": 161183000000.0,
+      "totalDebt": 21600000000.0,
+      "cash": 419404000000.0,
+      "sharesOutstanding": 369702020.0,
+      "grossMargin": 0.8462805355611084,
+      "operatingMargin": 0.5422324991608548,
+      "netMargin": 0.245413791817402,
+      "roe": 0.2046486226925139,
+      "roic": 0.44033140670978654
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 734095000000.0,
+      "operatingIncome": 400864000000.0,
+      "netIncome": 168638000000.0,
+      "eps": 469.47,
+      "freeCashFlow": 168356000000.0,
+      "totalDebt": 24582000000.0,
+      "cash": 405888000000.0,
+      "sharesOutstanding": 356960520.0,
+      "grossMargin": 0.8607264727317309,
+      "operatingMargin": 0.5460655637213168,
+      "netMargin": 0.2297223111450153,
+      "roe": 0.20607805494420894,
+      "roic": 0.4755754814017746
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 792628000000.0,
+      "operatingIncome": 433453000000.0,
+      "netIncome": 181376000000.0,
+      "eps": 515.27,
+      "freeCashFlow": 181728000000.0,
+      "totalDebt": 29239000000.0,
+      "cash": 525162000000.0,
+      "sharesOutstanding": 350958720.0,
+      "grossMargin": 0.8679859909062007,
+      "operatingMargin": 0.5468555236504388,
+      "netMargin": 0.22882865606564493,
+      "roe": 0.1874187555153251,
+      "roic": 0.43475858001578743
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 885815000000.0,
+      "operatingIncome": 480792000000.0,
+      "netIncome": 202102000000.0,
+      "eps": null,
+      "freeCashFlow": 187191000000.0,
+      "totalDebt": 37283000000.0,
+      "cash": 533967000000.0,
+      "sharesOutstanding": 345859220.0,
+      "grossMargin": 0.8650237352043034,
+      "operatingMargin": 0.5427679594497723,
+      "netMargin": 0.2281537341318447,
+      "roe": 0.20749202020896837,
+      "roic": 0.47541693612022473
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 743.82,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:04.527239+00:00"
+  }
+}

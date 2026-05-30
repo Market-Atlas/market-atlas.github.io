@@ -1,0 +1,111 @@
+{
+  "ticker": "8002",
+  "name": "Marubeni Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 8510731976704.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5196.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7790168000000.0,
+    "operatingIncome": 272310000000.0,
+    "netIncome": 502965000000.0,
+    "eps": null,
+    "freeCashFlow": 420391000000.0,
+    "totalDebt": 2535010000000.0,
+    "cash": 569144000000.0,
+    "sharesOutstanding": 1660758361.0
+  },
+  "ratios": {
+    "roe": 0.1385870194167588,
+    "roic": 0.04417571913904799,
+    "grossMargin": 0.1471836037425637,
+    "operatingMargin": 0.03495560044404691,
+    "netMargin": 0.06456407615342827,
+    "debtToEquity": 0.53391
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 8508591000000.0,
+      "operatingIncome": 284490000000.0,
+      "netIncome": 424320000000.0,
+      "eps": 242.44,
+      "freeCashFlow": 210114000000.0,
+      "totalDebt": 2438667000000.0,
+      "cash": 578636000000.0,
+      "sharesOutstanding": 1738475497.0,
+      "grossMargin": 0.10522670557322593,
+      "operatingMargin": 0.033435618188722434,
+      "netMargin": 0.04986959650546136,
+      "roe": 0.18924439607881616,
+      "roic": 0.06077746185679643
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 9190472000000.0,
+      "operatingIncome": 340814000000.0,
+      "netIncome": 543001000000.0,
+      "eps": 315.58,
+      "freeCashFlow": 502074000000.0,
+      "totalDebt": 2093396000000.0,
+      "cash": 608917000000.0,
+      "sharesOutstanding": 1698395498.0,
+      "grossMargin": 0.11438966355590877,
+      "operatingMargin": 0.03708340550953205,
+      "netMargin": 0.05908303730211027,
+      "roe": 0.18868962420949445,
+      "roic": 0.06855847840225075
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7250515000000.0,
+      "operatingIncome": 276321000000.0,
+      "netIncome": 471412000000.0,
+      "eps": 279.24,
+      "freeCashFlow": 289098000000.0,
+      "totalDebt": 2408664000000.0,
+      "cash": 506254000000.0,
+      "sharesOutstanding": 1676297507.0,
+      "grossMargin": 0.14699893731686645,
+      "operatingMargin": 0.038110534217224566,
+      "netMargin": 0.06501772632702643,
+      "roe": 0.13625876597906975,
+      "roic": 0.047086691888992234
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7790168000000.0,
+      "operatingIncome": 272310000000.0,
+      "netIncome": 502965000000.0,
+      "eps": null,
+      "freeCashFlow": 420391000000.0,
+      "totalDebt": 2535010000000.0,
+      "cash": 569144000000.0,
+      "sharesOutstanding": 1660758361.0,
+      "grossMargin": 0.1471836037425637,
+      "operatingMargin": 0.03495560044404691,
+      "netMargin": 0.06456407615342827,
+      "roe": 0.1385870194167588,
+      "roic": 0.04417571913904799
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:13.438946+00:00"
+  }
+}

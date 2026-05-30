@@ -1,0 +1,128 @@
+{
+  "ticker": "NXT",
+  "name": "NEXT plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 15085193216.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 13215.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6901300000.0,
+    "operatingIncome": 1277200000.0,
+    "netIncome": 888500000.0,
+    "eps": 7.454,
+    "freeCashFlow": 1062400000.0,
+    "totalDebt": 1808700000.0,
+    "cash": 96200000.0,
+    "sharesOutstanding": 122436612.0
+  },
+  "ratios": {
+    "roe": 0.5344360902255639,
+    "roic": 0.36794192210186677,
+    "grossMargin": 0.4414675495921058,
+    "operatingMargin": 0.1850665816585281,
+    "netMargin": 0.12874385985249157,
+    "debtToEquity": 1.01646
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 5034000000.0,
+      "operatingIncome": 927200000.0,
+      "netIncome": 711700000.0,
+      "eps": 5.705,
+      "freeCashFlow": 552700000.0,
+      "totalDebt": 1916300000.0,
+      "cash": 105000000.0,
+      "sharesOutstanding": 129263359.0,
+      "grossMargin": 0.4321215733015495,
+      "operatingMargin": 0.1841875248311482,
+      "netMargin": 0.14137862534763607,
+      "roe": 0.6132701421800948,
+      "roic": 0.3013520540821633
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 5491000000.0,
+      "operatingIncome": 968700000.0,
+      "netIncome": 802300000.0,
+      "eps": 6.559,
+      "freeCashFlow": 932100000.0,
+      "totalDebt": 1916700000.0,
+      "cash": 188300000.0,
+      "sharesOutstanding": 127424301.0,
+      "grossMargin": 0.4408122382079767,
+      "operatingMargin": 0.17641595337825533,
+      "netMargin": 0.14611181934073939,
+      "roe": 0.530656789470203,
+      "roic": 0.28253514554045384
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 6118100000.0,
+      "operatingIncome": 1092800000.0,
+      "netIncome": 736100000.0,
+      "eps": 6.055,
+      "freeCashFlow": 976400000.0,
+      "totalDebt": 1868800000.0,
+      "cash": 200400000.0,
+      "sharesOutstanding": 123609669.0,
+      "grossMargin": 0.43186610222127786,
+      "operatingMargin": 0.17861754466255864,
+      "netMargin": 0.12031513051437538,
+      "roe": 0.4498563833037951,
+      "roic": 0.31177427177541295
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 6901300000.0,
+      "operatingIncome": 1277200000.0,
+      "netIncome": 888500000.0,
+      "eps": 7.454,
+      "freeCashFlow": 1062400000.0,
+      "totalDebt": 1808700000.0,
+      "cash": 96200000.0,
+      "sharesOutstanding": 122436612.0,
+      "grossMargin": 0.4414675495921058,
+      "operatingMargin": 0.1850665816585281,
+      "netMargin": 0.12874385985249157,
+      "roe": 0.5344360902255639,
+      "roic": 0.36794192210186677
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:48.285183+00:00"
+  }
+}

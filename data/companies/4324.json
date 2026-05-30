@@ -1,0 +1,128 @@
+{
+  "ticker": "4324",
+  "name": "Dentsu Group Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 780316573696.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3006.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1435245000000.0,
+    "operatingIncome": 146398000000.0,
+    "netIncome": -327601000000.0,
+    "eps": -1262.04,
+    "freeCashFlow": null,
+    "totalDebt": 468241000000.0,
+    "cash": 295183000000.0,
+    "sharesOutstanding": 265800000.0
+  },
+  "ratios": {
+    "roe": -0.8739545790438283,
+    "roic": 0.1736445693816793,
+    "grossMargin": 0.8343732254771833,
+    "operatingMargin": 0.10200209720291657,
+    "netMargin": -0.22825440952589976,
+    "debtToEquity": 0.9457
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": 118679000000.0,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1246401000000.0,
+      "operatingIncome": 170704000000.0,
+      "netIncome": 59847000000.0,
+      "eps": 221.96,
+      "freeCashFlow": 62370000000.0,
+      "totalDebt": 532429000000.0,
+      "cash": 603740000000.0,
+      "sharesOutstanding": 270165354.0,
+      "grossMargin": 0.8982021034963868,
+      "operatingMargin": 0.13695752811494857,
+      "netMargin": 0.04801584722733695,
+      "roe": 0.06798732657250584,
+      "roic": 0.12083562210128719
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1304552000000.0,
+      "operatingIncome": 127507000000.0,
+      "netIncome": -10714000000.0,
+      "eps": -40.52,
+      "freeCashFlow": 46375000000.0,
+      "totalDebt": 494445000000.0,
+      "cash": 390678000000.0,
+      "sharesOutstanding": 270165354.0,
+      "grossMargin": 0.8775579662596815,
+      "operatingMargin": 0.09774006708816513,
+      "netMargin": -0.008212781092666295,
+      "roe": -0.01272974190014626,
+      "roic": 0.09543251383134146
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1410961000000.0,
+      "operatingIncome": 120970000000.0,
+      "netIncome": -192172000000.0,
+      "eps": -734.56,
+      "freeCashFlow": 34300000000.0,
+      "totalDebt": 547273000000.0,
+      "cash": 371989000000.0,
+      "sharesOutstanding": 265800000.0,
+      "grossMargin": 0.8516521718176477,
+      "operatingMargin": 0.08573589206221859,
+      "netMargin": -0.1361993704999642,
+      "roe": -0.27577715336993674,
+      "roic": 0.09723408924123329
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1435245000000.0,
+      "operatingIncome": 146398000000.0,
+      "netIncome": -327601000000.0,
+      "eps": -1262.04,
+      "freeCashFlow": null,
+      "totalDebt": 468241000000.0,
+      "cash": 295183000000.0,
+      "sharesOutstanding": 265800000.0,
+      "grossMargin": 0.8343732254771833,
+      "operatingMargin": 0.10200209720291657,
+      "netMargin": -0.22825440952589976,
+      "roe": -0.8739545790438283,
+      "roic": 0.1736445693816793
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:20.770487+00:00"
+  }
+}

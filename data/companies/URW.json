@@ -1,0 +1,128 @@
+{
+  "ticker": "URW",
+  "name": "Unibail-Rodamco-Westfield SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 14340497408.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 99.34,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3058400000.0,
+    "operatingIncome": 1777300000.0,
+    "netIncome": 1268200000.0,
+    "eps": 8.72,
+    "freeCashFlow": 1151600000.0,
+    "totalDebt": 22688400000.0,
+    "cash": 2680500000.0,
+    "sharesOutstanding": 143358222.0
+  },
+  "ratios": {
+    "roe": 0.07164040830852487,
+    "roic": 0.044002703592658704,
+    "grossMargin": 0.6457624901909496,
+    "operatingMargin": 0.5811208475019618,
+    "netMargin": 0.4146612607899555,
+    "debtToEquity": 1.08251
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3003800000.0,
+      "operatingIncome": 1643000000.0,
+      "netIncome": 178200000.0,
+      "eps": 1.28,
+      "freeCashFlow": 1531400000.0,
+      "totalDebt": 26402800000.0,
+      "cash": 3329100000.0,
+      "sharesOutstanding": 138767088.0,
+      "grossMargin": 0.6278047806112258,
+      "operatingMargin": 0.5469738331446834,
+      "netMargin": 0.05932485518343432,
+      "roe": 0.009292284587948188,
+      "roic": 0.03604651162790698
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3061000000.0,
+      "operatingIncome": 1651100000.0,
+      "netIncome": -1629100000.0,
+      "eps": -11.72,
+      "freeCashFlow": 875500000.0,
+      "totalDebt": 27895100000.0,
+      "cash": 5502300000.0,
+      "sharesOutstanding": 139041391.0,
+      "grossMargin": 0.6149297615158444,
+      "operatingMargin": 0.5393988892518785,
+      "netMargin": -0.5322116955243384,
+      "roe": -0.09467768556617151,
+      "roic": 0.03660821384464956
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3256100000.0,
+      "operatingIncome": 1843000000.0,
+      "netIncome": 146200000.0,
+      "eps": 1.04,
+      "freeCashFlow": 881900000.0,
+      "totalDebt": 27559900000.0,
+      "cash": 5288900000.0,
+      "sharesOutstanding": 142629547.0,
+      "grossMargin": 0.628420503055803,
+      "operatingMargin": 0.5660145572924664,
+      "netMargin": 0.04490034089862105,
+      "roe": 0.00827358282354406,
+      "roic": 0.040746751093286404
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3058400000.0,
+      "operatingIncome": 1777300000.0,
+      "netIncome": 1268200000.0,
+      "eps": 8.72,
+      "freeCashFlow": 1151600000.0,
+      "totalDebt": 22688400000.0,
+      "cash": 2680500000.0,
+      "sharesOutstanding": 143358222.0,
+      "grossMargin": 0.6457624901909496,
+      "operatingMargin": 0.5811208475019618,
+      "netMargin": 0.4146612607899555,
+      "roe": 0.07164040830852487,
+      "roic": 0.044002703592658704
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:28.551963+00:00"
+  }
+}

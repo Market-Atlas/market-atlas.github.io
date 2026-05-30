@@ -1,0 +1,111 @@
+{
+  "ticker": "8267",
+  "name": "Aeon Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3849758441472.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1391.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10715341000000.0,
+    "operatingIncome": 270465000000.0,
+    "netIncome": 72677000000.0,
+    "eps": 26.85,
+    "freeCashFlow": null,
+    "totalDebt": 4505219000000.0,
+    "cash": 1350037000000.0,
+    "sharesOutstanding": 2783529021.0
+  },
+  "ratios": {
+    "roe": 0.05956296289618422,
+    "roic": 0.04723957669259212,
+    "grossMargin": 0.36493248324994976,
+    "operatingMargin": 0.025240913938249843,
+    "netMargin": 0.006782518633798028,
+    "debtToEquity": 2.01846
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-02-28",
+      "revenue": 9116822000000.0,
+      "operatingIncome": 209789000000.0,
+      "netIncome": 21381000000.0,
+      "eps": 8.356667,
+      "freeCashFlow": null,
+      "totalDebt": 3522599000000.0,
+      "cash": 1309725000000.0,
+      "sharesOutstanding": 2615773716.0,
+      "grossMargin": 0.3661284601147198,
+      "operatingMargin": 0.023011198419800233,
+      "netMargin": 0.0023452251234037476,
+      "roe": 0.02151555830161832,
+      "roic": 0.046451057215513875
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-02-29",
+      "revenue": 9553556000000.0,
+      "operatingIncome": 250827000000.0,
+      "netIncome": 44692000000.0,
+      "eps": 17.403333,
+      "freeCashFlow": null,
+      "totalDebt": 3755982000000.0,
+      "cash": 1165536000000.0,
+      "sharesOutstanding": 2615773716.0,
+      "grossMargin": 0.37115090967174946,
+      "operatingMargin": 0.02625483118537223,
+      "netMargin": 0.004678048676325339,
+      "roe": 0.04235116633436688,
+      "roic": 0.05213339391352026
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-02-28",
+      "revenue": 10134876000000.0,
+      "operatingIncome": 237753000000.0,
+      "netIncome": 27168000000.0,
+      "eps": 10.55,
+      "freeCashFlow": null,
+      "totalDebt": 3889895000000.0,
+      "cash": 1258383000000.0,
+      "sharesOutstanding": 2615773716.0,
+      "grossMargin": 0.3704766590138843,
+      "operatingMargin": 0.023458895797047737,
+      "netMargin": 0.002680644538719566,
+      "roe": 0.025519587748944667,
+      "roic": 0.04798739082880192
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-02-28",
+      "revenue": 10715341000000.0,
+      "operatingIncome": 270465000000.0,
+      "netIncome": 72677000000.0,
+      "eps": 26.85,
+      "freeCashFlow": null,
+      "totalDebt": 4505219000000.0,
+      "cash": 1350037000000.0,
+      "sharesOutstanding": 2783529021.0,
+      "grossMargin": 0.36493248324994976,
+      "operatingMargin": 0.025240913938249843,
+      "netMargin": 0.006782518633798028,
+      "roe": 0.05956296289618422,
+      "roic": 0.04723957669259212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:08.297597+00:00"
+  }
+}

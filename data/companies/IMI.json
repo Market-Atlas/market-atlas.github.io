@@ -1,0 +1,111 @@
+{
+  "ticker": "IMI",
+  "name": "IMI plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 6634020352.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2782.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 2304000000.0,
+    "operatingIncome": 422400000.0,
+    "netIncome": 309900000.0,
+    "eps": 1.238,
+    "freeCashFlow": 316600000.0,
+    "totalDebt": 643700000.0,
+    "cash": 112400000.0,
+    "sharesOutstanding": 259654876.0
+  },
+  "ratios": {
+    "roe": 0.279415742493914,
+    "roic": 0.2409858512094934,
+    "grossMargin": 0.47456597222222224,
+    "operatingMargin": 0.18333333333333332,
+    "netMargin": 0.13450520833333332,
+    "debtToEquity": 0.58038
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2049000000.0,
+      "operatingIncome": 298200000.0,
+      "netIncome": 226300000.0,
+      "eps": 0.872,
+      "freeCashFlow": 212400000.0,
+      "totalDebt": 945000000.0,
+      "cash": 133000000.0,
+      "sharesOutstanding": 275047952.0,
+      "grossMargin": 0.45724743777452415,
+      "operatingMargin": 0.14553440702781845,
+      "netMargin": 0.11044411908247925,
+      "roe": 0.24988957597173145,
+      "roic": 0.16113692856370906
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2196000000.0,
+      "operatingIncome": 318600000.0,
+      "netIncome": 237300000.0,
+      "eps": 0.912,
+      "freeCashFlow": 283300000.0,
+      "totalDebt": 745100000.0,
+      "cash": 106500000.0,
+      "sharesOutstanding": 275114751.0,
+      "grossMargin": 0.4609744990892532,
+      "operatingMargin": 0.14508196721311475,
+      "netMargin": 0.10806010928961748,
+      "roe": 0.23034362259755387,
+      "roic": 0.17946262603503632
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2210000000.0,
+      "operatingIncome": 356200000.0,
+      "netIncome": 248500000.0,
+      "eps": 0.956,
+      "freeCashFlow": 280100000.0,
+      "totalDebt": 695500000.0,
+      "cash": 147800000.0,
+      "sharesOutstanding": 269735296.0,
+      "grossMargin": 0.4726696832579185,
+      "operatingMargin": 0.16117647058823528,
+      "netMargin": 0.11244343891402715,
+      "roe": 0.22901115104598654,
+      "roic": 0.2000449286757273
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2304000000.0,
+      "operatingIncome": 422400000.0,
+      "netIncome": 309900000.0,
+      "eps": 1.238,
+      "freeCashFlow": 316600000.0,
+      "totalDebt": 643700000.0,
+      "cash": 112400000.0,
+      "sharesOutstanding": 259654876.0,
+      "grossMargin": 0.47456597222222224,
+      "operatingMargin": 0.18333333333333332,
+      "netMargin": 0.13450520833333332,
+      "roe": 0.279415742493914,
+      "roic": 0.2409858512094934
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:42.819428+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "UU",
+  "name": "United Utilities Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 9984092160.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1344.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 0.858,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 742864028.0
+  },
+  "ratios": {
+    "roe": 0.27671,
+    "roic": null,
+    "grossMargin": 0.98544,
+    "operatingMargin": 0.41137,
+    "netMargin": 0.22429001,
+    "debtToEquity": 5.12653
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1862700000.0,
+      "operatingIncome": 617400000.0,
+      "netIncome": -56800000.0,
+      "eps": null,
+      "freeCashFlow": 305900000.0,
+      "totalDebt": 7979800000.0,
+      "cash": 240900000.0,
+      "sharesOutstanding": 681888418.0,
+      "grossMargin": 0.9512535566650561,
+      "operatingMargin": 0.3314543404735062,
+      "netMargin": -0.030493369839480325,
+      "roe": -0.01920605937647934,
+      "roic": 0.056449548330468495
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1804200000.0,
+      "operatingIncome": 446200000.0,
+      "netIncome": 204900000.0,
+      "eps": 0.3,
+      "freeCashFlow": 93500000.0,
+      "totalDebt": 8422900000.0,
+      "cash": 340400000.0,
+      "sharesOutstanding": 681888418.0,
+      "grossMargin": 0.9264493958541181,
+      "operatingMargin": 0.24731182795698925,
+      "netMargin": 0.11356834053874293,
+      "roe": 0.08167576832622474,
+      "roic": 0.04081744666837425
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1949500000.0,
+      "operatingIncome": 485900000.0,
+      "netIncome": 126900000.0,
+      "eps": 0.186,
+      "freeCashFlow": -19000000.0,
+      "totalDebt": 9981400000.0,
+      "cash": 1399300000.0,
+      "sharesOutstanding": 681888418.0,
+      "grossMargin": 0.9348037958450884,
+      "operatingMargin": 0.24924339574249807,
+      "netMargin": 0.06509361374711464,
+      "roe": 0.06171878799669277,
+      "roic": 0.04036552440290758
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2145200000.0,
+      "operatingIncome": 635700000.0,
+      "netIncome": 264700000.0,
+      "eps": 0.387,
+      "freeCashFlow": -79900000.0,
+      "totalDebt": 10785000000.0,
+      "cash": 1672600000.0,
+      "sharesOutstanding": 681888418.0,
+      "grossMargin": 0.9328267760581764,
+      "operatingMargin": 0.29633600596680965,
+      "netMargin": 0.12339175834421033,
+      "roe": 0.13235661783089153,
+      "roic": 0.04972271977097983
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.858,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:58.974471+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "OR",
+  "name": "L'Oréal S.A.",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 204199411712.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 382.55,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44052000000.0,
+    "operatingIncome": 8891900000.0,
+    "netIncome": 6127200000.0,
+    "eps": 11.44,
+    "freeCashFlow": 7161600000.0,
+    "totalDebt": 11916100000.0,
+    "cash": 9865000000.0,
+    "sharesOutstanding": 533783028.0
+  },
+  "ratios": {
+    "roe": 0.175297254614742,
+    "roic": 0.1897169362461142,
+    "grossMargin": 0.7431807863434123,
+    "operatingMargin": 0.20185008626169074,
+    "netMargin": 0.1390901661672569,
+    "debtToEquity": 0.34042
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 38260600000.0,
+      "operatingIncome": 7456800000.0,
+      "netIncome": 5706600000.0,
+      "eps": 10.61,
+      "freeCashFlow": 4935100000.0,
+      "totalDebt": 5650900000.0,
+      "cash": 2617700000.0,
+      "sharesOutstanding": 535186562.0,
+      "grossMargin": 0.7235432795094693,
+      "operatingMargin": 0.19489500948756686,
+      "netMargin": 0.14915082356262055,
+      "roe": 0.20996743749655059,
+      "roic": 0.22713787032355146
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41182500000.0,
+      "operatingIncome": 8143300000.0,
+      "netIncome": 6184000000.0,
+      "eps": 11.52,
+      "freeCashFlow": 6115900000.0,
+      "totalDebt": 8692000000.0,
+      "cash": 4288100000.0,
+      "sharesOutstanding": 534725475.0,
+      "grossMargin": 0.7385539974503733,
+      "operatingMargin": 0.19773690281065986,
+      "netMargin": 0.1501608693012809,
+      "roe": 0.21269643637164093,
+      "roic": 0.21562345265488014
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 43486800000.0,
+      "operatingIncome": 8687500000.0,
+      "netIncome": 6408700000.0,
+      "eps": 11.95,
+      "freeCashFlow": 6644300000.0,
+      "totalDebt": 8495000000.0,
+      "cash": 4052300000.0,
+      "sharesOutstanding": 534312021.0,
+      "grossMargin": 0.7418297046460075,
+      "operatingMargin": 0.19977326453084615,
+      "netMargin": 0.14737115630490172,
+      "roe": 0.19342172376430963,
+      "roic": 0.20869216374437582
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 44052000000.0,
+      "operatingIncome": 8891900000.0,
+      "netIncome": 6127200000.0,
+      "eps": 11.44,
+      "freeCashFlow": 7161600000.0,
+      "totalDebt": 11916100000.0,
+      "cash": 9865000000.0,
+      "sharesOutstanding": 533783028.0,
+      "grossMargin": 0.7431807863434123,
+      "operatingMargin": 0.20185008626169074,
+      "netMargin": 0.1390901661672569,
+      "roe": 0.175297254614742,
+      "roic": 0.1897169362461142
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:23.219569+00:00"
+  }
+}

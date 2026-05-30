@@ -1,0 +1,128 @@
+{
+  "ticker": "GSK",
+  "name": "GSK plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 75480154112.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1881.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 32667000000.0,
+    "operatingIncome": 8338000000.0,
+    "netIncome": 5716000000.0,
+    "eps": 1.388,
+    "freeCashFlow": 4756000000.0,
+    "totalDebt": 17720000000.0,
+    "cash": 3150000000.0,
+    "sharesOutstanding": 4315445026.0
+  },
+  "ratios": {
+    "roe": 0.34902607315137085,
+    "roic": 0.24453764260785407,
+    "grossMargin": 0.7239722043652616,
+    "operatingMargin": 0.25524229344598526,
+    "netMargin": 0.1749778063489148,
+    "debtToEquity": 1.097
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29324000000.0,
+      "operatingIncome": 6729000000.0,
+      "netIncome": 14956000000.0,
+      "eps": 3.662,
+      "freeCashFlow": 5145000000.0,
+      "totalDebt": 20987000000.0,
+      "cash": 3523000000.0,
+      "sharesOutstanding": 4311343341.0,
+      "grossMargin": 0.6741917882962761,
+      "operatingMargin": 0.2294707406902196,
+      "netMargin": 0.5100259173373346,
+      "roe": 1.411209662200415,
+      "roic": 0.2130441665347475
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 30328000000.0,
+      "operatingIncome": 7345000000.0,
+      "netIncome": 4928000000.0,
+      "eps": 1.199,
+      "freeCashFlow": 4424000000.0,
+      "totalDebt": 18018000000.0,
+      "cash": 2746000000.0,
+      "sharesOutstanding": 4312145983.0,
+      "grossMargin": 0.7175877077288314,
+      "operatingMargin": 0.24218543919810076,
+      "netMargin": 0.16249010815088366,
+      "roe": 0.3692215479133888,
+      "roic": 0.23417822413518252
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 31376000000.0,
+      "operatingIncome": 5542000000.0,
+      "netIncome": 2575000000.0,
+      "eps": 0.622,
+      "freeCashFlow": 3572000000.0,
+      "totalDebt": 16986000000.0,
+      "cash": 3693000000.0,
+      "sharesOutstanding": 4314303734.0,
+      "grossMargin": 0.7116267210606834,
+      "operatingMargin": 0.17663182049974502,
+      "netMargin": 0.08206909739928608,
+      "roe": 0.188354911857216,
+      "roic": 0.1807743745311022
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32667000000.0,
+      "operatingIncome": 8338000000.0,
+      "netIncome": 5716000000.0,
+      "eps": 1.388,
+      "freeCashFlow": 4756000000.0,
+      "totalDebt": 17720000000.0,
+      "cash": 3150000000.0,
+      "sharesOutstanding": 4315445026.0,
+      "grossMargin": 0.7239722043652616,
+      "operatingMargin": 0.25524229344598526,
+      "netMargin": 0.1749778063489148,
+      "roe": 0.34902607315137085,
+      "roic": 0.24453764260785407
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:39.406751+00:00"
+  }
+}

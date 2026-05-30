@@ -1,0 +1,111 @@
+{
+  "ticker": "8750",
+  "name": "Daiichi Life Group, Inc.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 5891155820544.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1636.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9128610000000.0,
+    "operatingIncome": null,
+    "netIncome": 429613000000.0,
+    "eps": 116.709791,
+    "freeCashFlow": 488116000000.0,
+    "totalDebt": 1194998000000.0,
+    "cash": 1889228000000.0,
+    "sharesOutstanding": 3700398400.0
+  },
+  "ratios": {
+    "roe": 0.12381834300562815,
+    "roic": null,
+    "grossMargin": 0.18341999,
+    "operatingMargin": 0.01031,
+    "netMargin": 0.04706225810939453,
+    "debtToEquity": 0.7467400000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 7858100000000.0,
+      "operatingIncome": null,
+      "netIncome": 409353000000.0,
+      "eps": 95.74,
+      "freeCashFlow": -611088000000.0,
+      "totalDebt": 870383000000.0,
+      "cash": 2183874000000.0,
+      "sharesOutstanding": 4125394800.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05209312683727619,
+      "roe": 0.09285530873965409,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 8411439000000.0,
+      "operatingIncome": null,
+      "netIncome": 173735000000.0,
+      "eps": 42.735,
+      "freeCashFlow": -294173000000.0,
+      "totalDebt": 949674000000.0,
+      "cash": 1619087000000.0,
+      "sharesOutstanding": 3959555600.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.020654610941124342,
+      "roe": 0.06527074765221044,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 10487502000000.0,
+      "operatingIncome": null,
+      "netIncome": 320765000000.0,
+      "eps": 82.4,
+      "freeCashFlow": 904226000000.0,
+      "totalDebt": 975286000000.0,
+      "cash": 2064416000000.0,
+      "sharesOutstanding": 3810689200.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.03058545304687427,
+      "roe": 0.08262550052741326,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 9128610000000.0,
+      "operatingIncome": null,
+      "netIncome": 429613000000.0,
+      "eps": 116.709791,
+      "freeCashFlow": 488116000000.0,
+      "totalDebt": 1194998000000.0,
+      "cash": 1889228000000.0,
+      "sharesOutstanding": 3700398400.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04706225810939453,
+      "roe": 0.12381834300562815,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:16.173636+00:00"
+  }
+}

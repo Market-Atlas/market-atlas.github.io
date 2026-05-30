@@ -1,0 +1,128 @@
+{
+  "ticker": "7012",
+  "name": "Kawasaki Heavy Industries, Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2622055251968.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3137.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 129.41,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 835848060.0
+  },
+  "ratios": {
+    "roe": null,
+    "roic": null,
+    "grossMargin": 0.19683,
+    "operatingMargin": 0.07436,
+    "netMargin": 0.0468,
+    "debtToEquity": 0.9079600000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1500879000000.0,
+      "operatingIncome": 44777000000.0,
+      "netIncome": 12638000000.0,
+      "eps": null,
+      "freeCashFlow": 89247000000.0,
+      "totalDebt": 501479000000.0,
+      "cash": 108511000000.0,
+      "sharesOutstanding": 839609000.0,
+      "grossMargin": 0.16874378280994004,
+      "operatingMargin": 0.029833850696824996,
+      "netMargin": 0.008420398979531328,
+      "roe": 0.025001780471785456,
+      "roic": 0.04446737367708645
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1725609000000.0,
+      "operatingIncome": 79041000000.0,
+      "netIncome": 53029000000.0,
+      "eps": 63.326,
+      "freeCashFlow": -46327000000.0,
+      "totalDebt": null,
+      "cash": 138420000000.0,
+      "sharesOutstanding": 839609000.0,
+      "grossMargin": 0.19345170313784874,
+      "operatingMargin": 0.04580469851513292,
+      "netMargin": 0.030730600037436058,
+      "roe": 0.09203212073564607,
+      "roic": 0.1371760895937355
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1849287000000.0,
+      "operatingIncome": 34844000000.0,
+      "netIncome": 25377000000.0,
+      "eps": 30.302,
+      "freeCashFlow": -64881000000.0,
+      "totalDebt": null,
+      "cash": 84153000000.0,
+      "sharesOutstanding": 839609000.0,
+      "grossMargin": 0.16884182931043154,
+      "operatingMargin": 0.018841856347878938,
+      "netMargin": 0.013722586056139473,
+      "roe": 0.040021132646785154,
+      "roic": 0.05495118989417906
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2129321000000.0,
+      "operatingIncome": 119950000000.0,
+      "netIncome": 88001000000.0,
+      "eps": 105.088,
+      "freeCashFlow": 35299000000.0,
+      "totalDebt": null,
+      "cash": 132776000000.0,
+      "sharesOutstanding": 839609000.0,
+      "grossMargin": 0.20266413565639,
+      "operatingMargin": 0.0563325116316422,
+      "netMargin": 0.041328198049988704,
+      "roe": 0.12519436916270105,
+      "roic": 0.17064652198345462
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 129.41,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:12.008728+00:00"
+  }
+}

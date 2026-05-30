@@ -1,0 +1,128 @@
+{
+  "ticker": "0941",
+  "name": "China Mobile Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 1843038388224.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 85.15,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1050187000000.0,
+    "operatingIncome": 157783000000.0,
+    "netIncome": 137095000000.0,
+    "eps": null,
+    "freeCashFlow": 75968000000.0,
+    "totalDebt": 101197000000.0,
+    "cash": 97267000000.0,
+    "sharesOutstanding": 21644606612.0
+  },
+  "ratios": {
+    "roe": 0.09597297817602689,
+    "roic": 0.10314825661971978,
+    "grossMargin": 0.5822743949410915,
+    "operatingMargin": 0.15024276628828961,
+    "netMargin": 0.13054341750564424,
+    "debtToEquity": 0.0717
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.67,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 937259000000.0,
+      "operatingIncome": 134962000000.0,
+      "netIncome": 125459000000.0,
+      "eps": 5.88,
+      "freeCashFlow": 91162000000.0,
+      "totalDebt": 112660000000.0,
+      "cash": 167106000000.0,
+      "sharesOutstanding": 21362826764.0,
+      "grossMargin": 0.5978432855806133,
+      "operatingMargin": 0.1439964833626564,
+      "netMargin": 0.13385734359446003,
+      "roe": 0.09670419964419724,
+      "roic": 0.09571718742021322
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1009309000000.0,
+      "operatingIncome": 144425000000.0,
+      "netIncome": 131766000000.0,
+      "eps": 6.15,
+      "freeCashFlow": 122517000000.0,
+      "totalDebt": 102934000000.0,
+      "cash": 141559000000.0,
+      "sharesOutstanding": 21390880312.0,
+      "grossMargin": 0.5920951859143235,
+      "operatingMargin": 0.14309294774940082,
+      "netMargin": 0.13055070350110817,
+      "roe": 0.0982059010294157,
+      "roic": 0.09997120441679945
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1040759000000.0,
+      "operatingIncome": 158037000000.0,
+      "netIncome": 138373000000.0,
+      "eps": 6.42,
+      "freeCashFlow": 159762000000.0,
+      "totalDebt": 88442000000.0,
+      "cash": 167309000000.0,
+      "sharesOutstanding": 21517317437.0,
+      "grossMargin": 0.5843600679888428,
+      "operatingMargin": 0.15184783412874642,
+      "netMargin": 0.13295393073708706,
+      "roe": 0.0994036056642376,
+      "roic": 0.10674756868408361
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1050187000000.0,
+      "operatingIncome": 157783000000.0,
+      "netIncome": 137095000000.0,
+      "eps": null,
+      "freeCashFlow": 75968000000.0,
+      "totalDebt": 101197000000.0,
+      "cash": 97267000000.0,
+      "sharesOutstanding": 21644606612.0,
+      "grossMargin": 0.5822743949410915,
+      "operatingMargin": 0.15024276628828961,
+      "netMargin": 0.13054341750564424,
+      "roe": 0.09597297817602689,
+      "roic": 0.10314825661971978
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:31.668574+00:00"
+  }
+}

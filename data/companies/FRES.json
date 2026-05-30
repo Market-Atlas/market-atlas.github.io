@@ -1,0 +1,128 @@
+{
+  "ticker": "FRES",
+  "name": "Fresnillo plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "currency": "USD",
+  "marketCap": {
+    "value": 24214323200.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3286.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4561231000.0,
+    "operatingIncome": 2291228000.0,
+    "netIncome": 1383988000.0,
+    "eps": 1.878,
+    "freeCashFlow": 1889566000.0,
+    "totalDebt": 850973000.0,
+    "cash": 2663743000.0,
+    "sharesOutstanding": 736893589.0
+  },
+  "ratios": {
+    "roe": 0.2987307717379245,
+    "roic": 0.41781246700549085,
+    "grossMargin": 0.5840771931963104,
+    "operatingMargin": 0.5023266745315026,
+    "netMargin": 0.3034242291170958,
+    "debtToEquity": 0.16768999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2432990000.0,
+      "operatingIncome": 294141000.0,
+      "netIncome": 271897000.0,
+      "eps": 0.369,
+      "freeCashFlow": -89944000.0,
+      "totalDebt": 1278648000.0,
+      "cash": 969060000.0,
+      "sharesOutstanding": 736893589.0,
+      "grossMargin": 0.2203132770788207,
+      "operatingMargin": 0.12089692107242529,
+      "netMargin": 0.11175426121767866,
+      "roe": 0.07377016933682898,
+      "roic": 0.059250311066097086
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2705086000.0,
+      "operatingIncome": 165359000.0,
+      "netIncome": 233909000.0,
+      "eps": 0.317,
+      "freeCashFlow": -57487000.0,
+      "totalDebt": 948952000.0,
+      "cash": 534580000.0,
+      "sharesOutstanding": 736893589.0,
+      "grossMargin": 0.18603401148798965,
+      "operatingMargin": 0.061128925291099805,
+      "netMargin": 0.08647007895497592,
+      "roe": 0.06201436323588518,
+      "roic": 0.03502771985449936
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3496385000.0,
+      "operatingIncome": 915526000.0,
+      "netIncome": 140920000.0,
+      "eps": 0.191,
+      "freeCashFlow": 929260000.0,
+      "totalDebt": 853455000.0,
+      "cash": 1110413000.0,
+      "sharesOutstanding": 736893589.0,
+      "grossMargin": 0.3564461579602933,
+      "operatingMargin": 0.2618493100731184,
+      "netMargin": 0.0403044859190278,
+      "roe": 0.03655188996252212,
+      "roic": 0.19442889435006316
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4561231000.0,
+      "operatingIncome": 2291228000.0,
+      "netIncome": 1383988000.0,
+      "eps": 1.878,
+      "freeCashFlow": 1889566000.0,
+      "totalDebt": 850973000.0,
+      "cash": 2663743000.0,
+      "sharesOutstanding": 736893589.0,
+      "grossMargin": 0.5840771931963104,
+      "operatingMargin": 0.5023266745315026,
+      "netMargin": 0.3034242291170958,
+      "roe": 0.2987307717379245,
+      "roic": 0.41781246700549085
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:38.076466+00:00"
+  }
+}

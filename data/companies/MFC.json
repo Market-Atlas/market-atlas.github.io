@@ -1,0 +1,128 @@
+{
+  "ticker": "MFC",
+  "name": "Manulife Financial Corporation",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 88000593920.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 52.73,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 53014000000.0,
+    "operatingIncome": null,
+    "netIncome": 5782000000.0,
+    "eps": 3.07,
+    "freeCashFlow": null,
+    "totalDebt": 14675000000.0,
+    "cash": 26703000000.0,
+    "sharesOutstanding": 1677180680.0
+  },
+  "ratios": {
+    "roe": 0.11346821830170536,
+    "roic": null,
+    "grossMargin": 0.50317,
+    "operatingMargin": 0.19048999,
+    "netMargin": 0.10906552986003697,
+    "debtToEquity": 0.44278
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24159000000.0,
+      "operatingIncome": null,
+      "netIncome": -2100000000.0,
+      "eps": 3.68,
+      "freeCashFlow": null,
+      "totalDebt": 12356000000.0,
+      "cash": 19153000000.0,
+      "sharesOutstanding": 1864897726.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.08692412765429032,
+      "roe": -0.04487275369131819,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": -7037000000.0,
+      "operatingIncome": null,
+      "netIncome": 5463000000.0,
+      "eps": 2.61,
+      "freeCashFlow": null,
+      "totalDebt": 12738000000.0,
+      "cash": 20338000000.0,
+      "sharesOutstanding": 1806039020.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.7763251385533608,
+      "roe": 0.11550659675236806,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": -7288000000.0,
+      "operatingIncome": null,
+      "netIncome": 5631000000.0,
+      "eps": 2.84,
+      "freeCashFlow": null,
+      "totalDebt": 14161000000.0,
+      "cash": 25789000000.0,
+      "sharesOutstanding": 1728734607.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.7726399560922064,
+      "roe": 0.10925706746347426,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 53014000000.0,
+      "operatingIncome": null,
+      "netIncome": 5782000000.0,
+      "eps": 3.07,
+      "freeCashFlow": null,
+      "totalDebt": 14675000000.0,
+      "cash": 26703000000.0,
+      "sharesOutstanding": 1677180680.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10906552986003697,
+      "roe": 0.11346821830170536,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.255166+00:00"
+  }
+}

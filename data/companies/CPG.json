@@ -1,0 +1,128 @@
+{
+  "ticker": "CPG",
+  "name": "Compass Group PLC",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "currency": "USD",
+  "marketCap": {
+    "value": 54699065344.0,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 32.17,
+    "currency": "USD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 46070000000.0,
+    "operatingIncome": 3295000000.0,
+    "netIncome": 1868000000.0,
+    "eps": 1.099,
+    "freeCashFlow": 2474000000.0,
+    "totalDebt": 6992000000.0,
+    "cash": 575000000.0,
+    "sharesOutstanding": 1785403977.0
+  },
+  "ratios": {
+    "roe": 0.24408728603162158,
+    "roic": 0.22499146466370776,
+    "grossMargin": 0.3341219882787063,
+    "operatingMargin": 0.07152159756891686,
+    "netMargin": 0.04054699370523117,
+    "debtToEquity": 1.13105
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 28489112227.805695,
+      "operatingIncome": 1767727526.521496,
+      "netIncome": 1242881072.026801,
+      "eps": 0.699051,
+      "freeCashFlow": 1269681742.043551,
+      "totalDebt": 5444000000.0,
+      "cash": 2214000000.0,
+      "sharesOutstanding": 1785403977.0,
+      "grossMargin": 0.3251803073063656,
+      "operatingMargin": 0.06204923173408591,
+      "netMargin": 0.043626528692380075,
+      "roe": 0.18983978494376066,
+      "roic": 0.14742119310495339
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 37907000000.0,
+      "operatingIncome": 2568000000.0,
+      "netIncome": 1607000000.0,
+      "eps": 0.921,
+      "freeCashFlow": 1828000000.0,
+      "totalDebt": 5267000000.0,
+      "cash": 1029000000.0,
+      "sharesOutstanding": 1785403977.0,
+      "grossMargin": 0.32553354261745854,
+      "operatingMargin": 0.06774474371488115,
+      "netMargin": 0.04239322552562851,
+      "roe": 0.25658630049497044,
+      "roic": 0.22272333044232437
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 42002000000.0,
+      "operatingIncome": 2948000000.0,
+      "netIncome": 1404000000.0,
+      "eps": 0.822,
+      "freeCashFlow": 2234000000.0,
+      "totalDebt": 5911000000.0,
+      "cash": 623000000.0,
+      "sharesOutstanding": 1785403977.0,
+      "grossMargin": 0.33155564020760914,
+      "operatingMargin": 0.07018713394600257,
+      "netMargin": 0.033426979667634873,
+      "roe": 0.20559379118465368,
+      "roic": 0.2313971742543171
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 46070000000.0,
+      "operatingIncome": 3295000000.0,
+      "netIncome": 1868000000.0,
+      "eps": 1.099,
+      "freeCashFlow": 2474000000.0,
+      "totalDebt": 6992000000.0,
+      "cash": 575000000.0,
+      "sharesOutstanding": 1785403977.0,
+      "grossMargin": 0.3341219882787063,
+      "operatingMargin": 0.07152159756891686,
+      "netMargin": 0.04054699370523117,
+      "roe": 0.24408728603162158,
+      "roic": 0.22499146466370776
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:31.588769+00:00"
+  }
+}

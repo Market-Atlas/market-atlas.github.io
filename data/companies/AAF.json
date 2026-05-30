@@ -1,0 +1,111 @@
+{
+  "ticker": "AAF",
+  "name": "Airtel Africa Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 12865473536.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 352.6,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 4955000000.0,
+    "operatingIncome": 1464000000.0,
+    "netIncome": 220000000.0,
+    "eps": 0.06,
+    "freeCashFlow": 1407000000.0,
+    "totalDebt": 5982000000.0,
+    "cash": 552000000.0,
+    "sharesOutstanding": 3670529876.0
+  },
+  "ratios": {
+    "roe": 0.08849557522123894,
+    "roic": 0.17288615965989607,
+    "grossMargin": 0.7027245206861756,
+    "operatingMargin": 0.2954591321897074,
+    "netMargin": 0.044399596367305755,
+    "debtToEquity": 1.8383
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 4714000000.0,
+      "operatingIncome": 1540000000.0,
+      "netIncome": 631000000.0,
+      "eps": 0.168,
+      "freeCashFlow": 1272000000.0,
+      "totalDebt": 3932000000.0,
+      "cash": 638000000.0,
+      "sharesOutstanding": 3758151504.0,
+      "grossMargin": 0.6370386084005091,
+      "operatingMargin": 0.3266864658464149,
+      "netMargin": 0.13385659736953756,
+      "roe": 0.18018275271273557,
+      "roic": 0.2071563088512241
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 5255000000.0,
+      "operatingIncome": 1771000000.0,
+      "netIncome": 663000000.0,
+      "eps": 0.177,
+      "freeCashFlow": 948000000.0,
+      "totalDebt": 4225000000.0,
+      "cash": 586000000.0,
+      "sharesOutstanding": 3758151504.0,
+      "grossMargin": 0.6806850618458611,
+      "operatingMargin": 0.33701236917221694,
+      "netMargin": 0.12616555661274975,
+      "roe": 0.18239339752407152,
+      "roic": 0.22531806615776082
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 4979000000.0,
+      "operatingIncome": 1645000000.0,
+      "netIncome": -165000000.0,
+      "eps": -0.044,
+      "freeCashFlow": 1230000000.0,
+      "totalDebt": 4462000000.0,
+      "cash": 620000000.0,
+      "sharesOutstanding": 3750761649.0,
+      "grossMargin": 0.7019481823659369,
+      "operatingMargin": 0.33038762803775856,
+      "netMargin": -0.033139184575215905,
+      "roe": -0.0763888888888889,
+      "roic": 0.24841437632135308
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 4955000000.0,
+      "operatingIncome": 1464000000.0,
+      "netIncome": 220000000.0,
+      "eps": 0.06,
+      "freeCashFlow": 1407000000.0,
+      "totalDebt": 5982000000.0,
+      "cash": 552000000.0,
+      "sharesOutstanding": 3670529876.0,
+      "grossMargin": 0.7027245206861756,
+      "operatingMargin": 0.2954591321897074,
+      "netMargin": 0.044399596367305755,
+      "roe": 0.08849557522123894,
+      "roic": 0.17288615965989607
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:21.722913+00:00"
+  }
+}

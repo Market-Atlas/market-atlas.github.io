@@ -1,0 +1,128 @@
+{
+  "ticker": "0101",
+  "name": "Hang Lung Properties Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 40655437824.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 8.04,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 9950000000.0,
+    "operatingIncome": 5890000000.0,
+    "netIncome": 1806000000.0,
+    "eps": 0.37,
+    "freeCashFlow": 5616000000.0,
+    "totalDebt": 53869000000.0,
+    "cash": 6335000000.0,
+    "sharesOutstanding": 5056646442.0
+  },
+  "ratios": {
+    "roe": 0.013404686444640723,
+    "roic": 0.031230447830835957,
+    "grossMargin": 0.6559798994974875,
+    "operatingMargin": 0.5919597989949749,
+    "netMargin": 0.18150753768844222,
+    "debtToEquity": 0.37704
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10347000000.0,
+      "operatingIncome": 6614000000.0,
+      "netIncome": 3836000000.0,
+      "eps": 0.85,
+      "freeCashFlow": 1440000000.0,
+      "totalDebt": 45817000000.0,
+      "cash": 5229000000.0,
+      "sharesOutstanding": 4499260670.0,
+      "grossMargin": 0.7009761283463806,
+      "operatingMargin": 0.6392190973228955,
+      "netMargin": 0.370735478882768,
+      "roe": 0.02875971840067176,
+      "roic": 0.036908894072478486
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10316000000.0,
+      "operatingIncome": 6743000000.0,
+      "netIncome": 3970000000.0,
+      "eps": 0.88,
+      "freeCashFlow": 3597000000.0,
+      "totalDebt": 50982000000.0,
+      "cash": 5352000000.0,
+      "sharesOutstanding": 4499260670.0,
+      "grossMargin": 0.7162659945715394,
+      "operatingMargin": 0.6536448235750291,
+      "netMargin": 0.3848390849166344,
+      "roe": 0.029983082593196785,
+      "roic": 0.03676863514913572
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11242000000.0,
+      "operatingIncome": 5812000000.0,
+      "netIncome": 2153000000.0,
+      "eps": 0.46,
+      "freeCashFlow": 4786000000.0,
+      "totalDebt": 57639000000.0,
+      "cash": 10303000000.0,
+      "sharesOutstanding": 4783681530.0,
+      "grossMargin": 0.574186087884718,
+      "operatingMargin": 0.5169898594556129,
+      "netMargin": 0.19151396548656824,
+      "roe": 0.016361798657922134,
+      "roic": 0.030714595245896443
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 9950000000.0,
+      "operatingIncome": 5890000000.0,
+      "netIncome": 1806000000.0,
+      "eps": 0.37,
+      "freeCashFlow": 5616000000.0,
+      "totalDebt": 53869000000.0,
+      "cash": 6335000000.0,
+      "sharesOutstanding": 5056646442.0,
+      "grossMargin": 0.6559798994974875,
+      "operatingMargin": 0.5919597989949749,
+      "netMargin": 0.18150753768844222,
+      "roe": 0.013404686444640723,
+      "roic": 0.031230447830835957
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:28.081555+00:00"
+  }
+}

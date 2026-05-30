@@ -1,0 +1,128 @@
+{
+  "ticker": "9531",
+  "name": "Tokyo Gas Co.,Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 2127213625344.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 6380.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 654.76,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 333419056.0
+  },
+  "ratios": {
+    "roe": 0.12762,
+    "roic": null,
+    "grossMargin": 0.17894,
+    "operatingMargin": 0.0696,
+    "netMargin": 0.08003,
+    "debtToEquity": 0.6733199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2154860000000.0,
+      "operatingIncome": 127526000000.0,
+      "netIncome": 95702000000.0,
+      "eps": null,
+      "freeCashFlow": -51747000000.0,
+      "totalDebt": 1172701000000.0,
+      "cash": 179769000000.0,
+      "sharesOutstanding": 440996559.0,
+      "grossMargin": 0.18027528470527088,
+      "operatingMargin": 0.05918064282598406,
+      "netMargin": 0.04441216598758156,
+      "roe": 0.07645273131061368,
+      "roic": 0.052599298571529327
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 3289634000000.0,
+      "operatingIncome": 421477000000.0,
+      "netIncome": 280916000000.0,
+      "eps": 646.99,
+      "freeCashFlow": 302089000000.0,
+      "totalDebt": 1242885000000.0,
+      "cash": 453502000000.0,
+      "sharesOutstanding": 434875059.0,
+      "grossMargin": 0.21071401864158748,
+      "operatingMargin": 0.128122763808983,
+      "netMargin": 0.08539430222328685,
+      "roe": 0.18025889323878355,
+      "roic": 0.150458289186974
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2662420000000.0,
+      "operatingIncome": 217144000000.0,
+      "netIncome": 165481000000.0,
+      "eps": 411.88,
+      "freeCashFlow": 102179000000.0,
+      "totalDebt": 1343123000000.0,
+      "cash": 363938000000.0,
+      "sharesOutstanding": 400452159.0,
+      "grossMargin": 0.17714109719728668,
+      "operatingMargin": 0.08155888252041375,
+      "netMargin": 0.06215435581163002,
+      "roe": 0.09771670946815339,
+      "roic": 0.07150892445498255
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2636809000000.0,
+      "operatingIncome": 133091000000.0,
+      "netIncome": 74194000000.0,
+      "eps": 192.22,
+      "freeCashFlow": 57051000000.0,
+      "totalDebt": 1308007000000.0,
+      "cash": 244388000000.0,
+      "sharesOutstanding": 388893859.0,
+      "grossMargin": 0.1540634911364456,
+      "operatingMargin": 0.05047426643340492,
+      "netMargin": 0.028137798376750078,
+      "roe": 0.04299994668039067,
+      "roic": 0.04387445190312947
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 654.76,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:18.960436+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "ATD",
+  "name": "Alimentation Couche-Tard Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "currency": "USD",
+  "marketCap": {
+    "value": 71520944128.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 77.89,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 72856800000.0,
+    "operatingIncome": 3736400000.0,
+    "netIncome": 2580400000.0,
+    "eps": 2.71,
+    "freeCashFlow": 2710500000.0,
+    "totalDebt": 13956300000.0,
+    "cash": 2263000000.0,
+    "sharesOutstanding": 948064405.0
+  },
+  "ratios": {
+    "roe": 0.17263895950972782,
+    "roic": 0.12927333054239856,
+    "grossMargin": 0.17872456654697982,
+    "operatingMargin": 0.051284162905864655,
+    "netMargin": 0.03541742157217995,
+    "debtToEquity": 0.7586799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-04-30",
+      "revenue": 62809900000.0,
+      "operatingIncome": 3560400000.0,
+      "netIncome": 2683300000.0,
+      "eps": 2.52,
+      "freeCashFlow": 2280400000.0,
+      "totalDebt": 9439900000.0,
+      "cash": 2143900000.0,
+      "sharesOutstanding": 1033210943.0,
+      "grossMargin": 0.17520804841275023,
+      "operatingMargin": 0.05668533145252579,
+      "netMargin": 0.042720972330794985,
+      "roe": 0.21574097896700328,
+      "roic": 0.16274254370929037
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-04-30",
+      "revenue": 71856700000.0,
+      "operatingIncome": 4145500000.0,
+      "netIncome": 3090900000.0,
+      "eps": 3.06,
+      "freeCashFlow": 2540800000.0,
+      "totalDebt": 9473600000.0,
+      "cash": 834200000.0,
+      "sharesOutstanding": 981300000.0,
+      "grossMargin": 0.16772409531748605,
+      "operatingMargin": 0.05769121042296682,
+      "netMargin": 0.04301477802348285,
+      "roe": 0.24600262644753074,
+      "roic": 0.1881060526996429
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-04-30",
+      "revenue": 69263500000.0,
+      "operatingIncome": 3780900000.0,
+      "netIncome": 2729700000.0,
+      "eps": 2.82,
+      "freeCashFlow": 2874100000.0,
+      "totalDebt": 14690900000.0,
+      "cash": 1309000000.0,
+      "sharesOutstanding": 957100000.0,
+      "grossMargin": 0.17466486677687382,
+      "operatingMargin": 0.05458719238848744,
+      "netMargin": 0.03941036765395916,
+      "roe": 0.20696478937312346,
+      "roic": 0.13561285648186341
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-04-30",
+      "revenue": 72856800000.0,
+      "operatingIncome": 3736400000.0,
+      "netIncome": 2580400000.0,
+      "eps": 2.71,
+      "freeCashFlow": 2710500000.0,
+      "totalDebt": 13956300000.0,
+      "cash": 2263000000.0,
+      "sharesOutstanding": 948064405.0,
+      "grossMargin": 0.17872456654697982,
+      "operatingMargin": 0.051284162905864655,
+      "netMargin": 0.03541742157217995,
+      "roe": 0.17263895950972782,
+      "roic": 0.12927333054239856
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:01.598164+00:00"
+  }
+}

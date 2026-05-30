@@ -1,0 +1,128 @@
+{
+  "ticker": "SLF",
+  "name": "Sun Life Financial Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 54915616768.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 99.08,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 38447000000.0,
+    "operatingIncome": null,
+    "netIncome": 3745000000.0,
+    "eps": 6.15,
+    "freeCashFlow": 2654000000.0,
+    "totalDebt": 18792000000.0,
+    "cash": 9685000000.0,
+    "sharesOutstanding": 553799595.0
+  },
+  "ratios": {
+    "roe": 0.14844617092119866,
+    "roic": null,
+    "grossMargin": 0.40144002,
+    "operatingMargin": 0.08493,
+    "netMargin": 0.09740681977787603,
+    "debtToEquity": 0.54114
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3429000000.0,
+      "operatingIncome": null,
+      "netIncome": 3024000000.0,
+      "eps": 5.21,
+      "freeCashFlow": null,
+      "totalDebt": 15550000000.0,
+      "cash": 9378000000.0,
+      "sharesOutstanding": 586396908.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8818897637795275,
+      "roe": 0.1326490327674694,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 36354000000.0,
+      "operatingIncome": null,
+      "netIncome": 3343000000.0,
+      "eps": 5.26,
+      "freeCashFlow": 5440000000.0,
+      "totalDebt": 15396000000.0,
+      "cash": 11170000000.0,
+      "sharesOutstanding": 584617001.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0919568685701711,
+      "roe": 0.1390656849286576,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 34483000000.0,
+      "operatingIncome": null,
+      "netIncome": 3171000000.0,
+      "eps": 5.26,
+      "freeCashFlow": 2389000000.0,
+      "totalDebt": 16869000000.0,
+      "cash": 10129000000.0,
+      "sharesOutstanding": 573892200.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09195835629150596,
+      "roe": 0.12171343031512685,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 38447000000.0,
+      "operatingIncome": null,
+      "netIncome": 3745000000.0,
+      "eps": 6.15,
+      "freeCashFlow": 2654000000.0,
+      "totalDebt": 18792000000.0,
+      "cash": 9685000000.0,
+      "sharesOutstanding": 553799595.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.09740681977787603,
+      "roe": 0.14844617092119866,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.056477+00:00"
+  }
+}

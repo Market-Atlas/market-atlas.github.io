@@ -1,0 +1,128 @@
+{
+  "ticker": "0005",
+  "name": "HSBC Holdings plc",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "USD",
+  "marketCap": {
+    "value": 2488204787712.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 145.1,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 66224000000.0,
+    "operatingIncome": null,
+    "netIncome": 22285000000.0,
+    "eps": 1.2,
+    "freeCashFlow": 25105000000.0,
+    "totalDebt": 256139000000.0,
+    "cash": 307737000000.0,
+    "sharesOutstanding": 17175239862.0
+  },
+  "ratios": {
+    "roe": 0.11242275192331946,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.50684,
+    "netMargin": 0.33650942256583716,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 53719000000.0,
+      "operatingIncome": null,
+      "netIncome": 15559000000.0,
+      "eps": 0.74,
+      "freeCashFlow": 14946000000.0,
+      "totalDebt": 204239000000.0,
+      "cash": 369616000000.0,
+      "sharesOutstanding": 20293607410.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28963681379027906,
+      "roe": 0.08749219773607823,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 64528000000.0,
+      "operatingIncome": null,
+      "netIncome": 23533000000.0,
+      "eps": 1.14,
+      "freeCashFlow": 35416000000.0,
+      "totalDebt": 235159000000.0,
+      "cash": 338764000000.0,
+      "sharesOutstanding": 19262728193.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.36469439623109345,
+      "roe": 0.12697958765222928,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 67396000000.0,
+      "operatingIncome": null,
+      "netIncome": 23979000000.0,
+      "eps": 1.24,
+      "freeCashFlow": 61419000000.0,
+      "totalDebt": 242347000000.0,
+      "cash": 303565000000.0,
+      "sharesOutstanding": 17945022323.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.35579262864264943,
+      "roe": 0.12963513593875864,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 66224000000.0,
+      "operatingIncome": null,
+      "netIncome": 22285000000.0,
+      "eps": 1.2,
+      "freeCashFlow": 25105000000.0,
+      "totalDebt": 256139000000.0,
+      "cash": 307737000000.0,
+      "sharesOutstanding": 17175239862.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33650942256583716,
+      "roe": 0.11242275192331946,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:27.144258+00:00"
+  }
+}

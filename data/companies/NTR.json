@@ -1,0 +1,128 @@
+{
+  "ticker": "NTR",
+  "name": "Nutrien Ltd.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "currency": "USD",
+  "marketCap": {
+    "value": 45319024640.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 94.41,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 26885000000.0,
+    "operatingIncome": 3869000000.0,
+    "netIncome": 2267000000.0,
+    "eps": 4.66,
+    "freeCashFlow": 2002000000.0,
+    "totalDebt": 12019000000.0,
+    "cash": 701000000.0,
+    "sharesOutstanding": 481962233.0
+  },
+  "ratios": {
+    "roe": 0.08952335821190223,
+    "roic": 0.10360987627872101,
+    "grossMargin": 0.31047052259624325,
+    "operatingMargin": 0.14390924307234518,
+    "netMargin": 0.08432211270225033,
+    "debtToEquity": 0.55359
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 37884000000.0,
+      "operatingIncome": 10183000000.0,
+      "netIncome": 7660000000.0,
+      "eps": 14.18,
+      "freeCashFlow": 5635000000.0,
+      "totalDebt": 11928000000.0,
+      "cash": 901000000.0,
+      "sharesOutstanding": 507246105.0,
+      "grossMargin": 0.40713757786928517,
+      "operatingMargin": 0.26879421391616515,
+      "netMargin": 0.2021961778059339,
+      "roe": 0.29669223022697344,
+      "roic": 0.2697769300058284
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 29056000000.0,
+      "operatingIncome": 3860000000.0,
+      "netIncome": 1258000000.0,
+      "eps": 2.53,
+      "freeCashFlow": 2466000000.0,
+      "totalDebt": 12566000000.0,
+      "cash": 941000000.0,
+      "sharesOutstanding": 494551730.0,
+      "grossMargin": 0.29164372246696035,
+      "operatingMargin": 0.13284691629955947,
+      "netMargin": 0.04329570484581498,
+      "roe": 0.05000795038956909,
+      "roic": 0.10232755421239595
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25972000000.0,
+      "operatingIncome": 2961000000.0,
+      "netIncome": 674000000.0,
+      "eps": 1.36,
+      "freeCashFlow": 1381000000.0,
+      "totalDebt": 12807000000.0,
+      "cash": 853000000.0,
+      "sharesOutstanding": 491025446.0,
+      "grossMargin": 0.2899276143539196,
+      "operatingMargin": 0.11400739257662097,
+      "netMargin": 0.025951024179886033,
+      "roe": 0.027615028475437373,
+      "roic": 0.07956682968775192
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 26885000000.0,
+      "operatingIncome": 3869000000.0,
+      "netIncome": 2267000000.0,
+      "eps": 4.66,
+      "freeCashFlow": 2002000000.0,
+      "totalDebt": 12019000000.0,
+      "cash": 701000000.0,
+      "sharesOutstanding": 481962233.0,
+      "grossMargin": 0.31047052259624325,
+      "operatingMargin": 0.14390924307234518,
+      "netMargin": 0.08432211270225033,
+      "roe": 0.08952335821190223,
+      "roic": 0.10360987627872101
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:07.098377+00:00"
+  }
+}

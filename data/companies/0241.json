@@ -1,0 +1,111 @@
+{
+  "ticker": "0241",
+  "name": "Alibaba Health Information Technology Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Healthcare",
+  "industry": "Pharmaceutical Retailers",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 58532560896.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3.63,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30598292000.0,
+    "operatingIncome": 1576063000.0,
+    "netIncome": 1432427000.0,
+    "eps": 0.0888,
+    "freeCashFlow": 1376130000.0,
+    "totalDebt": 35515000.0,
+    "cash": 2218296000.0,
+    "sharesOutstanding": 16092851240.0
+  },
+  "ratios": {
+    "roe": 0.08781334486336866,
+    "roic": 0.09640888800585574,
+    "grossMargin": 0.24289234837029466,
+    "operatingMargin": 0.05150820183035053,
+    "netMargin": 0.046813952883383164,
+    "debtToEquity": 0.00335
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 20577616000.0,
+      "operatingIncome": -1018846000.0,
+      "netIncome": -265555000.0,
+      "eps": -0.0197,
+      "freeCashFlow": 409248000.0,
+      "totalDebt": 135414000.0,
+      "cash": 10547851000.0,
+      "sharesOutstanding": 13517806542.0,
+      "grossMargin": 0.1996340586781287,
+      "operatingMargin": -0.0495123438983408,
+      "netMargin": -0.012905042061237803,
+      "roe": -0.018838980226998522,
+      "roic": -0.07159114392606293
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 26763016000.0,
+      "operatingIncome": 51246000.0,
+      "netIncome": 535653000.0,
+      "eps": 0.0394,
+      "freeCashFlow": 249770000.0,
+      "totalDebt": 77798000.0,
+      "cash": 10917171000.0,
+      "sharesOutstanding": 13521362542.0,
+      "grossMargin": 0.2130303251322646,
+      "operatingMargin": 0.001914806612229354,
+      "netMargin": 0.020014672486837807,
+      "roe": 0.03530170514222326,
+      "roic": 0.0033600913649009
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 27026555000.0,
+      "operatingIncome": 712260000.0,
+      "netIncome": 883477000.0,
+      "eps": 0.0627,
+      "freeCashFlow": 1057052000.0,
+      "totalDebt": 82170000.0,
+      "cash": 3490169000.0,
+      "sharesOutstanding": 16091736264.0,
+      "grossMargin": 0.2181306866524424,
+      "operatingMargin": 0.026354080274011985,
+      "netMargin": 0.032689219917225856,
+      "roe": 0.06074423282608917,
+      "roic": 0.04869693680911657
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 30598292000.0,
+      "operatingIncome": 1576063000.0,
+      "netIncome": 1432427000.0,
+      "eps": 0.0888,
+      "freeCashFlow": 1376130000.0,
+      "totalDebt": 35515000.0,
+      "cash": 2218296000.0,
+      "sharesOutstanding": 16092851240.0,
+      "grossMargin": 0.24289234837029466,
+      "operatingMargin": 0.05150820183035053,
+      "netMargin": 0.046813952883383164,
+      "roe": 0.08781334486336866,
+      "roic": 0.09640888800585574
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:28.803687+00:00"
+  }
+}

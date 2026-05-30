@@ -1,0 +1,111 @@
+{
+  "ticker": "CCL-B",
+  "name": "CCL Industries Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 15302001664.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 89.04,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7663800000.0,
+    "operatingIncome": 1157300000.0,
+    "netIncome": 802400000.0,
+    "eps": 4.57,
+    "freeCashFlow": 863200000.0,
+    "totalDebt": 2260200000.0,
+    "cash": 990000000.0,
+    "sharesOutstanding": 173245323.0
+  },
+  "ratios": {
+    "roe": 0.14225941422594143,
+    "roic": 0.14648254562944588,
+    "grossMargin": 0.2996163782979723,
+    "operatingMargin": 0.15100863801247422,
+    "netMargin": 0.10470001826770009,
+    "debtToEquity": 0.4235
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6382200000.0,
+      "operatingIncome": 862600000.0,
+      "netIncome": 622700000.0,
+      "eps": 3.48,
+      "freeCashFlow": 545600000.0,
+      "totalDebt": 2361800000.0,
+      "cash": 831500000.0,
+      "sharesOutstanding": 177000000.0,
+      "grossMargin": 0.2687474538560371,
+      "operatingMargin": 0.1351571558396791,
+      "netMargin": 0.09756823665820563,
+      "roe": 0.14599549845259308,
+      "roic": 0.13016447864795533
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6649600000.0,
+      "operatingIncome": 928800000.0,
+      "netIncome": 530200000.0,
+      "eps": 2.95,
+      "freeCashFlow": 541700000.0,
+      "totalDebt": 2282400000.0,
+      "cash": 765100000.0,
+      "sharesOutstanding": 177780847.0,
+      "grossMargin": 0.2878970163618864,
+      "operatingMargin": 0.13967757459095284,
+      "netMargin": 0.07973411934552455,
+      "roe": 0.11468247101574668,
+      "roic": 0.13449953660797034
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7245000000.0,
+      "operatingIncome": 1064700000.0,
+      "netIncome": 843100000.0,
+      "eps": 4.7,
+      "freeCashFlow": 601900000.0,
+      "totalDebt": 2447600000.0,
+      "cash": 820600000.0,
+      "sharesOutstanding": 176810323.0,
+      "grossMargin": 0.2950586611456177,
+      "operatingMargin": 0.14695652173913043,
+      "netMargin": 0.11636991028295376,
+      "roe": 0.15965686367337664,
+      "roic": 0.13776639105624783
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 7663800000.0,
+      "operatingIncome": 1157300000.0,
+      "netIncome": 802400000.0,
+      "eps": 4.57,
+      "freeCashFlow": 863200000.0,
+      "totalDebt": 2260200000.0,
+      "cash": 990000000.0,
+      "sharesOutstanding": 173245323.0,
+      "grossMargin": 0.2996163782979723,
+      "operatingMargin": 0.15100863801247422,
+      "netMargin": 0.10470001826770009,
+      "roe": 0.14225941422594143,
+      "roic": 0.14648254562944588
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:02.678835+00:00"
+  }
+}

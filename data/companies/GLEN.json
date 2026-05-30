@@ -1,0 +1,128 @@
+{
+  "ticker": "GLEN",
+  "name": "Glencore plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "USD",
+  "marketCap": {
+    "value": 66520051712.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 567.8,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 247535000000.0,
+    "operatingIncome": 3335000000.0,
+    "netIncome": 363000000.0,
+    "eps": null,
+    "freeCashFlow": -290000000.0,
+    "totalDebt": 41486000000.0,
+    "cash": 2854000000.0,
+    "sharesOutstanding": 13011864600.0
+  },
+  "ratios": {
+    "roe": 0.009341224909933093,
+    "roic": 0.041507977995170885,
+    "grossMargin": 0.023685539418668067,
+    "operatingMargin": 0.013472842224331913,
+    "netMargin": 0.0014664592885854527,
+    "debtToEquity": 1.2534999999999998
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.37,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 255984000000.0,
+      "operatingIncome": 24831000000.0,
+      "netIncome": 17320000000.0,
+      "eps": 1.32,
+      "freeCashFlow": 9482000000.0,
+      "totalDebt": 28777000000.0,
+      "cash": 1923000000.0,
+      "sharesOutstanding": 14086200000.0,
+      "grossMargin": 0.10749499968748047,
+      "operatingMargin": 0.09700215638477405,
+      "netMargin": 0.06766047877992375,
+      "roe": 0.3505363286784052,
+      "roic": 0.31758476473070973
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 217829000000.0,
+      "operatingIncome": 8699000000.0,
+      "netIncome": 4280000000.0,
+      "eps": 0.34,
+      "freeCashFlow": 6552000000.0,
+      "totalDebt": 32241000000.0,
+      "cash": 1676000000.0,
+      "sharesOutstanding": 13550000000.0,
+      "grossMargin": 0.049502132406612526,
+      "operatingMargin": 0.03993499488130598,
+      "netMargin": 0.019648439831243775,
+      "roe": 0.0982101881597063,
+      "roic": 0.11473074741826143
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 230944000000.0,
+      "operatingIncome": 4441000000.0,
+      "netIncome": -1634000000.0,
+      "eps": -0.134405,
+      "freeCashFlow": 4444000000.0,
+      "totalDebt": 38107000000.0,
+      "cash": 2167000000.0,
+      "sharesOutstanding": 13550000000.0,
+      "grossMargin": 0.02879485935984481,
+      "operatingMargin": 0.019229769987529444,
+      "netMargin": -0.007075308299847582,
+      "roe": -0.04017802257247535,
+      "roic": 0.05637503808266477
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 247535000000.0,
+      "operatingIncome": 3335000000.0,
+      "netIncome": 363000000.0,
+      "eps": null,
+      "freeCashFlow": -290000000.0,
+      "totalDebt": 41486000000.0,
+      "cash": 2854000000.0,
+      "sharesOutstanding": 13011864600.0,
+      "grossMargin": 0.023685539418668067,
+      "operatingMargin": 0.013472842224331913,
+      "netMargin": 0.0014664592885854527,
+      "roe": 0.009341224909933093,
+      "roic": 0.041507977995170885
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:39.121587+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "4901",
+  "name": "FUJIFILM Holdings Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3976103723008.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3322.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3195828000000.0,
+    "operatingIncome": 330155000000.0,
+    "netIncome": 260951000000.0,
+    "eps": null,
+    "freeCashFlow": -129843000000.0,
+    "totalDebt": 802285000000.0,
+    "cash": 172111000000.0,
+    "sharesOutstanding": 1243877184.0
+  },
+  "ratios": {
+    "roe": 0.07793118071483181,
+    "roic": 0.0795407593539986,
+    "grossMargin": 0.40680505959644886,
+    "operatingMargin": 0.10330812546857966,
+    "netMargin": 0.08165364343763182,
+    "debtToEquity": 0.26715
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2525773000000.0,
+      "operatingIncome": 229702000000.0,
+      "netIncome": 211180000000.0,
+      "eps": 175.37,
+      "freeCashFlow": 158027000000.0,
+      "totalDebt": 535556000000.0,
+      "cash": 486328000000.0,
+      "sharesOutstanding": 1543877184.0,
+      "grossMargin": 0.4090723909076548,
+      "operatingMargin": 0.0909432478690682,
+      "netMargin": 0.08361004730037101,
+      "roe": 0.08438231847192804,
+      "roic": 0.07560431082350053
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2859041000000.0,
+      "operatingIncome": 273079000000.0,
+      "netIncome": 219422000000.0,
+      "eps": 182.14,
+      "freeCashFlow": -113020000000.0,
+      "totalDebt": 462584000000.0,
+      "cash": 268608000000.0,
+      "sharesOutstanding": 1243877184.0,
+      "grossMargin": 0.39801038180284926,
+      "operatingMargin": 0.09551419514445578,
+      "netMargin": 0.07674671332100519,
+      "roe": 0.07941023724777382,
+      "roic": 0.0846565226031077
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2960916000000.0,
+      "operatingIncome": 276725000000.0,
+      "netIncome": 243509000000.0,
+      "eps": 202.05,
+      "freeCashFlow": -56771000000.0,
+      "totalDebt": 607631000000.0,
+      "cash": 179715000000.0,
+      "sharesOutstanding": 1243877184.0,
+      "grossMargin": 0.4006395318205582,
+      "operatingMargin": 0.09345925382550535,
+      "netMargin": 0.08224110376653711,
+      "roe": 0.07683497057818466,
+      "roic": 0.07326818605207794
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 3195828000000.0,
+      "operatingIncome": 330155000000.0,
+      "netIncome": 260951000000.0,
+      "eps": null,
+      "freeCashFlow": -129843000000.0,
+      "totalDebt": 802285000000.0,
+      "cash": 172111000000.0,
+      "sharesOutstanding": 1243877184.0,
+      "grossMargin": 0.40680505959644886,
+      "operatingMargin": 0.10330812546857966,
+      "netMargin": 0.08165364343763182,
+      "roe": 0.07793118071483181,
+      "roic": 0.0795407593539986
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:06.399881+00:00"
+  }
+}

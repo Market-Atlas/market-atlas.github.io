@@ -1,0 +1,128 @@
+{
+  "ticker": "KER",
+  "name": "Kering SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 31310749696.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 255.35,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14675000000.0,
+    "operatingIncome": 1631000000.0,
+    "netIncome": 72000000.0,
+    "eps": null,
+    "freeCashFlow": 2270000000.0,
+    "totalDebt": 18149000000.0,
+    "cash": 4313000000.0,
+    "sharesOutstanding": 123420778.0
+  },
+  "ratios": {
+    "roe": 0.004895960832313341,
+    "roic": 0.04964236798052047,
+    "grossMargin": 0.7264054514480409,
+    "operatingMargin": 0.11114139693356048,
+    "netMargin": 0.004906303236797274,
+    "debtToEquity": 1.19652
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 25.49,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 20351000000.0,
+      "operatingIncome": 5589000000.0,
+      "netIncome": 3614000000.0,
+      "eps": 29.31,
+      "freeCashFlow": 3207000000.0,
+      "totalDebt": 11192000000.0,
+      "cash": 4336000000.0,
+      "sharesOutstanding": 124070778.0,
+      "grossMargin": 0.7467937693479436,
+      "operatingMargin": 0.2746302393002801,
+      "netMargin": 0.17758341113458798,
+      "roe": 0.2581797399628518,
+      "roic": 0.22187375942834459
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 19566000000.0,
+      "operatingIncome": 4746000000.0,
+      "netIncome": 2983000000.0,
+      "eps": 24.37,
+      "freeCashFlow": 1848000000.0,
+      "totalDebt": 17109000000.0,
+      "cash": 3922000000.0,
+      "sharesOutstanding": 123419028.0,
+      "grossMargin": 0.7629050393539814,
+      "operatingMargin": 0.2425636307881018,
+      "netMargin": 0.15245834611060002,
+      "roe": 0.1960951880094662,
+      "roic": 0.14683951610408094
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 16874000000.0,
+      "operatingIncome": 2440000000.0,
+      "netIncome": 1133000000.0,
+      "eps": 9.24,
+      "freeCashFlow": 1400000000.0,
+      "totalDebt": 20142000000.0,
+      "cash": 3518000000.0,
+      "sharesOutstanding": 123420778.0,
+      "grossMargin": 0.7345027853502429,
+      "operatingMargin": 0.1446011615503141,
+      "netMargin": 0.06714471968709257,
+      "roe": 0.0760198604401503,
+      "roic": 0.06962278148718827
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14675000000.0,
+      "operatingIncome": 1631000000.0,
+      "netIncome": 72000000.0,
+      "eps": null,
+      "freeCashFlow": 2270000000.0,
+      "totalDebt": 18149000000.0,
+      "cash": 4313000000.0,
+      "sharesOutstanding": 123420778.0,
+      "grossMargin": 0.7264054514480409,
+      "operatingMargin": 0.11114139693356048,
+      "netMargin": 0.004906303236797274,
+      "roe": 0.004895960832313341,
+      "roic": 0.04964236798052047
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:21.591369+00:00"
+  }
+}

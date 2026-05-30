@@ -1,0 +1,128 @@
+{
+  "ticker": "0388",
+  "name": "Hong Kong Exchanges and Clearing Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 505359630336.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 399.8,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 23745000000.0,
+    "operatingIncome": 16120000000.0,
+    "netIncome": 17754000000.0,
+    "eps": 14.01,
+    "freeCashFlow": 23894000000.0,
+    "totalDebt": 851000000.0,
+    "cash": 182724000000.0,
+    "sharesOutstanding": 1267836895.0
+  },
+  "ratios": {
+    "roe": 0.3053295956799147,
+    "roic": 0.27322960100342386,
+    "grossMargin": 0.8079174563065908,
+    "operatingMargin": 0.6788797641608759,
+    "netMargin": 0.7476942514213518,
+    "debtToEquity": 0.02186
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16934000000.0,
+      "operatingIncome": 10408000000.0,
+      "netIncome": 10078000000.0,
+      "eps": 7.95,
+      "freeCashFlow": 13672000000.0,
+      "totalDebt": 1745000000.0,
+      "cash": 184965000000.0,
+      "sharesOutstanding": 1267836895.0,
+      "grossMargin": 0.7852840439352782,
+      "operatingMargin": 0.6146214715956064,
+      "netMargin": 0.5951340498405575,
+      "roe": 0.20266248391248393,
+      "roic": 0.20220309676917997
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15445000000.0,
+      "operatingIncome": 8473000000.0,
+      "netIncome": 11862000000.0,
+      "eps": 9.36,
+      "freeCashFlow": 10114000000.0,
+      "totalDebt": 1604000000.0,
+      "cash": 125107000000.0,
+      "sharesOutstanding": 1267836895.0,
+      "grossMargin": 0.742052444156685,
+      "operatingMargin": 0.5485917772741987,
+      "netMargin": 0.7680155390093881,
+      "roe": 0.23102991586163915,
+      "roic": 0.16002493012011784
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 17346000000.0,
+      "operatingIncome": 10028000000.0,
+      "netIncome": 13050000000.0,
+      "eps": 10.29,
+      "freeCashFlow": 11170000000.0,
+      "totalDebt": 1294000000.0,
+      "cash": 134365000000.0,
+      "sharesOutstanding": 1267836895.0,
+      "grossMargin": 0.7460509627579845,
+      "operatingMargin": 0.5781159921595757,
+      "netMargin": 0.7523348322379799,
+      "roe": 0.24233083265245486,
+      "roic": 0.18184455808218183
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23745000000.0,
+      "operatingIncome": 16120000000.0,
+      "netIncome": 17754000000.0,
+      "eps": 14.01,
+      "freeCashFlow": 23894000000.0,
+      "totalDebt": 851000000.0,
+      "cash": 182724000000.0,
+      "sharesOutstanding": 1267836895.0,
+      "grossMargin": 0.8079174563065908,
+      "operatingMargin": 0.6788797641608759,
+      "netMargin": 0.7476942514213518,
+      "roe": 0.3053295956799147,
+      "roic": 0.27322960100342386
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:29.714957+00:00"
+  }
+}

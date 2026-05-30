@@ -1,0 +1,111 @@
+{
+  "ticker": "6645",
+  "name": "OMRON Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1129439166464.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5744.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 801753000000.0,
+    "operatingIncome": 56782000000.0,
+    "netIncome": 16271000000.0,
+    "eps": 82.63,
+    "freeCashFlow": 6791000000.0,
+    "totalDebt": 184203000000.0,
+    "cash": 149023000000.0,
+    "sharesOutstanding": 206244872.0
+  },
+  "ratios": {
+    "roe": 0.021079564961101718,
+    "roic": 0.05938993063400022,
+    "grossMargin": 0.4454514046096491,
+    "operatingMargin": 0.07082231061187173,
+    "netMargin": 0.020294280158602462,
+    "debtToEquity": 0.24107
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 762927000000.0,
+      "operatingIncome": 86714000000.0,
+      "netIncome": 61400000000.0,
+      "eps": 305.65,
+      "freeCashFlow": 34071000000.0,
+      "totalDebt": 60116000000.0,
+      "cash": 155484000000.0,
+      "sharesOutstanding": 206244872.0,
+      "grossMargin": 0.45460050568403004,
+      "operatingMargin": 0.11365962929611877,
+      "netMargin": 0.08047952163182061,
+      "roe": 0.09229932038236571,
+      "roic": 0.11954895821700906
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 876082000000.0,
+      "operatingIncome": 98409000000.0,
+      "netIncome": 73861000000.0,
+      "eps": 372.19,
+      "freeCashFlow": 8438000000.0,
+      "totalDebt": 45368000000.0,
+      "cash": 105279000000.0,
+      "sharesOutstanding": 206244872.0,
+      "grossMargin": 0.4495960423795946,
+      "operatingMargin": 0.11232852632516134,
+      "netMargin": 0.0843083181711301,
+      "roe": 0.10139154093562837,
+      "roic": 0.1271695348269218
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 818761000000.0,
+      "operatingIncome": 34953000000.0,
+      "netIncome": 8105000000.0,
+      "eps": 41.17,
+      "freeCashFlow": -503000000.0,
+      "totalDebt": 172758000000.0,
+      "cash": 143086000000.0,
+      "sharesOutstanding": 206244872.0,
+      "grossMargin": 0.42315645224919113,
+      "operatingMargin": 0.042690113476338026,
+      "netMargin": 0.00989910364563041,
+      "roe": 0.010302712899428744,
+      "roic": 0.0364304743163749
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 801753000000.0,
+      "operatingIncome": 56782000000.0,
+      "netIncome": 16271000000.0,
+      "eps": 82.63,
+      "freeCashFlow": 6791000000.0,
+      "totalDebt": 184203000000.0,
+      "cash": 149023000000.0,
+      "sharesOutstanding": 206244872.0,
+      "grossMargin": 0.4454514046096491,
+      "operatingMargin": 0.07082231061187173,
+      "netMargin": 0.020294280158602462,
+      "roe": 0.021079564961101718,
+      "roic": 0.05938993063400022
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:20.913445+00:00"
+  }
+}

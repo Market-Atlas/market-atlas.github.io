@@ -1,0 +1,128 @@
+{
+  "ticker": "BEZ",
+  "name": "Beazley plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Insurance - Specialty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 7570391040.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1281.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1058100000.0,
+    "operatingIncome": null,
+    "netIncome": 913400000.0,
+    "eps": 1.448,
+    "freeCashFlow": 1247900000.0,
+    "totalDebt": 626700000.0,
+    "cash": 1368500000.0,
+    "sharesOutstanding": 599509906.0
+  },
+  "ratios": {
+    "roe": 0.18750256599745452,
+    "roic": null,
+    "grossMargin": 0.32863,
+    "operatingMargin": 0.27947,
+    "netMargin": 0.8632454399395142,
+    "debtToEquity": 0.1308
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 51300000.0,
+      "operatingIncome": null,
+      "netIncome": 483300000.0,
+      "eps": 0.259,
+      "freeCashFlow": -152800000.0,
+      "totalDebt": 620700000.0,
+      "cash": 652500000.0,
+      "sharesOutstanding": 671204020.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 9.421052631578947,
+      "roe": 0.16355329949238578,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 669100000.0,
+      "operatingIncome": null,
+      "netIncome": 1026800000.0,
+      "eps": 1.514,
+      "freeCashFlow": 338000000.0,
+      "totalDebt": 624900000.0,
+      "cash": 812300000.0,
+      "sharesOutstanding": 672542440.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 1.5345987146913764,
+      "roe": 0.26449602019525514,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1013400000.0,
+      "operatingIncome": null,
+      "netIncome": 1130300000.0,
+      "eps": 1.704,
+      "freeCashFlow": 572100000.0,
+      "totalDebt": 615600000.0,
+      "cash": 882100000.0,
+      "sharesOutstanding": 639002140.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 1.1153542530096705,
+      "roe": 0.24535469306242946,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1058100000.0,
+      "operatingIncome": null,
+      "netIncome": 913400000.0,
+      "eps": 1.448,
+      "freeCashFlow": 1247900000.0,
+      "totalDebt": 626700000.0,
+      "cash": 1368500000.0,
+      "sharesOutstanding": 599509906.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.8632454399395142,
+      "roe": 0.18750256599745452,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:26.240260+00:00"
+  }
+}

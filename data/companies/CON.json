@@ -1,0 +1,128 @@
+{
+  "ticker": "CON",
+  "name": "Continental Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 14272427008.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 71.36,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 19676000000.0,
+    "operatingIncome": 1532000000.0,
+    "netIncome": -165000000.0,
+    "eps": -0.83,
+    "freeCashFlow": 1118000000.0,
+    "totalDebt": 6822000000.0,
+    "cash": 1424000000.0,
+    "sharesOutstanding": 200005983.0
+  },
+  "ratios": {
+    "roe": -0.04194204372140315,
+    "roic": 0.14243213090368168,
+    "grossMargin": 0.2597580809107542,
+    "operatingMargin": 0.07786135393372637,
+    "netMargin": -0.008385850782679406,
+    "debtToEquity": 1.4378
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 39408900000.0,
+      "operatingIncome": 14500000.0,
+      "netIncome": 66600000.0,
+      "eps": 0.33,
+      "freeCashFlow": 126400000.0,
+      "totalDebt": 7674100000.0,
+      "cash": 2441300000.0,
+      "sharesOutstanding": 200005983.0,
+      "grossMargin": 0.19237532638566415,
+      "operatingMargin": 0.0003679371918526018,
+      "netMargin": 0.0016899735846471228,
+      "roe": 0.005022927476770846,
+      "roic": 0.0006926762622233475
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41421000000.0,
+      "operatingIncome": 776000000.0,
+      "netIncome": 1156000000.0,
+      "eps": 5.78,
+      "freeCashFlow": 1186000000.0,
+      "totalDebt": 7162000000.0,
+      "cash": 2683000000.0,
+      "sharesOutstanding": 200005983.0,
+      "grossMargin": 0.21264575939740712,
+      "operatingMargin": 0.018734458366529056,
+      "netMargin": 0.02790854880374689,
+      "roe": 0.08452763966071951,
+      "roic": 0.0372396583165371
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20077000000.0,
+      "operatingIncome": 1862000000.0,
+      "netIncome": 1168000000.0,
+      "eps": 5.84,
+      "freeCashFlow": 1878000000.0,
+      "totalDebt": 6879000000.0,
+      "cash": 2720000000.0,
+      "sharesOutstanding": 200005983.0,
+      "grossMargin": 0.26423270408925636,
+      "operatingMargin": 0.09274293968222344,
+      "netMargin": 0.05817602231409075,
+      "roe": 0.0813880565814229,
+      "roic": 0.08770607630711258
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 19676000000.0,
+      "operatingIncome": 1532000000.0,
+      "netIncome": -165000000.0,
+      "eps": -0.83,
+      "freeCashFlow": 1118000000.0,
+      "totalDebt": 6822000000.0,
+      "cash": 1424000000.0,
+      "sharesOutstanding": 200005983.0,
+      "grossMargin": 0.2597580809107542,
+      "operatingMargin": 0.07786135393372637,
+      "netMargin": -0.008385850782679406,
+      "roe": -0.04194204372140315,
+      "roic": 0.14243213090368168
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:15.694758+00:00"
+  }
+}

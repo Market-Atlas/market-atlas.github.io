@@ -1,0 +1,128 @@
+{
+  "ticker": "RWE",
+  "name": "RWE Aktiengesellschaft",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 38932094976.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 54.56,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 17628000000.0,
+    "operatingIncome": 1330000000.0,
+    "netIncome": 3131000000.0,
+    "eps": 4.3,
+    "freeCashFlow": -5060000000.0,
+    "totalDebt": 17009000000.0,
+    "cash": 7734000000.0,
+    "sharesOutstanding": 743841217.0
+  },
+  "ratios": {
+    "roe": 0.09106774090340596,
+    "roic": 0.02588052150223779,
+    "grossMargin": 0.3280576355797595,
+    "operatingMargin": 0.0754481506693896,
+    "netMargin": 0.17761515770365327,
+    "debtToEquity": 0.57294
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 38415000000.0,
+      "operatingIncome": -317000000.0,
+      "netIncome": 2717000000.0,
+      "eps": 3.93,
+      "freeCashFlow": -2078000000.0,
+      "totalDebt": 15621000000.0,
+      "cash": 6988000000.0,
+      "sharesOutstanding": 676220048.0,
+      "grossMargin": 0.17563451776649747,
+      "operatingMargin": -0.008251984901731095,
+      "netMargin": 0.07072758037225042,
+      "roe": 0.09852770525094284,
+      "roic": -0.007338472579114291
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 28521000000.0,
+      "operatingIncome": 4507000000.0,
+      "netIncome": 1515000000.0,
+      "eps": 2.04,
+      "freeCashFlow": -923000000.0,
+      "totalDebt": 13662000000.0,
+      "cash": 6917000000.0,
+      "sharesOutstanding": 743841217.0,
+      "grossMargin": 0.3869780161985905,
+      "operatingMargin": 0.1580239122050419,
+      "netMargin": 0.053118754601872306,
+      "roe": 0.04729497705491212,
+      "roic": 0.09863223547434073
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 24224000000.0,
+      "operatingIncome": 5015000000.0,
+      "netIncome": 5135000000.0,
+      "eps": 6.91,
+      "freeCashFlow": -2757000000.0,
+      "totalDebt": 15790000000.0,
+      "cash": 5090000000.0,
+      "sharesOutstanding": 743841217.0,
+      "grossMargin": 0.35708388375165123,
+      "operatingMargin": 0.20702608982826948,
+      "netMargin": 0.21197985468956407,
+      "roe": 0.1627626866144727,
+      "roic": 0.10593802150446778
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 17628000000.0,
+      "operatingIncome": 1330000000.0,
+      "netIncome": 3131000000.0,
+      "eps": 4.3,
+      "freeCashFlow": -5060000000.0,
+      "totalDebt": 17009000000.0,
+      "cash": 7734000000.0,
+      "sharesOutstanding": 743841217.0,
+      "grossMargin": 0.3280576355797595,
+      "operatingMargin": 0.0754481506693896,
+      "netMargin": 0.17761515770365327,
+      "roe": 0.09106774090340596,
+      "roic": 0.02588052150223779
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:25.637661+00:00"
+  }
+}

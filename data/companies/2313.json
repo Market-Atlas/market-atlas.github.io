@@ -1,0 +1,128 @@
+{
+  "ticker": "2313",
+  "name": "Shenzhou International Group Holdings Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 69761646592.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 46.42,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 30993732000.0,
+    "operatingIncome": 6147541000.0,
+    "netIncome": 5825262000.0,
+    "eps": 3.88,
+    "freeCashFlow": 2810419000.0,
+    "totalDebt": 14869471000.0,
+    "cash": 15410854000.0,
+    "sharesOutstanding": 1503222397.0
+  },
+  "ratios": {
+    "roe": 0.1553738061627042,
+    "roic": 0.11740599547502455,
+    "grossMargin": 0.2634519779676742,
+    "operatingMargin": 0.19834787885498914,
+    "netMargin": 0.18794967963199785,
+    "debtToEquity": 0.39659999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27781412000.0,
+      "operatingIncome": 4139753000.0,
+      "netIncome": 4562783000.0,
+      "eps": 3.04,
+      "freeCashFlow": 3078136000.0,
+      "totalDebt": 9314291000.0,
+      "cash": 7369498000.0,
+      "sharesOutstanding": 1503222397.0,
+      "grossMargin": 0.22050171531958132,
+      "operatingMargin": 0.14901161251271175,
+      "netMargin": 0.16423870032235943,
+      "roe": 0.14836910760793495,
+      "roic": 0.10332022377700428
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 24969792000.0,
+      "operatingIncome": 4264743000.0,
+      "netIncome": 4557263000.0,
+      "eps": 3.03,
+      "freeCashFlow": 4135918000.0,
+      "totalDebt": 12262070000.0,
+      "cash": 11596453000.0,
+      "sharesOutstanding": 1503222397.0,
+      "grossMargin": 0.2426882851086625,
+      "operatingMargin": 0.17079609633912848,
+      "netMargin": 0.18251105175405546,
+      "roe": 0.13865637826952465,
+      "roic": 0.09450035504582313
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 28662938000.0,
+      "operatingIncome": 5991593000.0,
+      "netIncome": 6240581000.0,
+      "eps": 4.15,
+      "freeCashFlow": 3396828000.0,
+      "totalDebt": 12932617000.0,
+      "cash": 10868830000.0,
+      "sharesOutstanding": 1503222397.0,
+      "grossMargin": 0.2810213314489952,
+      "operatingMargin": 0.20903624743562577,
+      "netMargin": 0.21772300522716828,
+      "roe": 0.17406072787148708,
+      "roic": 0.12281500704553434
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 30993732000.0,
+      "operatingIncome": 6147541000.0,
+      "netIncome": 5825262000.0,
+      "eps": 3.88,
+      "freeCashFlow": 2810419000.0,
+      "totalDebt": 14869471000.0,
+      "cash": 15410854000.0,
+      "sharesOutstanding": 1503222397.0,
+      "grossMargin": 0.2634519779676742,
+      "operatingMargin": 0.19834787885498914,
+      "netMargin": 0.18794967963199785,
+      "roe": 0.1553738061627042,
+      "roic": 0.11740599547502455
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:37.843589+00:00"
+  }
+}

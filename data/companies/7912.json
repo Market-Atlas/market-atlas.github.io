@@ -1,0 +1,111 @@
+{
+  "ticker": "7912",
+  "name": "Dai Nippon Printing Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 1195284758528.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2770.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1457609000000.0,
+    "operatingIncome": 93612000000.0,
+    "netIncome": 110682000000.0,
+    "eps": 238.87,
+    "freeCashFlow": 59847000000.0,
+    "totalDebt": 175759000000.0,
+    "cash": 254995000000.0,
+    "sharesOutstanding": 524480692.0
+  },
+  "ratios": {
+    "roe": 0.09744454794047784,
+    "roic": 0.07137209754461138,
+    "grossMargin": 0.23207801269064612,
+    "operatingMargin": 0.06422298435314272,
+    "netMargin": 0.07593394387658144,
+    "debtToEquity": 0.20800000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1344147000000.0,
+      "operatingIncome": 66788000000.0,
+      "netIncome": 97182000000.0,
+      "eps": 177.89,
+      "freeCashFlow": 16208000000.0,
+      "totalDebt": 158455000000.0,
+      "cash": 287334000000.0,
+      "sharesOutstanding": 634480692.0,
+      "grossMargin": 0.21792928898401737,
+      "operatingMargin": 0.049688017754010536,
+      "netMargin": 0.07230012788779798,
+      "roe": 0.0890059165094426,
+      "roic": 0.05341693893138929
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1373209000000.0,
+      "operatingIncome": 61233000000.0,
+      "netIncome": 85692000000.0,
+      "eps": 160.63,
+      "freeCashFlow": -24132000000.0,
+      "totalDebt": 153137000000.0,
+      "cash": 246438000000.0,
+      "sharesOutstanding": 584480692.0,
+      "grossMargin": 0.21258599382905297,
+      "operatingMargin": 0.04459117293871508,
+      "netMargin": 0.062402736946815814,
+      "roe": 0.07879709646510995,
+      "roic": 0.049356017342675834
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1424822000000.0,
+      "operatingIncome": 75450000000.0,
+      "netIncome": 110929000000.0,
+      "eps": 221.52,
+      "freeCashFlow": -2200000000.0,
+      "totalDebt": 177887000000.0,
+      "cash": 228765000000.0,
+      "sharesOutstanding": 554480692.0,
+      "grossMargin": 0.2201629396514091,
+      "operatingMargin": 0.05295398302384438,
+      "netMargin": 0.07785463728100774,
+      "roe": 0.09514240183339251,
+      "roic": 0.056146204866302084
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1457609000000.0,
+      "operatingIncome": 93612000000.0,
+      "netIncome": 110682000000.0,
+      "eps": 238.87,
+      "freeCashFlow": 59847000000.0,
+      "totalDebt": 175759000000.0,
+      "cash": 254995000000.0,
+      "sharesOutstanding": 524480692.0,
+      "grossMargin": 0.23207801269064612,
+      "operatingMargin": 0.06422298435314272,
+      "netMargin": 0.07593394387658144,
+      "roe": 0.09744454794047784,
+      "roic": 0.07137209754461138
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:13.250207+00:00"
+  }
+}

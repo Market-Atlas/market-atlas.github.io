@@ -1,0 +1,128 @@
+{
+  "ticker": "VIE",
+  "name": "Veolia Environnement SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 25429889024.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 34.73,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 44396000000.0,
+    "operatingIncome": 3498000000.0,
+    "netIncome": 1217000000.0,
+    "eps": 1.54,
+    "freeCashFlow": null,
+    "totalDebt": 20190000000.0,
+    "cash": 7440000000.0,
+    "sharesOutstanding": 741723437.0
+  },
+  "ratios": {
+    "roe": 0.11211423307231691,
+    "roic": 0.11267514897729103,
+    "grossMargin": 0.17733579601765925,
+    "operatingMargin": 0.07879088206144698,
+    "netMargin": 0.027412379493648078,
+    "debtToEquity": 2.22535
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.65,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 42886000000.0,
+      "operatingIncome": 2922000000.0,
+      "netIncome": 716000000.0,
+      "eps": 1.0,
+      "freeCashFlow": null,
+      "totalDebt": 21563000000.0,
+      "cash": 9012000000.0,
+      "sharesOutstanding": 714574367.0,
+      "grossMargin": 0.16662780394534346,
+      "operatingMargin": 0.06813412302383062,
+      "netMargin": 0.016695425080445834,
+      "roe": 0.05842513259893921,
+      "roic": 0.0864036903424212
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 45351000000.0,
+      "operatingIncome": 3110000000.0,
+      "netIncome": 937000000.0,
+      "eps": 1.19,
+      "freeCashFlow": null,
+      "totalDebt": 20460000000.0,
+      "cash": 8696000000.0,
+      "sharesOutstanding": 725411667.0,
+      "grossMargin": 0.16535467795638464,
+      "operatingMargin": 0.0685762166214637,
+      "netMargin": 0.02066106590813874,
+      "roe": 0.07611079522378361,
+      "roic": 0.09490097952457965
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 44692000000.0,
+      "operatingIncome": 3252000000.0,
+      "netIncome": 1098000000.0,
+      "eps": 1.45,
+      "freeCashFlow": null,
+      "totalDebt": 19965000000.0,
+      "cash": 9601000000.0,
+      "sharesOutstanding": 740652608.0,
+      "grossMargin": 0.1738118678958203,
+      "operatingMargin": 0.07276470061756019,
+      "netMargin": 0.02456815537456368,
+      "roe": 0.08501742160278745,
+      "roic": 0.0989051094890511
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 44396000000.0,
+      "operatingIncome": 3498000000.0,
+      "netIncome": 1217000000.0,
+      "eps": 1.54,
+      "freeCashFlow": null,
+      "totalDebt": 20190000000.0,
+      "cash": 7440000000.0,
+      "sharesOutstanding": 741723437.0,
+      "grossMargin": 0.17733579601765925,
+      "operatingMargin": 0.07879088206144698,
+      "netMargin": 0.027412379493648078,
+      "roe": 0.11211423307231691,
+      "roic": 0.11267514897729103
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:28.727697+00:00"
+  }
+}

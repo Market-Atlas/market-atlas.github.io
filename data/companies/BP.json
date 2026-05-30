@@ -1,0 +1,128 @@
+{
+  "ticker": "BP",
+  "name": "BP p.l.c.",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "marketCap": {
+    "value": 80618012672.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 521.8,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 189335000000.0,
+    "operatingIncome": 15808000000.0,
+    "netIncome": 55000000.0,
+    "eps": 0.0034,
+    "freeCashFlow": 11272000000.0,
+    "totalDebt": 72529000000.0,
+    "cash": 31831000000.0,
+    "sharesOutstanding": 16486312994.0
+  },
+  "ratios": {
+    "roe": 0.001036718691095529,
+    "roic": 0.12587891480399105,
+    "grossMargin": 0.17708822985713155,
+    "operatingMargin": 0.08349222277972905,
+    "netMargin": 0.00029049040061267066,
+    "debtToEquity": 0.96384
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 241392000000.0,
+      "operatingIncome": 41447000000.0,
+      "netIncome": -2487000000.0,
+      "eps": -0.131,
+      "freeCashFlow": 28863000000.0,
+      "totalDebt": 55493000000.0,
+      "cash": 23329000000.0,
+      "sharesOutstanding": 19097783000.0,
+      "grossMargin": 0.22824285808974615,
+      "operatingMargin": 0.1716999734871081,
+      "netMargin": -0.010302744084310997,
+      "roe": -0.03681553742986988,
+      "roic": 0.33684150642849015
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 210130000000.0,
+      "operatingIncome": 31049000000.0,
+      "netIncome": 15239000000.0,
+      "eps": 0.8585,
+      "freeCashFlow": 17754000000.0,
+      "totalDebt": 63075000000.0,
+      "cash": 27748000000.0,
+      "sharesOutstanding": 17900800485.0,
+      "grossMargin": 0.22877266454099843,
+      "operatingMargin": 0.14776090991291105,
+      "netMargin": 0.07252177223623471,
+      "roe": 0.21682341391232587,
+      "roic": 0.23282442748091603
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 189185000000.0,
+      "operatingIncome": 13615000000.0,
+      "netIncome": 381000000.0,
+      "eps": 0.0232,
+      "freeCashFlow": 12000000000.0,
+      "totalDebt": 71547000000.0,
+      "cash": 34360000000.0,
+      "sharesOutstanding": 16662465251.0,
+      "grossMargin": 0.15983825356132886,
+      "operatingMargin": 0.07196659354599995,
+      "netMargin": 0.0020139017363955914,
+      "roe": 0.006430813894608919,
+      "roic": 0.10409578494261926
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 189335000000.0,
+      "operatingIncome": 15808000000.0,
+      "netIncome": 55000000.0,
+      "eps": 0.0034,
+      "freeCashFlow": 11272000000.0,
+      "totalDebt": 72529000000.0,
+      "cash": 31831000000.0,
+      "sharesOutstanding": 16486312994.0,
+      "grossMargin": 0.17708822985713155,
+      "operatingMargin": 0.08349222277972905,
+      "netMargin": 0.00029049040061267066,
+      "roe": 0.001036718691095529,
+      "roic": 0.12587891480399105
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:28.351536+00:00"
+  }
+}

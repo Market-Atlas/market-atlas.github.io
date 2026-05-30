@@ -1,0 +1,128 @@
+{
+  "ticker": "LGEN",
+  "name": "Legal & General Group Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 14909150208.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 271.4,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 42039000000.0,
+    "operatingIncome": null,
+    "netIncome": 592000000.0,
+    "eps": 0.0974,
+    "freeCashFlow": 4497000000.0,
+    "totalDebt": 4898000000.0,
+    "cash": 17098000000.0,
+    "sharesOutstanding": 5697611241.0
+  },
+  "ratios": {
+    "roe": 0.25930792816469556,
+    "roic": null,
+    "grossMargin": 0.25487,
+    "operatingMargin": 0.07367,
+    "netMargin": 0.014082161802136112,
+    "debtToEquity": 24.773359999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -94939000000.0,
+      "operatingIncome": null,
+      "netIncome": 783000000.0,
+      "eps": 0.3649,
+      "freeCashFlow": 20277000000.0,
+      "totalDebt": 5557000000.0,
+      "cash": 35784000000.0,
+      "sharesOutstanding": 5973253500.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": -0.008247400962723432,
+      "roe": 0.1407766990291262,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 32689000000.0,
+      "operatingIncome": null,
+      "netIncome": 457000000.0,
+      "eps": 0.0728,
+      "freeCashFlow": -14481000000.0,
+      "totalDebt": 6120000000.0,
+      "cash": 20513000000.0,
+      "sharesOutstanding": 5979578280.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.013980238000550644,
+      "roe": 0.09469539991711562,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20613000000.0,
+      "operatingIncome": null,
+      "netIncome": 191000000.0,
+      "eps": 0.0286,
+      "freeCashFlow": -4541000000.0,
+      "totalDebt": 7699000000.0,
+      "cash": 16657000000.0,
+      "sharesOutstanding": 5893179639.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.009265997186241692,
+      "roe": 0.05383314543404735,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 42039000000.0,
+      "operatingIncome": null,
+      "netIncome": 592000000.0,
+      "eps": 0.0974,
+      "freeCashFlow": 4497000000.0,
+      "totalDebt": 4898000000.0,
+      "cash": 17098000000.0,
+      "sharesOutstanding": 5697611241.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.014082161802136112,
+      "roe": 0.25930792816469556,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:43.637151+00:00"
+  }
+}

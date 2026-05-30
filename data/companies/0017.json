@@ -1,0 +1,128 @@
+{
+  "ticker": "0017",
+  "name": "New World Development Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "currency": "HKD",
+  "marketCap": {
+    "value": 20686452736.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 8.22,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 27680500000.0,
+    "operatingIncome": 5776400000.0,
+    "netIncome": -15313200000.0,
+    "eps": -6.82,
+    "freeCashFlow": null,
+    "totalDebt": 155007000000.0,
+    "cash": 25456400000.0,
+    "sharesOutstanding": 2516600000.0
+  },
+  "ratios": {
+    "roe": -0.07699184187742403,
+    "roic": 0.016322087997540553,
+    "grossMargin": 0.41999963873484947,
+    "operatingMargin": 0.20868120156789075,
+    "netMargin": -0.5532125503513303,
+    "debtToEquity": 0.74756
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.45,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 68212700000.0,
+      "operatingIncome": 8138900000.0,
+      "netIncome": 3626400000.0,
+      "eps": 0.5,
+      "freeCashFlow": null,
+      "totalDebt": 199111000000.0,
+      "cash": 57715600000.0,
+      "sharesOutstanding": 2516600000.0,
+      "grossMargin": 0.267482448283091,
+      "operatingMargin": 0.11931649091738049,
+      "netMargin": 0.05316312065055334,
+      "roe": 0.013730767308475788,
+      "roic": 0.017570322089829726
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 54566200000.0,
+      "operatingIncome": 9444200000.0,
+      "netIncome": 3088100000.0,
+      "eps": 0.39,
+      "freeCashFlow": null,
+      "totalDebt": 195556000000.0,
+      "cash": 53263900000.0,
+      "sharesOutstanding": 2516600000.0,
+      "grossMargin": 0.3013807082039798,
+      "operatingMargin": 0.1730778393950834,
+      "netMargin": 0.05659364221807639,
+      "roe": 0.012507427056884674,
+      "roic": 0.02134488457982273
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 35782200000.0,
+      "operatingIncome": 6621100000.0,
+      "netIncome": -17507400000.0,
+      "eps": -7.73,
+      "freeCashFlow": null,
+      "totalDebt": 160952400000.0,
+      "cash": 27399600000.0,
+      "sharesOutstanding": 2516600000.0,
+      "grossMargin": 0.35909474543208636,
+      "operatingMargin": 0.1850389299707676,
+      "netMargin": -0.48927679125375184,
+      "roe": -0.08101062225027347,
+      "roic": 0.017559581270911524
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 27680500000.0,
+      "operatingIncome": 5776400000.0,
+      "netIncome": -15313200000.0,
+      "eps": -6.82,
+      "freeCashFlow": null,
+      "totalDebt": 155007000000.0,
+      "cash": 25456400000.0,
+      "sharesOutstanding": 2516600000.0,
+      "grossMargin": 0.41999963873484947,
+      "operatingMargin": 0.20868120156789075,
+      "netMargin": -0.5532125503513303,
+      "roe": -0.07699184187742403,
+      "roic": 0.016322087997540553
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:27.106843+00:00"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ticker": "RIO",
+  "name": "Rio Tinto Group",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "USD",
+  "marketCap": {
+    "value": 129579720704.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7968.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57638000000.0,
+    "operatingIncome": 15448000000.0,
+    "netIncome": 9966000000.0,
+    "eps": 6.084,
+    "freeCashFlow": 4497000000.0,
+    "totalDebt": 23517000000.0,
+    "cash": 6904000000.0,
+    "sharesOutstanding": 1627155552.0
+  },
+  "ratios": {
+    "roe": 0.1602173528607945,
+    "roic": 0.18021465235650957,
+    "grossMargin": 0.5742912661785627,
+    "operatingMargin": 0.2680176272597939,
+    "netMargin": 0.17290676289947604,
+    "debtToEquity": 0.35432
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 55554000000.0,
+      "operatingIncome": 19414000000.0,
+      "netIncome": 12392000000.0,
+      "eps": 7.621,
+      "freeCashFlow": 9384000000.0,
+      "totalDebt": 12271000000.0,
+      "cash": 5808000000.0,
+      "sharesOutstanding": 1627055000.0,
+      "grossMargin": 0.6168772725636318,
+      "operatingMargin": 0.34946178492997804,
+      "netMargin": 0.2230622457428808,
+      "roe": 0.24473673816012956,
+      "roic": 0.30862411573006915
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 54041000000.0,
+      "operatingIncome": 15712000000.0,
+      "netIncome": 10058000000.0,
+      "eps": 6.165,
+      "freeCashFlow": 8074000000.0,
+      "totalDebt": 14352000000.0,
+      "cash": 8698000000.0,
+      "sharesOutstanding": 1626314030.0,
+      "grossMargin": 0.5995632945356304,
+      "operatingMargin": 0.2907422142447401,
+      "netMargin": 0.18611794748431745,
+      "roe": 0.18425970028945152,
+      "roic": 0.22791493806028607
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 53658000000.0,
+      "operatingIncome": 14784000000.0,
+      "netIncome": 11552000000.0,
+      "eps": 7.072,
+      "freeCashFlow": 5978000000.0,
+      "totalDebt": 13855000000.0,
+      "cash": 6830000000.0,
+      "sharesOutstanding": 1626857734.0,
+      "grossMargin": 0.5643147340564315,
+      "operatingMargin": 0.27552275522755226,
+      "netMargin": 0.21528942562152895,
+      "roe": 0.20910111139268,
+      "roic": 0.2139476997438532
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 57638000000.0,
+      "operatingIncome": 15448000000.0,
+      "netIncome": 9966000000.0,
+      "eps": 6.084,
+      "freeCashFlow": 4497000000.0,
+      "totalDebt": 23517000000.0,
+      "cash": 6904000000.0,
+      "sharesOutstanding": 1627155552.0,
+      "grossMargin": 0.5742912661785627,
+      "operatingMargin": 0.2680176272597939,
+      "netMargin": 0.17290676289947604,
+      "roe": 0.1602173528607945,
+      "roic": 0.18021465235650957
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:50.520539+00:00"
+  }
+}

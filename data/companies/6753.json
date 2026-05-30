@@ -1,0 +1,128 @@
+{
+  "ticker": "6753",
+  "name": "Sharp Corporation",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 403544113152.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 621.5,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 73.05,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 649306663.0
+  },
+  "ratios": {
+    "roe": 0.20856,
+    "roic": null,
+    "grossMargin": 0.2223,
+    "operatingMargin": 0.01594,
+    "netMargin": 0.02506,
+    "debtToEquity": 1.4799600000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2495588000000.0,
+      "operatingIncome": 84717000000.0,
+      "netIncome": 73991000000.0,
+      "eps": null,
+      "freeCashFlow": 12084000000.0,
+      "totalDebt": 628853000000.0,
+      "cash": 287361000000.0,
+      "sharesOutstanding": 611952858.0,
+      "grossMargin": 0.17299490140199425,
+      "operatingMargin": 0.033946709152312,
+      "netMargin": 0.029648724068235623,
+      "roe": 0.16277105226686261,
+      "roic": 0.07819376347579525
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2548117000000.0,
+      "operatingIncome": -25719000000.0,
+      "netIncome": -260840000000.0,
+      "eps": -407.31,
+      "freeCashFlow": -42268000000.0,
+      "totalDebt": 725589000000.0,
+      "cash": 262058000000.0,
+      "sharesOutstanding": 650406538.0,
+      "grossMargin": 0.12983391265000782,
+      "operatingMargin": -0.010093335588593459,
+      "netMargin": -0.10236578618642707,
+      "roe": -1.2495808222590565,
+      "roic": -0.02752664740868065
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 2321921000000.0,
+      "operatingIncome": -20344000000.0,
+      "netIncome": -149980000000.0,
+      "eps": -230.99,
+      "freeCashFlow": 71922000000.0,
+      "totalDebt": 589856000000.0,
+      "cash": 227130000000.0,
+      "sharesOutstanding": 650406538.0,
+      "grossMargin": 0.14982809492657156,
+      "operatingMargin": -0.008761710669742856,
+      "netMargin": -0.06459306755053251,
+      "roe": -1.047507298607328,
+      "roic": -0.02775314651162156
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2160146000000.0,
+      "operatingIncome": 27338000000.0,
+      "netIncome": 36095000000.0,
+      "eps": 55.59,
+      "freeCashFlow": -40608000000.0,
+      "totalDebt": 521348000000.0,
+      "cash": 279307000000.0,
+      "sharesOutstanding": 650406538.0,
+      "grossMargin": 0.18781554580107085,
+      "operatingMargin": 0.012655626054905549,
+      "netMargin": 0.01670951870845767,
+      "roe": 0.23340403243536853,
+      "roic": 0.040441187347816696
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 73.05,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:10.845489+00:00"
+  }
+}

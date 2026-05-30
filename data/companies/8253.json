@@ -1,0 +1,111 @@
+{
+  "ticker": "8253",
+  "name": "Credit Saison Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 587853987840.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4093.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 492235000000.0,
+    "operatingIncome": 161120000000.0,
+    "netIncome": 66397000000.0,
+    "eps": 422.19,
+    "freeCashFlow": -269983000000.0,
+    "totalDebt": 3413114000000.0,
+    "cash": 139399000000.0,
+    "sharesOutstanding": 185444772.0
+  },
+  "ratios": {
+    "roe": 0.09408965562196922,
+    "roic": 0.03911826574393657,
+    "grossMargin": 0.8589718325596514,
+    "operatingMargin": 0.3273233313356425,
+    "netMargin": 0.13488882342783426,
+    "debtToEquity": 4.61372
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 362951000000.0,
+      "operatingIncome": 76476000000.0,
+      "netIncome": 35375000000.0,
+      "eps": 226.13,
+      "freeCashFlow": -86876000000.0,
+      "totalDebt": 2577924000000.0,
+      "cash": 108970000000.0,
+      "sharesOutstanding": 185444772.0,
+      "grossMargin": 0.8238412347672275,
+      "operatingMargin": 0.21070612837545563,
+      "netMargin": 0.0974649470589694,
+      "roe": 0.06290152510637692,
+      "roic": 0.024353001979740222
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 382537000000.0,
+      "operatingIncome": 94271000000.0,
+      "netIncome": 43599000000.0,
+      "eps": 278.75,
+      "freeCashFlow": -145728000000.0,
+      "totalDebt": 2813050000000.0,
+      "cash": 159671000000.0,
+      "sharesOutstanding": 185444772.0,
+      "grossMargin": 0.8434086114545782,
+      "operatingMargin": 0.24643629243707144,
+      "netMargin": 0.11397328885833266,
+      "roe": 0.07287134736528937,
+      "roic": 0.027634506094506253
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 420314000000.0,
+      "operatingIncome": 118826000000.0,
+      "netIncome": 72987000000.0,
+      "eps": 452.69,
+      "freeCashFlow": -232677000000.0,
+      "totalDebt": 3057281000000.0,
+      "cash": 108745000000.0,
+      "sharesOutstanding": 185444772.0,
+      "grossMargin": 0.8603115765832211,
+      "operatingMargin": 0.2827076899651213,
+      "netMargin": 0.17364874831673463,
+      "roe": 0.10351987722908775,
+      "roic": 0.0315830545613441
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 492235000000.0,
+      "operatingIncome": 161120000000.0,
+      "netIncome": 66397000000.0,
+      "eps": 422.19,
+      "freeCashFlow": -269983000000.0,
+      "totalDebt": 3413114000000.0,
+      "cash": 139399000000.0,
+      "sharesOutstanding": 185444772.0,
+      "grossMargin": 0.8589718325596514,
+      "operatingMargin": 0.3273233313356425,
+      "netMargin": 0.13488882342783426,
+      "roe": 0.09408965562196922,
+      "roic": 0.03911826574393657
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:13.861314+00:00"
+  }
+}

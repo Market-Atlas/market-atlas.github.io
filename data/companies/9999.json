@@ -1,0 +1,128 @@
+{
+  "ticker": "9999",
+  "name": "NetEase, Inc.",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 621814349824.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 194.1,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 112625807000.0,
+    "operatingIncome": 35834867000.0,
+    "netIncome": 33759800000.0,
+    "eps": 10.48,
+    "freeCashFlow": 48687335000.0,
+    "totalDebt": 6729742000.0,
+    "cash": 47167904000.0,
+    "sharesOutstanding": 3219564581.0
+  },
+  "ratios": {
+    "roe": 0.2106089667710545,
+    "roic": 0.21454681799245448,
+    "grossMargin": 0.6428532671912397,
+    "operatingMargin": 0.3181763394601026,
+    "netMargin": 0.29975190322054696,
+    "debtToEquity": 0.06469
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 96495809000.0,
+      "operatingIncome": 19628593000.0,
+      "netIncome": 20337600000.0,
+      "eps": 6.17,
+      "freeCashFlow": 25065749000.0,
+      "totalDebt": 28462361000.0,
+      "cash": 24889000000.0,
+      "sharesOutstanding": 3321275596.0,
+      "grossMargin": 0.5468229817110503,
+      "operatingMargin": 0.20341394308637797,
+      "netMargin": 0.21076148498843095,
+      "roe": 0.19418833432601634,
+      "roic": 0.14736880379562758
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 103468159000.0,
+      "operatingIncome": 27709144000.0,
+      "netIncome": 29416552000.0,
+      "eps": 9.05,
+      "freeCashFlow": 31055398000.0,
+      "totalDebt": 20483482000.0,
+      "cash": 21428902000.0,
+      "sharesOutstanding": 3321276141.0,
+      "grossMargin": 0.6094956613657347,
+      "operatingMargin": 0.2678035858355226,
+      "netMargin": 0.28430535813438024,
+      "roe": 0.2366847836231879,
+      "roic": 0.1914021276533724
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 105295236000.0,
+      "operatingIncome": 29583990000.0,
+      "netIncome": 29697609000.0,
+      "eps": 9.19,
+      "freeCashFlow": 37470425000.0,
+      "totalDebt": 12817257000.0,
+      "cash": 51383310000.0,
+      "sharesOutstanding": 3211276016.0,
+      "grossMargin": 0.6249768413074263,
+      "operatingMargin": 0.2809622839916518,
+      "netMargin": 0.2820413356592885,
+      "roe": 0.21413620242608306,
+      "roic": 0.19527017123102156
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 112625807000.0,
+      "operatingIncome": 35834867000.0,
+      "netIncome": 33759800000.0,
+      "eps": 10.48,
+      "freeCashFlow": 48687335000.0,
+      "totalDebt": 6729742000.0,
+      "cash": 47167904000.0,
+      "sharesOutstanding": 3219564581.0,
+      "grossMargin": 0.6428532671912397,
+      "operatingMargin": 0.3181763394601026,
+      "netMargin": 0.29975190322054696,
+      "roe": 0.2106089667710545,
+      "roic": 0.21454681799245448
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:43.062378+00:00"
+  }
+}

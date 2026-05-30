@@ -1,0 +1,128 @@
+{
+  "ticker": "BAS",
+  "name": "BASF SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 44941410304.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 50.82,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 59656000000.0,
+    "operatingIncome": 2860000000.0,
+    "netIncome": 1619000000.0,
+    "eps": 1.81,
+    "freeCashFlow": 1343000000.0,
+    "totalDebt": 23209000000.0,
+    "cash": 2670000000.0,
+    "sharesOutstanding": 892522164.0
+  },
+  "ratios": {
+    "roe": 0.04877387479665,
+    "roic": 0.050706522702693116,
+    "grossMargin": 0.24067989808233875,
+    "operatingMargin": 0.04794153144696259,
+    "netMargin": 0.027138929864556793,
+    "debtToEquity": 0.66724
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 87327000000.0,
+      "operatingIncome": 7361000000.0,
+      "netIncome": -627000000.0,
+      "eps": -0.7,
+      "freeCashFlow": 3334000000.0,
+      "totalDebt": 20949000000.0,
+      "cash": 2516000000.0,
+      "sharesOutstanding": 893854929.0,
+      "grossMargin": 0.24124268553826422,
+      "operatingMargin": 0.084292372347613,
+      "netMargin": -0.007179909993472809,
+      "roe": -0.01584413615343795,
+      "roic": 0.12162519414427811
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 68902000000.0,
+      "operatingIncome": 3258000000.0,
+      "netIncome": 225000000.0,
+      "eps": 0.25,
+      "freeCashFlow": 2716000000.0,
+      "totalDebt": 21347000000.0,
+      "cash": 2624000000.0,
+      "sharesOutstanding": 892522164.0,
+      "grossMargin": 0.24240225247452904,
+      "operatingMargin": 0.04728454906969319,
+      "netMargin": 0.003265507532437375,
+      "roe": 0.006378093375287015,
+      "roic": 0.057537439954789486
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 61443000000.0,
+      "operatingIncome": 2970000000.0,
+      "netIncome": 1298000000.0,
+      "eps": 1.45,
+      "freeCashFlow": 748000000.0,
+      "totalDebt": 23995000000.0,
+      "cash": 2914000000.0,
+      "sharesOutstanding": 892522164.0,
+      "grossMargin": 0.2476767084940514,
+      "operatingMargin": 0.04833748352131244,
+      "netMargin": 0.02112527057598099,
+      "roe": 0.03646169836231355,
+      "roic": 0.04983723193610095
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 59656000000.0,
+      "operatingIncome": 2860000000.0,
+      "netIncome": 1619000000.0,
+      "eps": 1.81,
+      "freeCashFlow": 1343000000.0,
+      "totalDebt": 23209000000.0,
+      "cash": 2670000000.0,
+      "sharesOutstanding": 892522164.0,
+      "grossMargin": 0.24067989808233875,
+      "operatingMargin": 0.04794153144696259,
+      "netMargin": 0.027138929864556793,
+      "roe": 0.04877387479665,
+      "roic": 0.050706522702693116
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:13.672095+00:00"
+  }
+}

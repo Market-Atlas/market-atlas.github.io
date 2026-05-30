@@ -1,0 +1,111 @@
+{
+  "ticker": "NA",
+  "name": "National Bank of Canada",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 77544611840.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 201.34,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 14016000000.0,
+    "operatingIncome": null,
+    "netIncome": 4017000000.0,
+    "eps": 10.07,
+    "freeCashFlow": 4133000000.0,
+    "totalDebt": 108489000000.0,
+    "cash": 27916000000.0,
+    "sharesOutstanding": 391065541.0
+  },
+  "ratios": {
+    "roe": 0.11895525481950901,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.43958,
+    "netMargin": 0.2866010273972603,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 9619000000.0,
+      "operatingIncome": null,
+      "netIncome": 3384000000.0,
+      "eps": 9.61,
+      "freeCashFlow": -2592000000.0,
+      "totalDebt": 44877000000.0,
+      "cash": 31870000000.0,
+      "sharesOutstanding": 336582124.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.351803721800603,
+      "roe": 0.15562913907284767,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 10049000000.0,
+      "operatingIncome": null,
+      "netIncome": 3291000000.0,
+      "eps": 9.24,
+      "freeCashFlow": 4515000000.0,
+      "totalDebt": 53512000000.0,
+      "cash": 35234000000.0,
+      "sharesOutstanding": 338284629.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3274952731615086,
+      "roe": 0.13955559324908828,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 11407000000.0,
+      "operatingIncome": null,
+      "netIncome": 3817000000.0,
+      "eps": 10.68,
+      "freeCashFlow": 3949000000.0,
+      "totalDebt": 74783000000.0,
+      "cash": 31549000000.0,
+      "sharesOutstanding": 340743876.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33461909353905495,
+      "roe": 0.14939334637964774,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 14016000000.0,
+      "operatingIncome": null,
+      "netIncome": 4017000000.0,
+      "eps": 10.07,
+      "freeCashFlow": 4133000000.0,
+      "totalDebt": 108489000000.0,
+      "cash": 27916000000.0,
+      "sharesOutstanding": 391065541.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2866010273972603,
+      "roe": 0.11895525481950901,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:06.993827+00:00"
+  }
+}

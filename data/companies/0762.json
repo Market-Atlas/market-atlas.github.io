@@ -1,0 +1,128 @@
+{
+  "ticker": "0762",
+  "name": "China Unicom (Hong Kong) Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 233462743040.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 7.63,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 392223000000.0,
+    "operatingIncome": 21988000000.0,
+    "netIncome": 20816000000.0,
+    "eps": 0.68,
+    "freeCashFlow": 22534000000.0,
+    "totalDebt": 34087000000.0,
+    "cash": 25109000000.0,
+    "sharesOutstanding": 30598000000.0
+  },
+  "ratios": {
+    "roe": 0.056521904410207394,
+    "roic": 0.05464635695095795,
+    "grossMargin": 0.6883711562045061,
+    "operatingMargin": 0.05605994549019308,
+    "netMargin": 0.053071849432593195,
+    "debtToEquity": 0.09191
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 354944000000.0,
+      "operatingIncome": 24337000000.0,
+      "netIncome": 16745000000.0,
+      "eps": 0.55,
+      "freeCashFlow": 28067000000.0,
+      "totalDebt": 56176000000.0,
+      "cash": 55297000000.0,
+      "sharesOutstanding": 30598000000.0,
+      "grossMargin": 0.7059846060223585,
+      "operatingMargin": 0.06856574558240174,
+      "netMargin": 0.04717645600432744,
+      "roe": 0.049016594510258506,
+      "roic": 0.06117975339056549
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 372597000000.0,
+      "operatingIncome": 25409000000.0,
+      "netIncome": 18726000000.0,
+      "eps": 0.61,
+      "freeCashFlow": 23016000000.0,
+      "totalDebt": 45544000000.0,
+      "cash": 47733000000.0,
+      "sharesOutstanding": 30598000000.0,
+      "grossMargin": 0.7040394850200082,
+      "operatingMargin": 0.06819432255224814,
+      "netMargin": 0.05025805360751697,
+      "roe": 0.053278478635688555,
+      "roic": 0.0639996171458221
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 389589000000.0,
+      "operatingIncome": 22766000000.0,
+      "netIncome": 20613000000.0,
+      "eps": 0.67,
+      "freeCashFlow": 13662000000.0,
+      "totalDebt": 41207000000.0,
+      "cash": 28480000000.0,
+      "sharesOutstanding": 30598000000.0,
+      "grossMargin": 0.689760234503541,
+      "operatingMargin": 0.05843594146651985,
+      "netMargin": 0.05290960473730008,
+      "roe": 0.057092606184824604,
+      "roic": 0.056596362479241866
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 392223000000.0,
+      "operatingIncome": 21988000000.0,
+      "netIncome": 20816000000.0,
+      "eps": 0.68,
+      "freeCashFlow": 22534000000.0,
+      "totalDebt": 34087000000.0,
+      "cash": 25109000000.0,
+      "sharesOutstanding": 30598000000.0,
+      "grossMargin": 0.6883711562045061,
+      "operatingMargin": 0.05605994549019308,
+      "netMargin": 0.053071849432593195,
+      "roe": 0.056521904410207394,
+      "roic": 0.05464635695095795
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:30.006627+00:00"
+  }
+}

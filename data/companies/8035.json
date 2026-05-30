@@ -1,0 +1,128 @@
+{
+  "ticker": "8035",
+  "name": "Tokyo Electron Limited",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 23946357374976.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 52420.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 1250.88,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 454847594.0
+  },
+  "ratios": {
+    "roe": 0.2927,
+    "roic": null,
+    "grossMargin": 0.45339,
+    "operatingMargin": 0.2889,
+    "netMargin": 0.23509,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 2003805000000.0,
+      "operatingIncome": 599271000000.0,
+      "netIncome": 437076000000.0,
+      "eps": 931.3,
+      "freeCashFlow": 218284000000.0,
+      "totalDebt": null,
+      "cash": 274274000000.0,
+      "sharesOutstanding": 471632733.0,
+      "grossMargin": 0.4550452763617218,
+      "operatingMargin": 0.2990665259344098,
+      "netMargin": 0.2181230209526376,
+      "roe": 0.324469747529225,
+      "roic": 0.44487757294288915
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 2209025000000.0,
+      "operatingIncome": 617726000000.0,
+      "netIncome": 471584000000.0,
+      "eps": 1003.86,
+      "freeCashFlow": 349957000000.0,
+      "totalDebt": null,
+      "cash": 473099000000.0,
+      "sharesOutstanding": 471632733.0,
+      "grossMargin": 0.4456300856712803,
+      "operatingMargin": 0.2796373965889929,
+      "netMargin": 0.21348060796052556,
+      "roe": 0.2948280798888668,
+      "roic": 0.3861941254949916
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1830527000000.0,
+      "operatingIncome": 456264000000.0,
+      "netIncome": 363963000000.0,
+      "eps": 781.2,
+      "freeCashFlow": 309740000000.0,
+      "totalDebt": null,
+      "cash": 462383000000.0,
+      "sharesOutstanding": 471632733.0,
+      "grossMargin": 0.4535688356413208,
+      "operatingMargin": 0.24925281080257217,
+      "netMargin": 0.1988296266594265,
+      "roe": 0.20677624649325238,
+      "roic": 0.25921469305945194
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 2431568000000.0,
+      "operatingIncome": 697320000000.0,
+      "netIncome": 544133000000.0,
+      "eps": null,
+      "freeCashFlow": 414135000000.0,
+      "totalDebt": null,
+      "cash": 416240000000.0,
+      "sharesOutstanding": 471632733.0,
+      "grossMargin": 0.47141926526422456,
+      "operatingMargin": 0.28677791449797,
+      "netMargin": 0.22377864818092688,
+      "roe": 0.29330058225339933,
+      "roic": 0.37587200558859774
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1250.88,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:03.504755+00:00"
+  }
+}

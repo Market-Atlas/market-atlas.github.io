@@ -1,0 +1,128 @@
+{
+  "ticker": "G24",
+  "name": "Scout24 SE",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 5109193216.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 72.25,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 649561000.0,
+    "operatingIncome": 291710000.0,
+    "netIncome": 240043000.0,
+    "eps": 3.33,
+    "freeCashFlow": 263765000.0,
+    "totalDebt": 149441000.0,
+    "cash": 49497000.0,
+    "sharesOutstanding": 75000000.0
+  },
+  "ratios": {
+    "roe": 0.1624680705905604,
+    "roic": 0.1793021041613012,
+    "grossMargin": 0.9947503005876276,
+    "operatingMargin": 0.44908792245839885,
+    "netMargin": 0.3695465091038409,
+    "debtToEquity": 0.25206
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 447539000.0,
+      "operatingIncome": 197524000.0,
+      "netIncome": 123531000.0,
+      "eps": 1.59,
+      "freeCashFlow": 132321000.0,
+      "totalDebt": 161630000.0,
+      "cash": 39085000.0,
+      "sharesOutstanding": 80200000.0,
+      "grossMargin": 1.0151070632950425,
+      "operatingMargin": 0.4413559488670261,
+      "netMargin": 0.2760228717497246,
+      "roe": 0.09160853888789187,
+      "roic": 0.13080228011993938
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 509114000.0,
+      "operatingIncome": 242400000.0,
+      "netIncome": 178778000.0,
+      "eps": 2.43,
+      "freeCashFlow": 176660000.0,
+      "totalDebt": 177360000.0,
+      "cash": 48463000.0,
+      "sharesOutstanding": 75000000.0,
+      "grossMargin": 1.002793087599241,
+      "operatingMargin": 0.47612126164277546,
+      "netMargin": 0.35115514403453846,
+      "roe": 0.12353252525196688,
+      "roic": 0.14920834631109448
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 566340000.0,
+      "operatingIncome": 254170000.0,
+      "netIncome": 162104000.0,
+      "eps": 2.22,
+      "freeCashFlow": 232108000.0,
+      "totalDebt": 179684000.0,
+      "cash": 55476000.0,
+      "sharesOutstanding": 75000000.0,
+      "grossMargin": 1.002311332415157,
+      "operatingMargin": 0.4487940106649716,
+      "netMargin": 0.28623088604018787,
+      "roe": 0.1131745623931815,
+      "roic": 0.15767174104539647
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 649561000.0,
+      "operatingIncome": 291710000.0,
+      "netIncome": 240043000.0,
+      "eps": 3.33,
+      "freeCashFlow": 263765000.0,
+      "totalDebt": 149441000.0,
+      "cash": 49497000.0,
+      "sharesOutstanding": 75000000.0,
+      "grossMargin": 0.9947503005876276,
+      "operatingMargin": 0.44908792245839885,
+      "netMargin": 0.3695465091038409,
+      "roe": 0.1624680705905604,
+      "roic": 0.1793021041613012
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:19.813569+00:00"
+  }
+}

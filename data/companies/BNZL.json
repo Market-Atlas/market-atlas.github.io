@@ -1,0 +1,128 @@
+{
+  "ticker": "BNZL",
+  "name": "Bunzl plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 7556702720.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2354.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 11845400000.0,
+    "operatingIncome": 758300000.0,
+    "netIncome": 459200000.0,
+    "eps": 1.409,
+    "freeCashFlow": 841500000.0,
+    "totalDebt": 2895400000.0,
+    "cash": 540100000.0,
+    "sharesOutstanding": 324211429.0
+  },
+  "ratios": {
+    "roe": 0.16464682681964862,
+    "roic": 0.1334001829568644,
+    "grossMargin": 0.2885255035710065,
+    "operatingMargin": 0.06401641143397437,
+    "netMargin": 0.03876610329748257,
+    "debtToEquity": 1.05926
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12039500000.0,
+      "operatingIncome": 757600000.0,
+      "netIncome": 474400000.0,
+      "eps": 1.407,
+      "freeCashFlow": 904900000.0,
+      "totalDebt": 3130800000.0,
+      "cash": 1504000000.0,
+      "sharesOutstanding": 337667846.0,
+      "grossMargin": 0.25121475144316624,
+      "operatingMargin": 0.06292620125420491,
+      "netMargin": 0.03940362971884215,
+      "roe": 0.17435407401962585,
+      "roic": 0.12946665071688568
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11797100000.0,
+      "operatingIncome": 806900000.0,
+      "netIncome": 526200000.0,
+      "eps": 1.56,
+      "freeCashFlow": 845700000.0,
+      "totalDebt": 3085800000.0,
+      "cash": 1426100000.0,
+      "sharesOutstanding": 338021077.0,
+      "grossMargin": 0.2702274287748684,
+      "operatingMargin": 0.0683981656508803,
+      "netMargin": 0.04460418238380619,
+      "roe": 0.17739271145871963,
+      "roic": 0.13332562251119445
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11776400000.0,
+      "operatingIncome": 820800000.0,
+      "netIncome": 500400000.0,
+      "eps": 1.487,
+      "freeCashFlow": 856500000.0,
+      "totalDebt": 3722900000.0,
+      "cash": 1432900000.0,
+      "sharesOutstanding": 331176520.0,
+      "grossMargin": 0.2880846438639992,
+      "operatingMargin": 0.06969871947284399,
+      "netMargin": 0.042491763187391736,
+      "roe": 0.1795221353232403,
+      "roic": 0.1260771393023363
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11845400000.0,
+      "operatingIncome": 758300000.0,
+      "netIncome": 459200000.0,
+      "eps": 1.409,
+      "freeCashFlow": 841500000.0,
+      "totalDebt": 2895400000.0,
+      "cash": 540100000.0,
+      "sharesOutstanding": 324211429.0,
+      "grossMargin": 0.2885255035710065,
+      "operatingMargin": 0.06401641143397437,
+      "netMargin": 0.03876610329748257,
+      "roe": 0.16464682681964862,
+      "roic": 0.1334001829568644
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:27.971166+00:00"
+  }
+}

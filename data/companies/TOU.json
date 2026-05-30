@@ -1,0 +1,128 @@
+{
+  "ticker": "TOU",
+  "name": "Tourmaline Oil Corp.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 24471044096.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 63.02,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6302997000.0,
+    "operatingIncome": 38103000.0,
+    "netIncome": 262672000.0,
+    "eps": 0.68,
+    "freeCashFlow": 379117000.0,
+    "totalDebt": 1891291000.0,
+    "cash": null,
+    "sharesOutstanding": 387057403.0
+  },
+  "ratios": {
+    "roe": 0.01701653727666734,
+    "roic": 0.0021989812881426127,
+    "grossMargin": 0.42377316695533884,
+    "operatingMargin": 0.006045219440846949,
+    "netMargin": 0.041674143268670444,
+    "debtToEquity": 0.07135
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 0.0,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8677648000.0,
+      "operatingIncome": 4496517000.0,
+      "netIncome": 4487049000.0,
+      "eps": 13.1,
+      "freeCashFlow": 2741895000.0,
+      "totalDebt": 629264000.0,
+      "cash": null,
+      "sharesOutstanding": 338684709.0,
+      "grossMargin": 0.7299509037471905,
+      "operatingMargin": 0.5181723204259956,
+      "netMargin": 0.5170812413686289,
+      "roe": 0.3278364281402014,
+      "roic": 0.31408775158794805
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6242240000.0,
+      "operatingIncome": 2214742000.0,
+      "netIncome": 1735880000.0,
+      "eps": 5.03,
+      "freeCashFlow": 2325054000.0,
+      "totalDebt": 1126542000.0,
+      "cash": null,
+      "sharesOutstanding": 351350749.0,
+      "grossMargin": 0.6841087494232839,
+      "operatingMargin": 0.35479923873481317,
+      "netMargin": 0.2780860716665812,
+      "roe": 0.12385208612795703,
+      "roic": 0.14626199611908183
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5650043000.0,
+      "operatingIncome": 1172638000.0,
+      "netIncome": 1264109000.0,
+      "eps": 3.51,
+      "freeCashFlow": 470627000.0,
+      "totalDebt": 1304164000.0,
+      "cash": null,
+      "sharesOutstanding": 373684018.0,
+      "grossMargin": 0.622950834179492,
+      "operatingMargin": 0.20754496912678363,
+      "netMargin": 0.22373440343728357,
+      "roe": 0.08132684370199782,
+      "roic": 0.06960214457403396
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6302997000.0,
+      "operatingIncome": 38103000.0,
+      "netIncome": 262672000.0,
+      "eps": 0.68,
+      "freeCashFlow": 379117000.0,
+      "totalDebt": 1891291000.0,
+      "cash": null,
+      "sharesOutstanding": 387057403.0,
+      "grossMargin": 0.42377316695533884,
+      "operatingMargin": 0.006045219440846949,
+      "netMargin": 0.041674143268670444,
+      "roe": 0.01701653727666734,
+      "roic": 0.0021989812881426127
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.898708+00:00"
+  }
+}

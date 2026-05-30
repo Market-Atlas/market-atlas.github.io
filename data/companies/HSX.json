@@ -1,0 +1,128 @@
+{
+  "ticker": "HSX",
+  "name": "Hiscox Ltd",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "USD",
+  "marketCap": {
+    "value": 5610430976.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1749.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 3950900000.0,
+    "operatingIncome": null,
+    "netIncome": 604100000.0,
+    "eps": 1.75,
+    "freeCashFlow": 26400000.0,
+    "totalDebt": 902000000.0,
+    "cash": 878000000.0,
+    "sharesOutstanding": 332375257.0
+  },
+  "ratios": {
+    "roe": 0.1530607074085335,
+    "roic": null,
+    "grossMargin": 0.24731001,
+    "operatingMargin": 0.22083001,
+    "netMargin": 0.1529018704598952,
+    "debtToEquity": 0.22848
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2849700000.0,
+      "operatingIncome": null,
+      "netIncome": 253900000.0,
+      "eps": 0.738,
+      "freeCashFlow": 290600000.0,
+      "totalDebt": 715800000.0,
+      "cash": 1350900000.0,
+      "sharesOutstanding": 354067000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08909709794013405,
+      "roe": 0.0963969778655226,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3580200000.0,
+      "operatingIncome": null,
+      "netIncome": 712000000.0,
+      "eps": 2.015,
+      "freeCashFlow": 188400000.0,
+      "totalDebt": 754200000.0,
+      "cash": 1437000000.0,
+      "sharesOutstanding": 354135744.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.19887157142059103,
+      "roe": 0.21604563660638426,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3675600000.0,
+      "operatingIncome": null,
+      "netIncome": 627200000.0,
+      "eps": 1.781,
+      "freeCashFlow": 75300000.0,
+      "totalDebt": 743000000.0,
+      "cash": 1227000000.0,
+      "sharesOutstanding": 347502878.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.17063880726956143,
+      "roe": 0.1700281934504446,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3950900000.0,
+      "operatingIncome": null,
+      "netIncome": 604100000.0,
+      "eps": 1.75,
+      "freeCashFlow": 26400000.0,
+      "totalDebt": 902000000.0,
+      "cash": 878000000.0,
+      "sharesOutstanding": 332375257.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1529018704598952,
+      "roe": 0.1530607074085335,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:40.706561+00:00"
+  }
+}

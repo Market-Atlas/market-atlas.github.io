@@ -22,6 +22,19 @@ _SUFFIX_MAP = {
     ".L":  {"exchange": "XLON", "country": "GB", "currency_fallback": "GBP"},
     ".TO": {"exchange": "XTSE", "country": "CA", "currency_fallback": "CAD"},
     ".AX": {"exchange": "XASX", "country": "AU", "currency_fallback": "AUD"},
+    ".HK": {"exchange": "XHKG", "country": "HK", "currency_fallback": "HKD"},
+    ".DE": {"exchange": "XETR", "country": "DE", "currency_fallback": "EUR"},
+    ".PA": {"exchange": "XPAR", "country": "FR", "currency_fallback": "EUR"},
+    ".AS": {"exchange": "XAMS", "country": "NL", "currency_fallback": "EUR"},
+    ".SW": {"exchange": "XSWX", "country": "CH", "currency_fallback": "CHF"},
+    ".MI": {"exchange": "XMIL", "country": "IT", "currency_fallback": "EUR"},
+    ".MC": {"exchange": "XMAD", "country": "ES", "currency_fallback": "EUR"},
+    ".BR": {"exchange": "XBRU", "country": "BE", "currency_fallback": "EUR"},
+    ".LS": {"exchange": "XLIS", "country": "PT", "currency_fallback": "EUR"},
+    ".HE": {"exchange": "XHEL", "country": "FI", "currency_fallback": "EUR"},
+    ".ST": {"exchange": "XSTO", "country": "SE", "currency_fallback": "SEK"},
+    ".OL": {"exchange": "XOSL", "country": "NO", "currency_fallback": "NOK"},
+    ".CO": {"exchange": "XCSE", "country": "DK", "currency_fallback": "DKK"},
 }
 
 

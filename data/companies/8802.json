@@ -1,0 +1,111 @@
+{
+  "ticker": "8802",
+  "name": "Mitsubishi Estate Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 4893443096576.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 4056.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1579812000000.0,
+    "operatingIncome": 309232000000.0,
+    "netIncome": 189356000000.0,
+    "eps": 151.04,
+    "freeCashFlow": -119685000000.0,
+    "totalDebt": 3336986000000.0,
+    "cash": 253834000000.0,
+    "sharesOutstanding": 1250838706.0
+  },
+  "ratios": {
+    "roe": 0.0738621071116794,
+    "roic": 0.052406625193115036,
+    "grossMargin": 0.2645669231528815,
+    "operatingMargin": 0.19573974624828777,
+    "netMargin": 0.11985983142297944,
+    "debtToEquity": 1.24477
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 1349489000000.0,
+      "operatingIncome": 278978000000.0,
+      "netIncome": 155171000000.0,
+      "eps": 116.44,
+      "freeCashFlow": -49024000000.0,
+      "totalDebt": 2736877000000.0,
+      "cash": 233117000000.0,
+      "sharesOutstanding": 1391478706.0,
+      "grossMargin": 0.2777088216354487,
+      "operatingMargin": 0.20672862098171974,
+      "netMargin": 0.11498500543539072,
+      "roe": 0.07745293929439764,
+      "roic": 0.058852393308440394
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 1377827000000.0,
+      "operatingIncome": 296702000000.0,
+      "netIncome": 165343000000.0,
+      "eps": 125.53,
+      "freeCashFlow": -16608000000.0,
+      "totalDebt": 2870206000000.0,
+      "cash": 225011000000.0,
+      "sharesOutstanding": 1324288306.0,
+      "grossMargin": 0.2881602697581046,
+      "operatingMargin": 0.21534053259226305,
+      "netMargin": 0.12000272893476467,
+      "roe": 0.07662746999074499,
+      "roic": 0.059010448975597846
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 1504687000000.0,
+      "operatingIncome": 278627000000.0,
+      "netIncome": 168432000000.0,
+      "eps": 131.96,
+      "freeCashFlow": -144153000000.0,
+      "totalDebt": 3136622000000.0,
+      "cash": 273951000000.0,
+      "sharesOutstanding": 1324288306.0,
+      "grossMargin": 0.260701395040962,
+      "operatingMargin": 0.18517273027546594,
+      "netMargin": 0.11193823034292182,
+      "roe": 0.07014565785500848,
+      "roic": 0.05031368972174314
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1579812000000.0,
+      "operatingIncome": 309232000000.0,
+      "netIncome": 189356000000.0,
+      "eps": 151.04,
+      "freeCashFlow": -119685000000.0,
+      "totalDebt": 3336986000000.0,
+      "cash": 253834000000.0,
+      "sharesOutstanding": 1250838706.0,
+      "grossMargin": 0.2645669231528815,
+      "operatingMargin": 0.19573974624828777,
+      "netMargin": 0.11985983142297944,
+      "roe": 0.0738621071116794,
+      "roic": 0.052406625193115036
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:16.666635+00:00"
+  }
+}

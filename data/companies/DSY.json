@@ -1,0 +1,128 @@
+{
+  "ticker": "DSY",
+  "name": "Dassault Systèmes SE",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 24696455168.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 18.805,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6235700000.0,
+    "operatingIncome": 1394600000.0,
+    "netIncome": 1196000000.0,
+    "eps": 0.9,
+    "freeCashFlow": 1469300000.0,
+    "totalDebt": 3169200000.0,
+    "cash": 4125400000.0,
+    "sharesOutstanding": 1341806268.0
+  },
+  "ratios": {
+    "roe": 0.13602347428519437,
+    "roic": 0.11658780451102677,
+    "grossMargin": 0.837291723463284,
+    "operatingMargin": 0.22364770595121639,
+    "netMargin": 0.19179883573616435,
+    "debtToEquity": 0.26856
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5665200000.0,
+      "operatingIncome": 1314400000.0,
+      "netIncome": 931500000.0,
+      "eps": 0.7,
+      "freeCashFlow": 1392900000.0,
+      "totalDebt": 3576800000.0,
+      "cash": 2769000000.0,
+      "sharesOutstanding": 1335039708.0,
+      "grossMargin": 0.8377285885758667,
+      "operatingMargin": 0.23201299159782532,
+      "netMargin": 0.16442490997669984,
+      "roe": 0.12741597931798596,
+      "roic": 0.1207256027554535
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5951400000.0,
+      "operatingIncome": 1290300000.0,
+      "netIncome": 1050900000.0,
+      "eps": 0.79,
+      "freeCashFlow": 1419900000.0,
+      "totalDebt": 3600900000.0,
+      "cash": 3568300000.0,
+      "sharesOutstanding": 1337916433.0,
+      "grossMargin": 0.8368451120744699,
+      "operatingMargin": 0.21680612965016635,
+      "netMargin": 0.17658030043351144,
+      "roe": 0.13414431779017372,
+      "roic": 0.11283777874945343
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6213600000.0,
+      "operatingIncome": 1375900000.0,
+      "netIncome": 1200200000.0,
+      "eps": 0.9,
+      "freeCashFlow": 1466400000.0,
+      "totalDebt": 3062200000.0,
+      "cash": 3952600000.0,
+      "sharesOutstanding": 1339674751.0,
+      "grossMargin": 0.836439423200721,
+      "operatingMargin": 0.2214336294579632,
+      "netMargin": 0.19315694605381745,
+      "roe": 0.13237597335274523,
+      "roic": 0.1134407360992019
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6235700000.0,
+      "operatingIncome": 1394600000.0,
+      "netIncome": 1196000000.0,
+      "eps": 0.9,
+      "freeCashFlow": 1469300000.0,
+      "totalDebt": 3169200000.0,
+      "cash": 4125400000.0,
+      "sharesOutstanding": 1341806268.0,
+      "grossMargin": 0.837291723463284,
+      "operatingMargin": 0.22364770595121639,
+      "netMargin": 0.19179883573616435,
+      "roe": 0.13602347428519437,
+      "roic": 0.11658780451102677
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:17.208709+00:00"
+  }
+}

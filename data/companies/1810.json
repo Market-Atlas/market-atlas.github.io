@@ -1,0 +1,128 @@
+{
+  "ticker": "1810",
+  "name": "Xiaomi Corporation",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 723219316736.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 28.04,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 457286687000.0,
+    "operatingIncome": 31543222000.0,
+    "netIncome": 41643389000.0,
+    "eps": 1.56,
+    "freeCashFlow": 21373222000.0,
+    "totalDebt": 41837896000.0,
+    "cash": 26914377000.0,
+    "sharesOutstanding": 26047235278.0
+  },
+  "ratios": {
+    "roe": 0.15642550692567717,
+    "roic": 0.10239425613005212,
+    "grossMargin": 0.2226302446456308,
+    "operatingMargin": 0.06897909538311138,
+    "netMargin": 0.09106626145886465,
+    "debtToEquity": 0.13294
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 280044016000.0,
+      "operatingIncome": 6122119000.0,
+      "netIncome": 2474030000.0,
+      "eps": 0.1,
+      "freeCashFlow": -10189300000.0,
+      "totalDebt": 26056130000.0,
+      "cash": 27607261000.0,
+      "sharesOutstanding": 24951334000.0,
+      "grossMargin": 0.16989182871881112,
+      "operatingMargin": 0.021861274121993738,
+      "netMargin": 0.008834432655757944,
+      "roe": 0.01722161043939369,
+      "roic": 0.03607302749955708
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 270970141000.0,
+      "operatingIncome": 14765291000.0,
+      "netIncome": 17475173000.0,
+      "eps": 0.69,
+      "freeCashFlow": 35031595000.0,
+      "totalDebt": 29825511000.0,
+      "cash": 33631313000.0,
+      "sharesOutstanding": 25082426507.0,
+      "grossMargin": 0.2121128135664217,
+      "operatingMargin": 0.0544904724391755,
+      "netMargin": 0.06449113889637013,
+      "roe": 0.10655886394533694,
+      "roic": 0.07618003725086549
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 365906350000.0,
+      "operatingIncome": 23185613000.0,
+      "netIncome": 23658126000.0,
+      "eps": 0.93,
+      "freeCashFlow": 31998192000.0,
+      "totalDebt": 36011374000.0,
+      "cash": 33661442000.0,
+      "sharesOutstanding": 25099151810.0,
+      "grossMargin": 0.20923439563155982,
+      "operatingMargin": 0.06336488284502305,
+      "netMargin": 0.06465623239388986,
+      "roe": 0.12534918221485675,
+      "roic": 0.10316218280174949
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 457286687000.0,
+      "operatingIncome": 31543222000.0,
+      "netIncome": 41643389000.0,
+      "eps": 1.56,
+      "freeCashFlow": 21373222000.0,
+      "totalDebt": 41837896000.0,
+      "cash": 26914377000.0,
+      "sharesOutstanding": 26047235278.0,
+      "grossMargin": 0.2226302446456308,
+      "operatingMargin": 0.06897909538311138,
+      "netMargin": 0.09106626145886465,
+      "roe": 0.15642550692567717,
+      "roic": 0.10239425613005212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:35.240732+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "8830",
+  "name": "Sumitomo Realty & Development Co., Ltd.",
+  "country": "JP",
+  "exchange": "XTKS",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "currency": "JPY",
+  "marketCap": {
+    "value": 3433081864192.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 3717.0,
+    "currency": "JPY",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 1014239000000.0,
+    "operatingIncome": 271517000000.0,
+    "netIncome": 191681000000.0,
+    "eps": 202.555,
+    "freeCashFlow": 87655000000.0,
+    "totalDebt": 3891925000000.0,
+    "cash": 99020000000.0,
+    "sharesOutstanding": 952171956.0
+  },
+  "ratios": {
+    "roe": 0.08840950434112017,
+    "roic": 0.044804571067234164,
+    "grossMargin": 0.34634637398088614,
+    "operatingMargin": 0.26770514642012383,
+    "netMargin": 0.18898997179165858,
+    "debtToEquity": 1.6092199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 939430000000.0,
+      "operatingIncome": 233885000000.0,
+      "netIncome": 150452000000.0,
+      "eps": 158.725,
+      "freeCashFlow": 13414000000.0,
+      "totalDebt": 3559992000000.0,
+      "cash": 151392000000.0,
+      "sharesOutstanding": 952171956.0,
+      "grossMargin": 0.32194309315223063,
+      "operatingMargin": 0.24896479780292305,
+      "netMargin": 0.16015243285822253,
+      "roe": 0.09207312632607713,
+      "roic": 0.045029486675211075
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 939904000000.0,
+      "operatingIncome": 241277000000.0,
+      "netIncome": 161925000000.0,
+      "eps": 170.83,
+      "freeCashFlow": -284233000000.0,
+      "totalDebt": 3938021000000.0,
+      "cash": 185119000000.0,
+      "sharesOutstanding": 952171956.0,
+      "grossMargin": 0.3345575718371238,
+      "operatingMargin": 0.256703876140542,
+      "netMargin": 0.1722782326705706,
+      "roe": 0.08998987978563597,
+      "roic": 0.04205344241893962
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 967692000000.0,
+      "operatingIncome": 254668000000.0,
+      "netIncome": 177171000000.0,
+      "eps": 186.915,
+      "freeCashFlow": 43636000000.0,
+      "totalDebt": 3961564000000.0,
+      "cash": 103911000000.0,
+      "sharesOutstanding": 952171956.0,
+      "grossMargin": 0.34344605514977905,
+      "operatingMargin": 0.2631705129318006,
+      "netMargin": 0.18308614724519784,
+      "roe": 0.08640043304821075,
+      "roic": 0.04235893218791832
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 1014239000000.0,
+      "operatingIncome": 271517000000.0,
+      "netIncome": 191681000000.0,
+      "eps": 202.555,
+      "freeCashFlow": 87655000000.0,
+      "totalDebt": 3891925000000.0,
+      "cash": 99020000000.0,
+      "sharesOutstanding": 952171956.0,
+      "grossMargin": 0.34634637398088614,
+      "operatingMargin": 0.26770514642012383,
+      "netMargin": 0.18898997179165858,
+      "roe": 0.08840950434112017,
+      "roic": 0.044804571067234164
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:16.787140+00:00"
+  }
+}

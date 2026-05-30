@@ -1,0 +1,111 @@
+{
+  "ticker": "3692",
+  "name": "Hansoh Pharmaceutical Group Company Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 190619320320.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 31.44,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15028324000.0,
+    "operatingIncome": 5547010000.0,
+    "netIncome": 5555461000.0,
+    "eps": 0.93,
+    "freeCashFlow": 6248785000.0,
+    "totalDebt": 105093000.0,
+    "cash": 31548668000.0,
+    "sharesOutstanding": 6055150070.0
+  },
+  "ratios": {
+    "roe": 0.15709167943820193,
+    "roic": 0.15638797047968817,
+    "grossMargin": 0.9003304027781142,
+    "operatingMargin": 0.3691037004525588,
+    "netMargin": 0.36966603860816416,
+    "debtToEquity": 0.00297
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9382410000.0,
+      "operatingIncome": 2791483000.0,
+      "netIncome": 2583747000.0,
+      "eps": 0.44,
+      "freeCashFlow": 2449382000.0,
+      "totalDebt": 4377856000.0,
+      "cash": 17615274000.0,
+      "sharesOutstanding": 5922350070.0,
+      "grossMargin": 0.9075919726381602,
+      "operatingMargin": 0.29752302446812706,
+      "netMargin": 0.27538201805293094,
+      "roe": 0.11408810831165565,
+      "roic": 0.10329338237470767
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10103806000.0,
+      "operatingIncome": 2839321000.0,
+      "netIncome": 3277503000.0,
+      "eps": 0.52,
+      "freeCashFlow": 2753944000.0,
+      "totalDebt": 4303735000.0,
+      "cash": 22434691000.0,
+      "sharesOutstanding": 5933350070.0,
+      "grossMargin": 0.8979728035158236,
+      "operatingMargin": 0.28101499573527045,
+      "netMargin": 0.32438300972920503,
+      "roe": 0.12706074211236518,
+      "roic": 0.09433427730038978
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12260814000.0,
+      "operatingIncome": 4031116000.0,
+      "netIncome": 4371825000.0,
+      "eps": 0.73,
+      "freeCashFlow": 3337420000.0,
+      "totalDebt": 117893000.0,
+      "cash": 22621566000.0,
+      "sharesOutstanding": 5935650070.0,
+      "grossMargin": 0.9098422013416075,
+      "operatingMargin": 0.32878045454404575,
+      "netMargin": 0.35656890317396545,
+      "roe": 0.1524350805236027,
+      "roic": 0.1399799644465983
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 15028324000.0,
+      "operatingIncome": 5547010000.0,
+      "netIncome": 5555461000.0,
+      "eps": 0.93,
+      "freeCashFlow": 6248785000.0,
+      "totalDebt": 105093000.0,
+      "cash": 31548668000.0,
+      "sharesOutstanding": 6055150070.0,
+      "grossMargin": 0.9003304027781142,
+      "operatingMargin": 0.3691037004525588,
+      "netMargin": 0.36966603860816416,
+      "roe": 0.15709167943820193,
+      "roic": 0.15638797047968817
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:40.490877+00:00"
+  }
+}

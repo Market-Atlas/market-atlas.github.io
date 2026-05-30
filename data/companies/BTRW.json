@@ -1,0 +1,128 @@
+{
+  "ticker": "BTRW",
+  "name": "Barratt Redrow plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3681972992.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 262.9,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 5578300000.0,
+    "operatingIncome": 285500000.0,
+    "netIncome": 186400000.0,
+    "eps": 0.133,
+    "freeCashFlow": 8700000.0,
+    "totalDebt": 255200000.0,
+    "cash": 969600000.0,
+    "sharesOutstanding": 1439825109.0
+  },
+  "ratios": {
+    "roe": 0.02367615491115091,
+    "roic": 0.03512505997711642,
+    "grossMargin": 0.14068802323288457,
+    "operatingMargin": 0.051180467167416595,
+    "netMargin": 0.03341519817865658,
+    "debtToEquity": 0.03238
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 5267900000.0,
+      "operatingIncome": 646600000.0,
+      "netIncome": 515100000.0,
+      "eps": 0.498,
+      "freeCashFlow": 387700000.0,
+      "totalDebt": 254400000.0,
+      "cash": 1352700000.0,
+      "sharesOutstanding": 1022562819.0,
+      "grossMargin": 0.17082708479659828,
+      "operatingMargin": 0.12274340818922151,
+      "netMargin": 0.09778089940963192,
+      "roe": 0.09148388242607229,
+      "roic": 0.10987442437424595
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 5321400000.0,
+      "operatingIncome": 707400000.0,
+      "netIncome": 530300000.0,
+      "eps": 0.526,
+      "freeCashFlow": 442400000.0,
+      "totalDebt": 249600000.0,
+      "cash": 1269100000.0,
+      "sharesOutstanding": 974584613.0,
+      "grossMargin": 0.18320366820761455,
+      "operatingMargin": 0.13293494193257413,
+      "netMargin": 0.09965422633141655,
+      "roe": 0.09476581068282135,
+      "roic": 0.1210161662817552
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 4168200000.0,
+      "operatingIncome": 174700000.0,
+      "netIncome": 114100000.0,
+      "eps": 0.116,
+      "freeCashFlow": 89000000.0,
+      "totalDebt": 242800000.0,
+      "cash": 1065300000.0,
+      "sharesOutstanding": 974592261.0,
+      "grossMargin": 0.122235017513555,
+      "operatingMargin": 0.04191257617196872,
+      "netMargin": 0.02737392639508661,
+      "roe": 0.02097812097812098,
+      "roic": 0.030747298391354854
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 5578300000.0,
+      "operatingIncome": 285500000.0,
+      "netIncome": 186400000.0,
+      "eps": 0.133,
+      "freeCashFlow": 8700000.0,
+      "totalDebt": 255200000.0,
+      "cash": 969600000.0,
+      "sharesOutstanding": 1439825109.0,
+      "grossMargin": 0.14068802323288457,
+      "operatingMargin": 0.051180467167416595,
+      "netMargin": 0.03341519817865658,
+      "roe": 0.02367615491115091,
+      "roic": 0.03512505997711642
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:29.456528+00:00"
+  }
+}

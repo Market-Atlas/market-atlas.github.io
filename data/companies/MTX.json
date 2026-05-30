@@ -1,0 +1,128 @@
+{
+  "ticker": "MTX",
+  "name": "MTU Aero Engines AG",
+  "country": "DE",
+  "exchange": "XETR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 16865368064.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 313.3,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 8763000000.0,
+    "operatingIncome": 1272000000.0,
+    "netIncome": 1016000000.0,
+    "eps": 18.9,
+    "freeCashFlow": 333000000.0,
+    "totalDebt": 1995000000.0,
+    "cash": 1256000000.0,
+    "sharesOutstanding": 53824489.0
+  },
+  "ratios": {
+    "roe": 0.2355122855818266,
+    "roic": 0.20161673799334284,
+    "grossMargin": 0.19262809540111833,
+    "operatingMargin": 0.14515576857240672,
+    "netMargin": 0.11594202898550725,
+    "debtToEquity": 0.5551400000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5330000000.0,
+      "operatingIncome": 481000000.0,
+      "netIncome": 331000000.0,
+      "eps": 6.06,
+      "freeCashFlow": 347000000.0,
+      "totalDebt": 112000000.0,
+      "cash": 823000000.0,
+      "sharesOutstanding": 53453112.0,
+      "grossMargin": 0.16041275797373358,
+      "operatingMargin": 0.09024390243902439,
+      "netMargin": 0.06210131332082552,
+      "roe": 0.10909690177982861,
+      "roic": 0.15289256198347106
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5363000000.0,
+      "operatingIncome": -239000000.0,
+      "netIncome": -102000000.0,
+      "eps": -1.9,
+      "freeCashFlow": 365000000.0,
+      "totalDebt": 1272000000.0,
+      "cash": 883000000.0,
+      "sharesOutstanding": 53453112.0,
+      "grossMargin": 0.021816147678538133,
+      "operatingMargin": -0.04456460936043259,
+      "netMargin": -0.019019205668469142,
+      "roe": -0.03562696472231924,
+      "roic": -0.057799274486094315
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 7411000000.0,
+      "operatingIncome": 882000000.0,
+      "netIncome": 633000000.0,
+      "eps": 11.53,
+      "freeCashFlow": 74000000.0,
+      "totalDebt": 2429000000.0,
+      "cash": 1747000000.0,
+      "sharesOutstanding": 53824489.0,
+      "grossMargin": 0.16650924301713668,
+      "operatingMargin": 0.11901227904466334,
+      "netMargin": 0.08541357441640804,
+      "roe": 0.18822479928635147,
+      "roic": 0.15227900552486187
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 8763000000.0,
+      "operatingIncome": 1272000000.0,
+      "netIncome": 1016000000.0,
+      "eps": 18.9,
+      "freeCashFlow": 333000000.0,
+      "totalDebt": 1995000000.0,
+      "cash": 1256000000.0,
+      "sharesOutstanding": 53824489.0,
+      "grossMargin": 0.19262809540111833,
+      "operatingMargin": 0.14515576857240672,
+      "netMargin": 0.11594202898550725,
+      "roe": 0.2355122855818266,
+      "roic": 0.20161673799334284
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:22.731892+00:00"
+  }
+}

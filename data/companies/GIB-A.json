@@ -1,0 +1,128 @@
+{
+  "ticker": "GIB-A",
+  "name": "CGI Inc.",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 20162961408.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 96.28,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 15912673000.0,
+    "operatingIncome": 2611628000.0,
+    "netIncome": 1658285000.0,
+    "eps": null,
+    "freeCashFlow": 1964301000.0,
+    "totalDebt": 4331319000.0,
+    "cash": 864209000.0,
+    "sharesOutstanding": 220062749.0
+  },
+  "ratios": {
+    "roe": 0.1612751854345882,
+    "roic": 0.17871153485189978,
+    "grossMargin": 0.16412252045900774,
+    "operatingMargin": 0.16412252045900774,
+    "netMargin": 0.10421159286060865,
+    "debtToEquity": 0.44158000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 5.41,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 12867201000.0,
+      "operatingIncome": 2090637000.0,
+      "netIncome": 1466142000.0,
+      "eps": 6.04,
+      "freeCashFlow": 1571241000.0,
+      "totalDebt": 3976235000.0,
+      "cash": 966458000.0,
+      "sharesOutstanding": 237748255.0,
+      "grossMargin": 0.16247799346571176,
+      "operatingMargin": 0.16247799346571176,
+      "netMargin": 0.11394412817519521,
+      "roe": 0.20159461571757709,
+      "roic": 0.185851597467819
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 14296360000.0,
+      "operatingIncome": 2313939000.0,
+      "netIncome": 1631249000.0,
+      "eps": 6.86,
+      "freeCashFlow": 1805280000.0,
+      "totalDebt": 3742284000.0,
+      "cash": 1568291000.0,
+      "sharesOutstanding": 233160203.0,
+      "grossMargin": 0.16185511556787882,
+      "operatingMargin": 0.16185511556787882,
+      "netMargin": 0.11410240089085613,
+      "roe": 0.19629257400520367,
+      "roic": 0.1919870587022959
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 14676152000.0,
+      "operatingIncome": 2416422000.0,
+      "netIncome": 1692715000.0,
+      "eps": 7.31,
+      "freeCashFlow": 1941343000.0,
+      "totalDebt": 3308403000.0,
+      "cash": 1461145000.0,
+      "sharesOutstanding": 227896921.0,
+      "grossMargin": 0.16464956209229775,
+      "operatingMargin": 0.16464956209229775,
+      "netMargin": 0.115337794266508,
+      "roe": 0.17954145051066028,
+      "roic": 0.18972577243808353
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": 15912673000.0,
+      "operatingIncome": 2611628000.0,
+      "netIncome": 1658285000.0,
+      "eps": null,
+      "freeCashFlow": 1964301000.0,
+      "totalDebt": 4331319000.0,
+      "cash": 864209000.0,
+      "sharesOutstanding": 220062749.0,
+      "grossMargin": 0.16412252045900774,
+      "operatingMargin": 0.16412252045900774,
+      "netMargin": 0.10421159286060865,
+      "roe": 0.1612751854345882,
+      "roic": 0.17871153485189978
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:05.352018+00:00"
+  }
+}

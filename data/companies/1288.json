@@ -1,0 +1,111 @@
+{
+  "ticker": "1288",
+  "name": "Agricultural Bank of China Limited",
+  "country": "HK",
+  "exchange": "XHKG",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CNY",
+  "marketCap": {
+    "value": 2019402186752.0,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 5.77,
+    "currency": "HKD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 724170000000.0,
+    "operatingIncome": null,
+    "netIncome": 291041000000.0,
+    "eps": 0.78,
+    "freeCashFlow": 2085559000000.0,
+    "totalDebt": 3615448000000.0,
+    "cash": 4011911000000.0,
+    "sharesOutstanding": 349983033873.0
+  },
+  "ratios": {
+    "roe": 0.08990566486530568,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.5931,
+    "netMargin": 0.4018959636549429,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 694586000000.0,
+      "operatingIncome": null,
+      "netIncome": 259232000000.0,
+      "eps": 0.69,
+      "freeCashFlow": 1299911000000.0,
+      "totalDebt": 2203153000000.0,
+      "cash": 3763734000000.0,
+      "sharesOutstanding": 349983033873.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3732180032422191,
+      "roe": 0.09716112400644213,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 694639000000.0,
+      "operatingIncome": null,
+      "netIncome": 269356000000.0,
+      "eps": 0.72,
+      "freeCashFlow": 1796455000000.0,
+      "totalDebt": 2678211000000.0,
+      "cash": 4572660000000.0,
+      "sharesOutstanding": 349983033873.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3877640040366291,
+      "roe": 0.09322702654808449,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 710483000000.0,
+      "operatingIncome": null,
+      "netIncome": 282083000000.0,
+      "eps": 0.75,
+      "freeCashFlow": 1328819000000.0,
+      "totalDebt": 3042531000000.0,
+      "cash": 3351428000000.0,
+      "sharesOutstanding": 349983033873.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3970299078232695,
+      "roe": 0.09126513196549252,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 724170000000.0,
+      "operatingIncome": null,
+      "netIncome": 291041000000.0,
+      "eps": 0.78,
+      "freeCashFlow": 2085559000000.0,
+      "totalDebt": 3615448000000.0,
+      "cash": 4011911000000.0,
+      "sharesOutstanding": 349983033873.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4018959636549429,
+      "roe": 0.08990566486530568,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:40:34.393542+00:00"
+  }
+}

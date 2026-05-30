@@ -1,0 +1,111 @@
+{
+  "ticker": "EXPN",
+  "name": "Experian plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "currency": "USD",
+  "marketCap": {
+    "value": 22981328896.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2573.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 7523000000.0,
+    "operatingIncome": 1783000000.0,
+    "netIncome": 1166000000.0,
+    "eps": 1.265,
+    "freeCashFlow": 1354000000.0,
+    "totalDebt": 5016000000.0,
+    "cash": 368000000.0,
+    "sharesOutstanding": 972976312.0
+  },
+  "ratios": {
+    "roe": 0.23070834982192323,
+    "roic": 0.17706057596822244,
+    "grossMargin": 0.5512428552439187,
+    "operatingMargin": 0.2370065133590323,
+    "netMargin": 0.15499135982985512,
+    "debtToEquity": 1.0043
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 6288000000.0,
+      "operatingIncome": 1369000000.0,
+      "netIncome": 1165000000.0,
+      "eps": 1.265,
+      "freeCashFlow": 1289000000.0,
+      "totalDebt": 4096000000.0,
+      "cash": 179000000.0,
+      "sharesOutstanding": 970600000.0,
+      "grossMargin": 0.4731234096692112,
+      "operatingMargin": 0.21771628498727735,
+      "netMargin": 0.1852735368956743,
+      "roe": 0.29352481733434116,
+      "roic": 0.16974581525108492
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 6619000000.0,
+      "operatingIncome": 1265000000.0,
+      "netIncome": 770000000.0,
+      "eps": 0.836,
+      "freeCashFlow": 1090000000.0,
+      "totalDebt": 4099000000.0,
+      "cash": 202000000.0,
+      "sharesOutstanding": 971400000.0,
+      "grossMargin": 0.4786221483607796,
+      "operatingMargin": 0.19111648285239463,
+      "netMargin": 0.11633177217102281,
+      "roe": 0.19597862051412573,
+      "roic": 0.1575734927752865
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 7097000000.0,
+      "operatingIncome": 1694000000.0,
+      "netIncome": 1199000000.0,
+      "eps": 1.302,
+      "freeCashFlow": 1107000000.0,
+      "totalDebt": 4266000000.0,
+      "cash": 312000000.0,
+      "sharesOutstanding": 972189047.0,
+      "grossMargin": 0.5562913907284768,
+      "operatingMargin": 0.2386924052416514,
+      "netMargin": 0.1689446244892208,
+      "roe": 0.2587397496763056,
+      "roic": 0.1903370786516854
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 7523000000.0,
+      "operatingIncome": 1783000000.0,
+      "netIncome": 1166000000.0,
+      "eps": 1.265,
+      "freeCashFlow": 1354000000.0,
+      "totalDebt": 5016000000.0,
+      "cash": 368000000.0,
+      "sharesOutstanding": 972976312.0,
+      "grossMargin": 0.5512428552439187,
+      "operatingMargin": 0.2370065133590323,
+      "netMargin": 0.15499135982985512,
+      "roe": 0.23070834982192323,
+      "roic": 0.17706057596822244
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:37.038535+00:00"
+  }
+}

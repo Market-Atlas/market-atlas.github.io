@@ -1,0 +1,128 @@
+{
+  "ticker": "AV",
+  "name": "Aviva plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 18387523584.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 613.2,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 57436000000.0,
+    "operatingIncome": null,
+    "netIncome": 1033000000.0,
+    "eps": 0.265,
+    "freeCashFlow": -2754000000.0,
+    "totalDebt": 7306000000.0,
+    "cash": 18289000000.0,
+    "sharesOutstanding": 3057731705.0
+  },
+  "ratios": {
+    "roe": 0.09666853827437769,
+    "roic": null,
+    "grossMargin": 0.19179001,
+    "operatingMargin": 0.11532,
+    "netMargin": 0.017985235740650463,
+    "debtToEquity": 1.1212
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -19538000000.0,
+      "operatingIncome": null,
+      "netIncome": -1051000000.0,
+      "eps": -0.347,
+      "freeCashFlow": 15784000000.0,
+      "totalDebt": 8070000000.0,
+      "cash": 22505000000.0,
+      "sharesOutstanding": 2807964676.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05379260927423483,
+      "roe": -0.10611873990306947,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 40456000000.0,
+      "operatingIncome": null,
+      "netIncome": 1085000000.0,
+      "eps": 0.372,
+      "freeCashFlow": -3082000000.0,
+      "totalDebt": 7367000000.0,
+      "cash": 17273000000.0,
+      "sharesOutstanding": 2760680607.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.026819260431085623,
+      "roe": 0.11689291101055807,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 39904000000.0,
+      "operatingIncome": null,
+      "netIncome": 683000000.0,
+      "eps": 0.233,
+      "freeCashFlow": 8272000000.0,
+      "totalDebt": 6886000000.0,
+      "cash": 23481000000.0,
+      "sharesOutstanding": 2677649489.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.01711607858861267,
+      "roe": 0.08223961468994581,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 57436000000.0,
+      "operatingIncome": null,
+      "netIncome": 1033000000.0,
+      "eps": 0.265,
+      "freeCashFlow": -2754000000.0,
+      "totalDebt": 7306000000.0,
+      "cash": 18289000000.0,
+      "sharesOutstanding": 3057731705.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.017985235740650463,
+      "roe": 0.09666853827437769,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.411674+00:00"
+  }
+}

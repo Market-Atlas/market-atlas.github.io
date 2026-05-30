@@ -1,0 +1,128 @@
+{
+  "ticker": "TD",
+  "name": "The Toronto-Dominion Bank",
+  "country": "CA",
+  "exchange": "XTSE",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CAD",
+  "marketCap": {
+    "value": 260611031040.0,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 157.75,
+    "currency": "CAD",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 61281000000.0,
+    "operatingIncome": null,
+    "netIncome": 20538000000.0,
+    "eps": 11.56,
+    "freeCashFlow": -71791000000.0,
+    "totalDebt": 442429000000.0,
+    "cash": 116929000000.0,
+    "sharesOutstanding": 1689495505.0
+  },
+  "ratios": {
+    "roe": 0.16067028092656482,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.33969003,
+    "netMargin": 0.3351446614774563,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-10-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-10-31",
+      "revenue": 45762000000.0,
+      "operatingIncome": null,
+      "netIncome": 17429000000.0,
+      "eps": 9.47,
+      "freeCashFlow": 37495000000.0,
+      "totalDebt": 374036000000.0,
+      "cash": 145850000000.0,
+      "sharesOutstanding": 1821668789.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3808618504435995,
+      "roe": 0.15647809809396407,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-10-31",
+      "revenue": 51524000000.0,
+      "operatingIncome": null,
+      "netIncome": 10634000000.0,
+      "eps": 5.52,
+      "freeCashFlow": -67146000000.0,
+      "totalDebt": 401809000000.0,
+      "cash": 105069000000.0,
+      "sharesOutstanding": 1791422412.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20638925549258597,
+      "roe": 0.09488627744911708,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-10-31",
+      "revenue": 56256000000.0,
+      "operatingIncome": null,
+      "netIncome": 8842000000.0,
+      "eps": 4.72,
+      "freeCashFlow": 52760000000.0,
+      "totalDebt": 460663000000.0,
+      "cash": 178023000000.0,
+      "sharesOutstanding": 1750300000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.15717434584755405,
+      "roe": 0.0767801319902744,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-10-31",
+      "revenue": 61281000000.0,
+      "operatingIncome": null,
+      "netIncome": 20538000000.0,
+      "eps": 11.56,
+      "freeCashFlow": -71791000000.0,
+      "totalDebt": 442429000000.0,
+      "cash": 116929000000.0,
+      "sharesOutstanding": 1689495505.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3351446614774563,
+      "roe": 0.16067028092656482,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:39:08.776993+00:00"
+  }
+}

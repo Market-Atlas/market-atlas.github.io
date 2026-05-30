@@ -1,0 +1,111 @@
+{
+  "ticker": "LMP",
+  "name": "LondonMetric Property Plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 4429691392.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 189.7,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 396700000.0,
+    "operatingIncome": 364700000.0,
+    "netIncome": 347900000.0,
+    "eps": 0.17,
+    "freeCashFlow": 284000000.0,
+    "totalDebt": 2100100000.0,
+    "cash": 41800000.0,
+    "sharesOutstanding": 2048108416.0
+  },
+  "ratios": {
+    "roe": 0.08497386546822334,
+    "roic": 0.05887670923268166,
+    "grossMargin": 0.9876480967985883,
+    "operatingMargin": 0.9193345097050668,
+    "netMargin": 0.8769851273002268,
+    "debtToEquity": 0.6825199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 133200000.0,
+      "operatingIncome": 115700000.0,
+      "netIncome": 734500000.0,
+      "eps": 0.784,
+      "freeCashFlow": 68500000.0,
+      "totalDebt": 1026000000.0,
+      "cash": 43900000.0,
+      "sharesOutstanding": 978607507.0,
+      "grossMargin": 0.9887387387387387,
+      "operatingMargin": 0.8686186186186187,
+      "netMargin": 5.5142642642642645,
+      "roe": 0.28694768918232605,
+      "roic": 0.03226706082494352
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 146700000.0,
+      "operatingIncome": 128800000.0,
+      "netIncome": -506300000.0,
+      "eps": -0.518,
+      "freeCashFlow": 116100000.0,
+      "totalDebt": 1016900000.0,
+      "cash": 23900000.0,
+      "sharesOutstanding": 982646261.0,
+      "grossMargin": 0.9897750511247444,
+      "operatingMargin": 0.8779822767552828,
+      "netMargin": -3.451261077027948,
+      "roe": -0.25735780003049863,
+      "roic": 0.04316064606929831
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 178100000.0,
+      "operatingIncome": 156700000.0,
+      "netIncome": 118700000.0,
+      "eps": 0.106,
+      "freeCashFlow": 117300000.0,
+      "totalDebt": 2122200000.0,
+      "cash": 52400000.0,
+      "sharesOutstanding": 2036519647.0,
+      "grossMargin": 0.9904548006737788,
+      "operatingMargin": 0.879842784952274,
+      "netMargin": 0.6664795058955643,
+      "roe": 0.03011543828491691,
+      "roic": 0.02584230750202022
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 396700000.0,
+      "operatingIncome": 364700000.0,
+      "netIncome": 347900000.0,
+      "eps": 0.17,
+      "freeCashFlow": 284000000.0,
+      "totalDebt": 2100100000.0,
+      "cash": 41800000.0,
+      "sharesOutstanding": 2048108416.0,
+      "grossMargin": 0.9876480967985883,
+      "operatingMargin": 0.9193345097050668,
+      "netMargin": 0.8769851273002268,
+      "roe": 0.08497386546822334,
+      "roic": 0.05887670923268166
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:43.693590+00:00"
+  }
+}

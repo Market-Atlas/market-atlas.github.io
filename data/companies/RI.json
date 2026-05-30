@@ -1,0 +1,128 @@
+{
+  "ticker": "RI",
+  "name": "Pernod Ricard SA",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 15969745920.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 63.42,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10959000000.0,
+    "operatingIncome": 2941000000.0,
+    "netIncome": 1626000000.0,
+    "eps": 6.45,
+    "freeCashFlow": 1121000000.0,
+    "totalDebt": 12589000000.0,
+    "cash": 1829000000.0,
+    "sharesOutstanding": 252269195.0
+  },
+  "ratios": {
+    "roe": 0.10688929792269261,
+    "roic": 0.10578756159850365,
+    "grossMargin": 0.5945797974267725,
+    "operatingMargin": 0.2683639018158591,
+    "netMargin": 0.14837120175198468,
+    "debtToEquity": 0.82292
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 10701000000.0,
+      "operatingIncome": 3019000000.0,
+      "netIncome": 1996000000.0,
+      "eps": 7.69,
+      "freeCashFlow": 1788000000.0,
+      "totalDebt": 11172000000.0,
+      "cash": 2527000000.0,
+      "sharesOutstanding": 257947355.0,
+      "grossMargin": 0.6048967386225587,
+      "operatingMargin": 0.2821231660592468,
+      "netMargin": 0.18652462386692834,
+      "roe": 0.1251881585549423,
+      "roic": 0.11133648030682991
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 12137000000.0,
+      "operatingIncome": 3320000000.0,
+      "netIncome": 2262000000.0,
+      "eps": 8.81,
+      "freeCashFlow": 1331000000.0,
+      "totalDebt": 11870000000.0,
+      "cash": 1609000000.0,
+      "sharesOutstanding": 255631733.0,
+      "grossMargin": 0.5970173848562248,
+      "operatingMargin": 0.2735437093186125,
+      "netMargin": 0.1863722501441872,
+      "roe": 0.14392059553349876,
+      "roic": 0.12034654003697394
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 11598000000.0,
+      "operatingIncome": 3109000000.0,
+      "netIncome": 1476000000.0,
+      "eps": 5.83,
+      "freeCashFlow": 954000000.0,
+      "totalDebt": 13618000000.0,
+      "cash": 2683000000.0,
+      "sharesOutstanding": 253328748.0,
+      "grossMargin": 0.6013967925504398,
+      "operatingMargin": 0.2680634592171064,
+      "netMargin": 0.1272633212622866,
+      "roe": 0.09372023620547336,
+      "roic": 0.10586712977151225
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 10959000000.0,
+      "operatingIncome": 2941000000.0,
+      "netIncome": 1626000000.0,
+      "eps": 6.45,
+      "freeCashFlow": 1121000000.0,
+      "totalDebt": 12589000000.0,
+      "cash": 1829000000.0,
+      "sharesOutstanding": 252269195.0,
+      "grossMargin": 0.5945797974267725,
+      "operatingMargin": 0.2683639018158591,
+      "netMargin": 0.14837120175198468,
+      "roe": 0.10688929792269261,
+      "roic": 0.10578756159850365
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:24.908944+00:00"
+  }
+}

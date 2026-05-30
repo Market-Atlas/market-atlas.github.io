@@ -1,0 +1,128 @@
+{
+  "ticker": "SN",
+  "name": "Smith & Nephew plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "currency": "USD",
+  "marketCap": {
+    "value": 9441386496.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 1111.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 6164000000.0,
+    "operatingIncome": 857000000.0,
+    "netIncome": 625000000.0,
+    "eps": 0.716,
+    "freeCashFlow": 852000000.0,
+    "totalDebt": 3327000000.0,
+    "cash": 557000000.0,
+    "sharesOutstanding": 877724845.0
+  },
+  "ratios": {
+    "roe": 0.11816978634902628,
+    "roic": 0.0994661095636026,
+    "grossMargin": 0.6800778715120052,
+    "operatingMargin": 0.1390330953926022,
+    "netMargin": 0.10139519792342634,
+    "debtToEquity": 0.62904
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5215000000.0,
+      "operatingIncome": 634000000.0,
+      "netIncome": 223000000.0,
+      "eps": 0.25,
+      "freeCashFlow": 110000000.0,
+      "totalDebt": 2872000000.0,
+      "cash": 350000000.0,
+      "sharesOutstanding": 877649585.0,
+      "grossMargin": 0.7046979865771812,
+      "operatingMargin": 0.12157238734419942,
+      "netMargin": 0.04276126558005753,
+      "roe": 0.04240349876402358,
+      "roic": 0.07797318902963965
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5549000000.0,
+      "operatingIncome": 620000000.0,
+      "netIncome": 263000000.0,
+      "eps": 0.301,
+      "freeCashFlow": 181000000.0,
+      "totalDebt": 3084000000.0,
+      "cash": 302000000.0,
+      "sharesOutstanding": 877672643.0,
+      "grossMargin": 0.6882321138943954,
+      "operatingMargin": 0.11173184357541899,
+      "netMargin": 0.04739592719408903,
+      "roe": 0.05041211424190148,
+      "roic": 0.07468979641007108
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 5810000000.0,
+      "operatingIncome": 860000000.0,
+      "netIncome": 412000000.0,
+      "eps": 0.47,
+      "freeCashFlow": 606000000.0,
+      "totalDebt": 3321000000.0,
+      "cash": 619000000.0,
+      "sharesOutstanding": 877704186.0,
+      "grossMargin": 0.6963855421686747,
+      "operatingMargin": 0.14802065404475043,
+      "netMargin": 0.07091222030981068,
+      "roe": 0.07825261158594492,
+      "roic": 0.1001630561378989
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6164000000.0,
+      "operatingIncome": 857000000.0,
+      "netIncome": 625000000.0,
+      "eps": 0.716,
+      "freeCashFlow": 852000000.0,
+      "totalDebt": 3327000000.0,
+      "cash": 557000000.0,
+      "sharesOutstanding": 877724845.0,
+      "grossMargin": 0.6800778715120052,
+      "operatingMargin": 0.1390330953926022,
+      "netMargin": 0.10139519792342634,
+      "roe": 0.11816978634902628,
+      "roic": 0.0994661095636026
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:55.560897+00:00"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "AUTO",
+  "name": "Autotrader Group plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 3575221760.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 441.5,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 601100000.0,
+    "operatingIncome": 373200000.0,
+    "netIncome": 282600000.0,
+    "eps": null,
+    "freeCashFlow": 300600000.0,
+    "totalDebt": 3500000.0,
+    "cash": 15300000.0,
+    "sharesOutstanding": 884700426.0
+  },
+  "ratios": {
+    "roe": 0.49631190727081137,
+    "roic": 0.6514225868388899,
+    "grossMargin": 0.79129,
+    "operatingMargin": 0.6208617534520047,
+    "netMargin": 0.4701380801863251,
+    "debtToEquity": 0.5060199999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": 432700000.0,
+      "operatingIncome": 300700000.0,
+      "netIncome": 244700000.0,
+      "eps": 0.2556,
+      "freeCashFlow": 269100000.0,
+      "totalDebt": 9500000.0,
+      "cash": 51300000.0,
+      "sharesOutstanding": 946892976.0,
+      "grossMargin": 0.8386873122255605,
+      "operatingMargin": 0.6949387566443264,
+      "netMargin": 0.5655188352207072,
+      "roe": 0.5178835978835978,
+      "roic": 0.6238589211618257
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 500200000.0,
+      "operatingIncome": 275100000.0,
+      "netIncome": 233900000.0,
+      "eps": 0.2477,
+      "freeCashFlow": 263500000.0,
+      "totalDebt": 68700000.0,
+      "cash": 16600000.0,
+      "sharesOutstanding": 923074657.0,
+      "grossMargin": 0.7221111555377849,
+      "operatingMargin": 0.5499800079968012,
+      "netMargin": 0.46761295481807275,
+      "roe": 0.443580504456666,
+      "roic": 0.4615771812080537
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 570900000.0,
+      "operatingIncome": 345900000.0,
+      "netIncome": 256900000.0,
+      "eps": 0.2807,
+      "freeCashFlow": 283700000.0,
+      "totalDebt": 34600000.0,
+      "cash": 18700000.0,
+      "sharesOutstanding": 907213454.0,
+      "grossMargin": 0.7693116132422491,
+      "operatingMargin": 0.6058854440357331,
+      "netMargin": 0.44999124189875633,
+      "roe": 0.46514575411913817,
+      "roic": 0.5893678650536718
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 601100000.0,
+      "operatingIncome": 373200000.0,
+      "netIncome": 282600000.0,
+      "eps": null,
+      "freeCashFlow": 300600000.0,
+      "totalDebt": 3500000.0,
+      "cash": 15300000.0,
+      "sharesOutstanding": 884700426.0,
+      "grossMargin": null,
+      "operatingMargin": 0.6208617534520047,
+      "netMargin": 0.4701380801863251,
+      "roe": 0.49631190727081137,
+      "roic": 0.6514225868388899
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:24.183941+00:00"
+  }
+}

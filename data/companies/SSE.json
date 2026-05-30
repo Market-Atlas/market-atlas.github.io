@@ -1,0 +1,128 @@
+{
+  "ticker": "SSE",
+  "name": "SSE plc",
+  "country": "GB",
+  "exchange": "XLON",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "currency": "GBP",
+  "marketCap": {
+    "value": 28113999872.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 2331.0,
+    "currency": "GBP",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 10186500000.0,
+    "operatingIncome": 1992900000.0,
+    "netIncome": 1208700000.0,
+    "eps": 1.054,
+    "freeCashFlow": -1008400000.0,
+    "totalDebt": 10121200000.0,
+    "cash": 1542900000.0,
+    "sharesOutstanding": 1215471728.0
+  },
+  "ratios": {
+    "roe": 0.07723470737458225,
+    "roic": 0.07733140868188539,
+    "grossMargin": 0.3705099887105483,
+    "operatingMargin": 0.19564128994257104,
+    "netMargin": 0.11865704609041379,
+    "debtToEquity": 0.6171
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-03-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-03-31",
+      "revenue": 12490700000.0,
+      "operatingIncome": -576300000.0,
+      "netIncome": -123000000.0,
+      "eps": -0.114,
+      "freeCashFlow": -322100000.0,
+      "totalDebt": 8905300000.0,
+      "cash": 891800000.0,
+      "sharesOutstanding": 1093900000.0,
+      "grossMargin": -0.012785512421241403,
+      "operatingMargin": -0.046138326915224924,
+      "netMargin": -0.009847326410849672,
+      "roe": -0.011788271149404356,
+      "roic": -0.029799269884277692
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-03-31",
+      "revenue": 10457200000.0,
+      "operatingIncome": 2889200000.0,
+      "netIncome": 1710500000.0,
+      "eps": 1.565,
+      "freeCashFlow": 1347500000.0,
+      "totalDebt": 9139600000.0,
+      "cash": 1035900000.0,
+      "sharesOutstanding": 1096238489.0,
+      "grossMargin": 0.41600045901388516,
+      "operatingMargin": 0.2762881077152584,
+      "netMargin": 0.16357151053819377,
+      "roe": 0.1520687754485162,
+      "roic": 0.14171220043359264
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-03-31",
+      "revenue": 10131900000.0,
+      "operatingIncome": 2229100000.0,
+      "netIncome": 1189400000.0,
+      "eps": 1.081,
+      "freeCashFlow": -654200000.0,
+      "totalDebt": 10604400000.0,
+      "cash": 1090500000.0,
+      "sharesOutstanding": 1111159424.0,
+      "grossMargin": 0.3813302539503943,
+      "operatingMargin": 0.22000809325003207,
+      "netMargin": 0.11739160473356429,
+      "roe": 0.09859084880636605,
+      "roic": 0.09833512731379365
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-03-31",
+      "revenue": 10186500000.0,
+      "operatingIncome": 1992900000.0,
+      "netIncome": 1208700000.0,
+      "eps": 1.054,
+      "freeCashFlow": -1008400000.0,
+      "totalDebt": 10121200000.0,
+      "cash": 1542900000.0,
+      "sharesOutstanding": 1215471728.0,
+      "grossMargin": 0.3705099887105483,
+      "operatingMargin": 0.19564128994257104,
+      "netMargin": 0.11865704609041379,
+      "roe": 0.07723470737458225,
+      "roic": 0.07733140868188539
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:38:55.668745+00:00"
+  }
+}

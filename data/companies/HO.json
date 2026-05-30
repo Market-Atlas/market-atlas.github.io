@@ -1,0 +1,111 @@
+{
+  "ticker": "HO",
+  "name": "Thales S.A.",
+  "country": "FR",
+  "exchange": "XPAR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "currency": "EUR",
+  "marketCap": {
+    "value": 49212817408.0,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "price": {
+    "value": 239.5,
+    "currency": "EUR",
+    "asOf": "2026-05-30"
+  },
+  "fundamentals": {
+    "revenue": 22136400000.0,
+    "operatingIncome": 2218700000.0,
+    "netIncome": 1674500000.0,
+    "eps": 8.13,
+    "freeCashFlow": 2565100000.0,
+    "totalDebt": 6129500000.0,
+    "cash": 4446500000.0,
+    "sharesOutstanding": 205941913.0
+  },
+  "ratios": {
+    "roe": 0.21014256312434115,
+    "roic": 0.15737804921300336,
+    "grossMargin": 0.26441517139191556,
+    "operatingMargin": 0.10022858278672232,
+    "netMargin": 0.07564463959812796,
+    "debtToEquity": 0.76737
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 17568800000.0,
+      "operatingIncome": 1442900000.0,
+      "netIncome": 1120600000.0,
+      "eps": 5.28,
+      "freeCashFlow": 2490800000.0,
+      "totalDebt": 5471400000.0,
+      "cash": 5099600000.0,
+      "sharesOutstanding": 213411309.0,
+      "grossMargin": 0.25359728609808296,
+      "operatingMargin": 0.08212854605892264,
+      "netMargin": 0.06378352534037612,
+      "roe": 0.1562051324941803,
+      "roic": 0.11410563608613478
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 18428400000.0,
+      "operatingIncome": 1653700000.0,
+      "netIncome": 1023400000.0,
+      "eps": 4.89,
+      "freeCashFlow": 885800000.0,
+      "totalDebt": 8433600000.0,
+      "cash": 3979900000.0,
+      "sharesOutstanding": 210210140.0,
+      "grossMargin": 0.25864426645829264,
+      "operatingMargin": 0.08973649367280936,
+      "netMargin": 0.05553384992728615,
+      "roe": 0.14983894582723278,
+      "roic": 0.1083427238659294
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 20576600000.0,
+      "operatingIncome": 1817000000.0,
+      "netIncome": 1419500000.0,
+      "eps": 6.89,
+      "freeCashFlow": 2014700000.0,
+      "totalDebt": 7823400000.0,
+      "cash": 4767100000.0,
+      "sharesOutstanding": 205941913.0,
+      "grossMargin": 0.261165595871038,
+      "operatingMargin": 0.08830419019663112,
+      "netMargin": 0.06898612987568403,
+      "roe": 0.18888386203959975,
+      "roic": 0.11845931180159858
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22136400000.0,
+      "operatingIncome": 2218700000.0,
+      "netIncome": 1674500000.0,
+      "eps": 8.13,
+      "freeCashFlow": 2565100000.0,
+      "totalDebt": 6129500000.0,
+      "cash": 4446500000.0,
+      "sharesOutstanding": 205941913.0,
+      "grossMargin": 0.26441517139191556,
+      "operatingMargin": 0.10022858278672232,
+      "netMargin": 0.07564463959812796,
+      "roe": 0.21014256312434115,
+      "roic": 0.15737804921300336
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-30T19:42:21.284149+00:00"
+  }
+}
