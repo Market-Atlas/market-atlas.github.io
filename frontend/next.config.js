@@ -5,6 +5,13 @@
 const rawBase = (process.env.NEXT_PUBLIC_BASE_PATH || '').trim();
 const basePath = rawBase && rawBase !== '/' ? (rawBase.startsWith('/') ? rawBase : `/${rawBase}`) : '';
 
+// Build-time identifier used to bust JSON fetch caches on every deploy.
+// Workflow can override via NEXT_PUBLIC_BUILD_ID (e.g. the git SHA).
+process.env.NEXT_PUBLIC_BUILD_ID =
+  process.env.NEXT_PUBLIC_BUILD_ID ||
+  process.env.GITHUB_SHA ||
+  String(Date.now());
+
 const nextConfig = {
   // Static export → ships to GitHub Pages / Cloudflare Pages with no server.
   // Only enabled for production builds; `next dev` runs as a normal dev server

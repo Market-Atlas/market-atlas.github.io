@@ -5,6 +5,7 @@ import Link from 'next/link';
 import MiniSearch from 'minisearch';
 import type { SearchHit } from '@/lib/types';
 import { BP } from '@/lib/basePath';
+import { vUrl } from '@/lib/version';
 import CompanyLogo from '@/components/CompanyLogo';
 
 export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }) {
@@ -26,7 +27,7 @@ export default function SearchBox({ autoFocus = false }: { autoFocus?: boolean }
 
   useEffect(() => {
     let alive = true;
-    fetch(`${BP}/data/search-index.json`)
+    fetch(vUrl(`${BP}/data/search-index.json`))
       .then(r => r.json() as Promise<SearchHit[]>)
       .then(data => { if (alive) mini.addAll(data); })
       .catch(err => console.error('Failed to load search index', err));

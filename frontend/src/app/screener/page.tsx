@@ -5,6 +5,7 @@ import Link from 'next/link';
 import type { ScreenerRow } from '@/lib/types';
 import { formatMoney, formatPercent } from '@/lib/fx';
 import { BP } from '@/lib/basePath';
+import { vUrl } from '@/lib/version';
 
 type Filters = {
   minMarketCap: number;        // in row currency, compact billions
@@ -28,7 +29,7 @@ export default function ScreenerPage() {
   const [f, setF] = useState<Filters>(DEFAULTS);
 
   useEffect(() => {
-    fetch(`${BP}/data/screener.json`).then(r => r.json()).then(setRows);
+    fetch(vUrl(`${BP}/data/screener.json`)).then(r => r.json()).then(setRows);
   }, []);
 
   const countries = useMemo(() => Array.from(new Set(rows.map(r => r.country).filter(Boolean))).sort(), [rows]);

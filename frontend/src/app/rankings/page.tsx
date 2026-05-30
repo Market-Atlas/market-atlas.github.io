@@ -5,6 +5,7 @@ import Link from 'next/link';
 import type { FxSnapshot, ScreenerRow } from '@/lib/types';
 import { convert, formatMoney, formatPercent } from '@/lib/fx';
 import { BP } from '@/lib/basePath';
+import { vUrl } from '@/lib/version';
 import CompanyLogo from '@/components/CompanyLogo';
 
 // Flag emoji from ISO 3166-1 alpha-2 (e.g. "US" → 🇺🇸)
@@ -29,8 +30,8 @@ export default function RankingsPage() {
   const [page, setPage] = useState(0);
 
   useEffect(() => {
-    fetch(`${BP}/data/screener.json`).then(r => r.json()).then(setRows);
-    fetch(`${BP}/data/fx/latest.json`).then(r => r.json()).then(setFx);
+    fetch(vUrl(`${BP}/data/screener.json`)).then(r => r.json()).then(setRows);
+    fetch(vUrl(`${BP}/data/fx/latest.json`)).then(r => r.json()).then(setFx);
   }, []);
 
   // Convert market cap + price to the chosen display currency once.

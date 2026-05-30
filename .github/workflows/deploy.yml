@@ -66,6 +66,8 @@ jobs:
           # next.config.js normaliser treats '/' as empty too, so this works
           # even if GitHub Actions expression quirks leak a stray '/'.
           NEXT_PUBLIC_BASE_PATH: ${{ endsWith(github.event.repository.name, '.github.io') && '/' || format('/{0}', github.event.repository.name) }}
+          # Cache-buster appended to every client-side data fetch.
+          NEXT_PUBLIC_BUILD_ID: ${{ github.sha }}
         run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
