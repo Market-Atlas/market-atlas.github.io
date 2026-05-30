@@ -34,6 +34,10 @@ jobs:
 
       # Re-ingest data on the nightly cron / manual dispatch. Push builds reuse
       # whatever JSON is committed to the repo (fast deploys).
+      - name: Refresh FX rates (always)
+        working-directory: pipeline
+        run: python -m atlas_pipeline.fetch_fx
+
       - name: Refresh data from yfinance
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: pipeline

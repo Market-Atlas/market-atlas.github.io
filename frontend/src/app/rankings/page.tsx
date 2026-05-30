@@ -151,7 +151,7 @@ export default function RankingsPage() {
               <Th label="Market cap"   onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
               <Th label="Price"        onClick={() => setSort('price')}   active={sortKey === 'price'}   dir={sortDir} align="right" />
               <Th label="Country"      onClick={() => setSort('country')} active={sortKey === 'country'} dir={sortDir} align="left" />
-              <Th label="Sector"       onClick={() => setSort('sector')}  active={sortKey === 'sector'}  dir={sortDir} align="left" />
+              <th className="px-3 py-2 text-left">Tags</th>
             </tr>
           </thead>
           <tbody>
@@ -168,7 +168,19 @@ export default function RankingsPage() {
                 <td className="px-3 py-1.5 font-medium">{formatMoney(r.mcapDisp, displayCcy)}</td>
                 <td className="px-3 py-1.5">{r.priceDisp == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
                 <td className="px-3 py-1.5 text-left">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
-                <td className="px-3 py-1.5 text-left text-atlas-muted">{r.sector || '—'}</td>
+                <td className="px-3 py-1.5 text-left">
+                  <div className="flex flex-wrap gap-1">
+                    {(r.tags || [])
+                      .filter(t => !t.startsWith('country-') && !['large-cap','mid-cap','small-cap','mega-cap','micro-cap'].includes(t))
+                      .slice(0, 3)
+                      .map(t => (
+                        <Link key={t} href={`${BP}/tags/${t}/`}
+                              className="rounded-full bg-atlas-border/60 px-2 py-0.5 text-[10px] text-atlas-muted hover:bg-atlas-accent/20 hover:text-atlas-accent">
+                          {t}
+                        </Link>
+                      ))}
+                  </div>
+                </td>
               </tr>
             ))}
           </tbody>
