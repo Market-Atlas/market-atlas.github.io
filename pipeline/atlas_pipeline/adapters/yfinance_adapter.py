@@ -138,6 +138,28 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
     except Exception:  # pragma: no cover
         return None
 
+    # 35-day daily close history → drives the sparkline + day/30d change %.
+    # Keep this cheap: one call, one chart period. Fail open if blocked.
+    spark: list[dict[str, Any]] = []
+    day_change_pct: float | None = None
+    month_change_pct: float | None = None
+    try:
+        h = t.history(period="40d", interval="1d", auto_adjust=False)
+        if h is not None and not h.empty:
+            closes = [float(c) for c in h["Close"].tolist() if c == c]  # filter NaN
+            if len(closes) >= 2:
+                day_change_pct = (closes[-1] - closes[-2]) / closes[-2]
+            if len(closes) >= 22:  # ~30 trading days = ~21 sessions back
+                base = closes[-22]
+                if base:
+                    month_change_pct = (closes[-1] - base) / base
+            # Sparkline: last 30 closes, normalised to a compact array
+            tail = closes[-30:]
+            for i, c in enumerate(tail):
+                spark.append({"i": i, "c": round(c, 4)})
+    except Exception:
+        pass
+
     historical: list[dict[str, Any]] = []
     if fin is not None and not fin.empty:
         # yfinance returns columns sorted newest-first; we want oldest-first.
@@ -220,6 +242,9 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             ),
             "currency": (info.get("currency") or currency).upper(),
             "asOf": datetime.now(timezone.utc).date().isoformat(),
+            "dayChangePct":   day_change_pct,
+            "monthChangePct": month_change_pct,
+            "sparkline":      spark,
         },
         "fundamentals": {
             "revenue":           latest.get("revenue"),

@@ -17,6 +17,71 @@ from .paths import (
 
 PEERS_PATH = DATA_DIR / "peers.json"
 TAGS_PATH  = DATA_DIR / "tags.json"
+CATEGORIES_PATH = DATA_DIR / "categories.json"
+
+
+# Human labels + display order for the Rankings category nav.
+# Slugs match KEYWORD_RULES in tags.py — change them together.
+# Order is roughly the same as companiesmarketcap.com's sidebar.
+CATEGORY_LABELS: list[tuple[str, str]] = [
+    ("ai",                  "AI"),
+    ("automakers",          "Automakers"),
+    ("ev",                  "EV"),
+    ("banks",               "Banks"),
+    ("semiconductors",      "Semiconductor"),
+    ("software",            "Software"),
+    ("cloud",               "Cloud"),
+    ("ecommerce",           "E-commerce"),
+    ("streaming",           "Streaming"),
+    ("social-media",        "Social networks"),
+    ("search-engines",      "Search engines"),
+    ("gaming",              "Gaming"),
+    ("cybersecurity",       "Cybersecurity"),
+    ("consumer-electronics","Consumer electronics"),
+    ("hardware",            "Hardware"),
+    ("fintech",             "Fintech"),
+    ("payments",            "Payments"),
+    ("insurance",           "Insurance"),
+    ("asset-management",    "Asset management"),
+    ("exchanges",           "Exchanges"),
+    ("crypto",              "Crypto"),
+    ("real-estate",         "Real Estate"),
+    ("pharma",              "Pharmaceutical"),
+    ("biotech",             "Biotech"),
+    ("medical-devices",     "Medical devices"),
+    ("healthcare",          "Healthcare"),
+    ("oil-gas",             "Oil & Gas"),
+    ("renewables",          "Renewable energy"),
+    ("nuclear",             "Nuclear"),
+    ("utilities",           "Utilities"),
+    ("coal",                "Coal"),
+    ("mining",              "Mining"),
+    ("steel",               "Steel"),
+    ("metals",              "Metals"),
+    ("chemicals",           "Chemicals"),
+    ("cement",              "Cement"),
+    ("construction",        "Construction"),
+    ("auto-parts",          "Auto parts"),
+    ("aerospace-defense",   "Defense & Aerospace"),
+    ("airlines",            "Airlines"),
+    ("ports",               "Ports"),
+    ("shipping",            "Shipping"),
+    ("logistics",           "Logistics"),
+    ("agriculture",         "Agriculture"),
+    ("retail",              "Retail"),
+    ("luxury",              "Luxury goods"),
+    ("apparel",             "Apparel"),
+    ("consumer-goods",      "Consumer goods"),
+    ("food-beverage",       "Food & Beverage"),
+    ("restaurants",         "Restaurants"),
+    ("alcohol",             "Alcohol"),
+    ("tobacco",             "Tobacco"),
+    ("travel",              "Travel & Hotels"),
+    ("media",               "Media"),
+    ("telecom",             "Telecom"),
+    ("robotics",            "Robotics"),
+    ("space",               "Space"),
+]
 
 
 def _load_json(path) -> dict[str, Any]:
@@ -184,6 +249,9 @@ def build_screener() -> list[dict[str, Any]]:
             "marketCapUsd": _to_usd(mcap_val, mcap_ccy, fx),
             "price": (c.get("price") or {}).get("value"),
             "priceCurrency": (c.get("price") or {}).get("currency"),
+            "dayChangePct":   (c.get("price") or {}).get("dayChangePct"),
+            "monthChangePct": (c.get("price") or {}).get("monthChangePct"),
+            "sparkline":      (c.get("price") or {}).get("sparkline") or [],
             "revenue":  (hist[-1].get("revenue")    if hist else None),
             "netIncome": latest_ni,
             "fcf":      (hist[-1].get("freeCashFlow") if hist else None),
@@ -296,3 +364,19 @@ def write_artifacts() -> None:
         }
     with open(TAGS_PATH, "w", encoding="utf-8") as f:
         json.dump(tag_index, f, ensure_ascii=False, indent=2)
+
+    # Categories: subset of tags surfaced in the Rankings nav, with display
+    # labels and counts. Keeps the nav ordered + filterable client-side.
+    categories: list[dict[str, Any]] = []
+    for slug, label in CATEGORY_LABELS:
+        bucket = tag_index.get(slug)
+        if not bucket or bucket.get("count", 0) == 0:
+            continue
+        categories.append({
+            "slug":  slug,
+            "label": label,
+            "count": bucket["count"],
+            "top":   bucket["tickers"][:10],
+        })
+    with open(CATEGORIES_PATH, "w", encoding="utf-8") as f:
+        json.dump(categories, f, ensure_ascii=False, indent=2)

@@ -2,8 +2,8 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import type { FxSnapshot, ScreenerRow } from '@/lib/types';
-import { convert, formatMoney, formatPercent } from '@/lib/fx';
+import type { CategoryEntry, FxSnapshot, ScreenerRow } from '@/lib/types';
+import { convert, formatMoney } from '@/lib/fx';
 import { BP } from '@/lib/basePath';
 import { vUrl } from '@/lib/version';
 import CompanyLogo from '@/components/CompanyLogo';
@@ -12,26 +12,37 @@ import CompanyLogo from '@/components/CompanyLogo';
 function flag(country?: string): string {
   if (!country || country.length !== 2) return '';
   const A = 0x1f1e6;
-  return String.fromCodePoint(...country.toUpperCase().split('').map(c => A + c.charCodeAt(0) - 65));
+  return String.fromCodePoint(
+    ...country.toUpperCase().split('').map(c => A + c.charCodeAt(0) - 65),
+  );
 }
 
-type SortKey = 'rank' | 'name' | 'mcap' | 'price' | 'country' | 'sector' | 'pe' | 'pb' | 'revenue' | 'profit' | 'fcf';
+type SortKey =
+  | 'rank' | 'name' | 'mcap' | 'price' | 'day' | 'month'
+  | 'country' | 'sector' | 'pe' | 'pb' | 'revenue' | 'profit' | 'fcf';
+
 const PAGE_SIZE = 100;
 
 export default function RankingsPage() {
-  const [rows, setRows] = useState<ScreenerRow[]>([]);
-  const [fx, setFx] = useState<FxSnapshot | null>(null);
-  const [country, setCountry] = useState<string>('');
-  const [sector, setSector] = useState<string>('');
-  const [search, setSearch] = useState('');
+  const [rows, setRows]             = useState<ScreenerRow[]>([]);
+  const [fx, setFx]                 = useState<FxSnapshot | null>(null);
+  const [categories, setCategories] = useState<CategoryEntry[]>([]);
+  const [activeCat, setActiveCat]   = useState<string>('');           // tag slug
+  const [country, setCountry]       = useState<string>('');
+  const [sector, setSector]         = useState<string>('');
+  const [search, setSearch]         = useState('');
   const [displayCcy, setDisplayCcy] = useState<'USD' | 'EUR' | 'INR' | 'JPY' | 'GBP'>('USD');
-  const [sortKey, setSortKey] = useState<SortKey>('rank');
-  const [sortDir, setSortDir] = useState<'asc' | 'desc'>('asc');
-  const [page, setPage] = useState(0);
+  const [sortKey, setSortKey]       = useState<SortKey>('rank');
+  const [sortDir, setSortDir]       = useState<'asc' | 'desc'>('asc');
+  const [page, setPage]             = useState(0);
 
   useEffect(() => {
     fetch(vUrl(`${BP}/data/screener.json`)).then(r => r.json()).then(setRows);
     fetch(vUrl(`${BP}/data/fx/latest.json`)).then(r => r.json()).then(setFx);
+    fetch(vUrl(`${BP}/data/categories.json`))
+      .then(r => (r.ok ? r.json() : []))
+      .then(setCategories)
+      .catch(() => setCategories([]));
   }, []);
 
   // Convert market cap + price to the chosen display currency once.
@@ -52,7 +63,7 @@ export default function RankingsPage() {
       .filter(r => (r.mcapDisp ?? 0) > 0); // drop rows without a market cap
   }, [rows, fx, displayCcy]);
 
-  // Global rank: independent of filter, by mcap desc in display ccy.
+  // Global rank: by mcap desc in display ccy, independent of any filter.
   const ranked = useMemo(() => {
     const sorted = [...enriched].sort((a, b) => (b.mcapDisp ?? 0) - (a.mcapDisp ?? 0));
     return sorted.map((r, i) => ({ ...r, rank: i + 1 }));
@@ -70,32 +81,34 @@ export default function RankingsPage() {
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     return ranked.filter(r => {
+      if (activeCat && !(r.tags || []).includes(activeCat)) return false;
       if (country && r.country !== country) return false;
       if (sector && r.sector !== sector) return false;
       if (q && !r.name.toLowerCase().includes(q) && !r.ticker.toLowerCase().includes(q)) return false;
       return true;
     });
-  }, [ranked, country, sector, search]);
+  }, [ranked, activeCat, country, sector, search]);
 
   const sorted = useMemo(() => {
     const arr = [...filtered];
     const dir = sortDir === 'asc' ? 1 : -1;
-    // For numeric sorts, push nulls to the bottom regardless of direction.
     const NULL_LAST = sortDir === 'asc' ? Number.POSITIVE_INFINITY : Number.NEGATIVE_INFINITY;
     arr.sort((a, b) => {
       let av: any, bv: any;
       switch (sortKey) {
-        case 'rank':    av = a.rank;            bv = b.rank;            break;
-        case 'name':    av = a.name;            bv = b.name;            break;
-        case 'mcap':    av = a.mcapDisp    ?? NULL_LAST; bv = b.mcapDisp    ?? NULL_LAST; break;
-        case 'price':   av = a.priceDisp   ?? NULL_LAST; bv = b.priceDisp   ?? NULL_LAST; break;
-        case 'revenue': av = a.revenueDisp ?? NULL_LAST; bv = b.revenueDisp ?? NULL_LAST; break;
-        case 'profit':  av = a.profitDisp  ?? NULL_LAST; bv = b.profitDisp  ?? NULL_LAST; break;
-        case 'fcf':     av = a.fcfDisp     ?? NULL_LAST; bv = b.fcfDisp     ?? NULL_LAST; break;
-        case 'pe':      av = a.pe          ?? NULL_LAST; bv = b.pe          ?? NULL_LAST; break;
-        case 'pb':      av = a.pb          ?? NULL_LAST; bv = b.pb          ?? NULL_LAST; break;
-        case 'country': av = a.country || '';   bv = b.country || '';   break;
-        case 'sector':  av = a.sector  || '';   bv = b.sector  || '';   break;
+        case 'rank':    av = a.rank;             bv = b.rank;             break;
+        case 'name':    av = a.name;             bv = b.name;             break;
+        case 'mcap':    av = a.mcapDisp      ?? NULL_LAST; bv = b.mcapDisp      ?? NULL_LAST; break;
+        case 'price':   av = a.priceDisp     ?? NULL_LAST; bv = b.priceDisp     ?? NULL_LAST; break;
+        case 'day':     av = a.dayChangePct  ?? NULL_LAST; bv = b.dayChangePct  ?? NULL_LAST; break;
+        case 'month':   av = a.monthChangePct?? NULL_LAST; bv = b.monthChangePct?? NULL_LAST; break;
+        case 'revenue': av = a.revenueDisp   ?? NULL_LAST; bv = b.revenueDisp   ?? NULL_LAST; break;
+        case 'profit':  av = a.profitDisp    ?? NULL_LAST; bv = b.profitDisp    ?? NULL_LAST; break;
+        case 'fcf':     av = a.fcfDisp       ?? NULL_LAST; bv = b.fcfDisp       ?? NULL_LAST; break;
+        case 'pe':      av = a.pe            ?? NULL_LAST; bv = b.pe            ?? NULL_LAST; break;
+        case 'pb':      av = a.pb            ?? NULL_LAST; bv = b.pb            ?? NULL_LAST; break;
+        case 'country': av = a.country || ''; bv = b.country || ''; break;
+        case 'sector':  av = a.sector  || ''; bv = b.sector  || ''; break;
       }
       if (av < bv) return -1 * dir;
       if (av > bv) return  1 * dir;
@@ -104,28 +117,63 @@ export default function RankingsPage() {
     return arr;
   }, [filtered, sortKey, sortDir]);
 
-  useEffect(() => setPage(0), [country, sector, search, sortKey, sortDir]);
+  useEffect(() => setPage(0), [activeCat, country, sector, search, sortKey, sortDir]);
 
   const pageRows = sorted.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
   const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
 
   const setSort = (k: SortKey) => {
-    if (k === sortKey) setSortDir(d => (d === 'asc' ? 'desc' : 'asc'));
-    else { setSortKey(k); setSortDir(k === 'name' || k === 'country' || k === 'sector' || k === 'rank' || k === 'pe' || k === 'pb' ? 'asc' : 'desc'); }
+    if (k === sortKey) {
+      setSortDir(d => (d === 'asc' ? 'desc' : 'asc'));
+    } else {
+      setSortKey(k);
+      // Text-y / rank columns ascend by default; numeric metrics descend.
+      const ascByDefault = (['name', 'country', 'sector', 'rank', 'pe', 'pb'] as SortKey[]).includes(k);
+      setSortDir(ascByDefault ? 'asc' : 'desc');
+    }
   };
 
   if (!fx) return <div className="py-12 text-center text-sm text-atlas-muted">Loading rankings…</div>;
 
+  const activeLabel = categories.find(c => c.slug === activeCat)?.label;
+
   return (
-    <div className="space-y-5">
+    <div className="space-y-4">
       <header>
-        <h1 className="text-2xl font-semibold tracking-tight">Largest companies by market cap</h1>
+        <h1 className="text-2xl font-semibold tracking-tight">
+          {activeLabel
+            ? `Largest ${activeLabel} companies by market cap`
+            : 'Largest companies by market cap'}
+        </h1>
         <p className="text-sm text-atlas-muted">
           {ranked.length.toLocaleString()} companies across {countries.length} countries, ranked in {displayCcy}.
-          Market caps are converted from each company&apos;s reporting currency using
-          the FX snapshot as of {fx.asOf}.
+          Market caps converted using FX snapshot from {fx.asOf}.
         </p>
       </header>
+
+      {/* Categories — horizontal chip strip à la companiesmarketcap.com */}
+      {categories.length > 0 && (
+        <nav
+          aria-label="Categories"
+          className="-mx-2 flex gap-2 overflow-x-auto px-2 pb-1 text-sm"
+        >
+          <CategoryChip
+            label="All"
+            count={ranked.length}
+            active={!activeCat}
+            onClick={() => setActiveCat('')}
+          />
+          {categories.map(c => (
+            <CategoryChip
+              key={c.slug}
+              label={c.label}
+              count={c.count}
+              active={activeCat === c.slug}
+              onClick={() => setActiveCat(activeCat === c.slug ? '' : c.slug)}
+            />
+          ))}
+        </nav>
+      )}
 
       <section className="grid gap-3 rounded-lg border border-atlas-border bg-atlas-surface p-3 sm:grid-cols-2 lg:grid-cols-4">
         <input
@@ -160,15 +208,17 @@ export default function RankingsPage() {
         <table className="num min-w-full text-right text-sm">
           <thead className="bg-atlas-border/40 text-xs uppercase tracking-wide text-atlas-muted">
             <tr>
-              <Th label="#"            onClick={() => setSort('rank')}    active={sortKey === 'rank'}    dir={sortDir} align="right" />
-              <Th label="Company"      onClick={() => setSort('name')}    active={sortKey === 'name'}    dir={sortDir} align="left" />
-              <Th label="Market cap"   onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
-              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('price')}   className={`uppercase tracking-wide ${sortKey === 'price'   ? 'text-atlas-text' : 'text-atlas-muted'}`}>Price{sortKey === 'price'   ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
-              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('pe')}      className={`uppercase tracking-wide ${sortKey === 'pe'      ? 'text-atlas-text' : 'text-atlas-muted'}`}>P / E{sortKey === 'pe'      ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
-              <th className="hidden px-3 py-2 text-right md:table-cell"><button onClick={() => setSort('revenue')} className={`uppercase tracking-wide ${sortKey === 'revenue' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Revenue{sortKey === 'revenue' ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
-              <th className="hidden px-3 py-2 text-right md:table-cell"><button onClick={() => setSort('profit')}  className={`uppercase tracking-wide ${sortKey === 'profit'  ? 'text-atlas-text' : 'text-atlas-muted'}`}>Profit{sortKey === 'profit'  ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
-              <th className="hidden px-3 py-2 text-left lg:table-cell"><button onClick={() => setSort('country')}  className={`uppercase tracking-wide ${sortKey === 'country' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Country{sortKey === 'country' ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
-              <th className="hidden px-3 py-2 text-left lg:table-cell">Tags</th>
+              <Th label="#"           onClick={() => setSort('rank')}    active={sortKey === 'rank'}    dir={sortDir} align="right" />
+              <Th label="Company"     onClick={() => setSort('name')}    active={sortKey === 'name'}    dir={sortDir} align="left" />
+              <Th label="Market cap"  onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
+              <Th label="Price"       onClick={() => setSort('price')}   active={sortKey === 'price'}   dir={sortDir} align="right" hideBelow="sm" />
+              <Th label="Today"       onClick={() => setSort('day')}     active={sortKey === 'day'}     dir={sortDir} align="right" hideBelow="sm" />
+              <Th label="30 days"     onClick={() => setSort('month')}   active={sortKey === 'month'}   dir={sortDir} align="right" hideBelow="md" />
+              <th className="hidden px-3 py-2 text-center md:table-cell">30d chart</th>
+              <Th label="P/E"         onClick={() => setSort('pe')}      active={sortKey === 'pe'}      dir={sortDir} align="right" hideBelow="md" />
+              <Th label="Revenue"     onClick={() => setSort('revenue')} active={sortKey === 'revenue'} dir={sortDir} align="right" hideBelow="lg" />
+              <Th label="Profit"      onClick={() => setSort('profit')}  active={sortKey === 'profit'}  dir={sortDir} align="right" hideBelow="lg" />
+              <Th label="Country"     onClick={() => setSort('country')} active={sortKey === 'country'} dir={sortDir} align="left"  hideBelow="lg" />
             </tr>
           </thead>
           <tbody>
@@ -177,34 +227,29 @@ export default function RankingsPage() {
                 <td className="px-3 py-1.5 text-right text-atlas-muted">{r.rank}</td>
                 <td className="px-3 py-1.5 text-left">
                   <Link href={`${BP}/company/${r.ticker}/`} className="flex items-center gap-2 hover:text-atlas-accent">
-                    <CompanyLogo domain={r.domain} ticker={r.ticker} name={r.name} size={20} />
-                    <span className="font-mono text-xs text-atlas-muted">{r.ticker}</span>
-                    <span className="truncate">{r.name}</span>
+                    <CompanyLogo domain={r.domain} ticker={r.ticker} name={r.name} size={24} />
+                    <div className="min-w-0">
+                      <div className="flex items-center gap-1.5">
+                        <span className="truncate">{r.name}</span>
+                        <span className="font-mono text-[10px] text-atlas-muted">{r.ticker}</span>
+                        <span className="text-xs">{flag(r.country)}</span>
+                      </div>
+                      <div className="mt-0.5 flex items-center gap-1.5 text-[10px] text-atlas-muted sm:hidden">
+                        {r.priceDisp != null && <span>{formatMoney(r.priceDisp, displayCcy, { compact: false })}</span>}
+                        {r.dayChangePct != null && <PctText v={r.dayChangePct} inline />}
+                      </div>
+                    </div>
                   </Link>
-                  <div className="mt-0.5 flex items-center gap-1.5 text-[10px] text-atlas-muted sm:hidden">
-                    <span>{flag(r.country)} {r.country || '—'}</span>
-                    {r.priceDisp != null && <span>· {formatMoney(r.priceDisp, displayCcy, { compact: false })}</span>}
-                  </div>
                 </td>
                 <td className="px-3 py-1.5 font-medium">{formatMoney(r.mcapDisp, displayCcy)}</td>
                 <td className="hidden px-3 py-1.5 sm:table-cell">{r.priceDisp   == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
-                <td className="hidden px-3 py-1.5 sm:table-cell">{r.pe          == null ? '—' : r.pe.toFixed(1)}</td>
-                <td className="hidden px-3 py-1.5 md:table-cell">{r.revenueDisp == null ? '—' : formatMoney(r.revenueDisp, displayCcy)}</td>
-                <td className="hidden px-3 py-1.5 md:table-cell">{r.profitDisp  == null ? '—' : formatMoney(r.profitDisp,  displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 sm:table-cell"><PctText v={r.dayChangePct} /></td>
+                <td className="hidden px-3 py-1.5 md:table-cell"><PctText v={r.monthChangePct} /></td>
+                <td className="hidden px-3 py-1.5 text-center md:table-cell"><Sparkline points={r.sparkline} /></td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{r.pe          == null ? '—' : r.pe.toFixed(1)}</td>
+                <td className="hidden px-3 py-1.5 lg:table-cell">{r.revenueDisp == null ? '—' : formatMoney(r.revenueDisp, displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 lg:table-cell">{r.profitDisp  == null ? '—' : formatMoney(r.profitDisp,  displayCcy)}</td>
                 <td className="hidden px-3 py-1.5 text-left lg:table-cell">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
-                <td className="hidden px-3 py-1.5 text-left lg:table-cell">
-                  <div className="flex flex-wrap gap-1">
-                    {(r.tags || [])
-                      .filter(t => !t.startsWith('country-') && !['large-cap','mid-cap','small-cap','mega-cap','micro-cap'].includes(t))
-                      .slice(0, 3)
-                      .map(t => (
-                        <Link key={t} href={`${BP}/tags/${t}/`}
-                              className="rounded-full bg-atlas-border/60 px-2 py-0.5 text-[10px] text-atlas-muted hover:bg-atlas-accent/20 hover:text-atlas-accent">
-                          {t}
-                        </Link>
-                      ))}
-                  </div>
-                </td>
               </tr>
             ))}
           </tbody>
@@ -228,10 +273,76 @@ export default function RankingsPage() {
   );
 }
 
-function Th({ label, onClick, active, dir, align }:
-  { label: string; onClick: () => void; active: boolean; dir: 'asc' | 'desc'; align: 'left' | 'right' }) {
+/* ───── tiny presentational helpers ──────────────────────────────────────── */
+
+function CategoryChip({
+  label, count, active, onClick,
+}: { label: string; count: number; active: boolean; onClick: () => void }) {
   return (
-    <th className={`px-3 py-2 ${align === 'left' ? 'text-left' : 'text-right'}`}>
+    <button
+      onClick={onClick}
+      className={
+        'shrink-0 rounded-full border px-3 py-1 text-xs transition ' +
+        (active
+          ? 'border-atlas-accent bg-atlas-accent/15 text-atlas-accent'
+          : 'border-atlas-border bg-atlas-surface text-atlas-muted hover:border-atlas-accent/40 hover:text-atlas-text')
+      }
+    >
+      {label} <span className="ml-1 text-[10px] opacity-70">{count}</span>
+    </button>
+  );
+}
+
+function PctText({ v, inline = false }: { v?: number | null; inline?: boolean }) {
+  if (v == null || !isFinite(v)) return <span className="text-atlas-muted">—</span>;
+  const pct = v * 100;
+  const cls = pct >= 0 ? 'text-atlas-positive' : 'text-atlas-negative';
+  const arrow = pct >= 0 ? '▲' : '▼';
+  const sign = pct >= 0 ? '+' : '';
+  return (
+    <span className={cls + (inline ? '' : ' tabular-nums')}>
+      {arrow} {sign}{pct.toFixed(2)}%
+    </span>
+  );
+}
+
+function Sparkline({ points }: { points?: { i: number; c: number }[] }) {
+  if (!points || points.length < 2) return <span className="text-atlas-muted">—</span>;
+  const ys = points.map(p => p.c);
+  const min = Math.min(...ys);
+  const max = Math.max(...ys);
+  const range = max - min || 1;
+  const W = 72;
+  const H = 22;
+  const path = points
+    .map((p, i) => {
+      const x = (i / (points.length - 1)) * W;
+      const y = H - ((p.c - min) / range) * H;
+      return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)},${y.toFixed(1)}`;
+    })
+    .join(' ');
+  const positive = ys[ys.length - 1] >= ys[0];
+  const color = positive ? '#34d399' : '#f87171';
+  return (
+    <svg width={W} height={H} viewBox={`0 0 ${W} ${H}`} className="inline-block align-middle">
+      <path d={path} fill="none" stroke={color} strokeWidth={1.25} />
+    </svg>
+  );
+}
+
+function Th({
+  label, onClick, active, dir, align, hideBelow,
+}: {
+  label: string;
+  onClick: () => void;
+  active: boolean;
+  dir: 'asc' | 'desc';
+  align: 'left' | 'right';
+  hideBelow?: 'sm' | 'md' | 'lg';
+}) {
+  const hideCls = hideBelow ? `hidden ${hideBelow}:table-cell` : '';
+  return (
+    <th className={`${hideCls} px-3 py-2 ${align === 'left' ? 'text-left' : 'text-right'}`}>
       <button onClick={onClick} className={`uppercase tracking-wide ${active ? 'text-atlas-text' : 'text-atlas-muted'}`}>
         {label}{active && (dir === 'asc' ? ' ↑' : ' ↓')}
       </button>

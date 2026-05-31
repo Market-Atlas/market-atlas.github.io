@@ -91,10 +91,15 @@ export interface ScreenerRow {
   currency?: Currency;
   domain?: string | null;
   tags?: string[];
+  aliases?: string[];
   marketCap?: number | null;
   marketCapCurrency?: Currency;
+  marketCapUsd?: number | null;
   price?: number | null;
   priceCurrency?: Currency;
+  dayChangePct?: number | null;
+  monthChangePct?: number | null;
+  sparkline?: { i: number; c: number }[];
   revenue?: number | null;
   netIncome?: number | null;
   fcf?: number | null;
@@ -109,6 +114,13 @@ export interface ScreenerRow {
   netMargin?: number | null;
   revenueCagr?: number | null;
   fcfCagr?: number | null;
+}
+
+export interface CategoryEntry {
+  slug: string;
+  label: string;
+  count: number;
+  top: string[];
 }
 
 export interface TagInfo { count: number; tickers: string[]; }
