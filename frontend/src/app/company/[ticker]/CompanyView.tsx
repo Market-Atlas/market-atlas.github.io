@@ -120,7 +120,7 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
           />
           <div>
             <div className="flex flex-wrap items-center gap-2">
-              <h1 className="text-2xl font-semibold tracking-tight">{company.name}</h1>
+              <h1 className="text-xl font-semibold tracking-tight sm:text-2xl">{company.name}</h1>
               <span className="rounded bg-atlas-border px-2 py-0.5 font-mono text-sm">{company.ticker}</span>
               {company.price?.value != null && (
                 <span className="num text-lg font-semibold text-atlas-text">
@@ -205,7 +205,7 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
       </section>
 
       {/* Chart */}
-      <Card title={`10-year fundamentals · ${displayCcy}`} actions={
+      <Card title={`${hist.length}-year fundamentals · ${displayCcy}`} subtitle={hist.length < 8 ? 'Showing all years available from the data provider (yfinance free tier). Full 10y history will arrive when SEC EDGAR / NSE filings adapters land.' : undefined} actions={
         <div className="flex flex-wrap gap-2 text-xs">
           {SERIES.map(s => (
             <button
@@ -294,7 +294,7 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         </ScrollTable>
       </Card>
 
-      <Card title="Compounded growth">
+      <Card title="Compounded growth" subtitle={hist.length < 11 ? `Only ${hist.length} years of data available · longer windows show ‘—’` : undefined}>
         <div className="overflow-x-auto">
           <table className="num min-w-full text-right text-sm">
             <thead className="text-xs uppercase tracking-wide text-atlas-muted">

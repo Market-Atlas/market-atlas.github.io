@@ -150,9 +150,9 @@ export default function RankingsPage() {
               <Th label="#"            onClick={() => setSort('rank')}    active={sortKey === 'rank'}    dir={sortDir} align="right" />
               <Th label="Company"      onClick={() => setSort('name')}    active={sortKey === 'name'}    dir={sortDir} align="left" />
               <Th label="Market cap"   onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
-              <Th label="Price"        onClick={() => setSort('price')}   active={sortKey === 'price'}   dir={sortDir} align="right" />
-              <Th label="Country"      onClick={() => setSort('country')} active={sortKey === 'country'} dir={sortDir} align="left" />
-              <th className="px-3 py-2 text-left">Tags</th>
+              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('price')} className={`uppercase tracking-wide ${sortKey === 'price' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Price</button></th>
+              <th className="hidden px-3 py-2 text-left md:table-cell"><button onClick={() => setSort('country')} className={`uppercase tracking-wide ${sortKey === 'country' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Country</button></th>
+              <th className="hidden px-3 py-2 text-left md:table-cell">Tags</th>
             </tr>
           </thead>
           <tbody>
@@ -165,11 +165,15 @@ export default function RankingsPage() {
                     <span className="font-mono text-xs text-atlas-muted">{r.ticker}</span>
                     <span className="truncate">{r.name}</span>
                   </Link>
+                  <div className="mt-0.5 flex items-center gap-1.5 text-[10px] text-atlas-muted sm:hidden">
+                    <span>{flag(r.country)} {r.country || '—'}</span>
+                    {r.priceDisp != null && <span>· {formatMoney(r.priceDisp, displayCcy, { compact: false })}</span>}
+                  </div>
                 </td>
                 <td className="px-3 py-1.5 font-medium">{formatMoney(r.mcapDisp, displayCcy)}</td>
-                <td className="px-3 py-1.5">{r.priceDisp == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
-                <td className="px-3 py-1.5 text-left">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
-                <td className="px-3 py-1.5 text-left">
+                <td className="hidden px-3 py-1.5 sm:table-cell">{r.priceDisp == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
+                <td className="hidden px-3 py-1.5 text-left md:table-cell">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
+                <td className="hidden px-3 py-1.5 text-left md:table-cell">
                   <div className="flex flex-wrap gap-1">
                     {(r.tags || [])
                       .filter(t => !t.startsWith('country-') && !['large-cap','mid-cap','small-cap','mega-cap','micro-cap'].includes(t))

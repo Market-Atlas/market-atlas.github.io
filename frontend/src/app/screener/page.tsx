@@ -76,14 +76,14 @@ export default function ScreenerPage() {
             <tr>
               <th className="px-3 py-2 text-left">Ticker</th>
               <th className="px-3 py-2 text-left">Name</th>
-              <th className="px-3 py-2 text-left">Sector</th>
-              <th className="px-3 py-2 text-left">Country</th>
+              <th className="hidden px-3 py-2 text-left md:table-cell">Sector</th>
+              <th className="hidden px-3 py-2 text-left lg:table-cell">Country</th>
               <th className="px-3 py-2">Market cap</th>
               <th className="px-3 py-2">ROE</th>
-              <th className="px-3 py-2">ROIC</th>
-              <th className="px-3 py-2">D/E</th>
-              <th className="px-3 py-2">Rev CAGR</th>
-              <th className="px-3 py-2">FCF CAGR</th>
+              <th className="hidden px-3 py-2 sm:table-cell">ROIC</th>
+              <th className="hidden px-3 py-2 sm:table-cell">D/E</th>
+              <th className="hidden px-3 py-2 md:table-cell">Rev CAGR</th>
+              <th className="hidden px-3 py-2 md:table-cell">FCF CAGR</th>
             </tr>
           </thead>
           <tbody>
@@ -95,14 +95,14 @@ export default function ScreenerPage() {
                   </Link>
                 </td>
                 <td className="px-3 py-1.5 text-left">{r.name}</td>
-                <td className="px-3 py-1.5 text-left text-atlas-muted">{r.sector || '—'}</td>
-                <td className="px-3 py-1.5 text-left text-atlas-muted">{r.country || '—'}</td>
+                <td className="hidden px-3 py-1.5 text-left text-atlas-muted md:table-cell">{r.sector || '—'}</td>
+                <td className="hidden px-3 py-1.5 text-left text-atlas-muted lg:table-cell">{r.country || '—'}</td>
                 <td className="px-3 py-1.5">{formatMoney(r.marketCap ?? null, r.marketCapCurrency || r.currency || 'USD')}</td>
                 <td className="px-3 py-1.5">{formatPercent(r.roe)}</td>
-                <td className="px-3 py-1.5">{formatPercent(r.roic)}</td>
-                <td className="px-3 py-1.5">{r.debtToEquity == null ? '—' : r.debtToEquity.toFixed(2)}</td>
-                <td className="px-3 py-1.5">{formatPercent(r.revenueCagr)}</td>
-                <td className="px-3 py-1.5">{formatPercent(r.fcfCagr)}</td>
+                <td className="hidden px-3 py-1.5 sm:table-cell">{formatPercent(r.roic)}</td>
+                <td className="hidden px-3 py-1.5 sm:table-cell">{r.debtToEquity == null ? '—' : r.debtToEquity.toFixed(2)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{formatPercent(r.revenueCagr)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{formatPercent(r.fcfCagr)}</td>
               </tr>
             ))}
           </tbody>
