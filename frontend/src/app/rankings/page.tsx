@@ -18,18 +18,23 @@ function flag(country?: string): string {
 }
 
 type SortKey =
-  | 'rank' | 'name' | 'mcap' | 'price' | 'day' | 'month'
+  | 'rank' | 'name' | 'mcap' | 'price'
   | 'country' | 'sector' | 'pe' | 'pb' | 'revenue' | 'profit' | 'fcf';
 
 const PAGE_SIZE = 100;
+
+// The Sector dropdown carries two kinds of values:
+//   sector:<yfinance sector>   → match on r.sector
+//   tag:<category slug>        → match on r.tags including the slug
+// '' means no filter.
+type SectorFilter = '' | `sector:${string}` | `tag:${string}`;
 
 export default function RankingsPage() {
   const [rows, setRows]             = useState<ScreenerRow[]>([]);
   const [fx, setFx]                 = useState<FxSnapshot | null>(null);
   const [categories, setCategories] = useState<CategoryEntry[]>([]);
-  const [activeCat, setActiveCat]   = useState<string>('');           // tag slug
   const [country, setCountry]       = useState<string>('');
-  const [sector, setSector]         = useState<string>('');
+  const [sector, setSector]         = useState<SectorFilter>('');
   const [search, setSearch]         = useState('');
   const [displayCcy, setDisplayCcy] = useState<'USD' | 'EUR' | 'INR' | 'JPY' | 'GBP'>('USD');
   const [sortKey, setSortKey]       = useState<SortKey>('rank');
@@ -81,13 +86,13 @@ export default function RankingsPage() {
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     return ranked.filter(r => {
-      if (activeCat && !(r.tags || []).includes(activeCat)) return false;
       if (country && r.country !== country) return false;
-      if (sector && r.sector !== sector) return false;
+      if (sector.startsWith('sector:') && r.sector !== sector.slice(7)) return false;
+      if (sector.startsWith('tag:') && !(r.tags || []).includes(sector.slice(4))) return false;
       if (q && !r.name.toLowerCase().includes(q) && !r.ticker.toLowerCase().includes(q)) return false;
       return true;
     });
-  }, [ranked, activeCat, country, sector, search]);
+  }, [ranked, country, sector, search]);
 
   const sorted = useMemo(() => {
     const arr = [...filtered];
@@ -100,8 +105,6 @@ export default function RankingsPage() {
         case 'name':    av = a.name;             bv = b.name;             break;
         case 'mcap':    av = a.mcapDisp      ?? NULL_LAST; bv = b.mcapDisp      ?? NULL_LAST; break;
         case 'price':   av = a.priceDisp     ?? NULL_LAST; bv = b.priceDisp     ?? NULL_LAST; break;
-        case 'day':     av = a.dayChangePct  ?? NULL_LAST; bv = b.dayChangePct  ?? NULL_LAST; break;
-        case 'month':   av = a.monthChangePct?? NULL_LAST; bv = b.monthChangePct?? NULL_LAST; break;
         case 'revenue': av = a.revenueDisp   ?? NULL_LAST; bv = b.revenueDisp   ?? NULL_LAST; break;
         case 'profit':  av = a.profitDisp    ?? NULL_LAST; bv = b.profitDisp    ?? NULL_LAST; break;
         case 'fcf':     av = a.fcfDisp       ?? NULL_LAST; bv = b.fcfDisp       ?? NULL_LAST; break;
@@ -117,7 +120,7 @@ export default function RankingsPage() {
     return arr;
   }, [filtered, sortKey, sortDir]);
 
-  useEffect(() => setPage(0), [activeCat, country, sector, search, sortKey, sortDir]);
+  useEffect(() => setPage(0), [country, sector, search, sortKey, sortDir]);
 
   const pageRows = sorted.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
   const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
@@ -135,7 +138,10 @@ export default function RankingsPage() {
 
   if (!fx) return <div className="py-12 text-center text-sm text-atlas-muted">Loading rankings…</div>;
 
-  const activeLabel = categories.find(c => c.slug === activeCat)?.label;
+  const activeLabel =
+    sector.startsWith('tag:')    ? categories.find(c => c.slug === sector.slice(4))?.label :
+    sector.startsWith('sector:') ? sector.slice(7) :
+    '';
 
   return (
     <div className="space-y-4">
@@ -151,30 +157,6 @@ export default function RankingsPage() {
         </p>
       </header>
 
-      {/* Categories — horizontal chip strip à la companiesmarketcap.com */}
-      {categories.length > 0 && (
-        <nav
-          aria-label="Categories"
-          className="-mx-2 flex gap-2 overflow-x-auto px-2 pb-1 text-sm"
-        >
-          <CategoryChip
-            label="All"
-            count={ranked.length}
-            active={!activeCat}
-            onClick={() => setActiveCat('')}
-          />
-          {categories.map(c => (
-            <CategoryChip
-              key={c.slug}
-              label={c.label}
-              count={c.count}
-              active={activeCat === c.slug}
-              onClick={() => setActiveCat(activeCat === c.slug ? '' : c.slug)}
-            />
-          ))}
-        </nav>
-      )}
-
       <section className="grid gap-3 rounded-lg border border-atlas-border bg-atlas-surface p-3 sm:grid-cols-2 lg:grid-cols-4">
         <input
           type="search"
@@ -184,7 +166,30 @@ export default function RankingsPage() {
           className="rounded border border-atlas-border bg-atlas-bg px-2 py-1.5 text-sm"
         />
         <SelectField label="Country" value={country} options={countries} onChange={setCountry} render={c => `${flag(c)} ${c}`} />
-        <SelectField label="Sector"  value={sector}  options={sectors}  onChange={setSector} />
+        <label className="flex items-center gap-2 text-xs text-atlas-muted">
+          Sector
+          <select
+            value={sector}
+            onChange={e => setSector(e.target.value as SectorFilter)}
+            className="flex-1 rounded border border-atlas-border bg-atlas-bg px-2 py-1.5 text-sm text-atlas-text"
+          >
+            <option value="">Any</option>
+            {sectors.length > 0 && (
+              <optgroup label="Sectors">
+                {sectors.map(s => (
+                  <option key={`s-${s}`} value={`sector:${s}`}>{s}</option>
+                ))}
+              </optgroup>
+            )}
+            {categories.length > 0 && (
+              <optgroup label="Categories">
+                {categories.map(c => (
+                  <option key={`t-${c.slug}`} value={`tag:${c.slug}`}>{c.label} ({c.count})</option>
+                ))}
+              </optgroup>
+            )}
+          </select>
+        </label>
         <label className="flex items-center gap-2 text-xs text-atlas-muted">
           Display
           <select
@@ -212,12 +217,9 @@ export default function RankingsPage() {
               <Th label="Company"     onClick={() => setSort('name')}    active={sortKey === 'name'}    dir={sortDir} align="left" />
               <Th label="Market cap"  onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
               <Th label="Price"       onClick={() => setSort('price')}   active={sortKey === 'price'}   dir={sortDir} align="right" hideBelow="sm" />
-              <Th label="Today"       onClick={() => setSort('day')}     active={sortKey === 'day'}     dir={sortDir} align="right" hideBelow="sm" />
-              <Th label="30 days"     onClick={() => setSort('month')}   active={sortKey === 'month'}   dir={sortDir} align="right" hideBelow="md" />
-              <th className="hidden px-3 py-2 text-center md:table-cell">30d chart</th>
-              <Th label="P/E"         onClick={() => setSort('pe')}      active={sortKey === 'pe'}      dir={sortDir} align="right" hideBelow="md" />
-              <Th label="Revenue"     onClick={() => setSort('revenue')} active={sortKey === 'revenue'} dir={sortDir} align="right" hideBelow="lg" />
-              <Th label="Profit"      onClick={() => setSort('profit')}  active={sortKey === 'profit'}  dir={sortDir} align="right" hideBelow="lg" />
+              <Th label="P/E"         onClick={() => setSort('pe')}      active={sortKey === 'pe'}      dir={sortDir} align="right" hideBelow="sm" />
+              <Th label="Revenue"     onClick={() => setSort('revenue')} active={sortKey === 'revenue'} dir={sortDir} align="right" hideBelow="md" />
+              <Th label="Profit"      onClick={() => setSort('profit')}  active={sortKey === 'profit'}  dir={sortDir} align="right" hideBelow="md" />
               <Th label="Country"     onClick={() => setSort('country')} active={sortKey === 'country'} dir={sortDir} align="left"  hideBelow="lg" />
             </tr>
           </thead>
@@ -236,19 +238,15 @@ export default function RankingsPage() {
                       </div>
                       <div className="mt-0.5 flex items-center gap-1.5 text-[10px] text-atlas-muted sm:hidden">
                         {r.priceDisp != null && <span>{formatMoney(r.priceDisp, displayCcy, { compact: false })}</span>}
-                        {r.dayChangePct != null && <PctText v={r.dayChangePct} inline />}
                       </div>
                     </div>
                   </Link>
                 </td>
                 <td className="px-3 py-1.5 font-medium">{formatMoney(r.mcapDisp, displayCcy)}</td>
                 <td className="hidden px-3 py-1.5 sm:table-cell">{r.priceDisp   == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
-                <td className="hidden px-3 py-1.5 sm:table-cell"><PctText v={r.dayChangePct} /></td>
-                <td className="hidden px-3 py-1.5 md:table-cell"><PctText v={r.monthChangePct} /></td>
-                <td className="hidden px-3 py-1.5 text-center md:table-cell"><Sparkline points={r.sparkline} /></td>
-                <td className="hidden px-3 py-1.5 md:table-cell">{r.pe          == null ? '—' : r.pe.toFixed(1)}</td>
-                <td className="hidden px-3 py-1.5 lg:table-cell">{r.revenueDisp == null ? '—' : formatMoney(r.revenueDisp, displayCcy)}</td>
-                <td className="hidden px-3 py-1.5 lg:table-cell">{r.profitDisp  == null ? '—' : formatMoney(r.profitDisp,  displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 sm:table-cell">{r.pe          == null ? '—' : r.pe.toFixed(1)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{r.revenueDisp == null ? '—' : formatMoney(r.revenueDisp, displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{r.profitDisp  == null ? '—' : formatMoney(r.profitDisp,  displayCcy)}</td>
                 <td className="hidden px-3 py-1.5 text-left lg:table-cell">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
               </tr>
             ))}
@@ -274,61 +272,6 @@ export default function RankingsPage() {
 }
 
 /* ───── tiny presentational helpers ──────────────────────────────────────── */
-
-function CategoryChip({
-  label, count, active, onClick,
-}: { label: string; count: number; active: boolean; onClick: () => void }) {
-  return (
-    <button
-      onClick={onClick}
-      className={
-        'shrink-0 rounded-full border px-3 py-1 text-xs transition ' +
-        (active
-          ? 'border-atlas-accent bg-atlas-accent/15 text-atlas-accent'
-          : 'border-atlas-border bg-atlas-surface text-atlas-muted hover:border-atlas-accent/40 hover:text-atlas-text')
-      }
-    >
-      {label} <span className="ml-1 text-[10px] opacity-70">{count}</span>
-    </button>
-  );
-}
-
-function PctText({ v, inline = false }: { v?: number | null; inline?: boolean }) {
-  if (v == null || !isFinite(v)) return <span className="text-atlas-muted">—</span>;
-  const pct = v * 100;
-  const cls = pct >= 0 ? 'text-atlas-positive' : 'text-atlas-negative';
-  const arrow = pct >= 0 ? '▲' : '▼';
-  const sign = pct >= 0 ? '+' : '';
-  return (
-    <span className={cls + (inline ? '' : ' tabular-nums')}>
-      {arrow} {sign}{pct.toFixed(2)}%
-    </span>
-  );
-}
-
-function Sparkline({ points }: { points?: { i: number; c: number }[] }) {
-  if (!points || points.length < 2) return <span className="text-atlas-muted">—</span>;
-  const ys = points.map(p => p.c);
-  const min = Math.min(...ys);
-  const max = Math.max(...ys);
-  const range = max - min || 1;
-  const W = 72;
-  const H = 22;
-  const path = points
-    .map((p, i) => {
-      const x = (i / (points.length - 1)) * W;
-      const y = H - ((p.c - min) / range) * H;
-      return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)},${y.toFixed(1)}`;
-    })
-    .join(' ');
-  const positive = ys[ys.length - 1] >= ys[0];
-  const color = positive ? '#34d399' : '#f87171';
-  return (
-    <svg width={W} height={H} viewBox={`0 0 ${W} ${H}`} className="inline-block align-middle">
-      <path d={path} fill="none" stroke={color} strokeWidth={1.25} />
-    </svg>
-  );
-}
 
 function Th({
   label, onClick, active, dir, align, hideBelow,
