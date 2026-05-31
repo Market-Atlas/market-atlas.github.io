@@ -1,0 +1,137 @@
+{
+  "ticker": "601995",
+  "name": "China International Capital Corporation Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.cicc.com",
+  "marketCap": {
+    "value": 163113009152.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 33.79,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 40103575616.0,
+    "operatingIncome": 21331201520.0,
+    "netIncome": 9790532489.0,
+    "eps": 1.88,
+    "freeCashFlow": 40881227649.0,
+    "totalDebt": 330113519033.0,
+    "cash": 60922073145.0,
+    "sharesOutstanding": 4827256868.0,
+    "peRatio": 17.973404,
+    "priceToBook": 1.5887719,
+    "dividendYield": 0.53
+  },
+  "ratios": {
+    "roe": 0.08021233467655402,
+    "roic": 0.047175054428552486,
+    "grossMargin": 0.6732252862068587,
+    "operatingMargin": 0.5319027341664158,
+    "netMargin": 0.24413116133948667,
+    "debtToEquity": 2.81616
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 36506877592.0,
+      "operatingIncome": 17191332057.0,
+      "netIncome": 7597501992.0,
+      "eps": 1.46,
+      "freeCashFlow": 56374923449.0,
+      "totalDebt": 276961503529.0,
+      "cash": 85789257629.0,
+      "sharesOutstanding": 4827256868.0,
+      "grossMargin": 0.6362255208067918,
+      "operatingMargin": 0.4709066672074758,
+      "netMargin": 0.2081115256393467,
+      "roe": 0.07659690468719971,
+      "roic": 0.04570344237352565
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33023747331.0,
+      "operatingIncome": 14862024352.0,
+      "netIncome": 6156130774.0,
+      "eps": 1.14,
+      "freeCashFlow": -3882037187.0,
+      "totalDebt": 280325755537.0,
+      "cash": 72135760946.0,
+      "sharesOutstanding": 4827256868.0,
+      "grossMargin": 0.6506191714902931,
+      "operatingMargin": 0.45004051790478494,
+      "netMargin": 0.18641526996608063,
+      "roe": 0.0588521661346366,
+      "roic": 0.03860977535627333
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 30925776344.0,
+      "operatingIncome": 14483131356.0,
+      "netIncome": 5694343080.0,
+      "eps": 1.04,
+      "freeCashFlow": 23298034074.0,
+      "totalDebt": 304311118824.0,
+      "cash": 64488851201.0,
+      "sharesOutstanding": 4827256868.0,
+      "grossMargin": 0.6697079841624816,
+      "operatingMargin": 0.4683190874466087,
+      "netMargin": 0.18412934946756077,
+      "roe": 0.04936680691414281,
+      "roic": 0.03451168875743154
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40103575616.0,
+      "operatingIncome": 21331201520.0,
+      "netIncome": 9790532489.0,
+      "eps": 1.88,
+      "freeCashFlow": 40881227649.0,
+      "totalDebt": 330113519033.0,
+      "cash": 60922073145.0,
+      "sharesOutstanding": 4827256868.0,
+      "grossMargin": 0.6732252862068587,
+      "operatingMargin": 0.5319027341664158,
+      "netMargin": 0.24413116133948667,
+      "roe": 0.08021233467655402,
+      "roic": 0.047175054428552486
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:25.158972+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

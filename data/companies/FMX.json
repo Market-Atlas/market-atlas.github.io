@@ -1,0 +1,138 @@
+{
+  "ticker": "FMX",
+  "name": "Fomento Económico Mexicano, S.A.B. de C.V.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "MXN",
+  "website": "https://www.femsa.com",
+  "marketCap": {
+    "value": 40551313408.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 119.03,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 840954000000.0,
+    "operatingIncome": 72155000000.0,
+    "netIncome": 19431000000.0,
+    "eps": 56.613281,
+    "freeCashFlow": 29033000000.0,
+    "totalDebt": 257557000000.0,
+    "cash": 107980000000.0,
+    "sharesOutstanding": 3439680717.0,
+    "peRatio": 26.160439,
+    "priceToBook": 3.290065,
+    "dividendYield": 5.64
+  },
+  "ratios": {
+    "roe": 0.07931603138189744,
+    "roic": 0.14358089620905043,
+    "grossMargin": 0.4061767944501126,
+    "operatingMargin": 0.08580136368933378,
+    "netMargin": 0.02310590115511669,
+    "debtToEquity": 0.87583
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 597008000000.0,
+      "operatingIncome": 63632000000.0,
+      "netIncome": 23909000000.0,
+      "eps": 69.187911,
+      "freeCashFlow": 41104000000.0,
+      "totalDebt": 285058000000.0,
+      "cash": 83439000000.0,
+      "sharesOutstanding": 3578226270.0,
+      "grossMargin": 0.40454734274917586,
+      "operatingMargin": 0.10658483638410206,
+      "netMargin": 0.040048039557258865,
+      "roe": 0.09104583326986641,
+      "roic": 0.11618845200141693
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 702692000000.0,
+      "operatingIncome": 57358000000.0,
+      "netIncome": 65689000000.0,
+      "eps": 185.538854,
+      "freeCashFlow": 11559000000.0,
+      "totalDebt": 232897000000.0,
+      "cash": 165112000000.0,
+      "sharesOutstanding": 3578226270.0,
+      "grossMargin": 0.39776601982091725,
+      "operatingMargin": 0.08162608938197674,
+      "netMargin": 0.09348192380160868,
+      "roe": 0.21618179424735076,
+      "roic": 0.10686027382968456
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 781585000000.0,
+      "operatingIncome": 70407000000.0,
+      "netIncome": 26735000000.0,
+      "eps": 112.108617,
+      "freeCashFlow": 24197000000.0,
+      "totalDebt": 256299000000.0,
+      "cash": 139834000000.0,
+      "sharesOutstanding": 3578226270.0,
+      "grossMargin": 0.41136024872534654,
+      "operatingMargin": 0.09008233269574006,
+      "netMargin": 0.03420613241042241,
+      "roe": 0.08986494208442296,
+      "roic": 0.12713411496187257
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 840954000000.0,
+      "operatingIncome": 72155000000.0,
+      "netIncome": 19431000000.0,
+      "eps": 56.613281,
+      "freeCashFlow": 29033000000.0,
+      "totalDebt": 257557000000.0,
+      "cash": 107980000000.0,
+      "sharesOutstanding": 3439680717.0,
+      "grossMargin": 0.4061767944501126,
+      "operatingMargin": 0.08580136368933378,
+      "netMargin": 0.02310590115511669,
+      "roe": 0.07931603138189744,
+      "roic": 0.14358089620905043
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:52.308438+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-us",
+    "food-beverage",
+    "large-cap"
+  ]
+}

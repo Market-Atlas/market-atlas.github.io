@@ -1,0 +1,137 @@
+{
+  "ticker": "ABEV3",
+  "name": "Ambev S.A.",
+  "country": "BR",
+  "exchange": "BVMF",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "BRL",
+  "website": "https://www.ambev.com.br",
+  "marketCap": {
+    "value": 254146363392.0,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 16.32,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 88242500000.0,
+    "operatingIncome": 22322600000.0,
+    "netIncome": 15503400000.0,
+    "eps": 0.9885,
+    "freeCashFlow": 19859900000.0,
+    "totalDebt": 3386900000.0,
+    "cash": 18638200000.0,
+    "sharesOutstanding": 15761638756.0,
+    "peRatio": 16.484848,
+    "priceToBook": 2.824018,
+    "dividendYield": 1.1
+  },
+  "ratios": {
+    "roe": 0.17634713885485945,
+    "roic": 0.24449458384902684,
+    "grossMargin": 0.5142465365328498,
+    "operatingMargin": 0.25296880754738366,
+    "netMargin": 0.17569085191376038,
+    "debtToEquity": 0.0342
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 79708800000.0,
+      "operatingIncome": 17402700000.0,
+      "netIncome": 14457900000.0,
+      "eps": 0.93,
+      "freeCashFlow": 14109000000.0,
+      "totalDebt": 3845000000.0,
+      "cash": 14926400000.0,
+      "sharesOutstanding": 15750234691.0,
+      "grossMargin": 0.4928778252840339,
+      "operatingMargin": 0.218328465614838,
+      "netMargin": 0.18138398771528363,
+      "roe": 0.17641137396346315,
+      "roic": 0.20282725295627305
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 79736900000.0,
+      "operatingIncome": 18772700000.0,
+      "netIncome": 14501900000.0,
+      "eps": 0.92,
+      "freeCashFlow": 18707300000.0,
+      "totalDebt": 3501100000.0,
+      "cash": 16059000000.0,
+      "sharesOutstanding": 15753833284.0,
+      "grossMargin": 0.5072344171895321,
+      "operatingMargin": 0.23543303037865781,
+      "netMargin": 0.1818718811491292,
+      "roe": 0.18363971821961192,
+      "roic": 0.22762954951109732
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 89452700000.0,
+      "operatingIncome": 21506800000.0,
+      "netIncome": 14437200000.0,
+      "eps": 0.91,
+      "freeCashFlow": 21349700000.0,
+      "totalDebt": 3452700000.0,
+      "cash": 28595700000.0,
+      "sharesOutstanding": 15757657336.0,
+      "grossMargin": 0.5124227664452834,
+      "operatingMargin": 0.24042650473378668,
+      "netMargin": 0.1613947930023353,
+      "roe": 0.1463594144893509,
+      "roic": 0.21065519497565008
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 88242500000.0,
+      "operatingIncome": 22322600000.0,
+      "netIncome": 15503400000.0,
+      "eps": 0.9885,
+      "freeCashFlow": 19859900000.0,
+      "totalDebt": 3386900000.0,
+      "cash": 18638200000.0,
+      "sharesOutstanding": 15761638756.0,
+      "grossMargin": 0.5142465365328498,
+      "operatingMargin": 0.25296880754738366,
+      "netMargin": 0.17569085191376038,
+      "roe": 0.17634713885485945,
+      "roic": 0.24449458384902684
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:45.813036+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-br",
+    "food-beverage"
+  ]
+}

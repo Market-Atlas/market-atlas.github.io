@@ -1,0 +1,120 @@
+{
+  "ticker": "ATCO-A",
+  "name": "Atlas Copco AB (publ)",
+  "country": "SE",
+  "exchange": "XSTO",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "currency": "SEK",
+  "website": "https://www.atlascopcogroup.com",
+  "marketCap": {
+    "value": 865711226880.0,
+    "currency": "SEK",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 177.45,
+    "currency": "SEK",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 168343000000.0,
+    "operatingIncome": 34811000000.0,
+    "netIncome": 26420000000.0,
+    "eps": 5.42,
+    "freeCashFlow": 26379000000.0,
+    "totalDebt": 34830000000.0,
+    "cash": 15523000000.0,
+    "sharesOutstanding": 4918452416.0,
+    "peRatio": 33.230335,
+    "priceToBook": 7.106528,
+    "dividendYield": 1.69
+  },
+  "ratios": {
+    "roe": 0.239732863909406,
+    "roic": 0.24001627182216828,
+    "grossMargin": 0.42895754501226663,
+    "operatingMargin": 0.20678614495405215,
+    "netMargin": 0.15694148256832777,
+    "debtToEquity": 0.29075
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 141325000000.0,
+      "operatingIncome": 30597000000.0,
+      "netIncome": 23477000000.0,
+      "eps": 4.81,
+      "freeCashFlow": 16346000000.0,
+      "totalDebt": 36301000000.0,
+      "cash": 11254000000.0,
+      "sharesOutstanding": 4918452416.0,
+      "grossMargin": 0.42019458694498496,
+      "operatingMargin": 0.21650097293472492,
+      "netMargin": 0.16612064390589068,
+      "roe": 0.29355056516955086,
+      "roic": 0.2631388838721329
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 172664000000.0,
+      "operatingIncome": 38484000000.0,
+      "netIncome": 28040000000.0,
+      "eps": 5.75,
+      "freeCashFlow": 22633000000.0,
+      "totalDebt": 32591000000.0,
+      "cash": 10887000000.0,
+      "sharesOutstanding": 4918452416.0,
+      "grossMargin": 0.43504725941713385,
+      "operatingMargin": 0.2228837511004031,
+      "netMargin": 0.16239633044525784,
+      "roe": 0.3066156369600875,
+      "roic": 0.3102522553026822
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 176771000000.0,
+      "operatingIncome": 37951000000.0,
+      "netIncome": 29782000000.0,
+      "eps": 6.1,
+      "freeCashFlow": 30863000000.0,
+      "totalDebt": 34708000000.0,
+      "cash": 18968000000.0,
+      "sharesOutstanding": 4918452416.0,
+      "grossMargin": 0.42848657302385573,
+      "operatingMargin": 0.21469019239581152,
+      "netMargin": 0.16847786118763824,
+      "roe": 0.2619349164467898,
+      "roic": 0.2557207158643739
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 168343000000.0,
+      "operatingIncome": 34811000000.0,
+      "netIncome": 26420000000.0,
+      "eps": 5.42,
+      "freeCashFlow": 26379000000.0,
+      "totalDebt": 34830000000.0,
+      "cash": 15523000000.0,
+      "sharesOutstanding": 4918452416.0,
+      "grossMargin": 0.42895754501226663,
+      "operatingMargin": 0.20678614495405215,
+      "netMargin": 0.15694148256832777,
+      "roe": 0.239732863909406,
+      "roic": 0.24001627182216828
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:47.868064+00:00"
+  },
+  "tags": [
+    "country-se",
+    "industrials",
+    "large-cap"
+  ]
+}

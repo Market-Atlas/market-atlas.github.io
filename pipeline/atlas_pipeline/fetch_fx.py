@@ -19,7 +19,8 @@ from .paths import DATA_DIR
 
 # Currencies we display in the UI.
 KEEP = ["USD", "EUR", "GBP", "JPY", "INR", "CHF", "CAD", "AUD",
-        "HKD", "SEK", "NOK", "DKK", "CNY", "SGD", "KRW"]
+        "HKD", "SEK", "NOK", "DKK", "CNY", "SGD", "KRW",
+        "TWD", "SAR", "AED", "BRL", "MXN", "IDR"]
 
 
 def _from_open_er(base: str) -> dict:

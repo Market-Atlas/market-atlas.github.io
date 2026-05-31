@@ -1,0 +1,120 @@
+{
+  "ticker": "BBCA",
+  "name": "PT Bank Central Asia Tbk",
+  "country": "ID",
+  "exchange": "XIDX",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "IDR",
+  "website": "https://www.bca.co.id",
+  "marketCap": {
+    "value": 700394544037888.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 5700.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 114319648000000.0,
+    "operatingIncome": null,
+    "netIncome": 57537287000000.0,
+    "eps": 467.0,
+    "freeCashFlow": 75057575000000.0,
+    "totalDebt": 2395446000000.0,
+    "cash": 90907332000000.0,
+    "sharesOutstanding": 123275050000.0,
+    "peRatio": 12.106537,
+    "priceToBook": 2.702845,
+    "dividendYield": 5.89
+  },
+  "ratios": {
+    "roe": 0.20441967870859562,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.67586,
+    "netMargin": 0.5033018208733463,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 89523508000000.0,
+      "operatingIncome": null,
+      "netIncome": 40735722000000.0,
+      "eps": 330.0,
+      "freeCashFlow": 30424257000000.0,
+      "totalDebt": 2105543000000.0,
+      "cash": 161598872000000.0,
+      "sharesOutstanding": 123275050000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.45502821448864583,
+      "roe": 0.1843090169521746,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 100485975000000.0,
+      "operatingIncome": null,
+      "netIncome": 48639122000000.0,
+      "eps": 395.0,
+      "freeCashFlow": 52964427000000.0,
+      "totalDebt": 2366393000000.0,
+      "cash": 127933638000000.0,
+      "sharesOutstanding": 123275050000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.48403891189790416,
+      "roe": 0.20069266130270638,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 108796625000000.0,
+      "operatingIncome": null,
+      "netIncome": 54836305000000.0,
+      "eps": 445.0,
+      "freeCashFlow": 49647050000000.0,
+      "totalDebt": 3044409000000.0,
+      "cash": 88618295000000.0,
+      "sharesOutstanding": 123275050000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5040257912412265,
+      "roe": 0.2087883617972408,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 114319648000000.0,
+      "operatingIncome": null,
+      "netIncome": 57537287000000.0,
+      "eps": 467.0,
+      "freeCashFlow": 75057575000000.0,
+      "totalDebt": 2395446000000.0,
+      "cash": 90907332000000.0,
+      "sharesOutstanding": 123275050000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5033018208733463,
+      "roe": 0.20441967870859562,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:48.113150+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-id",
+    "financials"
+  ]
+}

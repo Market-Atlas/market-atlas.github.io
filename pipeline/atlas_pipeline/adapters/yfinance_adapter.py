@@ -38,9 +38,11 @@ _SUFFIX_MAP = {
     ".T":  {"exchange": "XTKS", "country": "JP", "currency_fallback": "JPY"},
     ".L":  {"exchange": "XLON", "country": "GB", "currency_fallback": "GBP"},
     ".TO": {"exchange": "XTSE", "country": "CA", "currency_fallback": "CAD"},
+    ".V":  {"exchange": "XTSX", "country": "CA", "currency_fallback": "CAD"},
     ".AX": {"exchange": "XASX", "country": "AU", "currency_fallback": "AUD"},
     ".HK": {"exchange": "XHKG", "country": "HK", "currency_fallback": "HKD"},
     ".DE": {"exchange": "XETR", "country": "DE", "currency_fallback": "EUR"},
+    ".F":  {"exchange": "XFRA", "country": "DE", "currency_fallback": "EUR"},
     ".PA": {"exchange": "XPAR", "country": "FR", "currency_fallback": "EUR"},
     ".AS": {"exchange": "XAMS", "country": "NL", "currency_fallback": "EUR"},
     ".SW": {"exchange": "XSWX", "country": "CH", "currency_fallback": "CHF"},
@@ -52,6 +54,21 @@ _SUFFIX_MAP = {
     ".ST": {"exchange": "XSTO", "country": "SE", "currency_fallback": "SEK"},
     ".OL": {"exchange": "XOSL", "country": "NO", "currency_fallback": "NOK"},
     ".CO": {"exchange": "XCSE", "country": "DK", "currency_fallback": "DKK"},
+    # newly added — mainland China, Taiwan, Korea, Saudi, UAE, Brazil, Mexico
+    ".SS": {"exchange": "XSHG", "country": "CN", "currency_fallback": "CNY"},
+    ".SZ": {"exchange": "XSHE", "country": "CN", "currency_fallback": "CNY"},
+    ".TW": {"exchange": "XTAI", "country": "TW", "currency_fallback": "TWD"},
+    ".TWO": {"exchange": "XTAI", "country": "TW", "currency_fallback": "TWD"},
+    ".KS": {"exchange": "XKRX", "country": "KR", "currency_fallback": "KRW"},
+    ".KQ": {"exchange": "XKOS", "country": "KR", "currency_fallback": "KRW"},
+    ".SR": {"exchange": "XSAU", "country": "SA", "currency_fallback": "SAR"},
+    ".AE": {"exchange": "XADX", "country": "AE", "currency_fallback": "AED"},
+    ".SA": {"exchange": "BVMF", "country": "BR", "currency_fallback": "BRL"},
+    ".MX": {"exchange": "XMEX", "country": "MX", "currency_fallback": "MXN"},
+    ".JK": {"exchange": "XIDX", "country": "ID", "currency_fallback": "IDR"},
+    ".SI": {"exchange": "XSES", "country": "SG", "currency_fallback": "SGD"},
+    ".VI": {"exchange": "XWBO", "country": "AT", "currency_fallback": "EUR"},
+    ".IR": {"exchange": "XDUB", "country": "IE", "currency_fallback": "EUR"},
 }
 
 
@@ -213,6 +230,9 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             "totalDebt":         latest.get("totalDebt"),
             "cash":              latest.get("cash"),
             "sharesOutstanding": latest.get("sharesOutstanding") or _safe(info.get("sharesOutstanding")),
+            "peRatio":           _safe(info.get("trailingPE")) or _safe(info.get("forwardPE")),
+            "priceToBook":       _safe(info.get("priceToBook")),
+            "dividendYield":     _safe(info.get("dividendYield")),
         },
         "ratios": {
             "roe":             latest.get("roe")  or _safe(info.get("returnOnEquity")),

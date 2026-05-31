@@ -1,0 +1,138 @@
+{
+  "ticker": "BBD",
+  "name": "Banco Bradesco S.A.",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "BRL",
+  "website": "https://banco.bradesco",
+  "marketCap": {
+    "value": 36891783168.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 3.49,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 117814239000.0,
+    "operatingIncome": null,
+    "netIncome": 23672706000.0,
+    "eps": 2.13,
+    "freeCashFlow": -74164468000.0,
+    "totalDebt": 448686343000.0,
+    "cash": 160839395000.0,
+    "sharesOutstanding": 10592012028.0,
+    "peRatio": 8.512196,
+    "priceToBook": 1.0416869,
+    "dividendYield": 4.75
+  },
+  "ratios": {
+    "roe": 0.13268327046189848,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.35085,
+    "netMargin": 0.20093246963128117,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 108847040000.0,
+      "operatingIncome": null,
+      "netIncome": 21223264000.0,
+      "eps": 1.87,
+      "freeCashFlow": 40355463000.0,
+      "totalDebt": 349226772000.0,
+      "cash": 142983856000.0,
+      "sharesOutstanding": 10658488028.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1949824634643257,
+      "roe": 0.13303208185798507,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 98334177000.0,
+      "operatingIncome": null,
+      "netIncome": 14251329000.0,
+      "eps": 1.27,
+      "freeCashFlow": -9318258000.0,
+      "totalDebt": 359485413000.0,
+      "cash": 171841550000.0,
+      "sharesOutstanding": 10642170228.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.14492752606247977,
+      "roe": 0.08568055262590463,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 105330174000.0,
+      "operatingIncome": null,
+      "netIncome": 17252900000.0,
+      "eps": 1.55,
+      "freeCashFlow": 42180027000.0,
+      "totalDebt": 406480756000.0,
+      "cash": 168357963000.0,
+      "sharesOutstanding": 10642170228.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1637982673417021,
+      "roe": 0.10244602784140883,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 117814239000.0,
+      "operatingIncome": null,
+      "netIncome": 23672706000.0,
+      "eps": 2.13,
+      "freeCashFlow": -74164468000.0,
+      "totalDebt": 448686343000.0,
+      "cash": 160839395000.0,
+      "sharesOutstanding": 10592012028.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.20093246963128117,
+      "roe": 0.13268327046189848,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:49.224617+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-us",
+    "financials",
+    "large-cap"
+  ]
+}

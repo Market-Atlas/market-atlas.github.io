@@ -1,0 +1,121 @@
+{
+  "ticker": "601319",
+  "name": "The People's Insurance Company (Group) of China Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "currency": "CNY",
+  "website": "https://www.picc.com",
+  "marketCap": {
+    "value": 302492123136.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.84,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 647166000000.0,
+    "operatingIncome": null,
+    "netIncome": 46207000000.0,
+    "eps": 1.0,
+    "freeCashFlow": null,
+    "totalDebt": 43984000000.0,
+    "cash": 24287000000.0,
+    "sharesOutstanding": 44223990583.0,
+    "peRatio": 6.84,
+    "priceToBook": 0.9472372,
+    "dividendYield": 2.81
+  },
+  "ratios": {
+    "roe": 0.14944870837012383,
+    "roic": null,
+    "grossMargin": 0.13399,
+    "operatingMargin": 0.10423,
+    "netMargin": 0.0713989919124305,
+    "debtToEquity": 0.45378999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 475090000000.0,
+      "operatingIncome": null,
+      "netIncome": 25369000000.0,
+      "eps": 0.57,
+      "freeCashFlow": 64545000000.0,
+      "totalDebt": 45647000000.0,
+      "cash": 22227000000.0,
+      "sharesOutstanding": 44224000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.053398303479340756,
+      "roe": 0.11383839426343162,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 530208000000.0,
+      "operatingIncome": null,
+      "netIncome": 22322000000.0,
+      "eps": 0.48,
+      "freeCashFlow": 66976000000.0,
+      "totalDebt": 40865000000.0,
+      "cash": 20393000000.0,
+      "sharesOutstanding": 44223990583.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04210045868791116,
+      "roe": 0.09178227510834437,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 599402000000.0,
+      "operatingIncome": null,
+      "netIncome": 42151000000.0,
+      "eps": 0.91,
+      "freeCashFlow": null,
+      "totalDebt": 52602000000.0,
+      "cash": 24902000000.0,
+      "sharesOutstanding": 44223990583.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07032175401483479,
+      "roe": 0.15677326251738785,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 647166000000.0,
+      "operatingIncome": null,
+      "netIncome": 46207000000.0,
+      "eps": 1.0,
+      "freeCashFlow": null,
+      "totalDebt": 43984000000.0,
+      "cash": 24287000000.0,
+      "sharesOutstanding": 44223990583.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0713989919124305,
+      "roe": 0.14944870837012383,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:11.445466+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "insurance",
+    "large-cap"
+  ]
+}

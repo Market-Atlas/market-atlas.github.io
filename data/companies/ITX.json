@@ -1,0 +1,138 @@
+{
+  "ticker": "ITX",
+  "name": "Industria de Diseño Textil, S.A.",
+  "country": "ES",
+  "exchange": "XMAD",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "currency": "EUR",
+  "website": "https://www.inditex.com",
+  "marketCap": {
+    "value": 166017073152.0,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 53.3,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 39864173000.0,
+    "operatingIncome": 8045112000.0,
+    "netIncome": 6220090000.0,
+    "eps": null,
+    "freeCashFlow": 6520075000.0,
+    "totalDebt": 1711000.0,
+    "cash": 5276288000.0,
+    "sharesOutstanding": 3116652000.0,
+    "peRatio": 26.65,
+    "priceToBook": 8.13989,
+    "dividendYield": 1.22
+  },
+  "ratios": {
+    "roe": 0.30497874520125096,
+    "roic": 0.3944287530390692,
+    "grossMargin": 0.5825394897819653,
+    "operatingMargin": 0.20181309167005673,
+    "netMargin": 0.15603208424767773,
+    "debtToEquity": 0.29100000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 1.042,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-31",
+      "revenue": 32569000000.0,
+      "operatingIncome": 5895000000.0,
+      "netIncome": 4130000000.0,
+      "eps": 1.326,
+      "freeCashFlow": 5259000000.0,
+      "totalDebt": 5596000000.0,
+      "cash": 5561000000.0,
+      "sharesOutstanding": 3116652000.0,
+      "grossMargin": 0.5698056434032363,
+      "operatingMargin": 0.18100033774448096,
+      "netMargin": 0.12680770057416563,
+      "roe": 0.242826904985889,
+      "roic": 0.26079454963723236
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-31",
+      "revenue": 35947000000.0,
+      "operatingIncome": 6914000000.0,
+      "netIncome": 5381000000.0,
+      "eps": 1.726,
+      "freeCashFlow": 6795000000.0,
+      "totalDebt": 5739000000.0,
+      "cash": 7007000000.0,
+      "sharesOutstanding": 3116652000.0,
+      "grossMargin": 0.5775447186135143,
+      "operatingMargin": 0.19233872089465046,
+      "netMargin": 0.14969260299885942,
+      "roe": 0.2886492865572364,
+      "roic": 0.283581477379927
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-31",
+      "revenue": 38631875000.0,
+      "operatingIncome": 7593512000.0,
+      "netIncome": 5866133000.0,
+      "eps": 1.88,
+      "freeCashFlow": 6616236000.0,
+      "totalDebt": 5909000000.0,
+      "cash": 6382000000.0,
+      "sharesOutstanding": 3116652000.0,
+      "grossMargin": 0.5783666208280079,
+      "operatingMargin": 0.19656079338629046,
+      "netMargin": 0.15184696575043277,
+      "roe": 0.2981364606627363,
+      "roic": 0.2967954660934141
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-31",
+      "revenue": 39864173000.0,
+      "operatingIncome": 8045112000.0,
+      "netIncome": 6220090000.0,
+      "eps": null,
+      "freeCashFlow": 6520075000.0,
+      "totalDebt": 1711000.0,
+      "cash": 5276288000.0,
+      "sharesOutstanding": 3116652000.0,
+      "grossMargin": 0.5825394897819653,
+      "operatingMargin": 0.20181309167005673,
+      "netMargin": 0.15603208424767773,
+      "roe": 0.30497874520125096,
+      "roic": 0.3944287530390692
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:55.438910+00:00"
+  },
+  "tags": [
+    "consumer-cyclical",
+    "country-es",
+    "large-cap",
+    "retail"
+  ]
+}

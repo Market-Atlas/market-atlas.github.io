@@ -1,0 +1,120 @@
+{
+  "ticker": "WALMEX",
+  "name": "Wal-Mart de México, S.A.B. de C.V.",
+  "country": "MX",
+  "exchange": "XMEX",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "currency": "MXN",
+  "website": "https://www.walmex.mx",
+  "marketCap": {
+    "value": 906111942656.0,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 52.4,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 1010803706000.0,
+    "operatingIncome": 78493750000.0,
+    "netIncome": 49890741000.0,
+    "eps": 2.873,
+    "freeCashFlow": 43455793000.0,
+    "totalDebt": 80848147000.0,
+    "cash": 28591153000.0,
+    "sharesOutstanding": 17305307303.0,
+    "peRatio": 18.194445,
+    "priceToBook": 3.8464363,
+    "dividendYield": 3.83
+  },
+  "ratios": {
+    "roe": 0.21177828373174587,
+    "roic": 0.24806179732244352,
+    "grossMargin": 0.24179147301226853,
+    "operatingMargin": 0.07765479047422487,
+    "netMargin": 0.049357497112302834,
+    "debtToEquity": 0.32177999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 818225636000.0,
+      "operatingIncome": 68011617000.0,
+      "netIncome": 48974184000.0,
+      "eps": 2.805,
+      "freeCashFlow": 43165684000.0,
+      "totalDebt": 69838582000.0,
+      "cash": 47427191000.0,
+      "sharesOutstanding": 17461402631.0,
+      "grossMargin": 0.232765299228537,
+      "operatingMargin": 0.08312085811987441,
+      "netMargin": 0.059854130505390325,
+      "roe": 0.2418855886254596,
+      "roic": 0.24976084251095082
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 885739821000.0,
+      "operatingIncome": 73275983000.0,
+      "netIncome": 51589989000.0,
+      "eps": 2.955,
+      "freeCashFlow": 56329405000.0,
+      "totalDebt": 75253796000.0,
+      "cash": 40668985000.0,
+      "sharesOutstanding": 17446322177.0,
+      "grossMargin": 0.23683586875789792,
+      "operatingMargin": 0.08272856347055893,
+      "netMargin": 0.058245082559069,
+      "roe": 0.2591341400803513,
+      "roic": 0.2670993205715045
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 957524496000.0,
+      "operatingIncome": 77358988000.0,
+      "netIncome": 53827384000.0,
+      "eps": 3.085,
+      "freeCashFlow": 37871746000.0,
+      "totalDebt": 79729904000.0,
+      "cash": 36513582000.0,
+      "sharesOutstanding": 17446322177.0,
+      "grossMargin": 0.24071470125606062,
+      "operatingMargin": 0.08079060987281521,
+      "netMargin": 0.056215150865445845,
+      "roe": 0.23114235359843763,
+      "roic": 0.24746531787858939
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1010803706000.0,
+      "operatingIncome": 78493750000.0,
+      "netIncome": 49890741000.0,
+      "eps": 2.873,
+      "freeCashFlow": 43455793000.0,
+      "totalDebt": 80848147000.0,
+      "cash": 28591153000.0,
+      "sharesOutstanding": 17305307303.0,
+      "grossMargin": 0.24179147301226853,
+      "operatingMargin": 0.07765479047422487,
+      "netMargin": 0.049357497112302834,
+      "roe": 0.21177828373174587,
+      "roic": 0.24806179732244352
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:02.311737+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-mx",
+    "retail"
+  ]
+}

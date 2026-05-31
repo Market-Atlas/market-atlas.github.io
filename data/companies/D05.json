@@ -1,0 +1,121 @@
+{
+  "ticker": "D05",
+  "name": "DBS Group Holdings Ltd",
+  "country": "SG",
+  "exchange": "XSES",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "SGD",
+  "website": "https://www.dbs.com",
+  "marketCap": {
+    "value": 178316967936.0,
+    "currency": "SGD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 62.84,
+    "currency": "SGD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 22895000000.0,
+    "operatingIncome": null,
+    "netIncome": 10934000000.0,
+    "eps": 3.82,
+    "freeCashFlow": 10499000000.0,
+    "totalDebt": 75004000000.0,
+    "cash": 150352000000.0,
+    "sharesOutstanding": 2838000000.0,
+    "peRatio": 16.40731,
+    "priceToBook": 2.5896316,
+    "dividendYield": 5.16
+  },
+  "ratios": {
+    "roe": 0.15876980266310425,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.60021,
+    "netMargin": 0.47757152216641185,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 16494000000.0,
+      "operatingIncome": null,
+      "netIncome": 8193000000.0,
+      "eps": 2.863636,
+      "freeCashFlow": 2100000000.0,
+      "totalDebt": 47079000000.0,
+      "cash": 115012000000.0,
+      "sharesOutstanding": 2846379800.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4967260822117133,
+      "roe": 0.14402236011742578,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 20134000000.0,
+      "operatingIncome": null,
+      "netIncome": 10062000000.0,
+      "eps": 3.52,
+      "freeCashFlow": 4691000000.0,
+      "totalDebt": 44829000000.0,
+      "cash": 118877000000.0,
+      "sharesOutstanding": 2846379387.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.49975166385219033,
+      "roe": 0.16212035768951905,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 22217000000.0,
+      "operatingIncome": null,
+      "netIncome": 11290000000.0,
+      "eps": 3.94,
+      "freeCashFlow": 14425000000.0,
+      "totalDebt": 64902000000.0,
+      "cash": 140166000000.0,
+      "sharesOutstanding": 2846351470.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5081694198136563,
+      "roe": 0.16413223621085685,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22895000000.0,
+      "operatingIncome": null,
+      "netIncome": 10934000000.0,
+      "eps": 3.82,
+      "freeCashFlow": 10499000000.0,
+      "totalDebt": 75004000000.0,
+      "cash": 150352000000.0,
+      "sharesOutstanding": 2838000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.47757152216641185,
+      "roe": 0.15876980266310425,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:51.279893+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-sg",
+    "financials",
+    "large-cap"
+  ]
+}

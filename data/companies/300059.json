@@ -1,0 +1,137 @@
+{
+  "ticker": "300059",
+  "name": "East Money Information Co.,Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.eastmoney.com",
+  "marketCap": {
+    "value": 302805352448.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 19.16,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 16067741039.51,
+    "operatingIncome": 11625030096.63,
+    "netIncome": 12084594947.22,
+    "eps": 0.7647,
+    "freeCashFlow": -10378817522.359999,
+    "totalDebt": 137007757130.39,
+    "cash": 124282846610.66,
+    "sharesOutstanding": 15804037675.0,
+    "peRatio": 23.084337,
+    "priceToBook": 3.1669421,
+    "dividendYield": 0.52
+  },
+  "ratios": {
+    "roe": 0.13153233198769865,
+    "roic": 0.050790222568327624,
+    "grossMargin": 0.9658891001789064,
+    "operatingMargin": 0.7235012107828018,
+    "netMargin": 0.7521029196017295,
+    "debtToEquity": 1.46602
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 12485576441.96,
+      "operatingIncome": 8574148144.25,
+      "netIncome": 8509461233.33,
+      "eps": 0.54,
+      "freeCashFlow": 659906442.9300001,
+      "totalDebt": 69992457527.6,
+      "cash": 64230876969.67,
+      "sharesOutstanding": 15856995052.0,
+      "grossMargin": 0.9572069402927683,
+      "operatingMargin": 0.6867242521086212,
+      "netMargin": 0.6815433210382216,
+      "roe": 0.1305839823675361,
+      "roic": 0.0634383752525796
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11081439282.37,
+      "operatingIncome": 6959495652.5,
+      "netIncome": 8193469277.99,
+      "eps": 0.5168,
+      "freeCashFlow": -3660386935.79,
+      "totalDebt": 85310306357.08,
+      "cash": 61399102365.62,
+      "sharesOutstanding": 15856995052.0,
+      "grossMargin": 0.9514525065533777,
+      "operatingMargin": 0.6280317452600402,
+      "netMargin": 0.7393867411271555,
+      "roe": 0.11385691472310329,
+      "roic": 0.04425100472591906
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 11604343090.16,
+      "operatingIncome": 7604005609.99,
+      "netIncome": 9610120743.64,
+      "eps": 0.6086,
+      "freeCashFlow": 44353059385.83,
+      "totalDebt": 102498276366.59,
+      "cash": 101258983590.34,
+      "sharesOutstanding": 15785542475.0,
+      "grossMargin": 0.957214814294744,
+      "operatingMargin": 0.6552723881835139,
+      "netMargin": 0.828148622371307,
+      "roe": 0.11904455717930303,
+      "roic": 0.04150083440459127
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 16067741039.51,
+      "operatingIncome": 11625030096.63,
+      "netIncome": 12084594947.22,
+      "eps": 0.7647,
+      "freeCashFlow": -10378817522.359999,
+      "totalDebt": 137007757130.39,
+      "cash": 124282846610.66,
+      "sharesOutstanding": 15804037675.0,
+      "grossMargin": 0.9658891001789064,
+      "operatingMargin": 0.7235012107828018,
+      "netMargin": 0.7521029196017295,
+      "roe": 0.13153233198769865,
+      "roic": 0.050790222568327624
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:30.677121+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

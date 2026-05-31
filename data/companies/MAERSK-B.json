@@ -1,0 +1,138 @@
+{
+  "ticker": "MAERSK-B",
+  "name": "A.P. Møller - Mærsk A/S",
+  "country": "DK",
+  "exchange": "XCSE",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "currency": "USD",
+  "website": "https://www.maersk.com",
+  "marketCap": {
+    "value": 228353015808.0,
+    "currency": "DKK",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 15810.0,
+    "currency": "DKK",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 53988000000.0,
+    "operatingIncome": 2913000000.0,
+    "netIncome": 2725000000.0,
+    "eps": 178.0,
+    "freeCashFlow": 4962000000.0,
+    "totalDebt": 18920000000.0,
+    "cash": 9042000000.0,
+    "sharesOutstanding": 15828942.0,
+    "peRatio": 22.830984,
+    "priceToBook": 0.6625516,
+    "dividendYield": 3.04
+  },
+  "ratios": {
+    "roe": 0.04902754538421403,
+    "roic": 0.03910014630676098,
+    "grossMargin": 0.0705527154182411,
+    "operatingMargin": 0.05395643476328073,
+    "netMargin": 0.05047417944728458,
+    "debtToEquity": 0.31709
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 81529000000.0,
+      "operatingIncome": 30681000000.0,
+      "netIncome": 29198000000.0,
+      "eps": 1595.0,
+      "freeCashFlow": 30313000000.0,
+      "totalDebt": 15643000000.0,
+      "cash": 10057000000.0,
+      "sharesOutstanding": 18707161.0,
+      "grossMargin": 0.38414551877246134,
+      "operatingMargin": 0.3763200824246587,
+      "netMargin": 0.3581302358669921,
+      "roe": 0.45628291478489164,
+      "roic": 0.3852751337368461
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 51065000000.0,
+      "operatingIncome": 3034000000.0,
+      "netIncome": 3822000000.0,
+      "eps": 227.0,
+      "freeCashFlow": 5997000000.0,
+      "totalDebt": 14814000000.0,
+      "cash": 6701000000.0,
+      "sharesOutstanding": 17569530.0,
+      "grossMargin": 0.07586409478116127,
+      "operatingMargin": 0.05941447175168903,
+      "netMargin": 0.0748457847840987,
+      "roe": 0.07073847862298722,
+      "roic": 0.04407065248968683
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 55482000000.0,
+      "operatingIncome": 5963000000.0,
+      "netIncome": 6109000000.0,
+      "eps": 387.0,
+      "freeCashFlow": 7207000000.0,
+      "totalDebt": 16477000000.0,
+      "cash": 6575000000.0,
+      "sharesOutstanding": 15828942.0,
+      "grossMargin": 0.12470711221657474,
+      "operatingMargin": 0.10747629861937205,
+      "netMargin": 0.1101077827043005,
+      "roe": 0.10733172865751885,
+      "roic": 0.08124642341335804
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 53988000000.0,
+      "operatingIncome": 2913000000.0,
+      "netIncome": 2725000000.0,
+      "eps": 178.0,
+      "freeCashFlow": 4962000000.0,
+      "totalDebt": 18920000000.0,
+      "cash": 9042000000.0,
+      "sharesOutstanding": 15828942.0,
+      "grossMargin": 0.0705527154182411,
+      "operatingMargin": 0.05395643476328073,
+      "netMargin": 0.05047417944728458,
+      "roe": 0.04902754538421403,
+      "roic": 0.03910014630676098
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:56.207385+00:00"
+  },
+  "tags": [
+    "country-dk",
+    "industrials",
+    "large-cap",
+    "logistics"
+  ]
+}

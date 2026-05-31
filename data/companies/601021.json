@@ -1,0 +1,138 @@
+{
+  "ticker": "601021",
+  "name": "Spring Airlines Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "currency": "CNY",
+  "website": "https://www.ch.com",
+  "marketCap": {
+    "value": 47938338816.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 49.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 21459531429.0,
+    "operatingIncome": 3348638872.0,
+    "netIncome": 2317401673.0,
+    "eps": 2.38,
+    "freeCashFlow": 291614845.0,
+    "totalDebt": 20974696033.0,
+    "cash": 8829762289.0,
+    "sharesOutstanding": 978333423.0,
+    "peRatio": 18.08118,
+    "priceToBook": 2.5268152,
+    "dividendYield": 2.55
+  },
+  "ratios": {
+    "roe": 0.12758562420205144,
+    "roic": 0.08555935340589467,
+    "grossMargin": 0.13585415975393708,
+    "operatingMargin": 0.1560443611305843,
+    "netMargin": 0.10798938833623868,
+    "debtToEquity": 1.1906
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8368966339.0,
+      "operatingIncome": -2810353396.0,
+      "netIncome": -3035823226.0,
+      "eps": -3.3,
+      "freeCashFlow": -4134063080.0,
+      "totalDebt": 25018061954.0,
+      "cash": 10208387880.0,
+      "sharesOutstanding": 978548805.0,
+      "grossMargin": -0.3849192859084817,
+      "operatingMargin": -0.3358065120782654,
+      "netMargin": -0.36274769225117326,
+      "roe": -0.22170798632056765,
+      "roic": -0.07259840439644207
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 17937857423.0,
+      "operatingIncome": 2917535807.0,
+      "netIncome": 2257429466.0,
+      "eps": 2.31,
+      "freeCashFlow": 3488921086.0,
+      "totalDebt": 22202944884.0,
+      "cash": 11582688552.0,
+      "sharesOutstanding": 978548805.0,
+      "grossMargin": 0.13486320801603352,
+      "operatingMargin": 0.16264683892843984,
+      "netMargin": 0.1258472186932155,
+      "roe": 0.14332967511197783,
+      "roic": 0.07687263119517132
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19999927181.0,
+      "operatingIncome": 2918122675.0,
+      "netIncome": 2272944296.0,
+      "eps": 2.33,
+      "freeCashFlow": -1318735368.0,
+      "totalDebt": 19637336853.0,
+      "cash": 10223808981.0,
+      "sharesOutstanding": 978548805.0,
+      "grossMargin": 0.12938397243057442,
+      "operatingMargin": 0.1459066649888719,
+      "netMargin": 0.1136476285853333,
+      "roe": 0.13077256726019354,
+      "roic": 0.07882933645092323
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 21459531429.0,
+      "operatingIncome": 3348638872.0,
+      "netIncome": 2317401673.0,
+      "eps": 2.38,
+      "freeCashFlow": 291614845.0,
+      "totalDebt": 20974696033.0,
+      "cash": 8829762289.0,
+      "sharesOutstanding": 978333423.0,
+      "grossMargin": 0.13585415975393708,
+      "operatingMargin": 0.1560443611305843,
+      "netMargin": 0.10798938833623868,
+      "roe": 0.12758562420205144,
+      "roic": 0.08555935340589467
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:06.921863+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "industrials",
+    "logistics",
+    "mid-cap"
+  ]
+}

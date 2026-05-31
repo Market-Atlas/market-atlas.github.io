@@ -1,0 +1,138 @@
+{
+  "ticker": "BHP",
+  "name": "BHP Group Limited",
+  "country": "AU",
+  "exchange": "XASX",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "USD",
+  "website": "https://www.bhp.com",
+  "marketCap": {
+    "value": 316577808384.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 62.31,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 51262000000.0,
+    "operatingIncome": 19078000000.0,
+    "netIncome": 9019000000.0,
+    "eps": 1.774,
+    "freeCashFlow": 9294000000.0,
+    "totalDebt": 24496000000.0,
+    "cash": 11769000000.0,
+    "sharesOutstanding": 5075992235.0,
+    "peRatio": 22.095745,
+    "priceToBook": 4.491165,
+    "dividendYield": 3.14
+  },
+  "ratios": {
+    "roe": 0.19509820887773643,
+    "roic": 0.2697528420338216,
+    "grossMargin": 0.7165346650540362,
+    "operatingMargin": 0.3721665171081893,
+    "netMargin": 0.17593929226327493,
+    "debtToEquity": 0.52639
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 65098000000.0,
+      "operatingIncome": 32887000000.0,
+      "netIncome": 30900000000.0,
+      "eps": 6.093,
+      "freeCashFlow": 26319000000.0,
+      "totalDebt": 16428000000.0,
+      "cash": 17236000000.0,
+      "sharesOutstanding": 5065820556.0,
+      "grossMargin": 0.7708992595778672,
+      "operatingMargin": 0.5051921718025131,
+      "netMargin": 0.4746689606439522,
+      "roe": 0.7100836473940619,
+      "roic": 0.5486287201387962
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 53817000000.0,
+      "operatingIncome": 21957000000.0,
+      "netIncome": 12921000000.0,
+      "eps": 2.547,
+      "freeCashFlow": 11968000000.0,
+      "totalDebt": 22345000000.0,
+      "cash": 12333000000.0,
+      "sharesOutstanding": 5065820556.0,
+      "grossMargin": 0.7043127636248769,
+      "operatingMargin": 0.4079937566196555,
+      "netMargin": 0.24009142092647304,
+      "roe": 0.3001045174776449,
+      "roic": 0.33573394495412845
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 55658000000.0,
+      "operatingIncome": 22905000000.0,
+      "netIncome": 7897000000.0,
+      "eps": 1.555,
+      "freeCashFlow": 11849000000.0,
+      "totalDebt": 20718000000.0,
+      "cash": 12389000000.0,
+      "sharesOutstanding": 5071530817.0,
+      "grossMargin": 0.7284667073915699,
+      "operatingMargin": 0.41153113658413887,
+      "netMargin": 0.14188436523051492,
+      "roe": 0.1820675981002444,
+      "roic": 0.3573768957124134
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 51262000000.0,
+      "operatingIncome": 19078000000.0,
+      "netIncome": 9019000000.0,
+      "eps": 1.774,
+      "freeCashFlow": 9294000000.0,
+      "totalDebt": 24496000000.0,
+      "cash": 11769000000.0,
+      "sharesOutstanding": 5075992235.0,
+      "grossMargin": 0.7165346650540362,
+      "operatingMargin": 0.3721665171081893,
+      "netMargin": 0.17593929226327493,
+      "roe": 0.19509820887773643,
+      "roic": 0.2697528420338216
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:50.042269+00:00"
+  },
+  "tags": [
+    "country-au",
+    "materials",
+    "mega-cap",
+    "mining"
+  ]
+}

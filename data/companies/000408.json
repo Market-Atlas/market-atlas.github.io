@@ -1,0 +1,139 @@
+{
+  "ticker": "000408",
+  "name": "Zangge Mining Company Limited",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "CNY",
+  "website": "https://www.zanggekuangye.com",
+  "marketCap": {
+    "value": 121088843776.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 77.18,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 3576752605.97,
+    "operatingIncome": 1533756068.32,
+    "netIncome": 3852353240.98,
+    "eps": 2.46,
+    "freeCashFlow": 2017926453.8300002,
+    "totalDebt": 241150354.14,
+    "cash": 1971890185.74,
+    "sharesOutstanding": 1570225745.0,
+    "peRatio": 25.899328,
+    "priceToBook": 6.88431,
+    "dividendYield": 3.24
+  },
+  "ratios": {
+    "roe": 0.23716198837386296,
+    "roic": 0.09304117092105271,
+    "grossMargin": 0.5923909062940015,
+    "operatingMargin": 0.4288124556783686,
+    "netMargin": 1.0770533121440917,
+    "debtToEquity": 0.01347
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8193913458.11,
+      "operatingIncome": 5947561372.0,
+      "netIncome": 5654971920.07,
+      "eps": 3.57,
+      "freeCashFlow": 5296789483.12,
+      "totalDebt": 15331660.49,
+      "cash": 2799665106.49,
+      "sharesOutstanding": 1580435073.0,
+      "grossMargin": 0.8199843932327509,
+      "operatingMargin": 0.7258511335768805,
+      "netMargin": 0.6901429883266512,
+      "roe": 0.46643547964436266,
+      "roic": 0.48994936484660767
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 5225721163.41,
+      "operatingIncome": 2763436994.0,
+      "netIncome": 3419880869.14,
+      "eps": 2.18,
+      "freeCashFlow": 2660263792.86,
+      "totalDebt": 18732672.22,
+      "cash": 1586758909.32,
+      "sharesOutstanding": 1580435073.0,
+      "grossMargin": 0.652455064539863,
+      "operatingMargin": 0.5288144750908873,
+      "netMargin": 0.6544323285149003,
+      "roe": 0.26190377197742243,
+      "roic": 0.21132834442488865
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3250800389.88,
+      "operatingIncome": 811730530.41,
+      "netIncome": 2579985938.8,
+      "eps": 1.64,
+      "freeCashFlow": 771629041.0699999,
+      "totalDebt": 35140155.17,
+      "cash": 887987569.99,
+      "sharesOutstanding": 1580435073.0,
+      "grossMargin": 0.44909512248271005,
+      "operatingMargin": 0.24970174512621002,
+      "netMargin": 0.7936463730076142,
+      "roe": 0.18607807852584665,
+      "roic": 0.05839698897156897
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3576752605.97,
+      "operatingIncome": 1533756068.32,
+      "netIncome": 3852353240.98,
+      "eps": 2.46,
+      "freeCashFlow": 2017926453.8300002,
+      "totalDebt": 241150354.14,
+      "cash": 1971890185.74,
+      "sharesOutstanding": 1570225745.0,
+      "grossMargin": 0.5923909062940015,
+      "operatingMargin": 0.4288124556783686,
+      "netMargin": 1.0770533121440917,
+      "roe": 0.23716198837386296,
+      "roic": 0.09304117092105271
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:06.820091+00:00"
+  },
+  "tags": [
+    "chemicals",
+    "country-cn",
+    "large-cap",
+    "materials",
+    "mining"
+  ]
+}

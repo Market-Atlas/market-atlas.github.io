@@ -1,0 +1,121 @@
+{
+  "ticker": "601998",
+  "name": "China CITIC Bank Corporation Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "CNY",
+  "website": "https://www.citicbank.com",
+  "marketCap": {
+    "value": 412887121920.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 7.42,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 211830000000.0,
+    "operatingIncome": null,
+    "netIncome": 70618000000.0,
+    "eps": 1.2,
+    "freeCashFlow": 405262000000.0,
+    "totalDebt": 1383601000000.0,
+    "cash": 1003062000000.0,
+    "sharesOutstanding": 55645162264.0,
+    "peRatio": 6.183333,
+    "priceToBook": 0.48706838,
+    "dividendYield": 4.85
+  },
+  "ratios": {
+    "roe": 0.08520377938087362,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.60866,
+    "netMargin": 0.33337109946655336,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 210801000000.0,
+      "operatingIncome": null,
+      "netIncome": 62103000000.0,
+      "eps": 1.06,
+      "freeCashFlow": 188267000000.0,
+      "totalDebt": 1056219000000.0,
+      "cash": 780364000000.0,
+      "sharesOutstanding": 48934843657.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2946048643033003,
+      "roe": 0.09332930578974419,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 205151000000.0,
+      "operatingIncome": null,
+      "netIncome": 67016000000.0,
+      "eps": 1.14,
+      "freeCashFlow": -14442000000.0,
+      "totalDebt": 1062553000000.0,
+      "cash": 746933000000.0,
+      "sharesOutstanding": 48966865954.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3266666991630555,
+      "roe": 0.09343829386159376,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 212777000000.0,
+      "operatingIncome": null,
+      "netIncome": 68576000000.0,
+      "eps": 1.2,
+      "freeCashFlow": -199815000000.0,
+      "totalDebt": 1323449000000.0,
+      "cash": 886296000000.0,
+      "sharesOutstanding": 54397013781.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.32229047312444487,
+      "roe": 0.08688601025765777,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 211830000000.0,
+      "operatingIncome": null,
+      "netIncome": 70618000000.0,
+      "eps": 1.2,
+      "freeCashFlow": 405262000000.0,
+      "totalDebt": 1383601000000.0,
+      "cash": 1003062000000.0,
+      "sharesOutstanding": 55645162264.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33337109946655336,
+      "roe": 0.08520377938087362,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:25.186950+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

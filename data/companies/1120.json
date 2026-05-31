@@ -1,0 +1,120 @@
+{
+  "ticker": "1120",
+  "name": "Al Rajhi Banking and Investment Corporation",
+  "country": "SA",
+  "exchange": "XSAU",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "SAR",
+  "website": "https://www.alrajhibank.com.sa",
+  "marketCap": {
+    "value": 402600001536.0,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 67.1,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 38967166000.0,
+    "operatingIncome": null,
+    "netIncome": 24791754000.0,
+    "eps": 3.9,
+    "freeCashFlow": -25896451000.0,
+    "totalDebt": 80320898000.0,
+    "cash": 81498309000.0,
+    "sharesOutstanding": 6000000000.0,
+    "peRatio": 16.691542,
+    "priceToBook": 3.3338299,
+    "dividendYield": 3.5
+  },
+  "ratios": {
+    "roe": 0.173657875796234,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.75172997,
+    "netMargin": 0.6362216333617897,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28553507000.0,
+      "operatingIncome": null,
+      "netIncome": 17150825000.0,
+      "eps": 2.826667,
+      "freeCashFlow": 4570150000.0,
+      "totalDebt": 723122000.0,
+      "cash": 68310329000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6006556392529997,
+      "roe": 0.17112316299016508,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 27433692000.0,
+      "operatingIncome": null,
+      "netIncome": 16621159000.0,
+      "eps": 2.633333,
+      "freeCashFlow": 23761817000.0,
+      "totalDebt": 4424015000.0,
+      "cash": 52198237000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6058666474785822,
+      "roe": 0.15568796915000419,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 31912742000.0,
+      "operatingIncome": null,
+      "netIncome": 19722206000.0,
+      "eps": 3.113333,
+      "freeCashFlow": 30094266000.0,
+      "totalDebt": 37943190000.0,
+      "cash": 73400855000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.618004118856349,
+      "roe": 0.16030035235310772,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 38967166000.0,
+      "operatingIncome": null,
+      "netIncome": 24791754000.0,
+      "eps": 3.9,
+      "freeCashFlow": -25896451000.0,
+      "totalDebt": 80320898000.0,
+      "cash": 81498309000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6362216333617897,
+      "roe": 0.173657875796234,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:38.248638+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-sa",
+    "financials"
+  ]
+}

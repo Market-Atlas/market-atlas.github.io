@@ -1,0 +1,121 @@
+{
+  "ticker": "600089",
+  "name": "TBEA Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "CNY",
+  "website": "https://www.tbea.com",
+  "marketCap": {
+    "value": 128088285184.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 25.35,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 97318077030.24,
+    "operatingIncome": 8576423519.71,
+    "netIncome": 5954294958.25,
+    "eps": 1.161,
+    "freeCashFlow": -12747755976.050001,
+    "totalDebt": 49905137699.98,
+    "cash": 25687539841.19,
+    "sharesOutstanding": 5052792571.0,
+    "peRatio": 21.125,
+    "priceToBook": 1.7686458,
+    "dividendYield": 0.99
+  },
+  "ratios": {
+    "roe": 0.0800396445377642,
+    "roic": 0.06899946360121495,
+    "grossMargin": 0.18878746441723326,
+    "operatingMargin": 0.08812775366538549,
+    "netMargin": 0.06118385340063594,
+    "debtToEquity": 0.53872
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 96510390053.85,
+      "operatingIncome": 29463540080.35,
+      "netIncome": 15914206088.19,
+      "eps": 4.1262,
+      "freeCashFlow": 2302653429.3999977,
+      "totalDebt": 34241436200.13,
+      "cash": 16304249177.66,
+      "sharesOutstanding": 5051105417.0,
+      "grossMargin": 0.38571649493602883,
+      "operatingMargin": 0.3052887887398465,
+      "netMargin": 0.1648962985157384,
+      "roe": 0.27459501871646985,
+      "roic": 0.31957287108967436
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 98206439552.02,
+      "operatingIncome": 19071737713.14,
+      "netIncome": 10702710662.39,
+      "eps": 2.3888,
+      "freeCashFlow": 6908285348.099998,
+      "totalDebt": 42626686817.68,
+      "cash": 25371111667.67,
+      "sharesOutstanding": 5052710023.0,
+      "grossMargin": 0.2736412757549895,
+      "operatingMargin": 0.19420048013285005,
+      "netMargin": 0.1089817603734709,
+      "roe": 0.1710716148547223,
+      "roic": 0.18130848781564063
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 97906313945.33,
+      "operatingIncome": 9159787922.01,
+      "netIncome": 4143924869.81,
+      "eps": 0.798,
+      "freeCashFlow": -4288455008.039999,
+      "totalDebt": 43641865986.01,
+      "cash": 28180156948.21,
+      "sharesOutstanding": 5052792571.0,
+      "grossMargin": 0.18196711743277505,
+      "operatingMargin": 0.0935566620057287,
+      "netMargin": 0.0423254099028172,
+      "roe": 0.061394582191038105,
+      "roic": 0.08241780883269907
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 97318077030.24,
+      "operatingIncome": 8576423519.71,
+      "netIncome": 5954294958.25,
+      "eps": 1.161,
+      "freeCashFlow": -12747755976.050001,
+      "totalDebt": 49905137699.98,
+      "cash": 25687539841.19,
+      "sharesOutstanding": 5052792571.0,
+      "grossMargin": 0.18878746441723326,
+      "operatingMargin": 0.08812775366538549,
+      "netMargin": 0.06118385340063594,
+      "roe": 0.0800396445377642,
+      "roic": 0.06899946360121495
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:46.432087+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "industrials",
+    "large-cap",
+    "utilities"
+  ]
+}

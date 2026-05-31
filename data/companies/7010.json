@@ -1,0 +1,120 @@
+{
+  "ticker": "7010",
+  "name": "Saudi Telecom Company",
+  "country": "SA",
+  "exchange": "XSAU",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "SAR",
+  "website": "https://www.stc.com.sa",
+  "marketCap": {
+    "value": 220050489344.0,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 44.1,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 77818675000.0,
+    "operatingIncome": 14131194000.0,
+    "netIncome": 14828030000.0,
+    "eps": 2.97,
+    "freeCashFlow": 6488492000.0,
+    "totalDebt": 17444658000.0,
+    "cash": 13376071000.0,
+    "sharesOutstanding": 5000000000.0,
+    "peRatio": 14.749164,
+    "priceToBook": 2.5967143,
+    "dividendYield": 5.0
+  },
+  "ratios": {
+    "roe": 0.17776519842316785,
+    "roic": 0.1401094798125,
+    "grossMargin": 0.4844555500334592,
+    "operatingMargin": 0.18159129540563368,
+    "netMargin": 0.19054590687903641,
+    "debtToEquity": 0.28293
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 67431546000.0,
+      "operatingIncome": 15784786000.0,
+      "netIncome": 12170537000.0,
+      "eps": 2.43,
+      "freeCashFlow": 18652576000.0,
+      "totalDebt": 13786653000.0,
+      "cash": 17794393000.0,
+      "sharesOutstanding": 5000000000.0,
+      "grossMargin": 0.5545365221197806,
+      "operatingMargin": 0.23408607597399592,
+      "netMargin": 0.18048729002891317,
+      "roe": 0.16558660753249765,
+      "roic": 0.18083946807706486
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 71777161000.0,
+      "operatingIncome": 12976086000.0,
+      "netIncome": 13295381000.0,
+      "eps": 2.66,
+      "freeCashFlow": 12848289000.0,
+      "totalDebt": 26232725000.0,
+      "cash": 13371320000.0,
+      "sharesOutstanding": 5000000000.0,
+      "grossMargin": 0.48399888649817174,
+      "operatingMargin": 0.18078293734688114,
+      "netMargin": 0.18523135792456322,
+      "roe": 0.1683280402360222,
+      "roic": 0.12332611052877335
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 75893413000.0,
+      "operatingIncome": 13313014000.0,
+      "netIncome": 24688652000.0,
+      "eps": 4.94,
+      "freeCashFlow": 7958561000.0,
+      "totalDebt": 17295824000.0,
+      "cash": 15543441000.0,
+      "sharesOutstanding": 5000000000.0,
+      "grossMargin": 0.4918203375568312,
+      "operatingMargin": 0.17541725261453192,
+      "netMargin": 0.3253069143167932,
+      "roe": 0.27610832903826676,
+      "roic": 0.12475605685661585
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 77818675000.0,
+      "operatingIncome": 14131194000.0,
+      "netIncome": 14828030000.0,
+      "eps": 2.97,
+      "freeCashFlow": 6488492000.0,
+      "totalDebt": 17444658000.0,
+      "cash": 13376071000.0,
+      "sharesOutstanding": 5000000000.0,
+      "grossMargin": 0.4844555500334592,
+      "operatingMargin": 0.18159129540563368,
+      "netMargin": 0.19054590687903641,
+      "roe": 0.17776519842316785,
+      "roic": 0.1401094798125
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:45.071023+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-sa",
+    "telecom"
+  ]
+}

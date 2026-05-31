@@ -1,0 +1,138 @@
+{
+  "ticker": "NAB",
+  "name": "National Australia Bank Limited",
+  "country": "AU",
+  "exchange": "XASX",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "AUD",
+  "website": "https://www.nab.com.au",
+  "marketCap": {
+    "value": 114279645184.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 37.33,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "eps": 2.199,
+    "freeCashFlow": null,
+    "totalDebt": null,
+    "cash": null,
+    "sharesOutstanding": 3061335000.0,
+    "peRatio": 18.665,
+    "priceToBook": 1.8869736,
+    "dividendYield": 4.55
+  },
+  "ratios": {
+    "roe": 0.09908,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.5247,
+    "netMargin": 0.29665002,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": 16682000000.0,
+      "operatingIncome": null,
+      "netIncome": 6364000000.0,
+      "eps": null,
+      "freeCashFlow": -99000000.0,
+      "totalDebt": 172164000000.0,
+      "cash": 109214000000.0,
+      "sharesOutstanding": 3275998000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.38148903009231505,
+      "roe": 0.10137147772344256,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 18329000000.0,
+      "operatingIncome": null,
+      "netIncome": 6891000000.0,
+      "eps": 2.056,
+      "freeCashFlow": 27144000000.0,
+      "totalDebt": 191725000000.0,
+      "cash": 144527000000.0,
+      "sharesOutstanding": 3147494000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3759615909214905,
+      "roe": 0.11673329719474183,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 20630000000.0,
+      "operatingIncome": null,
+      "netIncome": 7414000000.0,
+      "eps": 2.287,
+      "freeCashFlow": -27891000000.0,
+      "totalDebt": 197792000000.0,
+      "cash": 120197000000.0,
+      "sharesOutstanding": 3120821000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.35937954435288416,
+      "roe": 0.12123491513228897,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 20632000000.0,
+      "operatingIncome": null,
+      "netIncome": 6960000000.0,
+      "eps": 2.227,
+      "freeCashFlow": -37221000000.0,
+      "totalDebt": 214292000000.0,
+      "cash": 112937000000.0,
+      "sharesOutstanding": 3074038000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33734005428460645,
+      "roe": 0.11325360019526483,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.199,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:56.352166+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-au",
+    "financials",
+    "large-cap"
+  ]
+}

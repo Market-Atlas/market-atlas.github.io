@@ -1,0 +1,137 @@
+{
+  "ticker": "BMRI",
+  "name": "PT Bank Mandiri (Persero) Tbk",
+  "country": "ID",
+  "exchange": "XIDX",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "IDR",
+  "website": "https://bankmandiri.co.id",
+  "marketCap": {
+    "value": 380799987744768.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 4080.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 140173049000000.0,
+    "operatingIncome": null,
+    "netIncome": 56293950000000.0,
+    "eps": null,
+    "freeCashFlow": 199035811000000.0,
+    "totalDebt": 218797194000000.0,
+    "cash": 384905876000000.0,
+    "sharesOutstanding": 93333333332.0,
+    "peRatio": 6.761348,
+    "priceToBook": 1.2474817,
+    "dividendYield": 11.69
+  },
+  "ratios": {
+    "roe": 0.19163854227681776,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.58581,
+    "netMargin": 0.4016032354407872,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 300.53,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 115633384000000.0,
+      "operatingIncome": null,
+      "netIncome": 41170637000000.0,
+      "eps": 441.26,
+      "freeCashFlow": 92748840000000.0,
+      "totalDebt": 107146082000000.0,
+      "cash": 277848602000000.0,
+      "sharesOutstanding": 93333333332.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.35604455716698563,
+      "roe": 0.1792531113430737,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 124193814000000.0,
+      "operatingIncome": null,
+      "netIncome": 55060057000000.0,
+      "eps": 589.93,
+      "freeCashFlow": -74824994000000.0,
+      "totalDebt": 134256304000000.0,
+      "cash": 249396176000000.0,
+      "sharesOutstanding": 93333333332.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4433397705299557,
+      "roe": 0.21107713000295217,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 134799086000000.0,
+      "operatingIncome": null,
+      "netIncome": 55782742000000.0,
+      "eps": 597.67,
+      "freeCashFlow": -88102174000000.0,
+      "totalDebt": 172099510000000.0,
+      "cash": 250733275000000.0,
+      "sharesOutstanding": 93333333332.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.41382136671164077,
+      "roe": 0.19655899898585405,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 140173049000000.0,
+      "operatingIncome": null,
+      "netIncome": 56293950000000.0,
+      "eps": null,
+      "freeCashFlow": 199035811000000.0,
+      "totalDebt": 218797194000000.0,
+      "cash": 384905876000000.0,
+      "sharesOutstanding": 93333333332.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4016032354407872,
+      "roe": 0.19163854227681776,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:50.264362+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-id",
+    "financials"
+  ]
+}

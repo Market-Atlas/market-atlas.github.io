@@ -1,0 +1,121 @@
+{
+  "ticker": "600600",
+  "name": "Tsingtao Brewery Company Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "currency": "CNY",
+  "website": "https://www.tsingtao.com.cn",
+  "marketCap": {
+    "value": 83406888960.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 61.14,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 32473493664.0,
+    "operatingIncome": 5544230999.0,
+    "netIncome": 4588101137.0,
+    "eps": 3.363,
+    "freeCashFlow": 2339284830.0,
+    "totalDebt": 114466142.0,
+    "cash": 12859566861.0,
+    "sharesOutstanding": 1364195121.0,
+    "peRatio": 17.825073,
+    "priceToBook": 2.57096,
+    "dividendYield": 3.6
+  },
+  "ratios": {
+    "roe": 0.14969848530009444,
+    "roic": 0.18022157484866275,
+    "grossMargin": 0.4184441624790125,
+    "operatingMargin": 0.17073096773527374,
+    "netMargin": 0.14128757393561114,
+    "debtToEquity": 0.00312
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 32171565624.0,
+      "operatingIncome": 4270358613.0,
+      "netIncome": 3710628593.0,
+      "eps": 2.728,
+      "freeCashFlow": 3098631666.0,
+      "totalDebt": 373076631.0,
+      "cash": 17854931855.0,
+      "sharesOutstanding": 1364232790.0,
+      "grossMargin": 0.3684505423372118,
+      "operatingMargin": 0.1327370468353679,
+      "netMargin": 0.11533876331563639,
+      "roe": 0.14554440255463197,
+      "roic": 0.16508332288391467
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33936522741.0,
+      "operatingIncome": 4795985382.0,
+      "netIncome": 4267851406.0,
+      "eps": 3.132,
+      "freeCashFlow": 1159824286.0,
+      "totalDebt": 113643364.0,
+      "cash": 19282104642.0,
+      "sharesOutstanding": 1364196788.0,
+      "grossMargin": 0.3865933226608887,
+      "operatingMargin": 0.14132223912869507,
+      "netMargin": 0.12575983221886922,
+      "roe": 0.1554802380000184,
+      "roic": 0.17400008079926627
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 32137830111.0,
+      "operatingIncome": 4989198861.0,
+      "netIncome": 4344983858.0,
+      "eps": 3.187,
+      "freeCashFlow": 3013611562.0,
+      "totalDebt": 110300538.0,
+      "cash": 17978772896.0,
+      "sharesOutstanding": 1364196788.0,
+      "grossMargin": 0.40226469065735365,
+      "operatingMargin": 0.1552437997141667,
+      "netMargin": 0.1351984201482482,
+      "roe": 0.14951570423863716,
+      "roic": 0.17103468258913856
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32473493664.0,
+      "operatingIncome": 5544230999.0,
+      "netIncome": 4588101137.0,
+      "eps": 3.363,
+      "freeCashFlow": 2339284830.0,
+      "totalDebt": 114466142.0,
+      "cash": 12859566861.0,
+      "sharesOutstanding": 1364195121.0,
+      "grossMargin": 0.4184441624790125,
+      "operatingMargin": 0.17073096773527374,
+      "netMargin": 0.14128757393561114,
+      "roe": 0.14969848530009444,
+      "roic": 0.18022157484866275
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:56.403378+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-cn",
+    "food-beverage",
+    "large-cap"
+  ]
+}

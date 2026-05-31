@@ -1,0 +1,121 @@
+{
+  "ticker": "005930",
+  "name": "Samsung Electronics Co., Ltd.",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "KRW",
+  "website": "https://www.samsung.com",
+  "marketCap": {
+    "value": 2081600594509824.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 317000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 333605938000000.0,
+    "operatingIncome": 43601051000000.0,
+    "netIncome": 44260956000000.0,
+    "eps": 6603.0,
+    "freeCashFlow": 33161999000000.0,
+    "totalDebt": 25239139000000.0,
+    "cash": 57856378000000.0,
+    "sharesOutstanding": 6735612586.0,
+    "peRatio": 5.7440476,
+    "priceToBook": null,
+    "dividendYield": 0.47
+  },
+  "ratios": {
+    "roe": 0.1043119805437141,
+    "roic": 0.09698769616606691,
+    "grossMargin": 0.3937892286557561,
+    "operatingMargin": 0.1306962677624761,
+    "netMargin": 0.1326743650468236,
+    "debtToEquity": 0.05782
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 302231360000000.0,
+      "operatingIncome": 43376630000000.0,
+      "netIncome": 54730018000000.0,
+      "eps": 8057.0,
+      "freeCashFlow": 9054614000000.0,
+      "totalDebt": 10333242000000.0,
+      "cash": 49680710000000.0,
+      "sharesOutstanding": 5969782550.0,
+      "grossMargin": 0.3712043316749129,
+      "operatingMargin": 0.1435212745626397,
+      "netMargin": 0.18108649612005848,
+      "roe": 0.15855218776424693,
+      "roic": 0.12200918417432902
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 258935494000000.0,
+      "operatingIncome": 6566976000000.0,
+      "netIncome": 14473401000000.0,
+      "eps": 2131.0,
+      "freeCashFlow": -16396740000000.0,
+      "totalDebt": 12685944000000.0,
+      "cash": 69080893000000.0,
+      "sharesOutstanding": 5969782550.0,
+      "grossMargin": 0.3033454888189257,
+      "operatingMargin": 0.02536143615753196,
+      "netMargin": 0.055895778428893185,
+      "roe": 0.04097400085821352,
+      "roic": 0.017946493886545643
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 300870903000000.0,
+      "operatingIncome": 32725961000000.0,
+      "netIncome": 33621363000000.0,
+      "eps": 4950.0,
+      "freeCashFlow": 19240982000000.0,
+      "totalDebt": 19330184000000.0,
+      "cash": 53705579000000.0,
+      "sharesOutstanding": 5969782550.0,
+      "grossMargin": 0.3799258547776552,
+      "operatingMargin": 0.10877077402197313,
+      "netMargin": 0.11174680789920054,
+      "roe": 0.08583718949103426,
+      "roic": 0.07962176342504612
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 333605938000000.0,
+      "operatingIncome": 43601051000000.0,
+      "netIncome": 44260956000000.0,
+      "eps": 6603.0,
+      "freeCashFlow": 33161999000000.0,
+      "totalDebt": 25239139000000.0,
+      "cash": 57856378000000.0,
+      "sharesOutstanding": 6735612586.0,
+      "grossMargin": 0.3937892286557561,
+      "operatingMargin": 0.1306962677624761,
+      "netMargin": 0.1326743650468236,
+      "roe": 0.1043119805437141,
+      "roic": 0.09698769616606691
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:36.245458+00:00"
+  },
+  "tags": [
+    "consumer-goods",
+    "country-kr",
+    "mega-cap",
+    "tech"
+  ]
+}

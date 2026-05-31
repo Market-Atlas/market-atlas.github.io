@@ -1,0 +1,138 @@
+{
+  "ticker": "O39",
+  "name": "Oversea-Chinese Banking Corporation Limited",
+  "country": "SG",
+  "exchange": "XSES",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "SGD",
+  "website": "https://www.ocbc.com",
+  "marketCap": {
+    "value": 105055887360.0,
+    "currency": "SGD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 23.4,
+    "currency": "SGD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 14533000000.0,
+    "operatingIncome": null,
+    "netIncome": 7422000000.0,
+    "eps": 1.63,
+    "freeCashFlow": 8142000000.0,
+    "totalDebt": 30736000000.0,
+    "cash": 45715000000.0,
+    "sharesOutstanding": 4501436229.0,
+    "peRatio": 14.181818,
+    "priceToBook": 1.7490096,
+    "dividendYield": 3.59
+  },
+  "ratios": {
+    "roe": 0.1188584972135033,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.58333,
+    "netMargin": 0.5106997866923554,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 11187000000.0,
+      "operatingIncome": null,
+      "netIncome": 5526000000.0,
+      "eps": 1.22,
+      "freeCashFlow": 8453000000.0,
+      "totalDebt": 22154000000.0,
+      "cash": 44609000000.0,
+      "sharesOutstanding": 4515000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.49396621078037006,
+      "roe": 0.10810493573566524,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 13436000000.0,
+      "operatingIncome": null,
+      "netIncome": 7021000000.0,
+      "eps": 1.55,
+      "freeCashFlow": 8590000000.0,
+      "totalDebt": 26771000000.0,
+      "cash": 49620000000.0,
+      "sharesOutstanding": 4514890821.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5225513545698125,
+      "roe": 0.1296104855085841,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 14437000000.0,
+      "operatingIncome": null,
+      "netIncome": 7587000000.0,
+      "eps": 1.67,
+      "freeCashFlow": 3350000000.0,
+      "totalDebt": 31787000000.0,
+      "cash": 52753000000.0,
+      "sharesOutstanding": 4514941829.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5255246934958786,
+      "roe": 0.12790815294355654,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 14533000000.0,
+      "operatingIncome": null,
+      "netIncome": 7422000000.0,
+      "eps": 1.63,
+      "freeCashFlow": 8142000000.0,
+      "totalDebt": 30736000000.0,
+      "cash": 45715000000.0,
+      "sharesOutstanding": 4501436229.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5106997866923554,
+      "roe": 0.1188584972135033,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:58.136664+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-sg",
+    "financials",
+    "large-cap"
+  ]
+}

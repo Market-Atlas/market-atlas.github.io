@@ -1,0 +1,121 @@
+{
+  "ticker": "WBC",
+  "name": "Westpac Banking Corporation",
+  "country": "AU",
+  "exchange": "XASX",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "AUD",
+  "website": "https://www.westpac.com.au",
+  "marketCap": {
+    "value": 122936664064.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 36.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 21587000000.0,
+    "operatingIncome": null,
+    "netIncome": 6990000000.0,
+    "eps": 1.917,
+    "freeCashFlow": -20784000000.0,
+    "totalDebt": 207167000000.0,
+    "cash": 66269000000.0,
+    "sharesOutstanding": 3441411361.0,
+    "peRatio": 17.73399,
+    "priceToBook": 1.6893477,
+    "dividendYield": 4.28
+  },
+  "ratios": {
+    "roe": 0.0974827417892755,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.50433,
+    "netMargin": 0.3238059943484505,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-09-30",
+      "revenue": 21020000000.0,
+      "operatingIncome": null,
+      "netIncome": 5458000000.0,
+      "eps": 1.378,
+      "freeCashFlow": 49436000000.0,
+      "totalDebt": 157846000000.0,
+      "cash": 71917000000.0,
+      "sharesOutstanding": 3668591808.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25965746907706944,
+      "roe": 0.07576872353716943,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-09-30",
+      "revenue": 20427000000.0,
+      "operatingIncome": null,
+      "netIncome": 5694000000.0,
+      "eps": 1.524,
+      "freeCashFlow": 15689000000.0,
+      "totalDebt": 176122000000.0,
+      "cash": 105734000000.0,
+      "sharesOutstanding": 3501127694.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.278748714936114,
+      "roe": 0.08082098450008517,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-09-30",
+      "revenue": 21376000000.0,
+      "operatingIncome": null,
+      "netIncome": 7195000000.0,
+      "eps": 1.952,
+      "freeCashFlow": -12175000000.0,
+      "totalDebt": 189749000000.0,
+      "cash": 102976000000.0,
+      "sharesOutstanding": 3509076960.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33659244011976047,
+      "roe": 0.09924822401544935,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-09-30",
+      "revenue": 21587000000.0,
+      "operatingIncome": null,
+      "netIncome": 6990000000.0,
+      "eps": 1.917,
+      "freeCashFlow": -20784000000.0,
+      "totalDebt": 207167000000.0,
+      "cash": 66269000000.0,
+      "sharesOutstanding": 3441411361.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3238059943484505,
+      "roe": 0.0974827417892755,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:02.943908+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-au",
+    "financials",
+    "large-cap"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "ticker": "601728",
+  "name": "China Telecom Corporation Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "CNY",
+  "website": "https://www.chinatelecom-h.com/en/global/home.php",
+  "marketCap": {
+    "value": 553618178048.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.05,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 529559000000.0,
+    "operatingIncome": 39674000000.0,
+    "netIncome": 33185000000.0,
+    "eps": 0.36,
+    "freeCashFlow": 51920000000.0,
+    "totalDebt": 49313000000.0,
+    "cash": 61394000000.0,
+    "sharesOutstanding": 91507138699.0,
+    "peRatio": 16.805555,
+    "priceToBook": 1.1821024,
+    "dividendYield": 4.53
+  },
+  "ratios": {
+    "roe": 0.07201168331785394,
+    "roic": 0.07777065556385392,
+    "grossMargin": 0.5920681170558899,
+    "operatingMargin": 0.07491894198757834,
+    "netMargin": 0.06266534984770347,
+    "debtToEquity": 0.09573000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 481448000000.0,
+      "operatingIncome": 33427000000.0,
+      "netIncome": 27593000000.0,
+      "eps": 0.3,
+      "freeCashFlow": 44920000000.0,
+      "totalDebt": 77380000000.0,
+      "cash": 72465000000.0,
+      "sharesOutstanding": 91507138699.0,
+      "grossMargin": 0.5841025406689819,
+      "operatingMargin": 0.06943013575713265,
+      "netMargin": 0.0573125238862764,
+      "roe": 0.06385952893963975,
+      "roic": 0.06561145035321089
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 513551000000.0,
+      "operatingIncome": 37128000000.0,
+      "netIncome": 30446000000.0,
+      "eps": 0.33,
+      "freeCashFlow": 47335000000.0,
+      "totalDebt": 65191000000.0,
+      "cash": 81046000000.0,
+      "sharesOutstanding": 91507138699.0,
+      "grossMargin": 0.5810737395117525,
+      "operatingMargin": 0.07229661708379499,
+      "netMargin": 0.05928525112403637,
+      "roe": 0.06873834455416931,
+      "roic": 0.07306978510854784
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 529417000000.0,
+      "operatingIncome": 39803000000.0,
+      "netIncome": 33012000000.0,
+      "eps": 0.36,
+      "freeCashFlow": 54778000000.0,
+      "totalDebt": 60743000000.0,
+      "cash": 82207000000.0,
+      "sharesOutstanding": 91507138699.0,
+      "grossMargin": 0.5820950215047873,
+      "operatingMargin": 0.07518270097106818,
+      "netMargin": 0.06235538337454218,
+      "roe": 0.07297243528813634,
+      "roic": 0.07756858358359334
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 529559000000.0,
+      "operatingIncome": 39674000000.0,
+      "netIncome": 33185000000.0,
+      "eps": 0.36,
+      "freeCashFlow": 51920000000.0,
+      "totalDebt": 49313000000.0,
+      "cash": 61394000000.0,
+      "sharesOutstanding": 91507138699.0,
+      "grossMargin": 0.5920681170558899,
+      "operatingMargin": 0.07491894198757834,
+      "netMargin": 0.06266534984770347,
+      "roe": 0.07201168331785394,
+      "roic": 0.07777065556385392
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:17.300161+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-cn",
+    "large-cap",
+    "telecom"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "ticker": "GFNORTEO",
+  "name": "Grupo Financiero Banorte, S.A.B. de C.V.",
+  "country": "MX",
+  "exchange": "XMEX",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "MXN",
+  "website": "https://www.banorte.com",
+  "marketCap": {
+    "value": 501977743360.0,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 180.79,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 247467000000.0,
+    "operatingIncome": null,
+    "netIncome": 58788000000.0,
+    "eps": 20.787,
+    "freeCashFlow": 70327000000.0,
+    "totalDebt": 153459000000.0,
+    "cash": 100295000000.0,
+    "sharesOutstanding": 2813156594.0,
+    "peRatio": 8.3621645,
+    "priceToBook": 2.1404133,
+    "dividendYield": 9.65
+  },
+  "ratios": {
+    "roe": 0.23601108033240997,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.59359,
+    "netMargin": 0.2375589472535732,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 179544000000.0,
+      "operatingIncome": null,
+      "netIncome": 45408000000.0,
+      "eps": 16.1115,
+      "freeCashFlow": 64814000000.0,
+      "totalDebt": 125455000000.0,
+      "cash": 108254000000.0,
+      "sharesOutstanding": 2883456594.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25290736532549124,
+      "roe": 0.19237172887990747,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 196701000000.0,
+      "operatingIncome": null,
+      "netIncome": 52418000000.0,
+      "eps": 18.3109,
+      "freeCashFlow": 42848000000.0,
+      "totalDebt": 130539000000.0,
+      "cash": 100230000000.0,
+      "sharesOutstanding": 2883456594.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2664856813132623,
+      "roe": 0.21021603910921466,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 219384000000.0,
+      "operatingIncome": null,
+      "netIncome": 56188000000.0,
+      "eps": 19.7197,
+      "freeCashFlow": 23059000000.0,
+      "totalDebt": 165814000000.0,
+      "cash": 98704000000.0,
+      "sharesOutstanding": 2813156594.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2561171279582832,
+      "roe": 0.22528457272993357,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 247467000000.0,
+      "operatingIncome": null,
+      "netIncome": 58788000000.0,
+      "eps": 20.787,
+      "freeCashFlow": 70327000000.0,
+      "totalDebt": 153459000000.0,
+      "cash": 100295000000.0,
+      "sharesOutstanding": 2813156594.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2375589472535732,
+      "roe": 0.23601108033240997,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:53.467518+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-mx",
+    "financials"
+  ]
+}

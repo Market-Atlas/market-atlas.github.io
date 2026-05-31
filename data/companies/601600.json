@@ -1,0 +1,137 @@
+{
+  "ticker": "601600",
+  "name": "Aluminum Corporation of China Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "currency": "CNY",
+  "website": "https://www.chalco.com.cn",
+  "marketCap": {
+    "value": 195909779456.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 11.42,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 241125217000.0,
+    "operatingIncome": 30888388000.0,
+    "netIncome": 12673918000.0,
+    "eps": 0.739,
+    "freeCashFlow": 24848324000.0,
+    "totalDebt": 63590967000.0,
+    "cash": 29238071000.0,
+    "sharesOutstanding": 17155632078.0,
+    "peRatio": 13.27907,
+    "priceToBook": 2.4292703,
+    "dividendYield": 2.26
+  },
+  "ratios": {
+    "roe": 0.16915512992476645,
+    "roic": 0.22299543050648182,
+    "grossMargin": 0.1802813431993718,
+    "operatingMargin": 0.12810102727662864,
+    "netMargin": 0.052561561821217566,
+    "debtToEquity": 0.44357
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 290987942000.0,
+      "operatingIncome": 21427366000.0,
+      "netIncome": 4192068000.0,
+      "eps": 0.239,
+      "freeCashFlow": 23054992000.0,
+      "totalDebt": 84030585000.0,
+      "cash": 19259933000.0,
+      "sharesOutstanding": 17161591551.0,
+      "grossMargin": 0.11473133824906051,
+      "operatingMargin": 0.0736366113754638,
+      "netMargin": 0.014406328905546197,
+      "roe": 0.07705790769226357,
+      "roic": 0.1547860924814021
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 225319044000.0,
+      "operatingIncome": 18568310000.0,
+      "netIncome": 6689067000.0,
+      "eps": 0.389,
+      "freeCashFlow": 20320530000.0,
+      "totalDebt": 75719237000.0,
+      "cash": 21103581000.0,
+      "sharesOutstanding": 17161591551.0,
+      "grossMargin": 0.12874338753185904,
+      "operatingMargin": 0.08240896850245823,
+      "netMargin": 0.029687091163053222,
+      "roe": 0.11038423196265622,
+      "roic": 0.13621392512219307
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 237109210000.0,
+      "operatingIncome": 26295781000.0,
+      "netIncome": 12394500000.0,
+      "eps": 0.722,
+      "freeCashFlow": 22440421000.0,
+      "totalDebt": 63599146000.0,
+      "cash": 22210452000.0,
+      "sharesOutstanding": 17156498909.0,
+      "grossMargin": 0.15749625246526697,
+      "operatingMargin": 0.11090155882177669,
+      "netMargin": 0.052273380692382215,
+      "roe": 0.17910011415329313,
+      "roic": 0.19800524469780934
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 241125217000.0,
+      "operatingIncome": 30888388000.0,
+      "netIncome": 12673918000.0,
+      "eps": 0.739,
+      "freeCashFlow": 24848324000.0,
+      "totalDebt": 63590967000.0,
+      "cash": 29238071000.0,
+      "sharesOutstanding": 17155632078.0,
+      "grossMargin": 0.1802813431993718,
+      "operatingMargin": 0.12810102727662864,
+      "netMargin": 0.052561561821217566,
+      "roe": 0.16915512992476645,
+      "roic": 0.22299543050648182
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:13.278724+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "large-cap",
+    "materials"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "ticker": "600000",
+  "name": "Shanghai Pudong Development Bank Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "CNY",
+  "website": "https://www.spdb.com.cn",
+  "marketCap": {
+    "value": 312075681792.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 9.37,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 173725000000.0,
+    "operatingIncome": null,
+    "netIncome": 50017000000.0,
+    "eps": 1.42,
+    "freeCashFlow": 354937000000.0,
+    "totalDebt": 1504729000000.0,
+    "cash": 1100612000000.0,
+    "sharesOutstanding": 33305838300.0,
+    "peRatio": 6.598592,
+    "priceToBook": 0.37429094,
+    "dividendYield": 4.38
+  },
+  "ratios": {
+    "roe": 0.061226763159891985,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.65332,
+    "netMargin": 0.28790905166210967,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 188308000000.0,
+      "operatingIncome": null,
+      "netIncome": 51171000000.0,
+      "eps": 1.44,
+      "freeCashFlow": 357100000000.0,
+      "totalDebt": 1679141000000.0,
+      "cash": 992680000000.0,
+      "sharesOutstanding": 29352174170.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2717409775474223,
+      "roe": 0.07332433454845588,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 173139000000.0,
+      "operatingIncome": null,
+      "netIncome": 36702000000.0,
+      "eps": 0.99,
+      "freeCashFlow": 375532000000.0,
+      "totalDebt": 1321201000000.0,
+      "cash": 1112019000000.0,
+      "sharesOutstanding": 29352176848.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.21197996985081352,
+      "roe": 0.05064098053257059,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 170511000000.0,
+      "operatingIncome": null,
+      "netIncome": 45257000000.0,
+      "eps": 1.25,
+      "freeCashFlow": -353782000000.0,
+      "totalDebt": 1775590000000.0,
+      "cash": 968083000000.0,
+      "sharesOutstanding": 29352178302.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2654198262868671,
+      "roe": 0.06146301449487933,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 173725000000.0,
+      "operatingIncome": null,
+      "netIncome": 50017000000.0,
+      "eps": 1.42,
+      "freeCashFlow": 354937000000.0,
+      "totalDebt": 1504729000000.0,
+      "cash": 1100612000000.0,
+      "sharesOutstanding": 33305838300.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28790905166210967,
+      "roe": 0.061226763159891985,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:39.816627+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

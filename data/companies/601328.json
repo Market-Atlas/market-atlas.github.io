@@ -1,0 +1,121 @@
+{
+  "ticker": "601328",
+  "name": "Bank of Communications Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CNY",
+  "website": "https://www.bankcomm.com",
+  "marketCap": {
+    "value": 588502794240.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.66,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 263619000000.0,
+    "operatingIncome": null,
+    "netIncome": 95622000000.0,
+    "eps": 1.08,
+    "freeCashFlow": 89244000000.0,
+    "totalDebt": 1227079000000.0,
+    "cash": 1458123000000.0,
+    "sharesOutstanding": 88363784223.0,
+    "peRatio": 6.4038463,
+    "priceToBook": 0.4988764,
+    "dividendYield": 5.3
+  },
+  "ratios": {
+    "roe": 0.07533847239905707,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.53933996,
+    "netMargin": 0.362728027949427,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 255765000000.0,
+      "operatingIncome": null,
+      "netIncome": 92102000000.0,
+      "eps": 1.14,
+      "freeCashFlow": 336566000000.0,
+      "totalDebt": 955469000000.0,
+      "cash": 1439890000000.0,
+      "sharesOutstanding": 74262726645.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3601040017203292,
+      "roe": 0.09011725752037134,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 256446000000.0,
+      "operatingIncome": null,
+      "netIncome": 92728000000.0,
+      "eps": 1.15,
+      "freeCashFlow": 89732000000.0,
+      "totalDebt": 1065146000000.0,
+      "cash": 1557273000000.0,
+      "sharesOutstanding": 74262726645.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3615887945220436,
+      "roe": 0.08522559120612483,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 258434000000.0,
+      "operatingIncome": null,
+      "netIncome": 93586000000.0,
+      "eps": 1.16,
+      "freeCashFlow": -99523000000.0,
+      "totalDebt": 1214935000000.0,
+      "cash": 1439200000000.0,
+      "sharesOutstanding": 74262726645.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3621272742750567,
+      "roe": 0.08178406824747926,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 263619000000.0,
+      "operatingIncome": null,
+      "netIncome": 95622000000.0,
+      "eps": 1.08,
+      "freeCashFlow": 89244000000.0,
+      "totalDebt": 1227079000000.0,
+      "cash": 1458123000000.0,
+      "sharesOutstanding": 88363784223.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.362728027949427,
+      "roe": 0.07533847239905707,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:11.686371+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

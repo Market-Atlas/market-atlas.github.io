@@ -1,0 +1,137 @@
+{
+  "ticker": "AMXB",
+  "name": "América Móvil, S.A.B. de C.V.",
+  "country": "MX",
+  "exchange": "XMEX",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "MXN",
+  "website": "https://www.americamovil.com",
+  "marketCap": {
+    "value": 1321239707648.0,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 21.98,
+    "currency": "MXN",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 943638406000.0,
+    "operatingIncome": 190539136000.0,
+    "netIncome": 82819082000.0,
+    "eps": 1.374281,
+    "freeCashFlow": 141581582000.0,
+    "totalDebt": 739015793000.0,
+    "cash": 34954355000.0,
+    "sharesOutstanding": 60263500000.0,
+    "peRatio": 15.15862,
+    "priceToBook": 3.5763097,
+    "dividendYield": 2.45
+  },
+  "ratios": {
+    "roe": 0.22873759726575502,
+    "roic": 0.17304654342112566,
+    "grossMargin": 0.6210019073767966,
+    "operatingMargin": 0.20191964929413864,
+    "netMargin": 0.08776569655644134,
+    "debtToEquity": 1.70868
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 844501397000.0,
+      "operatingIncome": 170870752000.0,
+      "netIncome": 76159391000.0,
+      "eps": 1.19,
+      "freeCashFlow": 67433075000.0,
+      "totalDebt": 644738291000.0,
+      "cash": 33700949000.0,
+      "sharesOutstanding": 63325000000.0,
+      "grossMargin": 0.608606390499553,
+      "operatingMargin": 0.20233329702828187,
+      "netMargin": 0.09018267023660116,
+      "roe": 0.20374112520531576,
+      "roic": 0.16775997953822264
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 816012844000.0,
+      "operatingIncome": 166732227000.0,
+      "netIncome": 76110617000.0,
+      "eps": 1.218751,
+      "freeCashFlow": 91753389000.0,
+      "totalDebt": 625846208000.0,
+      "cash": 26597773000.0,
+      "sharesOutstanding": 62450000000.0,
+      "grossMargin": 0.6121676976937388,
+      "operatingMargin": 0.20432549343549303,
+      "netMargin": 0.09327134684169261,
+      "roe": 0.20754844097302425,
+      "roic": 0.16798222422204562
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 869220584000.0,
+      "operatingIncome": 178775621000.0,
+      "netIncome": 22902025000.0,
+      "eps": 0.464066,
+      "freeCashFlow": 108506094000.0,
+      "totalDebt": 780688859000.0,
+      "cash": 36652098000.0,
+      "sharesOutstanding": 61000000000.0,
+      "grossMargin": 0.6189945014003488,
+      "operatingMargin": 0.20567347839061298,
+      "netMargin": 0.026347771119971546,
+      "roe": 0.06205075601077095,
+      "roic": 0.15548759017258493
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 943638406000.0,
+      "operatingIncome": 190539136000.0,
+      "netIncome": 82819082000.0,
+      "eps": 1.374281,
+      "freeCashFlow": 141581582000.0,
+      "totalDebt": 739015793000.0,
+      "cash": 34954355000.0,
+      "sharesOutstanding": 60263500000.0,
+      "grossMargin": 0.6210019073767966,
+      "operatingMargin": 0.20191964929413864,
+      "netMargin": 0.08776569655644134,
+      "roe": 0.22873759726575502,
+      "roic": 0.17304654342112566
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:46.904046+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-mx",
+    "telecom"
+  ]
+}

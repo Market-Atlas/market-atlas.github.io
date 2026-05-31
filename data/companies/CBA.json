@@ -1,0 +1,138 @@
+{
+  "ticker": "CBA",
+  "name": "Commonwealth Bank of Australia",
+  "country": "AU",
+  "exchange": "XASX",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "AUD",
+  "website": "https://www.commbank.com.au",
+  "marketCap": {
+    "value": 275933888512.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 165.02,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 28657000000.0,
+    "operatingIncome": null,
+    "netIncome": 10116000000.0,
+    "eps": 6.042,
+    "freeCashFlow": -2461000000.0,
+    "totalDebt": 216232000000.0,
+    "cash": 55503000000.0,
+    "sharesOutstanding": 1673462358.0,
+    "peRatio": 26.61613,
+    "priceToBook": 3.5727897,
+    "dividendYield": 3.0
+  },
+  "ratios": {
+    "roe": 0.12841474560779934,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.55507,
+    "netMargin": 0.3530027567435531,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 23734000000.0,
+      "operatingIncome": null,
+      "netIncome": 10690000000.0,
+      "eps": 5.97,
+      "freeCashFlow": 22263000000.0,
+      "totalDebt": 151599000000.0,
+      "cash": 120315000000.0,
+      "sharesOutstanding": 1701538406.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.450408696384933,
+      "roe": 0.1467741271127099,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 26779000000.0,
+      "operatingIncome": null,
+      "netIncome": 9998000000.0,
+      "eps": 5.787,
+      "freeCashFlow": -9958000000.0,
+      "totalDebt": 161553000000.0,
+      "cash": 108008000000.0,
+      "sharesOutstanding": 1676169322.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.373352253631577,
+      "roe": 0.1395822862567711,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 27469000000.0,
+      "operatingIncome": null,
+      "netIncome": 9394000000.0,
+      "eps": 5.578,
+      "freeCashFlow": -26945000000.0,
+      "totalDebt": 186685000000.0,
+      "cash": 48110000000.0,
+      "sharesOutstanding": 1673580358.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.34198551093960466,
+      "roe": 0.12852999124343256,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 28657000000.0,
+      "operatingIncome": null,
+      "netIncome": 10116000000.0,
+      "eps": 6.042,
+      "freeCashFlow": -2461000000.0,
+      "totalDebt": 216232000000.0,
+      "cash": 55503000000.0,
+      "sharesOutstanding": 1673462358.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3530027567435531,
+      "roe": 0.12841474560779934,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:51.050895+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-au",
+    "financials",
+    "large-cap"
+  ]
+}

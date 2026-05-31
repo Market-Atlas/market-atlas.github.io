@@ -1,0 +1,137 @@
+{
+  "ticker": "2330",
+  "name": "Taiwan Semiconductor Manufacturing Company Limited",
+  "country": "TW",
+  "exchange": "XTAI",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "TWD",
+  "website": "https://www.tsmc.com",
+  "marketCap": {
+    "value": 61070731378688.0,
+    "currency": "TWD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 2355.0,
+    "currency": "TWD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 3809054300000.0,
+    "operatingIncome": 1936095600000.0,
+    "netIncome": 1697604000000.0,
+    "eps": 65.47,
+    "freeCashFlow": 992378400000.0,
+    "totalDebt": 1064582700000.0,
+    "cash": 2767856400000.0,
+    "sharesOutstanding": 25932524521.0,
+    "peRatio": 31.949532,
+    "priceToBook": 10.366868,
+    "dividendYield": 1.02
+  },
+  "ratios": {
+    "roe": 0.3170105941531291,
+    "roic": 0.3015903087368984,
+    "grossMargin": 0.5989134888415741,
+    "operatingMargin": 0.5082877395578215,
+    "netMargin": 0.4456759778929904,
+    "debtToEquity": 0.18447
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2263891300000.0,
+      "operatingIncome": 1121226500000.0,
+      "netIncome": 992923400000.0,
+      "eps": 39.2,
+      "freeCashFlow": 520972800000.0,
+      "totalDebt": 888174400000.0,
+      "cash": 1342814100000.0,
+      "sharesOutstanding": 25930380458.0,
+      "grossMargin": 0.5955916699710804,
+      "operatingMargin": 0.49526516577894003,
+      "netMargin": 0.43859146417498046,
+      "roe": 0.34203123044600764,
+      "roic": 0.2957449474823777
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2161735800000.0,
+      "operatingIncome": 921429900000.0,
+      "netIncome": 851740000000.0,
+      "eps": 32.34,
+      "freeCashFlow": 286568900000.0,
+      "totalDebt": 956257900000.0,
+      "cash": 1465427800000.0,
+      "sharesOutstanding": 25932070992.0,
+      "grossMargin": 0.5435958455237685,
+      "operatingMargin": 0.4262453811423209,
+      "netMargin": 0.3940074453131599,
+      "roe": 0.2483552811901739,
+      "roic": 0.21009486042882722
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 2894307700000.0,
+      "operatingIncome": 1322003100000.0,
+      "netIncome": 1158380200000.0,
+      "eps": 44.67,
+      "freeCashFlow": 861195500000.0,
+      "totalDebt": 1047042100000.0,
+      "cash": 2127627000000.0,
+      "sharesOutstanding": 25932733242.0,
+      "grossMargin": 0.561223535424378,
+      "operatingMargin": 0.45675969420943047,
+      "netMargin": 0.40022703874919724,
+      "roe": 0.2729282433136562,
+      "roic": 0.24984426347765845
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 3809054300000.0,
+      "operatingIncome": 1936095600000.0,
+      "netIncome": 1697604000000.0,
+      "eps": 65.47,
+      "freeCashFlow": 992378400000.0,
+      "totalDebt": 1064582700000.0,
+      "cash": 2767856400000.0,
+      "sharesOutstanding": 25932524521.0,
+      "grossMargin": 0.5989134888415741,
+      "operatingMargin": 0.5082877395578215,
+      "netMargin": 0.4456759778929904,
+      "roe": 0.3170105941531291,
+      "roic": 0.3015903087368984
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:40.523847+00:00"
+  },
+  "tags": [
+    "country-tw",
+    "semiconductors",
+    "tech"
+  ]
+}

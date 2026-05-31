@@ -1,0 +1,121 @@
+{
+  "ticker": "600926",
+  "name": "Bank of Hangzhou Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "CNY",
+  "website": "https://www.hzbank.com.cn",
+  "marketCap": {
+    "value": 116056530944.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 16.01,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 38436016000.0,
+    "operatingIncome": null,
+    "netIncome": 19029250000.0,
+    "eps": 2.51,
+    "freeCashFlow": 158807530000.0,
+    "totalDebt": 380757529000.0,
+    "cash": 198322106000.0,
+    "sharesOutstanding": 7249002548.0,
+    "peRatio": 6.2539062,
+    "priceToBook": 0.82880366,
+    "dividendYield": 4.12
+  },
+  "ratios": {
+    "roe": 0.11660882342844604,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.76127,
+    "netMargin": 0.4950890331609811,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 32571443000.0,
+      "operatingIncome": null,
+      "netIncome": 11679330000.0,
+      "eps": 1.58,
+      "freeCashFlow": 89720370000.0,
+      "totalDebt": 299766027000.0,
+      "cash": 144442621000.0,
+      "sharesOutstanding": 5930278337.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3585757622098597,
+      "roe": 0.11848379719746412,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 34646707000.0,
+      "operatingIncome": null,
+      "netIncome": 14383367000.0,
+      "eps": 1.97,
+      "freeCashFlow": 71183427000.0,
+      "totalDebt": 309168450000.0,
+      "cash": 154967833000.0,
+      "sharesOutstanding": 5930284756.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.41514384036555046,
+      "roe": 0.12923849532240106,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 37941035000.0,
+      "operatingIncome": null,
+      "netIncome": 16982563000.0,
+      "eps": 2.34,
+      "freeCashFlow": 64951638000.0,
+      "totalDebt": 357326769000.0,
+      "cash": 151437633000.0,
+      "sharesOutstanding": 6049255401.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4476041046323591,
+      "roe": 0.1248277308363793,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 38436016000.0,
+      "operatingIncome": null,
+      "netIncome": 19029250000.0,
+      "eps": 2.51,
+      "freeCashFlow": 158807530000.0,
+      "totalDebt": 380757529000.0,
+      "cash": 198322106000.0,
+      "sharesOutstanding": 7249002548.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4950890331609811,
+      "roe": 0.11660882342844604,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:03.981041+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

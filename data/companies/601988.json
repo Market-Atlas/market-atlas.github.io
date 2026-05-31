@@ -1,0 +1,121 @@
+{
+  "ticker": "601988",
+  "name": "Bank of China Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "CNY",
+  "website": "https://www.boc.cn",
+  "marketCap": {
+    "value": 1888164642816.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 5.86,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 657178000000.0,
+    "operatingIncome": null,
+    "netIncome": 243021000000.0,
+    "eps": 0.74,
+    "freeCashFlow": 760757000000.0,
+    "totalDebt": 2782404000000.0,
+    "cash": 4330456000000.0,
+    "sharesOutstanding": 322212411814.0,
+    "peRatio": 7.918919,
+    "priceToBook": 0.6907934,
+    "dividendYield": 3.94
+  },
+  "ratios": {
+    "roe": 0.07931380880953406,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.53109,
+    "netMargin": 0.3697947892351844,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 584722000000.0,
+      "operatingIncome": null,
+      "netIncome": 226522000000.0,
+      "eps": 0.72,
+      "freeCashFlow": -49593000000.0,
+      "totalDebt": 1888997000000.0,
+      "cash": 4104721000000.0,
+      "sharesOutstanding": 294387791241.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3874011923614983,
+      "roe": 0.09345071087838025,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 621924000000.0,
+      "operatingIncome": null,
+      "netIncome": 231904000000.0,
+      "eps": 0.74,
+      "freeCashFlow": 787298000000.0,
+      "totalDebt": 2209527000000.0,
+      "cash": 4457374000000.0,
+      "sharesOutstanding": 294387791241.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3728815739543738,
+      "roe": 0.08819285722434979,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 629415000000.0,
+      "operatingIncome": null,
+      "netIncome": 237841000000.0,
+      "eps": 0.75,
+      "freeCashFlow": 523730000000.0,
+      "totalDebt": 2521963000000.0,
+      "cash": 4142953000000.0,
+      "sharesOutstanding": 294387791241.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.37787628194434514,
+      "roe": 0.08445365454751404,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 657178000000.0,
+      "operatingIncome": null,
+      "netIncome": 243021000000.0,
+      "eps": 0.74,
+      "freeCashFlow": 760757000000.0,
+      "totalDebt": 2782404000000.0,
+      "cash": 4330456000000.0,
+      "sharesOutstanding": 322212411814.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3697947892351844,
+      "roe": 0.07931380880953406,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:44.732706+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "mega-cap"
+  ]
+}

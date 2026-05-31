@@ -1,0 +1,138 @@
+{
+  "ticker": "UBSG",
+  "name": "UBS Group AG",
+  "country": "CH",
+  "exchange": "XSWX",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "USD",
+  "website": "https://www.ubs.com",
+  "marketCap": {
+    "value": 121409904640.0,
+    "currency": "CHF",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 37.04,
+    "currency": "CHF",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 47295000000.0,
+    "operatingIncome": null,
+    "netIncome": 7767000000.0,
+    "eps": 2.36,
+    "freeCashFlow": 19489000000.0,
+    "totalDebt": 336042000000.0,
+    "cash": 211009000000.0,
+    "sharesOutstanding": 3341581714.0,
+    "peRatio": 16.836363,
+    "priceToBook": 1.5883312,
+    "dividendYield": 2.33
+  },
+  "ratios": {
+    "roe": 0.086096238901267,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.31471002,
+    "netMargin": 0.1642245480494767,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 33270000000.0,
+      "operatingIncome": null,
+      "netIncome": 7629000000.0,
+      "eps": 2.25,
+      "freeCashFlow": 13004000000.0,
+      "totalDebt": 193276000000.0,
+      "cash": 172825000000.0,
+      "sharesOutstanding": 3524635722.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22930568079350766,
+      "roe": 0.13413390533792813,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41140000000.0,
+      "operatingIncome": null,
+      "netIncome": 27366000000.0,
+      "eps": 8.3,
+      "freeCashFlow": 84383000000.0,
+      "totalDebt": 377685000000.0,
+      "cash": 317124000000.0,
+      "sharesOutstanding": 3462087722.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6651920272241127,
+      "roe": 0.3196066523404653,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 45346000000.0,
+      "operatingIncome": null,
+      "netIncome": 5086000000.0,
+      "eps": 1.52,
+      "freeCashFlow": 1271000000.0,
+      "totalDebt": 332423000000.0,
+      "cash": 225705000000.0,
+      "sharesOutstanding": 3462087722.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.11215983769240948,
+      "roe": 0.059779734129456155,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 47295000000.0,
+      "operatingIncome": null,
+      "netIncome": 7767000000.0,
+      "eps": 2.36,
+      "freeCashFlow": 19489000000.0,
+      "totalDebt": 336042000000.0,
+      "cash": 211009000000.0,
+      "sharesOutstanding": 3341581714.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1642245480494767,
+      "roe": 0.086096238901267,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:01.279191+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-ch",
+    "financials",
+    "large-cap"
+  ]
+}

@@ -15,7 +15,7 @@ function flag(country?: string): string {
   return String.fromCodePoint(...country.toUpperCase().split('').map(c => A + c.charCodeAt(0) - 65));
 }
 
-type SortKey = 'rank' | 'name' | 'mcap' | 'price' | 'country' | 'sector';
+type SortKey = 'rank' | 'name' | 'mcap' | 'price' | 'country' | 'sector' | 'pe' | 'pb' | 'revenue' | 'profit' | 'fcf';
 const PAGE_SIZE = 100;
 
 export default function RankingsPage() {
@@ -38,11 +38,17 @@ export default function RankingsPage() {
   const enriched = useMemo(() => {
     if (!fx) return [];
     return rows
-      .map(r => ({
-        ...r,
-        mcapDisp: convert(r.marketCap ?? null, r.marketCapCurrency || r.currency || 'USD', displayCcy, fx),
-        priceDisp: convert(r.price ?? null, r.priceCurrency || r.currency || 'USD', displayCcy, fx),
-      }))
+      .map(r => {
+        const ccy = r.currency || 'USD';
+        return {
+          ...r,
+          mcapDisp:    convert(r.marketCap ?? null, r.marketCapCurrency || ccy, displayCcy, fx),
+          priceDisp:   convert(r.price     ?? null, r.priceCurrency     || ccy, displayCcy, fx),
+          revenueDisp: convert(r.revenue   ?? null, ccy,                         displayCcy, fx),
+          profitDisp:  convert(r.netIncome ?? null, ccy,                         displayCcy, fx),
+          fcfDisp:     convert(r.fcf       ?? null, ccy,                         displayCcy, fx),
+        };
+      })
       .filter(r => (r.mcapDisp ?? 0) > 0); // drop rows without a market cap
   }, [rows, fx, displayCcy]);
 
@@ -74,13 +80,20 @@ export default function RankingsPage() {
   const sorted = useMemo(() => {
     const arr = [...filtered];
     const dir = sortDir === 'asc' ? 1 : -1;
+    // For numeric sorts, push nulls to the bottom regardless of direction.
+    const NULL_LAST = sortDir === 'asc' ? Number.POSITIVE_INFINITY : Number.NEGATIVE_INFINITY;
     arr.sort((a, b) => {
       let av: any, bv: any;
       switch (sortKey) {
         case 'rank':    av = a.rank;            bv = b.rank;            break;
         case 'name':    av = a.name;            bv = b.name;            break;
-        case 'mcap':    av = a.mcapDisp ?? 0;   bv = b.mcapDisp ?? 0;   break;
-        case 'price':   av = a.priceDisp ?? 0;  bv = b.priceDisp ?? 0;  break;
+        case 'mcap':    av = a.mcapDisp    ?? NULL_LAST; bv = b.mcapDisp    ?? NULL_LAST; break;
+        case 'price':   av = a.priceDisp   ?? NULL_LAST; bv = b.priceDisp   ?? NULL_LAST; break;
+        case 'revenue': av = a.revenueDisp ?? NULL_LAST; bv = b.revenueDisp ?? NULL_LAST; break;
+        case 'profit':  av = a.profitDisp  ?? NULL_LAST; bv = b.profitDisp  ?? NULL_LAST; break;
+        case 'fcf':     av = a.fcfDisp     ?? NULL_LAST; bv = b.fcfDisp     ?? NULL_LAST; break;
+        case 'pe':      av = a.pe          ?? NULL_LAST; bv = b.pe          ?? NULL_LAST; break;
+        case 'pb':      av = a.pb          ?? NULL_LAST; bv = b.pb          ?? NULL_LAST; break;
         case 'country': av = a.country || '';   bv = b.country || '';   break;
         case 'sector':  av = a.sector  || '';   bv = b.sector  || '';   break;
       }
@@ -98,7 +111,7 @@ export default function RankingsPage() {
 
   const setSort = (k: SortKey) => {
     if (k === sortKey) setSortDir(d => (d === 'asc' ? 'desc' : 'asc'));
-    else { setSortKey(k); setSortDir(k === 'name' || k === 'country' || k === 'sector' ? 'asc' : 'desc'); }
+    else { setSortKey(k); setSortDir(k === 'name' || k === 'country' || k === 'sector' || k === 'rank' || k === 'pe' || k === 'pb' ? 'asc' : 'desc'); }
   };
 
   if (!fx) return <div className="py-12 text-center text-sm text-atlas-muted">Loading rankings…</div>;
@@ -150,9 +163,12 @@ export default function RankingsPage() {
               <Th label="#"            onClick={() => setSort('rank')}    active={sortKey === 'rank'}    dir={sortDir} align="right" />
               <Th label="Company"      onClick={() => setSort('name')}    active={sortKey === 'name'}    dir={sortDir} align="left" />
               <Th label="Market cap"   onClick={() => setSort('mcap')}    active={sortKey === 'mcap'}    dir={sortDir} align="right" />
-              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('price')} className={`uppercase tracking-wide ${sortKey === 'price' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Price</button></th>
-              <th className="hidden px-3 py-2 text-left md:table-cell"><button onClick={() => setSort('country')} className={`uppercase tracking-wide ${sortKey === 'country' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Country</button></th>
-              <th className="hidden px-3 py-2 text-left md:table-cell">Tags</th>
+              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('price')}   className={`uppercase tracking-wide ${sortKey === 'price'   ? 'text-atlas-text' : 'text-atlas-muted'}`}>Price{sortKey === 'price'   ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
+              <th className="hidden px-3 py-2 text-right sm:table-cell"><button onClick={() => setSort('pe')}      className={`uppercase tracking-wide ${sortKey === 'pe'      ? 'text-atlas-text' : 'text-atlas-muted'}`}>P / E{sortKey === 'pe'      ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
+              <th className="hidden px-3 py-2 text-right md:table-cell"><button onClick={() => setSort('revenue')} className={`uppercase tracking-wide ${sortKey === 'revenue' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Revenue{sortKey === 'revenue' ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
+              <th className="hidden px-3 py-2 text-right md:table-cell"><button onClick={() => setSort('profit')}  className={`uppercase tracking-wide ${sortKey === 'profit'  ? 'text-atlas-text' : 'text-atlas-muted'}`}>Profit{sortKey === 'profit'  ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
+              <th className="hidden px-3 py-2 text-left lg:table-cell"><button onClick={() => setSort('country')}  className={`uppercase tracking-wide ${sortKey === 'country' ? 'text-atlas-text' : 'text-atlas-muted'}`}>Country{sortKey === 'country' ? (sortDir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>
+              <th className="hidden px-3 py-2 text-left lg:table-cell">Tags</th>
             </tr>
           </thead>
           <tbody>
@@ -171,9 +187,12 @@ export default function RankingsPage() {
                   </div>
                 </td>
                 <td className="px-3 py-1.5 font-medium">{formatMoney(r.mcapDisp, displayCcy)}</td>
-                <td className="hidden px-3 py-1.5 sm:table-cell">{r.priceDisp == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
-                <td className="hidden px-3 py-1.5 text-left md:table-cell">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
-                <td className="hidden px-3 py-1.5 text-left md:table-cell">
+                <td className="hidden px-3 py-1.5 sm:table-cell">{r.priceDisp   == null ? '—' : formatMoney(r.priceDisp, displayCcy, { compact: false })}</td>
+                <td className="hidden px-3 py-1.5 sm:table-cell">{r.pe          == null ? '—' : r.pe.toFixed(1)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{r.revenueDisp == null ? '—' : formatMoney(r.revenueDisp, displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 md:table-cell">{r.profitDisp  == null ? '—' : formatMoney(r.profitDisp,  displayCcy)}</td>
+                <td className="hidden px-3 py-1.5 text-left lg:table-cell">{flag(r.country)} <span className="text-atlas-muted">{r.country || '—'}</span></td>
+                <td className="hidden px-3 py-1.5 text-left lg:table-cell">
                   <div className="flex flex-wrap gap-1">
                     {(r.tags || [])
                       .filter(t => !t.startsWith('country-') && !['large-cap','mid-cap','small-cap','mega-cap','micro-cap'].includes(t))

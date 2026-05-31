@@ -1,0 +1,137 @@
+{
+  "ticker": "600918",
+  "name": "Zhongtai Securities Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.zts.com.cn",
+  "marketCap": {
+    "value": 43075776512.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 5.44,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 11382442714.65,
+    "operatingIncome": null,
+    "netIncome": 1434724436.51,
+    "eps": 0.18,
+    "freeCashFlow": 11119557888.83,
+    "totalDebt": 60762106426.84,
+    "cash": 161869905681.04,
+    "sharesOutstanding": 7918340996.0,
+    "peRatio": 30.222221,
+    "priceToBook": 0.96385545,
+    "dividendYield": 1.19
+  },
+  "ratios": {
+    "roe": 0.02905182774325779,
+    "roic": null,
+    "grossMargin": 0.26167,
+    "operatingMargin": 0.20378,
+    "netMargin": 0.12604714756555807,
+    "debtToEquity": 1.82847
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 81911435273.84,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 9163074973.22,
+      "operatingIncome": null,
+      "netIncome": 590207682.2,
+      "eps": 0.08,
+      "freeCashFlow": 14819290699.01,
+      "totalDebt": 63808803746.95,
+      "cash": 108324159457.31,
+      "sharesOutstanding": 6968625756.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0644115304005414,
+      "roe": 0.015453026938922407,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 12719993176.24,
+      "operatingIncome": null,
+      "netIncome": 1799796559.84,
+      "eps": 0.24,
+      "freeCashFlow": -1662748920.3400002,
+      "totalDebt": 60541348800.52,
+      "cash": 104254253766.48,
+      "sharesOutstanding": 6968625756.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.1414935161444808,
+      "roe": 0.045073505810060144,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9684708686.87,
+      "operatingIncome": null,
+      "netIncome": 937290131.82,
+      "eps": 0.11,
+      "freeCashFlow": 27304603623.52,
+      "totalDebt": 59955232667.62,
+      "cash": 131628431775.58,
+      "sharesOutstanding": 6968625756.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0967804156144342,
+      "roe": 0.021939465423801437,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11382442714.65,
+      "operatingIncome": null,
+      "netIncome": 1434724436.51,
+      "eps": 0.18,
+      "freeCashFlow": 11119557888.83,
+      "totalDebt": 60762106426.84,
+      "cash": 161869905681.04,
+      "sharesOutstanding": 7918340996.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12604714756555807,
+      "roe": 0.02905182774325779,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:02.865131+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "mid-cap"
+  ]
+}

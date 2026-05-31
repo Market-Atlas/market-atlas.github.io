@@ -1,0 +1,121 @@
+{
+  "ticker": "601238",
+  "name": "Guangzhou Automobile Group Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "CNY",
+  "website": "https://www.gac.com.cn",
+  "marketCap": {
+    "value": 61896192000.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.07,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 96542390397.0,
+    "operatingIncome": -13055946685.0,
+    "netIncome": -8783621243.0,
+    "eps": -0.85,
+    "freeCashFlow": -23987274728.0,
+    "totalDebt": 40583471861.0,
+    "cash": 38775657921.0,
+    "sharesOutstanding": 10197065900.0,
+    "peRatio": 11.689038,
+    "priceToBook": 0.636936,
+    "dividendYield": 0.66
+  },
+  "ratios": {
+    "roe": -0.08346947918976941,
+    "roic": -0.08953774482321386,
+    "grossMargin": -0.004066852305867502,
+    "operatingMargin": -0.13523537827592164,
+    "netMargin": -0.0909820153290191,
+    "debtToEquity": 0.43916
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 110271922628.0,
+      "operatingIncome": -2984056729.0,
+      "netIncome": 8063678781.0,
+      "eps": 0.77,
+      "freeCashFlow": -13362391356.0,
+      "totalDebt": 20608794210.0,
+      "cash": 39524425339.0,
+      "sharesOutstanding": 10487163691.0,
+      "grossMargin": 0.06908623783317971,
+      "operatingMargin": -0.027060893270779835,
+      "netMargin": 0.07312540299313226,
+      "roe": 0.0712022820089289,
+      "roic": -0.02229252382949466
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 129706167117.0,
+      "operatingIncome": -3756883029.0,
+      "netIncome": 4428903018.0,
+      "eps": 0.42,
+      "freeCashFlow": -4848925609.0,
+      "totalDebt": 29115904143.0,
+      "cash": 48895164629.0,
+      "sharesOutstanding": 10490234414.0,
+      "grossMargin": 0.06732489794508373,
+      "operatingMargin": -0.02896456747203967,
+      "netMargin": 0.034145662588309755,
+      "roe": 0.03827252977248245,
+      "roic": -0.02593886558060571
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 107783806936.0,
+      "operatingIncome": -4605217985.0,
+      "netIncome": 823581893.0,
+      "eps": 0.08,
+      "freeCashFlow": 59357081.0,
+      "totalDebt": 37805975623.0,
+      "cash": 51623670169.0,
+      "sharesOutstanding": 10341518250.0,
+      "grossMargin": 0.06665078204433482,
+      "operatingMargin": -0.042726436520603615,
+      "netMargin": 0.007641054035965045,
+      "roe": 0.007202033245075183,
+      "roic": -0.03026561692673915
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 96542390397.0,
+      "operatingIncome": -13055946685.0,
+      "netIncome": -8783621243.0,
+      "eps": -0.85,
+      "freeCashFlow": -23987274728.0,
+      "totalDebt": 40583471861.0,
+      "cash": 38775657921.0,
+      "sharesOutstanding": 10197065900.0,
+      "grossMargin": -0.004066852305867502,
+      "operatingMargin": -0.13523537827592164,
+      "netMargin": -0.0909820153290191,
+      "roe": -0.08346947918976941,
+      "roic": -0.08953774482321386
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:11.483684+00:00"
+  },
+  "tags": [
+    "automakers",
+    "consumer-cyclical",
+    "country-cn",
+    "mid-cap"
+  ]
+}

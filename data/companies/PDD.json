@@ -1,0 +1,122 @@
+{
+  "ticker": "PDD",
+  "name": "PDD Holdings Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "currency": "CNY",
+  "website": "https://www.pddholdings.com",
+  "marketCap": {
+    "value": 120191598592.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 84.44,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 431845713000.0,
+    "operatingIncome": 93102131000.0,
+    "netIncome": 97842539000.0,
+    "eps": 66.0,
+    "freeCashFlow": 105793613000.0,
+    "totalDebt": 5378795000.0,
+    "cash": 108900587000.0,
+    "sharesOutstanding": 5693585848.0,
+    "peRatio": 8.869748,
+    "priceToBook": 1.9756421,
+    "dividendYield": null
+  },
+  "ratios": {
+    "roe": 0.23668614506322525,
+    "roic": 0.22232604018964375,
+    "grossMargin": 0.5628027619206677,
+    "operatingMargin": 0.21559118962470747,
+    "netMargin": 0.2265682767122896,
+    "debtToEquity": 0.0121
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 130557589000.0,
+      "operatingIncome": 30401921000.0,
+      "netIncome": 31538062000.0,
+      "eps": 21.92,
+      "freeCashFlow": 47872144000.0,
+      "totalDebt": 16934324000.0,
+      "cash": 34326192000.0,
+      "sharesOutstanding": 5278348396.0,
+      "grossMargin": 0.7590159389355757,
+      "operatingMargin": 0.23286215097002136,
+      "netMargin": 0.24156437202589578,
+      "roe": 0.26779161112203675,
+      "roic": 0.2256922011976743
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 247639205000.0,
+      "operatingIncome": 58698762000.0,
+      "netIncome": 60026544000.0,
+      "eps": 41.16,
+      "freeCashFlow": 93578652000.0,
+      "totalDebt": 10165901000.0,
+      "cash": 59794469000.0,
+      "sharesOutstanding": 5503491148.0,
+      "grossMargin": 0.6296080138037917,
+      "operatingMargin": 0.23703339703420548,
+      "netMargin": 0.24239515709961998,
+      "roe": 0.32058336264973414,
+      "roic": 0.29734817380907314
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 393836097000.0,
+      "operatingIncome": 108422862000.0,
+      "netIncome": 112434512000.0,
+      "eps": 76.0,
+      "freeCashFlow": 120962155000.0,
+      "totalDebt": 10607140000.0,
+      "cash": 57768053000.0,
+      "sharesOutstanding": 5568585848.0,
+      "grossMargin": 0.6092273532763555,
+      "operatingMargin": 0.27529945280764856,
+      "netMargin": 0.2854855429871884,
+      "roe": 0.358856694429436,
+      "roic": 0.33472083734779867
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 431845713000.0,
+      "operatingIncome": 93102131000.0,
+      "netIncome": 97842539000.0,
+      "eps": 66.0,
+      "freeCashFlow": 105793613000.0,
+      "totalDebt": 5378795000.0,
+      "cash": 108900587000.0,
+      "sharesOutstanding": 5693585848.0,
+      "grossMargin": 0.5628027619206677,
+      "operatingMargin": 0.21559118962470747,
+      "netMargin": 0.2265682767122896,
+      "roe": 0.23668614506322525,
+      "roic": 0.22232604018964375
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:58.153585+00:00"
+  },
+  "tags": [
+    "consumer-cyclical",
+    "country-us",
+    "ecommerce",
+    "large-cap",
+    "retail"
+  ]
+}

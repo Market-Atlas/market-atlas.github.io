@@ -1,0 +1,121 @@
+{
+  "ticker": "002001",
+  "name": "Zhejiang NHU Company Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "currency": "CNY",
+  "website": "https://www.cnhu.com",
+  "marketCap": {
+    "value": 90266394624.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 29.37,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 22251361880.58,
+    "operatingIncome": 7976170105.78,
+    "netIncome": 6764199225.29,
+    "eps": 2.21,
+    "freeCashFlow": 6897077863.05,
+    "totalDebt": 8030265308.54,
+    "cash": 7966270131.17,
+    "sharesOutstanding": 3073421680.0,
+    "peRatio": 13.410959,
+    "priceToBook": 2.5890338,
+    "dividendYield": 3.4
+  },
+  "ratios": {
+    "roe": 0.20619004235623625,
+    "roic": 0.19532240746158003,
+    "grossMargin": 0.44673912293726503,
+    "operatingMargin": 0.3584576148007033,
+    "netMargin": 0.3039903472691931,
+    "debtToEquity": 0.21306
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 15933984403.41,
+      "operatingIncome": 4449761049.74,
+      "netIncome": 3620280626.51,
+      "eps": 1.17,
+      "freeCashFlow": -570410813.6500006,
+      "totalDebt": 9714521060.17,
+      "cash": 5343851967.72,
+      "sharesOutstanding": 3090907356.0,
+      "grossMargin": 0.3693792705866096,
+      "operatingMargin": 0.2792622947960032,
+      "netMargin": 0.22720498118067892,
+      "roe": 0.1535651816669301,
+      "roic": 0.13366900569217105
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 15116537003.3,
+      "operatingIncome": 3423214581.73,
+      "netIncome": 2704238767.54,
+      "eps": 0.87,
+      "freeCashFlow": 673849191.5699997,
+      "totalDebt": 9626963852.58,
+      "cash": 4543361146.98,
+      "sharesOutstanding": 3090907356.0,
+      "grossMargin": 0.3297743806509218,
+      "operatingMargin": 0.22645494672375682,
+      "netMargin": 0.1788927428914211,
+      "roe": 0.10902139011389164,
+      "roic": 0.0994206478797591
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 21609592228.45,
+      "operatingIncome": 7222548365.05,
+      "netIncome": 5868545988.62,
+      "eps": 1.91,
+      "freeCashFlow": 5473264868.2,
+      "totalDebt": 8958719665.25,
+      "cash": 7936504805.65,
+      "sharesOutstanding": 3073421680.0,
+      "grossMargin": 0.41775853456016493,
+      "operatingMargin": 0.33422881323698417,
+      "netMargin": 0.2715713432525485,
+      "roe": 0.20012093582624557,
+      "roic": 0.18865849130273385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 22251361880.58,
+      "operatingIncome": 7976170105.78,
+      "netIncome": 6764199225.29,
+      "eps": 2.21,
+      "freeCashFlow": 6897077863.05,
+      "totalDebt": 8030265308.54,
+      "cash": 7966270131.17,
+      "sharesOutstanding": 3073421680.0,
+      "grossMargin": 0.44673912293726503,
+      "operatingMargin": 0.3584576148007033,
+      "netMargin": 0.3039903472691931,
+      "roe": 0.20619004235623625,
+      "roic": 0.19532240746158003
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:16.087084+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "healthcare",
+    "large-cap",
+    "pharma"
+  ]
+}

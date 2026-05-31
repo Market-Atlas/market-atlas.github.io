@@ -1,0 +1,137 @@
+{
+  "ticker": "601059",
+  "name": "Cinda Securities Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.cindasc.com",
+  "marketCap": {
+    "value": 55779602432.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 17.2,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 4028689062.0,
+    "operatingIncome": null,
+    "netIncome": 1893704022.18,
+    "eps": 0.54,
+    "freeCashFlow": 1893151162.86,
+    "totalDebt": 49483422141.19,
+    "cash": 51583753725.66,
+    "sharesOutstanding": 3243000000.0,
+    "peRatio": 28.666666,
+    "priceToBook": 2.5124161,
+    "dividendYield": 0.43
+  },
+  "ratios": {
+    "roe": 0.06746268502762522,
+    "roic": null,
+    "grossMargin": 1.0533,
+    "operatingMargin": 0.49721,
+    "netMargin": 0.47005464880426656,
+    "debtToEquity": 2.03877
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": 27971025581.86,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3432010297.17,
+      "operatingIncome": null,
+      "netIncome": 1227342108.11,
+      "eps": 0.42,
+      "freeCashFlow": 7545757741.6,
+      "totalDebt": 18030406990.68,
+      "cash": 33713090190.38,
+      "sharesOutstanding": 2918700000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3576160913975268,
+      "roe": 0.08970174318786152,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3465469375.71,
+      "operatingIncome": null,
+      "netIncome": 1466886707.38,
+      "eps": 0.46,
+      "freeCashFlow": 2329452890.4,
+      "totalDebt": 28938065181.67,
+      "cash": 33163930871.05,
+      "sharesOutstanding": 3243000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4232865878606896,
+      "roe": 0.0825996589495954,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3273829926.22,
+      "operatingIncome": null,
+      "netIncome": 1364888583.05,
+      "eps": 0.41,
+      "freeCashFlow": 10198228645.48,
+      "totalDebt": 37808502770.3,
+      "cash": 41983975611.92,
+      "sharesOutstanding": 3243000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.41690882355208825,
+      "roe": 0.057327034919085605,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4028689062.0,
+      "operatingIncome": null,
+      "netIncome": 1893704022.18,
+      "eps": 0.54,
+      "freeCashFlow": 1893151162.86,
+      "totalDebt": 49483422141.19,
+      "cash": 51583753725.66,
+      "sharesOutstanding": 3243000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.47005464880426656,
+      "roe": 0.06746268502762522,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:06.884744+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "mid-cap"
+  ]
+}

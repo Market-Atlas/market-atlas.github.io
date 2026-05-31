@@ -1,0 +1,138 @@
+{
+  "ticker": "G",
+  "name": "Assicurazioni Generali S.p.A.",
+  "country": "IT",
+  "exchange": "XMIL",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "EUR",
+  "website": "https://www.generali.com",
+  "marketCap": {
+    "value": 57909305344.0,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 38.71,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 74133000000.0,
+    "operatingIncome": null,
+    "netIncome": 4172000000.0,
+    "eps": 2.699312,
+    "freeCashFlow": 19228000000.0,
+    "totalDebt": 39571000000.0,
+    "cash": 7308000000.0,
+    "sharesOutstanding": 1549784923.0,
+    "peRatio": 14.390334,
+    "priceToBook": 1.8153255,
+    "dividendYield": 4.24
+  },
+  "ratios": {
+    "roe": 0.13011477045908185,
+    "roic": null,
+    "grossMargin": 0.20591,
+    "operatingMargin": 0.11055,
+    "netMargin": 0.05627723146237169,
+    "debtToEquity": 1.13746
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 33057000000.0,
+      "operatingIncome": null,
+      "netIncome": 2235000000.0,
+      "eps": 1.41,
+      "freeCashFlow": 9424000000.0,
+      "totalDebt": 36224000000.0,
+      "cash": 6887000000.0,
+      "sharesOutstanding": 1586833696.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06761049097014248,
+      "roe": 0.08386491557223265,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 66939000000.0,
+      "operatingIncome": null,
+      "netIncome": 3747000000.0,
+      "eps": 2.429417,
+      "freeCashFlow": 1555000000.0,
+      "totalDebt": 35345000000.0,
+      "cash": 7070000000.0,
+      "sharesOutstanding": 1559281461.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.0559763366647246,
+      "roe": 0.12934516206979876,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 58527000000.0,
+      "operatingIncome": null,
+      "netIncome": 3724000000.0,
+      "eps": 2.447507,
+      "freeCashFlow": 15005000000.0,
+      "totalDebt": 37543000000.0,
+      "cash": 8315000000.0,
+      "sharesOutstanding": 1569420004.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06362875254156201,
+      "roe": 0.12254434170258975,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 74133000000.0,
+      "operatingIncome": null,
+      "netIncome": 4172000000.0,
+      "eps": 2.699312,
+      "freeCashFlow": 19228000000.0,
+      "totalDebt": 39571000000.0,
+      "cash": 7308000000.0,
+      "sharesOutstanding": 1549784923.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05627723146237169,
+      "roe": 0.13011477045908185,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:53.360874+00:00"
+  },
+  "tags": [
+    "country-it",
+    "financials",
+    "insurance",
+    "large-cap"
+  ]
+}

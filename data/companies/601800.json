@@ -1,0 +1,137 @@
+{
+  "ticker": "601800",
+  "name": "China Communications Construction Company Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "CNY",
+  "website": "https://ccccltd.cn",
+  "marketCap": {
+    "value": 104578924544.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.45,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 726636000000.0,
+    "operatingIncome": 31673000000.0,
+    "netIncome": 14995000000.0,
+    "eps": 0.86,
+    "freeCashFlow": -21514000000.0,
+    "totalDebt": 695231000000.0,
+    "cash": 139830000000.0,
+    "sharesOutstanding": 16274644225.0,
+    "peRatio": 7.4999995,
+    "priceToBook": 0.3593515,
+    "dividendYield": 4.33
+  },
+  "ratios": {
+    "roe": 0.04822690929674585,
+    "roic": 0.03147918267228673,
+    "grossMargin": 0.11086431170489763,
+    "operatingMargin": 0.04358853676393683,
+    "netMargin": 0.020636191986083817,
+    "debtToEquity": 1.64295
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 719084000000.0,
+      "operatingIncome": 35997000000.0,
+      "netIncome": 20226000000.0,
+      "eps": 1.15,
+      "freeCashFlow": -33024000000.0,
+      "totalDebt": 470121000000.0,
+      "cash": 103663000000.0,
+      "sharesOutstanding": 16165711425.0,
+      "grossMargin": 0.11638695896446034,
+      "operatingMargin": 0.050059520167323984,
+      "netMargin": 0.02812745103492777,
+      "roe": 0.07159646017699114,
+      "roic": 0.04782885409787928
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 755687000000.0,
+      "operatingIncome": 42758000000.0,
+      "netIncome": 24739000000.0,
+      "eps": 1.45,
+      "freeCashFlow": -26860000000.0,
+      "totalDebt": 529405000000.0,
+      "cash": 110253000000.0,
+      "sharesOutstanding": 16263661425.0,
+      "grossMargin": 0.12511661574170257,
+      "operatingMargin": 0.05658162704929422,
+      "netMargin": 0.0327370988253073,
+      "roe": 0.0819804683746069,
+      "roic": 0.05144302262347625
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 768243000000.0,
+      "operatingIncome": 42377000000.0,
+      "netIncome": 23854000000.0,
+      "eps": 1.4,
+      "freeCashFlow": -14761000000.0,
+      "totalDebt": 589668000000.0,
+      "cash": 134974000000.0,
+      "sharesOutstanding": 16278611425.0,
+      "grossMargin": 0.12053868372376969,
+      "operatingMargin": 0.05516093215297764,
+      "netMargin": 0.03105007139668048,
+      "roe": 0.07610752173566245,
+      "roic": 0.04692429240399383
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 726636000000.0,
+      "operatingIncome": 31673000000.0,
+      "netIncome": 14995000000.0,
+      "eps": 0.86,
+      "freeCashFlow": -21514000000.0,
+      "totalDebt": 695231000000.0,
+      "cash": 139830000000.0,
+      "sharesOutstanding": 16274644225.0,
+      "grossMargin": 0.11086431170489763,
+      "operatingMargin": 0.04358853676393683,
+      "netMargin": 0.020636191986083817,
+      "roe": 0.04822690929674585,
+      "roic": 0.03147918267228673
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:18.863199+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "industrials",
+    "large-cap"
+  ]
+}

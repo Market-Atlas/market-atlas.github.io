@@ -1,0 +1,121 @@
+{
+  "ticker": "000660",
+  "name": "SK hynix Inc.",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "currency": "KRW",
+  "website": "https://www.skhynix.com",
+  "marketCap": {
+    "value": 1656091473608704.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 2333000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 97146675000000.0,
+    "operatingIncome": 47206319000000.0,
+    "netIncome": 42919287000000.0,
+    "eps": 60378.0,
+    "freeCashFlow": 24793783000000.0,
+    "totalDebt": 24757848000000.0,
+    "cash": 14923766000000.0,
+    "sharesOutstanding": 728002365.0,
+    "peRatio": 6.1025953,
+    "priceToBook": null,
+    "dividendYield": 0.13
+  },
+  "ratios": {
+    "roe": 0.35612884271852696,
+    "roic": 0.3249467251633819,
+    "grossMargin": 0.6041461532265515,
+    "operatingMargin": 0.4859283037736495,
+    "netMargin": 0.44179882636230217,
+    "debtToEquity": 0.13282
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 44621568000000.0,
+      "operatingIncome": 6809417000000.0,
+      "netIncome": 2229560000000.0,
+      "eps": 3242.0,
+      "freeCashFlow": -4968365000000.0,
+      "totalDebt": 24791685000000.0,
+      "cash": 4977007000000.0,
+      "sharesOutstanding": 728002365.0,
+      "grossMargin": 0.35023096902376893,
+      "operatingMargin": 0.1526037139707865,
+      "netMargin": 0.04996597161265153,
+      "roe": 0.03524084799890874,
+      "roic": 0.0773287368194886
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 32765719000000.0,
+      "operatingIncome": -7730313000000.0,
+      "netIncome": -9112428000000.0,
+      "eps": -13244.0,
+      "freeCashFlow": -4501657000000.0,
+      "totalDebt": 32498506000000.0,
+      "cash": 7587329000000.0,
+      "sharesOutstanding": 728002365.0,
+      "grossMargin": -0.016280674323063078,
+      "operatingMargin": -0.23592685391704665,
+      "netMargin": -0.2781085927032457,
+      "roe": -0.17031211612303576,
+      "roic": -0.08988444340137752
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 66192960000000.0,
+      "operatingIncome": 23467319000000.0,
+      "netIncome": 19788681000000.0,
+      "eps": 28419.0,
+      "freeCashFlow": 13133245000000.0,
+      "totalDebt": 25452109000000.0,
+      "cash": 11205117000000.0,
+      "sharesOutstanding": 728002365.0,
+      "grossMargin": 0.48083883845049386,
+      "operatingMargin": 0.35452892573470046,
+      "netMargin": 0.29895446585256197,
+      "roe": 0.2677641706144105,
+      "roic": 0.23619546267105104
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 97146675000000.0,
+      "operatingIncome": 47206319000000.0,
+      "netIncome": 42919287000000.0,
+      "eps": 60378.0,
+      "freeCashFlow": 24793783000000.0,
+      "totalDebt": 24757848000000.0,
+      "cash": 14923766000000.0,
+      "sharesOutstanding": 728002365.0,
+      "grossMargin": 0.6041461532265515,
+      "operatingMargin": 0.4859283037736495,
+      "netMargin": 0.44179882636230217,
+      "roe": 0.35612884271852696,
+      "roic": 0.3249467251633819
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:36.425915+00:00"
+  },
+  "tags": [
+    "country-kr",
+    "mega-cap",
+    "semiconductors",
+    "tech"
+  ]
+}

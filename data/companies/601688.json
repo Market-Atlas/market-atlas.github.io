@@ -1,0 +1,120 @@
+{
+  "ticker": "601688",
+  "name": "Huatai Securities Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.htsc.com.cn",
+  "marketCap": {
+    "value": 164108386304.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 18.18,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 32446562469.58,
+    "operatingIncome": null,
+    "netIncome": 16383497118.1,
+    "eps": 1.73,
+    "freeCashFlow": -13823325510.53,
+    "totalDebt": 303386972304.73,
+    "cash": 513184861247.23,
+    "sharesOutstanding": 9026863786.0,
+    "peRatio": 9.774194,
+    "priceToBook": 0.96078634,
+    "dividendYield": 2.86
+  },
+  "ratios": {
+    "roe": 0.07917047985569614,
+    "roic": null,
+    "grossMargin": 0.57222,
+    "operatingMargin": 0.58195,
+    "netMargin": 0.5049378384369749,
+    "debtToEquity": 2.49398
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 30811407274.19,
+      "operatingIncome": null,
+      "netIncome": 11053986333.99,
+      "eps": 1.16,
+      "freeCashFlow": 65732894500.28,
+      "totalDebt": 201390577668.95,
+      "cash": 337712748150.62,
+      "sharesOutstanding": 9075589027.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3587627866400529,
+      "roe": 0.06695526524955471,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33991276011.85,
+      "operatingIncome": null,
+      "netIncome": 12750632499.51,
+      "eps": 1.33,
+      "freeCashFlow": -33134632688.739998,
+      "totalDebt": 238421819908.25,
+      "cash": 345521299801.07,
+      "sharesOutstanding": 9074663335.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.37511485285415264,
+      "roe": 0.07118948557996904,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 31161281506.4,
+      "operatingIncome": null,
+      "netIncome": 15351162321.66,
+      "eps": 1.62,
+      "freeCashFlow": 66361664674.1,
+      "totalDebt": 178803011223.54,
+      "cash": 387536087089.85,
+      "sharesOutstanding": 9027302281.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4926357832397596,
+      "roe": 0.08008999748971457,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 32446562469.58,
+      "operatingIncome": null,
+      "netIncome": 16383497118.1,
+      "eps": 1.73,
+      "freeCashFlow": -13823325510.53,
+      "totalDebt": 303386972304.73,
+      "cash": 513184861247.23,
+      "sharesOutstanding": 9026863786.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5049378384369749,
+      "roe": 0.07917047985569614,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:16.138183+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

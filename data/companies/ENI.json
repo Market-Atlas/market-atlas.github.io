@@ -1,0 +1,138 @@
+{
+  "ticker": "ENI",
+  "name": "Eni S.p.A.",
+  "country": "IT",
+  "exchange": "XMIL",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "EUR",
+  "website": "https://www.eni.com",
+  "marketCap": {
+    "value": 66149298176.0,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 22.53,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 82151000000.0,
+    "operatingIncome": 4506000000.0,
+    "netIncome": 2608000000.0,
+    "eps": 0.78,
+    "freeCashFlow": 4101000000.0,
+    "totalDebt": 34202000000.0,
+    "cash": 8099000000.0,
+    "sharesOutstanding": 3146765114.0,
+    "peRatio": 22.53,
+    "priceToBook": 1.3490211,
+    "dividendYield": 4.75
+  },
+  "ratios": {
+    "roe": 0.05440133500208594,
+    "roic": 0.054856224586691336,
+    "grossMargin": 0.0942897834475539,
+    "operatingMargin": 0.054850214848267215,
+    "netMargin": 0.031746418181154215,
+    "debtToEquity": 0.67357
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 132512000000.0,
+      "operatingIncome": 19810000000.0,
+      "netIncome": 13887000000.0,
+      "eps": 3.95,
+      "freeCashFlow": 9401000000.0,
+      "totalDebt": 31868000000.0,
+      "cash": 10058000000.0,
+      "sharesOutstanding": 3571487977.0,
+      "grossMargin": 0.17189386621588987,
+      "operatingMargin": 0.14949589471142236,
+      "netMargin": 0.1047980560251147,
+      "roe": 0.25360214759217664,
+      "roic": 0.2286815888810648
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 93717000000.0,
+      "operatingIncome": 9017000000.0,
+      "netIncome": 4771000000.0,
+      "eps": 1.4,
+      "freeCashFlow": 5904000000.0,
+      "totalDebt": 34065000000.0,
+      "cash": 9988000000.0,
+      "sharesOutstanding": 3375937893.0,
+      "grossMargin": 0.132334581772784,
+      "operatingMargin": 0.09621520108411494,
+      "netMargin": 0.050908586489110834,
+      "roe": 0.08970743080625752,
+      "roic": 0.10334788937409024
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 88797000000.0,
+      "operatingIncome": 6653000000.0,
+      "netIncome": 2624000000.0,
+      "eps": 0.78,
+      "freeCashFlow": 4602000000.0,
+      "totalDebt": 36843000000.0,
+      "cash": 8129000000.0,
+      "sharesOutstanding": 3284490525.0,
+      "grossMargin": 0.11355113348423933,
+      "operatingMargin": 0.07492370237733256,
+      "netMargin": 0.029550547878869782,
+      "roe": 0.04971109216633513,
+      "roic": 0.07422903556924175
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 82151000000.0,
+      "operatingIncome": 4506000000.0,
+      "netIncome": 2608000000.0,
+      "eps": 0.78,
+      "freeCashFlow": 4101000000.0,
+      "totalDebt": 34202000000.0,
+      "cash": 8099000000.0,
+      "sharesOutstanding": 3146765114.0,
+      "grossMargin": 0.0942897834475539,
+      "operatingMargin": 0.054850214848267215,
+      "netMargin": 0.031746418181154215,
+      "roe": 0.05440133500208594,
+      "roic": 0.054856224586691336
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:52.268357+00:00"
+  },
+  "tags": [
+    "country-it",
+    "energy",
+    "large-cap",
+    "oil-gas"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "ticker": "BBVA",
+  "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+  "country": "ES",
+  "exchange": "XMAD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "currency": "EUR",
+  "website": "https://www.bbva.com",
+  "marketCap": {
+    "value": 112023453696.0,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 20.11,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 39415000000.0,
+    "operatingIncome": null,
+    "netIncome": 10511000000.0,
+    "eps": 1.76,
+    "freeCashFlow": 13162000000.0,
+    "totalDebt": 89302000000.0,
+    "cash": 69887000000.0,
+    "sharesOutstanding": 5708968700.0,
+    "peRatio": 11.049451,
+    "priceToBook": 2.0945735,
+    "dividendYield": 4.57
+  },
+  "ratios": {
+    "roe": 0.18326213930781973,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.54861,
+    "netMargin": 0.2666751236838767,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 28065000000.0,
+      "operatingIncome": null,
+      "netIncome": 6358000000.0,
+      "eps": 0.98,
+      "freeCashFlow": 21276000000.0,
+      "totalDebt": 60116000000.0,
+      "cash": 84250000000.0,
+      "sharesOutstanding": 6030116564.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22654551933012648,
+      "roe": 0.13557948608593667,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 33427000000.0,
+      "operatingIncome": null,
+      "netIncome": 8019000000.0,
+      "eps": 1.29,
+      "freeCashFlow": -2540000000.0,
+      "totalDebt": 74192000000.0,
+      "cash": 81263000000.0,
+      "sharesOutstanding": 5842327005.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2398958925419571,
+      "roe": 0.15510338291328987,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 39235000000.0,
+      "operatingIncome": null,
+      "netIncome": 10054000000.0,
+      "eps": 1.68,
+      "freeCashFlow": -20201000000.0,
+      "totalDebt": 75930000000.0,
+      "cash": 59881000000.0,
+      "sharesOutstanding": 5763285465.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25625079648273225,
+      "roe": 0.18065188486002803,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 39415000000.0,
+      "operatingIncome": null,
+      "netIncome": 10511000000.0,
+      "eps": 1.76,
+      "freeCashFlow": 13162000000.0,
+      "totalDebt": 89302000000.0,
+      "cash": 69887000000.0,
+      "sharesOutstanding": 5708968700.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2666751236838767,
+      "roe": 0.18326213930781973,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:49.317022+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-es",
+    "financials",
+    "large-cap"
+  ]
+}

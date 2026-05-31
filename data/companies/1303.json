@@ -1,0 +1,137 @@
+{
+  "ticker": "1303",
+  "name": "Nan Ya Plastics Corporation",
+  "country": "TW",
+  "exchange": "XTAI",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "TWD",
+  "website": "https://www.npc.com.tw",
+  "marketCap": {
+    "value": 778013638656.0,
+    "currency": "TWD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 98.1,
+    "currency": "TWD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 259911744000.0,
+    "operatingIncome": 3679702000.0,
+    "netIncome": 4518598000.0,
+    "eps": null,
+    "freeCashFlow": -2679968000.0,
+    "totalDebt": 173213953000.0,
+    "cash": 46149879000.0,
+    "sharesOutstanding": 7930822000.0,
+    "peRatio": 172.10526,
+    "priceToBook": 2.0269852,
+    "dividendYield": 0.71
+  },
+  "ratios": {
+    "roe": 0.012704616292105063,
+    "roic": 0.00695753943073238,
+    "grossMargin": 0.08305542361333237,
+    "operatingMargin": 0.014157505710861606,
+    "netMargin": 0.01738512439053158,
+    "debtToEquity": 0.4205
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 10.25,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 355183300000.0,
+      "operatingIncome": 32042142000.0,
+      "netIncome": 32108977000.0,
+      "eps": 4.05,
+      "freeCashFlow": 44054465000.0,
+      "totalDebt": 174781881000.0,
+      "cash": 89444513000.0,
+      "sharesOutstanding": 7930822000.0,
+      "grossMargin": 0.15177159511722538,
+      "operatingMargin": 0.09021297454018812,
+      "netMargin": 0.09040114498626484,
+      "roe": 0.08560006423808357,
+      "roic": 0.05827046797810743
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 259755344000.0,
+      "operatingIncome": 2004275000.0,
+      "netIncome": 6310050000.0,
+      "eps": 0.8,
+      "freeCashFlow": 11719947000.0,
+      "totalDebt": 190790539000.0,
+      "cash": 80301186000.0,
+      "sharesOutstanding": 7930822000.0,
+      "grossMargin": 0.07405429934099834,
+      "operatingMargin": 0.007716010647311264,
+      "netMargin": 0.0242922817403133,
+      "roe": 0.01752089473008122,
+      "roic": 0.00363795304728771
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 259608483000.0,
+      "operatingIncome": 347130000.0,
+      "netIncome": 3340129000.0,
+      "eps": 0.42,
+      "freeCashFlow": 6145381000.0,
+      "totalDebt": 180638536000.0,
+      "cash": 66445373000.0,
+      "sharesOutstanding": 7930822000.0,
+      "grossMargin": 0.07155040076252053,
+      "operatingMargin": 0.0013371288795674678,
+      "netMargin": 0.012866024104458867,
+      "roe": 0.009637307227649619,
+      "roic": 0.0006584136448738642
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 259911744000.0,
+      "operatingIncome": 3679702000.0,
+      "netIncome": 4518598000.0,
+      "eps": null,
+      "freeCashFlow": -2679968000.0,
+      "totalDebt": 173213953000.0,
+      "cash": 46149879000.0,
+      "sharesOutstanding": 7930822000.0,
+      "grossMargin": 0.08305542361333237,
+      "operatingMargin": 0.014157505710861606,
+      "netMargin": 0.01738512439053158,
+      "roe": 0.012704616292105063,
+      "roic": 0.00695753943073238
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:38.500925+00:00"
+  },
+  "tags": [
+    "chemicals",
+    "country-tw",
+    "materials"
+  ]
+}

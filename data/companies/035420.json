@@ -1,0 +1,137 @@
+{
+  "ticker": "035420",
+  "name": "NAVER Corporation",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "KRW",
+  "website": "https://www.navercorp.com",
+  "marketCap": {
+    "value": 34979446784000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 234000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 12035007218970.0,
+    "operatingIncome": 2208138388970.0,
+    "netIncome": 1953214734950.0,
+    "eps": 12907.0,
+    "freeCashFlow": 1776422815160.0,
+    "totalDebt": 4173496645990.0,
+    "cash": 5984018799740.0,
+    "sharesOutstanding": 149484820.0,
+    "peRatio": 15.601757,
+    "priceToBook": null,
+    "dividendYield": 1.12
+  },
+  "ratios": {
+    "roe": 0.07081494384412403,
+    "roic": 0.06953572179072684,
+    "grossMargin": 1.0,
+    "operatingMargin": 0.18347628287995166,
+    "netMargin": 0.16229443816795344,
+    "debtToEquity": 0.17168
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 8220078708810.0,
+      "operatingIncome": 1304664410810.0,
+      "netIncome": 760260876240.0,
+      "eps": 4985.0,
+      "freeCashFlow": 697156470640.0,
+      "totalDebt": 4196582171070.0,
+      "cash": 2724168321700.0,
+      "sharesOutstanding": 164049085.0,
+      "grossMargin": null,
+      "operatingMargin": 0.1587167783943121,
+      "netMargin": 0.09248827209223415,
+      "roe": 0.033426735860390765,
+      "roic": 0.048427304671231165
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 9670643576580.0,
+      "operatingIncome": 1488820269580.0,
+      "netIncome": 1012321527620.0,
+      "eps": 6576.0,
+      "freeCashFlow": 1309972135280.0,
+      "totalDebt": 4178883507110.0,
+      "cash": 3576456533320.0,
+      "sharesOutstanding": 162408594.0,
+      "grossMargin": null,
+      "operatingMargin": 0.15395255318741854,
+      "netMargin": 0.10467985089137212,
+      "roe": 0.043623187319373466,
+      "roic": 0.05436641615445301
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 10737719264640.0,
+      "operatingIncome": 1979263438640.0,
+      "netIncome": 1923237257010.0,
+      "eps": 12553.0,
+      "freeCashFlow": 2009769104720.0,
+      "totalDebt": 3801870750520.0,
+      "cash": 4195524637850.0,
+      "sharesOutstanding": 158437008.0,
+      "grossMargin": null,
+      "operatingMargin": 0.18432810449401874,
+      "netMargin": 0.17911040600058747,
+      "roe": 0.0755398484286535,
+      "roic": 0.06763989827376442
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 12035007218970.0,
+      "operatingIncome": 2208138388970.0,
+      "netIncome": 1953214734950.0,
+      "eps": 12907.0,
+      "freeCashFlow": 1776422815160.0,
+      "totalDebt": 4173496645990.0,
+      "cash": 5984018799740.0,
+      "sharesOutstanding": 149484820.0,
+      "grossMargin": null,
+      "operatingMargin": 0.18347628287995166,
+      "netMargin": 0.16229443816795344,
+      "roe": 0.07081494384412403,
+      "roic": 0.06953572179072684
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:37.262457+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-kr",
+    "large-cap"
+  ]
+}

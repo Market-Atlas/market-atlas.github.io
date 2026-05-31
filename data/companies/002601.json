@@ -1,0 +1,121 @@
+{
+  "ticker": "002601",
+  "name": "LB Group Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "currency": "CNY",
+  "website": "https://www.lomonbillions.com",
+  "marketCap": {
+    "value": 34094747648.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 14.3,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 25987541896.57,
+    "operatingIncome": 2452484049.61,
+    "netIncome": 1244565890.88,
+    "eps": 0.52,
+    "freeCashFlow": 2062778483.03,
+    "totalDebt": 23853141460.85,
+    "cash": 9127297768.83,
+    "sharesOutstanding": 2384248056.0,
+    "peRatio": 46.129032,
+    "priceToBook": 1.463215,
+    "dividendYield": 4.2
+  },
+  "ratios": {
+    "roe": 0.054392792979965236,
+    "roic": 0.05247726251108629,
+    "grossMargin": 0.21108883900266207,
+    "operatingMargin": 0.09437152845662923,
+    "netMargin": 0.04789086616323131,
+    "debtToEquity": 0.87506
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24155149016.54,
+      "operatingIncome": 4310100700.47,
+      "netIncome": 3419356844.63,
+      "eps": 1.44,
+      "freeCashFlow": -1481655179.6,
+      "totalDebt": 15926658965.79,
+      "cash": 8726311365.31,
+      "sharesOutstanding": 2390145256.0,
+      "grossMargin": 0.3030838260992302,
+      "operatingMargin": 0.17843403481049533,
+      "netMargin": 0.1415580935679026,
+      "roe": 0.16424636502620718,
+      "roic": 0.11729722178834207
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 26793893967.85,
+      "operatingIncome": 4479037307.09,
+      "netIncome": 3226436981.81,
+      "eps": 1.35,
+      "freeCashFlow": 463661206.77,
+      "totalDebt": 21939795040.2,
+      "cash": 7007026816.05,
+      "sharesOutstanding": 2386293256.0,
+      "grossMargin": 0.26742961544514066,
+      "operatingMargin": 0.1671663444090806,
+      "netMargin": 0.12041687504180626,
+      "roe": 0.14351148794923996,
+      "roic": 0.10082953820101084
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 27538748479.67,
+      "operatingIncome": 4125242755.07,
+      "netIncome": 2168585326.01,
+      "eps": 0.91,
+      "freeCashFlow": 2214661971.46,
+      "totalDebt": 22350759112.22,
+      "cash": 8399052797.14,
+      "sharesOutstanding": 2386293256.0,
+      "grossMargin": 0.25083976736813485,
+      "operatingMargin": 0.14979775708091414,
+      "netMargin": 0.07874669132516754,
+      "roe": 0.09426991733645539,
+      "roic": 0.09095501097142043
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 25987541896.57,
+      "operatingIncome": 2452484049.61,
+      "netIncome": 1244565890.88,
+      "eps": 0.52,
+      "freeCashFlow": 2062778483.03,
+      "totalDebt": 23853141460.85,
+      "cash": 9127297768.83,
+      "sharesOutstanding": 2384248056.0,
+      "grossMargin": 0.21108883900266207,
+      "operatingMargin": 0.09437152845662923,
+      "netMargin": 0.04789086616323131,
+      "roe": 0.054392792979965236,
+      "roic": 0.05247726251108629
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:25.363475+00:00"
+  },
+  "tags": [
+    "chemicals",
+    "country-cn",
+    "materials",
+    "mid-cap"
+  ]
+}

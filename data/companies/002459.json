@@ -1,0 +1,121 @@
+{
+  "ticker": "002459",
+  "name": "JA Solar Technology Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Solar",
+  "currency": "CNY",
+  "website": "https://www.jasolar.com",
+  "marketCap": {
+    "value": 30151483392.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 9.11,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 49128712950.94,
+    "operatingIncome": -4246509038.42,
+    "netIncome": -4608260132.26,
+    "eps": -1.41,
+    "freeCashFlow": -764124427.96,
+    "totalDebt": 43164255959.55,
+    "cash": 25242273705.53,
+    "sharesOutstanding": 3309687602.0,
+    "peRatio": 34.622986,
+    "priceToBook": 1.3832371,
+    "dividendYield": null
+  },
+  "ratios": {
+    "roe": -0.2062176614531787,
+    "roic": -0.06482147216958219,
+    "grossMargin": -0.021014211495443694,
+    "operatingMargin": -0.08643639906994041,
+    "netMargin": -0.09379973248763539,
+    "debtToEquity": 2.40236
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 72989400575.18,
+      "operatingIncome": 7120689043.84,
+      "netIncome": 5533792625.25,
+      "eps": 1.7,
+      "freeCashFlow": 417329313.59000015,
+      "totalDebt": 6196247243.44,
+      "cash": 12183639319.53,
+      "sharesOutstanding": 3298883050.0,
+      "grossMargin": 0.14775701345309203,
+      "operatingMargin": 0.09755785069786402,
+      "netMargin": 0.0758163867855049,
+      "roe": 0.20097518624168212,
+      "roic": 0.2111025157141506
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 81556177236.98,
+      "operatingIncome": 10227416952.91,
+      "netIncome": 7039490537.23,
+      "eps": 2.1,
+      "freeCashFlow": -5464034166.32,
+      "totalDebt": 12792782118.85,
+      "cash": 15988433550.07,
+      "sharesOutstanding": 3316259833.0,
+      "grossMargin": 0.17647012250181987,
+      "operatingMargin": 0.1254033391387622,
+      "netMargin": 0.08631462110803895,
+      "roe": 0.20046285976458786,
+      "roic": 0.21347605513965123
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 70120697029.73,
+      "operatingIncome": -783015809.31,
+      "netIncome": -4655943814.17,
+      "eps": -1.42,
+      "freeCashFlow": -8482286218.79,
+      "totalDebt": 34956535480.7,
+      "cash": 25088742298.26,
+      "sharesOutstanding": 3309678734.0,
+      "grossMargin": 0.04480104865455141,
+      "operatingMargin": -0.011166686049598373,
+      "netMargin": -0.06639899503845431,
+      "roe": -0.16690215456799687,
+      "roic": -0.012457933794225655
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 49128712950.94,
+      "operatingIncome": -4246509038.42,
+      "netIncome": -4608260132.26,
+      "eps": -1.41,
+      "freeCashFlow": -764124427.96,
+      "totalDebt": 43164255959.55,
+      "cash": 25242273705.53,
+      "sharesOutstanding": 3309687602.0,
+      "grossMargin": -0.021014211495443694,
+      "operatingMargin": -0.08643639906994041,
+      "netMargin": -0.09379973248763539,
+      "roe": -0.2062176614531787,
+      "roic": -0.06482147216958219
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:23.366527+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "mid-cap",
+    "renewables",
+    "tech"
+  ]
+}

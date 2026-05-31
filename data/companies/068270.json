@@ -1,0 +1,138 @@
+{
+  "ticker": "068270",
+  "name": "Celltrion, Inc.",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "currency": "KRW",
+  "website": "https://www.celltrion.com",
+  "marketCap": {
+    "value": 42130688966656.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 192900.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 4162495108880.0,
+    "operatingIncome": 1156472907540.0,
+    "netIncome": 1029613370420.0,
+    "eps": 4660.0,
+    "freeCashFlow": 314316526220.0,
+    "totalDebt": 3728669195000.0,
+    "cash": 1119206211710.0,
+    "sharesOutstanding": 218775332.0,
+    "peRatio": 25.621616,
+    "priceToBook": null,
+    "dividendYield": 0.39
+  },
+  "ratios": {
+    "roe": 0.05983176324566524,
+    "roic": 0.05523546697393833,
+    "grossMargin": 0.5926799460441412,
+    "operatingMargin": 0.2778316556031153,
+    "netMargin": 0.24735485411706284,
+    "debtToEquity": 0.21702000000000002
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2283967480390.0,
+      "operatingIncome": 647199868690.0,
+      "netIncome": 537835568480.0,
+      "eps": 3421.245421,
+      "freeCashFlow": -311122168470.0,
+      "totalDebt": 792331924000.0,
+      "cash": 551186669810.0,
+      "sharesOutstanding": 153759289.0,
+      "grossMargin": 0.452150617097955,
+      "operatingMargin": 0.28336649897462074,
+      "netMargin": 0.2354830237723707,
+      "roe": 0.1299320591543745,
+      "roic": 0.1312328260896986
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 2176431531380.0,
+      "operatingIncome": 651481421990.0,
+      "netIncome": 535647963950.0,
+      "eps": 3436.813187,
+      "freeCashFlow": 183426432730.0,
+      "totalDebt": 1890420204000.0,
+      "cash": 564611719560.0,
+      "sharesOutstanding": 240431928.0,
+      "grossMargin": 0.4832998584260752,
+      "operatingMargin": 0.2993346735685814,
+      "netMargin": 0.24611294048398763,
+      "roe": 0.03154454688969997,
+      "roic": 0.03452269858831315
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3557303554370.0,
+      "operatingIncome": 492015534600.0,
+      "netIncome": 422691724150.0,
+      "eps": 1803.846154,
+      "freeCashFlow": 568346288560.0,
+      "totalDebt": 2192675638000.0,
+      "cash": 996430679070.0,
+      "sharesOutstanding": 226388171.0,
+      "grossMargin": 0.472749442069425,
+      "operatingMargin": 0.13831137182419512,
+      "netMargin": 0.11882363078932096,
+      "roe": 0.02423810382117321,
+      "roic": 0.025062149323990136
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 4162495108880.0,
+      "operatingIncome": 1156472907540.0,
+      "netIncome": 1029613370420.0,
+      "eps": 4660.0,
+      "freeCashFlow": 314316526220.0,
+      "totalDebt": 3728669195000.0,
+      "cash": 1119206211710.0,
+      "sharesOutstanding": 218775332.0,
+      "grossMargin": 0.5926799460441412,
+      "operatingMargin": 0.2778316556031153,
+      "netMargin": 0.24735485411706284,
+      "roe": 0.05983176324566524,
+      "roic": 0.05523546697393833
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:37.436916+00:00"
+  },
+  "tags": [
+    "country-kr",
+    "healthcare",
+    "large-cap",
+    "pharma"
+  ]
+}

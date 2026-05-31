@@ -1,0 +1,137 @@
+{
+  "ticker": "600009",
+  "name": "Shanghai International Airport Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "currency": "CNY",
+  "website": "https://www.shairport.com",
+  "marketCap": {
+    "value": 62382010368.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 25.07,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 13346192164.12,
+    "operatingIncome": 2668279309.1,
+    "netIncome": 2116775136.25,
+    "eps": 0.85,
+    "freeCashFlow": 4675085126.389999,
+    "totalDebt": 19543613041.13,
+    "cash": 16763111526.17,
+    "sharesOutstanding": 2488313040.0,
+    "peRatio": 28.816092,
+    "priceToBook": 1.4464574,
+    "dividendYield": 2.03
+  },
+  "ratios": {
+    "roe": 0.04975982020286058,
+    "roic": 0.042978907892647265,
+    "grossMargin": 0.27514317245874353,
+    "operatingMargin": 0.1999281350281634,
+    "netMargin": 0.15860517443625258,
+    "debtToEquity": 0.4731
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 5480447621.36,
+      "operatingIncome": -3598412918.21,
+      "netIncome": -2994949875.37,
+      "eps": -1.26,
+      "freeCashFlow": -1358391053.99,
+      "totalDebt": 20300852074.02,
+      "cash": 13876587382.9,
+      "sharesOutstanding": 2488481340.0,
+      "grossMargin": -0.6241300532658287,
+      "operatingMargin": -0.6565910609537102,
+      "netMargin": -0.5464790619834058,
+      "roe": -0.07561553518809208,
+      "roic": -0.060065195987745616
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 11047016050.98,
+      "operatingIncome": 1133389548.6,
+      "netIncome": 934049713.44,
+      "eps": 0.38,
+      "freeCashFlow": 2776113412.6400003,
+      "totalDebt": 20214042720.06,
+      "cash": 14615345937.25,
+      "sharesOutstanding": 2488481340.0,
+      "grossMargin": 0.1651159490148641,
+      "operatingMargin": 0.10259689524932436,
+      "netMargin": 0.08455221836643742,
+      "roe": 0.023039262557587564,
+      "roic": 0.018654870058302932
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 12368804103.46,
+      "operatingIncome": 1734030662.97,
+      "netIncome": 1933948719.51,
+      "eps": 0.78,
+      "freeCashFlow": 3573075261.76,
+      "totalDebt": 18924479694.6,
+      "cash": 14852869848.2,
+      "sharesOutstanding": 2488481340.0,
+      "grossMargin": 0.21934270349152613,
+      "operatingMargin": 0.1401938820006802,
+      "netMargin": 0.15635696897883644,
+      "roe": 0.046429346979922695,
+      "roic": 0.02862472895228042
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 13346192164.12,
+      "operatingIncome": 2668279309.1,
+      "netIncome": 2116775136.25,
+      "eps": 0.85,
+      "freeCashFlow": 4675085126.389999,
+      "totalDebt": 19543613041.13,
+      "cash": 16763111526.17,
+      "sharesOutstanding": 2488313040.0,
+      "grossMargin": 0.27514317245874353,
+      "operatingMargin": 0.1999281350281634,
+      "netMargin": 0.15860517443625258,
+      "roe": 0.04975982020286058,
+      "roic": 0.042978907892647265
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:40.215515+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "industrials",
+    "mid-cap"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "000002",
+  "name": "China Vanke Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "currency": "CNY",
+  "website": "https://www.vanke.com",
+  "marketCap": {
+    "value": 42354016256.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 3.55,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 233432768960.43,
+    "operatingIncome": -1408023676.9,
+    "netIncome": -88556470495.64,
+    "eps": -7.45,
+    "freeCashFlow": -4183216405.2400002,
+    "totalDebt": 345859172727.9,
+    "cash": 67240949734.9,
+    "sharesOutstanding": 11930709471.0,
+    "peRatio": -2.5192134,
+    "priceToBook": 0.3831624,
+    "dividendYield": null
+  },
+  "ratios": {
+    "roe": -0.7575065241158622,
+    "roic": -0.003042636132762071,
+    "grossMargin": 0.09461172605673789,
+    "operatingMargin": -0.006031816711811695,
+    "netMargin": -0.3793660628283577,
+    "debtToEquity": 1.64214
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 503838367358.76,
+      "operatingIncome": 51442490667.7,
+      "netIncome": 22688551801.52,
+      "eps": 1.96,
+      "freeCashFlow": -10076256504.42,
+      "totalDebt": 339709956022.4,
+      "cash": 137207634925.27,
+      "sharesOutstanding": 11630709471.0,
+      "grossMargin": 0.1955370745097884,
+      "operatingMargin": 0.10210117768000422,
+      "netMargin": 0.0450314094189745,
+      "roe": 0.09324367345067171,
+      "roic": 0.08823220127045198
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 465739076702.23,
+      "operatingIncome": 33795555550.26,
+      "netIncome": 12162684368.86,
+      "eps": 1.03,
+      "freeCashFlow": -4421829124.99,
+      "totalDebt": 343270141189.17,
+      "cash": 99813755447.81,
+      "sharesOutstanding": 11930709471.0,
+      "grossMargin": 0.1523497184021026,
+      "operatingMargin": 0.07256328111773874,
+      "netMargin": 0.026114803282087935,
+      "roe": 0.04849852709762607,
+      "roic": 0.056889630608853194
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 343176440712.96,
+      "operatingIncome": -734975870.37,
+      "netIncome": -49478429211.96,
+      "eps": -4.17,
+      "freeCashFlow": -719764542.2500005,
+      "totalDebt": 381910957666.77,
+      "cash": 88162865022.03,
+      "sharesOutstanding": 11930709471.0,
+      "grossMargin": 0.10173067009183416,
+      "operatingMargin": -0.0021416851018183653,
+      "netMargin": -0.1441778145060511,
+      "roe": -0.24413720150196566,
+      "roic": -0.0012572771595141371
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 233432768960.43,
+      "operatingIncome": -1408023676.9,
+      "netIncome": -88556470495.64,
+      "eps": -7.45,
+      "freeCashFlow": -4183216405.2400002,
+      "totalDebt": 345859172727.9,
+      "cash": 67240949734.9,
+      "sharesOutstanding": 11930709471.0,
+      "grossMargin": 0.09461172605673789,
+      "operatingMargin": -0.006031816711811695,
+      "netMargin": -0.3793660628283577,
+      "roe": -0.7575065241158622,
+      "roic": -0.003042636132762071
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:04.192998+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "mid-cap",
+    "real-estate"
+  ]
+}

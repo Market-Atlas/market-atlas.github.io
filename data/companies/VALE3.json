@@ -1,0 +1,137 @@
+{
+  "ticker": "VALE3",
+  "name": "Vale S.A.",
+  "country": "BR",
+  "exchange": "BVMF",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "currency": "BRL",
+  "website": "https://vale.com",
+  "marketCap": {
+    "value": 353074151424.0,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 82.82,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 38403000000.0,
+    "operatingIncome": 11343000000.0,
+    "netIncome": 2352000000.0,
+    "eps": 0.55,
+    "freeCashFlow": 2795000000.0,
+    "totalDebt": 21801000000.0,
+    "cash": 7372000000.0,
+    "sharesOutstanding": 4539007580.0,
+    "peRatio": 24.796408,
+    "priceToBook": 1.8470528,
+    "dividendYield": 8.33
+  },
+  "ratios": {
+    "roe": 0.07019009818257782,
+    "roic": 0.20508045561381305,
+    "grossMargin": 0.35038929250318984,
+    "operatingMargin": 0.2953675494102023,
+    "netMargin": 0.06124521521756113,
+    "debtToEquity": 0.57146
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 43839000000.0,
+      "operatingIncome": 17795000000.0,
+      "netIncome": 18788000000.0,
+      "eps": 4.05,
+      "freeCashFlow": 6039000000.0,
+      "totalDebt": 15437000000.0,
+      "cash": 4736000000.0,
+      "sharesOutstanding": 4778889251.0,
+      "grossMargin": 0.45190355619425626,
+      "operatingMargin": 0.4059171057733981,
+      "netMargin": 0.4285681698943863,
+      "roe": 0.5238241280285499,
+      "roic": 0.34685404646811163
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 41784000000.0,
+      "operatingIncome": 15859000000.0,
+      "netIncome": 7983000000.0,
+      "eps": 1.83,
+      "freeCashFlow": 7245000000.0,
+      "totalDebt": 16797000000.0,
+      "cash": 3609000000.0,
+      "sharesOutstanding": 4539007580.0,
+      "grossMargin": 0.42348745931457016,
+      "operatingMargin": 0.37954719509860235,
+      "netMargin": 0.19105399195864445,
+      "roe": 0.20230100605661286,
+      "roic": 0.2818976856624836
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 38056000000.0,
+      "operatingIncome": 11101000000.0,
+      "netIncome": 6166000000.0,
+      "eps": 1.44,
+      "freeCashFlow": 2919000000.0,
+      "totalDebt": 17722000000.0,
+      "cash": 4953000000.0,
+      "sharesOutstanding": 4539007580.0,
+      "grossMargin": 0.36238700861887746,
+      "operatingMargin": 0.29170170275383644,
+      "netMargin": 0.16202438511667017,
+      "roe": 0.18457762078668502,
+      "roic": 0.21712173368799875
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 38403000000.0,
+      "operatingIncome": 11343000000.0,
+      "netIncome": 2352000000.0,
+      "eps": 0.55,
+      "freeCashFlow": 2795000000.0,
+      "totalDebt": 21801000000.0,
+      "cash": 7372000000.0,
+      "sharesOutstanding": 4539007580.0,
+      "grossMargin": 0.35038929250318984,
+      "operatingMargin": 0.2953675494102023,
+      "netMargin": 0.06124521521756113,
+      "roe": 0.07019009818257782,
+      "roic": 0.20508045561381305
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:02.089959+00:00"
+  },
+  "tags": [
+    "country-br",
+    "materials",
+    "mining"
+  ]
+}

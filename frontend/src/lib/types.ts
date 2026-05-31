@@ -95,6 +95,12 @@ export interface ScreenerRow {
   marketCapCurrency?: Currency;
   price?: number | null;
   priceCurrency?: Currency;
+  revenue?: number | null;
+  netIncome?: number | null;
+  fcf?: number | null;
+  eps?: number | null;
+  pe?: number | null;
+  pb?: number | null;
   roe?: number | null;
   roic?: number | null;
   debtToEquity?: number | null;

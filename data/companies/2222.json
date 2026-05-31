@@ -1,0 +1,137 @@
+{
+  "ticker": "2222",
+  "name": "Saudi Arabian Oil Company",
+  "country": "SA",
+  "exchange": "XSAU",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "SAR",
+  "website": "https://www.aramco.com",
+  "marketCap": {
+    "value": 6666967842816.0,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 27.56,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 1671204000000.0,
+    "operatingIncome": 739247000000.0,
+    "netIncome": 348042000000.0,
+    "eps": 1.44,
+    "freeCashFlow": 320354000000.0,
+    "totalDebt": 363617000000.0,
+    "cash": 243099000000.0,
+    "sharesOutstanding": 242000000000.0,
+    "peRatio": 17.896105,
+    "priceToBook": 4.3231373,
+    "dividendYield": 4.86
+  },
+  "ratios": {
+    "roe": 0.2332727433585613,
+    "roic": 0.3983842536132265,
+    "grossMargin": 0.5016305609608402,
+    "operatingMargin": 0.44234396279568505,
+    "netMargin": 0.20825823777348546,
+    "debtToEquity": 0.21585000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 2266373000000.0,
+      "operatingIncome": 1144077000000.0,
+      "netIncome": 597215000000.0,
+      "eps": 2.47,
+      "freeCashFlow": 556991000000.0,
+      "totalDebt": 393144000000.0,
+      "cash": 226047000000.0,
+      "sharesOutstanding": 242000000000.0,
+      "grossMargin": 0.69809912137146,
+      "operatingMargin": 0.5048052549161148,
+      "netMargin": 0.2635113461023406,
+      "roe": 0.4121805542902418,
+      "roic": 0.6210856323898244
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1856373000000.0,
+      "operatingIncome": 868287000000.0,
+      "netIncome": 452753000000.0,
+      "eps": 1.87,
+      "freeCashFlow": 379506000000.0,
+      "totalDebt": 290147000000.0,
+      "cash": 198973000000.0,
+      "sharesOutstanding": 242000000000.0,
+      "grossMargin": 0.5170243264688724,
+      "operatingMargin": 0.46773304718394415,
+      "netMargin": 0.24389117919728417,
+      "roe": 0.29502862947972996,
+      "roic": 0.4758378389634986
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1801674000000.0,
+      "operatingIncome": 786459000000.0,
+      "netIncome": 393891000000.0,
+      "eps": 1.63,
+      "freeCashFlow": 319998000000.0,
+      "totalDebt": 319290000000.0,
+      "cash": 216642000000.0,
+      "sharesOutstanding": 242000000000.0,
+      "grossMargin": 0.49385071883148673,
+      "operatingMargin": 0.4365157070591017,
+      "netMargin": 0.21862501207210627,
+      "roe": 0.27011601058544304,
+      "roic": 0.4424475912775053
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1671204000000.0,
+      "operatingIncome": 739247000000.0,
+      "netIncome": 348042000000.0,
+      "eps": 1.44,
+      "freeCashFlow": 320354000000.0,
+      "totalDebt": 363617000000.0,
+      "cash": 243099000000.0,
+      "sharesOutstanding": 242000000000.0,
+      "grossMargin": 0.5016305609608402,
+      "operatingMargin": 0.44234396279568505,
+      "netMargin": 0.20825823777348546,
+      "roe": 0.2332727433585613,
+      "roic": 0.3983842536132265
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:39.450067+00:00"
+  },
+  "tags": [
+    "country-sa",
+    "energy",
+    "oil-gas"
+  ]
+}

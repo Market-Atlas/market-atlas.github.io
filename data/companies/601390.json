@@ -1,0 +1,120 @@
+{
+  "ticker": "601390",
+  "name": "China Railway Group Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "currency": "CNY",
+  "website": "https://www.crec.cn",
+  "marketCap": {
+    "value": 117753274368.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 4.77,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 1093493631000.0,
+    "operatingIncome": 49365533000.0,
+    "netIncome": 22891703000.0,
+    "eps": 0.848,
+    "freeCashFlow": -31514588000.0,
+    "totalDebt": 578003085000.0,
+    "cash": 253502633000.0,
+    "sharesOutstanding": 24686285629.0,
+    "peRatio": 6.1153846,
+    "priceToBook": 0.36585367,
+    "dividendYield": 5.45
+  },
+  "ratios": {
+    "roe": 0.061692257225630265,
+    "roic": 0.052014862917222945,
+    "grossMargin": 0.09576624776884503,
+    "operatingMargin": 0.04514478328955169,
+    "netMargin": 0.02093446395208131,
+    "debtToEquity": 1.0362
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 1154358492000.0,
+      "operatingIncome": 51497775000.0,
+      "netIncome": 31272886000.0,
+      "eps": 1.198,
+      "freeCashFlow": -18756155000.0,
+      "totalDebt": 390362249000.0,
+      "cash": 238584104000.0,
+      "sharesOutstanding": 24752195983.0,
+      "grossMargin": 0.100328005383617,
+      "operatingMargin": 0.04461159627350842,
+      "netMargin": 0.027091138685884072,
+      "roe": 0.10382590061055218,
+      "roic": 0.07446531201895183
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1263474693000.0,
+      "operatingIncome": 59783852000.0,
+      "netIncome": 33482775000.0,
+      "eps": 1.292,
+      "freeCashFlow": -20082228000.0,
+      "totalDebt": 421309726000.0,
+      "cash": 234512770000.0,
+      "sharesOutstanding": 24752195983.0,
+      "grossMargin": 0.10196712266084146,
+      "operatingMargin": 0.04731701579083389,
+      "netMargin": 0.02650055057335446,
+      "roe": 0.1006899280658357,
+      "roic": 0.07930541696683849
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1160311430000.0,
+      "operatingIncome": 53671502000.0,
+      "netIncome": 27886745000.0,
+      "eps": 1.084,
+      "freeCashFlow": -29950837000.0,
+      "totalDebt": 515909835000.0,
+      "cash": 250061988000.0,
+      "sharesOutstanding": 24741865118.0,
+      "grossMargin": 0.10026506332011226,
+      "operatingMargin": 0.0462561176355903,
+      "netMargin": 0.024033844947989522,
+      "roe": 0.07861745424820954,
+      "roic": 0.061647147371757305
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 1093493631000.0,
+      "operatingIncome": 49365533000.0,
+      "netIncome": 22891703000.0,
+      "eps": 0.848,
+      "freeCashFlow": -31514588000.0,
+      "totalDebt": 578003085000.0,
+      "cash": 253502633000.0,
+      "sharesOutstanding": 24686285629.0,
+      "grossMargin": 0.09576624776884503,
+      "operatingMargin": 0.04514478328955169,
+      "netMargin": 0.02093446395208131,
+      "roe": 0.061692257225630265,
+      "roic": 0.052014862917222945
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:13.288730+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "industrials",
+    "large-cap"
+  ]
+}

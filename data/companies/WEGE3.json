@@ -1,0 +1,137 @@
+{
+  "ticker": "WEGE3",
+  "name": "WEG S.A.",
+  "country": "BR",
+  "exchange": "BVMF",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "currency": "BRL",
+  "website": "https://www.weg.net/institutional/BR/en/",
+  "marketCap": {
+    "value": 185036079104.0,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 44.1,
+    "currency": "BRL",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 40804110000.0,
+    "operatingIncome": 7859202000.0,
+    "netIncome": 6376219000.0,
+    "eps": 1.5194,
+    "freeCashFlow": 3759712000.0,
+    "totalDebt": 5437975000.0,
+    "cash": 6296498000.0,
+    "sharesOutstanding": 4197317998.0,
+    "peRatio": 29.4,
+    "priceToBook": 10.623945,
+    "dividendYield": 0.91
+  },
+  "ratios": {
+    "roe": 0.3660878035113022,
+    "roic": 0.3438699182154052,
+    "grossMargin": 0.3353003655759187,
+    "operatingMargin": 0.19260809756664218,
+    "netMargin": 0.15626413613726656,
+    "debtToEquity": 0.25503
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 29904722000.0,
+      "operatingIncome": 4978008000.0,
+      "netIncome": 4208084000.0,
+      "eps": 1.00264,
+      "freeCashFlow": 1762521000.0,
+      "totalDebt": 4009322000.0,
+      "cash": 4451002000.0,
+      "sharesOutstanding": 4197317998.0,
+      "grossMargin": 0.29077304246466495,
+      "operatingMargin": 0.166462273081823,
+      "netMargin": 0.1407163724845862,
+      "roe": 0.2836631042087201,
+      "roic": 0.2641677506035438
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 32503601000.0,
+      "operatingIncome": 6394022000.0,
+      "netIncome": 5731670000.0,
+      "eps": 1.36608,
+      "freeCashFlow": 5363198000.0,
+      "totalDebt": 3391960000.0,
+      "cash": 6488454000.0,
+      "sharesOutstanding": 4197317998.0,
+      "grossMargin": 0.3322974583646901,
+      "operatingMargin": 0.1967173421800249,
+      "netMargin": 0.17633953850221087,
+      "roe": 0.3305063952806136,
+      "roic": 0.30838275888761696
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 37986941000.0,
+      "operatingIncome": 7548773000.0,
+      "netIncome": 6042593000.0,
+      "eps": 1.43994,
+      "freeCashFlow": 5401947000.0,
+      "totalDebt": 4418355000.0,
+      "cash": 7347599000.0,
+      "sharesOutstanding": 4197317998.0,
+      "grossMargin": 0.3373223708642399,
+      "operatingMargin": 0.19872021282261185,
+      "netMargin": 0.15907027101761104,
+      "roe": 0.2721371310436876,
+      "roic": 0.28354780544151703
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40804110000.0,
+      "operatingIncome": 7859202000.0,
+      "netIncome": 6376219000.0,
+      "eps": 1.5194,
+      "freeCashFlow": 3759712000.0,
+      "totalDebt": 5437975000.0,
+      "cash": 6296498000.0,
+      "sharesOutstanding": 4197317998.0,
+      "grossMargin": 0.3353003655759187,
+      "operatingMargin": 0.19260809756664218,
+      "netMargin": 0.15626413613726656,
+      "roe": 0.3660878035113022,
+      "roic": 0.3438699182154052
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:03.174423+00:00"
+  },
+  "tags": [
+    "country-br",
+    "industrials",
+    "utilities"
+  ]
+}

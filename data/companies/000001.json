@@ -1,0 +1,138 @@
+{
+  "ticker": "000001",
+  "name": "Ping An Bank Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "CNY",
+  "website": "https://bank.pingan.com",
+  "marketCap": {
+    "value": 212106690560.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 10.93,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 131190000000.0,
+    "operatingIncome": null,
+    "netIncome": 42633000000.0,
+    "eps": 2.07,
+    "freeCashFlow": 312965000000.0,
+    "totalDebt": 602156000000.0,
+    "cash": 702571000000.0,
+    "sharesOutstanding": 19405918198.0,
+    "peRatio": 5.1556606,
+    "priceToBook": 0.45703533,
+    "dividendYield": 5.47
+  },
+  "ratios": {
+    "roe": 0.0773480362274667,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.63701,
+    "netMargin": 0.32497141550423053,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 179715000000.0,
+      "operatingIncome": null,
+      "netIncome": 45516000000.0,
+      "eps": 2.2,
+      "freeCashFlow": 131029000000.0,
+      "totalDebt": 756390000000.0,
+      "cash": 534082000000.0,
+      "sharesOutstanding": 19405918198.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2532676738168767,
+      "roe": 0.10471151191681237,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 164555000000.0,
+      "operatingIncome": null,
+      "netIncome": 46455000000.0,
+      "eps": 2.25,
+      "freeCashFlow": 89365000000.0,
+      "totalDebt": 783597000000.0,
+      "cash": 598647000000.0,
+      "sharesOutstanding": 19405918198.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.28230682750448177,
+      "roe": 0.09835326298673804,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 146687000000.0,
+      "operatingIncome": null,
+      "netIncome": 44508000000.0,
+      "eps": 2.15,
+      "freeCashFlow": 60948000000.0,
+      "totalDebt": 756251000000.0,
+      "cash": 680935000000.0,
+      "sharesOutstanding": 19405918198.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30342157110037016,
+      "roe": 0.08994386086872173,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 131190000000.0,
+      "operatingIncome": null,
+      "netIncome": 42633000000.0,
+      "eps": 2.07,
+      "freeCashFlow": 312965000000.0,
+      "totalDebt": 602156000000.0,
+      "cash": 702571000000.0,
+      "sharesOutstanding": 19405918198.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.32497141550423053,
+      "roe": 0.0773480362274667,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:03.999266+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "601066",
+  "name": "CSC Financial Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.csc108.com",
+  "marketCap": {
+    "value": 189185785856.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 24.39,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 23321411494.58,
+    "operatingIncome": null,
+    "netIncome": 9439423821.46,
+    "eps": 1.09,
+    "freeCashFlow": 82522235078.58,
+    "totalDebt": 191881549263.55,
+    "cash": 322253937902.02,
+    "sharesOutstanding": 7756694797.0,
+    "peRatio": 18.338345,
+    "priceToBook": 2.1927536,
+    "dividendYield": 1.35
+  },
+  "ratios": {
+    "roe": 0.0792551846495457,
+    "roic": null,
+    "grossMargin": 0.55063,
+    "operatingMargin": 0.59795,
+    "netMargin": 0.4047535383376672,
+    "debtToEquity": 2.9076999999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 27553217870.0,
+      "operatingIncome": null,
+      "netIncome": 7519427792.55,
+      "eps": 0.86,
+      "freeCashFlow": 39443082785.4,
+      "totalDebt": 133175388215.35,
+      "cash": 206601589345.7,
+      "sharesOutstanding": 7756694797.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.27290561226016247,
+      "roe": 0.08063625234233121,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 23233918504.99,
+      "operatingIncome": null,
+      "netIncome": 7034486447.93,
+      "eps": 0.78,
+      "freeCashFlow": -21134968957.16,
+      "totalDebt": 144419695412.74,
+      "cash": 199699696787.45,
+      "sharesOutstanding": 7756694797.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30276797460657306,
+      "roe": 0.07216482746327349,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 19044229930.9,
+      "operatingIncome": null,
+      "netIncome": 7223221368.58,
+      "eps": 0.79,
+      "freeCashFlow": 28961541637.49,
+      "totalDebt": 169304680509.57,
+      "cash": 244527992300.15,
+      "sharesOutstanding": 7756694797.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3792866077960991,
+      "roe": 0.06784359189797724,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 23321411494.58,
+      "operatingIncome": null,
+      "netIncome": 9439423821.46,
+      "eps": 1.09,
+      "freeCashFlow": 82522235078.58,
+      "totalDebt": 191881549263.55,
+      "cash": 322253937902.02,
+      "sharesOutstanding": 7756694797.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4047535383376672,
+      "roe": 0.0792551846495457,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:07.600320+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "ticker": "600028",
+  "name": "China Petroleum & Chemical Corporation",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "CNY",
+  "website": "https://www.sinopec.com/listco",
+  "marketCap": {
+    "value": 586488741888.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 4.85,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 2781752000000.0,
+    "operatingIncome": 52508000000.0,
+    "netIncome": 32476000000.0,
+    "eps": null,
+    "freeCashFlow": 28871000000.0,
+    "totalDebt": 531006000000.0,
+    "cash": 81053000000.0,
+    "sharesOutstanding": 120925514222.0,
+    "peRatio": 17.962961,
+    "priceToBook": 0.70637923,
+    "dividendYield": 3.63
+  },
+  "ratios": {
+    "roe": 0.03924767633114713,
+    "roic": 0.03865233582805349,
+    "grossMargin": 0.1684485173372752,
+    "operatingMargin": 0.018875873909679944,
+    "netMargin": 0.011674656834973067,
+    "debtToEquity": 0.57948
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 0.59,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 3316946000000.0,
+      "operatingIncome": 94607000000.0,
+      "netIncome": 66933000000.0,
+      "eps": 0.554,
+      "freeCashFlow": -56258000000.0,
+      "totalDebt": 356701000000.0,
+      "cash": 93438000000.0,
+      "sharesOutstanding": 120968795646.0,
+      "grossMargin": 0.15745930141762934,
+      "operatingMargin": 0.028522321436646843,
+      "netMargin": 0.020179104513609807,
+      "roe": 0.08498349415947182,
+      "roic": 0.08267667335779659
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 3210863000000.0,
+      "operatingIncome": 86490000000.0,
+      "netIncome": 58310000000.0,
+      "eps": 0.487,
+      "freeCashFlow": -10018000000.0,
+      "totalDebt": 440231000000.0,
+      "cash": 121759000000.0,
+      "sharesOutstanding": 119349251646.0,
+      "grossMargin": 0.16434865019155287,
+      "operatingMargin": 0.026936683377646445,
+      "netMargin": 0.018160226705405992,
+      "roe": 0.07261618776845012,
+      "roic": 0.06956934412252055
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 3073106000000.0,
+      "operatingIncome": 69356000000.0,
+      "netIncome": 48939000000.0,
+      "eps": 0.404,
+      "freeCashFlow": 10154000000.0,
+      "totalDebt": 475695000000.0,
+      "cash": 91295000000.0,
+      "sharesOutstanding": 121281555698.0,
+      "grossMargin": 0.1636058111890706,
+      "operatingMargin": 0.022568697597804957,
+      "netMargin": 0.015924930672746074,
+      "roe": 0.059987864895840355,
+      "roic": 0.05370148121191474
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2781752000000.0,
+      "operatingIncome": 52508000000.0,
+      "netIncome": 32476000000.0,
+      "eps": null,
+      "freeCashFlow": 28871000000.0,
+      "totalDebt": 531006000000.0,
+      "cash": 81053000000.0,
+      "sharesOutstanding": 120925514222.0,
+      "grossMargin": 0.1684485173372752,
+      "operatingMargin": 0.018875873909679944,
+      "netMargin": 0.011674656834973067,
+      "roe": 0.03924767633114713,
+      "roic": 0.03865233582805349
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:43.148883+00:00"
+  },
+  "tags": [
+    "chemicals",
+    "country-cn",
+    "energy",
+    "large-cap",
+    "oil-gas"
+  ]
+}

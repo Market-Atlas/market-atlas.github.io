@@ -1,0 +1,121 @@
+{
+  "ticker": "600104",
+  "name": "SAIC Motor Corporation Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "CNY",
+  "website": "https://www.saicmotor.com",
+  "marketCap": {
+    "value": 141621821440.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 12.32,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 656243812081.18,
+    "operatingIncome": 12581728994.23,
+    "netIncome": 10105800270.34,
+    "eps": 0.885,
+    "freeCashFlow": 12520110870.220001,
+    "totalDebt": 128555936615.36,
+    "cash": 151046006612.38,
+    "sharesOutstanding": 11495277504.0,
+    "peRatio": 13.842696,
+    "priceToBook": 0.46838763,
+    "dividendYield": 0.71
+  },
+  "ratios": {
+    "roe": 0.03381989633132294,
+    "roic": 0.029440020476156212,
+    "grossMargin": 0.11474367764774462,
+    "operatingMargin": 0.019172339247403962,
+    "netMargin": 0.015399459902396568,
+    "debtToEquity": 0.26176
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 744062883284.04,
+      "operatingIncome": 16823883430.7,
+      "netIncome": 16117549650.39,
+      "eps": 1.4,
+      "freeCashFlow": -13430178859.710001,
+      "totalDebt": 201810035197.16,
+      "cash": 155156629467.12,
+      "sharesOutstanding": 11683461365.0,
+      "grossMargin": 0.1241321240529095,
+      "operatingMargin": 0.02261083546654701,
+      "netMargin": 0.021661542340685812,
+      "roe": 0.057720682341789425,
+      "roic": 0.03497372127935582
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 744705132922.2,
+      "operatingIncome": 19181634674.98,
+      "netIncome": 14106165142.98,
+      "eps": 1.226,
+      "freeCashFlow": 22924507788.38,
+      "totalDebt": 194950879937.46,
+      "cash": 143635984032.11,
+      "sharesOutstanding": 11683461365.0,
+      "grossMargin": 0.11736720561559644,
+      "operatingMargin": 0.025757355263165513,
+      "netMargin": 0.018941946979239746,
+      "roe": 0.049267347522570004,
+      "roic": 0.039856316825572675
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 627589946567.69,
+      "operatingIncome": 12629010631.57,
+      "netIncome": 1666376761.07,
+      "eps": 0.145,
+      "freeCashFlow": 48465539684.33,
+      "totalDebt": 171610859604.51,
+      "cash": 197978171793.49,
+      "sharesOutstanding": 11575299445.0,
+      "grossMargin": 0.11335412600268138,
+      "operatingMargin": 0.020123028899105975,
+      "netMargin": 0.002655199896339113,
+      "roe": 0.005789244758363545,
+      "roic": 0.027487179002990123
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 656243812081.18,
+      "operatingIncome": 12581728994.23,
+      "netIncome": 10105800270.34,
+      "eps": 0.885,
+      "freeCashFlow": 12520110870.220001,
+      "totalDebt": 128555936615.36,
+      "cash": 151046006612.38,
+      "sharesOutstanding": 11495277504.0,
+      "grossMargin": 0.11474367764774462,
+      "operatingMargin": 0.019172339247403962,
+      "netMargin": 0.015399459902396568,
+      "roe": 0.03381989633132294,
+      "roic": 0.029440020476156212
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:46.474771+00:00"
+  },
+  "tags": [
+    "automakers",
+    "consumer-cyclical",
+    "country-cn",
+    "large-cap"
+  ]
+}

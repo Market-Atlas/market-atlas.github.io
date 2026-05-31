@@ -1,0 +1,137 @@
+{
+  "ticker": "000063",
+  "name": "ZTE Corporation",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "currency": "CNY",
+  "website": "https://www.zte.com.cn",
+  "marketCap": {
+    "value": 175651422208.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 36.72,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 133895460000.0,
+    "operatingIncome": 6102319000.0,
+    "netIncome": 5617745000.0,
+    "eps": 1.16,
+    "freeCashFlow": 25758000.0,
+    "totalDebt": 65991629000.0,
+    "cash": 33751116000.0,
+    "sharesOutstanding": 4783534887.0,
+    "peRatio": 39.913044,
+    "priceToBook": 2.2867107,
+    "dividendYield": 1.75
+  },
+  "ratios": {
+    "roe": 0.07448061302156544,
+    "roic": 0.04315117047618596,
+    "grossMargin": 0.302505716026518,
+    "operatingMargin": 0.045575249526757663,
+    "netMargin": 0.04195620224912779,
+    "debtToEquity": 0.89902
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 122954418000.0,
+      "operatingIncome": 10560697000.0,
+      "netIncome": 8080295000.0,
+      "eps": 1.71,
+      "freeCashFlow": 2625784000.0,
+      "totalDebt": 46538696000.0,
+      "cash": 56346367000.0,
+      "sharesOutstanding": 4736112508.0,
+      "grossMargin": 0.3719008210018122,
+      "operatingMargin": 0.08589115520842854,
+      "netMargin": 0.0657178093429713,
+      "roe": 0.13779214598776796,
+      "roic": 0.10040605388389717
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 124250878000.0,
+      "operatingIncome": 10978063000.0,
+      "netIncome": 9325753000.0,
+      "eps": 1.96,
+      "freeCashFlow": 13401016000.0,
+      "totalDebt": 59111362000.0,
+      "cash": 78543219000.0,
+      "sharesOutstanding": 4783251552.0,
+      "grossMargin": 0.4148725291100156,
+      "operatingMargin": 0.08835400744612847,
+      "netMargin": 0.07505583179862922,
+      "roe": 0.13712667483400226,
+      "roic": 0.08636006596272683
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 121298752000.0,
+      "operatingIncome": 10335417000.0,
+      "netIncome": 8424792000.0,
+      "eps": 1.76,
+      "freeCashFlow": 7465114000.0,
+      "totalDebt": 58656548000.0,
+      "cash": 43885348000.0,
+      "sharesOutstanding": 4783534887.0,
+      "grossMargin": 0.3791274455981212,
+      "operatingMargin": 0.08520629297158804,
+      "netMargin": 0.06945489430921763,
+      "roe": 0.1157116815632596,
+      "roic": 0.07861723320173256
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 133895460000.0,
+      "operatingIncome": 6102319000.0,
+      "netIncome": 5617745000.0,
+      "eps": 1.16,
+      "freeCashFlow": 25758000.0,
+      "totalDebt": 65991629000.0,
+      "cash": 33751116000.0,
+      "sharesOutstanding": 4783534887.0,
+      "grossMargin": 0.302505716026518,
+      "operatingMargin": 0.045575249526757663,
+      "netMargin": 0.04195620224912779,
+      "roe": 0.07448061302156544,
+      "roic": 0.04315117047618596
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:04.936410+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "large-cap",
+    "tech"
+  ]
+}

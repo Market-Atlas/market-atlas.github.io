@@ -1,0 +1,137 @@
+{
+  "ticker": "600030",
+  "name": "CITIC Securities Company Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.citics.com",
+  "marketCap": {
+    "value": 386075230208.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 26.05,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 74341742505.17,
+    "operatingIncome": null,
+    "netIncome": 30076100951.5,
+    "eps": 1.96,
+    "freeCashFlow": 72609773932.34001,
+    "totalDebt": 289648218320.49,
+    "cash": 860569728853.87,
+    "sharesOutstanding": 14820546829.0,
+    "peRatio": 11.840908,
+    "priceToBook": 1.324419,
+    "dividendYield": 2.19
+  },
+  "ratios": {
+    "roe": 0.09400824978847686,
+    "roic": null,
+    "grossMargin": 0.61425,
+    "operatingMargin": 0.57632,
+    "netMargin": 0.40456545593356785,
+    "debtToEquity": 2.31232
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 64435125222.92,
+      "operatingIncome": null,
+      "netIncome": 21317422282.16,
+      "eps": 1.42,
+      "freeCashFlow": 77218690916.48,
+      "totalDebt": 180929323098.75,
+      "cash": 534259683320.04,
+      "sharesOutstanding": 14820546829.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.33083542878841576,
+      "roe": 0.08421927698161313,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 59425968196.17,
+      "operatingIncome": null,
+      "netIncome": 19720547412.84,
+      "eps": 1.3,
+      "freeCashFlow": -42416732409.42,
+      "totalDebt": 265342665375.7,
+      "cash": 529719739893.73,
+      "sharesOutstanding": 14820546829.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3318506708673362,
+      "roe": 0.07335432276892245,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 58005157361.92,
+      "operatingIncome": null,
+      "netIncome": 21703696593.02,
+      "eps": 1.41,
+      "freeCashFlow": 171269652158.72,
+      "totalDebt": 247407884874.03,
+      "cash": 638802015380.22,
+      "sharesOutstanding": 14820546829.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3741683943308864,
+      "roe": 0.07404657281250039,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 74341742505.17,
+      "operatingIncome": null,
+      "netIncome": 30076100951.5,
+      "eps": 1.96,
+      "freeCashFlow": 72609773932.34001,
+      "totalDebt": 289648218320.49,
+      "cash": 860569728853.87,
+      "sharesOutstanding": 14820546829.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.40456545593356785,
+      "roe": 0.09400824978847686,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:43.727918+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

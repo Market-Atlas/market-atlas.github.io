@@ -1,0 +1,120 @@
+{
+  "ticker": "BIDU",
+  "name": "Baidu, Inc.",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "CNY",
+  "website": "https://ir.baidu.com",
+  "marketCap": {
+    "value": 46039588864.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 135.31,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 129079000000.0,
+    "operatingIncome": 10367000000.0,
+    "netIncome": 5589000000.0,
+    "eps": 11.76,
+    "freeCashFlow": -16430000000.0,
+    "totalDebt": 97077000000.0,
+    "cash": 24606000000.0,
+    "sharesOutstanding": 2847581760.0,
+    "peRatio": 14.767488,
+    "priceToBook": 1.1604557,
+    "dividendYield": null
+  },
+  "ratios": {
+    "roe": 0.020985243870386364,
+    "roic": 0.02852724355887476,
+    "grossMargin": 0.43882428590243183,
+    "operatingMargin": 0.08031515583479884,
+    "netMargin": 0.043299064913735,
+    "debtToEquity": 0.322
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 123675000000.0,
+      "operatingIncome": 15911000000.0,
+      "netIncome": 7559000000.0,
+      "eps": 19.84,
+      "freeCashFlow": 17777000000.0,
+      "totalDebt": 91354000000.0,
+      "cash": 53156000000.0,
+      "sharesOutstanding": 2845994232.0,
+      "grossMargin": 0.4830402263998383,
+      "operatingMargin": 0.12865170810592277,
+      "netMargin": 0.061119870628663836,
+      "roe": 0.033824358549834885,
+      "roic": 0.05053806474564212
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 134598000000.0,
+      "operatingIncome": 21856000000.0,
+      "netIncome": 20315000000.0,
+      "eps": 55.12,
+      "freeCashFlow": 25320000000.0,
+      "totalDebt": 84595000000.0,
+      "cash": 25231000000.0,
+      "sharesOutstanding": 2846374072.0,
+      "grossMargin": 0.5168501760798823,
+      "operatingMargin": 0.1623798273377019,
+      "netMargin": 0.1509309202216972,
+      "roe": 0.08338600970339784,
+      "roic": 0.06658927978404794
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 133125000000.0,
+      "operatingIncome": 21270000000.0,
+      "netIncome": 23760000000.0,
+      "eps": 65.92,
+      "freeCashFlow": 12975000000.0,
+      "totalDebt": 79324000000.0,
+      "cash": 24832000000.0,
+      "sharesOutstanding": 2804757364.0,
+      "grossMargin": 0.5034591549295775,
+      "operatingMargin": 0.15977464788732396,
+      "netMargin": 0.17847887323943662,
+      "roe": 0.09012973219027388,
+      "roic": 0.06202178781375385
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 129079000000.0,
+      "operatingIncome": 10367000000.0,
+      "netIncome": 5589000000.0,
+      "eps": 11.76,
+      "freeCashFlow": -16430000000.0,
+      "totalDebt": 97077000000.0,
+      "cash": 24606000000.0,
+      "sharesOutstanding": 2847581760.0,
+      "grossMargin": 0.43882428590243183,
+      "operatingMargin": 0.08031515583479884,
+      "netMargin": 0.043299064913735,
+      "roe": 0.020985243870386364,
+      "roic": 0.02852724355887476
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:50.114502+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-us",
+    "large-cap"
+  ]
+}

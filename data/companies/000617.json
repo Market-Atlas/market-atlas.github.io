@@ -1,0 +1,120 @@
+{
+  "ticker": "000617",
+  "name": "CNPC Capital Company Limited",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "currency": "CNY",
+  "website": "https://www.cnpccapital.cn",
+  "marketCap": {
+    "value": 98608218112.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 7.8,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 33796846677.45,
+    "operatingIncome": 27960646298.8,
+    "netIncome": 4299941107.39,
+    "eps": 0.34,
+    "freeCashFlow": -19207922643.1,
+    "totalDebt": 125450330537.1,
+    "cash": 35334871614.82,
+    "sharesOutstanding": 12642079079.0,
+    "peRatio": 21.666666,
+    "priceToBook": 0.9265859,
+    "dividendYield": 1.44
+  },
+  "ratios": {
+    "roe": 0.04111298798664527,
+    "roic": 0.12154756630191448,
+    "grossMargin": 0.9465298068042616,
+    "operatingMargin": 0.8273152393668713,
+    "netMargin": 0.12722906217931318,
+    "debtToEquity": 0.58095
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 32431443205.38,
+      "operatingIncome": 27130532139.44,
+      "netIncome": 4918292762.9,
+      "eps": 0.39,
+      "freeCashFlow": 43957963261.520004,
+      "totalDebt": 138959086574.49,
+      "cash": 37409519756.84,
+      "sharesOutstanding": 12642079079.0,
+      "grossMargin": 0.9483134511876448,
+      "operatingMargin": 0.8365502567255273,
+      "netMargin": 0.1516519857520282,
+      "roe": 0.051453278981083726,
+      "roic": 0.11567222959488137
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 38992108161.18,
+      "operatingIncome": 33279527548.62,
+      "netIncome": 5064133700.75,
+      "eps": 0.4,
+      "freeCashFlow": 40229523113.36,
+      "totalDebt": 132309068696.7,
+      "cash": 37591036901.39,
+      "sharesOutstanding": 12642079079.0,
+      "grossMargin": 0.9490067183915549,
+      "operatingMargin": 0.8534939278239034,
+      "netMargin": 0.12987586308020607,
+      "roe": 0.050788641710514816,
+      "roic": 0.14343447164894468
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 39024072723.77,
+      "operatingIncome": 32831242755.07,
+      "netIncome": 4652009562.82,
+      "eps": 0.37,
+      "freeCashFlow": 4972183138.009999,
+      "totalDebt": 126302597469.09,
+      "cash": 37691599665.57,
+      "sharesOutstanding": 12642079079.0,
+      "grossMargin": 0.9474387238815641,
+      "operatingMargin": 0.8413074408574511,
+      "netMargin": 0.11920871498341609,
+      "roe": 0.04574327391350275,
+      "roic": 0.143996162069556
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 33796846677.45,
+      "operatingIncome": 27960646298.8,
+      "netIncome": 4299941107.39,
+      "eps": 0.34,
+      "freeCashFlow": -19207922643.1,
+      "totalDebt": 125450330537.1,
+      "cash": 35334871614.82,
+      "sharesOutstanding": 12642079079.0,
+      "grossMargin": 0.9465298068042616,
+      "operatingMargin": 0.8273152393668713,
+      "netMargin": 0.12722906217931318,
+      "roe": 0.04111298798664527,
+      "roic": 0.12154756630191448
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:08.779602+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

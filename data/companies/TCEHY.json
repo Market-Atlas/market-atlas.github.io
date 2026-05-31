@@ -1,0 +1,137 @@
+{
+  "ticker": "TCEHY",
+  "name": "Tencent Holdings Limited",
+  "country": "US",
+  "exchange": "XNAS",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "currency": "CNY",
+  "website": "https://www.tencent.com",
+  "marketCap": {
+    "value": 492926042112.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 54.6,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 751766000000.0,
+    "operatingIncome": 248767000000.0,
+    "netIncome": 224842000000.0,
+    "eps": 24.153,
+    "freeCashFlow": 190171000000.0,
+    "totalDebt": 406399000000.0,
+    "cash": 141041000000.0,
+    "sharesOutstanding": 9120235999.0,
+    "peRatio": 15.294118,
+    "priceToBook": 2.9127862,
+    "dividendYield": 1.24
+  },
+  "ratios": {
+    "roe": 0.19481142865064566,
+    "roic": 0.15940972130997322,
+    "grossMargin": 0.5621336958574875,
+    "operatingMargin": 0.3309101502329182,
+    "netMargin": 0.29908508764695396,
+    "debtToEquity": 0.33468000000000003
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 554552000000.0,
+      "operatingIncome": 113940000000.0,
+      "netIncome": 188243000000.0,
+      "eps": 19.341,
+      "freeCashFlow": 95241000000.0,
+      "totalDebt": 359141000000.0,
+      "cash": 156739000000.0,
+      "sharesOutstanding": 9568738935.0,
+      "grossMargin": 0.43052049221714106,
+      "operatingMargin": 0.20546314863168827,
+      "netMargin": 0.339450583534096,
+      "roe": 0.260944480870984,
+      "roic": 0.10544805706818493
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 609015000000.0,
+      "operatingIncome": 165658000000.0,
+      "netIncome": 115216000000.0,
+      "eps": 11.887,
+      "freeCashFlow": 174555000000.0,
+      "totalDebt": 371240000000.0,
+      "cash": 172320000000.0,
+      "sharesOutstanding": 9482992820.0,
+      "grossMargin": 0.48128371222383687,
+      "operatingMargin": 0.2720097206144348,
+      "netMargin": 0.18918417444562122,
+      "roe": 0.14248983726012285,
+      "roic": 0.1404082449096523
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 660257000000.0,
+      "operatingIncome": 208786000000.0,
+      "netIncome": 194073000000.0,
+      "eps": 20.486,
+      "freeCashFlow": 162473000000.0,
+      "totalDebt": 358112000000.0,
+      "cash": 132519000000.0,
+      "sharesOutstanding": 9224914953.0,
+      "grossMargin": 0.5289546343317829,
+      "operatingMargin": 0.3162192903672358,
+      "netMargin": 0.29393554328087396,
+      "roe": 0.19934610311972292,
+      "roic": 0.15678626676478982
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 751766000000.0,
+      "operatingIncome": 248767000000.0,
+      "netIncome": 224842000000.0,
+      "eps": 24.153,
+      "freeCashFlow": 190171000000.0,
+      "totalDebt": 406399000000.0,
+      "cash": 141041000000.0,
+      "sharesOutstanding": 9120235999.0,
+      "grossMargin": 0.5621336958574875,
+      "operatingMargin": 0.3309101502329182,
+      "netMargin": 0.29908508764695396,
+      "roe": 0.19481142865064566,
+      "roic": 0.15940972130997322
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:00.161780+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-us",
+    "mega-cap"
+  ]
+}

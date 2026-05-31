@@ -1,0 +1,121 @@
+{
+  "ticker": "000625",
+  "name": "Chongqing Changan Automobile Company Limited",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "CNY",
+  "website": "https://www.changan.com.cn",
+  "marketCap": {
+    "value": 78510358528.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 7.92,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 163999803875.87,
+    "operatingIncome": 1598658962.98,
+    "netIncome": 4075223181.54,
+    "eps": 0.41,
+    "freeCashFlow": -2843315297.52,
+    "totalDebt": 2509921730.88,
+    "cash": 54021735265.29,
+    "sharesOutstanding": 9914086060.0,
+    "peRatio": 25.548388,
+    "priceToBook": 1.0169492,
+    "dividendYield": 4.36
+  },
+  "ratios": {
+    "roe": 0.0526949132270491,
+    "roic": 0.020021753989373843,
+    "grossMargin": 0.15540086409523954,
+    "operatingMargin": 0.009747932163321432,
+    "netMargin": 0.024848951554993934,
+    "debtToEquity": 0.01593
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 121252864085.4,
+      "operatingIncome": 8285052050.98,
+      "netIncome": 7798785367.38,
+      "eps": 0.78,
+      "freeCashFlow": 4261342521.55,
+      "totalDebt": 2010457601.2,
+      "cash": 53530183827.34,
+      "sharesOutstanding": 9921799422.0,
+      "grossMargin": 0.20488797026800595,
+      "operatingMargin": 0.06832871217907667,
+      "netMargin": 0.06431836003384804,
+      "roe": 0.1240686927588995,
+      "roic": 0.12771961379001104
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 151297706646.97,
+      "operatingIncome": 6938355740.81,
+      "netIncome": 11327463013.15,
+      "eps": 1.13,
+      "freeCashFlow": 17037408810.900002,
+      "totalDebt": 1315978404.85,
+      "cash": 64871042747.88,
+      "sharesOutstanding": 9917289033.0,
+      "grossMargin": 0.17255645725812357,
+      "operatingMargin": 0.045858961742226464,
+      "netMargin": 0.07486870266699348,
+      "roe": 0.15764747606558302,
+      "roic": 0.09482631183721162
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 159733034213.25,
+      "operatingIncome": 3194218309.96,
+      "netIncome": 7321363897.24,
+      "eps": 0.74,
+      "freeCashFlow": -18711482.909999847,
+      "totalDebt": 1473867586.89,
+      "cash": 64182095662.74,
+      "sharesOutstanding": 9914086060.0,
+      "grossMargin": 0.14939934785149447,
+      "operatingMargin": 0.01999723053964899,
+      "netMargin": 0.045835001715835974,
+      "roe": 0.09560883855392806,
+      "roic": 0.04092523428785659
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 163999803875.87,
+      "operatingIncome": 1598658962.98,
+      "netIncome": 4075223181.54,
+      "eps": 0.41,
+      "freeCashFlow": -2843315297.52,
+      "totalDebt": 2509921730.88,
+      "cash": 54021735265.29,
+      "sharesOutstanding": 9914086060.0,
+      "grossMargin": 0.15540086409523954,
+      "operatingMargin": 0.009747932163321432,
+      "netMargin": 0.024848951554993934,
+      "roe": 0.0526949132270491,
+      "roic": 0.020021753989373843
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:08.894188+00:00"
+  },
+  "tags": [
+    "automakers",
+    "consumer-cyclical",
+    "country-cn",
+    "large-cap"
+  ]
+}

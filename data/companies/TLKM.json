@@ -1,0 +1,137 @@
+{
+  "ticker": "TLKM",
+  "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+  "country": "ID",
+  "exchange": "XIDX",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "currency": "IDR",
+  "website": "https://www.telkom.co.id",
+  "marketCap": {
+    "value": 299092664123392.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 3030.0,
+    "currency": "IDR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 146742000000000.0,
+    "operatingIncome": 34119000000000.0,
+    "netIncome": 17486000000000.0,
+    "eps": 176.52,
+    "freeCashFlow": null,
+    "totalDebt": 75266000000000.0,
+    "cash": 34228000000000.0,
+    "sharesOutstanding": 99062216600.0,
+    "peRatio": 18.416094,
+    "priceToBook": 2.1886785,
+    "dividendYield": 7.01
+  },
+  "ratios": {
+    "roe": 0.13435163771311784,
+    "roic": 0.1660962821967023,
+    "grossMargin": 0.6711779858527211,
+    "operatingMargin": 0.23251011980210165,
+    "netMargin": 0.11916152158209647,
+    "debtToEquity": 0.44115000000000004
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 147306000000000.0,
+      "operatingIncome": 45898000000000.0,
+      "netIncome": 20736000000000.0,
+      "eps": 209.49,
+      "freeCashFlow": null,
+      "totalDebt": 62853000000000.0,
+      "cash": 31947000000000.0,
+      "sharesOutstanding": 99062216600.0,
+      "grossMargin": 0.7038545612534453,
+      "operatingMargin": 0.3115826918116031,
+      "netMargin": 0.1407681968147937,
+      "roe": 0.16046554819538167,
+      "roic": 0.238956251919803
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 149216000000000.0,
+      "operatingIncome": 43573000000000.0,
+      "netIncome": 23053000000000.0,
+      "eps": 232.71,
+      "freeCashFlow": null,
+      "totalDebt": 68001000000000.0,
+      "cash": 29007000000000.0,
+      "sharesOutstanding": 99062216600.0,
+      "grossMargin": 0.6911792301093717,
+      "operatingMargin": 0.292012920866395,
+      "netMargin": 0.15449415612266781,
+      "roe": 0.17935053214663596,
+      "roic": 0.22170380131985326
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 149967000000000.0,
+      "operatingIncome": 41147000000000.0,
+      "netIncome": 22365000000000.0,
+      "eps": 225.77,
+      "freeCashFlow": null,
+      "totalDebt": 76834000000000.0,
+      "cash": 33905000000000.0,
+      "sharesOutstanding": 99062216600.0,
+      "grossMargin": 0.679382797548794,
+      "operatingMargin": 0.27437369554635355,
+      "netMargin": 0.14913280921802796,
+      "roe": 0.16740018861993083,
+      "roic": 0.19553213328517935
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 146742000000000.0,
+      "operatingIncome": 34119000000000.0,
+      "netIncome": 17486000000000.0,
+      "eps": 176.52,
+      "freeCashFlow": null,
+      "totalDebt": 75266000000000.0,
+      "cash": 34228000000000.0,
+      "sharesOutstanding": 99062216600.0,
+      "grossMargin": 0.6711779858527211,
+      "operatingMargin": 0.23251011980210165,
+      "netMargin": 0.11916152158209647,
+      "roe": 0.13435163771311784,
+      "roic": 0.1660962821967023
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:00.185402+00:00"
+  },
+  "tags": [
+    "comms",
+    "country-id",
+    "telecom"
+  ]
+}

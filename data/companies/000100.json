@@ -1,0 +1,121 @@
+{
+  "ticker": "000100",
+  "name": "TCL Technology Group Corporation",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "currency": "CNY",
+  "website": "https://www.tcltech.com",
+  "marketCap": {
+    "value": 89027698688.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 4.28,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 184210915000.0,
+    "operatingIncome": 7376247000.0,
+    "netIncome": 4516782000.0,
+    "eps": 0.2301,
+    "freeCashFlow": 27743291000.0,
+    "totalDebt": 166761884000.0,
+    "cash": 30460060000.0,
+    "sharesOutstanding": 20800862447.0,
+    "peRatio": 17.833334,
+    "priceToBook": 1.5357016,
+    "dividendYield": 1.17
+  },
+  "ratios": {
+    "roe": 0.07352399958217731,
+    "roic": 0.03232436558402789,
+    "grossMargin": 0.13220404447803757,
+    "operatingMargin": 0.04004239922482335,
+    "netMargin": 0.024519621977883342,
+    "debtToEquity": 1.28865
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 166632146000.0,
+      "operatingIncome": 2859372000.0,
+      "netIncome": 261319000.0,
+      "eps": 0.0168,
+      "freeCashFlow": -22336411000.0,
+      "totalDebt": 157022307000.0,
+      "cash": 35378501000.0,
+      "sharesOutstanding": 18779080767.0,
+      "grossMargin": 0.08825822239605556,
+      "operatingMargin": 0.017159786203557625,
+      "netMargin": 0.0015682388198973323,
+      "roe": 0.00515640551460461,
+      "roic": 0.013766781968566741
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 174446172000.0,
+      "operatingIncome": 11585124000.0,
+      "netIncome": 2214934000.0,
+      "eps": 0.1179,
+      "freeCashFlow": -4259540000.0,
+      "totalDebt": 166613596000.0,
+      "cash": 21924271000.0,
+      "sharesOutstanding": 18779080767.0,
+      "grossMargin": 0.14243693464365614,
+      "operatingMargin": 0.06641088117427994,
+      "netMargin": 0.012696948145127541,
+      "roe": 0.04185290821000152,
+      "roic": 0.05277108260532415
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 164962838000.0,
+      "operatingIncome": 4211196000.0,
+      "netIncome": 1564112000.0,
+      "eps": 0.0833,
+      "freeCashFlow": 5834248000.0,
+      "totalDebt": 174657229000.0,
+      "cash": 23007773000.0,
+      "sharesOutstanding": 18779080767.0,
+      "grossMargin": 0.1166347659464976,
+      "operatingMargin": 0.025528149558144725,
+      "netMargin": 0.009481602153328618,
+      "roe": 0.02941851306497533,
+      "roic": 0.018484358584290973
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 184210915000.0,
+      "operatingIncome": 7376247000.0,
+      "netIncome": 4516782000.0,
+      "eps": 0.2301,
+      "freeCashFlow": 27743291000.0,
+      "totalDebt": 166761884000.0,
+      "cash": 30460060000.0,
+      "sharesOutstanding": 20800862447.0,
+      "grossMargin": 0.13220404447803757,
+      "operatingMargin": 0.04004239922482335,
+      "netMargin": 0.024519621977883342,
+      "roe": 0.07352399958217731,
+      "roic": 0.03232436558402789
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:05.056456+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "large-cap",
+    "semiconductors",
+    "tech"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "601377",
+  "name": "Industrial Securities Co.,Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.xyzq.com.cn",
+  "marketCap": {
+    "value": 49656926208.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 5.75,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 11833727316.25,
+    "operatingIncome": null,
+    "netIncome": 2870360059.54,
+    "eps": 0.32,
+    "freeCashFlow": 19017340887.15,
+    "totalDebt": 91485366315.81,
+    "cash": 154263628929.6,
+    "sharesOutstanding": 8635987294.0,
+    "peRatio": 16.428572,
+    "priceToBook": 0.8767917,
+    "dividendYield": 2.61
+  },
+  "ratios": {
+    "roe": 0.046568122820169006,
+    "roic": null,
+    "grossMargin": 0.40585998,
+    "operatingMargin": 0.41251,
+    "netMargin": 0.2425575630425791,
+    "debtToEquity": 2.55843
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 10526302496.25,
+      "operatingIncome": null,
+      "netIncome": 2637075791.2,
+      "eps": 0.35,
+      "freeCashFlow": 22078417465.35,
+      "totalDebt": 61656047413.67,
+      "cash": 128383561661.96,
+      "sharesOutstanding": 8635987294.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.25052251653792573,
+      "roe": 0.05045612080390085,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 10567403566.2,
+      "operatingIncome": null,
+      "netIncome": 1964371034.08,
+      "eps": 0.23,
+      "freeCashFlow": -11064912825.04,
+      "totalDebt": 70464446196.93,
+      "cash": 120685103718.32,
+      "sharesOutstanding": 8635987294.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.18588965792534604,
+      "roe": 0.03484683930923389,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 9762407860.49,
+      "operatingIncome": null,
+      "netIncome": 2164048119.86,
+      "eps": 0.24,
+      "freeCashFlow": 23691810968.41,
+      "totalDebt": 86423284802.77,
+      "cash": 133908188053.91,
+      "sharesOutstanding": 8635987294.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.22167155386103496,
+      "roe": 0.03743056006526494,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 11833727316.25,
+      "operatingIncome": null,
+      "netIncome": 2870360059.54,
+      "eps": 0.32,
+      "freeCashFlow": 19017340887.15,
+      "totalDebt": 91485366315.81,
+      "cash": 154263628929.6,
+      "sharesOutstanding": 8635987294.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2425575630425791,
+      "roe": 0.046568122820169006,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:12.571581+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "mid-cap"
+  ]
+}

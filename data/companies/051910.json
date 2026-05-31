@@ -1,0 +1,121 @@
+{
+  "ticker": "051910",
+  "name": "LG Chem, Ltd.",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "currency": "KRW",
+  "website": "https://www.lgchem.com",
+  "marketCap": {
+    "value": 28726962159616.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 367000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 45932167000000.0,
+    "operatingIncome": 1180900000000.0,
+    "netIncome": -1819449000000.0,
+    "eps": -23244.0,
+    "freeCashFlow": -5622812000000.0,
+    "totalDebt": 33811957000000.0,
+    "cash": 9899926000000.0,
+    "sharesOutstanding": 78275100.0,
+    "peRatio": 14.649745,
+    "priceToBook": null,
+    "dividendYield": 0.54
+  },
+  "ratios": {
+    "roe": -0.05539399493387242,
+    "roic": 0.01771592079199662,
+    "grossMargin": 0.17002158857429914,
+    "operatingMargin": 0.025709651364804974,
+    "netMargin": -0.03961165167757054,
+    "debtToEquity": 0.7420699999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 50983251000000.0,
+      "operatingIncome": 2979354000000.0,
+      "netIncome": 1845363000000.0,
+      "eps": 23670.0,
+      "freeCashFlow": -8003828000000.0,
+      "totalDebt": 15964519000000.0,
+      "cash": 8497882000000.0,
+      "sharesOutstanding": 70592343.0,
+      "grossMargin": 0.1934139507894465,
+      "operatingMargin": 0.05843789757542139,
+      "netMargin": 0.03619547525519704,
+      "roe": 0.05867502187241618,
+      "roic": 0.06283556431432347
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 55249785000000.0,
+      "operatingIncome": 2529196000000.0,
+      "netIncome": 1337812000000.0,
+      "eps": 17086.0,
+      "freeCashFlow": -5576308000000.0,
+      "totalDebt": 21928114000000.0,
+      "cash": 9084899000000.0,
+      "sharesOutstanding": 70592343.0,
+      "grossMargin": 0.159020872207919,
+      "operatingMargin": 0.04577748130603585,
+      "netMargin": 0.024213886081185656,
+      "roe": 0.04155650032049286,
+      "roic": 0.04673249074906045
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 48699754000000.0,
+      "operatingIncome": 874927000000.0,
+      "netIncome": -690854000000.0,
+      "eps": -8826.0,
+      "freeCashFlow": -7767519000000.0,
+      "totalDebt": 27376097000000.0,
+      "cash": 7854877000000.0,
+      "sharesOutstanding": 70592343.0,
+      "grossMargin": 0.15302475655215836,
+      "operatingMargin": 0.01796573756820209,
+      "netMargin": -0.014185985415860622,
+      "roe": -0.020756227132529628,
+      "roic": 0.014423392758328485
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 45932167000000.0,
+      "operatingIncome": 1180900000000.0,
+      "netIncome": -1819449000000.0,
+      "eps": -23244.0,
+      "freeCashFlow": -5622812000000.0,
+      "totalDebt": 33811957000000.0,
+      "cash": 9899926000000.0,
+      "sharesOutstanding": 78275100.0,
+      "grossMargin": 0.17002158857429914,
+      "operatingMargin": 0.025709651364804974,
+      "netMargin": -0.03961165167757054,
+      "roe": -0.05539399493387242,
+      "roic": 0.01771592079199662
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:37.550417+00:00"
+  },
+  "tags": [
+    "chemicals",
+    "country-kr",
+    "large-cap",
+    "materials"
+  ]
+}

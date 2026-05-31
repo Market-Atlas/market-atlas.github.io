@@ -1,0 +1,121 @@
+{
+  "ticker": "INVE-B",
+  "name": "Investor AB (publ)",
+  "country": "SE",
+  "exchange": "XSTO",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "currency": "SEK",
+  "website": "https://www.investorab.com",
+  "marketCap": {
+    "value": 1166517469184.0,
+    "currency": "SEK",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 380.75,
+    "currency": "SEK",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 216578000000.0,
+    "operatingIncome": null,
+    "netIncome": 157494000000.0,
+    "eps": 51.39,
+    "freeCashFlow": null,
+    "totalDebt": 115312000000.0,
+    "cash": 14058000000.0,
+    "sharesOutstanding": 3068700120.0,
+    "peRatio": 6.1203985,
+    "priceToBook": 1.1844398,
+    "dividendYield": 1.47
+  },
+  "ratios": {
+    "roe": 0.16513911534489176,
+    "roic": null,
+    "grossMargin": 0.86774004,
+    "operatingMargin": 0.69545,
+    "netMargin": 0.7271929743556594,
+    "debtToEquity": 0.12396000000000001
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": -27305000000.0,
+      "operatingIncome": null,
+      "netIncome": -74681000000.0,
+      "eps": -24.38,
+      "freeCashFlow": null,
+      "totalDebt": 91156000000.0,
+      "cash": 13164000000.0,
+      "sharesOutstanding": 3068700120.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 2.735066837575536,
+      "roe": -0.12346721995817249,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 180485000000.0,
+      "operatingIncome": null,
+      "netIncome": 127045000000.0,
+      "eps": 41.46,
+      "freeCashFlow": null,
+      "totalDebt": 89116000000.0,
+      "cash": 18794000000.0,
+      "sharesOutstanding": 3068700120.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7039089120979583,
+      "roe": 0.1772470311174606,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 168909000000.0,
+      "operatingIncome": null,
+      "netIncome": 113338000000.0,
+      "eps": 36.98,
+      "freeCashFlow": null,
+      "totalDebt": 98937000000.0,
+      "cash": 17220000000.0,
+      "sharesOutstanding": 3068700120.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6710003611412062,
+      "roe": 0.13832435889299505,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 216578000000.0,
+      "operatingIncome": null,
+      "netIncome": 157494000000.0,
+      "eps": 51.39,
+      "freeCashFlow": null,
+      "totalDebt": 115312000000.0,
+      "cash": 14058000000.0,
+      "sharesOutstanding": 3068700120.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.7271929743556594,
+      "roe": 0.16513911534489176,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:54.344184+00:00"
+  },
+  "tags": [
+    "asset-management",
+    "country-se",
+    "financials",
+    "large-cap"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "ticker": "PBR",
+  "name": "Petróleo Brasileiro S.A. - Petrobras",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "BRL",
+  "website": "https://petrobras.com.br",
+  "marketCap": {
+    "value": 120960761856.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 18.77,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 89195000000.0,
+    "operatingIncome": 27758000000.0,
+    "netIncome": 19634000000.0,
+    "eps": 16.656768,
+    "freeCashFlow": 16526000000.0,
+    "totalDebt": 69793000000.0,
+    "cash": 6471000000.0,
+    "sharesOutstanding": 12888732761.0,
+    "peRatio": 5.865625,
+    "priceToBook": 1.4465882,
+    "dividendYield": 9.36
+  },
+  "ratios": {
+    "roe": 0.25982928604512673,
+    "roic": 0.19096300169237332,
+    "grossMargin": 0.4760244408318852,
+    "operatingMargin": 0.3112057850776389,
+    "netMargin": 0.22012444643758058,
+    "debtToEquity": 0.83269
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 124474000000.0,
+      "operatingIncome": 53265000000.0,
+      "netIncome": 36623000000.0,
+      "eps": 5.615215,
+      "freeCashFlow": 40136000000.0,
+      "totalDebt": 53799000000.0,
+      "cash": 7996000000.0,
+      "sharesOutstanding": 13044496930.0,
+      "grossMargin": 0.5221010010122595,
+      "operatingMargin": 0.4279206902646336,
+      "netMargin": 0.294222086540161,
+      "roe": 0.5270103033442698,
+      "roic": 0.43202666861328076
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 102409000000.0,
+      "operatingIncome": 39473000000.0,
+      "netIncome": 24884000000.0,
+      "eps": 3.94379,
+      "freeCashFlow": 31098000000.0,
+      "totalDebt": 62600000000.0,
+      "cash": 12727000000.0,
+      "sharesOutstanding": 13044496930.0,
+      "grossMargin": 0.5270435215654874,
+      "operatingMargin": 0.3854446386548057,
+      "netMargin": 0.24298645626849202,
+      "roe": 0.3166588193375158,
+      "roic": 0.27958748574545095
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 91416000000.0,
+      "operatingIncome": 25691000000.0,
+      "netIncome": 7528000000.0,
+      "eps": 1.16,
+      "freeCashFlow": 23340000000.0,
+      "totalDebt": 60311000000.0,
+      "cash": 3271000000.0,
+      "sharesOutstanding": 13044496930.0,
+      "grossMargin": 0.5028878970858494,
+      "operatingMargin": 0.28103395466876696,
+      "netMargin": 0.08234882296315743,
+      "roe": 0.1273643961695936,
+      "roic": 0.2151368733094953
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 89195000000.0,
+      "operatingIncome": 27758000000.0,
+      "netIncome": 19634000000.0,
+      "eps": 16.656768,
+      "freeCashFlow": 16526000000.0,
+      "totalDebt": 69793000000.0,
+      "cash": 6471000000.0,
+      "sharesOutstanding": 12888732761.0,
+      "grossMargin": 0.4760244408318852,
+      "operatingMargin": 0.3112057850776389,
+      "netMargin": 0.22012444643758058,
+      "roe": 0.25982928604512673,
+      "roic": 0.19096300169237332
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:58.446164+00:00"
+  },
+  "tags": [
+    "country-us",
+    "energy",
+    "large-cap",
+    "oil-gas"
+  ]
+}

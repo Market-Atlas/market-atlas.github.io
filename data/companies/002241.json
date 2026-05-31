@@ -1,0 +1,121 @@
+{
+  "ticker": "002241",
+  "name": "Goertek Inc.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "currency": "CNY",
+  "website": "https://www.goertek.com",
+  "marketCap": {
+    "value": 95256797184.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 26.83,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 96550169615.26,
+    "operatingIncome": 2788932791.94,
+    "netIncome": 3940313461.54,
+    "eps": 1.13,
+    "freeCashFlow": -280558935.9800005,
+    "totalDebt": 18761757275.06,
+    "cash": 18886433534.86,
+    "sharesOutstanding": 3547433388.0,
+    "peRatio": 23.535088,
+    "priceToBook": 2.514998,
+    "dividendYield": 2.98
+  },
+  "ratios": {
+    "roe": 0.10824428976363955,
+    "roic": 0.05055729841195686,
+    "grossMargin": 0.11801968162538594,
+    "operatingMargin": 0.028885840419064394,
+    "netMargin": 0.040811046497811886,
+    "debtToEquity": 0.63578
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 104894324162.26,
+      "operatingIncome": 3697793339.37,
+      "netIncome": 1749181131.83,
+      "eps": 0.52,
+      "freeCashFlow": 227006058.3000002,
+      "totalDebt": 10893168862.16,
+      "cash": 12682871091.8,
+      "sharesOutstanding": 3420403200.0,
+      "grossMargin": 0.11116757471969547,
+      "operatingMargin": 0.035252558886312284,
+      "netMargin": 0.01667565090675649,
+      "roe": 0.05930707079241634,
+      "roic": 0.09155944355258486
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 98573902273.14,
+      "operatingIncome": 1502720169.43,
+      "netIncome": 1088076730.88,
+      "eps": 0.32,
+      "freeCashFlow": 1202097035.1000004,
+      "totalDebt": 13436290888.84,
+      "cash": 14737312329.71,
+      "sharesOutstanding": 3420403200.0,
+      "grossMargin": 0.08948451729858672,
+      "operatingMargin": 0.015244604654750187,
+      "netMargin": 0.01103818257965512,
+      "roe": 0.03531502354941668,
+      "roic": 0.033962171356034764
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 100953848156.08,
+      "operatingIncome": 3469880486.45,
+      "netIncome": 2665044826.06,
+      "eps": 0.78,
+      "freeCashFlow": 2566039426.09,
+      "totalDebt": 14646891894.91,
+      "cash": 17466492869.05,
+      "sharesOutstanding": 3486344744.0,
+      "grossMargin": 0.11088692102011577,
+      "operatingMargin": 0.03437095811429972,
+      "netMargin": 0.026398645269467086,
+      "roe": 0.0803054859291982,
+      "roic": 0.07254121560606182
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 96550169615.26,
+      "operatingIncome": 2788932791.94,
+      "netIncome": 3940313461.54,
+      "eps": 1.13,
+      "freeCashFlow": -280558935.9800005,
+      "totalDebt": 18761757275.06,
+      "cash": 18886433534.86,
+      "sharesOutstanding": 3547433388.0,
+      "grossMargin": 0.11801968162538594,
+      "operatingMargin": 0.028885840419064394,
+      "netMargin": 0.040811046497811886,
+      "roe": 0.10824428976363955,
+      "roic": 0.05055729841195686
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:20.539993+00:00"
+  },
+  "tags": [
+    "consumer-goods",
+    "country-cn",
+    "large-cap",
+    "tech"
+  ]
+}

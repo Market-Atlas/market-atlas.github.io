@@ -41,7 +41,9 @@ jobs:
       - name: Refresh data from yfinance
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: pipeline
-        run: python -m atlas_pipeline.ingest --universe us,in --workers 4
+        run: |
+          python -m atlas_pipeline.fetch_universes
+          python -m atlas_pipeline.ingest --universe us,in,jp,eu,ca,cn,kr,tw,cnA,megacap --workers 4
 
       - name: Build derived artifacts (search index, screener, peers)
         working-directory: pipeline

@@ -1,0 +1,137 @@
+{
+  "ticker": "1180",
+  "name": "The Saudi National Bank",
+  "country": "SA",
+  "exchange": "XSAU",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "currency": "SAR",
+  "website": "https://www.alahli.com",
+  "marketCap": {
+    "value": 236450398208.0,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 39.84,
+    "currency": "SAR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 40843879000.0,
+    "operatingIncome": null,
+    "netIncome": 25013279000.0,
+    "eps": null,
+    "freeCashFlow": 5735806000.0,
+    "totalDebt": 133250939000.0,
+    "cash": 66772537000.0,
+    "sharesOutstanding": 6000000000.0,
+    "peRatio": 9.69343,
+    "priceToBook": 1.23819,
+    "dividendYield": 5.84
+  },
+  "ratios": {
+    "roe": 0.12304930254039494,
+    "roic": null,
+    "grossMargin": 0.0,
+    "operatingMargin": 0.74617,
+    "netMargin": 0.6124119357027769,
+    "debtToEquity": null
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": 2.235,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 34071100000.0,
+      "operatingIncome": null,
+      "netIncome": 18580690000.0,
+      "eps": 3.02,
+      "freeCashFlow": -6310675000.0,
+      "totalDebt": 14808967000.0,
+      "cash": 58059832000.0,
+      "sharesOutstanding": 5970666665.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5453504583063065,
+      "roe": 0.11194998583324937,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 35889512000.0,
+      "operatingIncome": null,
+      "netIncome": 20009968000.0,
+      "eps": 3.23,
+      "freeCashFlow": 27192943000.0,
+      "totalDebt": 45614292000.0,
+      "cash": 75237842000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5575436077258448,
+      "roe": 0.11375448365208166,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 37401819000.0,
+      "operatingIncome": null,
+      "netIncome": 21192995000.0,
+      "eps": 3.43,
+      "freeCashFlow": -44040456000.0,
+      "totalDebt": 96445481000.0,
+      "cash": 62343921000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.5666300614951374,
+      "roe": 0.11005606774536525,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 40843879000.0,
+      "operatingIncome": null,
+      "netIncome": 25013279000.0,
+      "eps": null,
+      "freeCashFlow": 5735806000.0,
+      "totalDebt": 133250939000.0,
+      "cash": 66772537000.0,
+      "sharesOutstanding": 6000000000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.6124119357027769,
+      "roe": 0.12304930254039494,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:38.333672+00:00"
+  },
+  "tags": [
+    "banks",
+    "country-sa",
+    "financials"
+  ]
+}

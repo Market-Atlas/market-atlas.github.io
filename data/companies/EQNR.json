@@ -1,0 +1,121 @@
+{
+  "ticker": "EQNR",
+  "name": "Equinor ASA",
+  "country": "NO",
+  "exchange": "XOSL",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "currency": "USD",
+  "website": "https://www.equinor.com",
+  "marketCap": {
+    "value": 834874966016.0,
+    "currency": "NOK",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 335.1,
+    "currency": "NOK",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 105828000000.0,
+    "operatingIncome": 24730000000.0,
+    "netIncome": 5043000000.0,
+    "eps": 1.94,
+    "freeCashFlow": 5977000000.0,
+    "totalDebt": 31220000000.0,
+    "cash": 5036000000.0,
+    "sharesOutstanding": 2556807512.0,
+    "peRatio": 16.338371,
+    "priceToBook": 2.2068558,
+    "dividendYield": 4.32
+  },
+  "ratios": {
+    "roe": 0.12475262220463092,
+    "roic": 0.34517894031600693,
+    "grossMargin": 0.3623426692368749,
+    "operatingMargin": 0.23368106739237252,
+    "netMargin": 0.04765279510148543,
+    "debtToEquity": 0.7299599999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 149004000000.0,
+      "operatingIncome": 77741000000.0,
+      "netIncome": 28746000000.0,
+      "eps": 9.03,
+      "freeCashFlow": 26378000000.0,
+      "totalDebt": 32167000000.0,
+      "cash": 9438000000.0,
+      "sharesOutstanding": 3175470159.0,
+      "grossMargin": 0.5960041341172049,
+      "operatingMargin": 0.5217376714719067,
+      "netMargin": 0.1929209954095192,
+      "roe": 0.5324516559235386,
+      "roic": 0.9023388079623934
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 106848000000.0,
+      "operatingIncome": 35233000000.0,
+      "netIncome": 11885000000.0,
+      "eps": 3.93,
+      "freeCashFlow": 18682000000.0,
+      "totalDebt": 31795000000.0,
+      "cash": 8070000000.0,
+      "sharesOutstanding": 3003104605.0,
+      "grossMargin": 0.44960130278526506,
+      "operatingMargin": 0.3297488020365379,
+      "netMargin": 0.1112327792752321,
+      "roe": 0.24510208290369148,
+      "roic": 0.43884910008096156
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 102502000000.0,
+      "operatingIncome": 30354000000.0,
+      "netIncome": 8806000000.0,
+      "eps": 3.11,
+      "freeCashFlow": 7288000000.0,
+      "totalDebt": 30095000000.0,
+      "cash": 5903000000.0,
+      "sharesOutstanding": 2792781230.0,
+      "grossMargin": 0.41586505629158455,
+      "operatingMargin": 0.2961308072037619,
+      "netMargin": 0.085910518819145,
+      "roe": 0.20797317084691322,
+      "roic": 0.4190399933735522
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 105828000000.0,
+      "operatingIncome": 24730000000.0,
+      "netIncome": 5043000000.0,
+      "eps": 1.94,
+      "freeCashFlow": 5977000000.0,
+      "totalDebt": 31220000000.0,
+      "cash": 5036000000.0,
+      "sharesOutstanding": 2556807512.0,
+      "grossMargin": 0.3623426692368749,
+      "operatingMargin": 0.23368106739237252,
+      "netMargin": 0.04765279510148543,
+      "roe": 0.12475262220463092,
+      "roic": 0.34517894031600693
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:52.252172+00:00"
+  },
+  "tags": [
+    "country-no",
+    "energy",
+    "large-cap",
+    "oil-gas"
+  ]
+}

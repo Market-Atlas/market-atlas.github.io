@@ -1,0 +1,121 @@
+{
+  "ticker": "NVO",
+  "name": "Novo Nordisk A/S",
+  "country": "US",
+  "exchange": "XNYS",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "currency": "DKK",
+  "website": "https://www.novonordisk.com",
+  "marketCap": {
+    "value": 201954295808.0,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 45.58,
+    "currency": "USD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 309064000000.0,
+    "operatingIncome": 127658000000.0,
+    "netIncome": 102434000000.0,
+    "eps": 23.03,
+    "freeCashFlow": 28989000000.0,
+    "totalDebt": 130958000000.0,
+    "cash": 26464000000.0,
+    "sharesOutstanding": 4465000000.0,
+    "peRatio": 10.699531,
+    "priceToBook": 6.415071,
+    "dividendYield": 3.95
+  },
+  "ratios": {
+    "roe": 0.5278824202383958,
+    "roic": 0.39278780326456514,
+    "grossMargin": 0.8097869696891259,
+    "operatingMargin": 0.4130471358682991,
+    "netMargin": 0.3314329718116636,
+    "debtToEquity": 0.72086
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 176954000000.0,
+      "operatingIncome": 74809000000.0,
+      "netIncome": 55525000000.0,
+      "eps": 12.22,
+      "freeCashFlow": 64134000000.0,
+      "totalDebt": 25784000000.0,
+      "cash": 12653000000.0,
+      "sharesOutstanding": 4560000000.0,
+      "grossMargin": 0.8392350554381365,
+      "operatingMargin": 0.4227595872373611,
+      "netMargin": 0.31378211286549046,
+      "roe": 0.6650815705627291,
+      "roic": 0.6846252402306214
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 232261000000.0,
+      "operatingIncome": 102574000000.0,
+      "netIncome": 83683000000.0,
+      "eps": 18.62,
+      "freeCashFlow": 70012000000.0,
+      "totalDebt": 27006000000.0,
+      "cash": 14392000000.0,
+      "sharesOutstanding": 4510000000.0,
+      "grossMargin": 0.8460137517706373,
+      "operatingMargin": 0.44163247381178933,
+      "netMargin": 0.3602972517986231,
+      "roe": 0.7853060688244292,
+      "roic": 0.767959151586844
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 290403000000.0,
+      "operatingIncome": 128339000000.0,
+      "netIncome": 100988000000.0,
+      "eps": 22.63,
+      "freeCashFlow": 69659000000.0,
+      "totalDebt": 102787000000.0,
+      "cash": 15655000000.0,
+      "sharesOutstanding": 4465000000.0,
+      "grossMargin": 0.8466889116159269,
+      "operatingMargin": 0.4419341397988313,
+      "netMargin": 0.3477512284652707,
+      "roe": 0.7038177940705016,
+      "roic": 0.5211249304633476
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 309064000000.0,
+      "operatingIncome": 127658000000.0,
+      "netIncome": 102434000000.0,
+      "eps": 23.03,
+      "freeCashFlow": 28989000000.0,
+      "totalDebt": 130958000000.0,
+      "cash": 26464000000.0,
+      "sharesOutstanding": 4465000000.0,
+      "grossMargin": 0.8097869696891259,
+      "operatingMargin": 0.4130471358682991,
+      "netMargin": 0.3314329718116636,
+      "roe": 0.5278824202383958,
+      "roic": 0.39278780326456514
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:57.247568+00:00"
+  },
+  "tags": [
+    "country-us",
+    "healthcare",
+    "mega-cap",
+    "pharma"
+  ]
+}

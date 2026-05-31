@@ -1,0 +1,137 @@
+{
+  "ticker": "AD",
+  "name": "Koninklijke Ahold Delhaize N.V.",
+  "country": "NL",
+  "exchange": "XAMS",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "EUR",
+  "website": "https://www.aholddelhaize.com",
+  "marketCap": {
+    "value": 31850545152.0,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 36.17,
+    "currency": "EUR",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 92352000000.0,
+    "operatingIncome": 3082000000.0,
+    "netIncome": 2264000000.0,
+    "eps": 2.5,
+    "freeCashFlow": 4425000000.0,
+    "totalDebt": 18403000000.0,
+    "cash": 3547000000.0,
+    "sharesOutstanding": 886877259.0,
+    "peRatio": 14.353174,
+    "priceToBook": 2.1534889,
+    "dividendYield": 4.04
+  },
+  "ratios": {
+    "roe": 0.15949277914758717,
+    "roic": 0.09454567764893551,
+    "grossMargin": 0.2654409216909217,
+    "operatingMargin": 0.033372314622314624,
+    "netMargin": 0.024514899514899515,
+    "debtToEquity": 1.31305
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 86984000000.0,
+      "operatingIncome": 3105000000.0,
+      "netIncome": 2546000000.0,
+      "eps": 2.54,
+      "freeCashFlow": 3620000000.0,
+      "totalDebt": 17640000000.0,
+      "cash": 3054000000.0,
+      "sharesOutstanding": 993724954.0,
+      "grossMargin": 0.26780787271222295,
+      "operatingMargin": 0.03569621999448174,
+      "netMargin": 0.029269750758760232,
+      "roe": 0.1652710159039273,
+      "roic": 0.09396277802995914
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 88734000000.0,
+      "operatingIncome": 2432000000.0,
+      "netIncome": 1874000000.0,
+      "eps": 1.94,
+      "freeCashFlow": 4032000000.0,
+      "totalDebt": 17766000000.0,
+      "cash": 3474000000.0,
+      "sharesOutstanding": 946013323.0,
+      "grossMargin": 0.2688259291815989,
+      "operatingMargin": 0.02740775801834697,
+      "netMargin": 0.021119300380913742,
+      "roe": 0.1270077939681464,
+      "roic": 0.07478244826419851
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 89357000000.0,
+      "operatingIncome": 2352000000.0,
+      "netIncome": 1764000000.0,
+      "eps": 1.89,
+      "freeCashFlow": 3925000000.0,
+      "totalDebt": 20315000000.0,
+      "cash": 6157000000.0,
+      "sharesOutstanding": 913583817.0,
+      "grossMargin": 0.2664144946674575,
+      "operatingMargin": 0.02632138500621104,
+      "netMargin": 0.01974103875465828,
+      "roe": 0.11414520512488677,
+      "roic": 0.06575526293718024
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 92352000000.0,
+      "operatingIncome": 3082000000.0,
+      "netIncome": 2264000000.0,
+      "eps": 2.5,
+      "freeCashFlow": 4425000000.0,
+      "totalDebt": 18403000000.0,
+      "cash": 3547000000.0,
+      "sharesOutstanding": 886877259.0,
+      "grossMargin": 0.2654409216909217,
+      "operatingMargin": 0.033372314622314624,
+      "netMargin": 0.024514899514899515,
+      "roe": 0.15949277914758717,
+      "roic": 0.09454567764893551
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:46.042059+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-nl",
+    "large-cap"
+  ]
+}

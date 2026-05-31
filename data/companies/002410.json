@@ -1,0 +1,121 @@
+{
+  "ticker": "002410",
+  "name": "Glodon Company Limited",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "currency": "CNY",
+  "website": "https://www.glodon.com",
+  "marketCap": {
+    "value": 16354247680.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 9.9,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 6097323585.28,
+    "operatingIncome": 660117121.05,
+    "netIncome": 405114040.23,
+    "eps": 0.2461,
+    "freeCashFlow": 745060126.0799999,
+    "totalDebt": 80001838.58,
+    "cash": 4051796971.48,
+    "sharesOutstanding": 1651944342.0,
+    "peRatio": 39.6,
+    "priceToBook": 2.6699028,
+    "dividendYield": 2.32
+  },
+  "ratios": {
+    "roe": 0.06698113229682313,
+    "roic": 0.10771824088514055,
+    "grossMargin": 0.8594925606788739,
+    "operatingMargin": 0.10826342276529945,
+    "netMargin": 0.06644128929093017,
+    "debtToEquity": 0.01328
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 6590835842.4,
+      "operatingIncome": 1119576313.66,
+      "netIncome": 967170402.7,
+      "eps": 0.5857,
+      "freeCashFlow": 798092143.0500001,
+      "totalDebt": 125981372.11,
+      "cash": 4344497494.78,
+      "sharesOutstanding": 1667817575.0,
+      "grossMargin": 0.8294871814967297,
+      "operatingMargin": 0.16986863888455087,
+      "netMargin": 0.14674472643940298,
+      "roe": 0.1532328749967244,
+      "roic": 0.1739080223579462
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 6563363463.64,
+      "operatingIncome": 324709464.28,
+      "netIncome": 115837537.09,
+      "eps": 0.07,
+      "freeCashFlow": 25882602.19999993,
+      "totalDebt": 92571233.54,
+      "cash": 3696819890.17,
+      "sharesOutstanding": 1664869506.0,
+      "grossMargin": 0.826194367343882,
+      "operatingMargin": 0.04947302798006529,
+      "netMargin": 0.017649112034054143,
+      "roe": 0.01969173233472725,
+      "roic": 0.05434360665304773
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 6239623546.78,
+      "operatingIncome": 441573569.04,
+      "netIncome": 250424298.94,
+      "eps": 0.1513,
+      "freeCashFlow": 756453714.4099998,
+      "totalDebt": 60565471.37,
+      "cash": 3905302411.51,
+      "sharesOutstanding": 1651944342.0,
+      "grossMargin": 0.8442501452012254,
+      "operatingMargin": 0.0707692644803671,
+      "netMargin": 0.040134520466260044,
+      "roe": 0.04202314250160574,
+      "roic": 0.07335395238149073
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 6097323585.28,
+      "operatingIncome": 660117121.05,
+      "netIncome": 405114040.23,
+      "eps": 0.2461,
+      "freeCashFlow": 745060126.0799999,
+      "totalDebt": 80001838.58,
+      "cash": 4051796971.48,
+      "sharesOutstanding": 1651944342.0,
+      "grossMargin": 0.8594925606788739,
+      "operatingMargin": 0.10826342276529945,
+      "netMargin": 0.06644128929093017,
+      "roe": 0.06698113229682313,
+      "roic": 0.10771824088514055
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:22.483731+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "mid-cap",
+    "software",
+    "tech"
+  ]
+}

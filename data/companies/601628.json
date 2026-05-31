@@ -1,0 +1,138 @@
+{
+  "ticker": "601628",
+  "name": "China Life Insurance Company Limited",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "currency": "CNY",
+  "website": "https://www.e-chinalife.com",
+  "marketCap": {
+    "value": 956195012608.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 33.83,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 605114000000.0,
+    "operatingIncome": null,
+    "netIncome": 154078000000.0,
+    "eps": 5.45,
+    "freeCashFlow": 456869000000.0,
+    "totalDebt": 36790000000.0,
+    "cash": 143319000000.0,
+    "sharesOutstanding": 28264705000.0,
+    "peRatio": 6.6074224,
+    "priceToBook": 1.5983181,
+    "dividendYield": 2.53
+  },
+  "ratios": {
+    "roe": 0.25886543291807024,
+    "roic": null,
+    "grossMargin": 0.56923,
+    "operatingMargin": 0.38050997,
+    "netMargin": 0.2546264009756839,
+    "debtToEquity": 0.45078
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 822305000000.0,
+      "operatingIncome": null,
+      "netIncome": 32082000000.0,
+      "eps": 1.14,
+      "freeCashFlow": 348892000000.0,
+      "totalDebt": 49340000000.0,
+      "cash": 128953000000.0,
+      "sharesOutstanding": 28264705000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.03901472081526927,
+      "roe": 0.07355405817469834,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 396474000000.0,
+      "operatingIncome": null,
+      "netIncome": 51184000000.0,
+      "eps": 1.81,
+      "freeCashFlow": 380195000000.0,
+      "totalDebt": 48973000000.0,
+      "cash": 150520000000.0,
+      "sharesOutstanding": 28264705000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.12909799885995046,
+      "roe": 0.15615161203719521,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 302921000000.0,
+      "operatingIncome": null,
+      "netIncome": 106935000000.0,
+      "eps": 3.78,
+      "freeCashFlow": 374816000000.0,
+      "totalDebt": 49270000000.0,
+      "cash": 86519000000.0,
+      "sharesOutstanding": 28264705000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3530128317284044,
+      "roe": 0.20981017314955608,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 605114000000.0,
+      "operatingIncome": null,
+      "netIncome": 154078000000.0,
+      "eps": 5.45,
+      "freeCashFlow": 456869000000.0,
+      "totalDebt": 36790000000.0,
+      "cash": 143319000000.0,
+      "sharesOutstanding": 28264705000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2546264009756839,
+      "roe": 0.25886543291807024,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:43.451056+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "insurance",
+    "large-cap"
+  ]
+}

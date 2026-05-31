@@ -1,0 +1,138 @@
+{
+  "ticker": "ZURN",
+  "name": "Zurich Insurance Group AG",
+  "country": "CH",
+  "exchange": "XSWX",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "currency": "USD",
+  "website": "https://www.zurich.com",
+  "marketCap": {
+    "value": 83198681088.0,
+    "currency": "CHF",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 557.0,
+    "currency": "CHF",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 88670000000.0,
+    "operatingIncome": null,
+    "netIncome": 6798000000.0,
+    "eps": 47.2,
+    "freeCashFlow": 5423000000.0,
+    "totalDebt": 15681000000.0,
+    "cash": 7086000000.0,
+    "sharesOutstanding": 146355754.0,
+    "peRatio": 14.969094,
+    "priceToBook": 3.4835672,
+    "dividendYield": 5.39
+  },
+  "ratios": {
+    "roe": 0.238400841662283,
+    "roic": null,
+    "grossMargin": 0.23815,
+    "operatingMargin": 0.14896,
+    "netMargin": 0.07666629074094959,
+    "debtToEquity": 0.5881799999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 44763000000.0,
+      "operatingIncome": null,
+      "netIncome": 3964000000.0,
+      "eps": 26.5,
+      "freeCashFlow": 4507000000.0,
+      "totalDebt": 15715000000.0,
+      "cash": 7560000000.0,
+      "sharesOutstanding": 150460167.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.08855528003038224,
+      "roe": 0.15434333995249777,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 78098000000.0,
+      "operatingIncome": null,
+      "netIncome": 4351000000.0,
+      "eps": 29.73,
+      "freeCashFlow": 6927000000.0,
+      "totalDebt": 15455000000.0,
+      "cash": 7280000000.0,
+      "sharesOutstanding": 146355754.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.05571205408589208,
+      "roe": 0.1750201126307321,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 86046000000.0,
+      "operatingIncome": null,
+      "netIncome": 5814000000.0,
+      "eps": 40.15,
+      "freeCashFlow": 7233000000.0,
+      "totalDebt": 14428000000.0,
+      "cash": 6768000000.0,
+      "sharesOutstanding": 146355754.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.06756850986681542,
+      "roe": 0.22825062814070352,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 88670000000.0,
+      "operatingIncome": null,
+      "netIncome": 6798000000.0,
+      "eps": 47.2,
+      "freeCashFlow": 5423000000.0,
+      "totalDebt": 15681000000.0,
+      "cash": 7086000000.0,
+      "sharesOutstanding": 146355754.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.07666629074094959,
+      "roe": 0.238400841662283,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:03.883079+00:00"
+  },
+  "tags": [
+    "country-ch",
+    "financials",
+    "insurance",
+    "large-cap"
+  ]
+}

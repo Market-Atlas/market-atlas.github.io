@@ -1,0 +1,137 @@
+{
+  "ticker": "000725",
+  "name": "BOE Technology Group Company Limited",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "currency": "CNY",
+  "website": "https://www.boe.com",
+  "marketCap": {
+    "value": 189296508928.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 5.11,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 204590222888.0,
+    "operatingIncome": 11572420146.0,
+    "netIncome": 5856966754.0,
+    "eps": 0.16,
+    "freeCashFlow": 8730174679.0,
+    "totalDebt": 143558438547.0,
+    "cash": 72222940175.0,
+    "sharesOutstanding": 37413880464.0,
+    "peRatio": 30.058825,
+    "priceToBook": 1.3908547,
+    "dividendYield": 0.98
+  },
+  "ratios": {
+    "roe": 0.04355314153633519,
+    "roic": 0.04162186091291016,
+    "grossMargin": 0.15635243182911762,
+    "operatingMargin": 0.05656389627345563,
+    "netMargin": 0.028627793993881677,
+    "debtToEquity": 0.6895399999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 178413731179.0,
+      "operatingIncome": 3511827032.0,
+      "netIncome": 7541423198.0,
+      "eps": 0.19,
+      "freeCashFlow": 13623722260.0,
+      "totalDebt": 148759755315.0,
+      "cash": 68800307369.0,
+      "sharesOutstanding": 38196363421.0,
+      "grossMargin": 0.11704909083510065,
+      "operatingMargin": 0.019683614085042777,
+      "netMargin": 0.042269298154152694,
+      "roe": 0.055416526966791654,
+      "roic": 0.012328865031005776
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 174543445895.0,
+      "operatingIncome": 3978412986.0,
+      "netIncome": 2547435360.0,
+      "eps": 0.06,
+      "freeCashFlow": 13494030823.0,
+      "totalDebt": 148271692494.0,
+      "cash": 72467392718.0,
+      "sharesOutstanding": 37652529195.0,
+      "grossMargin": 0.1149844140872145,
+      "operatingMargin": 0.022793253367951103,
+      "netMargin": 0.014594849705972112,
+      "roe": 0.01968221185711169,
+      "roic": 0.014326298135719282
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 198380605661.0,
+      "operatingIncome": 9813710745.0,
+      "netIncome": 5323248974.0,
+      "eps": 0.14,
+      "freeCashFlow": 13699778951.0,
+      "totalDebt": 146633667503.0,
+      "cash": 74252625215.0,
+      "sharesOutstanding": 37645016203.0,
+      "grossMargin": 0.1520242162156527,
+      "operatingMargin": 0.04946910365708847,
+      "netMargin": 0.026833515082097095,
+      "roe": 0.040043229030853514,
+      "roic": 0.0351027213971676
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 204590222888.0,
+      "operatingIncome": 11572420146.0,
+      "netIncome": 5856966754.0,
+      "eps": 0.16,
+      "freeCashFlow": 8730174679.0,
+      "totalDebt": 143558438547.0,
+      "cash": 72222940175.0,
+      "sharesOutstanding": 37413880464.0,
+      "grossMargin": 0.15635243182911762,
+      "operatingMargin": 0.05656389627345563,
+      "netMargin": 0.028627793993881677,
+      "roe": 0.04355314153633519,
+      "roic": 0.04162186091291016
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:10.470469+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "large-cap",
+    "tech"
+  ]
+}

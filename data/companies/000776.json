@@ -1,0 +1,137 @@
+{
+  "ticker": "000776",
+  "name": "GF Securities Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHE",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.gf.com.cn",
+  "marketCap": {
+    "value": 147811319808.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 18.89,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 34093221689.51,
+    "operatingIncome": null,
+    "netIncome": 13701548267.44,
+    "eps": 1.68,
+    "freeCashFlow": -28508226538.7,
+    "totalDebt": 255488333374.23,
+    "cash": 423209621163.96,
+    "sharesOutstanding": 7605845511.0,
+    "peRatio": 9.787564,
+    "priceToBook": 1.0723206,
+    "dividendYield": 2.65
+  },
+  "ratios": {
+    "roe": 0.08776771566144925,
+    "roic": null,
+    "grossMargin": 0.55689996,
+    "operatingMargin": 0.55008,
+    "netMargin": 0.4018848201622369,
+    "debtToEquity": 2.9043099999999997
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 24196447723.98,
+      "operatingIncome": null,
+      "netIncome": 7929282812.63,
+      "eps": 1.02,
+      "freeCashFlow": 49303975543.61,
+      "totalDebt": 177611979911.9,
+      "cash": 260022006892.76,
+      "sharesOutstanding": 7621087664.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.3277044177344945,
+      "roe": 0.06599726207564505,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 22575397666.16,
+      "operatingIncome": null,
+      "netIncome": 6977799497.16,
+      "eps": 0.83,
+      "freeCashFlow": -9860454039.8,
+      "totalDebt": 179405018729.19,
+      "cash": 265686298719.48,
+      "sharesOutstanding": 7621087664.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.30908866370135135,
+      "roe": 0.05141409099456419,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 25629062726.78,
+      "operatingIncome": null,
+      "netIncome": 9636829949.09,
+      "eps": 1.15,
+      "freeCashFlow": 9235008431.31,
+      "totalDebt": 195204203450.94,
+      "cash": 336205785709.7,
+      "sharesOutstanding": 7621087664.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.37601179769326504,
+      "roe": 0.06528932863521089,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 34093221689.51,
+      "operatingIncome": null,
+      "netIncome": 13701548267.44,
+      "eps": 1.68,
+      "freeCashFlow": -28508226538.7,
+      "totalDebt": 255488333374.23,
+      "cash": 423209621163.96,
+      "sharesOutstanding": 7605845511.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4018848201622369,
+      "roe": 0.08776771566144925,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:11.498176+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "large-cap"
+  ]
+}

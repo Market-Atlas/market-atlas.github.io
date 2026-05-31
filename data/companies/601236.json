@@ -1,0 +1,120 @@
+{
+  "ticker": "601236",
+  "name": "Hongta Securities Co., Ltd.",
+  "country": "CN",
+  "exchange": "XSHG",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "currency": "CNY",
+  "website": "https://www.hongtastock.com",
+  "marketCap": {
+    "value": 32357165056.0,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 6.86,
+    "currency": "CNY",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 2433518188.24,
+    "operatingIncome": null,
+    "netIncome": 1213553521.29,
+    "eps": 0.26,
+    "freeCashFlow": -1133394873.25,
+    "totalDebt": 15382202272.04,
+    "cash": 13488890306.37,
+    "sharesOutstanding": 4716787742.0,
+    "peRatio": 28.583334,
+    "priceToBook": 1.3141763,
+    "dividendYield": 3.06
+  },
+  "ratios": {
+    "roe": 0.04809704207286622,
+    "roic": null,
+    "grossMargin": 0.61912996,
+    "operatingMargin": 0.51717997,
+    "netMargin": 0.4986827413719401,
+    "debtToEquity": 0.98969
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 834390212.87,
+      "operatingIncome": null,
+      "netIncome": 38525064.57,
+      "eps": 0.01,
+      "freeCashFlow": 1784340048.91,
+      "totalDebt": 3800112100.12,
+      "cash": 13554091559.11,
+      "sharesOutstanding": 4716787742.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.04617152020214587,
+      "roe": 0.0016843279099186424,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 1201219873.16,
+      "operatingIncome": null,
+      "netIncome": 312273727.94,
+      "eps": 0.07,
+      "freeCashFlow": -4065339639.62,
+      "totalDebt": 7554168607.98,
+      "cash": 8890492822.09,
+      "sharesOutstanding": 4716787742.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.2599638375266921,
+      "roe": 0.013520022490657129,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 1766833342.79,
+      "operatingIncome": null,
+      "netIncome": 764018203.05,
+      "eps": 0.16,
+      "freeCashFlow": 1446554180.3600001,
+      "totalDebt": 12002510636.9,
+      "cash": 11772121215.36,
+      "sharesOutstanding": 4716787742.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.43242233692711596,
+      "roe": 0.03128668442623065,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 2433518188.24,
+      "operatingIncome": null,
+      "netIncome": 1213553521.29,
+      "eps": 0.26,
+      "freeCashFlow": -1133394873.25,
+      "totalDebt": 15382202272.04,
+      "cash": 13488890306.37,
+      "sharesOutstanding": 4716787742.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.4986827413719401,
+      "roe": 0.04809704207286622,
+      "roic": null
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:34:10.697641+00:00"
+  },
+  "tags": [
+    "country-cn",
+    "financials",
+    "mid-cap"
+  ]
+}

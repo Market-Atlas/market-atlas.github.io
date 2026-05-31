@@ -1,0 +1,137 @@
+{
+  "ticker": "WOW",
+  "name": "Woolworths Group Limited",
+  "country": "AU",
+  "exchange": "XASX",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "currency": "AUD",
+  "website": "https://www.woolworthsgroup.com.au",
+  "marketCap": {
+    "value": 43036942336.0,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 35.23,
+    "currency": "AUD",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 69077000000.0,
+    "operatingIncome": -1041000000.0,
+    "netIncome": 963000000.0,
+    "eps": 0.784,
+    "freeCashFlow": null,
+    "totalDebt": 17385000000.0,
+    "cash": 1275000000.0,
+    "sharesOutstanding": 1221595333.0,
+    "peRatio": 71.89796,
+    "priceToBook": 9.285714,
+    "dividendYield": 2.55
+  },
+  "ratios": {
+    "roe": 0.19814814814814816,
+    "roic": -0.04679703304113284,
+    "grossMargin": 0.27237720225255874,
+    "operatingMargin": -0.015070139120112338,
+    "netMargin": 0.013940964430997294,
+    "debtToEquity": 3.6152999999999995
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "revenue": 60849000000.0,
+      "operatingIncome": 33000000.0,
+      "netIncome": 7934000000.0,
+      "eps": 6.448,
+      "freeCashFlow": null,
+      "totalDebt": 16763000000.0,
+      "cash": 1032000000.0,
+      "sharesOutstanding": 1213902476.0,
+      "grossMargin": 0.2965044618646157,
+      "operatingMargin": 0.0005423260858847311,
+      "netMargin": 0.1303883383457411,
+      "roe": 1.3267558528428094,
+      "roic": 0.0014509959108297058
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "revenue": 64294000000.0,
+      "operatingIncome": 413000000.0,
+      "netIncome": 1618000000.0,
+      "eps": 1.323,
+      "freeCashFlow": null,
+      "totalDebt": 15735000000.0,
+      "cash": 1135000000.0,
+      "sharesOutstanding": 1218702058.0,
+      "grossMargin": 0.2671477898404206,
+      "operatingMargin": 0.00642361651164961,
+      "netMargin": 0.02516564531682583,
+      "roe": 0.25182879377431905,
+      "roic": 0.018637184115523467
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "revenue": 67922000000.0,
+      "operatingIncome": -1146000000.0,
+      "netIncome": 108000000.0,
+      "eps": 0.089,
+      "freeCashFlow": null,
+      "totalDebt": 16722000000.0,
+      "cash": 1298000000.0,
+      "sharesOutstanding": 1221588831.0,
+      "grossMargin": 0.2731368334265775,
+      "operatingMargin": -0.016872294690969052,
+      "netMargin": 0.0015900591855363506,
+      "roe": 0.019970414201183433,
+      "roic": -0.0517849073655671
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "revenue": 69077000000.0,
+      "operatingIncome": -1041000000.0,
+      "netIncome": 963000000.0,
+      "eps": 0.784,
+      "freeCashFlow": null,
+      "totalDebt": 17385000000.0,
+      "cash": 1275000000.0,
+      "sharesOutstanding": 1221595333.0,
+      "grossMargin": 0.27237720225255874,
+      "operatingMargin": -0.015070139120112338,
+      "netMargin": 0.013940964430997294,
+      "roe": 0.19814814814814816,
+      "roic": -0.04679703304113284
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:33:03.316329+00:00"
+  },
+  "tags": [
+    "consumer-defensive",
+    "country-au",
+    "large-cap"
+  ]
+}

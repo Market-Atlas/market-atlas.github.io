@@ -1,0 +1,138 @@
+{
+  "ticker": "005380",
+  "name": "Hyundai Motor Company",
+  "country": "KR",
+  "exchange": "XKRX",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "currency": "KRW",
+  "website": "https://www.hyundai.com/worldwide/en/",
+  "marketCap": {
+    "value": 189306035503104.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "price": {
+    "value": 723000.0,
+    "currency": "KRW",
+    "asOf": "2026-05-31"
+  },
+  "fundamentals": {
+    "revenue": 186254472000000.0,
+    "operatingIncome": 11467851000000.0,
+    "netIncome": 9445987000000.0,
+    "eps": 36088.0,
+    "freeCashFlow": -17061126000000.0,
+    "totalDebt": 176514918000000.0,
+    "cash": 18360566000000.0,
+    "sharesOutstanding": 265390108.0,
+    "peRatio": 14.605555,
+    "priceToBook": null,
+    "dividendYield": 1.38
+  },
+  "ratios": {
+    "roe": 0.08182133219500526,
+    "roic": 0.03927865128072998,
+    "grossMargin": 0.18371014468849908,
+    "operatingMargin": 0.061570876000228335,
+    "netMargin": 0.050715491008452136,
+    "debtToEquity": 1.3951099999999999
+  },
+  "historicalFinancials": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "eps": null,
+      "freeCashFlow": null,
+      "totalDebt": null,
+      "cash": null,
+      "sharesOutstanding": null,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": null,
+      "roe": null,
+      "roic": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "revenue": 142151469000000.0,
+      "operatingIncome": 9824928000000.0,
+      "netIncome": 7364364000000.0,
+      "eps": 28521.0,
+      "freeCashFlow": 4893609000000.0,
+      "totalDebt": 113296624000000.0,
+      "cash": 20864879000000.0,
+      "sharesOutstanding": 213668187.0,
+      "grossMargin": 0.19888573926731634,
+      "operatingMargin": 0.06911590903080994,
+      "netMargin": 0.05180645723752598,
+      "roe": 0.08942838812921355,
+      "roic": 0.05021790616416205
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "revenue": 162663579000000.0,
+      "operatingIncome": 15126901000000.0,
+      "netIncome": 11961717000000.0,
+      "eps": 45703.0,
+      "freeCashFlow": -11369941000000.0,
+      "totalDebt": 125806361000000.0,
+      "cash": 19166619000000.0,
+      "sharesOutstanding": 211531506.0,
+      "grossMargin": 0.20585060408636405,
+      "operatingMargin": 0.09299500904255893,
+      "netMargin": 0.07353654132988184,
+      "roe": 0.12931961881572968,
+      "roic": 0.06929292971306501
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "revenue": 175231153000000.0,
+      "operatingIncome": 14239592000000.0,
+      "netIncome": 12526691000000.0,
+      "eps": 47615.0,
+      "freeCashFlow": -16029096000000.0,
+      "totalDebt": 157751465000000.0,
+      "cash": 19014944000000.0,
+      "sharesOutstanding": 211416451.0,
+      "grossMargin": 0.20401170903669166,
+      "operatingMargin": 0.08126176057290452,
+      "netMargin": 0.07148666652898186,
+      "roe": 0.1148148566371874,
+      "roic": 0.05336081134110717
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "revenue": 186254472000000.0,
+      "operatingIncome": 11467851000000.0,
+      "netIncome": 9445987000000.0,
+      "eps": 36088.0,
+      "freeCashFlow": -17061126000000.0,
+      "totalDebt": 176514918000000.0,
+      "cash": 18360566000000.0,
+      "sharesOutstanding": 265390108.0,
+      "grossMargin": 0.18371014468849908,
+      "operatingMargin": 0.061570876000228335,
+      "netMargin": 0.050715491008452136,
+      "roe": 0.08182133219500526,
+      "roic": 0.03927865128072998
+    }
+  ],
+  "meta": {
+    "source": "yfinance",
+    "lastUpdated": "2026-05-31T07:32:36.541287+00:00"
+  },
+  "tags": [
+    "automakers",
+    "consumer-cyclical",
+    "country-kr",
+    "large-cap"
+  ]
+}
