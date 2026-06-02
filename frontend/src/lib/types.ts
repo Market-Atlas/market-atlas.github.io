@@ -40,6 +40,9 @@ export interface HistoricalYear extends Partial<Fundamentals>, Partial<Ratios> {
   financingCashFlow?: number | null;
   capex?: number | null;
   dividendsPaid?: number | null;
+  stockBuyback?: number | null;
+  debtIssued?: number | null;
+  debtRepaid?: number | null;
   interestExpense?: number | null;
   depreciation?: number | null;
   taxProvision?: number | null;
@@ -48,6 +51,18 @@ export interface HistoricalYear extends Partial<Fundamentals>, Partial<Ratios> {
   inventory?: number | null;
   accountsPayable?: number | null;
 }
+
+// Shape of /data/sector-stats.json — median + best per metric per sector.
+export interface SectorMetricStat {
+  median: number;
+  best: number;
+  bestTicker: string;
+}
+export interface SectorStats {
+  count: number;
+  metrics: Record<string, SectorMetricStat>;
+}
+export type SectorStatsMap = Record<string, SectorStats>;
 
 export interface QuarterlyRow {
   periodEnd: string;

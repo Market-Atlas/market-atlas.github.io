@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import math
 import re
 from typing import Any
 
@@ -17,7 +18,9 @@ from .paths import (
 
 PEERS_PATH = DATA_DIR / "peers.json"
 TAGS_PATH  = DATA_DIR / "tags.json"
-CATEGORIES_PATH = DATA_DIR / "categories.json"
+CATEGORIES_PATH  = DATA_DIR / "categories.json"
+SECTOR_STATS_PATH = DATA_DIR / "sector-stats.json"
+SIMILAR_PATH      = DATA_DIR / "similar.json"
 
 
 # Human labels + display order for the Rankings category nav.
@@ -334,6 +337,119 @@ def _dedupe_listings(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
+# ── Sector statistics & similar-stocks helpers ────────────────────────────────
+
+# Metrics surfaced in the peer-comparison matrix on the company page.
+# Per-sector median + best are precomputed at build time.
+_SECTOR_METRICS = (
+    "roe", "roic", "operatingMargin", "netMargin", "grossMargin",
+    "debtToEquity", "pe", "fcfYield", "revenueCagr", "fcfCagr",
+)
+
+# Direction = "high" → bigger is better; "low" → smaller is better.
+# Drives both color-coding and "best" selection.
+_METRIC_DIR = {
+    "roe": "high", "roic": "high",
+    "operatingMargin": "high", "netMargin": "high", "grossMargin": "high",
+    "debtToEquity": "low", "pe": "low",
+    "fcfYield": "high", "revenueCagr": "high", "fcfCagr": "high",
+}
+
+
+def _median(xs: list[float]) -> float | None:
+    xs = sorted(x for x in xs if x is not None and isinstance(x, (int, float)))
+    if not xs:
+        return None
+    n = len(xs)
+    mid = n // 2
+    return xs[mid] if n % 2 else (xs[mid - 1] + xs[mid]) / 2
+
+
+def _compute_sector_stats(screener: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    """Group rows by sector, return median + best per metric.
+
+    Shape:
+      { "Technology": {
+          "count": 153,
+          "metrics": { "roe": {"median": 0.18, "best": 0.71, "bestTicker": "AAPL"}, ... }
+      }, ... }
+    """
+    buckets: dict[str, list[dict[str, Any]]] = {}
+    for row in screener:
+        sec = row.get("sector")
+        if not sec:
+            continue
+        buckets.setdefault(sec, []).append(row)
+
+    out: dict[str, dict[str, Any]] = {}
+    for sec, rows in buckets.items():
+        metrics: dict[str, dict[str, Any]] = {}
+        for m in _SECTOR_METRICS:
+            vals = [(r.get(m), r["ticker"]) for r in rows if r.get(m) is not None]
+            if not vals:
+                continue
+            nums = [v for v, _ in vals]
+            med = _median(nums)
+            if _METRIC_DIR[m] == "high":
+                best_val, best_ticker = max(vals, key=lambda p: p[0])
+            else:
+                # For "low is better" metrics, ignore non-positive values where
+                # they're nonsensical (e.g. negative P/E from loss-making firms).
+                pos = [(v, t) for v, t in vals if v > 0]
+                if not pos:
+                    continue
+                best_val, best_ticker = min(pos, key=lambda p: p[0])
+            metrics[m] = {
+                "median":     med,
+                "best":       best_val,
+                "bestTicker": best_ticker,
+            }
+        out[sec] = {"count": len(rows), "metrics": metrics}
+    return out
+
+
+def _compute_similar(
+    screener: list[dict[str, Any]], k: int = 6,
+) -> dict[str, list[str]]:
+    """Precompute nearest-neighbour tickers per row.
+
+    Distance metric is intentionally crude: same sector + similar mcap bucket
+    + similar ROIC + similar revenue-CAGR. Good enough for a "you may also
+    like" strip without dragging in numpy/scikit-learn at build time.
+    """
+    def feat(r: dict[str, Any]) -> tuple[float, float, float] | None:
+        mcap = r.get("marketCapUsd") or r.get("marketCap")
+        if not mcap:
+            return None
+        return (
+            math.log10(max(mcap, 1.0)),
+            float(r.get("roic")        or 0.0),
+            float(r.get("revenueCagr") or 0.0),
+        )
+
+    indexed = []
+    for r in screener:
+        f = feat(r)
+        if f is None:
+            continue
+        indexed.append((r, f))
+
+    out: dict[str, list[str]] = {}
+    for row, fa in indexed:
+        candidates = []
+        for other, fb in indexed:
+            if other["ticker"] == row["ticker"]:
+                continue
+            if other.get("sector") != row.get("sector"):
+                continue
+            # Lower distance = more similar. Mcap is on log scale already.
+            d = ((fa[0] - fb[0]) * 2) ** 2 + (fa[1] - fb[1]) ** 2 + (fa[2] - fb[2]) ** 2
+            candidates.append((d, other["ticker"]))
+        candidates.sort()
+        out[row["ticker"]] = [t for _, t in candidates[:k]]
+    return out
+
+
 def write_artifacts() -> None:
     SEARCH_INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
 
@@ -390,3 +506,16 @@ def write_artifacts() -> None:
         })
     with open(CATEGORIES_PATH, "w", encoding="utf-8") as f:
         json.dump(categories, f, ensure_ascii=False, indent=2)
+
+    # Sector statistics: median + best for each metric, grouped by sector.
+    # Drives the "Peer Comparison Matrix" card on the company page.
+    sector_stats = _compute_sector_stats(screener)
+    with open(SECTOR_STATS_PATH, "w", encoding="utf-8") as f:
+        json.dump(sector_stats, f, ensure_ascii=False, indent=2)
+
+    # Similar stocks index: precomputed nearest-neighbours per ticker so the
+    # company page can render a "You may also like" strip without rebuilding
+    # the whole dataset client-side. ~6 picks per ticker, ~80KB total.
+    similar = _compute_similar(screener)
+    with open(SIMILAR_PATH, "w", encoding="utf-8") as f:
+        json.dump(similar, f, ensure_ascii=False, indent=2)

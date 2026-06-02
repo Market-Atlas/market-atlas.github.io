@@ -1,0 +1,607 @@
+{
+  "Financial Services": {
+    "count": 298,
+    "metrics": {
+      "roe": {
+        "median": 0.12270005838574913,
+        "best": 1.9345999741501874,
+        "bestTicker": "MA"
+      },
+      "roic": {
+        "median": 0.10741770244394416,
+        "best": 1.6330360460795244,
+        "bestTicker": "IBKR"
+      },
+      "operatingMargin": {
+        "median": 0.38747999,
+        "best": 1.1794,
+        "bestTicker": "IFCI"
+      },
+      "netMargin": {
+        "median": 0.25633464143899987,
+        "best": 1.1671869439807434,
+        "bestTicker": "HUDCO"
+      },
+      "grossMargin": {
+        "median": 0.28229999,
+        "best": 1.0533,
+        "bestTicker": "601059"
+      },
+      "debtToEquity": {
+        "median": 0.98969,
+        "best": 0.00012,
+        "bestTicker": "BAJAJHLDNG"
+      },
+      "pe": {
+        "median": 14.443123,
+        "best": 3.7612226,
+        "bestTicker": "PSH"
+      },
+      "fcfYield": {
+        "median": 0.041877429681790285,
+        "best": 3.462700579583509,
+        "bestTicker": "601169"
+      },
+      "revenueCagr": {
+        "median": 0.09945412845926427,
+        "best": 4.073845023305328,
+        "bestTicker": "JIOFIN"
+      },
+      "fcfCagr": {
+        "median": 0.06828422535887102,
+        "best": 66.21113251887856,
+        "bestTicker": "300059"
+      }
+    }
+  },
+  "Real Estate": {
+    "count": 69,
+    "metrics": {
+      "roe": {
+        "median": 0.06256875646722969,
+        "best": 0.8885126495026754,
+        "bestTicker": "SPG"
+      },
+      "roic": {
+        "median": 0.043459602723657786,
+        "best": 0.2886045429538393,
+        "bestTicker": "1209"
+      },
+      "operatingMargin": {
+        "median": 0.2209626815078752,
+        "best": 0.9193345097050668,
+        "bestTicker": "LMP"
+      },
+      "netMargin": {
+        "median": 0.18412255797454227,
+        "best": 0.8769851273002268,
+        "bestTicker": "LMP"
+      },
+      "grossMargin": {
+        "median": 0.5539220690327601,
+        "best": 0.993327701943728,
+        "bestTicker": "VICI"
+      },
+      "debtToEquity": {
+        "median": 0.8044,
+        "best": 0.006730000000000001,
+        "bestTicker": "DLF"
+      },
+      "pe": {
+        "median": 26.324,
+        "best": 1.6214286,
+        "bestTicker": "2007"
+      },
+      "fcfYield": {
+        "median": 0.03935482546666501,
+        "best": 0.39759949039433823,
+        "bestTicker": "0960"
+      },
+      "revenueCagr": {
+        "median": 0.0771182729491533,
+        "best": 0.447310053188007,
+        "bestTicker": "VICI"
+      },
+      "fcfCagr": {
+        "median": 0.10272863496844664,
+        "best": 2.5732228754676645,
+        "bestTicker": "ABREL"
+      }
+    }
+  },
+  "Technology": {
+    "count": 227,
+    "metrics": {
+      "roe": {
+        "median": 0.13500448839215368,
+        "best": 4.0678754067875404,
+        "bestTicker": "GDDY"
+      },
+      "roic": {
+        "median": 0.12828598914336542,
+        "best": 0.9332527531560569,
+        "bestTicker": "FTNT"
+      },
+      "operatingMargin": {
+        "median": 0.14797160354187358,
+        "best": 0.6766871906314137,
+        "bestTicker": "VRSN"
+      },
+      "netMargin": {
+        "median": 0.10832583472478038,
+        "best": 0.5560253406070261,
+        "bestTicker": "NVDA"
+      },
+      "grossMargin": {
+        "median": 0.3937892286557561,
+        "best": 0.9754065040650407,
+        "bestTicker": "ARM"
+      },
+      "debtToEquity": {
+        "median": 0.27607000000000004,
+        "best": 0.00079,
+        "bestTicker": "300628"
+      },
+      "pe": {
+        "median": 37.743461499999995,
+        "best": 6.1025953,
+        "bestTicker": "000660"
+      },
+      "fcfYield": {
+        "median": 0.01779021377950277,
+        "best": 0.3116253863556231,
+        "bestTicker": "000100"
+      },
+      "revenueCagr": {
+        "median": 0.08224757277536288,
+        "best": 1.0732862897602695,
+        "bestTicker": "688256"
+      },
+      "fcfCagr": {
+        "median": 0.13488025743327625,
+        "best": 28.12057581988526,
+        "bestTicker": "688041"
+      }
+    }
+  },
+  "Consumer Cyclical": {
+    "count": 208,
+    "metrics": {
+      "roe": {
+        "median": 0.11729240950149682,
+        "best": 1.1048154218371966,
+        "bestTicker": "HD"
+      },
+      "roic": {
+        "median": 0.12927333054239856,
+        "best": 0.8280980035601521,
+        "bestTicker": "DPZ"
+      },
+      "operatingMargin": {
+        "median": 0.09984539968064246,
+        "best": 0.980678089682829,
+        "bestTicker": "PAH3"
+      },
+      "netMargin": {
+        "median": 0.07101433717647324,
+        "best": 2.0043760129659645,
+        "bestTicker": "PRX"
+      },
+      "grossMargin": {
+        "median": 0.357769500200367,
+        "best": 0.92775,
+        "bestTicker": "MEESHO"
+      },
+      "debtToEquity": {
+        "median": 0.465335,
+        "best": 0.00096,
+        "bestTicker": "MARUTI"
+      },
+      "pe": {
+        "median": 24.451547499999997,
+        "best": 3.4907305,
+        "bestTicker": "PAH3"
+      },
+      "fcfYield": {
+        "median": 0.03245960493612183,
+        "best": 0.851957477093733,
+        "bestTicker": "PDD"
+      },
+      "revenueCagr": {
+        "median": 0.09312744693531005,
+        "best": 0.9770414165813188,
+        "bestTicker": "ETERNAL"
+      },
+      "fcfCagr": {
+        "median": 0.13910717833150243,
+        "best": 4.958705385664601,
+        "bestTicker": "TSLA"
+      }
+    }
+  },
+  "Industrials": {
+    "count": 289,
+    "metrics": {
+      "roe": {
+        "median": 0.13155833895798014,
+        "best": 2.9394822006472494,
+        "bestTicker": "VRSK"
+      },
+      "roic": {
+        "median": 0.12413125778414588,
+        "best": 0.711445976274447,
+        "bestTicker": "OTIS"
+      },
+      "operatingMargin": {
+        "median": 0.1189400544239254,
+        "best": 0.5837847334935973,
+        "bestTicker": "1606"
+      },
+      "netMargin": {
+        "median": 0.09009518793408348,
+        "best": 113.60117302052785,
+        "bestTicker": "MMTC"
+      },
+      "grossMargin": {
+        "median": 0.32132981033733893,
+        "best": 0.9983470568652665,
+        "bestTicker": "1606"
+      },
+      "debtToEquity": {
+        "median": 0.46694,
+        "best": 8e-05,
+        "bestTicker": "NBCC"
+      },
+      "pe": {
+        "median": 27.988506,
+        "best": 3.970945771187994,
+        "bestTicker": "1606"
+      },
+      "fcfYield": {
+        "median": 0.02505404781183053,
+        "best": 0.36133584885244874,
+        "bestTicker": "TEP"
+      },
+      "revenueCagr": {
+        "median": 0.07639724124112912,
+        "best": 0.8188362906463913,
+        "bestTicker": "INOXWIND"
+      },
+      "fcfCagr": {
+        "median": 0.10634486579712465,
+        "best": 9.231953666787701,
+        "bestTicker": "TECHNOE"
+      }
+    }
+  },
+  "Basic Materials": {
+    "count": 150,
+    "metrics": {
+      "roe": {
+        "median": 0.1058047648526255,
+        "best": 0.6112510495382032,
+        "bestTicker": "HINDZINC"
+      },
+      "roic": {
+        "median": 0.11348597191548389,
+        "best": 0.5808276651198271,
+        "bestTicker": "HINDZINC"
+      },
+      "operatingMargin": {
+        "median": 0.12714662386189718,
+        "best": 0.7136822470923854,
+        "bestTicker": "FNV"
+      },
+      "netMargin": {
+        "median": 0.07612046546972719,
+        "best": 1.0770533121440917,
+        "bestTicker": "000408"
+      },
+      "grossMargin": {
+        "median": 0.3599338609875742,
+        "best": 0.9570663526909492,
+        "bestTicker": "IGIL"
+      },
+      "debtToEquity": {
+        "median": 0.43532499999999996,
+        "best": 0.00083,
+        "bestTicker": "WPM"
+      },
+      "pe": {
+        "median": 27.234264,
+        "best": 8.904262,
+        "bestTicker": "LYB"
+      },
+      "fcfYield": {
+        "median": 0.02212430929516789,
+        "best": 0.22808315274201807,
+        "bestTicker": "000877"
+      },
+      "revenueCagr": {
+        "median": 0.040522303270597915,
+        "best": 1.1152319524224934,
+        "bestTicker": "NSLNISP"
+      },
+      "fcfCagr": {
+        "median": 0.06167824192976412,
+        "best": 17.666548815728603,
+        "bestTicker": "600426"
+      }
+    }
+  },
+  "Healthcare": {
+    "count": 166,
+    "metrics": {
+      "roe": {
+        "median": 0.12533764157785163,
+        "best": 1.5687631816153111,
+        "bestTicker": "ASTERDM"
+      },
+      "roic": {
+        "median": 0.13234105427471726,
+        "best": 1.001862775535548,
+        "bestTicker": "MCK"
+      },
+      "operatingMargin": {
+        "median": 0.18184126040744963,
+        "best": 0.5571043854833706,
+        "bestTicker": "300896"
+      },
+      "netMargin": {
+        "median": 0.1347174679355351,
+        "best": 1.3215224774046423,
+        "bestTicker": "ASTERDM"
+      },
+      "grossMargin": {
+        "median": 0.6181099289121568,
+        "best": 1.0,
+        "bestTicker": "INDGN"
+      },
+      "debtToEquity": {
+        "median": 0.33201,
+        "best": 0.00042,
+        "bestTicker": "DIVISLAB"
+      },
+      "pe": {
+        "median": 27.2591365,
+        "best": 2.4113095,
+        "bestTicker": "CI"
+      },
+      "fcfYield": {
+        "median": 0.03150975110724106,
+        "best": 0.2369394808605725,
+        "bestTicker": "CNC"
+      },
+      "revenueCagr": {
+        "median": 0.09144531761294628,
+        "best": 2.3238042440864497,
+        "bestTicker": "ONESOURCE"
+      },
+      "fcfCagr": {
+        "median": 0.0891016859219943,
+        "best": 117.40268875148902,
+        "bestTicker": "GLENMARK"
+      }
+    }
+  },
+  "Consumer Defensive": {
+    "count": 120,
+    "metrics": {
+      "roe": {
+        "median": 0.15834782611246967,
+        "best": 39.48148148148148,
+        "bestTicker": "CL"
+      },
+      "roic": {
+        "median": 0.14964244428247414,
+        "best": 2.220631795065578,
+        "bestTicker": "600132"
+      },
+      "operatingMargin": {
+        "median": 0.1355748186602173,
+        "best": 0.6630035378033556,
+        "bestTicker": "600519"
+      },
+      "netMargin": {
+        "median": 0.08786577362211892,
+        "best": 0.47845435072550624,
+        "bestTicker": "600519"
+      },
+      "grossMargin": {
+        "median": 0.4108778291936913,
+        "best": 0.9134442518467244,
+        "bestTicker": "600519"
+      },
+      "debtToEquity": {
+        "median": 0.5332049999999999,
+        "best": 2e-05,
+        "bestTicker": "GILLETTE"
+      },
+      "pe": {
+        "median": 22.165059,
+        "best": 7.636066,
+        "bestTicker": "MKC"
+      },
+      "fcfYield": {
+        "median": 0.04587643898134293,
+        "best": 0.723862801361649,
+        "bestTicker": "FMX"
+      },
+      "revenueCagr": {
+        "median": 0.04302874990292471,
+        "best": 0.73942621039894,
+        "bestTicker": "PWL"
+      },
+      "fcfCagr": {
+        "median": 0.06872657828708206,
+        "best": 1.7378001351188668,
+        "bestTicker": "RADICO"
+      }
+    }
+  },
+  "Energy": {
+    "count": 64,
+    "metrics": {
+      "roe": {
+        "median": 0.1245165931844102,
+        "best": 0.6268131295022654,
+        "bestTicker": "TRGP"
+      },
+      "roic": {
+        "median": 0.11555678929658736,
+        "best": 0.6362812068605427,
+        "bestTicker": "CASTROLIND"
+      },
+      "operatingMargin": {
+        "median": 0.15164302554054054,
+        "best": 0.741879752941029,
+        "bestTicker": "TPL"
+      },
+      "netMargin": {
+        "median": 0.09620222165220071,
+        "best": 0.6030844786329069,
+        "bestTicker": "TPL"
+      },
+      "grossMargin": {
+        "median": 0.2814977480707358,
+        "best": 0.8902635500212025,
+        "bestTicker": "COALINDIA"
+      },
+      "debtToEquity": {
+        "median": 0.42994,
+        "best": 0.011559999999999999,
+        "bestTicker": "TPL"
+      },
+      "pe": {
+        "median": 18.1487165,
+        "best": 4.5258875,
+        "bestTicker": "HINDPETRO"
+      },
+      "fcfYield": {
+        "median": 0.052582936165023186,
+        "best": 0.34020116109499676,
+        "bestTicker": "HINDPETRO"
+      },
+      "revenueCagr": {
+        "median": -0.014390919821577697,
+        "best": 0.48544717261077097,
+        "bestTicker": "FANG"
+      },
+      "fcfCagr": {
+        "median": -0.0924733724152435,
+        "best": 29.86052274244156,
+        "bestTicker": "AEGISLOG"
+      }
+    }
+  },
+  "Utilities": {
+    "count": 82,
+    "metrics": {
+      "roe": {
+        "median": 0.10214892070538811,
+        "best": 0.5139797739440809,
+        "bestTicker": "NRG"
+      },
+      "roic": {
+        "median": 0.06550410696240251,
+        "best": 0.33193146417445485,
+        "bestTicker": "EOAN"
+      },
+      "operatingMargin": {
+        "median": 0.22514216445577945,
+        "best": 0.6492637764779217,
+        "bestTicker": "ACMESOLAR"
+      },
+      "netMargin": {
+        "median": 0.12721558288927393,
+        "best": 2.850798772561599,
+        "bestTicker": "600674"
+      },
+      "grossMargin": {
+        "median": 0.4156392414480826,
+        "best": 1.0,
+        "bestTicker": "ACMESOLAR"
+      },
+      "debtToEquity": {
+        "median": 1.55228,
+        "best": 0.00848,
+        "bestTicker": "IGL"
+      },
+      "pe": {
+        "median": 20.234153499999998,
+        "best": 2.6420078,
+        "bestTicker": "9501"
+      },
+      "fcfYield": {
+        "median": -0.024333839517420117,
+        "best": 2.5379225859145,
+        "bestTicker": "RPOWER"
+      },
+      "revenueCagr": {
+        "median": 0.03983788218335449,
+        "best": 1.589004000731968,
+        "bestTicker": "NTPCGREEN"
+      },
+      "fcfCagr": {
+        "median": 0.018872450829425014,
+        "best": 182.7287234042553,
+        "bestTicker": "ENRIN"
+      }
+    }
+  },
+  "Communication Services": {
+    "count": 71,
+    "metrics": {
+      "roe": {
+        "median": 0.13448826077045817,
+        "best": 2.6375732095555176,
+        "bestTicker": "RMV"
+      },
+      "roic": {
+        "median": 0.11699553465330226,
+        "best": 3.2171162915446683,
+        "bestTicker": "RMV"
+      },
+      "operatingMargin": {
+        "median": 0.17634390117654114,
+        "best": 0.757549422821868,
+        "bestTicker": "APP"
+      },
+      "netMargin": {
+        "median": 0.12447202436897711,
+        "best": 0.771439415928018,
+        "bestTicker": "IDEA"
+      },
+      "grossMargin": {
+        "median": 0.5892279526163064,
+        "best": 1.0,
+        "bestTicker": "035420"
+      },
+      "debtToEquity": {
+        "median": 0.519455,
+        "best": 0.0030399999999999997,
+        "bestTicker": "9602"
+      },
+      "pe": {
+        "median": 19.0272085,
+        "best": 3.8582253,
+        "bestTicker": "CHTR"
+      },
+      "fcfYield": {
+        "median": 0.054962484799700353,
+        "best": 0.268935914668872,
+        "bestTicker": "VOD"
+      },
+      "revenueCagr": {
+        "median": 0.07029031294828836,
+        "best": 0.48238095574671425,
+        "bestTicker": "WBD"
+      },
+      "fcfCagr": {
+        "median": 0.13570080987499922,
+        "best": 173.68315301391036,
+        "bestTicker": "SAREGAMA"
+      }
+    }
+  }
+}

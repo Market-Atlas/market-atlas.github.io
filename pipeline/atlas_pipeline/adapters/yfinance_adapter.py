@@ -347,6 +347,12 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             capex            = g(cf,  ["Capital Expenditure", "CapitalExpenditure"])
             dividends_paid   = g(cf,  ["Cash Dividends Paid", "CashDividendsPaid",
                                        "Common Stock Dividend Paid"])
+            stock_buyback    = g(cf,  ["Repurchase Of Capital Stock", "RepurchaseOfCapitalStock",
+                                       "Common Stock Payments", "CommonStockPayments"])
+            debt_issued      = g(cf,  ["Issuance Of Debt", "IssuanceOfDebt",
+                                       "Long Term Debt Issuance", "LongTermDebtIssuance"])
+            debt_repaid      = g(cf,  ["Repayment Of Debt", "RepaymentOfDebt",
+                                       "Long Term Debt Payments", "LongTermDebtPayments"])
             fcf              = (operating_cf + capex) if operating_cf is not None and capex is not None else None
 
             gross_profit = (revenue - cost_of_revenue) if revenue is not None and cost_of_revenue is not None else None
@@ -362,6 +368,9 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
                 "financingCashFlow": financing_cf,
                 "capex":             capex,
                 "dividendsPaid":     dividends_paid,
+                "stockBuyback":      stock_buyback,
+                "debtIssued":        debt_issued,
+                "debtRepaid":        debt_repaid,
                 "interestExpense":   interest_expense,
                 "depreciation":      depreciation,
                 "taxProvision":      tax_provision,

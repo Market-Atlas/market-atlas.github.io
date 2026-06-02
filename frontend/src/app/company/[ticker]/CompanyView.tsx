@@ -4,7 +4,7 @@ import {
   CartesianGrid, Legend, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis,
 } from 'recharts';
 import { useMemo, useState } from 'react';
-import type { Company, FxSnapshot, HistoricalYear, QuarterlyRow, HolderRow } from '@/lib/types';
+import type { Company, FxSnapshot, HistoricalYear, QuarterlyRow, HolderRow, SectorStats } from '@/lib/types';
 import { SUPPORTED_DISPLAY_CCYS, convert, formatMoney, formatPercent } from '@/lib/fx';
 import WatchlistButton from './WatchlistButton';
 import Link from 'next/link';
@@ -60,7 +60,15 @@ function impliedEquity(c: Company, row?: HistoricalYear): number | null {
 
 // ────────────────────────────────────────────────────────────────────────────
 
-export default function CompanyView({ company, fx, peers = [] }: { company: Company; fx: FxSnapshot; peers?: Company[] }) {
+export default function CompanyView({
+  company, fx, peers = [], sectorStat, similar = [],
+}: {
+  company: Company;
+  fx: FxSnapshot;
+  peers?: Company[];
+  sectorStat?: SectorStats;
+  similar?: Company[];
+}) {
   const [displayCcy, setDisplayCcy] = useState(company.currency);
   const [enabled, setEnabled] = useState<Record<SeriesKey, boolean>>({
     revenue: true, netIncome: true, freeCashFlow: true,
@@ -102,18 +110,24 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
     };
   }, [hist]);
 
-  const pros: string[] = [];
-  const cons: string[] = [];
-  if ((latest?.roic ?? 0) >= 0.15) pros.push(`High ROIC of ${formatPercent(latest?.roic)} — efficient capital allocation.`);
-  if ((latest?.roe  ?? 0) >= 0.15) pros.push(`Strong ROE of ${formatPercent(latest?.roe)}.`);
-  if ((latest?.freeCashFlow ?? 0) > 0) pros.push(`Generates positive free cash flow.`);
-  if ((growth.revenue['5y'] ?? 0) >= 0.10) pros.push(`Revenue compounding ${formatPercent(growth.revenue['5y'])} over 5 years.`);
-  if ((growth.fcf['5y'] ?? 0) >= 0.10)    pros.push(`FCF compounding ${formatPercent(growth.fcf['5y'])} over 5 years.`);
-  if ((company.ratios.debtToEquity ?? 0) > 1) cons.push(`Elevated debt/equity of ${company.ratios.debtToEquity?.toFixed(2)}.`);
-  if ((latest?.operatingMargin ?? 0) < 0.10) cons.push(`Operating margin is thin at ${formatPercent(latest?.operatingMargin)}.`);
-  if ((growth.netIncome['5y'] ?? 0) < 0)     cons.push(`Net income shrank over the last 5 years.`);
-  if (pros.length === 0) pros.push('Insufficient evidence for highlights — review the tables below.');
-  if (cons.length === 0) cons.push('No major red flags from the dataset.');
+  // ── Investment thesis: bull / bear / neutral, tied to sector medians where
+  // available so "High ROIC" means "above sector median" not an arbitrary 15%.
+  const thesis = useMemo(
+    () => buildThesis(company, latest, growth, fcfYield, pe, sectorStat),
+    [company, latest, growth, fcfYield, pe, sectorStat],
+  );
+
+  // ── Smart red flags: opinionated checks from the annual statements.
+  const redFlags = useMemo(() => detectRedFlags(hist), [hist]);
+
+  // ── Quality / Growth / Valuation scores (each 0-10), plus overall.
+  const scores = useMemo(
+    () => computeScores(company, latest, growth, fcfYield, pe, sectorStat),
+    [company, latest, growth, fcfYield, pe, sectorStat],
+  );
+
+  // ── Quarter-over-quarter deltas for the "What Changed?" card.
+  const qoq = useMemo(() => computeQoq(company.quarterlyFinancials || []), [company.quarterlyFinancials]);
 
   const chartData = hist.map(r => ({
     year: r.fiscalYear,
@@ -243,26 +257,23 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
           priceCcy={company.price!.currency}
           displayCcy={displayCcy}
           fx={fx}
+          hist={hist}
         />
       )}
 
-      {/* Pros & Cons */}
-      <section className="grid gap-4 lg:grid-cols-2">
-        <Card title="Pros">
-          <ul className="space-y-1.5 text-sm">
-            {pros.map(p => (
-              <li key={p} className="flex gap-2"><span className="text-atlas-positive">✓</span><span>{p}</span></li>
-            ))}
-          </ul>
-        </Card>
-        <Card title="Cons">
-          <ul className="space-y-1.5 text-sm">
-            {cons.map(c => (
-              <li key={c} className="flex gap-2"><span className="text-atlas-negative">✗</span><span>{c}</span></li>
-            ))}
-          </ul>
-        </Card>
-      </section>
+      {/* Investment thesis — what users actually want from a research site:
+          a 30-second take. Bull / Bear / Neutral arrays come from sector-aware
+          heuristics so "high ROIC" means "above the sector median" not 15% flat. */}
+      <ThesisCard thesis={thesis} />
+
+      {/* Score cards */}
+      <ScoreCards scores={scores} />
+
+      {/* What changed since last quarter */}
+      {qoq && <WhatChangedCard qoq={qoq} displayCcy={displayCcy} conv={conv} />}
+
+      {/* Red flags — only render the card if something to flag. */}
+      {redFlags.length > 0 && <RedFlagsCard flags={redFlags} />}
 
       {/* Chart */}
       <Card title={`${hist.length}-year fundamentals · ${displayCcy}`} subtitle={hist.length < 8 ? 'Showing all years available from the data provider (yfinance free tier). Full 10y history will arrive when SEC EDGAR / NSE filings adapters land.' : undefined} actions={
@@ -377,6 +388,10 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         </ScrollTable>
       </Card>
 
+      <CapitalAllocationCard rows={hist} displayCcy={displayCcy} conv={conv} />
+
+      <MoatCard rows={hist} />
+
       <Card title="Compounded growth" subtitle={hist.length < 11 ? `Only ${hist.length} years of data available · longer windows show ‘—’` : undefined}>
         <div className="overflow-x-auto">
           <table className="num min-w-full text-right text-sm">
@@ -396,6 +411,12 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
           </table>
         </div>
       </Card>
+
+      {/* Peer comparison matrix — company vs sector median vs sector best.
+          Renders only when we have sector stats for this company's sector. */}
+      {sectorStat && (
+        <PeerMatrixCard company={company} sectorStat={sectorStat} pe={pe} fcfYield={fcfYield} />
+      )}
 
       <Card title="Peers" subtitle={`Same sector & country · ${displayCcy}`}>
         {peers.length === 0 ? (
@@ -431,6 +452,11 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
           </div>
         )}
       </Card>
+
+      {/* "You may also like" — precomputed nearest-neighbours by sector + size + ROIC + growth */}
+      {similar.length > 0 && (
+        <SimilarStocksStrip current={company.ticker} similar={similar} fx={fx} displayCcy={displayCcy} />
+      )}
 
       {company.holders && (
         ((company.holders.institutional?.length ?? 0) > 0 ||
@@ -626,14 +652,27 @@ const PRICE_RANGES: Array<{ key: string; days: number | null }> = [
 ];
 
 function PriceChartCard({
-  history, priceCcy, displayCcy, fx,
+  history, priceCcy, displayCcy, fx, hist,
 }: {
   history: { d: string; c: number }[];
   priceCcy: string;
   displayCcy: string;
   fx: FxSnapshot;
+  hist: HistoricalYear[];   // annual rows → drives trailing-EPS lookup for PE overlay
 }) {
   const [range, setRange] = useState('1Y');
+  const [showPe, setShowPe] = useState(true);
+
+  // Pre-build a (year → trailing EPS) map so the PE line is cheap to compute
+  // even at weekly granularity. Uses the prior fiscal year's EPS for each
+  // price point (no leakage from filings published after the price date).
+  const epsByYear = useMemo(() => {
+    const m = new Map<number, number>();
+    for (const r of hist) {
+      if (r.eps != null && r.fiscalYear != null) m.set(r.fiscalYear, r.eps);
+    }
+    return m;
+  }, [hist]);
 
   const data = useMemo(() => {
     const now = Date.now();
@@ -647,11 +686,16 @@ function PriceChartCard({
     })();
     return history
       .filter(p => new Date(p.d).getTime() >= cutoff)
-      .map(p => ({
-        d: p.d,
-        c: convert(p.c, priceCcy, displayCcy, fx) ?? p.c,
-      }));
-  }, [history, range, priceCcy, displayCcy, fx]);
+      .map(p => {
+        const priceConv = convert(p.c, priceCcy, displayCcy, fx) ?? p.c;
+        // PE = price (in reporting ccy) / trailing EPS (in reporting ccy).
+        // Use the price *before* converting so the ratio is currency-clean.
+        const yr = new Date(p.d).getFullYear() - 1;  // prior FY's EPS, conservative
+        const eps = epsByYear.get(yr);
+        const pe  = (eps && eps > 0) ? p.c / eps : null;
+        return { d: p.d, c: priceConv, pe };
+      });
+  }, [history, range, priceCcy, displayCcy, fx, epsByYear]);
 
   const first = data[0]?.c;
   const last  = data[data.length - 1]?.c;
@@ -661,12 +705,28 @@ function PriceChartCard({
   const chgCls = chg == null ? 'text-atlas-muted'
     : chg >= 0 ? 'text-atlas-positive' : 'text-atlas-negative';
 
+  // Only show the PE toggle when we actually have any non-null PE points in range.
+  const hasPe = data.some(d => d.pe != null);
+
   return (
     <Card
       title="Stock price"
       subtitle={`Weekly close · ${displayCcy}`}
       actions={
-        <div className="flex flex-wrap gap-1">
+        <div className="flex flex-wrap items-center gap-1">
+          {hasPe && (
+            <button
+              onClick={() => setShowPe(s => !s)}
+              className={`mr-2 rounded px-2 py-1 text-xs ${
+                showPe
+                  ? 'border border-amber-400/40 bg-amber-400/10 text-amber-300'
+                  : 'border border-atlas-border text-atlas-muted hover:text-atlas-text'
+              }`}
+            >
+              <span className="mr-1.5 inline-block h-2 w-2 rounded-full bg-amber-400" />
+              P/E
+            </button>
+          )}
           {PRICE_RANGES.map(r => (
             <button
               key={r.key}
@@ -700,16 +760,28 @@ function PriceChartCard({
                      const d = new Date(v);
                      return d.toLocaleString('en', { month: 'short', year: '2-digit' });
                    }} minTickGap={32} />
-            <YAxis stroke="#8a93a6" fontSize={11}
+            <YAxis yAxisId="price" stroke="#8a93a6" fontSize={11}
                    domain={['auto', 'auto']}
                    tickFormatter={(v: number) =>
                      new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(v)} />
+            {hasPe && showPe && (
+              <YAxis yAxisId="pe" orientation="right" stroke="#f59e0b" fontSize={11}
+                     domain={['auto', 'auto']}
+                     tickFormatter={(v: number) => v.toFixed(0)} />
+            )}
             <Tooltip
               contentStyle={{ background: '#11141b', border: '1px solid #1f2430', borderRadius: 8 }}
               labelFormatter={(v: string) => new Date(v).toLocaleDateString('en')}
-              formatter={(v: number) => formatMoney(v, displayCcy, { compact: false })}
+              formatter={(v: number, name: string) =>
+                name === 'P/E'
+                  ? v == null ? '—' : `${v.toFixed(1)}×`
+                  : formatMoney(v, displayCcy, { compact: false })}
             />
-            <Line type="monotone" dataKey="c" stroke="#5eead4" strokeWidth={1.5} dot={false} name="Close" />
+            <Line yAxisId="price" type="monotone" dataKey="c"  stroke="#5eead4" strokeWidth={1.5} dot={false} name="Close" />
+            {hasPe && showPe && (
+              <Line yAxisId="pe" type="monotone" dataKey="pe" stroke="#f59e0b" strokeWidth={1} dot={false} name="P/E"
+                    strokeDasharray="3 3" connectNulls />
+            )}
           </LineChart>
         </ResponsiveContainer>
       </div>
@@ -933,5 +1005,585 @@ function HoldersSection({ holders, country }: { holders: NonNullable<Company['ho
         </p>
       )}
     </div>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Investment thesis: bull/bear/neutral buckets keyed off sector medians where
+// available. Falls back to absolute thresholds when sector data is missing.
+
+type ThesisItem = { kind: 'bull' | 'bear' | 'neutral'; text: string };
+
+function buildThesis(
+  company: Company,
+  latest: HistoricalYear | undefined,
+  growth: { revenue: any; netIncome: any; fcf: any },
+  fcfYield: number | null,
+  pe: number | null,
+  sectorStat?: SectorStats,
+): ThesisItem[] {
+  const out: ThesisItem[] = [];
+  const med = (m: string) => sectorStat?.metrics?.[m]?.median ?? null;
+
+  const cmp = (v: number | null | undefined, sectorMedian: number | null, abs: number, higherBetter = true) => {
+    if (v == null) return null;
+    if (sectorMedian != null) return higherBetter ? v >= sectorMedian * 1.15 : v <= sectorMedian * 0.85;
+    return higherBetter ? v >= abs : v <= abs;
+  };
+
+  const roic = latest?.roic ?? company.ratios.roic;
+  const roe  = latest?.roe  ?? company.ratios.roe;
+  const opm  = latest?.operatingMargin ?? company.ratios.operatingMargin;
+  const grm  = latest?.grossMargin     ?? company.ratios.grossMargin;
+  const de   = company.ratios.debtToEquity;
+  const rev5 = growth.revenue['5y'];
+  const ni5  = growth.netIncome['5y'];
+  const fcf5 = growth.fcf['5y'];
+
+  // ── Bull
+  if (cmp(roic, med('roic'),  0.15)) out.push({ kind: 'bull', text: `ROIC of ${formatPercent(roic)} — capital is earning above-sector returns.` });
+  if (cmp(roe,  med('roe'),   0.15)) out.push({ kind: 'bull', text: `ROE of ${formatPercent(roe)}.` });
+  if (cmp(opm,  med('operatingMargin'), 0.20)) out.push({ kind: 'bull', text: `Operating margin ${formatPercent(opm)} — strong pricing power.` });
+  if (cmp(grm,  med('grossMargin'),     0.50)) out.push({ kind: 'bull', text: `Gross margin ${formatPercent(grm)} — wide moat candidate.` });
+  if (cmp(rev5, med('revenueCagr'),     0.10)) out.push({ kind: 'bull', text: `Revenue compounding ${formatPercent(rev5)} over 5y.` });
+  if (cmp(fcf5, med('fcfCagr'),         0.10)) out.push({ kind: 'bull', text: `FCF compounding ${formatPercent(fcf5)} over 5y.` });
+  if ((latest?.freeCashFlow ?? 0) > 0)         out.push({ kind: 'bull', text: 'Generates positive free cash flow.' });
+
+  // ── Bear
+  if (de != null && de > 1)                                                out.push({ kind: 'bear', text: `Elevated debt/equity of ${de.toFixed(2)}.` });
+  if (opm != null && opm < 0.05)                                           out.push({ kind: 'bear', text: `Operating margin only ${formatPercent(opm)}.` });
+  if (ni5  != null && ni5 < 0)                                             out.push({ kind: 'bear', text: 'Net income shrank over the last 5 years.' });
+  if (fcf5 != null && fcf5 < 0)                                            out.push({ kind: 'bear', text: 'FCF compounding has been negative over 5y.' });
+  if (pe != null && med('pe') != null && pe > (med('pe')! * 1.5))          out.push({ kind: 'bear', text: `P/E of ${pe.toFixed(1)} is well above sector median ${(med('pe')!).toFixed(1)} — priced for perfection.` });
+  if (fcfYield != null && fcfYield < 0)                                    out.push({ kind: 'bear', text: 'Burning cash relative to market cap.' });
+
+  // ── Neutral / context
+  if (pe != null && med('pe') != null && Math.abs(pe - med('pe')!) / med('pe')! < 0.15)
+    out.push({ kind: 'neutral', text: `Trades roughly in line with sector P/E (${pe.toFixed(1)} vs ${(med('pe')!).toFixed(1)}).` });
+  if (company.sector) out.push({ kind: 'neutral', text: `Categorised as ${company.sector}${company.industry ? ` · ${company.industry}` : ''}.` });
+
+  return out;
+}
+
+function ThesisCard({ thesis }: { thesis: ThesisItem[] }) {
+  const bull    = thesis.filter(t => t.kind === 'bull');
+  const bear    = thesis.filter(t => t.kind === 'bear');
+  const neutral = thesis.filter(t => t.kind === 'neutral');
+  const Bucket = ({ title, items, tone }: { title: string; items: ThesisItem[]; tone: string }) => (
+    <Card title={title} subtitle={`${items.length} signal${items.length === 1 ? '' : 's'}`}>
+      {items.length === 0 ? (
+        <p className="text-sm text-atlas-muted">No signals.</p>
+      ) : (
+        <ul className="space-y-1.5 text-sm">
+          {items.map(i => (
+            <li key={i.text} className="flex gap-2">
+              <span className={tone}>•</span><span>{i.text}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </Card>
+  );
+  return (
+    <section className="grid gap-4 lg:grid-cols-3">
+      <Bucket title="Bull case"    items={bull}    tone="text-atlas-positive" />
+      <Bucket title="Bear case"    items={bear}    tone="text-atlas-negative" />
+      <Bucket title="Neutral"      items={neutral} tone="text-atlas-muted"    />
+    </section>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// What changed — quarter-over-quarter deltas.
+
+type QoqDelta = {
+  current:  QuarterlyRow;
+  previous: QuarterlyRow;
+  rows: Array<{ label: string; kind: 'money' | 'percent' | 'number'; cur: number | null | undefined; prev: number | null | undefined; lowerBetter?: boolean }>;
+};
+
+function computeQoq(qs: QuarterlyRow[]): QoqDelta | null {
+  if (qs.length < 2) return null;
+  const cur  = qs[qs.length - 1];
+  const prev = qs[qs.length - 2];
+  return {
+    current: cur,
+    previous: prev,
+    rows: [
+      { label: 'Revenue',          kind: 'money',   cur: cur.revenue,         prev: prev.revenue },
+      { label: 'Operating profit', kind: 'money',   cur: cur.operatingIncome, prev: prev.operatingIncome },
+      { label: 'Operating margin', kind: 'percent', cur: cur.operatingMargin, prev: prev.operatingMargin },
+      { label: 'Net profit',       kind: 'money',   cur: cur.netIncome,       prev: prev.netIncome },
+      { label: 'Net margin',       kind: 'percent', cur: cur.netMargin,       prev: prev.netMargin },
+      { label: 'EPS',              kind: 'number',  cur: cur.eps,             prev: cur.eps != null && prev.eps != null ? prev.eps : prev.eps },
+      { label: 'Tax rate',         kind: 'percent', cur: cur.taxRate,         prev: prev.taxRate, lowerBetter: true },
+    ],
+  };
+}
+
+function WhatChangedCard({
+  qoq, displayCcy, conv,
+}: {
+  qoq: QoqDelta;
+  displayCcy: string;
+  conv: (v: number | null | undefined) => number | null;
+}) {
+  const periodLabel = (iso: string) => {
+    const d = new Date(iso);
+    return isNaN(d.getTime()) ? iso : d.toLocaleString('en', { month: 'short', year: 'numeric' });
+  };
+  return (
+    <Card
+      title="What changed?"
+      subtitle={`${periodLabel(qoq.previous.periodEnd)} → ${periodLabel(qoq.current.periodEnd)}`}
+    >
+      <div className="overflow-x-auto">
+        <table className="num min-w-full text-right text-sm">
+          <thead className="text-[11px] uppercase tracking-wide text-atlas-muted">
+            <tr>
+              <th className="px-3 py-2 text-left">Metric</th>
+              <th className="px-3 py-2">Previous</th>
+              <th className="px-3 py-2">Current</th>
+              <th className="px-3 py-2">Δ</th>
+            </tr>
+          </thead>
+          <tbody>
+            {qoq.rows.map(r => {
+              const fmt = (v: number | null | undefined): string => {
+                if (v == null) return '—';
+                if (r.kind === 'percent') return formatPercent(v);
+                if (r.kind === 'number')  return v.toFixed(2);
+                return formatMoney(conv(v), displayCcy);
+              };
+              // Δ: absolute for %, percent for money/number
+              let deltaCell: string = '—';
+              let cls = 'text-atlas-muted';
+              if (r.cur != null && r.prev != null) {
+                let positive: boolean;
+                if (r.kind === 'percent') {
+                  const d = r.cur - r.prev;
+                  positive = r.lowerBetter ? d <= 0 : d >= 0;
+                  deltaCell = `${d >= 0 ? '+' : ''}${(d * 100).toFixed(2)} pp`;
+                } else {
+                  if (r.prev === 0) {
+                    positive = r.cur > 0;
+                    deltaCell = '—';
+                  } else {
+                    const pct = (r.cur - r.prev) / Math.abs(r.prev);
+                    positive = r.lowerBetter ? pct <= 0 : pct >= 0;
+                    deltaCell = `${pct >= 0 ? '▲' : '▼'} ${(pct * 100).toFixed(1)}%`;
+                  }
+                }
+                cls = positive ? 'text-atlas-positive' : 'text-atlas-negative';
+              }
+              return (
+                <tr key={r.label} className="border-t border-atlas-border">
+                  <td className="px-3 py-1.5 text-left text-atlas-muted">{r.label}</td>
+                  <td className="px-3 py-1.5">{fmt(r.prev)}</td>
+                  <td className="px-3 py-1.5">{fmt(r.cur)}</td>
+                  <td className={`px-3 py-1.5 ${cls}`}>{deltaCell}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Red flags — opinionated checks against the annual statements.
+
+type RedFlag = { severity: 'high' | 'med'; title: string; detail: string };
+
+function detectRedFlags(hist: HistoricalYear[]): RedFlag[] {
+  const out: RedFlag[] = [];
+  if (hist.length < 2) return out;
+
+  const last  = hist[hist.length - 1];
+  const prev  = hist[hist.length - 2];
+
+  // 1. Receivables growing materially faster than revenue → channel stuffing risk
+  const dRev = pctChange(prev.revenue, last.revenue);
+  const dRec = pctChange(prev.accountsReceivable, last.accountsReceivable);
+  if (dRev != null && dRec != null && dRec > dRev + 0.15 && dRec > 0.20) {
+    out.push({
+      severity: 'high',
+      title: 'Receivables growing faster than revenue',
+      detail: `Accounts receivable up ${formatPercent(dRec)} vs revenue ${formatPercent(dRev)} year-over-year.`,
+    });
+  }
+
+  // 2. Inventory spike vs revenue growth (excluding revenue-decline cases)
+  const dInv = pctChange(prev.inventory, last.inventory);
+  if (dRev != null && dInv != null && dRev > 0 && dInv > dRev + 0.25 && dInv > 0.30) {
+    out.push({
+      severity: 'med',
+      title: 'Inventory build-up',
+      detail: `Inventory grew ${formatPercent(dInv)} while revenue grew ${formatPercent(dRev)} — possible demand softness.`,
+    });
+  }
+
+  // 3. Debt surge (>50% YoY)
+  const dDebt = pctChange(prev.totalDebt, last.totalDebt);
+  if (dDebt != null && dDebt > 0.5 && (last.totalDebt ?? 0) > 0) {
+    out.push({
+      severity: 'high',
+      title: 'Sharp debt increase',
+      detail: `Total debt grew ${formatPercent(dDebt)} year-over-year.`,
+    });
+  }
+
+  // 4. CFO consistently less than reported PAT → earnings quality concern
+  const tail3 = hist.slice(-3);
+  if (tail3.length === 3) {
+    const allLagging = tail3.every(r =>
+      r.operatingCashFlow != null && r.netIncome != null
+      && r.netIncome > 0 && r.operatingCashFlow < r.netIncome * 0.6,
+    );
+    if (allLagging) {
+      out.push({
+        severity: 'high',
+        title: 'Cash flow not following earnings',
+        detail: 'Operating cash flow has been < 60% of reported net income for 3 consecutive years.',
+      });
+    }
+  }
+
+  // 5. Multi-year negative FCF
+  const fcfStreak = hist.slice(-3).every(r => (r.freeCashFlow ?? 0) < 0);
+  if (fcfStreak && hist.length >= 3) {
+    out.push({
+      severity: 'med',
+      title: 'Negative FCF streak',
+      detail: 'Free cash flow has been negative for 3+ consecutive years.',
+    });
+  }
+
+  return out;
+}
+
+function pctChange(prev: number | null | undefined, cur: number | null | undefined): number | null {
+  if (prev == null || cur == null || prev === 0) return null;
+  return (cur - prev) / Math.abs(prev);
+}
+
+function RedFlagsCard({ flags }: { flags: RedFlag[] }) {
+  return (
+    <Card title="⚠ Red flags" subtitle={`${flags.length} signal${flags.length === 1 ? '' : 's'} from the financials`}>
+      <ul className="space-y-2 text-sm">
+        {flags.map(f => (
+          <li key={f.title} className="flex gap-2">
+            <span className={f.severity === 'high' ? 'text-atlas-negative' : 'text-amber-300'}>
+              {f.severity === 'high' ? '●' : '○'}
+            </span>
+            <div>
+              <div className="font-medium">{f.title}</div>
+              <div className="text-atlas-muted">{f.detail}</div>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Quality / Growth / Valuation scores — each is a 0–10 number derived from
+// the most informative metrics in that bucket. Overall is the weighted mean.
+
+type ScoreSet = { quality: number | null; growth: number | null; valuation: number | null; overall: number | null };
+
+function computeScores(
+  company: Company,
+  latest: HistoricalYear | undefined,
+  growth: { revenue: any; netIncome: any; fcf: any },
+  fcfYield: number | null,
+  pe: number | null,
+  _sectorStat?: SectorStats,
+): ScoreSet {
+  // Scale: map raw value linearly into [0,1] within sensible bounds.
+  const norm = (v: number | null | undefined, lo: number, hi: number) => {
+    if (v == null || !isFinite(v)) return null;
+    return Math.max(0, Math.min(1, (v - lo) / (hi - lo)));
+  };
+  const invert = (v: number | null) => v == null ? null : 1 - v;
+  const avg = (xs: (number | null)[]) => {
+    const ok = xs.filter((x): x is number => x != null);
+    return ok.length ? ok.reduce((a, b) => a + b, 0) / ok.length : null;
+  };
+  const score = (v: number | null) => v == null ? null : +(v * 10).toFixed(1);
+
+  const quality = avg([
+    norm(latest?.roe  ?? company.ratios.roe,  0,    0.30),
+    norm(latest?.roic ?? company.ratios.roic, 0,    0.30),
+    norm(latest?.operatingMargin ?? company.ratios.operatingMargin, 0, 0.30),
+    invert(norm(company.ratios.debtToEquity, 0, 2)),
+  ]);
+  const grw = avg([
+    norm(growth.revenue['5y']  , 0, 0.30),
+    norm(growth.netIncome['5y'], 0, 0.30),
+    norm(growth.fcf['5y']      , 0, 0.30),
+  ]);
+  const valuation = avg([
+    invert(norm(pe, 5, 50)),
+    norm(fcfYield, 0, 0.10),
+  ]);
+  const overall = avg([quality, grw, valuation]);
+  return { quality: score(quality), growth: score(grw), valuation: score(valuation), overall: score(overall) };
+}
+
+function ScoreCards({ scores }: { scores: ScoreSet }) {
+  const Tile = ({ label, score, max = 10 }: { label: string; score: number | null; max?: number }) => {
+    const tone = score == null ? 'text-atlas-muted'
+      : score >= 7 ? 'text-atlas-positive'
+      : score >= 4 ? 'text-atlas-text'
+      : 'text-atlas-negative';
+    return (
+      <div className="rounded-lg border border-atlas-border bg-atlas-surface px-4 py-3">
+        <div className="text-[11px] uppercase tracking-wide text-atlas-muted">{label}</div>
+        <div className={`num mt-0.5 text-2xl font-semibold ${tone}`}>
+          {score == null ? '—' : score.toFixed(1)}<span className="text-sm text-atlas-muted"> / {max}</span>
+        </div>
+      </div>
+    );
+  };
+  return (
+    <section className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <Tile label="Quality"   score={scores.quality} />
+      <Tile label="Growth"    score={scores.growth} />
+      <Tile label="Valuation" score={scores.valuation} />
+      <Tile label="Overall"   score={scores.overall} />
+    </section>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Peer comparison matrix — company vs sector median vs sector best.
+
+function PeerMatrixCard({
+  company, sectorStat, pe, fcfYield,
+}: {
+  company: Company;
+  sectorStat: SectorStats;
+  pe: number | null;
+  fcfYield: number | null;
+}) {
+  const rows: Array<{ label: string; key: string; companyVal: number | null | undefined; kind: 'percent' | 'number'; higherBetter: boolean }> = [
+    { label: 'ROE',              key: 'roe',             companyVal: company.ratios.roe,              kind: 'percent', higherBetter: true },
+    { label: 'ROIC',             key: 'roic',            companyVal: company.ratios.roic,             kind: 'percent', higherBetter: true },
+    { label: 'Operating margin', key: 'operatingMargin', companyVal: company.ratios.operatingMargin,  kind: 'percent', higherBetter: true },
+    { label: 'Net margin',       key: 'netMargin',       companyVal: company.ratios.netMargin,        kind: 'percent', higherBetter: true },
+    { label: 'Gross margin',     key: 'grossMargin',     companyVal: company.ratios.grossMargin,      kind: 'percent', higherBetter: true },
+    { label: 'Debt / Equity',    key: 'debtToEquity',    companyVal: company.ratios.debtToEquity,     kind: 'number',  higherBetter: false },
+    { label: 'P / E',            key: 'pe',              companyVal: pe,                              kind: 'number',  higherBetter: false },
+    { label: 'FCF yield',        key: 'fcfYield',        companyVal: fcfYield,                        kind: 'percent', higherBetter: true },
+  ];
+  const fmtVal = (v: number | null | undefined, k: 'percent' | 'number') => {
+    if (v == null) return '—';
+    return k === 'percent' ? formatPercent(v) : v.toFixed(2);
+  };
+  return (
+    <Card title="Peer comparison" subtitle={`vs sector · ${sectorStat.count} ${company.sector} companies`}>
+      <div className="overflow-x-auto">
+        <table className="num min-w-full text-right text-sm">
+          <thead className="text-[11px] uppercase tracking-wide text-atlas-muted">
+            <tr>
+              <th className="px-3 py-2 text-left">Metric</th>
+              <th className="px-3 py-2">{company.ticker}</th>
+              <th className="px-3 py-2">Sector median</th>
+              <th className="px-3 py-2">Best in sector</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map(r => {
+              const stat = sectorStat.metrics[r.key];
+              let cls = 'text-atlas-text';
+              if (r.companyVal != null && stat) {
+                const beat = r.higherBetter ? r.companyVal > stat.median : r.companyVal < stat.median && r.companyVal > 0;
+                cls = beat ? 'text-atlas-positive' : 'text-atlas-negative';
+              }
+              return (
+                <tr key={r.label} className="border-t border-atlas-border">
+                  <td className="px-3 py-1.5 text-left text-atlas-muted">{r.label}</td>
+                  <td className={`px-3 py-1.5 font-medium ${cls}`}>{fmtVal(r.companyVal, r.kind)}</td>
+                  <td className="px-3 py-1.5 text-atlas-muted">{stat ? fmtVal(stat.median, r.kind) : '—'}</td>
+                  <td className="px-3 py-1.5 text-atlas-muted">
+                    {stat ? (
+                      <Link href={`${BP}/company/${stat.bestTicker}/`} className="hover:text-atlas-accent">
+                        {fmtVal(stat.best, r.kind)} <span className="font-mono text-[10px]">({stat.bestTicker})</span>
+                      </Link>
+                    ) : '—'}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Capital allocation — what management did with the cash.
+
+function CapitalAllocationCard({
+  rows, displayCcy, conv,
+}: {
+  rows: HistoricalYear[];
+  displayCcy: string;
+  conv: (v: number | null | undefined) => number | null;
+}) {
+  // EDGAR returns these as positive outflows; yfinance returns them negative.
+  // Normalise to a positive "amount returned/used" figure.
+  const abs = (r: HistoricalYear, k: keyof HistoricalYear) => {
+    const v = r[k] as number | null | undefined;
+    if (v == null) return null;
+    return Math.abs(v);
+  };
+  return (
+    <Card title="Capital allocation" subtitle={`Annual outflows · ${displayCcy}`}>
+      <ScrollTable>
+        <table className="num min-w-full text-right text-sm">
+          <thead className="text-xs uppercase tracking-wide text-atlas-muted">
+            <tr>
+              <th className="sticky left-0 z-10 bg-atlas-surface px-3 py-2 text-left">Use of cash</th>
+              {rows.map(r => <th key={r.fiscalYear} className="px-3 py-2">{r.fiscalYear}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            {[
+              { label: 'Capex',           fn: (r: HistoricalYear) => abs(r, 'capex') },
+              { label: 'Dividends paid',  fn: (r: HistoricalYear) => abs(r, 'dividendsPaid') },
+              { label: 'Stock buybacks',  fn: (r: HistoricalYear) => abs(r, 'stockBuyback') },
+              { label: 'Debt repaid',     fn: (r: HistoricalYear) => abs(r, 'debtRepaid') },
+              { label: 'Debt issued',     fn: (r: HistoricalYear) => abs(r, 'debtIssued') },
+            ].map(spec => (
+              <tr key={spec.label} className="border-t border-atlas-border">
+                <td className="sticky left-0 z-10 bg-atlas-surface px-3 py-1.5 text-left text-atlas-muted">{spec.label}</td>
+                {rows.map(r => (
+                  <td key={r.fiscalYear} className="px-3 py-1.5">{formatMoney(conv(spec.fn(r)), displayCcy)}</td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </ScrollTable>
+    </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Moat indicators — derived purely from annual history.
+
+function MoatCard({ rows }: { rows: HistoricalYear[] }) {
+  if (rows.length < 4) {
+    return (
+      <Card title="Economic moat" subtitle="Need ≥ 4y of history for these indicators">
+        <p className="text-sm text-atlas-muted">
+          Only {rows.length} year{rows.length === 1 ? '' : 's'} of data available — moat metrics depend on multi-year consistency.
+        </p>
+      </Card>
+    );
+  }
+  const grossMargins = rows.map(r => r.grossMargin).filter((v): v is number => v != null);
+  const opMargins    = rows.map(r => r.operatingMargin).filter((v): v is number => v != null);
+  const roics        = rows.map(r => r.roic).filter((v): v is number => v != null);
+
+  const stdev = (xs: number[]) => {
+    if (xs.length < 2) return null;
+    const mean = xs.reduce((a, b) => a + b, 0) / xs.length;
+    return Math.sqrt(xs.reduce((s, x) => s + (x - mean) ** 2, 0) / xs.length);
+  };
+  const median = (xs: number[]) => {
+    if (xs.length === 0) return null;
+    const s = [...xs].sort((a, b) => a - b);
+    const m = s.length >> 1;
+    return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
+  };
+
+  const grStdev = stdev(grossMargins);
+  const grossStability = grStdev == null ? null
+    : grStdev < 0.02 ? 'High'
+    : grStdev < 0.05 ? 'Moderate'
+    : 'Low';
+  const aboveThreshold = roics.filter(r => r >= 0.15).length;
+  const persistence = roics.length ? aboveThreshold / roics.length : null;
+  const persLabel = persistence == null ? '—'
+    : persistence >= 0.8 ? `Strong (${aboveThreshold}/${roics.length} years > 15%)`
+    : persistence >= 0.5 ? `Moderate (${aboveThreshold}/${roics.length} years > 15%)`
+    : `Weak (${aboveThreshold}/${roics.length} years > 15%)`;
+  const opMed = median(opMargins);
+  const pricingPower = opMed == null ? '—'
+    : opMed >= 0.20 ? `Strong (${formatPercent(opMed)} median OPM)`
+    : opMed >= 0.10 ? `Moderate (${formatPercent(opMed)} median OPM)`
+    : `Weak (${formatPercent(opMed)} median OPM)`;
+
+  return (
+    <Card title="Economic moat" subtitle="Margin stability · ROIC persistence · Pricing power">
+      <dl className="grid gap-3 sm:grid-cols-3">
+        <div>
+          <dt className="text-[11px] uppercase tracking-wide text-atlas-muted">Gross margin stability</dt>
+          <dd className="mt-0.5 text-sm">{grossStability ?? '—'} <span className="text-atlas-muted">(stdev {grStdev != null ? formatPercent(grStdev) : '—'})</span></dd>
+        </div>
+        <div>
+          <dt className="text-[11px] uppercase tracking-wide text-atlas-muted">ROIC persistence</dt>
+          <dd className="mt-0.5 text-sm">{persLabel}</dd>
+        </div>
+        <div>
+          <dt className="text-[11px] uppercase tracking-wide text-atlas-muted">Pricing power</dt>
+          <dd className="mt-0.5 text-sm">{pricingPower}</dd>
+        </div>
+      </dl>
+    </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// "You may also like" strip — horizontally scrollable cards of similar tickers.
+
+function SimilarStocksStrip({
+  current, similar, fx, displayCcy,
+}: {
+  current: string;
+  similar: Company[];
+  fx: FxSnapshot;
+  displayCcy: string;
+}) {
+  return (
+    <Card title="You may also like" subtitle="Same sector · similar size, ROIC and growth profile">
+      <div className="-mx-2 flex gap-3 overflow-x-auto px-2 pb-1">
+        {similar.filter(s => s.ticker !== current).map(s => {
+          const mcap = convert(
+            s.marketCap?.value ?? null,
+            s.marketCap?.currency ?? s.currency,
+            displayCcy, fx,
+          );
+          return (
+            <Link
+              key={s.ticker}
+              href={`${BP}/company/${s.ticker}/`}
+              className="group flex w-44 shrink-0 flex-col rounded-lg border border-atlas-border bg-atlas-bg p-3 transition hover:border-atlas-accent/40"
+            >
+              <div className="flex items-center gap-2">
+                <CompanyLogo
+                  domain={s.website ? new URL(s.website.startsWith('http') ? s.website : `https://${s.website}`).hostname.replace(/^www\./, '') : null}
+                  ticker={s.ticker}
+                  name={s.name}
+                  size={24}
+                />
+                <span className="font-mono text-[10px] text-atlas-muted">{s.ticker}</span>
+              </div>
+              <div className="mt-1.5 line-clamp-2 text-sm group-hover:text-atlas-accent">{s.name}</div>
+              <div className="mt-2 text-[11px] text-atlas-muted">
+                {formatMoney(mcap, displayCcy)} · ROE {formatPercent(s.ratios.roe)}
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </Card>
   );
 }

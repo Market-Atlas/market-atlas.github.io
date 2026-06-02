@@ -3,7 +3,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import type { Company, ETF, FxSnapshot, ScreenerRow, SearchHit, TagInfo } from './types';
+import type { Company, ETF, FxSnapshot, ScreenerRow, SearchHit, SectorStatsMap, TagInfo } from './types';
 
 const DATA_DIR = path.join(process.cwd(), 'public', 'data');
 
@@ -60,6 +60,24 @@ export async function loadTags(): Promise<Record<string, TagInfo>> {
   try {
     const raw = await fs.readFile(path.join(DATA_DIR, 'tags.json'), 'utf-8');
     return JSON.parse(raw) as Record<string, TagInfo>;
+  } catch {
+    return {};
+  }
+}
+
+export async function loadSectorStats(): Promise<SectorStatsMap> {
+  try {
+    const raw = await fs.readFile(path.join(DATA_DIR, 'sector-stats.json'), 'utf-8');
+    return JSON.parse(raw) as SectorStatsMap;
+  } catch {
+    return {};
+  }
+}
+
+export async function loadSimilar(): Promise<Record<string, string[]>> {
+  try {
+    const raw = await fs.readFile(path.join(DATA_DIR, 'similar.json'), 'utf-8');
+    return JSON.parse(raw) as Record<string, string[]>;
   } catch {
     return {};
   }
