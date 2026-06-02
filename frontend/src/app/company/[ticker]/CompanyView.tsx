@@ -29,14 +29,26 @@ type SeriesKey = typeof SERIES[number]['key'];
 // ────────────────────────────────────────────────────────────────────────────
 // helpers
 
-function cagr(series: (number | null | undefined)[]): number | null {
-  const vals = series.filter((v): v is number => v != null && v > 0);
-  if (vals.length < 2) return null;
-  const years = vals.length - 1;
-  return Math.pow(vals[vals.length - 1] / vals[0], 1 / years) - 1;
+/**
+ * Compute CAGR over an explicit `years` window. Returns null if the *tail* of
+ * `series` doesn't actually contain `years + 1` valid (positive) data points
+ * separated by that many years.
+ *
+ * Why this matters: yfinance free tier ships ~4y of history. A naive
+ * `cagr(tail(series, 11))` would silently fall back to whatever shorter window
+ * the data actually has — making the "10y", "5y", and "3y" cells show the
+ * same number for any company without ten years of history.
+ */
+function cagrFor(
+  series: (number | null | undefined)[],
+  years: number,
+): number | null {
+  if (series.length < years + 1) return null;
+  const start = series[series.length - 1 - years];
+  const end   = series[series.length - 1];
+  if (start == null || end == null || start <= 0 || end <= 0) return null;
+  return Math.pow(end / start, 1 / years) - 1;
 }
-
-function tail<T>(arr: T[], n: number): T[] { return arr.slice(Math.max(0, arr.length - n)); }
 
 function impliedEquity(c: Company, row?: HistoricalYear): number | null {
   // Approximation: equity = totalDebt / debtToEquity. Real balance-sheet data lands later.
@@ -80,10 +92,13 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
 
   const growth = useMemo(() => {
     const pick = (k: keyof HistoricalYear) => hist.map(r => r[k] as number | null | undefined);
+    const rev  = pick('revenue');
+    const ni   = pick('netIncome');
+    const fcf  = pick('freeCashFlow');
     return {
-      revenue:   { '10y': cagr(tail(pick('revenue'), 11)),      '5y': cagr(tail(pick('revenue'), 6)),      '3y': cagr(tail(pick('revenue'), 4)) },
-      netIncome: { '10y': cagr(tail(pick('netIncome'), 11)),    '5y': cagr(tail(pick('netIncome'), 6)),    '3y': cagr(tail(pick('netIncome'), 4)) },
-      fcf:       { '10y': cagr(tail(pick('freeCashFlow'), 11)), '5y': cagr(tail(pick('freeCashFlow'), 6)), '3y': cagr(tail(pick('freeCashFlow'), 4)) },
+      revenue:   { '10y': cagrFor(rev, 10), '5y': cagrFor(rev, 5), '3y': cagrFor(rev, 3) },
+      netIncome: { '10y': cagrFor(ni,  10), '5y': cagrFor(ni,  5), '3y': cagrFor(ni,  3) },
+      fcf:       { '10y': cagrFor(fcf, 10), '5y': cagrFor(fcf, 5), '3y': cagrFor(fcf, 3) },
     };
   }, [hist]);
 
@@ -412,8 +427,8 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         ((company.holders.institutional?.length ?? 0) > 0 ||
          (company.holders.mutualFund?.length ?? 0) > 0 ||
          (company.holders.summary && Object.keys(company.holders.summary).length > 0)) && (
-          <Card title="Major holders" subtitle="Source: yfinance · institutional + fund filings">
-            <HoldersSection holders={company.holders} />
+          <Card title="Shareholding" subtitle={`Source: yfinance · ${holdersSubtitle(company.country)}`}>
+            <HoldersSection holders={company.holders} country={company.country} />
           </Card>
         )
       )}
@@ -824,11 +839,38 @@ function WorkingCapitalTable({ rows }: { rows: HistoricalYear[] }) {
 // ────────────────────────────────────────────────────────────────────────────
 // Holders: insider/institution % summary + top institutional + mutual-fund tables.
 
-function HoldersSection({ holders }: { holders: NonNullable<Company['holders']> }) {
+// yfinance reports a per-region split through 'insiders %' vs 'institutions %'.
+// In Indian disclosure terms the insider bucket maps to *promoter* holding,
+// and US 13F-style institutional row data isn't published by NSE/BSE — only
+// the aggregate percentage. We surface that distinction through the labels.
+const INDIAN_COUNTRY = 'IN';
+
+function holdersSubtitle(country: string): string {
+  return country === INDIAN_COUNTRY
+    ? 'aggregate split only · NSE doesn\u2019t publish per-holder filings'
+    : 'institutional + fund filings';
+}
+
+function HoldersSection({ holders, country }: { holders: NonNullable<Company['holders']>; country: string }) {
   const fmtPct = (v: number | null | undefined) =>
     v == null ? '—' : `${(v * 100).toFixed(2)}%`;
   const fmtShares = (v: number | null | undefined) =>
     v == null ? '—' : new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 2 }).format(v);
+
+  const isIN = country === INDIAN_COUNTRY;
+  const labels = isIN
+    ? {
+        insiders:     'Promoter holding',
+        institutions: 'Institutions (FII + DII)',
+        float:        '% of float',
+        count:        '# institutions',
+      }
+    : {
+        insiders:     'Insiders',
+        institutions: 'Institutions',
+        float:        '% of float',
+        count:        '# institutions',
+      };
 
   const HolderTable = ({ title, rows }: { title: string; rows: HolderRow[] }) =>
     rows.length === 0 ? null : (
@@ -860,18 +902,27 @@ function HoldersSection({ holders }: { holders: NonNullable<Company['holders']> 
     );
 
   const summary = holders.summary || {};
+  const hasInstRows = (holders.institutional?.length ?? 0) > 0;
+  const hasFundRows = (holders.mutualFund    ?.length ?? 0) > 0;
   return (
     <div className="space-y-4">
       {Object.keys(summary).length > 0 && (
         <div className="grid grid-cols-2 gap-px overflow-hidden rounded border border-atlas-border bg-atlas-border sm:grid-cols-4">
-          {summary.insidersPct          && <Kpi label="Insiders"          value={summary.insidersPct} />}
-          {summary.institutionsPct      && <Kpi label="Institutions"      value={summary.institutionsPct} />}
-          {summary.institutionsFloatPct && <Kpi label="% of float"        value={summary.institutionsFloatPct} />}
-          {summary.institutionsCount    && <Kpi label="# institutions"    value={summary.institutionsCount} />}
+          {summary.insidersPct          && <Kpi label={labels.insiders}     value={summary.insidersPct} />}
+          {summary.institutionsPct      && <Kpi label={labels.institutions} value={summary.institutionsPct} />}
+          {summary.institutionsFloatPct && <Kpi label={labels.float}        value={summary.institutionsFloatPct} />}
+          {summary.institutionsCount    && <Kpi label={labels.count}        value={summary.institutionsCount} />}
         </div>
       )}
       <HolderTable title="Top institutional holders" rows={holders.institutional || []} />
       <HolderTable title="Top mutual-fund holders"   rows={holders.mutualFund    || []} />
+      {!hasInstRows && !hasFundRows && (
+        <p className="text-xs text-atlas-muted">
+          {isIN
+            ? 'Per-holder breakdown isn\u2019t available — NSE/BSE only publish aggregate shareholding percentages, not 13F-style filings. The FII vs DII split would require BSE\u2019s quarterly XBRL filings, which aren\u2019t in our pipeline yet.'
+            : 'Per-holder breakdown not published for this exchange. Only the aggregate split above is available.'}
+        </p>
+      )}
     </div>
   );
 }

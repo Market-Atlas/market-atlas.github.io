@@ -188,26 +188,61 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
     except Exception:
         pass
     try:
-        # The "major_holders" DataFrame is 2 cols, rows like:
-        #  "% of Shares Held by All Insider" / "0.07%"
-        #  "% of Shares Held by Institutions" / "61.4%"
+        # `major_holders` ships in one of two DataFrame shapes depending on
+        # yfinance version + region:
+        #   (a) 2-col row table: ["0.07%", "% of Shares Held by All Insider"]
+        #   (b) keyed single-row table:
+        #       index=['insidersPercentHeld','institutionsPercentHeld', ...]
+        #       column=['Value']                          (← used for IN, EU)
+        # We parse both, then fall back to fields on `info` so even when the
+        # DataFrame is empty, Indian / European tickers still get the summary
+        # (insider% maps to promoter holding in NSE terms).
         mj = t.major_holders
         if mj is not None and not mj.empty:
-            for _, row in mj.iterrows():
-                vals = row.tolist()
-                if len(vals) >= 2:
-                    label = str(vals[1]).strip().lower()
-                    val   = str(vals[0]).strip()
-                    if "insider" in label:
-                        major_holders["insidersPct"] = val
-                    elif "institution" in label and "float" not in label:
-                        major_holders["institutionsPct"] = val
-                    elif "float" in label:
-                        major_holders["institutionsFloatPct"] = val
-                    elif "number of institutions" in label:
-                        major_holders["institutionsCount"] = val
+            cols = [str(c).lower() for c in mj.columns]
+            idx_strs = [str(i).lower() for i in mj.index]
+            if "value" in cols and any("insider" in i for i in idx_strs):
+                # Shape (b): single 'Value' column keyed by metric name
+                for idx, v in mj["Value"].items():
+                    name = str(idx).lower()
+                    if v is None or (isinstance(v, float) and v != v):  # NaN
+                        continue
+                    pretty = f"{float(v) * 100:.2f}%" if isinstance(v, (int, float)) and abs(v) <= 1 else str(v)
+                    if   "insider" in name:                             major_holders["insidersPct"] = pretty
+                    elif "institutionsfloat" in name or ("institution" in name and "float" in name):
+                        major_holders["institutionsFloatPct"] = pretty
+                    elif "institutionscount" in name or "number" in name:
+                        major_holders["institutionsCount"] = str(int(float(v))) if isinstance(v, (int, float)) else str(v)
+                    elif "institution" in name:                         major_holders["institutionsPct"] = pretty
+            else:
+                # Shape (a): label + value rows
+                for _, row in mj.iterrows():
+                    vals = row.tolist()
+                    if len(vals) >= 2:
+                        label = str(vals[1]).strip().lower()
+                        val   = str(vals[0]).strip()
+                        if   "insider" in label:                       major_holders["insidersPct"] = val
+                        elif "institution" in label and "float" not in label:
+                            major_holders["institutionsPct"] = val
+                        elif "float" in label:                         major_holders["institutionsFloatPct"] = val
+                        elif "number of institutions" in label:        major_holders["institutionsCount"] = val
     except Exception:
         pass
+
+    # Fallback: pull the same numbers from `info` when the DataFrame parse
+    # didn't yield them. yfinance exposes these as decimals (0–1).
+    def _pct(v):
+        v = _safe(v)
+        if v is None: return None
+        return f"{v * 100:.2f}%"
+    major_holders.setdefault("insidersPct",          _pct(info.get("heldPercentInsiders"))     or "")
+    major_holders.setdefault("institutionsPct",      _pct(info.get("heldPercentInstitutions")) or "")
+    # floatShares / sharesOutstanding → institutions-of-float ratio
+    fl = _safe(info.get("floatShares")); so = _safe(info.get("sharesOutstanding"))
+    if fl and so and so > 0:
+        major_holders.setdefault("institutionsFloatPct", f"{(fl / so) * 100:.2f}%")
+    # Drop empty placeholders we set above
+    major_holders = {k: v for k, v in major_holders.items() if v}
 
     # 35-day daily close history → drives the sparkline + day/30d change %.
     # Keep this cheap: one call, one chart period. Fail open if blocked.
