@@ -28,7 +28,9 @@ export const SUPPORTED_DISPLAY_CCYS: Currency[] = [
   'USD', 'EUR', 'GBP', 'JPY', 'INR', 'CHF', 'CAD', 'AUD',
 ];
 
-/** Human-readable, currency-aware formatter with scale suffix (K/M/B/T). */
+/** Human-readable, currency-aware formatter with scale suffix.
+ *  INR uses the Indian numbering system (Lakh / Crore) via the en-IN locale;
+ *  everything else uses Western K/M/B/T via en-US. */
 export function formatMoney(
   value: number | null | undefined,
   ccy: Currency,
@@ -36,15 +38,17 @@ export function formatMoney(
 ): string {
   if (value === null || value === undefined || Number.isNaN(value)) return '—';
 
+  const locale = ccy === 'INR' ? 'en-IN' : 'en-US';
+
   if (opts.compact) {
-    return new Intl.NumberFormat('en', {
+    return new Intl.NumberFormat(locale, {
       style: 'currency',
       currency: ccy,
       notation: 'compact',
       maximumFractionDigits: 2,
     }).format(value);
   }
-  return new Intl.NumberFormat('en', {
+  return new Intl.NumberFormat(locale, {
     style: 'currency',
     currency: ccy,
     maximumFractionDigits: 0,
@@ -56,9 +60,14 @@ export function formatPercent(value: number | null | undefined, digits = 1): str
   return `${(value * 100).toFixed(digits)}%`;
 }
 
-export function formatNumber(value: number | null | undefined, digits = 2): string {
+export function formatNumber(
+  value: number | null | undefined,
+  digits = 2,
+  ccy?: Currency,
+): string {
   if (value === null || value === undefined || Number.isNaN(value)) return '—';
-  return new Intl.NumberFormat('en', {
+  const locale = ccy === 'INR' ? 'en-IN' : 'en-US';
+  return new Intl.NumberFormat(locale, {
     notation: 'compact',
     maximumFractionDigits: digits,
   }).format(value);

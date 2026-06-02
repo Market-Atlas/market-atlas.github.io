@@ -2,8 +2,8 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import type { ScreenerRow } from '@/lib/types';
-import { formatMoney, formatPercent } from '@/lib/fx';
+import type { FxSnapshot, ScreenerRow } from '@/lib/types';
+import { convert, formatMoney, formatPercent } from '@/lib/fx';
 import { BP } from '@/lib/basePath';
 import { vUrl } from '@/lib/version';
 import { PRESETS, type Preset } from '@/lib/screenerPresets';
@@ -47,14 +47,17 @@ const DEFAULTS: Filters = {
 
 // Column definitions used by both the table and the CSV export. Keeping them
 // in one place avoids drift between what's visible and what's downloaded.
+// `render` and `csv` receive the row plus a `ctx` with the user's chosen
+// display currency + FX snapshot so the market-cap column can convert.
+type RenderCtx = { displayCcy: string; fx: FxSnapshot | null };
+
 type ColDef = {
   key: keyof ScreenerRow | 'derived';
   label: string;
   hideBelow?: 'sm' | 'md' | 'lg';
   align?: 'left' | 'right';
-  // optional renderers — if absent, raw value is used
-  render?: (r: ScreenerRow) => string;
-  csv?: (r: ScreenerRow) => string | number | null;
+  render?: (r: ScreenerRow, ctx: RenderCtx) => string;
+  csv?: (r: ScreenerRow, ctx: RenderCtx) => string | number | null;
 };
 
 const COLUMNS: ColDef[] = [
@@ -65,8 +68,16 @@ const COLUMNS: ColDef[] = [
   { key: 'country', label: 'Country', align: 'left', hideBelow: 'lg',
     render: r => r.country || '—', csv: r => r.country ?? '' },
   { key: 'marketCap', label: 'Market cap',
-    render: r => formatMoney(r.marketCap ?? null, r.marketCapCurrency || r.currency || 'USD'),
-    csv: r => r.marketCap ?? null },
+    render: (r, { displayCcy, fx }) => {
+      const src = r.marketCapCurrency || r.currency || 'USD';
+      const v = fx ? convert(r.marketCap ?? null, src, displayCcy, fx) : r.marketCap ?? null;
+      return formatMoney(v, displayCcy);
+    },
+    csv: (r, { displayCcy, fx }) => {
+      const src = r.marketCapCurrency || r.currency || 'USD';
+      return fx ? convert(r.marketCap ?? null, src, displayCcy, fx) : r.marketCap ?? null;
+    },
+  },
   { key: 'pe',    label: 'P/E',  hideBelow: 'sm',
     render: r => r.pe == null ? '—' : r.pe.toFixed(1),
     csv: r => r.pe ?? null },
@@ -129,7 +140,9 @@ function decodeFilters(search: string): Filters {
 
 export default function ScreenerPage() {
   const [rows, setRows] = useState<ScreenerRow[]>([]);
+  const [fx, setFx]     = useState<FxSnapshot | null>(null);
   const [f, setF]       = useState<Filters>(DEFAULTS);
+  const [displayCcy, setDisplayCcy] = useState<'USD' | 'EUR' | 'GBP' | 'INR' | 'JPY'>('USD');
   const [hydrated, setHydrated] = useState(false);
 
   // Initial hydration from URL (only client-side; SSR sees defaults).
@@ -150,6 +163,7 @@ export default function ScreenerPage() {
 
   useEffect(() => {
     fetch(vUrl(`${BP}/data/screener.json`)).then(r => r.json()).then(setRows);
+    fetch(vUrl(`${BP}/data/fx/latest.json`)).then(r => r.json()).then(setFx);
   }, []);
 
   const countries = useMemo(
@@ -174,7 +188,9 @@ export default function ScreenerPage() {
   }, [f.query]);
 
   const filtered = rows.filter(r => {
-    if ((r.marketCap || 0) < f.minMarketCap) return false;
+    // Min market cap filter is always interpreted in USD so the same value
+    // makes sense across all listings (mixing 10B USD with 10B INR is meaningless).
+    if ((r.marketCapUsd ?? 0) < f.minMarketCap) return false;
     if ((r.roe  ?? -Infinity) < f.minRoe)  return false;
     if ((r.roic ?? -Infinity) < f.minRoic) return false;
     if (f.maxDebtToEquity !== Infinity && (r.debtToEquity ?? Infinity) > f.maxDebtToEquity) return false;
@@ -198,10 +214,11 @@ export default function ScreenerPage() {
   };
 
   const exportCsv = () => {
+    const ctx: RenderCtx = { displayCcy, fx };
     const header = COLUMNS.map(c => c.label).join(',');
     const lines = filtered.map(r =>
       COLUMNS.map(c => {
-        const v = c.csv ? c.csv(r) : (r as any)[c.key];
+        const v = c.csv ? c.csv(r, ctx) : (r as any)[c.key];
         if (v == null) return '';
         if (typeof v === 'string') return `"${v.replace(/"/g, '""')}"`;
         return String(v);
@@ -280,10 +297,22 @@ export default function ScreenerPage() {
         <NumField label="Min EPS"                 value={f.minEps === -Infinity ? NaN : f.minEps}
                   placeholder="any" step={0.5}
                   onChange={v => setF({ ...f, minEps: Number.isFinite(v) ? v : -Infinity })} />
-        <NumField label="Min market cap"          value={f.minMarketCap}            placeholder="(reporting ccy)" step={1e9}
+        <NumField label="Min market cap (USD)"    value={f.minMarketCap}            placeholder="e.g. 1000000000" step={1e9}
                   onChange={v => setF({ ...f, minMarketCap: v })} />
         <SelectField label="Country" value={f.country} options={countries} onChange={v => setF({ ...f, country: v })} />
         <SelectField label="Sector"  value={f.sector}  options={sectors}  onChange={v => setF({ ...f, sector:  v })} />
+        <label className="flex flex-col gap-1 text-xs text-atlas-muted">
+          Display currency
+          <select
+            value={displayCcy}
+            onChange={e => setDisplayCcy(e.target.value as any)}
+            className="rounded border border-atlas-border bg-atlas-bg px-2 py-1 text-sm text-atlas-text"
+          >
+            {(['USD', 'EUR', 'GBP', 'INR', 'JPY'] as const).map(c => (
+              <option key={c} value={c}>{c}{c === 'INR' ? ' (Lakh / Cr)' : ''}</option>
+            ))}
+          </select>
+        </label>
       </section>
 
       {/* Custom query — screener.in-style boolean expression */}
@@ -310,7 +339,10 @@ export default function ScreenerPage() {
       </section>
 
       <div className="flex items-center justify-between text-xs text-atlas-muted">
-        <span>{filtered.length.toLocaleString()} match{filtered.length === 1 ? '' : 'es'}</span>
+        <span>
+          {filtered.length.toLocaleString()} match{filtered.length === 1 ? '' : 'es'}
+          {' '}· market cap shown in <span className="text-atlas-text">{displayCcy}</span>
+        </span>
         {f.query && !queryError && <span>Query active</span>}
       </div>
 
@@ -320,10 +352,13 @@ export default function ScreenerPage() {
             <tr>
               {COLUMNS.map(c => {
                 const hide = c.hideBelow ? `hidden ${c.hideBelow}:table-cell` : '';
+                // Annotate the Market cap header with the active display ccy
+                // so a user sorting/filtering knows the units instantly.
+                const label = c.key === 'marketCap' ? `${c.label} (${displayCcy})` : c.label;
                 return (
                   <th key={c.label}
                       className={`${hide} px-3 py-2 ${c.align === 'left' ? 'text-left' : 'text-right'}`}>
-                    {c.label}
+                    {label}
                   </th>
                 );
               })}
@@ -345,7 +380,7 @@ export default function ScreenerPage() {
                     );
                   }
                   const val = c.render
-                    ? c.render(r)
+                    ? c.render(r, { displayCcy, fx })
                     : ((r as any)[c.key] ?? '—');
                   return (
                     <td key={c.label} className={`${hide} ${align} px-3 py-1.5 ${c.align === 'left' ? 'text-atlas-muted' : ''}`}>
