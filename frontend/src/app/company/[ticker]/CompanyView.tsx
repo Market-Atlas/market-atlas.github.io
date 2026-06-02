@@ -392,6 +392,18 @@ export default function CompanyView({
 
       <MoatCard rows={hist} />
 
+      <ScenarioCard
+        company={company}
+        latest={latest}
+        mcap={mcap}
+        displayCcy={displayCcy}
+        currentPrice={
+          company.price?.value != null
+            ? convert(company.price.value, company.price.currency, displayCcy, fx)
+            : null
+        }
+      />
+
       <Card title="Compounded growth" subtitle={hist.length < 11 ? `Only ${hist.length} years of data available · longer windows show ‘—’` : undefined}>
         <div className="overflow-x-auto">
           <table className="num min-w-full text-right text-sm">
@@ -1585,5 +1597,189 @@ function SimilarStocksStrip({
         })}
       </div>
     </Card>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Scenario analysis — three sliders (revenue growth, net margin, exit P/E)
+// project net income → market cap → annualised return over N years.
+//
+// Defaults pull from the company's own history so the initial sliders show
+// the "no change vs trailing 5y" base case. Users move them to see what
+// growth/margin/multiple shifts would do to the implied price.
+
+function ScenarioCard({
+  company, latest, mcap, displayCcy, currentPrice,
+}: {
+  company: Company;
+  latest?: HistoricalYear;
+  mcap: number | null;
+  displayCcy: string;
+  currentPrice: number | null;
+}) {
+  const hist = company.historicalFinancials;
+
+  // Defaults derived from history. Bounded so sliders behave sensibly.
+  const baseRev = latest?.revenue ?? null;
+  const baseMargin = latest?.netMargin ?? null;
+  const basePe = (() => {
+    if (!mcap || !latest?.netIncome || latest.netIncome <= 0) return null;
+    const ni = latest.netIncome;  // reporting ccy
+    const mc = company.marketCap?.value ?? null;
+    return mc && mc > 0 ? mc / ni : null;
+  })();
+  const baseShares = latest?.sharesOutstanding ?? null;
+
+  // 5y revenue CAGR for "Use historical growth" hint.
+  const cagr5y = useMemo(() => {
+    const rev = hist.map(r => r.revenue ?? null);
+    return cagrFor(rev, 5);
+  }, [hist]);
+
+  const [years,  setYears]  = useState(5);
+  const [growth, setGrowth] = useState(() => clamp(cagr5y ?? 0.10, -0.20, 0.50));
+  const [margin, setMargin] = useState(() => clamp(baseMargin ?? 0.10, -0.30, 0.60));
+  const [exitPe, setExitPe] = useState(() => clamp(basePe ?? 20, 1, 80));
+
+  // Cannot project without revenue + share count.
+  if (baseRev == null || !baseShares || baseShares <= 0) {
+    return (
+      <Card title="Scenario analysis" subtitle="Project future earnings + return">
+        <p className="text-sm text-atlas-muted">
+          Need revenue and shares-outstanding to project earnings — those fields aren&apos;t available for this company yet.
+        </p>
+      </Card>
+    );
+  }
+
+  // Forward projection.
+  const futureRev    = baseRev * Math.pow(1 + growth, years);
+  const futureNI     = futureRev * margin;
+  const futureEps    = futureNI / baseShares;
+  const futureMcapReporting = futureNI * exitPe;        // exit market cap in reporting ccy
+
+  // Convert to display ccy for the headline (mcap is already in displayCcy).
+  // If we have a current mcap, derive a unit factor; otherwise show in reporting ccy.
+  const ccyFactor = mcap && company.marketCap?.value
+    ? mcap / company.marketCap.value
+    : 1;
+  const futureMcapDisp = futureMcapReporting * ccyFactor;
+  const futurePriceDisp = (futureMcapDisp ?? 0) / baseShares;
+
+  const totalReturn = currentPrice && currentPrice > 0
+    ? futurePriceDisp / currentPrice - 1
+    : null;
+  const annualReturn = totalReturn != null
+    ? Math.pow(1 + totalReturn, 1 / years) - 1
+    : null;
+
+  const tone = annualReturn == null ? undefined
+    : annualReturn >= 0.10 ? 'positive'
+    : annualReturn < 0     ? 'negative'
+    : undefined;
+
+  return (
+    <Card
+      title="Scenario analysis"
+      subtitle={`Project ${years} years forward · sliders are editable`}
+      actions={
+        <div className="flex gap-1">
+          {[3, 5, 10].map(y => (
+            <button
+              key={y}
+              onClick={() => setYears(y)}
+              className={`rounded px-2 py-1 text-xs ${
+                years === y
+                  ? 'border border-atlas-accent/40 bg-atlas-accent/10 text-atlas-text'
+                  : 'border border-atlas-border text-atlas-muted hover:text-atlas-text'
+              }`}
+            >
+              {y}Y
+            </button>
+          ))}
+        </div>
+      }
+    >
+      <div className="grid gap-4 lg:grid-cols-[1fr,1fr]">
+        {/* Sliders */}
+        <div className="space-y-3">
+          <Slider
+            label="Revenue growth (CAGR)"
+            value={growth}
+            min={-0.20} max={0.50} step={0.005}
+            format={v => `${(v * 100).toFixed(1)}%`}
+            hint={cagr5y != null ? `Trailing 5y: ${(cagr5y * 100).toFixed(1)}%` : 'No 5y CAGR available'}
+            onChange={setGrowth}
+          />
+          <Slider
+            label="Net margin"
+            value={margin}
+            min={-0.30} max={0.60} step={0.005}
+            format={v => `${(v * 100).toFixed(1)}%`}
+            hint={baseMargin != null ? `Current: ${(baseMargin * 100).toFixed(1)}%` : 'No current margin'}
+            onChange={setMargin}
+          />
+          <Slider
+            label="Exit P/E"
+            value={exitPe}
+            min={1} max={80} step={0.5}
+            format={v => `${v.toFixed(1)}×`}
+            hint={basePe != null ? `Current: ${basePe.toFixed(1)}×` : 'No current P/E'}
+            onChange={setExitPe}
+          />
+        </div>
+
+        {/* Outputs */}
+        <div className="grid grid-cols-2 gap-px overflow-hidden rounded border border-atlas-border bg-atlas-border">
+          <Kpi label={`Revenue (FY+${years})`} value={formatMoney(futureRev * ccyFactor, displayCcy)} />
+          <Kpi label={`Net income (FY+${years})`} value={formatMoney(futureNI * ccyFactor, displayCcy)} />
+          <Kpi label={`EPS (FY+${years})`} value={isFinite(futureEps) ? (futureEps * ccyFactor).toFixed(2) : '—'} sub={displayCcy} />
+          <Kpi label={`Market cap (FY+${years})`} value={formatMoney(futureMcapDisp, displayCcy)} />
+          <Kpi
+            label={`Implied price (FY+${years})`}
+            value={isFinite(futurePriceDisp) ? formatMoney(futurePriceDisp, displayCcy, { compact: false }) : '—'}
+            sub={currentPrice != null ? `vs ${formatMoney(currentPrice, displayCcy, { compact: false })} today` : undefined}
+          />
+          <Kpi
+            label="Annualised return"
+            value={annualReturn == null ? '—' : `${annualReturn >= 0 ? '+' : ''}${(annualReturn * 100).toFixed(1)}%`}
+            sub={totalReturn != null ? `${totalReturn >= 0 ? '+' : ''}${(totalReturn * 100).toFixed(0)}% total` : undefined}
+            tone={tone}
+          />
+        </div>
+      </div>
+      <p className="mt-3 text-[11px] text-atlas-muted">
+        Pure arithmetic: revenue × (1+g)<sup>n</sup>, × margin = net income, ÷ shares = EPS,
+        × exit P/E = market cap, ÷ shares = price. Doesn&apos;t model buybacks, dilution, or FX drift.
+      </p>
+    </Card>
+  );
+}
+
+function clamp(v: number, lo: number, hi: number): number {
+  return Math.max(lo, Math.min(hi, v));
+}
+
+function Slider({
+  label, value, min, max, step, format, hint, onChange,
+}: {
+  label: string; value: number; min: number; max: number; step: number;
+  format: (v: number) => string; hint?: string;
+  onChange: (v: number) => void;
+}) {
+  return (
+    <div>
+      <div className="flex items-baseline justify-between text-xs">
+        <span className="text-atlas-muted">{label}</span>
+        <span className="num text-sm font-medium">{format(value)}</span>
+      </div>
+      <input
+        type="range"
+        min={min} max={max} step={step} value={value}
+        onChange={e => onChange(Number(e.target.value))}
+        className="mt-1 w-full accent-atlas-accent"
+      />
+      {hint && <div className="text-[10px] text-atlas-muted">{hint}</div>}
+    </div>
   );
 }

@@ -28,9 +28,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="-mx-3 flex w-full items-center gap-4 overflow-x-auto px-3 text-sm text-atlas-muted sm:mx-0 sm:w-auto sm:gap-5 sm:overflow-visible sm:px-0">
               <Link href="/" className="whitespace-nowrap hover:text-atlas-text">Search</Link>
               <Link href="/rankings/" className="whitespace-nowrap hover:text-atlas-text">Rankings</Link>
+              <Link href="/heatmap/" className="whitespace-nowrap hover:text-atlas-text">Heatmap</Link>
               <Link href="/tags/" className="whitespace-nowrap hover:text-atlas-text">Tags</Link>
               <Link href="/screener/" className="whitespace-nowrap hover:text-atlas-text">Screener</Link>
-              <Link href="/watchlist/" className="whitespace-nowrap hover:text-atlas-text">Watchlist</Link>
+              <Link href="/watchlist/" className="whitespace-nowrap hover:text-atlas-text">Portfolio</Link>
             </nav>
           </div>
         </header>
