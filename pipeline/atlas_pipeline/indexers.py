@@ -226,6 +226,7 @@ def build_screener() -> list[dict[str, Any]]:
         mcap_val = (c.get("marketCap") or {}).get("value")
         mcap_ccy = (c.get("marketCap") or {}).get("currency") or c.get("currency")
         latest_ni = hist[-1].get("netIncome") if hist else None
+        latest_fcf = hist[-1].get("freeCashFlow") if hist else None
         # PE: prefer yfinance's reported peRatio, fall back to mcap / netIncome
         # (same calc the company page does — handles all the older rows that
         # don't have peRatio yet).
@@ -235,6 +236,13 @@ def build_screener() -> list[dict[str, Any]]:
                 pe = float(mcap_val) / float(latest_ni)
             except (TypeError, ValueError, ZeroDivisionError):
                 pe = None
+        # FCF yield = TTM FCF / market cap (both in reporting ccy)
+        fcf_yield = None
+        if mcap_val and latest_fcf:
+            try:
+                fcf_yield = float(latest_fcf) / float(mcap_val)
+            except (TypeError, ValueError, ZeroDivisionError):
+                fcf_yield = None
 
         rows.append({
             "ticker": c["ticker"],
@@ -258,6 +266,8 @@ def build_screener() -> list[dict[str, Any]]:
             "eps":      (hist[-1].get("eps")        if hist else None),
             "pe":       pe,
             "pb":       fund.get("priceToBook") or ratios.get("priceToBook"),
+            "dividendYield": fund.get("dividendYield"),
+            "fcfYield": fcf_yield,
             "roe": ratios.get("roe"),
             "roic": ratios.get("roic"),
             "debtToEquity": ratios.get("debtToEquity"),

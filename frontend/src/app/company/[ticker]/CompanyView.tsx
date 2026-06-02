@@ -4,7 +4,7 @@ import {
   CartesianGrid, Legend, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis,
 } from 'recharts';
 import { useMemo, useState } from 'react';
-import type { Company, FxSnapshot, HistoricalYear } from '@/lib/types';
+import type { Company, FxSnapshot, HistoricalYear, QuarterlyRow, HolderRow } from '@/lib/types';
 import { SUPPORTED_DISPLAY_CCYS, convert, formatMoney, formatPercent } from '@/lib/fx';
 import WatchlistButton from './WatchlistButton';
 import Link from 'next/link';
@@ -172,6 +172,32 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         </div>
       </header>
 
+      {/* About — only renders when the pipeline captured a description */}
+      {(company.description || company.headquarters || company.employees) && (
+        <section className="rounded-lg border border-atlas-border bg-atlas-surface p-4">
+          <div className="flex flex-wrap items-baseline justify-between gap-3">
+            <h2 className="text-sm font-medium">About {company.name}</h2>
+            <div className="flex flex-wrap items-center gap-3 text-xs text-atlas-muted">
+              {company.headquarters && <span>📍 {company.headquarters}</span>}
+              {company.employees != null && (
+                <span>👥 {new Intl.NumberFormat('en').format(company.employees)} employees</span>
+              )}
+              {company.website && (
+                <a href={company.website} target="_blank" rel="noopener noreferrer"
+                   className="text-atlas-accent hover:underline">
+                  {domainOf(company.website)} ↗
+                </a>
+              )}
+            </div>
+          </div>
+          {company.description && (
+            <p className="mt-2 max-w-4xl text-sm leading-relaxed text-atlas-muted">
+              {company.description}
+            </p>
+          )}
+        </section>
+      )}
+
       {/* KPI strip */}
       <section className="grid grid-cols-2 gap-px overflow-hidden rounded-lg border border-atlas-border bg-atlas-border sm:grid-cols-3 lg:grid-cols-5">
         <Kpi label="Market cap"    value={formatMoney(mcap, displayCcy)} />
@@ -241,12 +267,17 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         </div>
       </Card>
 
-      <Card title="Quarterly results">
-        <p className="text-sm text-atlas-muted">
-          Quarterly data isn&apos;t included in the MVP dataset yet — only audited annual
-          fundamentals are stored, in each company&apos;s reporting currency. Quarterly
-          ingestion (US 10-Q, Indian quarterly filings, Japan&apos;s 四半期) is on the roadmap.
-        </p>
+      <Card title="Quarterly results" subtitle={`Last ${(company.quarterlyFinancials || []).length} quarters · ${displayCcy}`}>
+        {(!company.quarterlyFinancials || company.quarterlyFinancials.length === 0) ? (
+          <p className="text-sm text-atlas-muted">
+            Quarterly data not yet ingested for this company. The nightly pipeline pulls
+            the most recent 8 quarters from yfinance — it will appear here after the next run.
+          </p>
+        ) : (
+          <ScrollTable>
+            <QuarterlyTable rows={company.quarterlyFinancials} displayCcy={displayCcy} conv={conv} />
+          </ScrollTable>
+        )}
       </Card>
 
       <Card title="Profit & Loss" subtitle={`Annual · ${displayCcy}`}>
@@ -277,8 +308,26 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
       <Card title="Cash Flow" subtitle={`Annual · ${displayCcy}`}>
         <ScrollTable>
           <FinancialsTable rows={hist} displayCcy={displayCcy} conv={conv} spec={[
-            { label: 'Free cash flow', kind: 'money', key: 'freeCashFlow' },
+            { label: 'Operating cash flow', kind: 'money',   key: 'operatingCashFlow' },
+            { label: 'Investing cash flow', kind: 'money',   key: 'investingCashFlow' },
+            { label: 'Financing cash flow', kind: 'money',   key: 'financingCashFlow' },
+            { label: 'Net cash flow',       kind: 'derived', compute: r => {
+              const o = r.operatingCashFlow ?? null;
+              const i = r.investingCashFlow ?? null;
+              const f = r.financingCashFlow ?? null;
+              if (o == null && i == null && f == null) return null;
+              return (o ?? 0) + (i ?? 0) + (f ?? 0);
+            } },
+            { label: 'Capex',               kind: 'money',   key: 'capex' },
+            { label: 'Free cash flow',      kind: 'money',   key: 'freeCashFlow' },
+            { label: 'Dividends paid',      kind: 'money',   key: 'dividendsPaid' },
           ]} />
+        </ScrollTable>
+      </Card>
+
+      <Card title="Working capital" subtitle="Days outstanding · Cash conversion cycle">
+        <ScrollTable>
+          <WorkingCapitalTable rows={hist} />
         </ScrollTable>
       </Card>
 
@@ -348,6 +397,16 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
           </div>
         )}
       </Card>
+
+      {company.holders && (
+        ((company.holders.institutional?.length ?? 0) > 0 ||
+         (company.holders.mutualFund?.length ?? 0) > 0 ||
+         (company.holders.summary && Object.keys(company.holders.summary).length > 0)) && (
+          <Card title="Major holders" subtitle="Source: yfinance · institutional + fund filings">
+            <HoldersSection holders={company.holders} />
+          </Card>
+        )
+      )}
 
       <p className="text-xs text-atlas-muted">
         Source values stored in <span className="font-mono">{company.currency}</span>;
@@ -516,5 +575,188 @@ function PeerRow({
       <td className="px-3 py-1.5">{formatPercent(company.ratios.operatingMargin)}</td>
       <td className="px-3 py-1.5">{company.ratios.debtToEquity?.toFixed(2) ?? '—'}</td>
     </tr>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Quarterly results: 8-quarter table mirroring screener.in's "Quarterly Results"
+// section. All money columns are converted to displayCcy; percentages are raw.
+
+const QUARTER_SPEC: Array<{
+  label: string;
+  key: keyof QuarterlyRow;
+  kind: 'money' | 'percent' | 'number';
+  digits?: number;
+}> = [
+  { label: 'Revenue',          key: 'revenue',          kind: 'money' },
+  { label: 'Operating profit', key: 'operatingIncome',  kind: 'money' },
+  { label: 'OPM %',            key: 'operatingMargin',  kind: 'percent' },
+  { label: 'Interest',         key: 'interestExpense',  kind: 'money' },
+  { label: 'Depreciation',     key: 'depreciation',     kind: 'money' },
+  { label: 'Profit before tax', key: 'pretaxIncome',    kind: 'money' },
+  { label: 'Tax %',            key: 'taxRate',          kind: 'percent' },
+  { label: 'Net profit',       key: 'netIncome',        kind: 'money' },
+  { label: 'NPM %',            key: 'netMargin',        kind: 'percent' },
+  { label: 'EPS',              key: 'eps',              kind: 'number', digits: 2 },
+];
+
+function QuarterlyTable({
+  rows, displayCcy, conv,
+}: {
+  rows: QuarterlyRow[];
+  displayCcy: string;
+  conv: (v: number | null | undefined) => number | null;
+}) {
+  const fmtMoney = (v: number | null | undefined) => formatMoney(conv(v), displayCcy);
+  const fmtNum = (v: number | null | undefined, digits = 2) =>
+    v == null ? '—' : new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: digits }).format(v);
+
+  // Show period as e.g. "Mar 2026"
+  const periodLabel = (iso: string) => {
+    const d = new Date(iso);
+    return isNaN(d.getTime()) ? iso : d.toLocaleString('en', { month: 'short', year: 'numeric' });
+  };
+
+  return (
+    <table className="num min-w-full text-right text-sm">
+      <thead className="text-xs uppercase tracking-wide text-atlas-muted">
+        <tr>
+          <th className="sticky left-0 z-10 bg-atlas-surface px-3 py-2 text-left">Metric</th>
+          {rows.map(r => (
+            <th key={r.periodEnd} className="px-3 py-2">{periodLabel(r.periodEnd)}</th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {QUARTER_SPEC.map(s => (
+          <tr key={s.label} className="border-t border-atlas-border">
+            <td className="sticky left-0 z-10 bg-atlas-surface px-3 py-1.5 text-left text-atlas-muted">{s.label}</td>
+            {rows.map(r => {
+              const v = r[s.key] as number | null | undefined;
+              const cell = s.kind === 'money'   ? fmtMoney(v)
+                         : s.kind === 'percent' ? formatPercent(v)
+                         :                        fmtNum(v, s.digits);
+              return <td key={r.periodEnd} className="px-3 py-1.5">{cell}</td>;
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Working capital ratios — DSO, DIO, DPO, CCC computed from the annual
+// balance-sheet line items the new ingest captures.
+//
+//   DSO (debtor days)   = receivables / revenue * 365
+//   DIO (inventory days) = inventory   / COGS    * 365
+//   DPO (days payable)  = payables    / COGS    * 365
+//   CCC (cash conv. cycle) = DSO + DIO − DPO
+//
+// COGS is approximated as revenue × (1 − grossMargin) when grossMargin is
+// available; otherwise we fall back to revenue (which makes DIO/DPO directional
+// rather than precise — labelled accordingly in the subtitle).
+
+function _days(numer: number | null | undefined, denom: number | null | undefined): number | null {
+  if (numer == null || denom == null || denom <= 0) return null;
+  return (numer / denom) * 365;
+}
+
+function _cogs(r: HistoricalYear): number | null {
+  if (r.revenue == null) return null;
+  if (r.grossMargin != null) return r.revenue * (1 - r.grossMargin);
+  return r.revenue; // fallback: approximate, but keeps trend meaningful
+}
+
+function WorkingCapitalTable({ rows }: { rows: HistoricalYear[] }) {
+  const fmtDays = (v: number | null) => v == null ? '—' : `${Math.round(v)}d`;
+  return (
+    <table className="num min-w-full text-right text-sm">
+      <thead className="text-xs uppercase tracking-wide text-atlas-muted">
+        <tr>
+          <th className="sticky left-0 z-10 bg-atlas-surface px-3 py-2 text-left">Metric</th>
+          {rows.map(r => (
+            <th key={r.fiscalYear} className="px-3 py-2">{r.fiscalYear}</th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {[
+          { label: 'Debtor days',    fn: (r: HistoricalYear) => _days(r.accountsReceivable, r.revenue) },
+          { label: 'Inventory days', fn: (r: HistoricalYear) => _days(r.inventory,          _cogs(r)) },
+          { label: 'Days payable',   fn: (r: HistoricalYear) => _days(r.accountsPayable,    _cogs(r)) },
+          { label: 'Cash conversion cycle', fn: (r: HistoricalYear) => {
+              const dso = _days(r.accountsReceivable, r.revenue);
+              const dio = _days(r.inventory,          _cogs(r));
+              const dpo = _days(r.accountsPayable,    _cogs(r));
+              if (dso == null && dio == null && dpo == null) return null;
+              return (dso ?? 0) + (dio ?? 0) - (dpo ?? 0);
+          } },
+        ].map(spec => (
+          <tr key={spec.label} className="border-t border-atlas-border">
+            <td className="sticky left-0 z-10 bg-atlas-surface px-3 py-1.5 text-left text-atlas-muted">{spec.label}</td>
+            {rows.map(r => (
+              <td key={r.fiscalYear} className="px-3 py-1.5">{fmtDays(spec.fn(r))}</td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Holders: insider/institution % summary + top institutional + mutual-fund tables.
+
+function HoldersSection({ holders }: { holders: NonNullable<Company['holders']> }) {
+  const fmtPct = (v: number | null | undefined) =>
+    v == null ? '—' : `${(v * 100).toFixed(2)}%`;
+  const fmtShares = (v: number | null | undefined) =>
+    v == null ? '—' : new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 2 }).format(v);
+
+  const HolderTable = ({ title, rows }: { title: string; rows: HolderRow[] }) =>
+    rows.length === 0 ? null : (
+      <div>
+        <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-atlas-muted">{title}</h3>
+        <div className="overflow-x-auto">
+          <table className="num min-w-full text-right text-sm">
+            <thead className="text-[11px] uppercase tracking-wide text-atlas-muted">
+              <tr>
+                <th className="px-3 py-1.5 text-left">Holder</th>
+                <th className="px-3 py-1.5">Shares</th>
+                <th className="px-3 py-1.5">% out</th>
+                <th className="px-3 py-1.5">Reported</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((h, i) => (
+                <tr key={`${h.holder}-${i}`} className="border-t border-atlas-border">
+                  <td className="px-3 py-1.5 text-left">{h.holder || '—'}</td>
+                  <td className="px-3 py-1.5">{fmtShares(h.shares)}</td>
+                  <td className="px-3 py-1.5">{fmtPct(h.pctOut)}</td>
+                  <td className="px-3 py-1.5 text-atlas-muted">{h.reportDate || '—'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    );
+
+  const summary = holders.summary || {};
+  return (
+    <div className="space-y-4">
+      {Object.keys(summary).length > 0 && (
+        <div className="grid grid-cols-2 gap-px overflow-hidden rounded border border-atlas-border bg-atlas-border sm:grid-cols-4">
+          {summary.insidersPct          && <Kpi label="Insiders"          value={summary.insidersPct} />}
+          {summary.institutionsPct      && <Kpi label="Institutions"      value={summary.institutionsPct} />}
+          {summary.institutionsFloatPct && <Kpi label="% of float"        value={summary.institutionsFloatPct} />}
+          {summary.institutionsCount    && <Kpi label="# institutions"    value={summary.institutionsCount} />}
+        </div>
+      )}
+      <HolderTable title="Top institutional holders" rows={holders.institutional || []} />
+      <HolderTable title="Top mutual-fund holders"   rows={holders.mutualFund    || []} />
+    </div>
   );
 }

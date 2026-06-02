@@ -138,6 +138,77 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
     except Exception:  # pragma: no cover
         return None
 
+    # Quarterly statements drive the screener.in-style "last 8 quarters" table.
+    # Each is a separate yfinance call; fail open if any individual one is blocked.
+    qfin = qbs = qcf = None
+    try:
+        qfin = t.quarterly_financials
+    except Exception:
+        pass
+    try:
+        qbs = t.quarterly_balance_sheet
+    except Exception:
+        pass
+    try:
+        qcf = t.quarterly_cashflow
+    except Exception:
+        pass
+
+    # Major / institutional / mutual-fund holders.
+    # yfinance returns DataFrames; convert to plain JSON-safe rows or empty list.
+    inst_holders: list[dict[str, Any]] = []
+    fund_holders: list[dict[str, Any]] = []
+    major_holders: dict[str, Any] = {}
+    try:
+        ih = t.institutional_holders
+        if ih is not None and not ih.empty:
+            for _, row in ih.head(15).iterrows():
+                d = row.to_dict()
+                inst_holders.append({
+                    "holder":     str(d.get("Holder", "")),
+                    "shares":     _safe(d.get("Shares")),
+                    "pctOut":     _safe(d.get("pctHeld")) or _safe(d.get("% Out")),
+                    "value":      _safe(d.get("Value")),
+                    "reportDate": str(d.get("Date Reported", "")) or None,
+                })
+    except Exception:
+        pass
+    try:
+        mh = t.mutualfund_holders
+        if mh is not None and not mh.empty:
+            for _, row in mh.head(10).iterrows():
+                d = row.to_dict()
+                fund_holders.append({
+                    "holder":     str(d.get("Holder", "")),
+                    "shares":     _safe(d.get("Shares")),
+                    "pctOut":     _safe(d.get("pctHeld")) or _safe(d.get("% Out")),
+                    "value":      _safe(d.get("Value")),
+                    "reportDate": str(d.get("Date Reported", "")) or None,
+                })
+    except Exception:
+        pass
+    try:
+        # The "major_holders" DataFrame is 2 cols, rows like:
+        #  "% of Shares Held by All Insider" / "0.07%"
+        #  "% of Shares Held by Institutions" / "61.4%"
+        mj = t.major_holders
+        if mj is not None and not mj.empty:
+            for _, row in mj.iterrows():
+                vals = row.tolist()
+                if len(vals) >= 2:
+                    label = str(vals[1]).strip().lower()
+                    val   = str(vals[0]).strip()
+                    if "insider" in label:
+                        major_holders["insidersPct"] = val
+                    elif "institution" in label and "float" not in label:
+                        major_holders["institutionsPct"] = val
+                    elif "float" in label:
+                        major_holders["institutionsFloatPct"] = val
+                    elif "number of institutions" in label:
+                        major_holders["institutionsCount"] = val
+    except Exception:
+        pass
+
     # 35-day daily close history → drives the sparkline + day/30d change %.
     # Keep this cheap: one call, one chart period. Fail open if blocked.
     spark: list[dict[str, Any]] = []
@@ -184,6 +255,12 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             operating_income = g(fin, ["Operating Income", "OperatingIncome"])
             net_income       = g(fin, ["Net Income", "Net Income Common Stockholders", "NetIncome"])
             eps              = g(fin, ["Diluted EPS", "Basic EPS", "DilutedEPS", "BasicEPS"])
+            interest_expense = g(fin, ["Interest Expense", "InterestExpense"])
+            depreciation     = g(fin, ["Reconciled Depreciation", "Depreciation And Amortization",
+                                       "DepreciationAndAmortization"])
+            tax_provision    = g(fin, ["Tax Provision", "TaxProvision",
+                                       "Income Tax Expense", "IncomeTaxExpense"])
+            pretax_income    = g(fin, ["Pretax Income", "PretaxIncome", "Income Before Tax"])
 
             cash             = g(bs,  ["Cash And Cash Equivalents", "CashAndCashEquivalents",
                                        "Cash Cash Equivalents And Short Term Investments"])
@@ -191,10 +268,20 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             equity           = g(bs,  ["Stockholders Equity", "StockholdersEquity",
                                        "Common Stock Equity", "CommonStockEquity"])
             shares           = g(bs,  ["Share Issued", "Ordinary Shares Number", "ShareIssued"])
+            receivables      = g(bs,  ["Accounts Receivable", "AccountsReceivable",
+                                       "Gross Accounts Receivable", "Net Receivables"])
+            inventory        = g(bs,  ["Inventory", "Inventories"])
+            payables         = g(bs,  ["Accounts Payable", "AccountsPayable"])
 
             operating_cf     = g(cf,  ["Operating Cash Flow", "Cash Flow From Continuing Operating Activities",
                                        "OperatingCashFlow"])
+            investing_cf     = g(cf,  ["Investing Cash Flow", "Cash Flow From Continuing Investing Activities",
+                                       "InvestingCashFlow"])
+            financing_cf     = g(cf,  ["Financing Cash Flow", "Cash Flow From Continuing Financing Activities",
+                                       "FinancingCashFlow"])
             capex            = g(cf,  ["Capital Expenditure", "CapitalExpenditure"])
+            dividends_paid   = g(cf,  ["Cash Dividends Paid", "CashDividendsPaid",
+                                       "Common Stock Dividend Paid"])
             fcf              = (operating_cf + capex) if operating_cf is not None and capex is not None else None
 
             gross_profit = (revenue - cost_of_revenue) if revenue is not None and cost_of_revenue is not None else None
@@ -205,8 +292,20 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
                 "netIncome":         net_income,
                 "eps":               eps,
                 "freeCashFlow":      fcf,
+                "operatingCashFlow": operating_cf,
+                "investingCashFlow": investing_cf,
+                "financingCashFlow": financing_cf,
+                "capex":             capex,
+                "dividendsPaid":     dividends_paid,
+                "interestExpense":   interest_expense,
+                "depreciation":      depreciation,
+                "taxProvision":      tax_provision,
+                "pretaxIncome":      pretax_income,
                 "totalDebt":         total_debt,
                 "cash":              cash,
+                "accountsReceivable": receivables,
+                "inventory":          inventory,
+                "accountsPayable":    payables,
                 "sharesOutstanding": shares,
                 "grossMargin":       _div(gross_profit, revenue),
                 "operatingMargin":   _div(operating_income, revenue),
@@ -216,6 +315,45 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
                                           (equity or 0) + (total_debt or 0) or None),
             })
             historical.append(row)
+
+    # Quarterly P&L (last 8 quarters max). Compact: just the columns the UI shows.
+    quarterly: list[dict[str, Any]] = []
+    if qfin is not None and not qfin.empty:
+        cols = sorted(qfin.columns)[-8:]  # newest 8, oldest-first
+        for col in cols:
+            def qg(df, names):
+                if df is None or df.empty:
+                    return None
+                for n in names:
+                    if n in df.index and col in df.columns:
+                        v = _safe(df.at[n, col])
+                        if v is not None:
+                            return v
+                return None
+            q_revenue = qg(qfin, ["Total Revenue", "TotalRevenue"])
+            q_op      = qg(qfin, ["Operating Income", "OperatingIncome"])
+            q_ni      = qg(qfin, ["Net Income", "Net Income Common Stockholders", "NetIncome"])
+            q_eps     = qg(qfin, ["Diluted EPS", "Basic EPS", "DilutedEPS", "BasicEPS"])
+            q_int     = qg(qfin, ["Interest Expense", "InterestExpense"])
+            q_dep     = qg(qfin, ["Reconciled Depreciation", "Depreciation And Amortization"])
+            q_tax     = qg(qfin, ["Tax Provision", "TaxProvision", "Income Tax Expense"])
+            q_pbt     = qg(qfin, ["Pretax Income", "PretaxIncome", "Income Before Tax"])
+            q_ocf     = qg(qcf, ["Operating Cash Flow", "Cash Flow From Continuing Operating Activities"])
+            quarterly.append({
+                "periodEnd":         col.date().isoformat(),
+                "revenue":           q_revenue,
+                "operatingIncome":   q_op,
+                "operatingMargin":   _div(q_op, q_revenue),
+                "interestExpense":   q_int,
+                "depreciation":      q_dep,
+                "pretaxIncome":      q_pbt,
+                "taxProvision":      q_tax,
+                "taxRate":           _div(q_tax, q_pbt),
+                "netIncome":         q_ni,
+                "netMargin":         _div(q_ni, q_revenue),
+                "eps":               q_eps,
+                "operatingCashFlow": q_ocf,
+            })
 
     latest = historical[-1] if historical else {}
 
@@ -228,6 +366,9 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
         "industry": info.get("industry"),
         "currency": currency,
         "website":  (info.get("website") or "").strip() or None,
+        "description":  (info.get("longBusinessSummary") or info.get("description") or "").strip() or None,
+        "employees":    _safe(info.get("fullTimeEmployees")),
+        "headquarters": ", ".join(x for x in [info.get("city"), info.get("state"), info.get("country")] if x) or None,
         "marketCap": {
             "value":    _safe(info.get("marketCap")) or 0,
             "currency": (info.get("currency") or currency).upper(),
@@ -268,6 +409,12 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             "debtToEquity":    _safe(info.get("debtToEquity")) and _safe(info.get("debtToEquity")) / 100,
         },
         "historicalFinancials": historical,
+        "quarterlyFinancials":  quarterly,
+        "holders": {
+            "summary":       major_holders,
+            "institutional": inst_holders,
+            "mutualFund":    fund_holders,
+        },
         "meta": {
             "source":      "yfinance",
             "lastUpdated": datetime.now(timezone.utc).isoformat(),

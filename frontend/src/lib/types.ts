@@ -18,6 +18,9 @@ export interface Fundamentals {
   totalDebt: number | null;
   cash: number | null;
   sharesOutstanding: number | null;
+  peRatio?: number | null;
+  priceToBook?: number | null;
+  dividendYield?: number | null;
 }
 
 export interface Ratios {
@@ -32,6 +35,53 @@ export interface Ratios {
 export interface HistoricalYear extends Partial<Fundamentals>, Partial<Ratios> {
   fiscalYear: number;
   periodEnd?: string;
+  operatingCashFlow?: number | null;
+  investingCashFlow?: number | null;
+  financingCashFlow?: number | null;
+  capex?: number | null;
+  dividendsPaid?: number | null;
+  interestExpense?: number | null;
+  depreciation?: number | null;
+  taxProvision?: number | null;
+  pretaxIncome?: number | null;
+  accountsReceivable?: number | null;
+  inventory?: number | null;
+  accountsPayable?: number | null;
+}
+
+export interface QuarterlyRow {
+  periodEnd: string;
+  revenue?: number | null;
+  operatingIncome?: number | null;
+  operatingMargin?: number | null;
+  interestExpense?: number | null;
+  depreciation?: number | null;
+  pretaxIncome?: number | null;
+  taxProvision?: number | null;
+  taxRate?: number | null;
+  netIncome?: number | null;
+  netMargin?: number | null;
+  eps?: number | null;
+  operatingCashFlow?: number | null;
+}
+
+export interface HolderRow {
+  holder: string;
+  shares?: number | null;
+  pctOut?: number | null;
+  value?: number | null;
+  reportDate?: string | null;
+}
+
+export interface Holders {
+  summary?: {
+    insidersPct?: string;
+    institutionsPct?: string;
+    institutionsFloatPct?: string;
+    institutionsCount?: string;
+  };
+  institutional?: HolderRow[];
+  mutualFund?: HolderRow[];
 }
 
 export interface Company {
@@ -43,12 +93,17 @@ export interface Company {
   industry?: string;
   currency: Currency;
   website?: string | null;
+  description?: string | null;
+  employees?: number | null;
+  headquarters?: string | null;
   tags?: string[];
   marketCap?: MoneyAt;
   price?: { value: number | null; currency: Currency; asOf: string };
   fundamentals: Fundamentals;
   ratios: Ratios;
   historicalFinancials: HistoricalYear[];
+  quarterlyFinancials?: QuarterlyRow[];
+  holders?: Holders;
   meta?: { source?: string; lastUpdated?: string };
 }
 
@@ -112,6 +167,8 @@ export interface ScreenerRow {
   grossMargin?: number | null;
   operatingMargin?: number | null;
   netMargin?: number | null;
+  dividendYield?: number | null;
+  fcfYield?: number | null;
   revenueCagr?: number | null;
   fcfCagr?: number | null;
 }
