@@ -22,11 +22,50 @@ import sys
 from pathlib import Path
 
 from .adapters.yfinance_adapter import canonical_ticker, fetch_company
+from .adapters.sec_edgar      import fetch_augment as fetch_edgar
 from .indexers import write_artifacts
 from .paths import COMPANIES_DIR, ROOT
 from .validate import validate
 
 UNIVERSES_DIR = ROOT / "pipeline" / "universes"
+
+
+def _merge_edgar(doc: dict, edgar: dict) -> dict:
+    """Overlay EDGAR's deeper history onto the yfinance base doc.
+
+    Strategy:
+      - For annual: EDGAR usually has 10y+, yfinance ~4y. Merge by fiscalYear;
+        EDGAR wins (more recent SEC filings, complete coverage). yfinance-only
+        years (typically the most recent if EDGAR hasn't filed yet) are kept.
+      - For quarterly: EDGAR wins outright when present.
+      - Mark provenance under meta.edgar so the UI can show the source.
+    """
+    # Annual merge
+    yf_annual = {r.get("fiscalYear"): r for r in (doc.get("historicalFinancials") or [])}
+    eg_annual = edgar.get("historicalFinancials") or []
+    merged_by_fy: dict = dict(yf_annual)
+    for row in eg_annual:
+        fy = row.get("fiscalYear")
+        if fy is None:
+            continue
+        existing = merged_by_fy.get(fy) or {}
+        # EDGAR row wins, but keep any yfinance fields it doesn't have
+        combined = {**existing, **{k: v for k, v in row.items() if v is not None}}
+        merged_by_fy[fy] = combined
+    doc["historicalFinancials"] = sorted(
+        merged_by_fy.values(), key=lambda r: r.get("fiscalYear", 0)
+    )
+
+    # Quarterly: EDGAR replaces if it has anything
+    if edgar.get("quarterlyFinancials"):
+        doc["quarterlyFinancials"] = edgar["quarterlyFinancials"]
+
+    # Provenance
+    meta = doc.setdefault("meta", {})
+    if edgar.get("meta", {}).get("edgar"):
+        meta["edgar"] = edgar["meta"]["edgar"]
+
+    return doc
 
 
 def _read_universe(name: str) -> list[str]:
@@ -56,6 +95,17 @@ def _ingest_one(yticker: str, skip_existing: bool) -> tuple[str, str]:
         return yticker, "empty"
     if not doc.get("historicalFinancials"):
         return yticker, "empty"
+
+    # EDGAR augment for US-listed tickers — gives 10y+ history and clean
+    # quarterly. Non-US tickers (everything with a yfinance suffix like .NS
+    # or .T) are skipped; EDGAR only covers SEC filers.
+    if "." not in yticker:
+        try:
+            edgar = fetch_edgar(yticker)
+        except Exception:
+            edgar = None
+        if edgar:
+            doc = _merge_edgar(doc, edgar)
 
     errs = validate(doc, "company.schema.json")
     if errs:

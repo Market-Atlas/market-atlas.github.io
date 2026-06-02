@@ -214,6 +214,7 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
     spark: list[dict[str, Any]] = []
     day_change_pct: float | None = None
     month_change_pct: float | None = None
+    price_history: list[dict[str, Any]] = []
     try:
         h = t.history(period="40d", interval="1d", auto_adjust=False)
         if h is not None and not h.empty:
@@ -228,6 +229,23 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             tail = closes[-30:]
             for i, c in enumerate(tail):
                 spark.append({"i": i, "c": round(c, 4)})
+    except Exception:
+        pass
+
+    # 5-year weekly close history → drives the interactive price chart
+    # (1Y / 5Y / Max). Weekly granularity caps each company's JSON at ~10KB
+    # of price data. Fail open if blocked.
+    try:
+        h5 = t.history(period="5y", interval="1wk", auto_adjust=True)
+        if h5 is not None and not h5.empty:
+            for ts, row in h5.iterrows():
+                close = row.get("Close")
+                if close is None or close != close:  # NaN guard
+                    continue
+                price_history.append({
+                    "d": ts.date().isoformat(),
+                    "c": round(float(close), 4),
+                })
     except Exception:
         pass
 
@@ -386,6 +404,7 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
             "dayChangePct":   day_change_pct,
             "monthChangePct": month_change_pct,
             "sparkline":      spark,
+            "history":        price_history,
         },
         "fundamentals": {
             "revenue":           latest.get("revenue"),

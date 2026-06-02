@@ -212,6 +212,16 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         <Kpi label="Earnings yield" value={formatPercent(earningsYield)} />
       </section>
 
+      {/* Price chart — only when the ingest captured weekly closes */}
+      {(company.price?.history?.length ?? 0) >= 4 && (
+        <PriceChartCard
+          history={company.price!.history!}
+          priceCcy={company.price!.currency}
+          displayCcy={displayCcy}
+          fx={fx}
+        />
+      )}
+
       {/* Pros & Cons */}
       <section className="grid gap-4 lg:grid-cols-2">
         <Card title="Pros">
@@ -575,6 +585,111 @@ function PeerRow({
       <td className="px-3 py-1.5">{formatPercent(company.ratios.operatingMargin)}</td>
       <td className="px-3 py-1.5">{company.ratios.debtToEquity?.toFixed(2) ?? '—'}</td>
     </tr>
+  );
+}
+
+// ────────────────────────────────────────────────────────────────────────────
+// Price chart — uses the 5y weekly close history captured by the ingest.
+// Range buttons (1M / 6M / 1Y / 5Y / Max) slice the same series client-side.
+
+const PRICE_RANGES: Array<{ key: string; days: number | null }> = [
+  { key: '1M',  days: 31 },
+  { key: '6M',  days: 183 },
+  { key: 'YTD', days: -1 },          // sentinel — handled separately
+  { key: '1Y',  days: 365 },
+  { key: '5Y',  days: 365 * 5 },
+  { key: 'Max', days: null },
+];
+
+function PriceChartCard({
+  history, priceCcy, displayCcy, fx,
+}: {
+  history: { d: string; c: number }[];
+  priceCcy: string;
+  displayCcy: string;
+  fx: FxSnapshot;
+}) {
+  const [range, setRange] = useState('1Y');
+
+  const data = useMemo(() => {
+    const now = Date.now();
+    const cutoff = (() => {
+      const r = PRICE_RANGES.find(x => x.key === range);
+      if (!r || r.days === null) return -Infinity;
+      if (r.days === -1) {  // YTD
+        return new Date(new Date().getFullYear(), 0, 1).getTime();
+      }
+      return now - r.days * 86400 * 1000;
+    })();
+    return history
+      .filter(p => new Date(p.d).getTime() >= cutoff)
+      .map(p => ({
+        d: p.d,
+        c: convert(p.c, priceCcy, displayCcy, fx) ?? p.c,
+      }));
+  }, [history, range, priceCcy, displayCcy, fx]);
+
+  const first = data[0]?.c;
+  const last  = data[data.length - 1]?.c;
+  const chg   = (first != null && last != null && first > 0)
+    ? (last - first) / first
+    : null;
+  const chgCls = chg == null ? 'text-atlas-muted'
+    : chg >= 0 ? 'text-atlas-positive' : 'text-atlas-negative';
+
+  return (
+    <Card
+      title="Stock price"
+      subtitle={`Weekly close · ${displayCcy}`}
+      actions={
+        <div className="flex flex-wrap gap-1">
+          {PRICE_RANGES.map(r => (
+            <button
+              key={r.key}
+              onClick={() => setRange(r.key)}
+              className={`rounded px-2 py-1 text-xs ${
+                range === r.key
+                  ? 'border border-atlas-accent/40 bg-atlas-accent/10 text-atlas-text'
+                  : 'border border-atlas-border text-atlas-muted hover:text-atlas-text'
+              }`}
+            >
+              {r.key}
+            </button>
+          ))}
+        </div>
+      }
+    >
+      <div className="mb-2 flex items-baseline gap-3 text-sm">
+        <span className="num text-lg font-semibold">{last != null ? formatMoney(last, displayCcy, { compact: false }) : '—'}</span>
+        {chg != null && (
+          <span className={`num ${chgCls}`}>
+            {chg >= 0 ? '▲' : '▼'} {(chg * 100).toFixed(2)}% over {range}
+          </span>
+        )}
+      </div>
+      <div className="h-64">
+        <ResponsiveContainer width="100%" height="100%">
+          <LineChart data={data} margin={{ top: 4, right: 16, left: 0, bottom: 0 }}>
+            <CartesianGrid stroke="#1f2430" vertical={false} />
+            <XAxis dataKey="d" stroke="#8a93a6" fontSize={11}
+                   tickFormatter={(v: string) => {
+                     const d = new Date(v);
+                     return d.toLocaleString('en', { month: 'short', year: '2-digit' });
+                   }} minTickGap={32} />
+            <YAxis stroke="#8a93a6" fontSize={11}
+                   domain={['auto', 'auto']}
+                   tickFormatter={(v: number) =>
+                     new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(v)} />
+            <Tooltip
+              contentStyle={{ background: '#11141b', border: '1px solid #1f2430', borderRadius: 8 }}
+              labelFormatter={(v: string) => new Date(v).toLocaleDateString('en')}
+              formatter={(v: number) => formatMoney(v, displayCcy, { compact: false })}
+            />
+            <Line type="monotone" dataKey="c" stroke="#5eead4" strokeWidth={1.5} dot={false} name="Close" />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
+    </Card>
   );
 }
 

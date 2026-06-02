@@ -84,6 +84,18 @@ export interface Holders {
   mutualFund?: HolderRow[];
 }
 
+// Indian shareholding pattern (NSE), reported quarterly. Each pattern is
+// one filing period.
+export interface ShareholdingPattern {
+  periodEnd: string;          // ISO date
+  promoterPct?: number | null;
+  fiiPct?: number | null;
+  diiPct?: number | null;
+  publicPct?: number | null;
+  governmentPct?: number | null;
+  othersPct?: number | null;
+}
+
 export interface Company {
   ticker: string;
   name: string;
@@ -98,13 +110,22 @@ export interface Company {
   headquarters?: string | null;
   tags?: string[];
   marketCap?: MoneyAt;
-  price?: { value: number | null; currency: Currency; asOf: string };
+  price?: {
+    value: number | null;
+    currency: Currency;
+    asOf: string;
+    dayChangePct?: number | null;
+    monthChangePct?: number | null;
+    sparkline?: { i: number; c: number }[];
+    history?: { d: string; c: number }[];
+  };
   fundamentals: Fundamentals;
   ratios: Ratios;
   historicalFinancials: HistoricalYear[];
   quarterlyFinancials?: QuarterlyRow[];
   holders?: Holders;
-  meta?: { source?: string; lastUpdated?: string };
+  shareholding?: ShareholdingPattern[];
+  meta?: { source?: string; lastUpdated?: string; edgar?: { cik: string; fetchedAt: string } };
 }
 
 export interface Holding {
