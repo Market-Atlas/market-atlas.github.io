@@ -6,15 +6,1193 @@
   "sector": "Financial Services",
   "industry": "Asset Management",
   "currency": "USD",
+  "website": "https://www.principal.com",
+  "description": "Principal Financial Group, Inc. provides retirement, asset management, and insurance products and services to businesses, individuals, and institutional clients worldwide. The company operates through Retirement and Income Solutions, Principal Asset Management, and Benefits and Protection segments. The Retirement and Income Solutions segment provides retirement, and related financial products and services. This segment offers products and services for defined contribution plans, including 401(k) and 403(b) plans, defined benefit plans, nonqualified executive benefit plans, employee stock ownership plans, equity compensation, and pension risk transfer services; individual retirement accounts; investment only products; and mutual funds, individual variable annuities, registered index-linked annuities, and bank products, as well as trust and custody services. The Principal Asset Management segment provides equity, fixed income, real estate, and other alternative investments, as well as fund offerings. This segment also offers pension accumulation products and services, mutual funds, asset management, income annuities, and life insurance accumulation products, as well as voluntary savings plans. The Benefits and Protection segment provides specialty benefits, such as specialty benefits group dental and vision insurance, group life and other insurance, and group and individual disability insurance, as well as administers group dental, disability, and vision benefits; and individual life insurance products comprising universal, variable universal, indexed universal, and term life insurance products. This segment serves insurance solutions for small and medium-sized businesses and their owners, as well as employees. The company was founded in 1879 and is based in Des Moines, Iowa.",
+  "employees": 19700.0,
+  "headquarters": "Des Moines, IA, United States",
   "marketCap": {
-    "value": 22383204352.0,
+    "value": 22227675136.0,
     "currency": "USD",
-    "asOf": "2026-05-30"
+    "asOf": "2026-06-02"
   },
   "price": {
-    "value": 103.62,
+    "value": 102.9,
     "currency": "USD",
-    "asOf": "2026-05-30"
+    "asOf": "2026-06-02",
+    "dayChangePct": -0.006948477143587749,
+    "monthChangePct": 0.019720521172835456,
+    "sparkline": [
+      {
+        "i": 0,
+        "c": 96.19
+      },
+      {
+        "i": 1,
+        "c": 95.73
+      },
+      {
+        "i": 2,
+        "c": 97.43
+      },
+      {
+        "i": 3,
+        "c": 97.0
+      },
+      {
+        "i": 4,
+        "c": 99.34
+      },
+      {
+        "i": 5,
+        "c": 99.74
+      },
+      {
+        "i": 6,
+        "c": 100.06
+      },
+      {
+        "i": 7,
+        "c": 99.63
+      },
+      {
+        "i": 8,
+        "c": 100.91
+      },
+      {
+        "i": 9,
+        "c": 101.09
+      },
+      {
+        "i": 10,
+        "c": 99.46
+      },
+      {
+        "i": 11,
+        "c": 100.87
+      },
+      {
+        "i": 12,
+        "c": 101.55
+      },
+      {
+        "i": 13,
+        "c": 100.03
+      },
+      {
+        "i": 14,
+        "c": 100.5
+      },
+      {
+        "i": 15,
+        "c": 100.19
+      },
+      {
+        "i": 16,
+        "c": 100.84
+      },
+      {
+        "i": 17,
+        "c": 100.42
+      },
+      {
+        "i": 18,
+        "c": 100.77
+      },
+      {
+        "i": 19,
+        "c": 100.53
+      },
+      {
+        "i": 20,
+        "c": 102.4
+      },
+      {
+        "i": 21,
+        "c": 101.14
+      },
+      {
+        "i": 22,
+        "c": 102.81
+      },
+      {
+        "i": 23,
+        "c": 103.92
+      },
+      {
+        "i": 24,
+        "c": 103.85
+      },
+      {
+        "i": 25,
+        "c": 104.71
+      },
+      {
+        "i": 26,
+        "c": 104.57
+      },
+      {
+        "i": 27,
+        "c": 103.32
+      },
+      {
+        "i": 28,
+        "c": 103.62
+      },
+      {
+        "i": 29,
+        "c": 102.9
+      }
+    ],
+    "history": [
+      {
+        "d": "2021-05-31",
+        "c": 54.6508
+      },
+      {
+        "d": "2021-06-07",
+        "c": 54.2638
+      },
+      {
+        "d": "2021-06-14",
+        "c": 49.9725
+      },
+      {
+        "d": "2021-06-21",
+        "c": 53.8372
+      },
+      {
+        "d": "2021-06-28",
+        "c": 52.9254
+      },
+      {
+        "d": "2021-07-05",
+        "c": 51.8547
+      },
+      {
+        "d": "2021-07-12",
+        "c": 51.0182
+      },
+      {
+        "d": "2021-07-19",
+        "c": 52.022
+      },
+      {
+        "d": "2021-07-26",
+        "c": 51.9718
+      },
+      {
+        "d": "2021-08-02",
+        "c": 54.2554
+      },
+      {
+        "d": "2021-08-09",
+        "c": 55.9953
+      },
+      {
+        "d": "2021-08-16",
+        "c": 54.3976
+      },
+      {
+        "d": "2021-08-23",
+        "c": 56.9824
+      },
+      {
+        "d": "2021-08-30",
+        "c": 55.209
+      },
+      {
+        "d": "2021-09-06",
+        "c": 54.7776
+      },
+      {
+        "d": "2021-09-13",
+        "c": 55.0225
+      },
+      {
+        "d": "2021-09-20",
+        "c": 54.423
+      },
+      {
+        "d": "2021-09-27",
+        "c": 55.4194
+      },
+      {
+        "d": "2021-10-04",
+        "c": 58.1975
+      },
+      {
+        "d": "2021-10-11",
+        "c": 57.9696
+      },
+      {
+        "d": "2021-10-18",
+        "c": 58.6366
+      },
+      {
+        "d": "2021-10-25",
+        "c": 56.6523
+      },
+      {
+        "d": "2021-11-01",
+        "c": 58.2229
+      },
+      {
+        "d": "2021-11-08",
+        "c": 58.7633
+      },
+      {
+        "d": "2021-11-15",
+        "c": 59.8442
+      },
+      {
+        "d": "2021-11-22",
+        "c": 59.8779
+      },
+      {
+        "d": "2021-11-29",
+        "c": 58.4171
+      },
+      {
+        "d": "2021-12-06",
+        "c": 61.3435
+      },
+      {
+        "d": "2021-12-13",
+        "c": 61.0453
+      },
+      {
+        "d": "2021-12-20",
+        "c": 60.9941
+      },
+      {
+        "d": "2021-12-27",
+        "c": 61.6332
+      },
+      {
+        "d": "2022-01-03",
+        "c": 64.982
+      },
+      {
+        "d": "2022-01-10",
+        "c": 65.4592
+      },
+      {
+        "d": "2022-01-17",
+        "c": 61.352
+      },
+      {
+        "d": "2022-01-24",
+        "c": 61.4372
+      },
+      {
+        "d": "2022-01-31",
+        "c": 63.7124
+      },
+      {
+        "d": "2022-02-07",
+        "c": 64.7945
+      },
+      {
+        "d": "2022-02-14",
+        "c": 61.761
+      },
+      {
+        "d": "2022-02-21",
+        "c": 61.0879
+      },
+      {
+        "d": "2022-02-28",
+        "c": 57.1426
+      },
+      {
+        "d": "2022-03-07",
+        "c": 55.4384
+      },
+      {
+        "d": "2022-03-14",
+        "c": 60.2678
+      },
+      {
+        "d": "2022-03-21",
+        "c": 63.3401
+      },
+      {
+        "d": "2022-03-28",
+        "c": 63.5897
+      },
+      {
+        "d": "2022-04-04",
+        "c": 63.3573
+      },
+      {
+        "d": "2022-04-11",
+        "c": 63.6413
+      },
+      {
+        "d": "2022-04-18",
+        "c": 62.2558
+      },
+      {
+        "d": "2022-04-25",
+        "c": 58.6412
+      },
+      {
+        "d": "2022-05-02",
+        "c": 60.4657
+      },
+      {
+        "d": "2022-05-09",
+        "c": 60.2592
+      },
+      {
+        "d": "2022-05-16",
+        "c": 59.5879
+      },
+      {
+        "d": "2022-05-23",
+        "c": 62.7721
+      },
+      {
+        "d": "2022-05-30",
+        "c": 60.9993
+      },
+      {
+        "d": "2022-06-06",
+        "c": 57.5889
+      },
+      {
+        "d": "2022-06-13",
+        "c": 55.4444
+      },
+      {
+        "d": "2022-06-20",
+        "c": 59.5164
+      },
+      {
+        "d": "2022-06-27",
+        "c": 58.8392
+      },
+      {
+        "d": "2022-07-04",
+        "c": 58.1012
+      },
+      {
+        "d": "2022-07-11",
+        "c": 54.4286
+      },
+      {
+        "d": "2022-07-18",
+        "c": 55.4878
+      },
+      {
+        "d": "2022-07-25",
+        "c": 58.1185
+      },
+      {
+        "d": "2022-08-01",
+        "c": 59.2299
+      },
+      {
+        "d": "2022-08-08",
+        "c": 69.0321
+      },
+      {
+        "d": "2022-08-15",
+        "c": 67.8513
+      },
+      {
+        "d": "2022-08-22",
+        "c": 66.5142
+      },
+      {
+        "d": "2022-08-29",
+        "c": 64.6302
+      },
+      {
+        "d": "2022-09-05",
+        "c": 67.9728
+      },
+      {
+        "d": "2022-09-12",
+        "c": 67.4414
+      },
+      {
+        "d": "2022-09-19",
+        "c": 63.413
+      },
+      {
+        "d": "2022-09-26",
+        "c": 63.1853
+      },
+      {
+        "d": "2022-10-03",
+        "c": 66.5919
+      },
+      {
+        "d": "2022-10-10",
+        "c": 67.0911
+      },
+      {
+        "d": "2022-10-17",
+        "c": 69.044
+      },
+      {
+        "d": "2022-10-24",
+        "c": 77.0746
+      },
+      {
+        "d": "2022-10-31",
+        "c": 78.7123
+      },
+      {
+        "d": "2022-11-07",
+        "c": 83.1961
+      },
+      {
+        "d": "2022-11-14",
+        "c": 79.6056
+      },
+      {
+        "d": "2022-11-21",
+        "c": 80.9805
+      },
+      {
+        "d": "2022-11-28",
+        "c": 80.7265
+      },
+      {
+        "d": "2022-12-05",
+        "c": 77.6806
+      },
+      {
+        "d": "2022-12-12",
+        "c": 74.9022
+      },
+      {
+        "d": "2022-12-19",
+        "c": 75.4667
+      },
+      {
+        "d": "2022-12-26",
+        "c": 74.0201
+      },
+      {
+        "d": "2023-01-02",
+        "c": 77.1425
+      },
+      {
+        "d": "2023-01-09",
+        "c": 78.7831
+      },
+      {
+        "d": "2023-01-16",
+        "c": 77.5835
+      },
+      {
+        "d": "2023-01-23",
+        "c": 82.0731
+      },
+      {
+        "d": "2023-01-30",
+        "c": 81.4204
+      },
+      {
+        "d": "2023-02-06",
+        "c": 79.7181
+      },
+      {
+        "d": "2023-02-13",
+        "c": 80.2914
+      },
+      {
+        "d": "2023-02-20",
+        "c": 78.4038
+      },
+      {
+        "d": "2023-02-27",
+        "c": 77.2307
+      },
+      {
+        "d": "2023-03-06",
+        "c": 67.9253
+      },
+      {
+        "d": "2023-03-13",
+        "c": 61.7334
+      },
+      {
+        "d": "2023-03-20",
+        "c": 63.71
+      },
+      {
+        "d": "2023-03-27",
+        "c": 66.1395
+      },
+      {
+        "d": "2023-04-03",
+        "c": 65.3385
+      },
+      {
+        "d": "2023-04-10",
+        "c": 67.5367
+      },
+      {
+        "d": "2023-04-17",
+        "c": 66.8781
+      },
+      {
+        "d": "2023-04-24",
+        "c": 66.4688
+      },
+      {
+        "d": "2023-05-01",
+        "c": 63.6388
+      },
+      {
+        "d": "2023-05-08",
+        "c": 60.0613
+      },
+      {
+        "d": "2023-05-15",
+        "c": 61.7788
+      },
+      {
+        "d": "2023-05-22",
+        "c": 60.6664
+      },
+      {
+        "d": "2023-05-29",
+        "c": 61.8233
+      },
+      {
+        "d": "2023-06-05",
+        "c": 64.1318
+      },
+      {
+        "d": "2023-06-12",
+        "c": 67.1771
+      },
+      {
+        "d": "2023-06-19",
+        "c": 65.0391
+      },
+      {
+        "d": "2023-06-26",
+        "c": 68.1294
+      },
+      {
+        "d": "2023-07-03",
+        "c": 68.8301
+      },
+      {
+        "d": "2023-07-10",
+        "c": 71.0938
+      },
+      {
+        "d": "2023-07-17",
+        "c": 75.1543
+      },
+      {
+        "d": "2023-07-24",
+        "c": 71.4172
+      },
+      {
+        "d": "2023-07-31",
+        "c": 70.5818
+      },
+      {
+        "d": "2023-08-07",
+        "c": 70.0428
+      },
+      {
+        "d": "2023-08-14",
+        "c": 68.6953
+      },
+      {
+        "d": "2023-08-21",
+        "c": 68.5695
+      },
+      {
+        "d": "2023-08-28",
+        "c": 70.456
+      },
+      {
+        "d": "2023-09-04",
+        "c": 67.7161
+      },
+      {
+        "d": "2023-09-11",
+        "c": 69.7145
+      },
+      {
+        "d": "2023-09-18",
+        "c": 67.5039
+      },
+      {
+        "d": "2023-09-25",
+        "c": 65.2933
+      },
+      {
+        "d": "2023-10-02",
+        "c": 63.3183
+      },
+      {
+        "d": "2023-10-09",
+        "c": 63.2005
+      },
+      {
+        "d": "2023-10-16",
+        "c": 61.6694
+      },
+      {
+        "d": "2023-10-23",
+        "c": 61.3071
+      },
+      {
+        "d": "2023-10-30",
+        "c": 64.9491
+      },
+      {
+        "d": "2023-11-06",
+        "c": 63.0284
+      },
+      {
+        "d": "2023-11-13",
+        "c": 65.7191
+      },
+      {
+        "d": "2023-11-20",
+        "c": 65.8188
+      },
+      {
+        "d": "2023-11-27",
+        "c": 67.522
+      },
+      {
+        "d": "2023-12-04",
+        "c": 68.7043
+      },
+      {
+        "d": "2023-12-11",
+        "c": 71.7213
+      },
+      {
+        "d": "2023-12-18",
+        "c": 72.1327
+      },
+      {
+        "d": "2023-12-25",
+        "c": 71.9224
+      },
+      {
+        "d": "2024-01-01",
+        "c": 73.888
+      },
+      {
+        "d": "2024-01-08",
+        "c": 71.9956
+      },
+      {
+        "d": "2024-01-15",
+        "c": 71.6025
+      },
+      {
+        "d": "2024-01-22",
+        "c": 73.6046
+      },
+      {
+        "d": "2024-01-29",
+        "c": 71.3282
+      },
+      {
+        "d": "2024-02-05",
+        "c": 71.4928
+      },
+      {
+        "d": "2024-02-12",
+        "c": 73.1749
+      },
+      {
+        "d": "2024-02-19",
+        "c": 73.3578
+      },
+      {
+        "d": "2024-02-26",
+        "c": 73.1841
+      },
+      {
+        "d": "2024-03-04",
+        "c": 73.1109
+      },
+      {
+        "d": "2024-03-11",
+        "c": 75.4696
+      },
+      {
+        "d": "2024-03-18",
+        "c": 77.0302
+      },
+      {
+        "d": "2024-03-25",
+        "c": 79.5939
+      },
+      {
+        "d": "2024-04-01",
+        "c": 77.934
+      },
+      {
+        "d": "2024-04-08",
+        "c": 73.6089
+      },
+      {
+        "d": "2024-04-15",
+        "c": 74.1807
+      },
+      {
+        "d": "2024-04-22",
+        "c": 72.9634
+      },
+      {
+        "d": "2024-04-29",
+        "c": 74.8908
+      },
+      {
+        "d": "2024-05-06",
+        "c": 77.4268
+      },
+      {
+        "d": "2024-05-13",
+        "c": 78.5057
+      },
+      {
+        "d": "2024-05-20",
+        "c": 75.8222
+      },
+      {
+        "d": "2024-05-27",
+        "c": 75.6562
+      },
+      {
+        "d": "2024-06-03",
+        "c": 73.1017
+      },
+      {
+        "d": "2024-06-10",
+        "c": 71.312
+      },
+      {
+        "d": "2024-06-17",
+        "c": 74.4283
+      },
+      {
+        "d": "2024-06-24",
+        "c": 72.9771
+      },
+      {
+        "d": "2024-07-01",
+        "c": 72.9027
+      },
+      {
+        "d": "2024-07-08",
+        "c": 79.005
+      },
+      {
+        "d": "2024-07-15",
+        "c": 78.8004
+      },
+      {
+        "d": "2024-07-22",
+        "c": 75.8422
+      },
+      {
+        "d": "2024-07-29",
+        "c": 70.1492
+      },
+      {
+        "d": "2024-08-05",
+        "c": 69.5631
+      },
+      {
+        "d": "2024-08-12",
+        "c": 72.1306
+      },
+      {
+        "d": "2024-08-19",
+        "c": 73.9352
+      },
+      {
+        "d": "2024-08-26",
+        "c": 75.7399
+      },
+      {
+        "d": "2024-09-02",
+        "c": 72.1213
+      },
+      {
+        "d": "2024-09-09",
+        "c": 76.3241
+      },
+      {
+        "d": "2024-09-16",
+        "c": 80.3506
+      },
+      {
+        "d": "2024-09-23",
+        "c": 80.8011
+      },
+      {
+        "d": "2024-09-30",
+        "c": 81.9555
+      },
+      {
+        "d": "2024-10-07",
+        "c": 83.72
+      },
+      {
+        "d": "2024-10-14",
+        "c": 84.9026
+      },
+      {
+        "d": "2024-10-21",
+        "c": 78.5673
+      },
+      {
+        "d": "2024-10-28",
+        "c": 77.1313
+      },
+      {
+        "d": "2024-11-04",
+        "c": 80.2004
+      },
+      {
+        "d": "2024-11-11",
+        "c": 81.2422
+      },
+      {
+        "d": "2024-11-18",
+        "c": 80.4632
+      },
+      {
+        "d": "2024-11-25",
+        "c": 81.7396
+      },
+      {
+        "d": "2024-12-02",
+        "c": 79.2149
+      },
+      {
+        "d": "2024-12-09",
+        "c": 74.6882
+      },
+      {
+        "d": "2024-12-16",
+        "c": 73.1644
+      },
+      {
+        "d": "2024-12-23",
+        "c": 73.5524
+      },
+      {
+        "d": "2024-12-30",
+        "c": 73.7417
+      },
+      {
+        "d": "2025-01-06",
+        "c": 72.2557
+      },
+      {
+        "d": "2025-01-13",
+        "c": 77.2911
+      },
+      {
+        "d": "2025-01-20",
+        "c": 77.452
+      },
+      {
+        "d": "2025-01-27",
+        "c": 78.0388
+      },
+      {
+        "d": "2025-02-03",
+        "c": 77.9253
+      },
+      {
+        "d": "2025-02-10",
+        "c": 81.0676
+      },
+      {
+        "d": "2025-02-17",
+        "c": 79.8656
+      },
+      {
+        "d": "2025-02-24",
+        "c": 84.2763
+      },
+      {
+        "d": "2025-03-03",
+        "c": 81.0298
+      },
+      {
+        "d": "2025-03-10",
+        "c": 78.3512
+      },
+      {
+        "d": "2025-03-17",
+        "c": 79.5251
+      },
+      {
+        "d": "2025-03-24",
+        "c": 79.3341
+      },
+      {
+        "d": "2025-03-31",
+        "c": 69.6681
+      },
+      {
+        "d": "2025-04-07",
+        "c": 69.3529
+      },
+      {
+        "d": "2025-04-14",
+        "c": 68.904
+      },
+      {
+        "d": "2025-04-21",
+        "c": 70.1648
+      },
+      {
+        "d": "2025-04-28",
+        "c": 73.3836
+      },
+      {
+        "d": "2025-05-05",
+        "c": 75.3607
+      },
+      {
+        "d": "2025-05-12",
+        "c": 77.8919
+      },
+      {
+        "d": "2025-05-19",
+        "c": 73.5555
+      },
+      {
+        "d": "2025-05-26",
+        "c": 74.396
+      },
+      {
+        "d": "2025-06-02",
+        "c": 73.5173
+      },
+      {
+        "d": "2025-06-09",
+        "c": 73.2096
+      },
+      {
+        "d": "2025-06-16",
+        "c": 73.8945
+      },
+      {
+        "d": "2025-06-23",
+        "c": 76.383
+      },
+      {
+        "d": "2025-06-30",
+        "c": 78.1289
+      },
+      {
+        "d": "2025-07-07",
+        "c": 77.5212
+      },
+      {
+        "d": "2025-07-14",
+        "c": 78.1867
+      },
+      {
+        "d": "2025-07-21",
+        "c": 78.1771
+      },
+      {
+        "d": "2025-07-28",
+        "c": 72.8527
+      },
+      {
+        "d": "2025-08-04",
+        "c": 73.8752
+      },
+      {
+        "d": "2025-08-11",
+        "c": 74.888
+      },
+      {
+        "d": "2025-08-18",
+        "c": 77.8588
+      },
+      {
+        "d": "2025-08-25",
+        "c": 77.6562
+      },
+      {
+        "d": "2025-09-01",
+        "c": 77.145
+      },
+      {
+        "d": "2025-09-08",
+        "c": 80.5522
+      },
+      {
+        "d": "2025-09-15",
+        "c": 79.5879
+      },
+      {
+        "d": "2025-09-22",
+        "c": 80.4743
+      },
+      {
+        "d": "2025-09-29",
+        "c": 82.0522
+      },
+      {
+        "d": "2025-10-06",
+        "c": 77.3574
+      },
+      {
+        "d": "2025-10-13",
+        "c": 76.5879
+      },
+      {
+        "d": "2025-10-20",
+        "c": 77.5522
+      },
+      {
+        "d": "2025-10-27",
+        "c": 81.8574
+      },
+      {
+        "d": "2025-11-03",
+        "c": 80.7081
+      },
+      {
+        "d": "2025-11-10",
+        "c": 82.2763
+      },
+      {
+        "d": "2025-11-17",
+        "c": 82.1009
+      },
+      {
+        "d": "2025-11-24",
+        "c": 82.6172
+      },
+      {
+        "d": "2025-12-01",
+        "c": 85.247
+      },
+      {
+        "d": "2025-12-08",
+        "c": 88.4327
+      },
+      {
+        "d": "2025-12-15",
+        "c": 87.4593
+      },
+      {
+        "d": "2025-12-22",
+        "c": 87.8821
+      },
+      {
+        "d": "2025-12-29",
+        "c": 87.9214
+      },
+      {
+        "d": "2026-01-05",
+        "c": 88.7769
+      },
+      {
+        "d": "2026-01-12",
+        "c": 86.9972
+      },
+      {
+        "d": "2026-01-19",
+        "c": 89.6814
+      },
+      {
+        "d": "2026-01-26",
+        "c": 93.1326
+      },
+      {
+        "d": "2026-02-02",
+        "c": 95.7087
+      },
+      {
+        "d": "2026-02-09",
+        "c": 88.8752
+      },
+      {
+        "d": "2026-02-16",
+        "c": 94.1552
+      },
+      {
+        "d": "2026-02-23",
+        "c": 93.8209
+      },
+      {
+        "d": "2026-03-02",
+        "c": 90.7139
+      },
+      {
+        "d": "2026-03-09",
+        "c": 84.3916
+      },
+      {
+        "d": "2026-03-16",
+        "c": 84.3968
+      },
+      {
+        "d": "2026-03-23",
+        "c": 86.3214
+      },
+      {
+        "d": "2026-03-30",
+        "c": 89.387
+      },
+      {
+        "d": "2026-04-06",
+        "c": 91.0735
+      },
+      {
+        "d": "2026-04-13",
+        "c": 95.409
+      },
+      {
+        "d": "2026-04-20",
+        "c": 98.5539
+      },
+      {
+        "d": "2026-04-27",
+        "c": 100.29
+      },
+      {
+        "d": "2026-05-04",
+        "c": 99.7047
+      },
+      {
+        "d": "2026-05-11",
+        "c": 99.7345
+      },
+      {
+        "d": "2026-05-18",
+        "c": 103.0282
+      },
+      {
+        "d": "2026-05-25",
+        "c": 102.8
+      },
+      {
+        "d": "2026-06-01",
+        "c": 102.0857
+      }
+    ]
   },
   "fundamentals": {
     "revenue": 15625500000.0,
@@ -24,7 +1202,10 @@
     "freeCashFlow": 4438700000.0,
     "totalDebt": 3954000000.0,
     "cash": 4431000000.0,
-    "sharesOutstanding": 496884232.0
+    "sharesOutstanding": 496884232.0,
+    "peRatio": 14.763272,
+    "priceToBook": 1.8850641,
+    "dividendYield": 3.19
   },
   "ratios": {
     "roe": 0.09972315485657066,
@@ -36,77 +1217,680 @@
   },
   "historicalFinancials": [
     {
+      "revenue": 10906500000.0,
+      "fiscalYear": 2009,
+      "periodEnd": "2007-12-31",
+      "netIncome": 860300000.0,
+      "eps": 3.09,
+      "taxProvision": 208100000.0,
+      "cash": 2608000000.0,
+      "longTermDebt": 1290500000.0,
+      "shortTermDebt": 500900000.0,
+      "equity": 2472800000.0,
+      "sharesOutstanding": 259300000.0,
+      "operatingCashFlow": 2960000000.0,
+      "investingCashFlow": -4499200000.0,
+      "financingCashFlow": 1292100000.0,
+      "dividendsPaid": 235600000.0,
+      "netMargin": 0.07887956723055059,
+      "totalDebt": 1791400000.0,
+      "roe": 0.3479052086703332
+    },
+    {
+      "revenue": 9935900000.0,
+      "fiscalYear": 2010,
+      "periodEnd": "2008-12-31",
+      "netIncome": 458100000.0,
+      "eps": 1.63,
+      "taxProvision": -4500000.0,
+      "cash": 1344400000.0,
+      "longTermDebt": 1584600000.0,
+      "shortTermDebt": 101600000.0,
+      "equity": 7893500000.0,
+      "sharesOutstanding": 319000000.0,
+      "operatingCashFlow": 2224800000.0,
+      "investingCashFlow": -2917200000.0,
+      "financingCashFlow": 1956000000.0,
+      "dividendsPaid": 116700000.0,
+      "netMargin": 0.04610553648889381,
+      "totalDebt": 1686200000.0,
+      "roe": 0.0580350921644391
+    },
+    {
+      "revenue": 8849100000.0,
+      "fiscalYear": 2011,
+      "periodEnd": "2009-12-31",
+      "netIncome": 622700000.0,
+      "eps": 1.97,
+      "taxProvision": 100100000.0,
+      "cash": 2608000000.0,
+      "longTermDebt": 1583700000.0,
+      "shortTermDebt": 107900000.0,
+      "equity": 9727800000.0,
+      "sharesOutstanding": 320400000.0,
+      "operatingCashFlow": 2243000000.0,
+      "investingCashFlow": 1026800000.0,
+      "financingCashFlow": -3637400000.0,
+      "dividendsPaid": 159500000.0,
+      "netMargin": 0.0703687380637579,
+      "totalDebt": 1691600000.0,
+      "roe": 0.06401241801846255
+    },
+    {
+      "revenue": 9198200000.0,
+      "fiscalYear": 2012,
+      "periodEnd": "2010-12-31",
+      "netIncome": 662900000.0,
+      "eps": 1.95,
+      "taxProvision": 104900000.0,
+      "cash": 2240400000.0,
+      "longTermDebt": 1564800000.0,
+      "shortTermDebt": 105200000.0,
+      "equity": 9017900000.0,
+      "sharesOutstanding": 301100000.0,
+      "operatingCashFlow": 2791700000.0,
+      "investingCashFlow": 27500000.0,
+      "financingCashFlow": -3182200000.0,
+      "dividendsPaid": 176200000.0,
+      "netMargin": 0.07206844817464286,
+      "totalDebt": 1670000000.0,
+      "roe": 0.07350935361891349
+    },
+    {
+      "revenue": 8670700000.0,
+      "fiscalYear": 2013,
+      "periodEnd": "2011-12-31",
+      "netIncome": 638300000.0,
+      "eps": 1.91,
+      "depreciation": 78500000.0,
+      "taxProvision": 198300000.0,
+      "cash": 1877400000.0,
+      "longTermDebt": 2671300000.0,
+      "shortTermDebt": 40800000.0,
+      "equity": 9683400000.0,
+      "sharesOutstanding": 293800000.0,
+      "operatingCashFlow": 2713300000.0,
+      "investingCashFlow": -202100000.0,
+      "financingCashFlow": -1554700000.0,
+      "dividendsPaid": 213700000.0,
+      "netMargin": 0.07361574036698305,
+      "totalDebt": 2712100000.0,
+      "roe": 0.06591693000392425
+    },
+    {
+      "revenue": 9215100000.0,
+      "fiscalYear": 2014,
+      "periodEnd": "2012-12-31",
+      "netIncome": 806600000.0,
+      "eps": 2.58,
+      "depreciation": 87000000.0,
+      "taxProvision": 134600000.0,
+      "cash": 2833900000.0,
+      "longTermDebt": 2601400000.0,
+      "shortTermDebt": 150600000.0,
+      "equity": 9684200000.0,
+      "sharesOutstanding": 295200000.0,
+      "operatingCashFlow": 3080800000.0,
+      "investingCashFlow": -1611300000.0,
+      "financingCashFlow": -126200000.0,
+      "dividendsPaid": 231300000.0,
+      "netMargin": 0.08753024926479365,
+      "totalDebt": 2752000000.0,
+      "roe": 0.08329030792424774
+    },
+    {
+      "revenue": 9289500000.0,
+      "fiscalYear": 2015,
+      "periodEnd": "2013-12-31",
+      "netIncome": 912700000.0,
+      "eps": 2.95,
+      "depreciation": 109500000.0,
+      "taxProvision": 187900000.0,
+      "cash": 4177200000.0,
+      "longTermDebt": 2531200000.0,
+      "shortTermDebt": 28000000.0,
+      "equity": 10184000000.0,
+      "sharesOutstanding": 293900000.0,
+      "operatingCashFlow": 2221200000.0,
+      "investingCashFlow": -1226300000.0,
+      "financingCashFlow": -2800300000.0,
+      "dividendsPaid": 288400000.0,
+      "netMargin": 0.09825071317078422,
+      "totalDebt": 2559200000.0,
+      "roe": 0.08962097407698351
+    },
+    {
+      "revenue": 10477600000.0,
+      "fiscalYear": 2016,
+      "periodEnd": "2014-12-31",
+      "netIncome": 1144100000.0,
+      "eps": 3.65,
+      "depreciation": 122700000.0,
+      "taxProvision": 318500000.0,
+      "cash": 2371800000.0,
+      "longTermDebt": 3265200000.0,
+      "shortTermDebt": 181100000.0,
+      "equity": 9311600000.0,
+      "sharesOutstanding": 291400000.0,
+      "operatingCashFlow": 3102900000.0,
+      "investingCashFlow": -1172700000.0,
+      "financingCashFlow": -2438100000.0,
+      "dividendsPaid": 376600000.0,
+      "netMargin": 0.10919485378330915,
+      "totalDebt": 3446300000.0,
+      "roe": 0.12286825035439666
+    },
+    {
+      "revenue": 11964400000.0,
+      "fiscalYear": 2017,
+      "periodEnd": "2015-12-31",
+      "netIncome": 1234000000.0,
+      "eps": 4.06,
+      "depreciation": 143700000.0,
+      "taxProvision": 177600000.0,
+      "cash": 1863900000.0,
+      "longTermDebt": 3125700000.0,
+      "shortTermDebt": 51400000.0,
+      "equity": 10227300000.0,
+      "sharesOutstanding": 287700000.0,
+      "operatingCashFlow": 4377100000.0,
+      "investingCashFlow": -3167600000.0,
+      "financingCashFlow": -508600000.0,
+      "dividendsPaid": 441000000.0,
+      "netMargin": 0.1031393132961118,
+      "totalDebt": 3177100000.0,
+      "roe": 0.12065745602456171
+    },
+    {
+      "revenue": 12394100000.0,
+      "fiscalYear": 2018,
+      "periodEnd": "2016-12-31",
+      "netIncome": 1316500000.0,
+      "eps": 4.5,
+      "depreciation": 133500000.0,
+      "taxProvision": 229900000.0,
+      "cash": 2564800000.0,
+      "longTermDebt": 3178400000.0,
+      "shortTermDebt": 39500000.0,
+      "equity": 12849300000.0,
+      "sharesOutstanding": 289000000.0,
+      "operatingCashFlow": 3857800000.0,
+      "investingCashFlow": -5153900000.0,
+      "financingCashFlow": 1450900000.0,
+      "dividendsPaid": 464900000.0,
+      "netMargin": 0.10621989495001655,
+      "totalDebt": 3217900000.0,
+      "roe": 0.10245694317978411
+    },
+    {
+      "revenue": 14093200000.0,
+      "fiscalYear": 2019,
+      "periodEnd": "2017-12-31",
+      "netIncome": 2310400000.0,
+      "eps": 7.88,
+      "depreciation": 139800000.0,
+      "taxProvision": -72300000.0,
+      "cash": 2977500000.0,
+      "longTermDebt": 3259600000.0,
+      "shortTermDebt": 42900000.0,
+      "equity": 11390000000.0,
+      "sharesOutstanding": 279500000.0,
+      "operatingCashFlow": 4188000000.0,
+      "investingCashFlow": -4052800000.0,
+      "financingCashFlow": -384000000.0,
+      "dividendsPaid": 540000000.0,
+      "netMargin": 0.16393721794908184,
+      "totalDebt": 3302500000.0,
+      "roe": 0.20284460052677789
+    },
+    {
+      "revenue": 14237200000.0,
+      "fiscalYear": 2020,
+      "periodEnd": "2018-12-31",
+      "netIncome": 1546500000.0,
+      "eps": 5.36,
+      "depreciation": 151000000.0,
+      "taxProvision": 230700000.0,
+      "cash": 2515900000.0,
+      "longTermDebt": 3734100000.0,
+      "shortTermDebt": 93400000.0,
+      "equity": 14618000000.0,
+      "sharesOutstanding": 276600000.0,
+      "operatingCashFlow": 5156500000.0,
+      "investingCashFlow": -5702500000.0,
+      "financingCashFlow": 1052700000.0,
+      "dividendsPaid": 598600000.0,
+      "netMargin": 0.10862388671929873,
+      "totalDebt": 3827500000.0,
+      "roe": 0.10579422629634697
+    },
+    {
+      "revenue": 16222100000.0,
+      "fiscalYear": 2021,
+      "periodEnd": "2019-12-31",
+      "netIncome": 1394200000.0,
+      "eps": 4.96,
+      "depreciation": 166800000.0,
+      "taxProvision": 249200000.0,
+      "cash": 2849800000.0,
+      "longTermDebt": 4279200000.0,
+      "shortTermDebt": 84700000.0,
+      "equity": 16558900000.0,
+      "sharesOutstanding": 273300000.0,
+      "operatingCashFlow": 5493200000.0,
+      "investingCashFlow": -7688500000.0,
+      "financingCashFlow": 1733700000.0,
+      "dividendsPaid": 606000000.0,
+      "netMargin": 0.08594448314336615,
+      "totalDebt": 4363900000.0,
+      "roe": 0.0841964140130081
+    },
+    {
       "fiscalYear": 2022,
+      "periodEnd": "2020-12-31",
+      "revenue": 14741700000.0,
+      "operatingIncome": null,
+      "netIncome": 1395800000.0,
+      "eps": 5.05,
+      "freeCashFlow": 3056600000.0,
+      "operatingCashFlow": 3709300000.0,
+      "investingCashFlow": -4996500000.0,
+      "financingCashFlow": 1621100000.0,
+      "capex": -116300000.0,
+      "dividendsPaid": 614500000.0,
+      "interestExpense": null,
+      "depreciation": 186600000.0,
+      "taxProvision": 265000000.0,
+      "pretaxIncome": 5987000000.0,
+      "totalDebt": 4360000000.0,
+      "cash": 2332000000.0,
+      "accountsReceivable": 25376000000.0,
+      "inventory": null,
+      "accountsPayable": null,
+      "sharesOutstanding": 261700000.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.094683788165544,
+      "roe": 0.08686074153359802,
+      "roic": null,
+      "longTermDebt": 4280200000.0,
+      "shortTermDebt": 79800000.0,
+      "equity": 16069400000.0
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2021-12-31",
+      "revenue": 14427800000.0,
+      "operatingIncome": null,
+      "netIncome": 1580200000.0,
+      "eps": 5.79,
+      "freeCashFlow": 3690400000.0,
+      "operatingCashFlow": 3254400000.0,
+      "investingCashFlow": -5693700000.0,
+      "financingCashFlow": 1921500000.0,
+      "capex": -102000000.0,
+      "dividendsPaid": 654100000.0,
+      "interestExpense": null,
+      "depreciation": 208000000.0,
+      "taxProvision": 283900000.0,
+      "pretaxIncome": 738800000.0,
+      "totalDebt": 4077700000.0,
+      "cash": 4848000000.0,
+      "accountsReceivable": 24610500000.0,
+      "inventory": null,
+      "accountsPayable": null,
+      "sharesOutstanding": 243549782.0,
+      "grossMargin": null,
+      "operatingMargin": null,
+      "netMargin": 0.10952466765549841,
+      "roe": 0.15838904647829444,
+      "roic": null,
+      "longTermDebt": 3997000000.0,
+      "shortTermDebt": 80700000.0,
+      "equity": 9976700000.0
+    },
+    {
+      "fiscalYear": 2024,
       "periodEnd": "2022-12-31",
       "revenue": 17536100000.0,
       "operatingIncome": null,
       "netIncome": 4756900000.0,
       "eps": 18.63,
-      "freeCashFlow": 3056600000.0,
-      "totalDebt": 4077700000.0,
-      "cash": 4848000000.0,
-      "sharesOutstanding": 489800000.0,
+      "freeCashFlow": 4534100000.0,
+      "operatingCashFlow": 3172900000.0,
+      "investingCashFlow": 1058500000.0,
+      "financingCashFlow": -1715400000.0,
+      "capex": -68800000.0,
+      "dividendsPaid": 642300000.0,
+      "interestExpense": null,
+      "depreciation": 256200000.0,
+      "taxProvision": 1189500000.0,
+      "pretaxIncome": 1889600000.0,
+      "totalDebt": 3992000000.0,
+      "cash": 4707700000.0,
+      "accountsReceivable": 23261600000.0,
+      "inventory": null,
+      "accountsPayable": null,
+      "sharesOutstanding": 236438294.0,
       "grossMargin": null,
       "operatingMargin": null,
       "netMargin": 0.27126327974863285,
-      "roe": 0.47680094620465685,
-      "roic": null
+      "roe": 0.4357731769879077,
+      "roic": null,
+      "longTermDebt": 3930900000.0,
+      "shortTermDebt": 61100000.0,
+      "equity": 10916000000.0
     },
     {
-      "fiscalYear": 2023,
+      "fiscalYear": 2025,
       "periodEnd": "2023-12-31",
       "revenue": 13665800000.0,
       "operatingIncome": null,
       "netIncome": 623200000.0,
       "eps": 2.55,
-      "freeCashFlow": 3690400000.0,
-      "totalDebt": 3992000000.0,
-      "cash": 4707700000.0,
-      "sharesOutstanding": 492279405.0,
+      "freeCashFlow": 4438700000.0,
+      "operatingCashFlow": 3792400000.0,
+      "investingCashFlow": -1346900000.0,
+      "financingCashFlow": -2585800000.0,
+      "capex": -98000000.0,
+      "dividendsPaid": 625500000.0,
+      "interestExpense": null,
+      "depreciation": 251400000.0,
+      "taxProvision": 68700000.0,
+      "pretaxIncome": 1416000000.0,
+      "totalDebt": 4108000000.0,
+      "cash": 4211900000.0,
+      "accountsReceivable": 22894600000.0,
+      "inventory": null,
+      "accountsPayable": null,
+      "sharesOutstanding": 226225161.0,
       "grossMargin": null,
       "operatingMargin": null,
       "netMargin": 0.045602891890705266,
-      "roe": 0.05709050934408208,
-      "roic": null
-    },
-    {
-      "fiscalYear": 2024,
-      "periodEnd": "2024-12-31",
-      "revenue": 16127700000.0,
-      "operatingIncome": null,
-      "netIncome": 1571000000.0,
-      "eps": 6.68,
-      "freeCashFlow": 4534100000.0,
-      "totalDebt": 4108000000.0,
-      "cash": 4211900000.0,
-      "sharesOutstanding": 494734908.0,
-      "grossMargin": null,
-      "operatingMargin": null,
-      "netMargin": 0.09741004606980537,
-      "roe": 0.14170515225862318,
-      "roic": null
-    },
-    {
-      "fiscalYear": 2025,
-      "periodEnd": "2025-12-31",
-      "revenue": 15625500000.0,
-      "operatingIncome": null,
-      "netIncome": 1185100000.0,
-      "eps": 5.25,
-      "freeCashFlow": 4438700000.0,
-      "totalDebt": 3954000000.0,
-      "cash": 4431000000.0,
-      "sharesOutstanding": 496884232.0,
-      "grossMargin": null,
-      "operatingMargin": null,
-      "netMargin": 0.07584397299286423,
-      "roe": 0.09972315485657066,
-      "roic": null
+      "roe": 0.05621301775147929,
+      "roic": null,
+      "longTermDebt": 3955300000.0,
+      "shortTermDebt": 152700000.0,
+      "equity": 11086400000.0
     }
   ],
+  "quarterlyFinancials": [
+    {
+      "revenue": 4310800000.0,
+      "periodEnd": "2024-06-30",
+      "netIncome": 353100000.0,
+      "eps": 1.49,
+      "taxProvision": 87100000.0,
+      "cash": 4816600000.0,
+      "longTermDebt": 3932200000.0,
+      "shortTermDebt": 49900000.0,
+      "equity": 11013400000.0,
+      "sharesOutstanding": 232293387.0,
+      "netMargin": 0.08191055024589404,
+      "totalDebt": 3982100000.0,
+      "roe": 0.03206094394101731
+    },
+    {
+      "revenue": 3011600000.0,
+      "periodEnd": "2024-09-30",
+      "netIncome": -220000000.0,
+      "eps": -0.95,
+      "taxProvision": -100400000.0,
+      "cash": 6174500000.0,
+      "longTermDebt": 3932900000.0,
+      "shortTermDebt": 37300000.0,
+      "equity": 11237400000.0,
+      "sharesOutstanding": 229291302.0,
+      "netMargin": -0.07305086996945145,
+      "totalDebt": 3970200000.0,
+      "roe": -0.01957748233577162
+    },
+    {
+      "cash": 4211900000.0,
+      "periodEnd": "2024-12-31",
+      "longTermDebt": 3955300000.0,
+      "shortTermDebt": 152700000.0,
+      "equity": 11086400000.0,
+      "sharesOutstanding": 226225161.0,
+      "totalDebt": 4108000000.0
+    },
+    {
+      "revenue": 3695900000.0,
+      "periodEnd": "2025-03-31",
+      "netIncome": 48100000.0,
+      "eps": 0.21,
+      "taxProvision": -34000000.0,
+      "cash": 3875700000.0,
+      "longTermDebt": 4321300000.0,
+      "shortTermDebt": 28900000.0,
+      "equity": 11216800000.0,
+      "sharesOutstanding": 224971715.0,
+      "operatingCashFlow": 977300000.0,
+      "investingCashFlow": -952700000.0,
+      "financingCashFlow": -360800000.0,
+      "dividendsPaid": 169000000.0,
+      "netMargin": 0.013014421385860007,
+      "totalDebt": 4350200000.0,
+      "roe": 0.004288210541330861
+    },
+    {
+      "revenue": 3671300000.0,
+      "periodEnd": "2025-06-30",
+      "netIncome": 406200000.0,
+      "eps": 1.79,
+      "taxProvision": 69600000.0,
+      "cash": 3659000000.0,
+      "longTermDebt": 3923000000.0,
+      "shortTermDebt": 24100000.0,
+      "equity": 11415300000.0,
+      "sharesOutstanding": 223185689.0,
+      "netMargin": 0.11064200691853023,
+      "totalDebt": 3947100000.0,
+      "roe": 0.03558382171296418
+    },
+    {
+      "revenue": 3681600000.0,
+      "periodEnd": "2025-09-30",
+      "netIncome": 213800000.0,
+      "eps": 0.95,
+      "taxProvision": 14500000.0,
+      "cash": 5137100000.0,
+      "longTermDebt": 3924600000.0,
+      "shortTermDebt": 13000000.0,
+      "equity": 11665500000.0,
+      "sharesOutstanding": 220516810.0,
+      "netMargin": 0.05807257714037375,
+      "totalDebt": 3937600000.0,
+      "roe": 0.018327547040418328
+    },
+    {
+      "cash": 4431000000.0,
+      "periodEnd": "2025-12-31",
+      "longTermDebt": 3926300000.0,
+      "shortTermDebt": 27700000.0,
+      "equity": 11883900000.0,
+      "sharesOutstanding": 217380912.0,
+      "totalDebt": 3954000000.0
+    },
+    {
+      "revenue": 3529100000.0,
+      "periodEnd": "2026-03-31",
+      "netIncome": 424600000.0,
+      "eps": 1.93,
+      "taxProvision": 68900000.0,
+      "cash": 4054000000.0,
+      "longTermDebt": 3927700000.0,
+      "shortTermDebt": 18200000.0,
+      "equity": 11815300000.0,
+      "sharesOutstanding": 216449333.0,
+      "operatingCashFlow": 187100000.0,
+      "investingCashFlow": -959800000.0,
+      "financingCashFlow": 395700000.0,
+      "dividendsPaid": 173500000.0,
+      "netMargin": 0.12031396106656088,
+      "totalDebt": 3945900000.0,
+      "roe": 0.03593645527409376
+    }
+  ],
+  "holders": {
+    "summary": {
+      "insidersPct": "1.09%",
+      "institutionsPct": "81.09%",
+      "institutionsFloatPct": "81.98%",
+      "institutionsCount": "1249"
+    },
+    "institutional": [
+      {
+        "holder": "Blackrock Inc.",
+        "shares": 20322358.0,
+        "pctOut": 0.073,
+        "value": 2091170669.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Nippon Life Insurance Company",
+        "shares": 18137000.0,
+        "pctOut": 0.0652,
+        "value": 1866297327.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Vanguard Capital Management LLC",
+        "shares": 13474208.0,
+        "pctOut": 0.0484,
+        "value": 1386496023.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Vanguard Portfolio Management LLC",
+        "shares": 11264834.0,
+        "pctOut": 0.0405,
+        "value": 1159151435.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "State Street Corporation",
+        "shares": 10179842.0,
+        "pctOut": 0.0366,
+        "value": 1047505757.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Bank of America Corporation",
+        "shares": 8819452.0,
+        "pctOut": 0.0317,
+        "value": 907521624.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Capital World Investors",
+        "shares": 6026881.0,
+        "pctOut": 0.0217,
+        "value": 620166064.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Charles Schwab Investment Management, Inc.",
+        "shares": 5923936.0,
+        "pctOut": 0.021300001,
+        "value": 609573023.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Geode Capital Management, LLC",
+        "shares": 5660667.0,
+        "pctOut": 0.020299999,
+        "value": 582482642.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Dimensional Fund Advisors LP",
+        "shares": 3886509.0,
+        "pctOut": 0.0139999995,
+        "value": 399921782.0,
+        "reportDate": "2026-03-31 00:00:00"
+      }
+    ],
+    "mutualFund": [
+      {
+        "holder": "VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund",
+        "shares": 6877399.0,
+        "pctOut": 0.0247,
+        "value": 707684367.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Income Fund of America",
+        "shares": 6000000.0,
+        "pctOut": 0.0216,
+        "value": 617400009.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "VANGUARD INDEX FUNDS-Vanguard 500 Index Fund",
+        "shares": 5026875.0,
+        "pctOut": 0.018099999,
+        "value": 517265445.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "VANGUARD INDEX FUNDS-Vanguard Mid-Cap Index Fund",
+        "shares": 4682831.0,
+        "pctOut": 0.0168,
+        "value": 481863317.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "iShares Trust-iShares Select Dividend ETF",
+        "shares": 2816137.0,
+        "pctOut": 0.0101,
+        "value": 289780501.0,
+        "reportDate": "2026-04-30 00:00:00"
+      },
+      {
+        "holder": "iShares Trust-iShares Core S&P 500 ETF",
+        "shares": 2558866.0,
+        "pctOut": 0.0092,
+        "value": 263307315.0,
+        "reportDate": "2026-04-30 00:00:00"
+      },
+      {
+        "holder": "Fidelity Concord Street Trust-Fidelity 500 Index Fund",
+        "shares": 2535225.0,
+        "pctOut": 0.0091,
+        "value": 260874656.0,
+        "reportDate": "2026-04-30 00:00:00"
+      },
+      {
+        "holder": "SPDR S&P 500 ETF TRUST-State Street SPDR S&P 500 ETF Trust",
+        "shares": 2349493.0,
+        "pctOut": 0.0084,
+        "value": 241762833.0,
+        "reportDate": "2026-04-30 00:00:00"
+      },
+      {
+        "holder": "VANGUARD INDEX FUNDS-Vanguard Value Index Fund",
+        "shares": 2005907.0,
+        "pctOut": 0.0072000003,
+        "value": 206407833.0,
+        "reportDate": "2026-03-31 00:00:00"
+      },
+      {
+        "holder": "Invesco Exchange-Traded Fund Trust-Invesco S&P 500 Equal Weight ETF",
+        "shares": 1913315.0,
+        "pctOut": 0.0069,
+        "value": 196880116.0,
+        "reportDate": "2026-04-30 00:00:00"
+      }
+    ]
+  },
   "meta": {
     "source": "yfinance",
-    "lastUpdated": "2026-05-30T18:36:07.532560+00:00"
+    "lastUpdated": "2026-06-02T12:19:53.143116+00:00",
+    "edgar": {
+      "cik": "0001126328",
+      "fetchedAt": "2026-06-02T12:19:53.910627+00:00"
+    }
   },
   "tags": [
     "asset-management",

@@ -123,6 +123,8 @@ def main(argv: list[str] | None = None) -> int:
                    help="Comma-separated universe names under pipeline/universes/ (default: us,in)")
     p.add_argument("--tickers", default=None,
                    help="Comma-separated yfinance tickers, overrides --universe")
+    p.add_argument("--tickers-file", default=None,
+                   help="Path to a file of yfinance tickers (one per line, '#' comments). Overrides --universe.")
     p.add_argument("--limit", type=int, default=None, help="Stop after N tickers (debugging)")
     p.add_argument("--workers", type=int, default=4, help="Parallel fetches (default 4)")
     p.add_argument("--skip-existing", action="store_true",
@@ -133,6 +135,12 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.tickers:
         tickers = [t.strip() for t in args.tickers.split(",") if t.strip()]
+    elif args.tickers_file:
+        tickers = []
+        for line in Path(args.tickers_file).read_text().splitlines():
+            s = line.split("#", 1)[0].strip()
+            if s:
+                tickers.append(s)
     else:
         tickers = []
         for u in args.universe.split(","):

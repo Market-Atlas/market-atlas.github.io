@@ -6,15 +6,357 @@
   "sector": "Energy",
   "industry": "Oil & Gas Equipment & Services",
   "currency": "INR",
+  "website": "https://www.aegisvopak.com",
+  "description": "Aegis Vopak Terminals Limited engages in the business of storage and terminalling facilities for LPG and chemical products in India. The company operates through Gas Terminal Division and Liquid Terminal Division segments. It is involved in the storage and handling of liquified petroleum gas, oil, liquid chemical, petrochemical, gas, petroleum, bitumen, and vegetable oil products. The company was formerly known as Aegis LPG Logistics (Pipavav) Limited and changed its name to Aegis Vopak Terminals Limited in August 2021. Aegis Vopak Terminals Limited was incorporated in 2013 and is based in Mumbai, India.",
+  "employees": 368.0,
+  "headquarters": "Mumbai, India",
   "marketCap": {
-    "value": 217343623168.0,
+    "value": 216512626688.0,
     "currency": "INR",
-    "asOf": "2026-05-30"
+    "asOf": "2026-06-02"
   },
   "price": {
-    "value": 196.16,
+    "value": 195.41,
     "currency": "INR",
-    "asOf": "2026-05-30"
+    "asOf": "2026-06-02",
+    "dayChangePct": 0.013116957254506595,
+    "monthChangePct": 0.007579670012365016,
+    "sparkline": [
+      {
+        "i": 0,
+        "c": 195.0
+      },
+      {
+        "i": 1,
+        "c": 193.12
+      },
+      {
+        "i": 2,
+        "c": 188.14
+      },
+      {
+        "i": 3,
+        "c": 198.3
+      },
+      {
+        "i": 4,
+        "c": 199.08
+      },
+      {
+        "i": 5,
+        "c": 194.58
+      },
+      {
+        "i": 6,
+        "c": 189.62
+      },
+      {
+        "i": 7,
+        "c": 189.62
+      },
+      {
+        "i": 8,
+        "c": 193.94
+      },
+      {
+        "i": 9,
+        "c": 194.91
+      },
+      {
+        "i": 10,
+        "c": 201.06
+      },
+      {
+        "i": 11,
+        "c": 216.12
+      },
+      {
+        "i": 12,
+        "c": 211.24
+      },
+      {
+        "i": 13,
+        "c": 212.38
+      },
+      {
+        "i": 14,
+        "c": 202.67
+      },
+      {
+        "i": 15,
+        "c": 197.18
+      },
+      {
+        "i": 16,
+        "c": 200.17
+      },
+      {
+        "i": 17,
+        "c": 197.72
+      },
+      {
+        "i": 18,
+        "c": 197.29
+      },
+      {
+        "i": 19,
+        "c": 199.1
+      },
+      {
+        "i": 20,
+        "c": 199.65
+      },
+      {
+        "i": 21,
+        "c": 205.05
+      },
+      {
+        "i": 22,
+        "c": 207.37
+      },
+      {
+        "i": 23,
+        "c": 207.88
+      },
+      {
+        "i": 24,
+        "c": 208.33
+      },
+      {
+        "i": 25,
+        "c": 205.76
+      },
+      {
+        "i": 26,
+        "c": 205.76
+      },
+      {
+        "i": 27,
+        "c": 196.16
+      },
+      {
+        "i": 28,
+        "c": 192.88
+      },
+      {
+        "i": 29,
+        "c": 195.41
+      }
+    ],
+    "history": [
+      {
+        "d": "2025-06-02",
+        "c": 256.99
+      },
+      {
+        "d": "2025-06-09",
+        "c": 235.7
+      },
+      {
+        "d": "2025-06-16",
+        "c": 245.13
+      },
+      {
+        "d": "2025-06-23",
+        "c": 254.8
+      },
+      {
+        "d": "2025-06-30",
+        "c": 240.48
+      },
+      {
+        "d": "2025-07-07",
+        "c": 260.1
+      },
+      {
+        "d": "2025-07-14",
+        "c": 291.05
+      },
+      {
+        "d": "2025-07-21",
+        "c": 256.87
+      },
+      {
+        "d": "2025-07-28",
+        "c": 228.92
+      },
+      {
+        "d": "2025-08-04",
+        "c": 246.87
+      },
+      {
+        "d": "2025-08-11",
+        "c": 239.76
+      },
+      {
+        "d": "2025-08-18",
+        "c": 253.58
+      },
+      {
+        "d": "2025-08-25",
+        "c": 247.77
+      },
+      {
+        "d": "2025-09-01",
+        "c": 237.05
+      },
+      {
+        "d": "2025-09-08",
+        "c": 247.09
+      },
+      {
+        "d": "2025-09-15",
+        "c": 242.47
+      },
+      {
+        "d": "2025-09-22",
+        "c": 243.51
+      },
+      {
+        "d": "2025-09-29",
+        "c": 283.4
+      },
+      {
+        "d": "2025-10-06",
+        "c": 276.7
+      },
+      {
+        "d": "2025-10-13",
+        "c": 279.65
+      },
+      {
+        "d": "2025-10-20",
+        "c": 280.25
+      },
+      {
+        "d": "2025-10-27",
+        "c": 278.95
+      },
+      {
+        "d": "2025-11-03",
+        "c": 260.15
+      },
+      {
+        "d": "2025-11-10",
+        "c": 270.85
+      },
+      {
+        "d": "2025-11-17",
+        "c": 260.85
+      },
+      {
+        "d": "2025-11-24",
+        "c": 260.55
+      },
+      {
+        "d": "2025-12-01",
+        "c": 259.6
+      },
+      {
+        "d": "2025-12-08",
+        "c": 249.8
+      },
+      {
+        "d": "2025-12-15",
+        "c": 261.15
+      },
+      {
+        "d": "2025-12-22",
+        "c": 248.0
+      },
+      {
+        "d": "2025-12-29",
+        "c": 248.82
+      },
+      {
+        "d": "2026-01-05",
+        "c": 228.97
+      },
+      {
+        "d": "2026-01-12",
+        "c": 217.62
+      },
+      {
+        "d": "2026-01-19",
+        "c": 201.22
+      },
+      {
+        "d": "2026-01-26",
+        "c": 234.63
+      },
+      {
+        "d": "2026-02-02",
+        "c": 217.81
+      },
+      {
+        "d": "2026-02-09",
+        "c": 214.25
+      },
+      {
+        "d": "2026-02-16",
+        "c": 210.78
+      },
+      {
+        "d": "2026-02-23",
+        "c": 228.07
+      },
+      {
+        "d": "2026-03-02",
+        "c": 199.62
+      },
+      {
+        "d": "2026-03-09",
+        "c": 192.81
+      },
+      {
+        "d": "2026-03-16",
+        "c": 178.54
+      },
+      {
+        "d": "2026-03-23",
+        "c": 171.89
+      },
+      {
+        "d": "2026-03-30",
+        "c": 169.64
+      },
+      {
+        "d": "2026-04-06",
+        "c": 189.99
+      },
+      {
+        "d": "2026-04-13",
+        "c": 200.76
+      },
+      {
+        "d": "2026-04-20",
+        "c": 188.14
+      },
+      {
+        "d": "2026-04-27",
+        "c": 189.62
+      },
+      {
+        "d": "2026-05-04",
+        "c": 211.24
+      },
+      {
+        "d": "2026-05-11",
+        "c": 197.72
+      },
+      {
+        "d": "2026-05-18",
+        "c": 207.37
+      },
+      {
+        "d": "2026-05-25",
+        "c": 196.16
+      },
+      {
+        "d": "2026-06-01",
+        "c": 195.41
+      }
+    ]
   },
   "fundamentals": {
     "revenue": 9230782000.0,
@@ -24,7 +366,10 @@
     "freeCashFlow": 5579000.0,
     "totalDebt": 37309269000.0,
     "cash": 3022789000.0,
-    "sharesOutstanding": 1107991489.0
+    "sharesOutstanding": 1107991489.0,
+    "peRatio": 68.56492,
+    "priceToBook": 5.0424485,
+    "dividendYield": null
   },
   "ratios": {
     "roe": 0.07236084338900853,
@@ -43,8 +388,20 @@
       "netIncome": null,
       "eps": null,
       "freeCashFlow": null,
+      "operatingCashFlow": null,
+      "investingCashFlow": null,
+      "financingCashFlow": null,
+      "capex": null,
+      "dividendsPaid": 0.0,
+      "interestExpense": null,
+      "depreciation": null,
+      "taxProvision": null,
+      "pretaxIncome": null,
       "totalDebt": 981580000.0,
       "cash": 68600000.0,
+      "accountsReceivable": 19770000.0,
+      "inventory": 1910000.0,
+      "accountsPayable": 3390000.0,
       "sharesOutstanding": 1107991489.0,
       "grossMargin": null,
       "operatingMargin": null,
@@ -60,8 +417,20 @@
       "netIncome": -750000.0,
       "eps": -0.000677,
       "freeCashFlow": -64470000.0,
+      "operatingCashFlow": 1724860000.0,
+      "investingCashFlow": -17856130000.0,
+      "financingCashFlow": 16291700000.0,
+      "capex": -1789330000.0,
+      "dividendsPaid": 0.0,
+      "interestExpense": 1376060000.0,
+      "depreciation": 912020000.0,
+      "taxProvision": 26720000.0,
+      "pretaxIncome": 25970000.0,
       "totalDebt": 23738470000.0,
       "cash": 229030000.0,
+      "accountsReceivable": 699050000.0,
+      "inventory": 79800000.0,
+      "accountsPayable": 271130000.0,
       "sharesOutstanding": 1107991489.0,
       "grossMargin": 0.7322772916124212,
       "operatingMargin": 0.3933354465488549,
@@ -77,8 +446,20 @@
       "netIncome": 865440000.0,
       "eps": 0.781089,
       "freeCashFlow": -3255250000.0,
+      "operatingCashFlow": 3372080000.0,
+      "investingCashFlow": -8574790000.0,
+      "financingCashFlow": 6029390000.0,
+      "capex": -6627330000.0,
+      "dividendsPaid": -328620000.0,
+      "interestExpense": 1692660000.0,
+      "depreciation": 1139910000.0,
+      "taxProvision": 344740000.0,
+      "pretaxIncome": 1210180000.0,
       "totalDebt": 32729460000.0,
       "cash": 1055710000.0,
+      "accountsReceivable": 1314080000.0,
+      "inventory": 60260000.0,
+      "accountsPayable": 142630000.0,
       "sharesOutstanding": 1107991489.0,
       "grossMargin": 0.7831159514455436,
       "operatingMargin": 0.5088480688406636,
@@ -94,8 +475,20 @@
       "netIncome": 2004367000.0,
       "eps": 1.809009,
       "freeCashFlow": 4405642000.0,
+      "operatingCashFlow": 5763329000.0,
+      "investingCashFlow": -3810854000.0,
+      "financingCashFlow": 3853074000.0,
+      "capex": -1357687000.0,
+      "dividendsPaid": null,
+      "interestExpense": 1934117000.0,
+      "depreciation": 1476662000.0,
+      "taxProvision": 405532000.0,
+      "pretaxIncome": 2653945000.0,
       "totalDebt": null,
       "cash": null,
+      "accountsReceivable": null,
+      "inventory": null,
+      "accountsPayable": null,
       "sharesOutstanding": null,
       "grossMargin": 0.8128941510146639,
       "operatingMargin": 0.5412671701308178,
@@ -111,8 +504,20 @@
       "netIncome": 3104693000.0,
       "eps": 2.85,
       "freeCashFlow": 5579000.0,
+      "operatingCashFlow": 7019637000.0,
+      "investingCashFlow": -30774298000.0,
+      "financingCashFlow": 19564568000.0,
+      "capex": -7014058000.0,
+      "dividendsPaid": -1861611000.0,
+      "interestExpense": 1097255000.0,
+      "depreciation": 2077379000.0,
+      "taxProvision": 645333000.0,
+      "pretaxIncome": 4064546000.0,
       "totalDebt": 37309269000.0,
       "cash": 3022789000.0,
+      "accountsReceivable": 1861830000.0,
+      "inventory": 176019000.0,
+      "accountsPayable": 275845000.0,
       "sharesOutstanding": 1107991489.0,
       "grossMargin": 0.7749509196512279,
       "operatingMargin": 0.5186067659273071,
@@ -121,11 +526,127 @@
       "roic": 0.059678957198190954
     }
   ],
+  "quarterlyFinancials": [
+    {
+      "periodEnd": "2024-09-30",
+      "revenue": null,
+      "operatingIncome": null,
+      "operatingMargin": null,
+      "interestExpense": null,
+      "depreciation": 316442000.0,
+      "pretaxIncome": null,
+      "taxProvision": null,
+      "taxRate": null,
+      "netIncome": null,
+      "netMargin": null,
+      "eps": null,
+      "operatingCashFlow": 1143692000.0
+    },
+    {
+      "periodEnd": "2024-12-31",
+      "revenue": null,
+      "operatingIncome": null,
+      "operatingMargin": null,
+      "interestExpense": null,
+      "depreciation": 316558000.0,
+      "pretaxIncome": null,
+      "taxProvision": null,
+      "taxRate": null,
+      "netIncome": null,
+      "netMargin": null,
+      "eps": null,
+      "operatingCashFlow": 1070428000.0
+    },
+    {
+      "periodEnd": "2025-03-31",
+      "revenue": 1991692000.0,
+      "operatingIncome": 1072455000.0,
+      "operatingMargin": 0.5384642806217026,
+      "interestExpense": 480841000.0,
+      "depreciation": 530642000.0,
+      "pretaxIncome": 752014000.0,
+      "taxProvision": 111222000.0,
+      "taxRate": 0.1478988423087868,
+      "netIncome": 583942000.0,
+      "netMargin": 0.29318890671850867,
+      "eps": 0.527028,
+      "operatingCashFlow": 2457479000.0
+    },
+    {
+      "periodEnd": "2025-06-30",
+      "revenue": 1640110000.0,
+      "operatingIncome": 835591000.0,
+      "operatingMargin": 0.5094725353787246,
+      "interestExpense": 300853000.0,
+      "depreciation": null,
+      "pretaxIncome": 628079000.0,
+      "taxProvision": 150902000.0,
+      "taxRate": 0.24025958517957136,
+      "netIncome": 477177000.0,
+      "netMargin": 0.2909420709586552,
+      "eps": 0.46,
+      "operatingCashFlow": null
+    },
+    {
+      "periodEnd": "2025-09-30",
+      "revenue": 1876290000.0,
+      "operatingIncome": 879249000.0,
+      "operatingMargin": 0.4686103960475193,
+      "interestExpense": 183677000.0,
+      "depreciation": null,
+      "pretaxIncome": 710111000.0,
+      "taxProvision": 170719000.0,
+      "taxRate": 0.24041171028191366,
+      "netIncome": 539392000.0,
+      "netMargin": 0.28747794850476205,
+      "eps": 0.49,
+      "operatingCashFlow": null
+    },
+    {
+      "periodEnd": "2025-12-31",
+      "revenue": 1974892000.0,
+      "operatingIncome": 956967000.0,
+      "operatingMargin": 0.48456675099195295,
+      "interestExpense": 195238000.0,
+      "depreciation": null,
+      "pretaxIncome": 790996000.0,
+      "taxProvision": 175859000.0,
+      "taxRate": 0.2223260294615902,
+      "netIncome": 615138000.0,
+      "netMargin": 0.3114793112737304,
+      "eps": 0.56,
+      "operatingCashFlow": null
+    },
+    {
+      "periodEnd": "2026-03-31",
+      "revenue": 2434517000.0,
+      "operatingIncome": 1238053000.0,
+      "operatingMargin": 0.5085415300036927,
+      "interestExpense": 410567000.0,
+      "depreciation": null,
+      "pretaxIncome": 870988000.0,
+      "taxProvision": 132251000.0,
+      "taxRate": 0.15184020904995246,
+      "netIncome": 686430000.0,
+      "netMargin": 0.28195736567048,
+      "eps": 0.62,
+      "operatingCashFlow": null
+    }
+  ],
+  "holders": {
+    "summary": {
+      "insidersPct": "87.35%",
+      "institutionsPct": "5.21%",
+      "institutionsFloatPct": "41.22%",
+      "institutionsCount": "23"
+    },
+    "institutional": [],
+    "mutualFund": []
+  },
   "meta": {
     "source": "yfinance",
-    "lastUpdated": "2026-05-30T18:36:49.416759+00:00"
+    "lastUpdated": "2026-06-02T12:07:00.016182+00:00"
   },
-  "website": "https://www.aegisvopak.com",
   "tags": [
     "country-in",
     "energy",

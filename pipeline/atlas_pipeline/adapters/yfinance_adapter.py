@@ -7,6 +7,8 @@ We keep all values in the company's reporting currency — never convert.
 from __future__ import annotations
 
 import math
+import random
+import time
 from datetime import datetime, timezone
 from typing import Any
 
@@ -117,14 +119,24 @@ def fetch_company(yticker: str) -> dict[str, Any] | None:
     """Return a dict that matches schemas/company.schema.json, or None on failure."""
     t = yf.Ticker(yticker)
 
-    try:
-        info: dict[str, Any] = t.info or {}
-    except Exception:  # pragma: no cover - network errors
+    # `info` is the gate. Yahoo aggressively rate-limits when too many parallel
+    # callers hit it; retry a few times with jittered backoff so transient 429s
+    # don't show up as 'empty' in the summary.
+    info: dict[str, Any] = {}
+    for attempt in range(4):
+        try:
+            info = t.info or {}
+            if info:
+                break
+        except Exception:
+            info = {}
+        # 1.5s, 3s, 6s — plus per-thread jitter to avoid all workers retrying in lockstep
+        time.sleep(1.5 * (2 ** attempt) + random.uniform(0, 0.5))
+    if not info:
         return None
-    if not info or info.get("quoteType") not in (None, "EQUITY"):
+    if info.get("quoteType") not in (None, "EQUITY"):
         # Skip ETFs/funds for the company adapter
-        if info.get("quoteType") and info.get("quoteType") != "EQUITY":
-            return None
+        return None
 
     listing = _infer_listing(yticker)
     currency = (info.get("financialCurrency") or info.get("currency")
