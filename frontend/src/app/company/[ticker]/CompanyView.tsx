@@ -187,11 +187,20 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
         </div>
       </header>
 
-      {/* About — only renders when the pipeline captured a description */}
+      {/* About — collapsed by default so the KPIs/ratios are above the fold,
+          especially on mobile. <details> handles open/close natively. */}
       {(company.description || company.headquarters || company.employees) && (
-        <section className="rounded-lg border border-atlas-border bg-atlas-surface p-4">
-          <div className="flex flex-wrap items-baseline justify-between gap-3">
-            <h2 className="text-sm font-medium">About {company.name}</h2>
+        <details className="group rounded-lg border border-atlas-border bg-atlas-surface">
+          <summary
+            className="flex cursor-pointer list-none items-center justify-between gap-3 px-4 py-2.5 text-sm hover:bg-atlas-border/30"
+          >
+            <span className="font-medium">About {company.name}</span>
+            <span className="flex items-center gap-3 text-xs text-atlas-muted">
+              {company.headquarters && <span className="hidden sm:inline">{company.headquarters}</span>}
+              <span className="text-atlas-muted transition-transform group-open:rotate-180" aria-hidden>▾</span>
+            </span>
+          </summary>
+          <div className="space-y-2 border-t border-atlas-border px-4 py-3">
             <div className="flex flex-wrap items-center gap-3 text-xs text-atlas-muted">
               {company.headquarters && <span>📍 {company.headquarters}</span>}
               {company.employees != null && (
@@ -204,13 +213,13 @@ export default function CompanyView({ company, fx, peers = [] }: { company: Comp
                 </a>
               )}
             </div>
+            {company.description && (
+              <p className="max-w-4xl text-sm leading-relaxed text-atlas-muted">
+                {company.description}
+              </p>
+            )}
           </div>
-          {company.description && (
-            <p className="mt-2 max-w-4xl text-sm leading-relaxed text-atlas-muted">
-              {company.description}
-            </p>
-          )}
-        </section>
+        </details>
       )}
 
       {/* KPI strip */}
